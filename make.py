@@ -4,7 +4,7 @@ import time
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3 import Retry
 
-TABLE_DISCLAIMER = "## This is a {lng} most popular repository list sorted by number of stars"
+TABLE_DISCLAIMER = "## This is a most popular repository list for {lng} sorted by number of stars"
 TABLE_HEADER = "|STARS|FORKS|ISSUES|NAME|DESCRIPTION|"
 TABLE_SEPARATOR = "| --- | --- | --- | --- | --- |"
 TABLE_ITEM_MASK = "| {n_stars} | {n_forks} | {n_issues} | [{name}]({url}) | {description} |"
@@ -75,7 +75,7 @@ def generate_readme(language: str, info_provider: RepositoryInformationProvider)
     :param language: programming language such as python or go
     :return: text in markdown format
     """
-    result = [TABLE_DISCLAIMER.format(lng=language.capitalize()),
+    result = [TABLE_DISCLAIMER.format(lng=language),
               TABLE_HEADER,
               TABLE_SEPARATOR]
 
