@@ -60,8 +60,11 @@ class RepositoryInformationProvider:
                 # obey rate limit
                 if response.headers["X-RateLimit-Remaining"] == '0':
                     time_to_sleep = 1 + int(response.headers["X-RateLimit-Reset"]) - time.time()
-                    print(f"rate limit exceeded, sleeping ~{int(time_to_sleep)} seconds")
-                    time.sleep(time_to_sleep)
+
+                    if time_to_sleep > 0:
+                        print(f"rate limit exceeded, sleeping ~{int(time_to_sleep)} seconds")
+                        time.sleep(time_to_sleep)
+
                     return self.get_next(language, n_page)
 
                 raise WrongReturnCodeException(response.text)
@@ -73,6 +76,7 @@ def generate_readme(language: str, info_provider: RepositoryInformationProvider)
     """
     generates a README markdown file with a table of most popular repositories for a given language
     :param language: programming language such as python or go
+    :param info_provider: github repository info provider
     :return: text in markdown format
     """
     result = [TABLE_DISCLAIMER.format(lng=language),
