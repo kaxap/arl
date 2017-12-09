@@ -21,7 +21,8 @@ KEY_URL = "html_url"
 KEY_ITEMS = "items"
 
 languages = ["Python", "Java", "C", "CPP", "SQL", "Node", "CSharp", "PHP", "Ruby", "TypeScript", "Swift", "ObjectiveC",
-             "VB.net", "Assembly", "R", "Perl", "MATLAB", "Go", "Scala", "Groovy", "Lua", "Haskell", "CoffeeScript"]
+             "VB.net", "Assembly", "R", "Perl", "MATLAB", "Go", "Scala", "Groovy", "Lua", "Haskell", "CoffeeScript",
+             "Clojure"]
 
 
 class WrongReturnCodeException(Exception):

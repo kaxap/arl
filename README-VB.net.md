@@ -3,13 +3,13 @@
 | --- | --- | --- | --- | --- |
 | 815 | 237 | 54 | [VBA-Web](https://github.com/VBA-tools/VBA-Web) | VBA-Web: Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web |
 | 741 | 36 | 23 | [CompactGUI](https://github.com/ImminentFate/CompactGUI) | Visual Interface for the Windows 10 Compact Function |
-| 394 | 50 | 64 | [staxrip](https://github.com/stax76/staxrip) | StaxRip is a video encoding app for Windows with a unrivaled feature set and usability. |
+| 395 | 50 | 64 | [staxrip](https://github.com/stax76/staxrip) | StaxRip is a video encoding app for Windows with a unrivaled feature set and usability. |
 | 389 | 240 | 42 | [Office-IT-Pro-Deployment-Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts) |  A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators.  If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository |
-| 368 | 20 | 2 | [excel-messenger](https://github.com/tristancalderbank/excel-messenger) | A silly local group messaging app where the server and all clients are excel sheets. |
+| 369 | 20 | 2 | [excel-messenger](https://github.com/tristancalderbank/excel-messenger) | A silly local group messaging app where the server and all clients are excel sheets. |
 | 344 | 85 | 22 | [VBA-JSON](https://github.com/VBA-tools/VBA-JSON) | JSON conversion and parsing for VBA |
 | 339 | 41 | 1 | [ExcelStuff](https://github.com/AyrA/ExcelStuff) | Various Tools in Excel |
 | 303 | 35 | 1 | [donkey.bas](https://github.com/coding-horror/donkey.bas) | It's freaking donkey.bas |
-| 270 | 194 | 0 | [books](https://github.com/mymmsc/books) | 常用书籍 |
+| 271 | 196 | 0 | [books](https://github.com/mymmsc/books) | 常用书籍 |
 | 256 | 12 | 25 | [vibreoffice](https://github.com/seanyeh/vibreoffice) | Vi Mode for LibreOffice/OpenOffice |
 | 226 | 86 | 9 | [MacroShop](https://github.com/khr0x40sh/MacroShop) | Collection of scripts to aid in delivering payloads via Office Macros.  Most are python.  See http://khr0x40sh.wordpress.com for details. |
 | 214 | 67 | 1 | [MaliciousMacroGenerator](https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator) | Malicious Macro Generator |
@@ -19,14 +19,14 @@
 | 174 | 46 | 2 | [fbc](https://github.com/freebasic/fbc) | FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, unsigned data types, inline assembly, object orientation, and many others. |
 | 164 | 63 | 12 | [SteamCMD-GUI](https://github.com/DioJoestar/SteamCMD-GUI) | Graphical interface for SteamCMD |
 | 154 | 31 | 2 | [StarFighters](https://github.com/Cn33liz/StarFighters) | A JavaScript and VBScript Based Empire Launcher, which runs within their own embedded PowerShell Host. |
-| 151 | 30 | 48 | [WakeOnLAN](https://github.com/basildane/WakeOnLAN) | Wake On LAN, WakeOnLAN, shutdown software for Windows. A powerful WOL, ping, shutdown, GUI application. |
+| 152 | 30 | 48 | [WakeOnLAN](https://github.com/basildane/WakeOnLAN) | Wake On LAN, WakeOnLAN, shutdown software for Windows. A powerful WOL, ping, shutdown, GUI application. |
 | 146 | 13 | 15 | [MetroSteamSettings](https://github.com/SoapyHamHocks/MetroSteamSettings) | None |
-| 144 | 62 | 34 | [SLAM](https://github.com/SilentSys/SLAM) | Source Live Audio Mixer |
+| 145 | 62 | 34 | [SLAM](https://github.com/SilentSys/SLAM) | Source Live Audio Mixer |
 | 134 | 67 | 8 | [PhotoDemon](https://github.com/tannerhelland/PhotoDemon) | A free, portable photo editor focused on pro-grade features, high performance, and maximum usability. |
-| 134 | 25 | 4 | [Winapp2](https://github.com/MoscaDotTo/Winapp2) | A database of extended cleaning routines for popular Windows PC based maintenance software.  |
+| 134 | 25 | 8 | [Winapp2](https://github.com/MoscaDotTo/Winapp2) | A database of extended cleaning routines for popular Windows PC based maintenance software.  |
 | 130 | 23 | 5 | [Excel2LaTeX](https://github.com/krlmlr/Excel2LaTeX) | The Excel add-in for creating LaTeX tables |
 | 128 | 33 | 3 | [XOREncryption](https://github.com/KyleBanks/XOREncryption) | XOR encryption implementations for several languages. |
-| 126 | 73 | 0 | [hazedumper](https://github.com/frk1/hazedumper) | up to date csgo offsets and hazedumper config |
+| 126 | 74 | 0 | [hazedumper](https://github.com/frk1/hazedumper) | up to date csgo offsets and hazedumper config |
 | 123 | 92 | 66 | [RemoteControlServer](https://github.com/Steppschuh/RemoteControlServer) | Remote Control Server |
 | 117 | 95 | 0 | [Crypter](https://github.com/malwares/Crypter) | Windows Crypter |
 | 115 | 35 | 0 | [tkinter-designer](https://github.com/cdhigh/tkinter-designer) | A Gui Designer for Tkinter of Python embedding in VB6, Muliti-Language(English Included) supported. |
@@ -39,11 +39,11 @@
 | 94 | 22 | 1 | [Ariawase](https://github.com/vbaidiot/Ariawase) | Ariawase is free library for VBA cowboys. |
 | 94 | 35 | 2 | [Excel-VBA-Productivity-Libraries](https://github.com/emilefyon/Excel-VBA-Productivity-Libraries) | A set of libraries in order to increase your productivity using Excel and VBA |
 | 90 | 14 | 2 | [vbs-ad-health-report](https://github.com/aikoncwd/vbs-ad-health-report) | VBS Script that check's your Active Directory Health status and report to e-mail |
-| 87 | 1 | 0 | [LAMP-Docker](https://github.com/Mr-Linus/LAMP-Docker) | None |
+| 88 | 1 | 0 | [LAMP-Docker](https://github.com/Mr-Linus/LAMP-Docker) | None |
 | 86 | 30 | 0 | [SysAnalyzer](https://github.com/dzzie/SysAnalyzer) | Automated malcode analysis system - read more -> |
 | 86 | 0 | 0 | [mRemote3G](https://github.com/kmscode/mRemote3G) | Use mRemoteNG instead. |
 | 85 | 54 | 15 | [Grbl-Panel](https://github.com/gerritv/Grbl-Panel) | A control panel for Grbl |
-| 84 | 26 | 0 | [pdfstreamdumper](https://github.com/dzzie/pdfstreamdumper) | research tool for the analysis of malicious pdf documents. make sure to run the installer first to get all of the 3rd party dlls installed correctly. |
+| 85 | 26 | 0 | [pdfstreamdumper](https://github.com/dzzie/pdfstreamdumper) | research tool for the analysis of malicious pdf documents. make sure to run the installer first to get all of the 3rd party dlls installed correctly. |
 | 84 | 17 | 6 | [PAL](https://github.com/clinthuffman/PAL) | Performance Analysis of Logs (PAL) tool |
 | 78 | 110 | 1 | [Ember-MM-Newscraper](https://github.com/DanCooper/Ember-MM-Newscraper) | New Ember Media Manager - The all in one media manager for Kodi and other media centers |
 | 77 | 32 | 1 | [VDI](https://github.com/cluberti/VDI) | Repository for VDI scripts |
@@ -59,24 +59,24 @@
 | 65 | 33 | 0 | [Unpackers](https://github.com/Exidous/Unpackers) | Collection of Compressor and Crypter unpackers |
 | 65 | 44 | 1 | [LiveAddressSamples](https://github.com/smartystreets/LiveAddressSamples) | Sample code for using SmartyStreets APIs in various programming languages. |
 | 63 | 19 | 20 | [DaS-PC-MPChan](https://github.com/Wulf2k/DaS-PC-MPChan) | None |
-| 62 | 5 | 0 | [display-drivers-uninstaller](https://github.com/Wagnard/display-drivers-uninstaller) | Display Driver Uninstaller (DDU) a driver removal utility / cleaner utility |
+| 63 | 5 | 0 | [display-drivers-uninstaller](https://github.com/Wagnard/display-drivers-uninstaller) | Display Driver Uninstaller (DDU) a driver removal utility / cleaner utility |
 | 62 | 15 | 0 | [ExcelVBA](https://github.com/taxbender/ExcelVBA) | A library of Excel VBA functions and routines I use in projects |
 | 59 | 69 | 2 | [PlasmaRAT](https://github.com/mwsrc/PlasmaRAT) | Remote Access Trojan(RAT), Miner, DDoS |
 | 59 | 22 | 3 | [VBAToolKit](https://github.com/jpimbert/VBAToolKit) | Toolkit for quality development with Excel VBA |
 | 58 | 11 | 4 | [DotNetAnalyzers](https://github.com/DotNetAnalyzers/DotNetAnalyzers) | This project is for the community to make a common code base of .NET code analyzers using the new VS14 code analyzer functionality. |
 | 58 | 26 | 0 | [sn0wbreeze](https://github.com/iH8sn0w/sn0wbreeze) | A Windows .NET GUI Wrapper for xpwn. |
+| 58 | 22 | 11 | [NHLGames](https://github.com/NHLGames/NHLGames) | Windows front end for watching NHL games |
 | 57 | 24 | 2 | [excel-geocoding-tool](https://github.com/maxrice/excel-geocoding-tool) | Easy to use Geocoding tool for Excel. |
-| 57 | 22 | 11 | [NHLGames](https://github.com/NHLGames/NHLGames) | Windows front end for watching NHL games |
 | 56 | 27 | 8 | [case-apps](https://github.com/WeConnect/case-apps) | CASE Apps Open Sourced! |
 | 55 | 29 | 0 | [RevitTrainingMaterial](https://github.com/ADN-DevTech/RevitTrainingMaterial) | Autodesk Revit Training material |
-| 53 | 12 | 12 | [One-Click-Miner](https://github.com/vertcoin/One-Click-Miner) | Interface to easily download and control miner software for CPU's and AMD/Nvidia GPU's.  Also has integrated P2Pool functionality. |
+| 54 | 13 | 15 | [One-Click-Miner](https://github.com/vertcoin/One-Click-Miner) | Interface to easily download and control miner software for CPU's and AMD/Nvidia GPU's.  Also has integrated P2Pool functionality. |
 | 52 | 11 | 6 | [VBEX](https://github.com/rubberduck203/VBEX) | VBA Extension Library |
 | 52 | 36 | 1 | [api-examples](https://github.com/plesk/api-examples) | Plesk API-RPC usage examples |
 | 50 | 30 | 1 | [mono-basic](https://github.com/mono/mono-basic) | Visual Basic Compiler and Runtime |
 | 49 | 24 | 3 | [dwsim3](https://github.com/DanWBR/dwsim3) | DWSIM - Open Source Chemical Process Simulator |
 | 49 | 31 | 1 | [WindowsApplication1](https://github.com/kjanku1/WindowsApplication1) | Android adb touchscreen control |
 | 47 | 16 | 0 | [PokemonGameEditor](https://github.com/Gamer2020/PokemonGameEditor) | An all in one tool started in 2010 by Gamer2020 for hacking the Game Boy Advanced Pokemon games. |
-| 47 | 19 | 11 | [EVE-IPH](https://github.com/EVEIPH/EVE-IPH) | Code for the EVE Isk per Hour program |
+| 47 | 20 | 11 | [EVE-IPH](https://github.com/EVEIPH/EVE-IPH) | Code for the EVE Isk per Hour program |
 | 46 | 11 | 0 | [remote_lookup](https://github.com/fireeye/remote_lookup) | Resolves DLL API entrypoints for a process w/ remote query capabilities. |
 | 46 | 10 | 26 | [AltiumScriptCentral](https://github.com/mbedded-ninja/AltiumScriptCentral) | A collection of useful Altium scripts written in the Visual Basic scripting language. |
 | 44 | 14 | 0 | [cheat-sheets](https://github.com/FTSRG/cheat-sheets) | Getting started tutorials and cheat sheets for various technologies used in our projects. |
@@ -91,11 +91,11 @@
 | 40 | 7 | 2 | [pafwert](https://github.com/m8urnett/pafwert) | Pafwert - Smart Password Generator |
 | 40 | 6 | 3 | [Ken-Burns-Slideshow](https://github.com/changbowen/Ken-Burns-Slideshow) | Instant, portable, full-screen slideshow application with the Ken Burns effect. |
 | 39 | 11 | 0 | [OX163](https://github.com/heinsega/OX163) | ox163 |
-| 37 | 12 | 1 | [P3D-Legacy](https://github.com/P3D-Legacy/P3D-Legacy) | Legacy repository for the Pokémon3D Visual Basic version |
+| 38 | 12 | 1 | [P3D-Legacy](https://github.com/P3D-Legacy/P3D-Legacy) | Legacy repository for the Pokémon3D Visual Basic version |
 | 37 | 6 | 0 | [MacroJob](https://github.com/JohnLaTwC/MacroJob) | Proof of concept VBA code to add to Normal.dot to put restrictions on Word |
+| 37 | 15 | 0 | [Simple-VBA-functions](https://github.com/VelinGeorgiev/Simple-VBA-functions) | Functions used for Excel and Access reports automation |
 | 36 | 11 | 0 | [RobustPentestMacro](https://github.com/mgeeky/RobustPentestMacro) | This is a rich-featured Visual Basic macro code for use during Penetration Testing assignments, implementing various advanced post-exploitation techniques. |
 | 36 | 16 | 1 | [MacroMeter](https://github.com/Cn33liz/MacroMeter) | VBA Reversed TCP Meterpreter Stager |
-| 36 | 15 | 0 | [Simple-VBA-functions](https://github.com/VelinGeorgiev/Simple-VBA-functions) | Functions used for Excel and Access reports automation |
 | 34 | 28 | 3 | [Beehind](https://github.com/BlackGeekTutorial/Beehind) | A simple XPWN & kloader wrapper written in VB.NET |
 | 34 | 15 | 7 | [vbWidgets](https://github.com/vbRichClient/vbWidgets) | Cairo-based Replacements for the CommonControls, based on the vbRichClient-Framework (www.vbRichClient.com) |
 | 33 | 22 | 2 | [VBA-XML](https://github.com/VBA-tools/VBA-XML) | XML conversion and parsing for VBA |
@@ -131,12 +131,12 @@
 | 26 | 26 | 0 | [AD-Pentest-Script](https://github.com/Twi1ight/AD-Pentest-Script) | Active Directory pentest scripts |
 | 26 | 4 | 0 | [vulndocker](https://github.com/leveryd/vulndocker) | 漏洞靶场平台 |
 | 26 | 12 | 3 | [IPAInstaller-Windows](https://github.com/iMokhles/IPAInstaller-Windows) | ipa installer for windows ( using ideviceinstaller precompiled version for windows ) |
-| 26 | 16 | 2 | [ESPeensy-and-Peensy-Payload-Generator-ESP8266-Teensy-3.5-](https://github.com/Phreak87/ESPeensy-and-Peensy-Payload-Generator-ESP8266-Teensy-3.5-) | Build your own Bad USB Stick for pentesting with wifi and dip switches |
 | 26 | 4 | 0 | [WebDavDelivery](https://github.com/Arno0x/WebDavDelivery) | A WebDAV PROPFIND covert channel to deliver payloads |
 | 26 | 9 | 14 | [StealthBot](https://github.com/stealthbot/StealthBot) | Battle.net (pre-2.0) chat bot written in Visual Basic 6 |
 | 25 | 8 | 1 | [huggle](https://github.com/huggle/huggle) | DEPRECATED - Huggle original repo - Huggle is an anti-vandalism tool for use on Wikipedia and other Wikimedia projects. |
 | 25 | 11 | 0 | [P3D-Legacy-Old](https://github.com/P3D-Legacy/P3D-Legacy-Old) | Old repository. Visit the new one: |
 | 25 | 9 | 0 | [Hack-System](https://github.com/CuteLeon/Hack-System) | [HackSystem/Hack System] 有趣而炫酷的模拟操作系统。An interesting and cool simulation operating system. |
+| 25 | 16 | 2 | [ESPeensy-and-Peensy-Payload-Generator-ESP8266-Teensy-3.5-](https://github.com/Phreak87/ESPeensy-and-Peensy-Payload-Generator-ESP8266-Teensy-3.5-) | Build your own Bad USB Stick for pentesting with wifi and dip switches |
 | 25 | 1 | 0 | [pacellman](https://github.com/spences10/pacellman) | Pac-Man in Excel  |
 | 25 | 8 | 0 | [Tesseract-MICR-OCR](https://github.com/BigPino67/Tesseract-MICR-OCR) | If you use stub and cheque, it might be helpfull |
 | 25 | 7 | 5 | [StardewValleyMM](https://github.com/yuukiw/StardewValleyMM) | None |
@@ -146,13 +146,13 @@
 | 23 | 7 | 4 | [minecraft-server-dashboard](https://github.com/navhaxs/minecraft-server-dashboard) | A pretty frontend for hosting a Minecraft server from home.. |
 | 23 | 6 | 1 | [MigAssistant](https://github.com/sintaxasn/MigAssistant) | The Workstation Migration Assistant is a visual wrapper for Microsoft's User State Migration Tool, designed to simplify the capture / restore process for your end-users, and at the same time being highly configurable so that it can be customised to suit your organisations needs. |
 | 23 | 3 | 0 | [Super-Mario-Clouds](https://github.com/coryarcangel/Super-Mario-Clouds) | Mario broz w/only the clouds |
+| 23 | 12 | 0 | [Cheat-Loader-CSGO](https://github.com/ThaisenPM/Cheat-Loader-CSGO) | Nova Hook is an open source VB.NET cheat loader currently built for CS:GO |
 | 22 | 9 | 0 | [Affordable-AIO-Bot](https://github.com/YuLin12345/Affordable-AIO-Bot) | Affordable AIO Bot, sneaker bot coded in VB.Net. |
 | 22 | 7 | 0 | [AdvancedMCEMapperTool](https://github.com/baijuxavior/AdvancedMCEMapperTool) | Tool for configuring MCE Remotes |
 | 22 | 1 | 0 | [SkypeAdvertRemover](https://github.com/Krutonium/SkypeAdvertRemover) | Removes all those pesky advertisements from Skype |
 | 22 | 2 | 0 | [JavaRa](https://github.com/SingularLabs/JavaRa) | Windows GUI for JRE updating and removal |
 | 22 | 9 | 0 | [adbrute](https://github.com/riyazwalikar/adbrute) | None |
 | 22 | 9 | 4 | [bukkitgui](https://github.com/Bertware/bukkitgui) | The bukkit GUI project - shortened BukkitGUI - is intended to provide server owners with a easy to use, powerful GUI. Except from clearly displaying server information, it also adds some powerful functions, like a task planner, error logger and solver, plugin manager and port forwarder. |
-| 22 | 11 | 0 | [Cheat-Loader-CSGO](https://github.com/ThaisenPM/Cheat-Loader-CSGO) | Nova Hook is an open source VB.NET cheat loader currently built for CS:GO |
 | 21 | 13 | 0 | [ImageToSTLConverter](https://github.com/BloodBlight/ImageToSTLConverter) | None |
 | 21 | 0 | 1 | [webxcel](https://github.com/michaelneu/webxcel) | A REST backend built with plain VBA Microsoft Excel macros. Yes. Macros. |
 | 21 | 12 | 0 | [ScriptsAndAutomationPolicies](https://github.com/N-able/ScriptsAndAutomationPolicies) | Standalone scripts and N-Central automation policies |
@@ -178,7 +178,7 @@
 | 19 | 5 | 3 | [News-Articles](https://github.com/ventrian/News-Articles) | News Articles for DotNetNuke has been helping DotNetNuke administrators to publish articles and blogs to their DotNetNuke portals since 2004.  |
 | 19 | 8 | 1 | [VBScript_DOC2PDF](https://github.com/cxgreat2014/VBScript_DOC2PDF) | 一句话描述：批量转换当前目录及子目录下所有DOC文件到PDF |
 | 19 | 6 | 0 | [VBAMacros](https://github.com/christwellman/VBAMacros) | Macros I use in Outlook, Excel etc to make thigns a little speedier |
-| 18 | 7 | 1 | [crypto_vba](https://github.com/krijnsent/crypto_vba) | An Excel/VBA project to communicate with various cryptocurrency exchanges APIs |
+| 18 | 7 | 2 | [crypto_vba](https://github.com/krijnsent/crypto_vba) | An Excel/VBA project to communicate with various cryptocurrency exchanges APIs |
 | 18 | 2 | 0 | [FutureBlocks](https://github.com/fogleman/FutureBlocks) | Tetris clone written in QBasic. |
 | 18 | 4 | 5 | [Scrotter](https://github.com/Yttrium-tYcLief/Scrotter) | A VB.NET application for placing screenshots into frames of various mobile devices, with a vast library of phones and tablets across multiple platforms. |
 | 18 | 14 | 0 | [xanity-php-rat](https://github.com/alienwithin/xanity-php-rat) | Xanity PHP RAT leak For Researchers  |
@@ -220,7 +220,7 @@
 | 15 | 2 | 6 | [Sky-Editor](https://github.com/evandixon/Sky-Editor) | Save and ROM editor for Pokémon Mystery Dungeon games |
 | 15 | 12 | 43 | [masterchest-wallet](https://github.com/mastercoin-MSC/masterchest-wallet) | Masterchest Wallet |
 | 15 | 12 | 0 | [VBShellCode](https://github.com/OsandaMalith/VBShellCode) | Making shellcode UD - https://osandamalith.com |
-| 15 | 6 | 9 | [LibOptimization](https://github.com/tomitomi3/LibOptimization) | LibOptimization is numerical optimization algorithm library for .NET Framework. |
+| 15 | 6 | 9 | [LibOptimization](https://github.com/tomitomi3/LibOptimization) | LibOptimization is numerical optimization algorithm library for .NET Framework. / .NET用の数値計算、最適化ライブラリ |
 | 15 | 11 | 1 | [VBA-UTC](https://github.com/VBA-tools/VBA-UTC) | UTC and ISO 8601 date conversion and parsing for VBA |
 | 15 | 9 | 3 | [NEIE-Assistant](https://github.com/ranulldd/NEIE-Assistant) | None |
 | 15 | 3 | 0 | [UniBot](https://github.com/MikiSoft/UniBot) | A universal HTTP bot creator |
@@ -245,7 +245,7 @@
 | 14 | 13 | 1 | [VBA](https://github.com/Rotifer/VBA) | Excel VBA code |
 | 14 | 10 | 0 | [Check-EternalBlue](https://github.com/eset-la/Check-EternalBlue) | Check if your computer is patched against EternalBlue |
 | 14 | 17 | 0 | [OpenCV_Tutorial_11_Object_Detection_and_Tracking_via_SURF_Speeded_Up_Robust_Features_in_Emgu_CV](https://github.com/MicrocontrollersAndMore/OpenCV_Tutorial_11_Object_Detection_and_Tracking_via_SURF_Speeded_Up_Robust_Features_in_Emgu_CV) | None |
-| 13 | 0 | 0 | [vbsunit](https://github.com/valeriofarias/vbsunit) | A minimalist VBScript Unit Testing framework. Yes, it is VBScript ;) |
+| 13 | 1 | 1 | [vbsunit](https://github.com/valeriofarias/vbsunit) | A minimalist VBScript Unit Testing framework. Yes, it is VBScript ;) |
 | 13 | 2 | 0 | [InForm](https://github.com/FellippeHeitor/InForm) | A GUI engine and WYSIWYG interface designer for QB64 |
 | 13 | 10 | 33 | [WPF-GoalLineStand-Football](https://github.com/CodeLiftSleep/WPF-GoalLineStand-Football) | Open Source Project for an American Football Management Simulation type game(like Football Manager, OOTP Baseball, Franchise Hockey Manager, etc). Coded in VB.Net/C# GoalLine Stand Football uses DotNetBrowser http://www.teamdev.com/dotnetbrowser, which is a proprietary software. The use of DotNetBrowser is governed by DotNetBrowser Product Licence Agreement http://www.teamdev.com/dotnetbrowser-licence-agreement. If you would like to use DotNetBrowser in your development, please contact TeamDev. |
 | 13 | 3 | 1 | [vb6-toolbox](https://github.com/peterson1/vb6-toolbox) | Convenient classes for extending the functionality of VB6 apps. |
@@ -270,7 +270,7 @@
 | 13 | 8 | 0 | [SignalChat](https://github.com/MeshackMusundi/SignalChat) | WPF-MVVM instant messaging application using SignalR |
 | 13 | 0 | 1 | [rapid-server](https://github.com/perrybutler/rapid-server) | A very high performance web server utilizing .NET sockets and async I/O comparable to Node.js + Express and IIS 7.5. |
 | 12 | 6 | 0 | [iREB-2.0](https://github.com/iH8sn0w/iREB-2.0) | A cleaner and more stable version of iDevice from xpwn. |
-| 12 | 5 | 5 | [DotNet3dsToolkit](https://github.com/evandixon/DotNet3dsToolkit) | Collection of 3DS tools in a .Net wrapper |
+| 12 | 6 | 5 | [DotNet3dsToolkit](https://github.com/evandixon/DotNet3dsToolkit) | Collection of 3DS tools in a .Net wrapper |
 | 12 | 3 | 0 | [vagrant-setups](https://github.com/gaspaio/vagrant-setups) | My setup for working with Vagrant, Ansible and Packer |
 | 12 | 8 | 0 | [excel-vba-formatting-macros](https://github.com/skilbjo/excel-vba-formatting-macros) | None |
 | 12 | 3 | 8 | [ExtremeStudio](https://github.com/Ahmad45123/ExtremeStudio) | ExtremeStudio is a PAWN editor and is designed to be used in SA-MP development. |
@@ -437,7 +437,7 @@
 | 7 | 3 | 0 | [Nibbler](https://github.com/cryptotoad/Nibbler) | Packet editing and encryption stripping proxy server |
 | 7 | 3 | 0 | [frp-GUI](https://github.com/LakeYang/frp-GUI) | frp Windows GUI - 反向代理frp的Windows用户界面 |
 | 7 | 1 | 0 | [CoolQNetPlugin](https://github.com/135ty/CoolQNetPlugin) | 酷Q非官方 VB.NET SDK。 |
-| 7 | 44 | 358 | [R-Instat](https://github.com/africanmathsinitiative/R-Instat) | A statistics software package powered by R |
+| 7 | 44 | 360 | [R-Instat](https://github.com/africanmathsinitiative/R-Instat) | A statistics software package powered by R |
 | 7 | 2 | 0 | [lol-mastery-manager-new-client](https://github.com/dewster/lol-mastery-manager-new-client) | A tool for managing masteries pages in League of Legends New Client. Inspired by Championify. |
 | 7 | 2 | 0 | [Blackmagic-Decklink-CCU](https://github.com/tomtom1976/Blackmagic-Decklink-CCU) | Init |
 | 7 | 2 | 2 | [OneClickToQif](https://github.com/OneClickToQif/OneClickToQif) | OneClickToQIF consists of a set of templates and macros, which are used to export data from your spreadsheets to QIF format, as used by programs such as GnuCash, Money and Quicken. You can use the templates as provided, or adapt your own spreadsheet, so your data is automatically exported to QIF with a single click. |
@@ -451,7 +451,7 @@
 | 7 | 3 | 2 | [FO2RP-Chinese-Localization](https://github.com/tytannial/FO2RP-Chinese-Localization) | Fallout 2 Restoration Project 2.3.3 Chinese Localization |
 | 7 | 2 | 5 | [liqbase-playground](https://github.com/lcuk/liqbase-playground) | liqbase playground is a sliq graphical playground for nokia internet tablets |
 | 7 | 2 | 1 | [vbiRecovery](https://github.com/Fallensn0w/vbiRecovery) | A VB.NET implementation of iRecovery (based on LibUSB) |
-| 7 | 1 | 0 | [vMix-Titles](https://github.com/chukwumaijem/vMix-Titles) | None |
+| 7 | 2 | 0 | [vMix-Titles](https://github.com/chukwumaijem/vMix-Titles) | None |
 | 7 | 1 | 0 | [ItalianCannon](https://github.com/KruinWorks/ItalianCannon) | 二营长！你他娘的意大利炮呢！ |
 | 7 | 2 | 0 | [SVG-to-GCode](https://github.com/avwuff/SVG-to-GCode) | Converts SVG files to GCode.  Used by the Hacklab laser. |
 | 7 | 2 | 0 | [sciBASIC.ComputingServices](https://github.com/xieguigang/sciBASIC.ComputingServices) | sciBASIC# distribute computing runtime, written in purely VB.NET language, and using for build a local server cluster for high performance computing that required for solving some scientific problems. |
@@ -463,9 +463,11 @@
 | 7 | 0 | 0 | [basic101](https://github.com/wconrad/basic101) | basic101 is a circa 1980 BASIC interpreter written in Ruby |
 | 7 | 1 | 1 | [Power-Refresh](https://github.com/IvanBond/Power-Refresh) | Schedule refresh of any Excel file using open-source scheduler & refresher written on VBA |
 | 7 | 0 | 0 | [Simple-Gallery](https://github.com/ventrian/Simple-Gallery) | Simple Gallery for DotNetNuke has been helping DotNetNuke administrators to publish photos and albums to their DotNetNuke portals since 2005.  |
+| 7 | 3 | 1 | [Factorio_Mods_Locale_Tool](https://github.com/Quiet95scholar/Factorio_Mods_Locale_Tool) | Factorio_Mods_Locale |
 | 7 | 2 | 4 | [ArkEnhancer](https://github.com/Tanaalethan/ArkEnhancer) | Settings and INI editor for ARK: Survival Evolved |
 | 7 | 2 | 0 | [PHP-SRC-Vulnerabilities-Scanner](https://github.com/sandeepl337/PHP-SRC-Vulnerabilities-Scanner) | Old time VB PHP SRC Vulnerability Scanner |
 | 7 | 2 | 1 | [port](https://github.com/rfns/port) | A Caché project-based set of utilities with %Studio.SourceControl integration to import/export items |
+| 7 | 5 | 0 | [OpSec-Firefox-Addon-Exploit-Suite](https://github.com/ajinabraham/OpSec-Firefox-Addon-Exploit-Suite) | OpSec Firefox Addon Exploit Suite is a POC application that demonstrate various flaws in the Firefox Add-on Security Model. |
 | 6 | 0 | 0 | [ThSAG](https://github.com/NSDN/ThSAG) | Touhou STG & AVG Engine |
 | 6 | 3 | 0 | [floodtrooper](https://github.com/utkusen/floodtrooper) | an ancient http botnet |
 | 6 | 10 | 1 | [VBIDEUtils](https://github.com/tannerhelland/VBIDEUtils) | Full source of the powerful "VBIDEUtils" add-in.  Mirrored from the original upload at http://www.vbforums.com/showthread.php?806227-VBIDEUtils-now-open-sources |
@@ -476,7 +478,7 @@
 | 6 | 1 | 1 | [cnczeus](https://github.com/lumen0/cnczeus) | Creates a dedicated CNC machine control with professional features from commodity x86-based hardware |
 | 6 | 2 | 0 | [mdm](https://github.com/emutools/mdm) | MaNGOS Database Manager |
 | 6 | 5 | 0 | [ArrozDVR](https://github.com/cdhigh/ArrozDVR) | 一个量身定做的USB摄像头监控录像工具，界面简单，功能丰富 |
-| 6 | 2 | 0 | [VBA](https://github.com/kieranharding/VBA) | Personal Productivity AddIn for Excel and collection of useful snippets/tools. |
+| 6 | 3 | 0 | [VBA](https://github.com/kieranharding/VBA) | Personal Productivity AddIn for Excel and collection of useful snippets/tools. |
 | 6 | 0 | 2 | [CFHodEd](https://github.com/Fallen-Angel/CFHodEd) | CFHodEd updated to work with Homeworld Remastered files |
 | 6 | 1 | 0 | [OAuth-Request-Crafter](https://github.com/ajinabraham/OAuth-Request-Crafter) | OAuth Request Crafter |
 | 6 | 2 | 0 | [VBScriptDump](https://github.com/jimbotten/VBScriptDump) | VBScripts for system administration, directory queries, and text/spreadsheet manipulation |
@@ -543,14 +545,12 @@
 | 6 | 7 | 1 | [CasparCGNetConnector](https://github.com/mcdikki/CasparCGNetConnector) | A DotNet Connector for CasparCG Server |
 | 6 | 3 | 0 | [KeyLogger](https://github.com/DedSecInside/KeyLogger) | Key Logger with UI |
 | 6 | 0 | 0 | [unbanmii-windows](https://github.com/valentinvanelslande/unbanmii-windows) | UnbanMii port to Windows. 99.8% possibility of invalid seed, requires .NET 4.6.1 |
-| 6 | 14 | 58 | [Climsoft](https://github.com/opencdms/Climsoft) | Climsoft Climate Database Management System |
+| 6 | 14 | 59 | [Climsoft](https://github.com/opencdms/Climsoft) | Climsoft Climate Database Management System |
 | 6 | 0 | 0 | [b4a-sample](https://github.com/pusheco/b4a-sample) | This is a sample application powered by Pushe.co push notification which is build with Basic4Android |
 | 6 | 2 | 0 | [gerilla-for-grasshopper](https://github.com/Gerilla-Project/gerilla-for-grasshopper) | None |
 | 6 | 7 | 18 | [UserAccountManagement](https://github.com/DNN-Connect/UserAccountManagement) | A DNN module that let's site administratos manage user accounts |
 | 6 | 7 | 23 | [McMetroLauncher](https://github.com/JBou/McMetroLauncher) | A Minecraft Launcher with nice features and a Modern UI. |
-| 6 | 3 | 1 | [Factorio_Mods_Locale_Tool](https://github.com/Quiet95scholar/Factorio_Mods_Locale_Tool) | Factorio_Mods_Locale |
 | 6 | 0 | 0 | [high-speed-tridion-publishing](https://github.com/sieger82/high-speed-tridion-publishing) | Solution to achieve high speed publishing in SDL Tridion on high latency connections |
-| 6 | 5 | 0 | [OpSec-Firefox-Addon-Exploit-Suite](https://github.com/ajinabraham/OpSec-Firefox-Addon-Exploit-Suite) | OpSec Firefox Addon Exploit Suite is a POC application that demonstrate various flaws in the Firefox Add-on Security Model. |
 | 6 | 2 | 0 | [vbsheep](https://github.com/shula/vbsheep) | sheep.exe in VB6 |
 | 6 | 2 | 1 | [RC2014-BASIC-Programs](https://github.com/RC2014Z80/RC2014-BASIC-Programs) | A collection of BASIC programs that run on RC2014 |
 | 6 | 1 | 0 | [Plugin-TTSDanmaku](https://github.com/Elepover/Plugin-TTSDanmaku) | The TTSDanmaku plugin for bililive_dm (https://github.com/copyliu/bililive_dm) |
@@ -695,7 +695,7 @@
 | 4 | 1 | 0 | [p5js.bas](https://github.com/AshishKingdom/p5js.bas) | P5.js library in qb64 |
 | 4 | 0 | 0 | [Converter-1.1.1](https://github.com/eslamnawara/Converter-1.1.1) | convert picture in ico |
 | 4 | 4 | 0 | [GG-Ransomware](https://github.com/SadFud/GG-Ransomware) | Ransomware written in vb.net for eduational purpouses |
-| 4 | 1 | 0 | [VBCCR](https://github.com/Kr00l/VBCCR) | VB Common Controls Replacement Library |
+| 4 | 2 | 0 | [VBCCR](https://github.com/Kr00l/VBCCR) | VB Common Controls Replacement Library |
 | 4 | 2 | 0 | [gfimax](https://github.com/njcltd/gfimax) | Useful scripts used in GFIMAX |
 | 4 | 0 | 0 | [RSMultiClient](https://github.com/rygos/RSMultiClient) | None |
 | 4 | 1 | 5 | [OZ80MANDIAS](https://github.com/Kroc/OZ80MANDIAS) | A Z80 assembler for the Sega Master System written in Visual Basic 6 |
@@ -892,9 +892,9 @@
 | 3 | 3 | 1 | [APVacars](https://github.com/vangelisb/APVacars) | APVacars Pirep/Acars system for Phpvms |
 | 3 | 1 | 1 | [AlliumWay](https://github.com/carlosplanchon/AlliumWay) | Proyecto UTU Dolores |
 | 3 | 1 | 0 | [Fraction](https://github.com/ZdsAlpha/Fraction) | Fraction support for .net |
-| 3 | 0 | 0 | [vim-vsopen](https://github.com/mattn/vim-vsopen) | None |
 | 3 | 0 | 0 | [OdysseyClassic](https://github.com/TheRemote/OdysseyClassic) | The game code for the cult hit running from the late 90's all the way up to 2010 |
 | 3 | 1 | 13 | [BASINS](https://github.com/respec/BASINS) | BASINS source code development repository. For official releases see EPA: |
+| 3 | 0 | 0 | [vim-vsopen](https://github.com/mattn/vim-vsopen) | None |
 | 3 | 0 | 0 | [DirectoryImage](https://github.com/Walkman100/DirectoryImage) | A program that generates files that set directory images for Windows and Linux |
 | 3 | 0 | 0 | [VBA_Tools](https://github.com/dannyfraser/VBA_Tools) | Tools & utilities for VBA in Access & Excel |
 | 3 | 0 | 0 | [UEP_BattlEye_Extended_Controller_Installer](https://github.com/bbatton/UEP_BattlEye_Extended_Controller_Installer) | This an installer specifically made to allow for easy and proper installation of BEC into Epoch Servers on any map. |
@@ -979,6 +979,7 @@
 | 3 | 0 | 0 | [ExcelERD](https://github.com/mygreen/ExcelERD) | ExcelERDのExcel2007対応版 |
 | 3 | 0 | 0 | [network-share-reconnecter](https://github.com/thexmanxyz/network-share-reconnecter) | This project contains a VB script and a Windows scheduler task to automatically reconnect disconnected network shares / drives on login. |
 | 3 | 1 | 0 | [tinybasic](https://github.com/countingpine/tinybasic) | yetifoot's Tiny Basic, discussion thread at www.freebasic.net/forum/viewtopic.php?t=12788 |
+| 3 | 0 | 0 | [xlfn](https://github.com/FrancisMurillo/xlfn) | A pseudo functional programming library for Excel VBA. |
 | 3 | 1 | 0 | [blauncher](https://github.com/timoschwarzer/blauncher) | bLauncher keeps Blender up-to-date, even snaphots! |
 | 3 | 1 | 0 | [autoedit](https://github.com/jamespharper/autoedit) | An automated editing script for Microsoft Word that works with Track Changes |
 | 3 | 1 | 0 | [SchoolCode](https://github.com/safaci2000-public/SchoolCode) | Old code from various school projects. |
@@ -1000,4 +1001,3 @@
 | 3 | 1 | 0 | [Malware-Hunter](https://github.com/Krailon/Malware-Hunter) | Hunts the depths of the internet for malicious intentions and analyzes them |
 | 3 | 1 | 1 | [external_editor_for_outlook2010](https://github.com/masamitsu-murase/external_editor_for_outlook2010) | Edit mail content with an external editor in Outlook 2010. |
 | 3 | 4 | 12 | [odyssey](https://github.com/HybridGames/odyssey) | Working on preserving and improving the Odyssey Classic source code. |
-| 3 | 8 | 0 | [MPoolMonitor](https://github.com/mdude77/MPoolMonitor) | M's mining monitor |

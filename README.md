@@ -1,7 +1,7 @@
 ## ARL 
 ###### *(Another Repository List)*
 This repository contains a number of lists of most popular repositories for most favoured programming languages 
-(according to [StackOverflow](https://insights.stackoverflow.com/survey/2017)):
+(according to [StackOverflow](https://insights.stackoverflow.com/survey/2017) +Clojure):
  * [Python](https://github.com/kaxap/arl/blob/master/README-Python.md)
  * [Java](https://github.com/kaxap/arl/blob/master/README-Java.md)
  * [C](https://github.com/kaxap/arl/blob/master/README-C.md)
@@ -24,3 +24,4 @@ This repository contains a number of lists of most popular repositories for most
  * [Lua](https://github.com/kaxap/arl/blob/master/README-Lua.md)
  * [Haskell](https://github.com/kaxap/arl/blob/master/README-Haskell.md)
  * [CoffeeScript](https://github.com/kaxap/arl/blob/master/README-CoffeeScript.md)
+ * [Clojure](https://github.com/kaxap/arl/blob/master/README-Clojure.md)
