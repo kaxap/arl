@@ -1,32 +1,31 @@
 ## This is a most popular repository list for SQL sorted by number of stars
 |STARS|FORKS|ISSUES|NAME|DESCRIPTION|
 | --- | --- | --- | --- | --- |
-| 258 | 166 | 7 | [agilebill](https://github.com/tony-landis/agilebill) | Open source billing and invoicing |
-| 221 | 95 | 1 | [tang_poetry](https://github.com/hxgdzyuyi/tang_poetry) | 全唐诗数据库 |
-| 99 | 42 | 0 | [census-postgres](https://github.com/leehach/census-postgres) | PostgreSQL schema and import scripts for recent US Census data |
-| 75 | 43 | 0 | [Learn-SQL-The-Hard-Way](https://github.com/tbonza/Learn-SQL-The-Hard-Way) | http://sql.learncodethehardway.org/book/ |
-| 62 | 32 | 1 | [SQL](https://github.com/dhaval1406/SQL) | sql related stuff, interview questions, mySQL complex queries |
-| 61 | 122 | 0 | [TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | If you are looking for TDB for 4.3.4 go to: |
-| 32 | 22 | 0 | [Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 阿里巴巴大数据竞赛 |
-| 13 | 7 | 0 | [shorts](https://github.com/thatjpcsguy/shorts) | Can i wear shorts today? http://shorts.today |
-| 13 | 3 | 0 | [poetification](https://github.com/pietdaniel/poetification) | give texts give poems |
+| 261 | 166 | 7 | [agilebill](https://github.com/tony-landis/agilebill) | Open source billing and invoicing |
+| 226 | 95 | 1 | [tang_poetry](https://github.com/hxgdzyuyi/tang_poetry) | 全唐诗数据库 |
+| 98 | 42 | 0 | [census-postgres](https://github.com/leehach/census-postgres) | PostgreSQL schema and import scripts for recent US Census data |
+| 79 | 43 | 0 | [Learn-SQL-The-Hard-Way](https://github.com/tbonza/Learn-SQL-The-Hard-Way) | http://sql.learncodethehardway.org/book/ |
+| 61 | 32 | 1 | [SQL](https://github.com/dhaval1406/SQL) | sql related stuff, interview questions, mySQL complex queries |
+| 60 | 122 | 0 | [TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | If you are looking for TDB for 4.3.4 go to: |
+| 32 | 23 | 0 | [Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 阿里巴巴大数据竞赛 |
+| 12 | 7 | 0 | [shorts](https://github.com/thatjpcsguy/shorts) | Can i wear shorts today? http://shorts.today |
 | 12 | 2 | 0 | [voynich_manchu_oradb](https://github.com/longwall/voynich_manchu_oradb) | A research of  Manchu hypothesis of Voynich manuscript. It's an Oracle database with tabes, DML scripts, PLSQL functions and queries. |
-| 12 | 16 | 0 | [quartz-jee-demo](https://github.com/kolorobot/quartz-jee-demo) | Quartz with Clustering JEE demo application |
-| 11 | 5 | 1 | [martini-example](https://github.com/joiggama/martini-example) | Example martini app with different ORM integrations, see different branches. |
-| 11 | 7 | 0 | [DocGraph](https://github.com/jhajagos/DocGraph) | Code related to DocGraph analysis |
-| 10 | 6 | 2 | [jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
-| 9 | 1 | 0 | [Donor9](https://github.com/hacker9/Donor9) | None |
-| 8 | 4 | 1 | [Vanilla](https://github.com/andrewmunro/Vanilla) | Vanilla WoW Emulator for Educational Purposes |
-| 8 | 5 | 6 | [Lstore](https://github.com/cistoner/Lstore) | This tool allows you to anonymously or publicly share contents in LAN. Clients can download contents directly from you |
-| 7 | 6 | 0 | [Live2](https://github.com/saphanaacademy/Live2) | SAP HANA Academy - Live2 project code samples for playlist https://www.youtube.com/playlist?list=PLkzo92owKnVyIXgkK__7Z1o_C7pyNc3SR |
-| 5 | 5 | 1 | [puppet-openfire](https://github.com/ghoneycutt/puppet-openfire) | Openfire Puppet module |
-| 5 | 5 | 3 | [Algerian-Wilayas](https://github.com/01walid/Algerian-Wilayas) | Algerian Wilayas list in different formats (XML, JSON, xsl..etc) for the sake of DRY |
-| 4 | 2 | 0 | [AuthManager](https://github.com/iosoft/AuthManager) | User authentication and management web application |
-| 4 | 1 | 0 | [ipython_nb](https://github.com/sr320/ipython_nb) | Lab Notebook - 2014 |
-| 3 | 0 | 2 | [geo-taxo-quality](https://github.com/jotegui/geo-taxo-quality) | None |
+| 12 | 3 | 0 | [poetification](https://github.com/pietdaniel/poetification) | give texts give poems |
+| 11 | 16 | 0 | [quartz-jee-demo](https://github.com/kolorobot/quartz-jee-demo) | Quartz with Clustering JEE demo application |
+| 10 | 5 | 1 | [martini-example](https://github.com/joiggama/martini-example) | Example martini app with different ORM integrations, see different branches. |
+| 10 | 7 | 0 | [DocGraph](https://github.com/jhajagos/DocGraph) | Code related to DocGraph analysis |
+| 9 | 6 | 2 | [jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
+| 8 | 1 | 0 | [Donor9](https://github.com/hacker9/Donor9) | None |
+| 7 | 4 | 1 | [Vanilla](https://github.com/andrewmunro/Vanilla) | Vanilla WoW Emulator for Educational Purposes |
+| 7 | 5 | 6 | [Lstore](https://github.com/cistoner/Lstore) | This tool allows you to anonymously or publicly share contents in LAN. Clients can download contents directly from you |
+| 6 | 6 | 0 | [Live2](https://github.com/saphanaacademy/Live2) | SAP HANA Academy - Live2 project code samples for playlist https://www.youtube.com/playlist?list=PLkzo92owKnVyIXgkK__7Z1o_C7pyNc3SR |
+| 4 | 5 | 1 | [puppet-openfire](https://github.com/ghoneycutt/puppet-openfire) | Openfire Puppet module |
+| 4 | 5 | 3 | [Algerian-Wilayas](https://github.com/01walid/Algerian-Wilayas) | Algerian Wilayas list in different formats (XML, JSON, xsl..etc) for the sake of DRY |
 | 3 | 1 | 1 | [pl-gapi](https://github.com/tschf/pl-gapi) | None |
 | 3 | 1 | 1 | [nutes](https://github.com/echlebek/nutes) | SQL import of USDA nutrient database |
-| 3 | 0 | 2 | [weblog-demo](https://github.com/MTA-SZTAKI/weblog-demo) | Longneck demo application for weblog processing. |
+| 3 | 1 | 0 | [ipython_nb](https://github.com/sr320/ipython_nb) | Lab Notebook - 2014 |
+| 3 | 2 | 0 | [AuthManager](https://github.com/iosoft/AuthManager) | User authentication and management web application |
+| 2 | 0 | 2 | [geo-taxo-quality](https://github.com/jotegui/geo-taxo-quality) | None |
 | 2 | 2 | 0 | [open_ballot](https://github.com/sfbrigade/open_ballot) | An educational tool around ballot measures |
 | 2 | 1 | 0 | [ScrallWall](https://github.com/tonyta/ScrallWall) | Community Curated Beautification |
 | 2 | 1 | 0 | [bracket-advisor](https://github.com/thunderdome-data/bracket-advisor) | Users compare stats for two teams to help predict probability of winning. |
@@ -42,6 +41,7 @@
 | 2 | 0 | 0 | [oscarballot2013](https://github.com/thunderdome-data/oscarballot2013) | Users vote on Oscars 2013 nominees |
 | 2 | 2 | 0 | [drupal7-psdtotheme-series](https://github.com/DrupalizeMe/drupal7-psdtotheme-series) | Design files and theme files for Drupal 7 PSD to Theme series. |
 | 2 | 2 | 0 | [ballot](https://github.com/thunderdome-data/ballot) | Voting app. Users can vote in a number of categories. This one was for Oscar 2014 nominees. |
+| 2 | 0 | 2 | [weblog-demo](https://github.com/MTA-SZTAKI/weblog-demo) | Longneck demo application for weblog processing. |
 | 2 | 1 | 0 | [Crowdlearning-Tecnologia-NHibernate](https://github.com/hrickmachado/Crowdlearning-Tecnologia-NHibernate) | Crowdlearning Tecnologia NHibernate |
 | 2 | 0 | 0 | [wazepl](https://github.com/wazepl/wazepl) | None |
 | 2 | 2 | 1 | [Sandshroud-DB](https://github.com/Sandshroud/Sandshroud-DB) | None |
@@ -61,6 +61,7 @@
 | 1 | 0 | 0 | [DEPRECATED-ti3wiki.org](https://github.com/lancegatlin/DEPRECATED-ti3wiki.org) | Deployment package (without passwords) for the site ti3wiki.org |
 | 1 | 0 | 0 | [BundledGoods](https://github.com/howardjing/BundledGoods) | bundled goods experiment |
 | 1 | 0 | 0 | [dlde-parent](https://github.com/sonyfe25cp/dlde-parent) | tools created by dlde lab |
+| 1 | 0 | 0 | [georemedy-osm-arcgis](https://github.com/BerryDaniel/georemedy-osm-arcgis) | OpenStreet conversion to ESRI File Geodatabase (WGS84) for use on a disconnected network. |
 | 1 | 1 | 0 | [intranet-reporting-tutorial](https://github.com/project-open/intranet-reporting-tutorial) | None |
 | 1 | 0 | 0 | [WebIntelligence](https://github.com/mbabic/WebIntelligence) | Web Intelligence and Big Data programming assignments. |
 | 1 | 2 | 0 | [alfresco-packaging](https://github.com/xkahn/alfresco-packaging) | Support files for packaging Alfresco Server |
@@ -147,10 +148,10 @@
 | 0 | 0 | 0 | [UDS](https://github.com/jingegew/UDS) | None |
 | 0 | 0 | 0 | [Digital_Survey_Management](https://github.com/thanushcst/Digital_Survey_Management) | None |
 | 0 | 0 | 0 | [sandbox-light](https://github.com/salamichel/sandbox-light) | Init |
-| 0 | 0 | 0 | [phpTest](https://github.com/matthewdhull/phpTest) | None |
 | 0 | 0 | 0 | [gib-bern](https://github.com/fujexo/gib-bern) | None |
 | 0 | 0 | 0 | [coma](https://github.com/paul-nechifor/coma) | My project for Human-Computer Interaction |
 | 0 | 0 | 0 | [myproject](https://github.com/deepak010789/myproject) | Script to fetch data from http://vimoe.com and to store it in the database. And a front-end is also there to check the functionality. |
+| 0 | 0 | 0 | [aircraft_systems_tester](https://github.com/matthewdhull/aircraft_systems_tester) | None |
 | 0 | 9 | 0 | [Scripts](https://github.com/SoulBlaker/Scripts) | Npcs Desenvolvido para emuladores de Ragnarok. Ex: Cronus-Emulator, rAthena, eAthena... |
 | 0 | 0 | 0 | [dbdump](https://github.com/selvakumarr/dbdump) | dbdump |
 | 0 | 0 | 0 | [datainfo](https://github.com/RobvEmous/datainfo) | hoi |
@@ -230,7 +231,6 @@
 | 0 | 1 | 0 | [openvet](https://github.com/openvet/openvet) | logiciel vétérinaire |
 | 0 | 1 | 0 | [openstack-monitoring](https://github.com/knogbe/openstack-monitoring) | None |
 | 0 | 0 | 0 | [Warntafel](https://github.com/tuxmaster/Warntafel) | Warntafeln für den Gefahrguttransport |
-| 0 | 0 | 0 | [georemedy-osm-arcgis](https://github.com/BerryDaniel/georemedy-osm-arcgis) | OpenStreet conversion to ESRI File Geodatabase (WGS84) for use on a disconnected network. |
 | 0 | 0 | 0 | [datainfo](https://github.com/11gamer11/datainfo) | None |
 | 0 | 0 | 0 | [datainfo](https://github.com/Sophietje/datainfo) | None |
 | 0 | 0 | 0 | [Parser](https://github.com/MDS-GPP-12014/Parser) | None |
@@ -299,7 +299,6 @@
 | 0 | 1 | 0 | [nlp-rest-client](https://github.com/tristaneuan/nlp-rest-client) | A Flask-based rest client for delivering data from Stanford CoreNLP parses |
 | 0 | 0 | 0 | [Food-rescue](https://github.com/nfqakademija/Food-rescue) | None |
 | 0 | 0 | 0 | [motorpool](https://github.com/weelDaw/motorpool) | motorpool |
-| 0 | 0 | 0 | [graduation](https://github.com/leo2014/graduation) | CECS |
 | 0 | 0 | 0 | [datainfo](https://github.com/joerikock/datainfo) | None |
 | 0 | 0 | 0 | [datainfo](https://github.com/marty30/datainfo) | None |
 | 0 | 0 | 0 | [datainfo](https://github.com/basUT/datainfo) | None |
