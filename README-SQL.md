@@ -1,19 +1,19 @@
 ## This is a most popular repository list for SQL sorted by number of stars
 |STARS|FORKS|ISSUES|NAME|DESCRIPTION|
 | --- | --- | --- | --- | --- |
-| 261 | 166 | 7 | [agilebill](https://github.com/tony-landis/agilebill) | Open source billing and invoicing |
-| 226 | 95 | 1 | [tang_poetry](https://github.com/hxgdzyuyi/tang_poetry) | 全唐诗数据库 |
-| 98 | 42 | 0 | [census-postgres](https://github.com/leehach/census-postgres) | PostgreSQL schema and import scripts for recent US Census data |
-| 79 | 43 | 0 | [Learn-SQL-The-Hard-Way](https://github.com/tbonza/Learn-SQL-The-Hard-Way) | http://sql.learncodethehardway.org/book/ |
-| 61 | 32 | 1 | [SQL](https://github.com/dhaval1406/SQL) | sql related stuff, interview questions, mySQL complex queries |
-| 60 | 122 | 0 | [TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | If you are looking for TDB for 4.3.4 go to: |
-| 32 | 23 | 0 | [Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 阿里巴巴大数据竞赛 |
+| 263 | 167 | 7 | [agilebill](https://github.com/tony-landis/agilebill) | Open source billing and invoicing |
+| 229 | 95 | 1 | [tang_poetry](https://github.com/hxgdzyuyi/tang_poetry) | 全唐诗数据库 |
+| 99 | 42 | 0 | [census-postgres](https://github.com/leehach/census-postgres) | PostgreSQL schema and import scripts for recent US Census data |
+| 82 | 43 | 0 | [Learn-SQL-The-Hard-Way](https://github.com/tbonza/Learn-SQL-The-Hard-Way) | http://sql.learncodethehardway.org/book/ |
+| 63 | 33 | 1 | [SQL](https://github.com/dhaval1406/SQL) | sql related stuff, interview questions, mySQL complex queries |
+| 60 | 123 | 0 | [TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | If you are looking for TDB for 4.3.4 go to: |
+| 33 | 23 | 0 | [Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 阿里巴巴大数据竞赛 |
 | 12 | 7 | 0 | [shorts](https://github.com/thatjpcsguy/shorts) | Can i wear shorts today? http://shorts.today |
 | 12 | 2 | 0 | [voynich_manchu_oradb](https://github.com/longwall/voynich_manchu_oradb) | A research of  Manchu hypothesis of Voynich manuscript. It's an Oracle database with tabes, DML scripts, PLSQL functions and queries. |
 | 12 | 3 | 0 | [poetification](https://github.com/pietdaniel/poetification) | give texts give poems |
-| 11 | 16 | 0 | [quartz-jee-demo](https://github.com/kolorobot/quartz-jee-demo) | Quartz with Clustering JEE demo application |
 | 10 | 5 | 1 | [martini-example](https://github.com/joiggama/martini-example) | Example martini app with different ORM integrations, see different branches. |
 | 10 | 7 | 0 | [DocGraph](https://github.com/jhajagos/DocGraph) | Code related to DocGraph analysis |
+| 10 | 16 | 0 | [quartz-jee-demo](https://github.com/kolorobot/quartz-jee-demo) | Quartz with Clustering JEE demo application |
 | 9 | 6 | 2 | [jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
 | 8 | 1 | 0 | [Donor9](https://github.com/hacker9/Donor9) | None |
 | 7 | 4 | 1 | [Vanilla](https://github.com/andrewmunro/Vanilla) | Vanilla WoW Emulator for Educational Purposes |
@@ -33,7 +33,7 @@
 | 2 | 1 | 0 | [ISC](https://github.com/AcademiaSistemas/ISC) | proyecto_ISC |
 | 2 | 0 | 0 | [virtocommerce](https://github.com/Fininvest/virtocommerce) | Codeplex Virto Commerce Community Edition repository fork. 2014-05-25 |
 | 2 | 0 | 0 | [vagrant-zabbix-mqtt](https://github.com/q1x/vagrant-zabbix-mqtt) | PoC environment to test using MQTT as a transport for Zabbix |
-| 2 | 8 | 0 | [moodle-custom_sql_report_queries](https://github.com/nadavkav/moodle-custom_sql_report_queries) | A shared repository of custom SQL report queries for Moodle's blocks/configurable_reports plugin |
+| 2 | 9 | 0 | [moodle-custom_sql_report_queries](https://github.com/nadavkav/moodle-custom_sql_report_queries) | A shared repository of custom SQL report queries for Moodle's blocks/configurable_reports plugin |
 | 2 | 0 | 0 | [cyrup2postfixadmin](https://github.com/lluis/cyrup2postfixadmin) | scripts to migrate cyrup database to postfixadmin |
 | 2 | 0 | 0 | [vertica-utilities](https://github.com/spektom/vertica-utilities) | Useful Vertica DB functions |
 | 2 | 3 | 1 | [redmine_contacter](https://github.com/jperelli/redmine_contacter) | Redmine plugin to add multiple contacts to an issue. A contact has name, direction and telephones. You manage the contacts in one place, and use them in any project. |
@@ -41,6 +41,7 @@
 | 2 | 0 | 0 | [oscarballot2013](https://github.com/thunderdome-data/oscarballot2013) | Users vote on Oscars 2013 nominees |
 | 2 | 2 | 0 | [drupal7-psdtotheme-series](https://github.com/DrupalizeMe/drupal7-psdtotheme-series) | Design files and theme files for Drupal 7 PSD to Theme series. |
 | 2 | 2 | 0 | [ballot](https://github.com/thunderdome-data/ballot) | Voting app. Users can vote in a number of categories. This one was for Oscar 2014 nominees. |
+| 2 | 0 | 0 | [tinebook](https://github.com/nstanke/tinebook) | A set of Ansible playbooks to run a groupware server powerd by Tine20 based on Sovereign |
 | 2 | 0 | 2 | [weblog-demo](https://github.com/MTA-SZTAKI/weblog-demo) | Longneck demo application for weblog processing. |
 | 2 | 1 | 0 | [Crowdlearning-Tecnologia-NHibernate](https://github.com/hrickmachado/Crowdlearning-Tecnologia-NHibernate) | Crowdlearning Tecnologia NHibernate |
 | 2 | 0 | 0 | [wazepl](https://github.com/wazepl/wazepl) | None |
@@ -81,7 +82,6 @@
 | 1 | 1 | 0 | [dean](https://github.com/jacqueline-homan/dean) | existing site requiring some minor php code changes and a modificed htaccess file |
 | 1 | 0 | 0 | [math-exam-generator](https://github.com/manhg/math-exam-generator) | Nov 2011 * A web-based tool for generating Math test for educational purpose (using in classroom) - Công cụ để soạn các bộ đề thi Toán |
 | 1 | 0 | 0 | [projekt_SQL](https://github.com/mziolkowski/projekt_SQL) | Projekt SQL do szkoły |
-| 1 | 0 | 0 | [tinebook](https://github.com/nstanke/tinebook) | A set of Ansible playbooks to run a groupware server powerd by Tine20 based on Sovereign |
 | 1 | 0 | 0 | [MS-SQL-Server-Goodies](https://github.com/atru/MS-SQL-Server-Goodies) | None |
 | 1 | 7 | 13 | [CalZone](https://github.com/CalZoneVUB/CalZone) | activation |
 | 1 | 2 | 0 | [puppet-hive](https://github.com/viirya/puppet-hive) | Puppet module for installing Apache Hive |
@@ -111,11 +111,10 @@
 | 0 | 0 | 1 | [EveryDayRedBook](https://github.com/mapyo/EveryDayRedBook) | １日に１回絶滅危惧種の情報を通知してくれるアプリです。 |
 | 0 | 0 | 0 | [BD2_M](https://github.com/jonathanguzzo/BD2_M) | Repositório da Cadeira de Banco de Dados II |
 | 0 | 3 | 1 | [MRF_Platynereis_2014](https://github.com/jbogp/MRF_Platynereis_2014) | Data and scripts attached to the paper "Identifying cell types from spatially referenced single-cell expression datasets" |
-| 0 | 0 | 0 | [FIFAWorldCupDatabase](https://github.com/tzhenghao/FIFAWorldCupDatabase) | A simulation of a FIFA World Cup score and fixtures database using SQLite. |
 | 0 | 1 | 0 | [Autoescuela](https://github.com/jcortesa/Autoescuela) | LLMA: Proyecto test autoescuela (XML+jQuery) |
 | 0 | 0 | 0 | [Railway](https://github.com/Kant8/Railway) | None |
 | 0 | 0 | 0 | [tihaiDB](https://github.com/wangyongxin/tihaiDB) | tihaiDB |
-| 0 | 0 | 0 | [Aii](https://github.com/rugbyprof/Aii) | Auditory Implant Initiative |
+| 0 | 0 | 2 | [Aii](https://github.com/rugbyprof/Aii) | Auditory Implant Initiative |
 | 0 | 0 | 0 | [CS430_Database_Project](https://github.com/thatoneguy150/CS430_Database_Project) | CS430 Final Database Group Project  |
 | 0 | 1 | 0 | [Diplom](https://github.com/Drohomiretskiy-M/Diplom) | None |
 | 0 | 0 | 0 | [SIMPegawai](https://github.com/zeattacker/SIMPegawai) | None |
@@ -131,6 +130,7 @@
 | 0 | 0 | 8 | [wdc_web_mmo](https://github.com/bels/wdc_web_mmo) | A web mmo framework with Worldcoin built in as the games currency |
 | 0 | 0 | 0 | [weishuku](https://github.com/jerry-sjtu/weishuku) | weishuku |
 | 0 | 0 | 0 | [datainfo](https://github.com/Jannyboy11/datainfo) | no description available |
+| 0 | 0 | 0 | [FIFAWorldCupDatabase](https://github.com/tzhenghao/FIFAWorldCupDatabase) | A simulation of a FIFA World Cup score and fixtures database using SQLite. |
 | 0 | 0 | 0 | [celiactracker](https://github.com/kaneisha/celiactracker) | None |
 | 0 | 0 | 0 | [xinhua](https://github.com/hawklithm/xinhua) | backend |
 | 0 | 0 | 0 | [IR_TO_XML](https://github.com/glebovpavel/IR_TO_XML) | ORACLE package, that returnt XML-data from IR |
@@ -323,8 +323,8 @@
 | 0 | 0 | 0 | [OpenData](https://github.com/timsade/OpenData) | None |
 | 0 | 1 | 0 | [TPW24verPablo](https://github.com/chefjuanpi/TPW24verPablo) | travail de w24 |
 | 0 | 0 | 0 | [causehub-prototype](https://github.com/whatleadsto/causehub-prototype) | This was the first iteration of CauseHub. It was built in 48 hours at #hack4good |
-| 0 | 1 | 0 | [shopping](https://github.com/foxgaocn/shopping) | None |
 | 0 | 0 | 0 | [SQL--constraints-procedures-triggers](https://github.com/glahaie/SQL--constraints-procedures-triggers) | None |
+| 0 | 1 | 0 | [shopping](https://github.com/harry-gao/shopping) | None |
 | 0 | 0 | 0 | [shaynegao.github.io](https://github.com/shaynegao/shaynegao.github.io) | my page1 |
 | 0 | 0 | 0 | [DirectValues](https://github.com/bizazz/DirectValues) | None |
 | 0 | 0 | 0 | [bcm-workshop](https://github.com/biolab/bcm-workshop) | None |
