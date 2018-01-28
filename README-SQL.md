@@ -1,19 +1,19 @@
 ## This is a most popular repository list for SQL sorted by number of stars
 |STARS|FORKS|ISSUES|NAME|DESCRIPTION|
 | --- | --- | --- | --- | --- |
-| 263 | 167 | 7 | [agilebill](https://github.com/tony-landis/agilebill) | Open source billing and invoicing |
-| 229 | 95 | 1 | [tang_poetry](https://github.com/hxgdzyuyi/tang_poetry) | 全唐诗数据库 |
+| 266 | 168 | 7 | [agilebill](https://github.com/tony-landis/agilebill) | Open source billing and invoicing |
+| 234 | 96 | 1 | [tang_poetry](https://github.com/hxgdzyuyi/tang_poetry) | 全唐诗数据库 |
 | 99 | 42 | 0 | [census-postgres](https://github.com/leehach/census-postgres) | PostgreSQL schema and import scripts for recent US Census data |
 | 82 | 43 | 0 | [Learn-SQL-The-Hard-Way](https://github.com/tbonza/Learn-SQL-The-Hard-Way) | http://sql.learncodethehardway.org/book/ |
-| 63 | 33 | 1 | [SQL](https://github.com/dhaval1406/SQL) | sql related stuff, interview questions, mySQL complex queries |
-| 60 | 123 | 0 | [TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | If you are looking for TDB for 4.3.4 go to: |
+| 66 | 33 | 1 | [SQL](https://github.com/dhaval1406/SQL) | sql related stuff, interview questions, mySQL complex queries |
+| 60 | 124 | 0 | [TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU) | If you are looking for TDB for 4.3.4 go to: |
 | 33 | 23 | 0 | [Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining) | 阿里巴巴大数据竞赛 |
 | 12 | 7 | 0 | [shorts](https://github.com/thatjpcsguy/shorts) | Can i wear shorts today? http://shorts.today |
 | 12 | 2 | 0 | [voynich_manchu_oradb](https://github.com/longwall/voynich_manchu_oradb) | A research of  Manchu hypothesis of Voynich manuscript. It's an Oracle database with tabes, DML scripts, PLSQL functions and queries. |
 | 12 | 3 | 0 | [poetification](https://github.com/pietdaniel/poetification) | give texts give poems |
+| 11 | 7 | 0 | [DocGraph](https://github.com/jhajagos/DocGraph) | Code related to DocGraph analysis |
+| 11 | 17 | 0 | [quartz-jee-demo](https://github.com/kolorobot/quartz-jee-demo) | Quartz with Clustering JEE demo application |
 | 10 | 5 | 1 | [martini-example](https://github.com/joiggama/martini-example) | Example martini app with different ORM integrations, see different branches. |
-| 10 | 7 | 0 | [DocGraph](https://github.com/jhajagos/DocGraph) | Code related to DocGraph analysis |
-| 10 | 16 | 0 | [quartz-jee-demo](https://github.com/kolorobot/quartz-jee-demo) | Quartz with Clustering JEE demo application |
 | 9 | 6 | 2 | [jSQLtuner](https://github.com/piotrsobecki/jSQLtuner) | SQL tuner for  improving Java applications ORM performance using NoSQL technologies. |
 | 8 | 1 | 0 | [Donor9](https://github.com/hacker9/Donor9) | None |
 | 7 | 4 | 1 | [Vanilla](https://github.com/andrewmunro/Vanilla) | Vanilla WoW Emulator for Educational Purposes |
@@ -52,6 +52,7 @@
 | 1 | 0 | 0 | [utilidades](https://github.com/everlon/utilidades) | Informações / DB / Coisas prontas |
 | 1 | 0 | 0 | [MySQLToAQL](https://github.com/abrenner/MySQLToAQL) | A MySQL to AQL translator for the AsterixDB project |
 | 1 | 2 | 0 | [bluefinder](https://github.com/magictowers/bluefinder) | BlueFinder recommender system project |
+| 1 | 0 | 0 | [IR_TO_XML](https://github.com/glebovpavel/IR_TO_XML) | ORACLE package, that returnt XML-data from IR |
 | 1 | 3 | 0 | [artxchange](https://github.com/jack2684/artxchange) | None |
 | 1 | 0 | 0 | [metro_route](https://github.com/gauravjeet/metro_route) | get delhi metro routes |
 | 1 | 0 | 0 | [Meru](https://github.com/charugvvdn/Meru) | Meru having devices and reports app separate |
@@ -63,6 +64,7 @@
 | 1 | 0 | 0 | [BundledGoods](https://github.com/howardjing/BundledGoods) | bundled goods experiment |
 | 1 | 0 | 0 | [dlde-parent](https://github.com/sonyfe25cp/dlde-parent) | tools created by dlde lab |
 | 1 | 0 | 0 | [georemedy-osm-arcgis](https://github.com/BerryDaniel/georemedy-osm-arcgis) | OpenStreet conversion to ESRI File Geodatabase (WGS84) for use on a disconnected network. |
+| 1 | 1 | 6 | [vgi](https://github.com/high-five-interactive/vgi) | None |
 | 1 | 1 | 0 | [intranet-reporting-tutorial](https://github.com/project-open/intranet-reporting-tutorial) | None |
 | 1 | 0 | 0 | [WebIntelligence](https://github.com/mbabic/WebIntelligence) | Web Intelligence and Big Data programming assignments. |
 | 1 | 2 | 0 | [alfresco-packaging](https://github.com/xkahn/alfresco-packaging) | Support files for packaging Alfresco Server |
@@ -133,7 +135,6 @@
 | 0 | 0 | 0 | [FIFAWorldCupDatabase](https://github.com/tzhenghao/FIFAWorldCupDatabase) | A simulation of a FIFA World Cup score and fixtures database using SQLite. |
 | 0 | 0 | 0 | [celiactracker](https://github.com/kaneisha/celiactracker) | None |
 | 0 | 0 | 0 | [xinhua](https://github.com/hawklithm/xinhua) | backend |
-| 0 | 0 | 0 | [IR_TO_XML](https://github.com/glebovpavel/IR_TO_XML) | ORACLE package, that returnt XML-data from IR |
 | 0 | 0 | 0 | [electiva_bases](https://github.com/davidmoralesrivera/electiva_bases) | None |
 | 0 | 0 | 0 | [wbs-tool-report-sql-scripts](https://github.com/git-commit/wbs-tool-report-sql-scripts) | Some SQL-Scripts to extract reports for the data structure of the WBS-Tool 2.0 (https://github.com/paffman/WBS-Project/releases/tag/WBS-2.0-final). |
 | 0 | 0 | 0 | [datainfo](https://github.com/ymijsters/datainfo) | None |
@@ -220,7 +221,6 @@
 | 0 | 0 | 0 | [happymoose-docker](https://github.com/nihildeb/happymoose-docker) | HappyMoose Dockerfiles |
 | 0 | 1 | 0 | [DatabaseStuff](https://github.com/BrandonGriffin/DatabaseStuff) | None |
 | 0 | 0 | 0 | [fanLab77](https://github.com/kikimoraLesnaja/fanLab77) | None |
-| 0 | 1 | 6 | [vgi](https://github.com/high-five-interactive/vgi) | None |
 | 0 | 0 | 0 | [test1](https://github.com/Zouzouil782/test1) | test1 |
 | 0 | 0 | 0 | [SidGitHubPracticeRepo](https://github.com/sidbbbb/SidGitHubPracticeRepo) | None |
 | 0 | 0 | 0 | [englishquotesdatabase](https://github.com/x16bkkamz6rkb78rzt7op/englishquotesdatabase) | This is a mysql database of 75968 english quotes. The four columns are id number, quote, author and genre. |
@@ -455,7 +455,6 @@
 | 0 | 0 | 0 | [bob_lpd](https://github.com/FablabLannion/bob_lpd) | Robot marcheur pour Les petits débrouillards |
 | 0 | 1 | 0 | [lme4-convergence](https://github.com/palday/lme4-convergence) | Example data for differences in convergence between lme4 versions |
 | 0 | 0 | 0 | [sql](https://github.com/zhousiliang163/sql) | None |
-| 0 | 0 | 0 | [grubbing_python](https://github.com/miguelarca/grubbing_python) | None |
 | 0 | 3 | 0 | [Legend-Emu](https://github.com/Starlight-129/Legend-Emu) | Dofus 1.29.1 Emulator based on Rubrum Solem (iCore) by Starlight |
 | 0 | 0 | 0 | [zoe-mysql](https://github.com/awanrky/zoe-mysql) | None |
 | 0 | 0 | 0 | [Hotel--Engenharia-de-Software](https://github.com/rbeninca/Hotel--Engenharia-de-Software) | None |
