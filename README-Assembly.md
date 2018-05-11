@@ -1,14 +1,14 @@
 ## This is a most popular repository list for Assembly sorted by number of stars
 |STARS|FORKS|ISSUES|NAME|DESCRIPTION|
 | --- | --- | --- | --- | --- |
-| 26609 | 3508 | 69 | [Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
-| 4681 | 945 | 16 | [mal](https://github.com/kanaka/mal) | mal - Make a Lisp |
+| 26614 | 3508 | 69 | [Apollo-11](https://github.com/chrislgarry/Apollo-11) | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| 4683 | 946 | 16 | [mal](https://github.com/kanaka/mal) | mal - Make a Lisp |
 | 4543 | 495 | 0 | [Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II) | A running-jumping-swordfighting game I made on the Apple II from 1985-89 |
 | 3582 | 299 | 2 | [pics](https://github.com/corkami/pics) | Posters, drawings... |
 | 3575 | 496 | 106 | [cjdns](https://github.com/cjdelisle/cjdns) | An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing. |
 | 2780 | 197 | 0 | [unix-history-repo](https://github.com/dspinellis/unix-history-repo) | Continuous Unix commit history from 1970 until today |
 | 2310 | 717 | 9 | [hello-world](https://github.com/leachim6/hello-world) | Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions! |
-| 2229 | 217 | 185 | [binaryen](https://github.com/WebAssembly/binaryen) | Compiler infrastructure and toolchain library for WebAssembly, in C++ |
+| 2230 | 217 | 186 | [binaryen](https://github.com/WebAssembly/binaryen) | Compiler infrastructure and toolchain library for WebAssembly, in C++ |
 | 1717 | 304 | 23 | [BareMetal-OS-legacy](https://github.com/ReturnInfinity/BareMetal-OS-legacy) | BareMetal is a 64-bit OS for x86-64 based computers. The OS is written entirely in Assembly while applications can be written in Assembly, C/C++, and Rust. |
 | 1693 | 338 | 19 | [raspberrypi](https://github.com/dwelch67/raspberrypi) | Raspberry Pi ARM based bare metal examples |
 | 1673 | 736 | 14 | [cpuminer](https://github.com/pooler/cpuminer) | CPU miner for Litecoin and Bitcoin |
@@ -16,22 +16,22 @@
 | 1569 | 242 | 10 | [pokered](https://github.com/pret/pokered) | disassembly of Pokémon Red/Blue |
 | 977 | 193 | 105 | [KnightOS](https://github.com/KnightOS/KnightOS) | OS for z80 calculators |
 | 968 | 202 | 25 | [pokecrystal](https://github.com/pret/pokecrystal) | disassembly of Pokémon Crystal |
-| 853 | 125 | 1 | [asm](https://github.com/0xAX/asm) | Learning assembly for linux-x64 |
-| 835 | 157 | 220 | [ring](https://github.com/briansmith/ring) | Safe, fast, small crypto using Rust |
+| 854 | 126 | 1 | [asm](https://github.com/0xAX/asm) | Learning assembly for linux-x64 |
+| 835 | 157 | 215 | [ring](https://github.com/briansmith/ring) | Safe, fast, small crypto using Rust |
 | 803 | 57 | 4 | [MineAssemble](https://github.com/Overv/MineAssemble) | A tiny bootable Minecraft clone written partly in x86 assembly |
 | 720 | 43 | 0 | [floppybird](https://github.com/icebreaker/floppybird) | Floppy Bird (OS) |
 | 695 | 79 | 1 | [SecondReality](https://github.com/mtuomi/SecondReality) | Source code and data of Second Reality by Future Crew in 1993 |
 | 643 | 34 | 0 | [tetros](https://github.com/daniel-e/tetros) | Tetris that fits into the boot sector. |
-| 628 | 148 | 15 | [virtualagc](https://github.com/virtualagc/virtualagc) | Virtual Apollo Guidance Computer (AGC) software |
+| 629 | 148 | 15 | [virtualagc](https://github.com/virtualagc/virtualagc) | Virtual Apollo Guidance Computer (AGC) software |
 | 619 | 76 | 8 | [thinc](https://github.com/explosion/thinc) | 🔮 spaCy's Machine Learning library for NLP in Python |
 | 561 | 376 | 122 | [BLHeli](https://github.com/bitdump/BLHeli) | BLHeli for brushless ESC firmware |
 | 550 | 32 | 1 | [calc.asm](https://github.com/flouthoc/calc.asm) | Minimal arithmetic calculator in x86 assembly |
-| 541 | 241 | 0 | [tools](https://github.com/nullsecuritynet/tools) | security and hacking tools, exploits, proof of concepts, shellcodes, scripts |
+| 542 | 241 | 0 | [tools](https://github.com/nullsecuritynet/tools) | security and hacking tools, exploits, proof of concepts, shellcodes, scripts |
 | 533 | 83 | 2 | [libbpg](https://github.com/mirrorer/libbpg) | libbpg (copy of the source code for easy access) |
 | 521 | 346 | 73 | [tgy](https://github.com/sim-/tgy) | tgy -- Open Source Firmware for ATmega-based Brushless ESCs |
 | 459 | 86 | 4 | [8086tiny](https://github.com/adriancable/8086tiny) | Official repository for 8086tiny: a tiny PC emulator/virtual machine |
 | 442 | 42 | 1 | [iOSAppInAssembly](https://github.com/richardjrossiii/iOSAppInAssembly) | An iOS app in assembly |
-| 436 | 29 | 42 | [ravi](https://github.com/dibyendumajumdar/ravi) | Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and LLVM based JIT compiler  |
+| 437 | 29 | 42 | [ravi](https://github.com/dibyendumajumdar/ravi) | Ravi Programming Language is a derivative of Lua 5.3 with limited optional static typing and LLVM based JIT compiler  |
 | 417 | 40 | 5 | [xos](https://github.com/omarrx024/xos) | Dead project. |
 | 378 | 59 | 1 | [x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) | Dozens of minimal operating systems to learn x86 system programming. Userland cheat at: https://github.com/cirosantilli/x86-assembly-cheat Keywords: hello world, bare bones, boot sector, MBR, BIOS, UEFI, VGA, GRUB, Multiboot, QEMU. |
 | 376 | 27 | 1 | [dissection](https://github.com/mewrev/dissection) | The dissection of a simple "hello world" ELF binary. |
@@ -45,22 +45,22 @@
 | 271 | 118 | 1 | [x265](https://github.com/videolan/x265) | https://bitbucket.org/multicoreware/x265/ git mirror |
 | 268 | 38 | 16 | [pcmos386v501](https://github.com/roelandjansen/pcmos386v501) | PC-MOS/386 v5.01 final release including cdrom driver sources. |
 | 268 | 48 | 1 | [pocs](https://github.com/corkami/pocs) | Proof of Concepts (PE, PDF...) |
+| 264 | 10 | 16 | [mooneye-gb](https://github.com/Gekkio/mooneye-gb) | A Game Boy research project and emulator written in Rust |
 | 263 | 82 | 4 | [KeccakCodePackage](https://github.com/gvanas/KeccakCodePackage) | Keccak Code Package |
-| 263 | 10 | 16 | [mooneye-gb](https://github.com/Gekkio/mooneye-gb) | A Game Boy research project and emulator written in Rust |
 | 260 | 46 | 6 | [gambatte](https://github.com/sinamas/gambatte) | None |
 | 256 | 7 | 0 | [halt](https://github.com/augustl/halt) | OS where everything is immutable! (Experimental) |
 | 253 | 32 | 0 | [sample-os](https://github.com/tuhdo/sample-os) | A sample OS as demonstrated in the book Operating System: From 0 to 1 |
 | 240 | 17 | 3 | [VexRiscv](https://github.com/SpinalHDL/VexRiscv) | A FPGA friendly 32 bit RISC-V CPU implementation |
 | 238 | 148 | 10 | [hrm-solutions](https://github.com/atesgoral/hrm-solutions) | Human Resource Machine solutions and size/speed hacks  |
 | 230 | 24 | 0 | [Unix-1st-Edition-jun72](https://github.com/c3x04/Unix-1st-Edition-jun72) | Restoration of 1st Edition UNIX kernel sources from pdf document. |
-| 227 | 11 | 0 | [arpilisp](https://github.com/marcpaq/arpilisp) | A Lisp interpreter for Raspberry Pi implemented in a single ARM assembly file |
+| 227 | 12 | 0 | [arpilisp](https://github.com/marcpaq/arpilisp) | A Lisp interpreter for Raspberry Pi implemented in a single ARM assembly file |
 | 223 | 31 | 0 | [jonesforth](https://github.com/nornagon/jonesforth) | Mirror of JONESFORTH |
 | 214 | 47 | 16 | [BareMetal-kernel](https://github.com/ReturnInfinity/BareMetal-kernel) | A very minimal, resource efficient exo-kernel |
 | 199 | 66 | 0 | [windows-syscall-table](https://github.com/tinysec/windows-syscall-table) | windows syscall table from xp ~ 10 rs3 |
 | 198 | 78 | 2 | [mikeOS](https://github.com/mig-hub/mikeOS) | Mirror for MikeOS 4.5 - Simple and educational Operating System written by Mike Saunders |
 | 192 | 5 | 4 | [arrow](https://github.com/influxdata/arrow) | Implementation of https://arrow.apache.org in Go |
-| 189 | 16 | 24 | [hacl-star](https://github.com/mitls/hacl-star) | HACL*, a formally verified cryptographic library written in F* |
-| 188 | 27 | 1 | [videocoreiv-qpu](https://github.com/hermanhermitage/videocoreiv-qpu) | Fun and Games with the Videocoreiv Quad Processor Units |
+| 189 | 16 | 25 | [hacl-star](https://github.com/mitls/hacl-star) | HACL*, a formally verified cryptographic library written in F* |
+| 187 | 27 | 1 | [videocoreiv-qpu](https://github.com/hermanhermitage/videocoreiv-qpu) | Fun and Games with the Videocoreiv Quad Processor Units |
 | 180 | 52 | 0 | [gcc_five_minute](https://github.com/lexdene/gcc_five_minute) | gcc五分钟系列 |
 | 179 | 6 | 0 | [asm-space-invaders](https://github.com/flxbe/asm-space-invaders) | A small, bootable clone of Space Invaders written in x86 Assembly |
 | 179 | 21 | 0 | [apfcp](https://github.com/vsergeev/apfcp) | x86 Assembly Primer for C Programmers |
@@ -72,10 +72,10 @@
 | 168 | 42 | 6 | [Ka-Radio](https://github.com/karawin/Ka-Radio) | A wifi webradio with only low cost boards ESP8266 and VS1053 |
 | 167 | 46 | 9 | [pokeemerald](https://github.com/pret/pokeemerald) | disassembly of Pokémon Emerald |
 | 166 | 69 | 5 | [helloworld](https://github.com/Prithvirajbilla/helloworld) | Helloworld programs in different languages,pull requests are welcome :) |
-| 165 | 8 | 322 | [its](https://github.com/PDP-10/its) | Incompatible Timesharing System |
+| 165 | 8 | 323 | [its](https://github.com/PDP-10/its) | Incompatible Timesharing System |
 | 159 | 7 | 0 | [c64-slack-client](https://github.com/jeff-1amstudios/c64-slack-client) | A Slack client for the Commodore 64 |
 | 157 | 18 | 1 | [hang](https://github.com/nathan-osman/hang) | Extremely simple Linux application that hangs until a signal is received. |
-| 156 | 4 | 0 | [ucity](https://github.com/AntonioND/ucity) | The open-source city-building game for Game Boy Color. |
+| 157 | 4 | 0 | [ucity](https://github.com/AntonioND/ucity) | The open-source city-building game for Game Boy Color. |
 | 156 | 7 | 0 | [armbot](https://github.com/wyc/armbot) | None |
 | 153 | 12 | 1 | [ulix](https://github.com/hgesser/ulix) | Ulix, the Literate Unix |
 | 147 | 16 | 0 | [geos](https://github.com/mist64/geos) | Source code of GEOS 2.0 for the Commodore 64 and 128 |
@@ -106,8 +106,8 @@
 | 119 | 7 | 2 | [ZGB](https://github.com/Zal0/ZGB) | A little engine for creating games for the Game Boy and Game Boy Color |
 | 118 | 27 | 122 | [z88dk](https://github.com/z88dk/z88dk) | The development kit for over fifty z80 machines - c compiler, assembler, linker, libraries. |
 | 117 | 17 | 1 | [blas](https://github.com/ziutek/blas) | Go implementation of BLAS (Basic Linear Algebra Subprograms) |
+| 117 | 24 | 1 | [siofra](https://github.com/Cybereason/siofra) | None |
 | 116 | 2 | 2 | [systemf](https://github.com/ajyoon/systemf) | a brainfuck interpreter supporting linux syscalls with an example HTTP server |
-| 116 | 24 | 1 | [siofra](https://github.com/Cybereason/siofra) | None |
 | 115 | 5 | 0 | [computers-are-easy](https://github.com/hxlnt/computers-are-easy) | 🏳️‍🌈 A "Hello World" NES ROM with fully-commented 6502 assembly-language source code. |
 | 112 | 9 | 1 | [iota-ledger-nano-s](https://github.com/peterwilli/iota-ledger-nano-s) | IOTA support on Ledger Nano S |
 | 110 | 35 | 35 | [Enigma](https://github.com/Kaelri/Enigma) | A featured "suite" for the Windows system monitoring application, Rainmeter. |
@@ -156,7 +156,7 @@
 | 74 | 12 | 1 | [c64js](https://github.com/mborgbrant/c64js) | A commodore 64 emulator written in vanilla JavaScript |
 | 74 | 21 | 20 | [Hantek6022API](https://github.com/rpcope1/Hantek6022API) | Hantek 6022BE Python API for Windows and Linux. |
 | 73 | 21 | 2 | [newhope](https://github.com/tpoeppelmann/newhope) | None |
-| 73 | 58 | 8 | [My-Wallet-V3-iOS](https://github.com/blockchain/My-Wallet-V3-iOS) | Blockchain iOS Wallet |
+| 73 | 58 | 9 | [My-Wallet-V3-iOS](https://github.com/blockchain/My-Wallet-V3-iOS) | Blockchain iOS Wallet |
 | 73 | 72 | 5 | [InDroid](https://github.com/romangol/InDroid) | Dalvik vm Instrumentation OS |
 | 70 | 1 | 0 | [dinozorus](https://github.com/vigo/dinozorus) | 1990'lı yıllara damgasını vuran efsane televizyon oyunu Dinozorus. Amiga 1200 - AGA |
 | 69 | 6 | 1 | [2048-gb](https://github.com/Sanqui/2048-gb) | a gameboy (and SMS) port of 2048 |
@@ -327,6 +327,7 @@
 | 30 | 0 | 0 | [Neslyric](https://github.com/0xabad1dea/Neslyric) | 8-bit music video framework in 6502 assembly |
 | 30 | 8 | 1 | [arm-mem](https://github.com/bavison/arm-mem) | ARM-accelerated versions of selected functions from <string.h> |
 | 30 | 17 | 0 | [Token-Stealing-Shellcode](https://github.com/MortenSchenk/Token-Stealing-Shellcode) | None |
+| 30 | 3 | 0 | [ages-disasm](https://github.com/Drenn1/ages-disasm) | Disassembly of Oracle of Ages |
 | 30 | 4 | 2 | [pynacl](https://github.com/seanlynch/pynacl) | Python wrapper for http://nacl.cace-project.eu/ |
 | 29 | 2 | 0 | [pbgzip](https://github.com/nh13/pbgzip) | Parallel Block GZIP |
 | 29 | 3 | 0 | [GBA](https://github.com/PeterLemon/GBA) | Game Boy Advance Bare Metal Assembly Programming |
@@ -334,7 +335,6 @@
 | 29 | 8 | 0 | [c64](https://github.com/0xc64/c64) | C64 Development - Assembly Language |
 | 29 | 17 | 0 | [No_Sandboxes](https://github.com/Th4nat0s/No_Sandboxes) | Test suite for bypassing Malware sandboxes. |
 | 29 | 2 | 1 | [flapple](https://github.com/digarok/flapple) | Flapple Bird - A de-make of Flappy Bird for the Apple II computer |
-| 29 | 3 | 0 | [ages-disasm](https://github.com/Drenn1/ages-disasm) | Disassembly of Oracle of Ages |
 | 29 | 4 | 1 | [Aevilia-GB](https://github.com/ISSOtm/Aevilia-GB) | A RPG for the Game Boy Color |
 | 29 | 9 | 1 | [mriscvcore](https://github.com/onchipuis/mriscvcore) | A 32-bit RISC-V processor for mriscv project |
 | 29 | 6 | 0 | [avr-vga](https://github.com/aarossig/avr-vga) | A VGA controller implemented on an AVR microcontroller. |
@@ -426,6 +426,7 @@
 | 22 | 7 | 0 | [avrop](https://github.com/mwrlabs/avrop) | ROP based Movfuscator VM |
 | 22 | 4 | 0 | [aes-armcortexm](https://github.com/Ko-/aes-armcortexm) | Fast, constant-time and masked AES assembly implementations for ARM Cortex-M3 and M4 |
 | 22 | 8 | 2 | [gigatron-rom](https://github.com/kervinck/gigatron-rom) | System, embedded apps and tooling for Gigatron |
+| 22 | 5 | 14 | [pokestadium](https://github.com/pret/pokestadium) | None |
 | 22 | 11 | 0 | [ase](https://github.com/andysworkshop/ase) | Andy's Workshop Sprite Engine |
 | 22 | 6 | 0 | [BootkitsBook](https://github.com/REhints/BootkitsBook) | repository with additional materials and source code |
 | 22 | 9 | 2 | [PIC16F1-USB-Bootloader](https://github.com/74hc595/PIC16F1-USB-Bootloader) | A tiny USB CDC bootloader for PIC16F1454/5/9 microcontrollers |
@@ -436,7 +437,6 @@
 | 21 | 15 | 2 | [gameboid](https://github.com/slp/gameboid) | Gameboy Advance emulator for Android phones |
 | 21 | 5 | 0 | [fash](https://github.com/douglascrockford/fash) | The Fash Fast Hash Family |
 | 21 | 2 | 0 | [talesofpopolon](https://github.com/santiontanon/talesofpopolon) | Tales of Popolon (MSX) |
-| 21 | 5 | 14 | [pokestadium](https://github.com/pret/pokestadium) | None |
 | 21 | 2 | 0 | [Obfuscate](https://github.com/macmade/Obfuscate) | C/C++ machine code obfuscation. |
 | 21 | 6 | 0 | [cyjon-server](https://github.com/akasei/cyjon-server) | Prosty wielozadaniowy system operacyjny, napisany w języku asemblera dla procesorów z rodziny amd64/x86-64. |
 | 21 | 0 | 1 | [rucc](https://github.com/south37/rucc) | C compiler written in Ruby |
@@ -601,88 +601,88 @@
 | 14 | 1 | 0 | [19XX](https://github.com/jordanbarkley/19XX) | The Premiere Super Smash Bros. 64 Hack by Cyjorg |
 | 14 | 12 | 5 | [optlink](https://github.com/DigitalMars/optlink) | None |
 | 14 | 1 | 0 | [feline](https://github.com/gnooth/feline) | Feline, a concatenative programming language (Windows and Linux x86-64). Early days. |
-| 14 | 1 | 1 | [homeopathic-antivirus](https://github.com/moritzjacobs/homeopathic-antivirus) |  Use homeopathic principles to protect your computer from viruses and worms! |
 | 14 | 4 | 0 | [vpmadd](https://github.com/vkrasnov/vpmadd) | Multiplication using AVX512 and AVX512IFMA instructions |
-| 14 | 2 | 0 | [bb313](https://github.com/johngineer/bb313) | A breadboarding platform for the ATTiny2313/4313 |
-| 14 | 4 | 1 | [UAE4Droid](https://github.com/shagr4th/UAE4Droid) | Amiga 500 Emulator for Android |
-| 14 | 5 | 0 | [Spb-Eph-Amiga-4k](https://github.com/drslem/Spb-Eph-Amiga-4k) | "Timur Lenk" and "Fistpig", Amiga 4ks by Spaceballs and Ephidrena |
 | 14 | 1 | 0 | [ructiss](https://github.com/kotetuco/ructiss) | A operating system in Rust. |
+| 14 | 5 | 0 | [Spb-Eph-Amiga-4k](https://github.com/drslem/Spb-Eph-Amiga-4k) | "Timur Lenk" and "Fistpig", Amiga 4ks by Spaceballs and Ephidrena |
+| 14 | 2 | 0 | [bb313](https://github.com/johngineer/bb313) | A breadboarding platform for the ATTiny2313/4313 |
+| 14 | 1 | 1 | [homeopathic-antivirus](https://github.com/moritzjacobs/homeopathic-antivirus) |  Use homeopathic principles to protect your computer from viruses and worms! |
+| 14 | 4 | 1 | [UAE4Droid](https://github.com/shagr4th/UAE4Droid) | Amiga 500 Emulator for Android |
 | 14 | 7 | 0 | [BurstSoftware](https://github.com/BurstTools/BurstSoftware) | None |
 | 14 | 8 | 2 | [Ninokuni](https://github.com/GradienWords/Ninokuni) | Hacks and tools for "Ni no Kuni" games |
 | 14 | 12 | 1 | [CrystalComplete](https://github.com/froggestspirit/CrystalComplete) | Disassembly of the hack Crystal Complete |
 | 14 | 23 | 1 | [Nand2Tetris](https://github.com/xctom/Nand2Tetris) | All projects for Nand2Teris |
 | 14 | 5 | 0 | [asm_concurrency](https://github.com/davidad/asm_concurrency) | A demo of concurrency primitives in x64 assembly |
 | 14 | 19 | 2 | [osfs03](https://github.com/yyu/osfs03) | Operating System From Scratch : learn OS by practice |
-| 14 | 0 | 0 | [Scarlett-Witch](https://github.com/Davitsu/Scarlett-Witch) | A GameBoy assembly game |
 | 14 | 2 | 1 | [nrf52-production-programming](https://github.com/NordicPlayground/nrf52-production-programming) | A guide to programming nRF52 series devices in production, along with test cases to verify implementation |
+| 14 | 0 | 0 | [Scarlett-Witch](https://github.com/Davitsu/Scarlett-Witch) | A GameBoy assembly game |
 | 14 | 13 | 0 | [nand2tetris](https://github.com/Sean-Der/nand2tetris) | nand2tetris problems |
 | 14 | 3 | 0 | [mecrisp-stellaris](https://github.com/lowfatcomputing/mecrisp-stellaris) | A native code Forth implementation for ARM-Cortex M microcontrollers. Upstream is at http://mecrisp.sourceforge.net/ (this repo is out-of-date) |
 | 14 | 0 | 0 | [68kTutorials](https://github.com/db-electronics/68kTutorials) | Tutorials to teach myself 68k assembly |
 | 14 | 5 | 0 | [mxass](https://github.com/mist64/mxass) | mxass, a cross assembler that targets Commodore 64-like platforms (6502/65816/Z80) |
-| 14 | 0 | 0 | [FYSOS](https://github.com/fysnet/FYSOS) | The FYSOS Operating System |
-| 14 | 17 | 0 | [dalvik](https://github.com/MiCode/dalvik) | add class interceptor into dalvik vm |
 | 14 | 1 | 0 | [cbm-edit-rom](https://github.com/sjgray/cbm-edit-rom) | Create standard or custom PET/CBM Editor ROMs |
+| 14 | 17 | 0 | [dalvik](https://github.com/MiCode/dalvik) | add class interceptor into dalvik vm |
+| 14 | 0 | 0 | [FYSOS](https://github.com/fysnet/FYSOS) | The FYSOS Operating System |
 | 14 | 0 | 0 | [3ds-totalcontrolhaxx](https://github.com/yellows8/3ds-totalcontrolhaxx) | Nintendo 3DS totalcontrolhaxx for <=v9.2. |
 | 13 | 2 | 0 | [spell-of-mastery](https://github.com/saniv/spell-of-mastery) | Innovative Turn-based Strategy with High Quality Pixel-Art Graphics |
-| 13 | 0 | 0 | [fcontext](https://github.com/reginaldl/fcontext) | Fast user context API (coroutine) |
 | 13 | 11 | 0 | [OpenEmu-Update](https://github.com/OpenEmu/OpenEmu-Update) | None |
+| 13 | 0 | 0 | [fcontext](https://github.com/reginaldl/fcontext) | Fast user context API (coroutine) |
 | 13 | 7 | 0 | [gpSP4Cute](https://github.com/Summeli/gpSP4Cute) | gpsp port for Symbian |
 | 13 | 3 | 0 | [injector](https://github.com/amezoure/injector) | Library Injector |
 | 13 | 5 | 2 | [rpi3-fosdem17](https://github.com/gingold-adacore/rpi3-fosdem17) | Bare metal demo code for Raspberry PI 3 |
-| 13 | 6 | 0 | [mystudynotes](https://github.com/unicornx/mystudynotes) | To archive all my study notes. |
 | 13 | 4 | 0 | [bootldr_demo](https://github.com/hasherezade/bootldr_demo) | Demo bootloaders - created just for fun |
-| 13 | 12 | 0 | [MASM32-graphical-effects](https://github.com/Xyl2k/MASM32-graphical-effects) | Various graphic effects from the scene. |
+| 13 | 6 | 0 | [mystudynotes](https://github.com/unicornx/mystudynotes) | To archive all my study notes. |
 | 13 | 4 | 15 | [writeos](https://github.com/solrex/writeos) | Automatically exported from code.google.com/p/writeos |
 | 13 | 3 | 0 | [amiga-assembly-crashcourse](https://github.com/uhef/amiga-assembly-crashcourse) | None |
 | 13 | 2 | 1 | [blitz2](https://github.com/nitrologic/blitz2) | Official Acid Software Amiga development tools |
+| 13 | 12 | 0 | [MASM32-graphical-effects](https://github.com/Xyl2k/MASM32-graphical-effects) | Various graphic effects from the scene. |
 | 13 | 7 | 0 | [jonesforth-macintel](https://github.com/ruda/jonesforth-macintel) | Port of JonesForth to Macintosh (Intel 32-bit) |
 | 13 | 0 | 0 | [go-sip13](https://github.com/dgryski/go-sip13) | siphash 1-3 |
 | 13 | 1 | 0 | [zelda_ocarina_mq_debug](https://github.com/camthesaxman/zelda_ocarina_mq_debug) | Disassembly of Legend of Zelda: Ocarina of Time Master Quest (debug) |
-| 13 | 2 | 0 | [lttphack](https://github.com/helgefmi/lttphack) | A romhack of "The Legend of Zelda: A Link to the Past" made for speedrunners |
 | 13 | 2 | 0 | [PowerMeter](https://github.com/vad7/PowerMeter) | Esp8266 Power meter with webserver |
+| 13 | 2 | 0 | [lttphack](https://github.com/helgefmi/lttphack) | A romhack of "The Legend of Zelda: A Link to the Past" made for speedrunners |
+| 13 | 0 | 1 | [nrom-template](https://github.com/pinobatch/nrom-template) | NES NROM project template for ca65 assembler |
+| 13 | 10 | 9 | [z3randomizer](https://github.com/mmxbass/z3randomizer) | None |
+| 13 | 0 | 0 | [defcon25_crypto_village](https://github.com/gtank/defcon25_crypto_village) | Materials accompanying "Implementing an Elliptic Curve in Go" |
+| 13 | 3 | 0 | [bootlib](https://github.com/m-ou-se/bootlib) | A minimalistic library to help making your x86 assembly program bootable. |
 | 13 | 6 | 0 | [hikaru](https://github.com/dbbbit/hikaru) | Just for fun |
 | 13 | 7 | 2 | [WeeGUI](https://github.com/blondie7575/WeeGUI) | A compact and easy to use GUI library for 8-bit Apple ][ computers |
-| 13 | 3 | 0 | [bootlib](https://github.com/m-ou-se/bootlib) | A minimalistic library to help making your x86 assembly program bootable. |
-| 13 | 10 | 9 | [z3randomizer](https://github.com/mmxbass/z3randomizer) | None |
-| 13 | 0 | 1 | [nrom-template](https://github.com/pinobatch/nrom-template) | NES NROM project template for ca65 assembler |
-| 13 | 0 | 0 | [defcon25_crypto_village](https://github.com/gtank/defcon25_crypto_village) | Materials accompanying "Implementing an Elliptic Curve in Go" |
 | 13 | 9 | 0 | [emet_bypass](https://github.com/shjalayeri/emet_bypass) | Bypassing EMET 3.5′s ROP Mitigations |
 | 13 | 3 | 0 | [V8Power](https://github.com/LoopZ/V8Power) | Putting the power of an 8-cylinder engine under the hood of DOS batch files. |
 | 13 | 0 | 0 | [PSGlib](https://github.com/sverx/PSGlib) | Z80 ASM library (and C conversion/compression tools) to allow replay of VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs |
 | 13 | 3 | 1 | [DevSound](https://github.com/DevEd2/DevSound) | Game Boy sound driver |
 | 13 | 1 | 0 | [gba_bios](https://github.com/camthesaxman/gba_bios) | Disassembly of the Game Boy Advance BIOS |
-| 13 | 2 | 0 | [blog-operating-system](https://github.com/TutorialsByNick/blog-operating-system) | This is the operating system for http://tutorialsbynick.com/writing-an-os-baby-steps/. Feel free to clone and follow along! |
-| 13 | 1 | 0 | [tzboot](https://github.com/winocm/tzboot) | A monstrosity of sorts. TrustZone stubloader for S5L8930. |
 | 13 | 0 | 0 | [wodscipe](https://github.com/shikhin/wodscipe) | A bootable 512-byte insane IDE. |
+| 13 | 1 | 0 | [tzboot](https://github.com/winocm/tzboot) | A monstrosity of sorts. TrustZone stubloader for S5L8930. |
 | 13 | 2 | 0 | [uforth](https://github.com/gerard/uforth) | A Forth interpreter in ARM assembly |
+| 13 | 2 | 0 | [blog-operating-system](https://github.com/TutorialsByNick/blog-operating-system) | This is the operating system for http://tutorialsbynick.com/writing-an-os-baby-steps/. Feel free to clone and follow along! |
 | 13 | 8 | 0 | [Assembly-Course](https://github.com/Dr-Kevin-Zhang/Assembly-Course) | None |
 | 13 | 0 | 1 | [falling-nes](https://github.com/tragicmuffin/falling-nes) | Falling - A game for the NES |
 | 13 | 1 | 0 | [gameboy](https://github.com/Kartones/gameboy) | Gameboy development examples and tools |
-| 13 | 28 | 13 | [XV6](https://github.com/THSS13/XV6) | 软件学院 2015年计算机系统软件 XV6 系统优化开发 |
 | 13 | 7 | 0 | [assembly](https://github.com/soci64/assembly) | Assembly language sources of old 6502 stuff, for preserving and understanding historical stuff |
-| 13 | 1 | 0 | [my_forth_-os-](https://github.com/august0815/my_forth_-os-) | forth standalone for 386  |
+| 13 | 28 | 13 | [XV6](https://github.com/THSS13/XV6) | 软件学院 2015年计算机系统软件 XV6 系统优化开发 |
 | 13 | 2 | 0 | [amiga-stuff](https://github.com/gidouin/amiga-stuff) | old 68000 amiga stuff I wrote on Amiga (1989+) |
-| 13 | 5 | 16 | [telefang](https://github.com/telefang/telefang) | Partial Telefang disassembly and English translation (on the patch branch) |
+| 13 | 1 | 0 | [my_forth_-os-](https://github.com/august0815/my_forth_-os-) | forth standalone for 386  |
 | 13 | 7 | 0 | [BIOS_Rootkit](https://github.com/gyje/BIOS_Rootkit) | 来自Freebuf评论区,一个UEFI马. |
-| 13 | 1 | 0 | [Code-Breaker](https://github.com/Defacto2/Code-Breaker) | Various tools, trainers and utilities created by Code Breaker during 1992-1995 |
-| 13 | 1 | 2 | [painthax](https://github.com/MrNbaYoh/painthax) | A PixelPaint secondary homebrew exploit for the Nintendo 3DS |
+| 13 | 5 | 16 | [telefang](https://github.com/telefang/telefang) | Partial Telefang disassembly and English translation (on the patch branch) |
 | 13 | 0 | 0 | [swars](https://github.com/mefistotelis/swars) | Syndicate Wars port, alternative binary for the classic Bullfrog game |
 | 13 | 4 | 0 | [snes-pad](https://github.com/amilkovich/snes-pad) | None |
-| 13 | 1 | 0 | [sse-strings](https://github.com/aklomp/sse-strings) | SSE string functions for x86-64 Linux |
-| 13 | 6 | 3 | [GnGeo-Pi](https://github.com/ymartel06/GnGeo-Pi) | NeoGeo emulator optimized for Raspberry Pi |
-| 13 | 5 | 0 | [pic-assembly-examples](https://github.com/magkopian/pic-assembly-examples) | This is a collection of basic PIC assembly examples for the 16F microcontroller family. |
-| 13 | 8 | 0 | [iworm.Darknet](https://github.com/mal-project/iworm.Darknet) | Darknet botnet/worm aims to be a distributed anonymous P2P-based simple botnet written in Assembly |
-| 13 | 2 | 0 | [os-dev-32](https://github.com/appusajeev/os-dev-32) | Writing a 32-bit Protected Mode OS in NASM |
+| 13 | 1 | 2 | [painthax](https://github.com/MrNbaYoh/painthax) | A PixelPaint secondary homebrew exploit for the Nintendo 3DS |
+| 13 | 1 | 0 | [Code-Breaker](https://github.com/Defacto2/Code-Breaker) | Various tools, trainers and utilities created by Code Breaker during 1992-1995 |
 | 13 | 2 | 0 | [bare-bones-bootloader](https://github.com/joesavage/bare-bones-bootloader) | http://www.reinterpretcast.com/creating-a-bare-bones-bootloader |
+| 13 | 1 | 0 | [sse-strings](https://github.com/aklomp/sse-strings) | SSE string functions for x86-64 Linux |
+| 13 | 2 | 0 | [os-dev-32](https://github.com/appusajeev/os-dev-32) | Writing a 32-bit Protected Mode OS in NASM |
+| 13 | 5 | 0 | [pic-assembly-examples](https://github.com/magkopian/pic-assembly-examples) | This is a collection of basic PIC assembly examples for the 16F microcontroller family. |
+| 13 | 6 | 3 | [GnGeo-Pi](https://github.com/ymartel06/GnGeo-Pi) | NeoGeo emulator optimized for Raspberry Pi |
+| 13 | 8 | 0 | [iworm.Darknet](https://github.com/mal-project/iworm.Darknet) | Darknet botnet/worm aims to be a distributed anonymous P2P-based simple botnet written in Assembly |
 | 13 | 0 | 0 | [rpi-arcade-kernel](https://github.com/nybblesio/rpi-arcade-kernel) | Raspberry Pi 3 arcade kernel written in ARM assembly |
 | 12 | 1 | 0 | [Vide](https://github.com/malbanGit/Vide) | Vectrex Integrated Development Environment |
 | 12 | 4 | 0 | [neopenbios](https://github.com/neogeodev/neopenbios) | Open source bios for the NeoGeo |
 | 12 | 5 | 0 | [x86rc4](https://github.com/defuse/x86rc4) | A tiny x86 implementation of RC4 |
 | 12 | 0 | 3 | [AVR-Assembly-Cookbook](https://github.com/fmorgner/AVR-Assembly-Cookbook) | A joined effort to provide the community with a guide to nice and clean AVR assembly programming |
 | 12 | 1 | 1 | [carazu](https://github.com/mholtkamp/carazu) | Gameboy platformer written in assembly |
-| 12 | 1 | 2 | [a2audit](https://github.com/zellyn/a2audit) | Apple II audit routines: for testing your Apple II or emulator |
-| 12 | 4 | 0 | [Mini_Bind_Shell](https://github.com/xillwillx/Mini_Bind_Shell) | a CMD shell in masm that listens on port 8080  |
 | 12 | 2 | 0 | [pokemon-gen3-hq-sound-mixer](https://github.com/angelXwind/pokemon-gen3-hq-sound-mixer) | ipatix's high quality sound mixer for the Generation III Pokemon games. |
+| 12 | 4 | 0 | [Mini_Bind_Shell](https://github.com/xillwillx/Mini_Bind_Shell) | a CMD shell in masm that listens on port 8080  |
+| 12 | 1 | 2 | [a2audit](https://github.com/zellyn/a2audit) | Apple II audit routines: for testing your Apple II or emulator |
 | 12 | 7 | 0 | [x86_shellcode_tutorial](https://github.com/bruce30262/x86_shellcode_tutorial) | A training course for BambooFox   |
 | 12 | 64 | 4 | [sp106b](https://github.com/cccnqu/sp106b) | 系統程式 -- Nand2tetris Part II (金門大學 / 資訊工程系 106 下學期 ) |
 | 12 | 1 | 0 | [faster-map](https://github.com/aantron/faster-map) | A tail-recursive list map with good performance for all list sizes. Not actually written in assembly. |
@@ -692,15 +692,15 @@
 | 12 | 8 | 0 | [ERebuilder](https://github.com/number201724/ERebuilder) | eyuyan image rebuild tools source code |
 | 12 | 3 | 2 | [SNES-SA-1-demo](https://github.com/DocSchoko/SNES-SA-1-demo) | a litte 3d renderer for the SNES written in 65816 assembly |
 | 12 | 9 | 10 | [interfaz7a-Archived](https://github.com/tectijuana/interfaz7a-Archived) | Assembly language Course |
-| 12 | 3 | 0 | [flappybird4msx](https://github.com/plainspooky/flappybird4msx) | My version of Flappy Bird for MSX Computers |
 | 12 | 0 | 0 | [nanorc4](https://github.com/FauxFaux/nanorc4) | A very small, almost-encryption library |
+| 12 | 3 | 0 | [flappybird4msx](https://github.com/plainspooky/flappybird4msx) | My version of Flappy Bird for MSX Computers |
 | 12 | 0 | 0 | [swiftness](https://github.com/neilpa/swiftness) | NES emulator in Swift |
-| 12 | 2 | 0 | [apple2_hgr_font_tutorial](https://github.com/Michaelangel007/apple2_hgr_font_tutorial) | Apple ][ //e HGR Font Tutorial |
 | 12 | 0 | 0 | [dkdasm](https://github.com/furrykef/dkdasm) | Donkey Kong hacking kit |
+| 12 | 2 | 0 | [apple2_hgr_font_tutorial](https://github.com/Michaelangel007/apple2_hgr_font_tutorial) | Apple ][ //e HGR Font Tutorial |
 | 12 | 5 | 0 | [nand2tetris](https://github.com/davidbrenner/nand2tetris) | Implementation of a general purpose computer and OS built from first principles. |
 | 12 | 1 | 0 | [RetailClerk89](https://github.com/huguesjohnson/RetailClerk89) | Retail Clerk '89 is a personal exercise to learn Sega Genesis programming. This might even turn into a real game demo one day. |
-| 12 | 4 | 4 | [nanoBoot](https://github.com/volium/nanoBoot) | nanoBoot - 512 byte USB HID Bootloader for ATmega16U4/ATmega32U4 |
 | 12 | 1 | 0 | [pe](https://github.com/nalsakas/pe) | pe |
+| 12 | 4 | 4 | [nanoBoot](https://github.com/volium/nanoBoot) | nanoBoot - 512 byte USB HID Bootloader for ATmega16U4/ATmega32U4 |
 | 12 | 4 | 0 | [RasPi-bare](https://github.com/MichaelBell/RasPi-bare) | Bare metal code for the raspberry Pi |
 | 12 | 0 | 0 | [bsxbios_dis](https://github.com/LuigiBlood/bsxbios_dis) | BS-X BIOS Disassembly |
 | 12 | 0 | 0 | [mesh](https://github.com/davidad/mesh) | Software from scratch. An OS with the heart of a database. |
@@ -887,6 +887,7 @@
 | 9 | 3 | 2 | [HiSprite](https://github.com/blondie7575/HiSprite) | A hi-res sprite compiler for Apple II |
 | 9 | 0 | 0 | [nesdoug](https://github.com/BubaVV/nesdoug) | Nesdoug tutorial about NES games development in C |
 | 9 | 1 | 0 | [bfboot](https://github.com/mintsuki/bfboot) | A full brainfuck to bootable OS image compiler. |
+| 9 | 0 | 0 | [MSX](https://github.com/bladeba/MSX) | MSX programming |
 | 9 | 1 | 0 | [lneditor](https://github.com/regomne/lneditor) | A multiline editor for translators |
 | 9 | 3 | 1 | [test-arm-kernel-memcpy](https://github.com/hglm/test-arm-kernel-memcpy) | Experimental benchmark and test toolkit for optimized ARM memcpy/memset functions in the Linux kernel |
 | 9 | 3 | 0 | [OpenCL_Raytracer](https://github.com/markbecker/OpenCL_Raytracer) | A Raytracer utilizing OpenCL |
@@ -900,6 +901,7 @@
 | 9 | 0 | 0 | [yoshisisland-practice-hack](https://github.com/Arnethegreat/yoshisisland-practice-hack) | Practice hack for Yoshi's Island designed to be used on a SNES console |
 | 9 | 1 | 0 | [MyAmigaIntros](https://github.com/spifd/MyAmigaIntros) | My old 90s Amiga intros source code |
 | 9 | 0 | 8 | [libucontext](https://github.com/kaniini/libucontext) | ucontext implementation featuring glibc-compatible ABI |
+| 9 | 0 | 0 | [c64game](https://github.com/wbovela/c64game) | c64 game code in assembly for kick assembler |
 | 9 | 2 | 22 | [HuDK](https://github.com/BlockoS/HuDK) | ASM and C open source software development kit for the NEC PC Engine |
 | 9 | 2 | 0 | [PlantBoy](https://github.com/exezin/PlantBoy) | A Gameboy DMG game written in z80 asm for LudumDare |
 | 9 | 0 | 0 | [EightZero](https://github.com/Noah1989/EightZero) | 8-bit microcomputer from scratch |
@@ -913,6 +915,7 @@
 | 9 | 3 | 2 | [wenlin_db_scanner](https://github.com/pwnall/wenlin_db_scanner) | Extracts the data from the Wenlin dictionary program |
 | 9 | 0 | 0 | [x86-Enigma](https://github.com/samdmarshall/x86-Enigma) | World War 2 German Enigma Encryption Machine in x86 assembly. |
 | 9 | 0 | 0 | [romdisk](https://github.com/cnvogelg/romdisk) | Boot an Amiga from a disk image embedded into the ext. ROM |
+| 9 | 3 | 0 | [kiloboot](https://github.com/mitxela/kiloboot) | 1kB TFTP Ethernet bootloader for ATmega328P and ENC28J60 |
 | 9 | 4 | 0 | [pokeorange](https://github.com/PiaCarrot/pokeorange) | ROM Hack of Crystal |
 | 9 | 3 | 0 | [hd6309sbc](https://github.com/tomcircuit/hd6309sbc) | Hitachi HD6309 Singleboard Computer  |
 | 9 | 6 | 1 | [sgemm_hsw](https://github.com/pigirons/sgemm_hsw) | This is a sgemm implementation on Intel Haswell |
@@ -987,17 +990,14 @@
 | 8 | 1 | 0 | [Those-Who-Leave](https://github.com/KoltesDigital/Those-Who-Leave) | PC 4k intro, ranked #2 at Evoke 2017. |
 | 8 | 3 | 0 | [WriteYourOwnOS](https://github.com/geekskool/WriteYourOwnOS) | Write your own simple OS |
 | 8 | 3 | 1 | [ESP8266-AT](https://github.com/TomerCo/ESP8266-AT) | ESP8266 AT Commands |
-| 8 | 0 | 0 | [MSX](https://github.com/bladeba/MSX) | MSX programming |
 | 8 | 0 | 0 | [Assembly-Web-Server](https://github.com/BElgarten/Assembly-Web-Server) | A webserver for OSX (or maybe all XNU systems, I'm not sure) written in Assembly |
 | 8 | 6 | 1 | [RollercoasterSimulator](https://github.com/andrewnakas/RollercoasterSimulator) | A open source narrow and broad VR Rollercoaster game for mobile. |
 | 8 | 1 | 0 | [AVR-ASM-Software-UART](https://github.com/sirgal/AVR-ASM-Software-UART) | Simple software UART for AVR microcontrollers, written in assembly |
 | 8 | 2 | 0 | [dust-tutorial-c64-first-intro](https://github.com/actraiser/dust-tutorial-c64-first-intro) | A very simple C64 intro with a color cycle effect and music on the interrupt |
 | 8 | 1 | 0 | [Symphonie](https://github.com/MastaTabs/Symphonie) | Source to 256 channel Amiga music tracker made compilable |
 | 8 | 0 | 0 | [wasm-filter](https://github.com/migerh/wasm-filter) | Simple wasm image filter example |
-| 8 | 0 | 0 | [c64game](https://github.com/wbovela/c64game) | c64 game code in assembly for kick assembler |
 | 8 | 1 | 0 | [zeldaalttp](https://github.com/camthesaxman/zeldaalttp) | Disassembly of Legend of Zelda A Link to the Past and Four Swords |
 | 8 | 2 | 1 | [ROPInstaller](https://github.com/WinterMute/ROPInstaller) | 3DS ds profile exploit installer |
 | 8 | 2 | 0 | [asm-atari-2600](https://github.com/johnidm/asm-atari-2600) | Sample source code games Atari 2600 |
 | 8 | 0 | 0 | [toy-os](https://github.com/aosmith/toy-os) | A simple x86 operating system |
 | 8 | 2 | 1 | [AES-ARM-NEON](https://github.com/junwei-wang/AES-ARM-NEON) | Efficient implementation of maksed AES on ARM NEON |
-| 8 | 6 | 0 | [nesworkshop](https://github.com/kzurawel/nesworkshop) | Code for my NES assembly workshop |

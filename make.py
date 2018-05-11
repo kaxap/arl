@@ -24,7 +24,7 @@ KEY_ITEMS = "items"
 
 languages = ["Python", "Java", "C", "CPP", "SQL", "Node", "CSharp", "PHP", "Ruby", "TypeScript", "Swift", "ObjectiveC",
              "VB.net", "Assembly", "R", "Perl", "MATLAB", "Go", "Scala", "Groovy", "Lua", "Haskell", "CoffeeScript",
-             "Clojure"]
+             "Clojure", "Rust"]
 
 
 class WrongReturnCodeException(Exception):

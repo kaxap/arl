@@ -1,11 +1,11 @@
 ## This is a most popular repository list for Perl sorted by number of stars
 |STARS|FORKS|ISSUES|NAME|DESCRIPTION|
 | --- | --- | --- | --- | --- |
-| 9914 | 206 | 18 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: |
+| 9917 | 206 | 18 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) | Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada: |
 | 7063 | 898 | 10 | [gitolite](https://github.com/sitaramc/gitolite) | Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features. |
-| 5899 | 668 | 66 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | Stack trace visualizer |
-| 4704 | 330 | 11 | [cloc](https://github.com/AlDanial/cloc) | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
-| 4309 | 758 | 35 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. |
+| 5900 | 668 | 67 | [FlameGraph](https://github.com/brendangregg/FlameGraph) | Stack trace visualizer |
+| 4705 | 330 | 11 | [cloc](https://github.com/AlDanial/cloc) | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. |
+| 4311 | 758 | 35 | [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) | MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. |
 | 3937 | 220 | 19 | [Expose](https://github.com/Jack000/Expose) | A simple static site generator for photoessays |
 | 3398 | 2085 | 14 | [EQGRP](https://github.com/x0rz/EQGRP) | Decrypted content of eqgrp-auction-file.tar.xz |
 | 2961 | 372 | 2 | [sicp-pdf](https://github.com/sarabander/sicp-pdf) | SICP PDF with Texinfo and LaTeX source |
@@ -13,8 +13,8 @@
 | 1989 | 363 | 1 | [nginx-tutorials](https://github.com/openresty/nginx-tutorials) | Nginx Tutorials |
 | 1966 | 468 | 11 | [mojo](https://github.com/kraih/mojo) | :sparkles: Mojolicious - Perl real-time web framework |
 | 1931 | 529 | 67 | [ua-parser](https://github.com/tobie/ua-parser) | A multi-language port of Browserscope's user agent parser. |
-| 1811 | 90 | 16 | [rcm](https://github.com/thoughtbot/rcm) | rc file (dotfile) management |
-| 1495 | 319 | 7 | [Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq) | 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用 |
+| 1812 | 90 | 16 | [rcm](https://github.com/thoughtbot/rcm) | rc file (dotfile) management |
+| 1494 | 319 | 7 | [Mojo-Webqq](https://github.com/sjdy521/Mojo-Webqq) | 使用Perl语言（不会没关系）编写的smartqq/webqq客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用 |
 | 1403 | 124 | 66 | [sqitch](https://github.com/theory/sqitch) | Sane database change management |
 | 1371 | 483 | 56 | [ABTestingGateway](https://github.com/CNSRE/ABTestingGateway) | None |
 | 1364 | 206 | 33 | [duckduckgo](https://github.com/duckduckgo/duckduckgo) | DuckDuckGo Instant Answer Infrastructure |
@@ -26,7 +26,7 @@
 | 1075 | 312 | 3 | [Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester) | Linux Exploit Suggester; based on operating system release number  |
 | 1003 | 58 | 16 | [git-cal](https://github.com/k4rthik/git-cal) | github like contributions calendar on terminal |
 | 985 | 198 | 57 | [imapsync](https://github.com/imapsync/imapsync) | None |
-| 979 | 503 | 5 | [MultiMarkdown](https://github.com/fletcher/MultiMarkdown) | Expanded perl version of John Gruber's original Markdown --- No longer under active development since MMD 3 |
+| 979 | 504 | 5 | [MultiMarkdown](https://github.com/fletcher/MultiMarkdown) | Expanded perl version of John Gruber's original Markdown --- No longer under active development since MMD 3 |
 | 979 | 609 | 38 | [contrib](https://github.com/munin-monitoring/contrib) | Contributed stuff for munin (plugins, tools, etc...) |
 | 940 | 63 | 3 | [rainbarf](https://github.com/creaktive/rainbarf) | CPU/RAM/battery stats chart bar for tmux (and GNU screen) |
 | 939 | 213 | 15 | [openresty-systemtap-toolkit](https://github.com/openresty/openresty-systemtap-toolkit) | Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap |
@@ -37,7 +37,7 @@
 | 832 | 94 | 0 | [ack1](https://github.com/beyondgrep/ack1) | This repository is for ack 1.x, which is **no longer being maintained**.  DO NOT SUBMIT ISSUES HERE.  ack 2.0 has a new GitHub project at |
 | 795 | 65 | 19 | [git-deploy](https://github.com/git-deploy/git-deploy) | Tool to manage using git as a deployment management tool |
 | 790 | 100 | 3 | [Golang-Regex-Tutorial](https://github.com/StefanSchroeder/Golang-Regex-Tutorial) | Golang - Regular Expression Tutorial |
-| 774 | 94 | 20 | [gitprep](https://github.com/yuki-kimoto/gitprep) | Portable GitHub system into your own server |
+| 774 | 94 | 21 | [gitprep](https://github.com/yuki-kimoto/gitprep) | Portable GitHub system into your own server |
 | 769 | 45 | 12 | [nodebrew](https://github.com/hokaccha/nodebrew) | Node.js version manager |
 | 768 | 258 | 175 | [webmin](https://github.com/webmin/webmin) | Webmin source code |
 | 768 | 2003 | 33 | [zeroclickinfo-goodies](https://github.com/duckduckgo/zeroclickinfo-goodies) | DuckDuckGo Instant Answers based on Perl & JavaScript |
@@ -48,15 +48,15 @@
 | 708 | 235 | 74 | [Dancer](https://github.com/PerlDancer/Dancer) | The easiest way to write web applications with Perl (Perl web micro-framework) |
 | 698 | 137 | 12 | [authentic-theme](https://github.com/qooob/authentic-theme) | Theme for the best server management panel of the 21st Century |
 | 680 | 180 | 4 | [dvcs-ripper](https://github.com/kost/dvcs-ripper) | Rip web accessible (distributed) version control systems: SVN/GIT/HG... |
-| 661 | 296 | 28 | [nagios-plugins](https://github.com/HariSekhon/nagios-plugins) | Hadoop, Docker, Kafka, Elasticsearch, RabbitMQ, Redis, HBase, Solr, Cassandra, Jenkins, Travis CI, ZooKeeper, HDFS, Yarn, Hive, Presto, Drill, Impala, Consul, Spark, Ambari, Hortonworks, Cloudera, MapR, Neo4j, Docker, HAProxy, MySQL, Linux, DNS, Whois, SSL Certs, Yum Security Updates, Mesos, Riak, MongoDB, Memcached, Couchbase, CouchDB. Products: Attivio, Blue Talon, Datameer, H2O, WanDisco, Zaloni |
+| 663 | 296 | 28 | [nagios-plugins](https://github.com/HariSekhon/nagios-plugins) | Hadoop, Docker, Kafka, Elasticsearch, RabbitMQ, Redis, HBase, Solr, Cassandra, Jenkins, Travis CI, ZooKeeper, HDFS, Yarn, Hive, Presto, Drill, Impala, Consul, Spark, Ambari, Hortonworks, Cloudera, MapR, Neo4j, Docker, HAProxy, MySQL, Linux, DNS, Whois, SSL Certs, Yum Security Updates, Mesos, Riak, MongoDB, Memcached, Couchbase, CouchDB. Products: Attivio, Blue Talon, Datameer, H2O, WanDisco, Zaloni |
 | 656 | 38 | 8 | [st](https://github.com/nferraz/st) | simple statistics from the command line |
 | 650 | 80 | 77 | [sanoid](https://github.com/jimsalterjrs/sanoid) | Policy-driven snapshot management and replication tools.  Currently using ZFS for underlying next-gen storage, with explicit plans to support btrfs when btrfs becomes more reliable.  Primarily intended for Linux, but BSD use is supported and reasonably frequently tested. |
 | 625 | 168 | 25 | [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) | High-performance WAF built on the OpenResty stack |
 | 617 | 66 | 6 | [speedread](https://github.com/pasky/speedread) | A simple terminal-based open source Spritz-alike (per-word RSVP aligned on optimal reading points) |
 | 609 | 189 | 94 | [cpanminus](https://github.com/miyagawa/cpanminus) | cpanminus - get, unpack, build and install modules from CPAN  |
 | 601 | 182 | 22 | [modern_perl_book](https://github.com/chromatic/modern_perl_book) | Modern Perl: the book |
-| 598 | 682 | 126 | [openkore](https://github.com/OpenKore/openkore) | A free/open source client and automation tool for Ragnarok Online |
-| 585 | 194 | 141 | [App-perlbrew](https://github.com/gugod/App-perlbrew) | Manage perl installations in your $HOME |
+| 598 | 682 | 127 | [openkore](https://github.com/OpenKore/openkore) | A free/open source client and automation tool for Ragnarok Online |
+| 585 | 194 | 142 | [App-perlbrew](https://github.com/gugod/App-perlbrew) | Manage perl installations in your $HOME |
 | 584 | 228 | 35 | [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) | Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part |
 | 582 | 87 | 1 | [urxvt-perls](https://github.com/muennich/urxvt-perls) | Perl extensions for the rxvt-unicode terminal emulator |
 | 576 | 210 | 1 | [mlf](https://github.com/huichen/mlf) | 大数据机器学习框架 |
@@ -70,13 +70,13 @@
 | 476 | 286 | 5 | [dotphiles](https://github.com/dotphiles/dotphiles) | A community driven framework of dotfiles. |
 | 457 | 47 | 34 | [mt-aws-glacier](https://github.com/vsespb/mt-aws-glacier) | Perl Multithreaded Multipart sync to Amazon Glacier |
 | 453 | 200 | 89 | [Plack](https://github.com/plack/Plack) | PSGI toolkit and server adapters |
-| 450 | 158 | 35 | [sortphotos](https://github.com/andrewning/sortphotos) | SortPhotos is a Python script that organizes photos and videos into folders using date/time information |
-| 439 | 334 | 49 | [otrs](https://github.com/OTRS/otrs) | OTRS is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. With a fast implementation and easy customization to your needs it helps you reducing costs and increasing the efficiency and transparency of your business communication.   |
+| 450 | 159 | 35 | [sortphotos](https://github.com/andrewning/sortphotos) | SortPhotos is a Python script that organizes photos and videos into folders using date/time information |
+| 438 | 334 | 49 | [otrs](https://github.com/OTRS/otrs) | OTRS is one of the most flexible web-based ticketing systems used for Customer Service, Help Desk, IT Service Management. With a fast implementation and easy customization to your needs it helps you reducing costs and increasing the efficiency and transparency of your business communication.   |
 | 435 | 173 | 23 | [jFeed](https://github.com/jfhovinne/jFeed) | jQuery RSS/ATOM feed parser plugin |
 | 429 | 106 | 10 | [ec2-consistent-snapshot](https://github.com/alestic/ec2-consistent-snapshot) | Initiate consistent EBS snapshots in Amazon EC2 |
 | 427 | 84 | 72 | [carton](https://github.com/perl-carton/carton) | Bundler or pip freeze for Perl |
 | 426 | 155 | 51 | [rt](https://github.com/bestpractical/rt) | Request Tracker, an enterprise-grade issue tracking system |
-| 424 | 22 | 30 | [trizen](https://github.com/trizen/trizen) | Lightweight AUR Package Manager |
+| 425 | 22 | 30 | [trizen](https://github.com/trizen/trizen) | Lightweight AUR Package Manager |
 | 416 | 251 | 127 | [Dancer2](https://github.com/PerlDancer/Dancer2) | Perl Dancer Next Generation (rewrite of Perl Dancer) |
 | 410 | 61 | 29 | [xSwipe](https://github.com/iberianpig/xSwipe) | Multitouch gestures with synaptics dirver on X11, Linux |
 | 409 | 149 | 202 | [packetfence](https://github.com/inverse-inc/packetfence) | PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks. |
@@ -96,8 +96,8 @@
 | 360 | 93 | 14 | [aws](https://github.com/timkay/aws) | Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB |
 | 352 | 180 | 205 | [fixmystreet](https://github.com/mysociety/fixmystreet) | This is mySociety's popular map-based reporting platform: easy to install in new countries and regions |
 | 345 | 70 | 7 | [ggautoblocker](https://github.com/freebsdgirl/ggautoblocker) | Good Game Auto Blocker |
+| 341 | 189 | 4 | [XAttacker](https://github.com/Moham3dRiahi/XAttacker) | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter |
 | 339 | 77 | 57 | [fwknop](https://github.com/mrash/fwknop) | Single Packet Authorization > Port Knocking |
-| 339 | 189 | 4 | [XAttacker](https://github.com/Moham3dRiahi/XAttacker) | X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter |
 | 338 | 96 | 7 | [stapxx](https://github.com/openresty/stapxx) | Simple macro language extentions to systemtap |
 | 337 | 66 | 30 | [noembed](https://github.com/leedo/noembed) | oEmbed gateway service with additional non-oEmbed sources |
 | 334 | 80 | 0 | [metasploit-vulnerability-emulator](https://github.com/rapid7/metasploit-vulnerability-emulator) | Created by Jin Qian via the GitHub Connector |
@@ -124,7 +124,7 @@
 | 283 | 44 | 6 | [timeout](https://github.com/pshved/timeout) | A script to measure and limit CPU time and memory consumption of black-box processes in Linux |
 | 278 | 86 | 2 | [dotdotpwn](https://github.com/wireghoul/dotdotpwn) | DotDotPwn - The Directory Traversal Fuzzer |
 | 275 | 89 | 4 | [zentyal](https://github.com/zentyal/zentyal) | Linux Small Business Server |
-| 273 | 178 | 140 | [metacpan-web](https://github.com/metacpan/metacpan-web) | Web interface for MetaCPAN |
+| 273 | 177 | 140 | [metacpan-web](https://github.com/metacpan/metacpan-web) | Web interface for MetaCPAN |
 | 271 | 28 | 5 | [feedgnuplot](https://github.com/dkogan/feedgnuplot) | Tool to plot realtime and stored data from the commandline, using gnuplot. This is the repo for 'feedgnuplot' on CPAN |
 | 271 | 68 | 1 | [nmt-tips](https://github.com/neubig/nmt-tips) | A tutorial about neural machine translation including tips on building practical systems |
 | 268 | 23 | 11 | [thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) | Infrastructure for examining and patching Thinkpad embedded controller firmware |
@@ -139,7 +139,7 @@
 | 257 | 44 | 89 | [bucardo](https://github.com/bucardo/bucardo) | Bucardo multimaster and master/slave Postgres replication |
 | 256 | 169 | 64 | [trinityrnaseq](https://github.com/trinityrnaseq/trinityrnaseq) | Trinity RNA-Seq de novo transcriptome assembly |
 | 255 | 28 | 2 | [programming-openresty](https://github.com/openresty/programming-openresty) | Programming OpenResty Book |
-| 250 | 76 | 69 | [znapzend](https://github.com/oetiker/znapzend) | zfs backup with remote capabilities and mbuffer integration. |
+| 250 | 76 | 70 | [znapzend](https://github.com/oetiker/znapzend) | zfs backup with remote capabilities and mbuffer integration. |
 | 250 | 105 | 28 | [catalyst-runtime](https://github.com/perl-catalyst/catalyst-runtime) | The Elegant MVC Web Application Framework |
 | 247 | 32 | 3 | [pgbackrest](https://github.com/pgbackrest/pgbackrest) | Reliable PostgreSQL Backup & Restore |
 | 247 | 76 | 5 | [varnish-devicedetect](https://github.com/varnishcache/varnish-devicedetect) | VCL based device detection for Varnish Cache. |
@@ -226,7 +226,7 @@
 | 160 | 16 | 0 | [Graph-Easy](https://github.com/ironcamel/Graph-Easy) | Convert or render graphs (as ASCII, HTML, SVG or via Graphviz) |
 | 158 | 135 | 3 | [slowloris.pl](https://github.com/llaera/slowloris.pl) | A new DOS Perl Programm |
 | 158 | 12 | 4 | [Waldo](https://github.com/jtaby/Waldo) | A generic port of TextMate's Find-In-Project, with associated MacVim plugin |
-| 157 | 45 | 67 | [LaTeXML](https://github.com/brucemiller/LaTeXML) | LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. |
+| 157 | 45 | 63 | [LaTeXML](https://github.com/brucemiller/LaTeXML) | LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. |
 | 157 | 41 | 3 | [textwrangler-bbedit-solarized](https://github.com/rcarmo/textwrangler-bbedit-solarized) | solarized color scheme for BBEdit and TextWrangler |
 | 157 | 38 | 61 | [pacmanager](https://github.com/perseo22/pacmanager) | Perl/GTK Gnome SSH GUI on steroids. Configure SSH/Telnet connections: users, passwords, EXPECT regular expressions, macros, ... |
 | 157 | 64 | 10 | [hoborg](https://github.com/JJ/hoborg) | A dieselpunk novel with Spanish-created robot hobos in a balcanized America at the beginning of the XX century |
@@ -235,7 +235,7 @@
 | 156 | 54 | 16 | [munin-mysql](https://github.com/kjellm/munin-mysql) | Improved MySQL Graphs for Munin |
 | 155 | 28 | 14 | [twitrssme](https://github.com/ciderpunx/twitrssme) | TwitRSS.me: Tool to make Twittter timelines and searches into RSS feeds |
 | 155 | 30 | 2 | [Roboo](https://github.com/yuri-gushin/Roboo) | Roboo - HTTP Robot Mitigator |
-| 155 | 32 | 19 | [altium2kicad](https://github.com/thesourcerer8/altium2kicad) | Altium to KiCad converter for PCB and schematics |
+| 155 | 32 | 20 | [altium2kicad](https://github.com/thesourcerer8/altium2kicad) | Altium to KiCad converter for PCB and schematics |
 | 155 | 52 | 0 | [fierce-domain-scanner](https://github.com/davidpepper/fierce-domain-scanner) | Fierce.pl Domain Scanner |
 | 154 | 78 | 0 | [hackmysql.com](https://github.com/daniel-nichter/hackmysql.com) | Deprecated tools from HackMySQL.com |
 | 153 | 47 | 31 | [elsa](https://github.com/mcholste/elsa) | Enterprise Log Search and Archive |
@@ -256,7 +256,6 @@
 | 147 | 5 | 3 | [djdt-flamegraph](https://github.com/23andMe/djdt-flamegraph) | Flamegraphs for Django Debug Toolbar |
 | 146 | 34 | 118 | [xchataqua](https://github.com/xchataqua/xchataqua) | An IRC client, OS X native front-end for XChat ( http://itunes.apple.com/app/id447521961 ) |
 | 146 | 65 | 9 | [quran.com-images](https://github.com/quran/quran.com-images) | images using fonts from King Fahed Complex / qurancomplex.org |
-| 145 | 12 | 0 | [dotfiles](https://github.com/posquit0/dotfiles) | :zap: Awesome configurations for the development environments |
 | 144 | 10 | 7 | [pgtoolkit](https://github.com/grayhemp/pgtoolkit) | Tools for PostgreSQL maintenance |
 | 144 | 15 | 20 | [github-keygen](https://github.com/dolmen/github-keygen) | Easy creation of secure SSH configuration for your GitHub account(s) |
 | 144 | 5 | 1 | [git-foresta](https://github.com/takaaki-kasai/git-foresta) | git-foresta: Text-based git log graph viewer |
@@ -285,8 +284,8 @@
 | 133 | 32 | 4 | [openssh-ldap-publickey](https://github.com/AndriiGrytsenko/openssh-ldap-publickey) | Wrapper for OpenSSH to store public keys inside the OpenLDAP entry. |
 | 132 | 29 | 18 | [mytop](https://github.com/jzawodn/mytop) | a "top" clone for MySQL |
 | 132 | 9 | 4 | [irssi-smartfilter](https://github.com/lifeforms/irssi-smartfilter) | Irssi smart filter to selectively hide JOIN/QUIT in busy channels |
-| 132 | 25 | 4 | [es-utils](https://github.com/reyjrar/es-utils) | ElasticSearch Utilities |
 | 132 | 16 | 7 | [collectd-graphite](https://github.com/joemiller/collectd-graphite) | collectd plugin for sending data to graphite |
+| 132 | 25 | 4 | [es-utils](https://github.com/reyjrar/es-utils) | ElasticSearch Utilities |
 | 131 | 23 | 15 | [PAF](https://github.com/ClusterLabs/PAF) | PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync. |
 | 131 | 44 | 97 | [pause](https://github.com/andk/pause) | Perl authors upload server |
 | 130 | 139 | 51 | [DBIx-Class](https://github.com/Perl5/DBIx-Class) | GitHub side of the DBIx::Class ( DBIC ) repository |
@@ -295,7 +294,7 @@
 | 127 | 73 | 1 | [asterisk-googletts](https://github.com/zaf/asterisk-googletts) | Asterisk AGI script that uses Google's translate text to speech service. |
 | 127 | 88 | 8 | [Moose](https://github.com/moose/Moose) | Official repository for Moose |
 | 126 | 17 | 1 | [font-awesome-balsamiq](https://github.com/djfpaagman/font-awesome-balsamiq) | Font Awesome icons as .png, ready for use with Balsamiq |
-| 126 | 104 | 450 | [incubator-trafficcontrol](https://github.com/apache/incubator-trafficcontrol) | Mirror of Apache Traffic Control (incubating) |
+| 126 | 104 | 453 | [incubator-trafficcontrol](https://github.com/apache/incubator-trafficcontrol) | Mirror of Apache Traffic Control (incubating) |
 | 126 | 31 | 2 | [MojoExample](https://github.com/tempire/MojoExample) | Mojolicious example with DBIx::Class schema load, deploy, fixtures, and tests. |
 | 126 | 22 | 16 | [serge](https://github.com/evernote/serge) | Continuous localization platform |
 | 125 | 74 | 4 | [whatsapp_discover](https://github.com/deepakdaswani/whatsapp_discover) | "Whatsapp Discover" is a tool for getting phone numbers of devices using Whatsapp by real time sniffing from an interface (disabled in this first version) or from a list of pcap files, which can be processed in batch |
@@ -311,10 +310,10 @@
 | 122 | 60 | 8 | [lm-sensors](https://github.com/groeck/lm-sensors) | lm-sensors repository |
 | 122 | 46 | 55 | [mojomojo](https://github.com/mojomojo/mojomojo) | A Catalyst & DBIx::Class powered Wiki.  |
 | 121 | 16 | 1 | [get_iplayer](https://github.com/jjl/get_iplayer) | A utility for grabbing tv and radio from BBC iPlayer. Phil Lewis has stopped developed it so I've forked it. |
+| 121 | 106 | 112 | [centreon-plugins](https://github.com/centreon/centreon-plugins) | Collection of plugins for softwares compatible with Nagios plugins |
 | 121 | 17 | 22 | [rsu-client](https://github.com/rsu-client/rsu-client) | A git repository for the RuneScape Linux/Unix Client Project |
 | 121 | 24 | 6 | [Autobench](https://github.com/menavaur/Autobench) | None |
 | 120 | 43 | 13 | [colorgcc](https://github.com/colorgcc/colorgcc) | colorgcc is a perl script to colorize gcc output. I'm collecting random patches and changes |
-| 120 | 106 | 112 | [centreon-plugins](https://github.com/centreon/centreon-plugins) | Collection of plugins for softwares compatible with Nagios plugins |
 | 120 | 3 | 1 | [ssh-chain](https://github.com/ryancdotorg/ssh-chain) | None |
 | 120 | 23 | 38 | [Catmandu](https://github.com/LibreCat/Catmandu) | Catmandu - a data processing toolkit developed by Ghent University Library |
 | 120 | 107 | 268 | [xcat-core](https://github.com/xcat2/xcat-core) | Code repo for xCAT core packages |
@@ -342,7 +341,7 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 111 | 33 | 71 | [gmusicbrowser](https://github.com/squentin/gmusicbrowser) | jukebox for large collections of music |
 | 111 | 13 | 6 | [specifications](https://github.com/SPORE/specifications) | SPORE specifications |
 | 111 | 8 | 3 | [spotify-connect-resources](https://github.com/librespot-org/spotify-connect-resources) | A repository to hold any data/stuff related to reversing the Spotify Connect protocol. Mostly just data dumps at the moment, but if you have something to add to it, be it an implementation, information or just another data dump, make a PR and I will add it asap. |
-| 111 | 79 | 10 | [vcf2maf](https://github.com/mskcc/vcf2maf) | Convert a VCF into a MAF, where each variant is annotated to only one of all possible gene isoforms |
+| 111 | 79 | 9 | [vcf2maf](https://github.com/mskcc/vcf2maf) | Convert a VCF into a MAF, where each variant is annotated to only one of all possible gene isoforms |
 | 110 | 71 | 22 | [nagios-plugin-check_raid](https://github.com/glensc/nagios-plugin-check_raid) | Nagios/Icinga plugin to check current server's RAID status |
 | 110 | 23 | 2 | [unbound-block-hosts](https://github.com/jodrell/unbound-block-hosts) | a script to convert Dan Pollock's ad blocking hosts file into Unbound local-data. |
 | 110 | 47 | 38 | [fink](https://github.com/fink/fink) | The fink package manager |
@@ -351,7 +350,7 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 108 | 13 | 1 | [asemica](https://github.com/linenoise/asemica) | An asemic Markov-chained cipher |
 | 108 | 10 | 0 | [dotfiles](https://github.com/sorin-ionescu/dotfiles) | My command line life. |
 | 108 | 33 | 7 | [PerlPowerTools](https://github.com/briandfoy/PerlPowerTools) | Perl Power Tools |
-| 107 | 70 | 0 | [repo-info](https://github.com/docker-library/repo-info) | Extended information (especially license and layer details) about the published Official Images |
+| 107 | 71 | 0 | [repo-info](https://github.com/docker-library/repo-info) | Extended information (especially license and layer details) about the published Official Images |
 | 107 | 20 | 0 | [samytools](https://github.com/samyk/samytools) | Simple tools to make console cowboying easier. Mostly *nix tools with an emphasis on OS X. |
 | 107 | 21 | 2 | [redis-traffic-stats](https://github.com/hirose31/redis-traffic-stats) | Redis query analyzer for counting, traffic stats by command |
 | 107 | 100 | 42 | [ntppool](https://github.com/abh/ntppool) | NTP Pool Project |
@@ -372,7 +371,7 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 104 | 16 | 3 | [velocity-painting](https://github.com/MarkWheadon/velocity-painting) | #VelocityPainting: patterning 3D prints by modulating the print speed |
 | 104 | 25 | 2 | [MaxMind-DB](https://github.com/maxmind/MaxMind-DB) | Spec and test data for the MaxMind DB file format |
 | 104 | 13 | 5 | [Crypt-LE](https://github.com/do-know/Crypt-LE) | Crypt::LE (ZeroSSL project) - Let's Encrypt client and library in Perl for getting free SSL certificates (inc. generating RSA/ECC keys and CSRs). HTTP/DNS verification is supported out of the box, easily extended with plugins. |
-| 104 | 64 | 297 | [Perl-Critic](https://github.com/Perl-Critic/Perl-Critic) | The leading static analyzer for Perl.  Configurable, extensible, powerful. |
+| 104 | 65 | 297 | [Perl-Critic](https://github.com/Perl-Critic/Perl-Critic) | The leading static analyzer for Perl.  Configurable, extensible, powerful. |
 | 104 | 8 | 0 | [Smackbook-Yosemite](https://github.com/dabockster/Smackbook-Yosemite) | Updated Smackbook script for OS X Yosemite |
 | 104 | 36 | 0 | [spamassassin](https://github.com/apache/spamassassin) | Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests |
 | 103 | 36 | 10 | [MDWamp](https://github.com/mogui/MDWamp) | MDWamp is a client side objective-C implementation of the WebSocket subprotocol WAMP. |
@@ -413,6 +412,7 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 94 | 37 | 5 | [kill-close-wait-connections](https://github.com/rghose/kill-close-wait-connections) | Kills all TCP CLOSE_WAIT connections |
 | 94 | 20 | 17 | [...](https://github.com/ingydotnet/...) | Dot Dot Dot |
 | 94 | 25 | 10 | [docker-images](https://github.com/dreamcat4/docker-images) | Dreamcat4's Docker Images (Trusted Builds) |
+| 94 | 52 | 60 | [awstats](https://github.com/eldy/awstats) | AWStats Log Analyzer project (official sources) |
 | 94 | 14 | 44 | [http-redirector](https://github.com/rgeissert/http-redirector) | Debian mirrors HTTP redirector |
 | 94 | 32 | 0 | [Praeda](https://github.com/percx/Praeda) | None |
 | 94 | 24 | 11 | [apache2buddy](https://github.com/richardforth/apache2buddy) | apache2buddy |
@@ -420,7 +420,6 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 94 | 156 | 247 | [dw-free](https://github.com/dreamwidth/dw-free) | Dreamwidth's open source repository |
 | 93 | 18 | 0 | [linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) | Next-Generation Linux Kernel Exploit Suggester |
 | 93 | 37 | 13 | [Furl](https://github.com/tokuhirom/Furl) | pretty fast http client library for perl5 |
-| 93 | 52 | 60 | [awstats](https://github.com/eldy/awstats) | AWStats Log Analyzer project (official sources) |
 | 93 | 40 | 15 | [mysqldiff](https://github.com/aspiers/mysqldiff) | tool and CPAN suite backend for comparing MySQL database schemas |
 | 92 | 16 | 0 | [lua-resty-jit-uuid](https://github.com/thibaultcha/lua-resty-jit-uuid) | Fast and dependency-free UUID library for LuaJIT/ngx_lua |
 | 92 | 9 | 28 | [Perl-Lint](https://github.com/moznion/Perl-Lint) | Yet Another Perl Source Code Linter |
@@ -441,12 +440,12 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 89 | 24 | 27 | [Ubic](https://github.com/berekuk/Ubic) | Polymorphic service manager. |
 | 89 | 15 | 0 | [sec](https://github.com/simple-evcorr/sec) | Simple Event Correlator releases |
 | 89 | 9 | 0 | [docor](https://github.com/guo-yu/docor) | a smart and tiny README maker using default manifest package.json |
+| 88 | 10 | 0 | [lingua-sinica-perlyuyan](https://github.com/audreyt/lingua-sinica-perlyuyan) | Perl in Classical Chinese in Perl |
 | 88 | 7 | 0 | [dotfiles](https://github.com/jdavis/dotfiles) | 🛠👾 Config files for various things |
 | 88 | 15 | 0 | [git-what-branch](https://github.com/SethRobertson/git-what-branch) | Discover what branch a commit is on, or how it got to a named branch |
 | 88 | 14 | 0 | [unreal-directory](https://github.com/cindustries/unreal-directory) | Directory of useful Unreal Engine 4 resources |
 | 87 | 20 | 9 | [Colormake](https://github.com/pagekite/Colormake) | A simple wrapper around make to colorize the output. |
 | 87 | 27 | 23 | [squidanalyzer](https://github.com/darold/squidanalyzer) | Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control. |
-| 87 | 10 | 0 | [lingua-sinica-perlyuyan](https://github.com/audreyt/lingua-sinica-perlyuyan) | Perl in Classical Chinese in Perl |
 | 87 | 9 | 0 | [figlet-fonts](https://github.com/cmatsuoka/figlet-fonts) | A collection of fonts for FIGlet |
 | 87 | 8 | 5 | [stf](https://github.com/stf-storage/stf) | STF - Distributed Object Storage (Perl/MySQL/(Q4M|TheSchwartz|Resque|Redis)/Memcached) |
 | 87 | 4 | 0 | [riakfuse](https://github.com/crucially/riakfuse) | Filesystem backed by riak |
@@ -471,13 +470,13 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 83 | 11 | 3 | [gitpod](https://github.com/sitaramc/gitpod) | local caching server for git when the actual server is on the other side of a (possibly slow) WAN link |
 | 83 | 6 | 0 | [serf-hosts](https://github.com/kentaro/serf-hosts) | None |
 | 83 | 43 | 4 | [Net-Twitter](https://github.com/semifor/Net-Twitter) | A Perl interface to the Twitter APIs |
+| 83 | 16 | 0 | [theos-ref](https://github.com/theiostream/theos-ref) | Theos Docs! (because there never was a chapter 2) |
 | 82 | 25 | 122 | [dada-mail](https://github.com/justingit/dada-mail) | Self-Hosted, Full Featured, Email Mailing List Manager. Announcement + Discussion Lists, Web-based Installer, Installs with minimal dependencies, sendmail/SMTP/Amazon SES supported |
 | 82 | 17 | 109 | [Octopussy](https://github.com/Octopussy-Project/Octopussy) | Octopussy - Open Source Log Management Solution |
 | 82 | 7 | 30 | [Git-Mediawiki](https://github.com/Git-Mediawiki/Git-Mediawiki) | Gate between Git and Mediawiki |
 | 82 | 26 | 0 | [form-input-nginx-module](https://github.com/calio/form-input-nginx-module) | This is a nginx module that reads HTTP POST and PUT request body encoded     in "application/x-www-form-urlencoded", and parse the arguments in     request body into nginx variables. |
-| 82 | 22 | 10 | [clamtk](https://github.com/dave-theunsub/clamtk) | An easy to use, light-weight, on-demand virus scanner for Linux systems |
+| 82 | 22 | 11 | [clamtk](https://github.com/dave-theunsub/clamtk) | An easy to use, light-weight, on-demand virus scanner for Linux systems |
 | 82 | 26 | 14 | [terra-mystica](https://github.com/jsnell/terra-mystica) | Online Terra Mystica |
-| 82 | 16 | 0 | [theos-ref](https://github.com/theiostream/theos-ref) | Theos Docs! (because there never was a chapter 2) |
 | 81 | 14 | 0 | [iOSEmoji](https://github.com/punchdrunker/iOSEmoji) | information about unicode6 emoji used in iOS5 |
 | 80 | 20 | 0 | [lua-resty-redis-ratelimit](https://github.com/timebug/lua-resty-redis-ratelimit) | Limit the request processing rate between multiple NGINX instances backed by Redis |
 | 80 | 24 | 0 | [langs-performance](https://github.com/famzah/langs-performance) | C++ vs. Python vs. Perl vs. PHP vs. Java vs. NodeJS vs. Go vs. Ruby vs. Rust vs. Swift vs. D performance benchmark |
@@ -503,14 +502,15 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 77 | 10 | 3 | [gitzone](https://github.com/dyne/gitzone) | git-based zone management tool for static and dynamic domains |
 | 77 | 7 | 0 | [Apachetop](https://github.com/JeremyJones/Apachetop) | apachetop is a console-based tool for monitoring the threads and overall performance of a set of Apache web servers. |
 | 77 | 43 | 33 | [Netdot](https://github.com/cvicente/Netdot) | Network Documentation Tool |
-| 76 | 18 | 6 | [Template-Mustache](https://github.com/yanick/Template-Mustache) | Drawing Mustaches on Perl, for fun and profit |
 | 76 | 14 | 0 | [fluent-agent-lite](https://github.com/tagomoris/fluent-agent-lite) | Lightweight log delivery agent works w/ fluentd |
+| 76 | 18 | 6 | [Template-Mustache](https://github.com/yanick/Template-Mustache) | Drawing Mustaches on Perl, for fun and profit |
 | 76 | 35 | 2 | [kiokudb](https://github.com/nothingmuch/kiokudb) | KiokuDB Core |
 | 76 | 13 | 8 | [cpm](https://github.com/skaji/cpm) | fast CPAN module installer |
-| 76 | 16 | 1 | [sd](https://github.com/bestpractical/sd) | A distributed issue tracker; upstream is now http://gitorious.org/prophet |
+| 76 | 12 | 0 | [dotfiles](https://github.com/posquit0/dotfiles) | :zap: Awesome configurations for the development environments |
 | 76 | 9 | 0 | [yadisk-sync](https://github.com/kappa/yadisk-sync) | Linux syncronizer for Yandex.Disk |
-| 75 | 53 | 22 | [naglio-plugins](https://github.com/willixix/naglio-plugins) | Monitoring Plugins by William Leibzon |
+| 76 | 16 | 1 | [sd](https://github.com/bestpractical/sd) | A distributed issue tracker; upstream is now http://gitorious.org/prophet |
 | 75 | 21 | 0 | [mango](https://github.com/kraih/mango) | :see_no_evil: Pure-Perl non-blocking I/O MongoDB driver |
+| 75 | 53 | 22 | [naglio-plugins](https://github.com/willixix/naglio-plugins) | Monitoring Plugins by William Leibzon |
 | 75 | 21 | 15 | [squid-windows](https://github.com/diladele/squid-windows) | Squid Proxy built for Microsoft Windows |
 | 75 | 37 | 12 | [p5-Teng](https://github.com/nekokak/p5-Teng) | simple DBI wrapper/ORMapper |
 | 75 | 2 | 3 | [h2c](https://github.com/bagder/h2c) | headers 2 curl. Provided a set of HTTP request headers, output the curl command line for generating that set. Try the converter online at |
@@ -527,13 +527,13 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 74 | 14 | 8 | [zabbix-notify](https://github.com/v-zhuravlev/zabbix-notify) | Notify alarms from Zabbix to Slack Hipchat and PagerDuty |
 | 73 | 31 | 9 | [proto](https://github.com/masak/proto) | A a hyper-lightweight dependency tracking and project installation system |
 | 73 | 8 | 14 | [stow](https://github.com/aspiers/stow) | GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches |
-| 73 | 49 | 0 | [zabbix-templates](https://github.com/rdvn/zabbix-templates) | Various Zabbix templates |
 | 73 | 11 | 9 | [WebKeePass](https://github.com/sukria/WebKeePass) | Web interface over a KeePass database |
+| 73 | 49 | 0 | [zabbix-templates](https://github.com/rdvn/zabbix-templates) | Various Zabbix templates |
 | 73 | 60 | 50 | [Act](https://github.com/book/Act) | A Conference Toolkit (Git conversion of the Subversion repository) |
 | 72 | 25 | 97 | [SDL](https://github.com/PerlGameDev/SDL) | Rehashing the old perl SDL binding on cpan.org |
 | 72 | 27 | 5 | [bk-tools](https://github.com/billkarwin/bk-tools) | Scripts I wrote to help using MySQL and Percona products. |
-| 71 | 13 | 3 | [dbix-class-book](https://github.com/castaway/dbix-class-book) | DBIx::Class book |
 | 71 | 204 | 3 | [gollum-demo](https://github.com/mojombo/gollum-demo) | Gollum test repo |
+| 71 | 13 | 3 | [dbix-class-book](https://github.com/castaway/dbix-class-book) | DBIx::Class book |
 | 71 | 21 | 1 | [TrimGalore](https://github.com/FelixKrueger/TrimGalore) | A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data |
 | 71 | 19 | 15 | [ilbot](https://github.com/moritz/ilbot) | IRC logging bot and web frontend |
 | 71 | 13 | 23 | [OpenDDR-Resources](https://github.com/OpenDDRdotORG/OpenDDR-Resources) | OpenDDR resources |
@@ -543,8 +543,8 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 70 | 25 | 19 | [frozen-bubble](https://github.com/kthakore/frozen-bubble) | Making frozen bubble cross platform |
 | 70 | 8 | 0 | [cloc](https://github.com/kentcdodds/cloc) | An npm module for distributing cloc by Al Danial |
 | 70 | 11 | 3 | [cil](https://github.com/chilts/cil) | DVCS backed issue tracking system |
-| 70 | 42 | 3 | [cookbooks](https://github.com/mdxp/cookbooks) | My custom Cookbooks for Chef |
 | 70 | 20 | 4 | [lxctl](https://github.com/lxctl/lxctl) | vzctl like utilities for lxc |
+| 70 | 42 | 3 | [cookbooks](https://github.com/mdxp/cookbooks) | My custom Cookbooks for Chef |
 | 70 | 22 | 0 | [lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) | Library to interface with the consul HTTP API from ngx_lua |
 | 69 | 27 | 0 | [pentest-tools](https://github.com/reider-roque/pentest-tools) | Penetration testing scripts |
 | 69 | 14 | 5 | [perlsecret](https://github.com/book/perlsecret) | The perl secret operators |
@@ -564,11 +564,11 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 67 | 49 | 29 | [cpanpm](https://github.com/andk/cpanpm) | CPAN.pm |
 | 67 | 5 | 1 | [Arqua](https://github.com/ernstsson/Arqua) | Architectural quality analysis tool for GCC project |
 | 67 | 29 | 7 | [whalebrew-packages](https://github.com/whalebrew/whalebrew-packages) | Core packages for Whalebrew |
-| 67 | 101 | 9 | [os-autoinst](https://github.com/os-autoinst/os-autoinst) | OS-level test automation |
+| 67 | 101 | 10 | [os-autoinst](https://github.com/os-autoinst/os-autoinst) | OS-level test automation |
 | 66 | 31 | 1 | [ensembl-rest](https://github.com/Ensembl/ensembl-rest) | Language agnostic RESTful data access to Ensembl data over HTTP |
 | 66 | 10 | 1 | [wakeonlan](https://github.com/jpoliv/wakeonlan) | Perl script for waking up computers via Wake-On-LAN magic packets |
-| 66 | 12 | 3 | [contenticious](https://github.com/memowe/contenticious) | A simple file based "CMS" on Mojo steroids! |
 | 66 | 12 | 2 | [shptosvg](https://github.com/kbh3rd/shptosvg) | Shapefile to SVG renderer in Perl |
+| 66 | 12 | 3 | [contenticious](https://github.com/memowe/contenticious) | A simple file based "CMS" on Mojo steroids! |
 | 66 | 6 | 0 | [dtk](https://github.com/synacor/dtk) | DTK (data toolkit) is a suite of tools for parsing, analyzing, and graphing logs and other datasets. |
 | 66 | 30 | 0 | [kivitendo-erp](https://github.com/kivitendo/kivitendo-erp) | Web-based ERP system for the German market |
 | 65 | 24 | 22 | [gms](https://github.com/genome/gms) | The Genome Modeling System installer |
@@ -587,12 +587,12 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 64 | 92 | 22 | [fhem-mirror](https://github.com/mhop/fhem-mirror) | Branch 'master' is a read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk) |
 | 64 | 16 | 4 | [biopieces](https://github.com/maasha/biopieces) | Biopieces is a bioinformatic framework of tools easily used and easily created. |
 | 64 | 18 | 7 | [ClusterFlow](https://github.com/ewels/ClusterFlow) | A pipelining tool to automate and standardise bioinformatics analyses on cluster environments. |
-| 64 | 58 | 38 | [urxvt-tabbedex](https://github.com/stepb/urxvt-tabbedex) | Tabbed plugin for rxvt-unicode with many enhancements |
 | 64 | 4 | 0 | [objc_api_visibility](https://github.com/rpetrich/objc_api_visibility) | Private API checker for iOS. Requires class-dump-z to be in the PATH |
+| 64 | 58 | 38 | [urxvt-tabbedex](https://github.com/stepb/urxvt-tabbedex) | Tabbed plugin for rxvt-unicode with many enhancements |
 | 64 | 45 | 61 | [Pinto](https://github.com/thaljef/Pinto) | Curate your own repository of Perl modules |
-| 64 | 25 | 0 | [ru4sphinx](https://github.com/zamiron/ru4sphinx) | Creating Russian voice model for cmu-sphinx |
 | 64 | 14 | 6 | [abi-dumper](https://github.com/lvc/abi-dumper) | Dump ABI of an ELF object containing DWARF debug info |
 | 64 | 17 | 3 | [cheater](https://github.com/agentzh/cheater) | A tool and a language that help generating random complex database instance based on predefined rules |
+| 64 | 25 | 0 | [ru4sphinx](https://github.com/zamiron/ru4sphinx) | Creating Russian voice model for cmu-sphinx |
 | 63 | 12 | 12 | [lesspipe](https://github.com/wofr06/lesspipe) | lesspipe (formerly on sourceforge) |
 | 63 | 41 | 97 | [ravada](https://github.com/UPC/ravada) | Remote Virtual Desktops Manager |
 | 63 | 32 | 8 | [arcstat](https://github.com/mharsch/arcstat) | uses Perl to extract, format, and display kstats from the ZFS ARC |
@@ -600,8 +600,8 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 63 | 115 | 65 | [obs-build](https://github.com/openSUSE/obs-build) | OBS build script, can be used with OBS or stand alone |
 | 63 | 11 | 2 | [non-planar-layer-fdm](https://github.com/makertum/non-planar-layer-fdm) | None |
 | 63 | 4 | 0 | [convert-websters](https://github.com/aparks517/convert-websters) | Convert Webster's Unabridged Dictionary from Project Gutenberg to OSX dictionary |
-| 63 | 31 | 17 | [multipkg](https://github.com/ytoolshed/multipkg) | Automation for package builds |
 | 63 | 7 | 0 | [dotfiles](https://github.com/w0ng/dotfiles) | Config files for OSX (master) and archlinux (archlinux) |
+| 63 | 31 | 17 | [multipkg](https://github.com/ytoolshed/multipkg) | Automation for package builds |
 | 63 | 2 | 0 | [calorific](https://github.com/peterkeen/calorific) | Command-line nutrient tracking tool |
 | 63 | 16 | 1 | [isucon3](https://github.com/isucon/isucon3) | ISUCON3 |
 | 62 | 10 | 0 | [7z2hashcat](https://github.com/philsmd/7z2hashcat) | extract information from password-protected .7z archives (and .sfx files) such that you can crack these "hashes" with hashcat |
@@ -632,6 +632,7 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 60 | 21 | 1 | [reflex](https://github.com/rcaputo/reflex) | Reflex is a class library for writing reactive Perl programs.  It provides base classes for reactive objects, and specific subclasses for various tasks. |
 | 60 | 24 | 2 | [Starlet](https://github.com/kazuho/Starlet) | a Plack Server, formerly known as Plack::Server::Standalone::Prefork::Server::Starter |
 | 60 | 21 | 9 | [mib2zabbix](https://github.com/cavaliercoder/mib2zabbix) | SNMP Template generator for Zabbix |
+| 60 | 28 | 0 | [assemblage](https://github.com/sujaikumar/assemblage) | Tools for working with second gen assemblies, fasta sequences, etc |
 | 60 | 19 | 2 | [ansible](https://github.com/M4nu/ansible) | None |
 | 60 | 11 | 1 | [opsboy](https://github.com/openresty/opsboy) | A rule-based sysadmin tool that helps setting up complex environment for blank machines |
 | 59 | 28 | 17 | [Padre](https://github.com/PadreIDE/Padre) | Offical repository of the core Padre code |
@@ -640,7 +641,6 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 59 | 14 | 2 | [awesant](https://github.com/bloonix/awesant) | Awesant is a log shipper for logstash. |
 | 59 | 37 | 7 | [dbi](https://github.com/perl5-dbi/dbi) | DBI - The Perl 5 Database Interface |
 | 59 | 8 | 9 | [baker](https://github.com/taylorchu/baker) | The bash static site generator with real template engine |
-| 59 | 28 | 0 | [assemblage](https://github.com/sujaikumar/assemblage) | Tools for working with second gen assemblies, fasta sequences, etc |
 | 59 | 41 | 0 | [myawr](https://github.com/noodba/myawr) | awr of MySQL |
 | 59 | 28 | 1 | [distro](https://github.com/foswiki/distro) | START HERE!  This is the Foswiki project "Distribution".  It is a monolith repository with the core + default extensions. |
 | 59 | 6 | 3 | [git-util](https://github.com/mjdominus/git-util) | Miscellaneous git scripts and utilities |
@@ -702,7 +702,7 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 53 | 7 | 5 | [raspi3-image-spec](https://github.com/Debian/raspi3-image-spec) | contains the files to build the https://wiki.debian.org/RaspberryPi3 image |
 | 53 | 12 | 1 | [mrtg](https://github.com/oetiker/mrtg) | MRTG - Multi Router Traffic Grapher |
 | 53 | 5 | 0 | [terracuda](https://github.com/willcrichton/terracuda) | A high-level Lua API for GPU parallelism [15-418 final] |
-| 53 | 5 | 0 | [terracuda](https://github.com/willcrichton/terracuda) | A high-level Lua API for GPU parallelism [15-418 final] |
+| 53 | 27 | 9 | [lua-resty-redis-cluster](https://github.com/cuiweixie/lua-resty-redis-cluster) | a openresty redis cluster client |
 | 53 | 26 | 1 | [Pithub](https://github.com/plu/Pithub) | Perl Github v3 API |
 | 53 | 4 | 5 | [UnlinkMKV](https://github.com/gnoling/UnlinkMKV) | Merges ordered chapters / segmented MKVs back into a single file. |
 | 53 | 14 | 3 | [M0B-tool](https://github.com/mobrine-mob/M0B-tool) | exploit |
@@ -722,15 +722,15 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 52 | 35 | 14 | [http-browserdetect](https://github.com/oalders/http-browserdetect) | Determine the Web browser, version, and platform from an HTTP user agent string |
 | 52 | 2 | 3 | [clj-async-profiler](https://github.com/clojure-goes-fast/clj-async-profiler) | Embeddable Clojure profiler built on https://github.com/jvm-profiling-tools/async-profiler |
 | 52 | 31 | 41 | [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion) | STAR-Fusion codebase |
-| 52 | 8 | 3 | [autodoc](https://github.com/cbbrowne/autodoc) | PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms |
 | 52 | 23 | 1 | [lua-resty-beanstalkd](https://github.com/smallfish/lua-resty-beanstalkd) | non-blocking beanstalkd client lib for ngx_lua |
-| 51 | 149 | 1 | [barclamp-nagios](https://github.com/crowbar-archive/barclamp-nagios) | [UNMAINTAINED] Crowbar Nagios: System Monitoring |
+| 52 | 8 | 3 | [autodoc](https://github.com/cbbrowne/autodoc) | PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms |
 | 51 | 22 | 4 | [line-bot-sdk-perl](https://github.com/line/line-bot-sdk-perl) | LINE::Bot::API - SDK of the LINE Messaging API for Perl |
+| 51 | 149 | 1 | [barclamp-nagios](https://github.com/crowbar-archive/barclamp-nagios) | [UNMAINTAINED] Crowbar Nagios: System Monitoring |
 | 51 | 16 | 15 | [perl-mason](https://github.com/jonswar/perl-mason) | Mason 2 |
 | 51 | 12 | 5 | [lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache) | Multi-level caching library for OpenResty |
 | 51 | 15 | 28 | [asbru-cm](https://github.com/asbru-cm/asbru-cm) | Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks. |
-| 51 | 2 | 0 | [tora](https://github.com/tokuhirom/tora) | Tora! Tora! Tora! |
 | 51 | 15 | 4 | [rifec](https://github.com/kristofg/rifec) | Receive Images From Eye-Fi Cards |
+| 51 | 2 | 0 | [tora](https://github.com/tokuhirom/tora) | Tora! Tora! Tora! |
 | 51 | 30 | 10 | [vcxproj2cmake](https://github.com/ainvyu/vcxproj2cmake) | Convert Visual studio 2010 project(vcxproj) to CMakeFile.txt |
 | 51 | 5 | 3 | [aws-map](https://github.com/pplu/aws-map) | Make a network graph of an AWS region |
 | 51 | 76 | 28 | [perlweb](https://github.com/perlorg/perlweb) | Various perl.org websites |
@@ -738,12 +738,12 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 51 | 7 | 50 | [Kinetic-Rules-Engine](https://github.com/kre/Kinetic-Rules-Engine) | Source code for KRE |
 | 51 | 15 | 6 | [pulp_centos_errata_import](https://github.com/rdrgmnzs/pulp_centos_errata_import) | Imports CentOS (from http://cefs.steve-meier.de/) errata into Pulp / Katello |
 | 51 | 11 | 2 | [tangetools](https://github.com/ole-tange/tangetools) | Ole Tanges personal tools !!!  MOVED TO https://gitlab.com/ole.tange/tangetools !!! |
-| 51 | 21 | 36 | [TransDecoder](https://github.com/TransDecoder/TransDecoder) | TransDecoder source |
-| 51 | 17 | 4 | [cpan-outdated](https://github.com/tokuhirom/cpan-outdated) | detect outdated CPAN modules |
+| 51 | 22 | 36 | [TransDecoder](https://github.com/TransDecoder/TransDecoder) | TransDecoder source |
 | 51 | 1 | 0 | [Ridge](https://github.com/hatena/Ridge) | None |
+| 51 | 17 | 4 | [cpan-outdated](https://github.com/tokuhirom/cpan-outdated) | detect outdated CPAN modules |
 | 50 | 43 | 48 | [devel-nytprof](https://github.com/timbunce/devel-nytprof) | Perl Devel::NYTProf |
-| 50 | 6 | 0 | [coda2-mode-wordpress](https://github.com/rayman813/coda2-mode-wordpress) | Wordpress Syntax Mode/Highlight/Autocomplete for Coda 2  |
 | 50 | 55 | 0 | [unbrick_8960](https://github.com/aureljared/unbrick_8960) | A tool for unbricking MSM8960 devices in QDLOAD/SDBOOT mode |
+| 50 | 6 | 0 | [coda2-mode-wordpress](https://github.com/rayman813/coda2-mode-wordpress) | Wordpress Syntax Mode/Highlight/Autocomplete for Coda 2  |
 | 50 | 17 | 0 | [sentry](https://github.com/msimerson/sentry) | Bruteforce attack blocker (ssh, FTP, SMTP, and more) |
 | 50 | 25 | 6 | [moosex-declare](https://github.com/rafl/moosex-declare) | Declarative syntax for Moose |
 | 50 | 22 | 62 | [interchange](https://github.com/interchange/interchange) | Interchange |
@@ -751,8 +751,9 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 50 | 20 | 13 | [v5](https://github.com/MailScanner/v5) | MailScanner v5 |
 | 50 | 25 | 7 | [smolder](https://github.com/mpeters/smolder) | Web-based Continuous Integration Smoke Server |
 | 50 | 8 | 0 | [perlwebbook](https://github.com/davorg/perlwebbook) | A book. About Perl. And the Web. |
-| 50 | 28 | 3 | [community](https://github.com/Qualys/community) | Qualys community open source scripts.  Please note these are provided as-is and are not supported. |
 | 50 | 7 | 44 | [jitterbug](https://github.com/fcuny/jitterbug) | Cross Language Continuous Integration for Git |
+| 50 | 28 | 3 | [community](https://github.com/Qualys/community) | Qualys community open source scripts.  Please note these are provided as-is and are not supported. |
+| 50 | 13 | 2 | [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) | URxvt Perl extension for resizing the font |
 | 50 | 2 | 1 | [caterwaul](https://github.com/spencertipping/caterwaul) | A Javascript-to-Javascript compiler |
 | 49 | 22 | 2 | [collectd-plugins](https://github.com/marksteele/collectd-plugins) | Collectd Plugins |
 | 49 | 23 | 0 | [puppet-nagios](https://github.com/duritong/puppet-nagios) | a nagios module for puppet |
@@ -765,7 +766,6 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 49 | 5 | 5 | [Wight](https://github.com/motemen/Wight) | Communicate with PhantomJS in Perl (Capybara+Poltergeist to Perl) |
 | 49 | 9 | 4 | [Wesley](https://github.com/mikebrittain/Wesley) | Compress and optimize the JPEG, PNG, and GIF files used in your site’s HTML and CSS. |
 | 49 | 17 | 1 | [mysql-mmm](https://github.com/cenalulu/mysql-mmm) | Enhanced MySQL Multi-Master-Manager based on Google's "mysql-mmm 2.2.1". Since Goolge's mysql-mmm has not been updated for a long time, and still has a number of bug and points of improvement, So I create this fork to make further improvement. |
-| 49 | 13 | 2 | [urxvt-resize-font](https://github.com/simmel/urxvt-resize-font) | URxvt Perl extension for resizing the font |
 | 49 | 36 | 0 | [screencasts](https://github.com/szabgab/screencasts) | The translated captions of my screencasts  |
 | 49 | 3 | 0 | [showmetheshell](https://github.com/vti/showmetheshell) | HTML5 WebSocket Shell |
 | 49 | 11 | 4 | [config-model](https://github.com/dod38fr/config-model) | Perl module to create configuration editor wtih semantic validation |
@@ -775,8 +775,8 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 48 | 24 | 2 | [v4](https://github.com/MailScanner/v4) | None |
 | 48 | 6 | 4 | [keepass4web](https://github.com/lixmal/keepass4web) | An application that serves KeePass database entries on a web frontend |
 | 48 | 1 | 1 | [DropboxIgnore](https://github.com/doomrobo/DropboxIgnore) | An ignore file like .gitignore but for Dropbox  |
-| 48 | 17 | 0 | [monobuildtools](https://github.com/Unity-Technologies/monobuildtools) | None |
 | 48 | 17 | 0 | [isucon](https://github.com/isucon/isucon) | isucon web applications and tools |
+| 48 | 17 | 0 | [monobuildtools](https://github.com/Unity-Technologies/monobuildtools) | None |
 | 48 | 20 | 15 | [exiletools-indexer](https://github.com/trackpete/exiletools-indexer) | This project has been shut down |
 | 48 | 5 | 1 | [titlecase](https://github.com/ap/titlecase) | John Gruber’s Title Case |
 | 48 | 5 | 0 | [wnmp-dev](https://github.com/samdark/wnmp-dev) | Development environment: Windows + nginx + MySQL + PHP |
@@ -785,8 +785,8 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 48 | 18 | 2 | [HRForecast](https://github.com/kazeburo/HRForecast) | None |
 | 48 | 19 | 10 | [ShinyCMS](https://github.com/denny/ShinyCMS) | ShinyCMS is an open source CMS built in Perl using the Catalyst framework. |
 | 48 | 8 | 1 | [pgshark](https://github.com/dalibo/pgshark) | Messing with PostgreSQL network traffic to make some usefull things |
+| 48 | 91 | 32 | [bmo](https://github.com/mozilla-bteam/bmo) | bugzilla.mozilla.org source - report issues here: https://bugzilla.mozilla.org/new-bug#bugzilla.mozilla.org |
 | 48 | 6 | 0 | [showmethedesktop](https://github.com/vti/showmethedesktop) | Perl + VNC + WebSockets + HTML5 Canvas |
-| 48 | 91 | 31 | [bmo](https://github.com/mozilla-bteam/bmo) | bugzilla.mozilla.org source - report issues here: https://bugzilla.mozilla.org/new-bug#bugzilla.mozilla.org |
 | 48 | 26 | 4 | [Moo](https://github.com/moose/Moo) | Minimalist Object Orientation (with Moose compatibility) |
 | 48 | 11 | 42 | [nullarbor](https://github.com/tseemann/nullarbor) | :floppy_disk: :page_with_curl: "Reads to report" for public health and clinical microbiology |
 | 48 | 8 | 3 | [imath](https://github.com/creachadair/imath) | Arbitrary precision integer and rational arithmetic library |
@@ -799,6 +799,7 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 47 | 10 | 14 | [FFI-Platypus](https://github.com/plicease/FFI-Platypus) | Write Perl bindings to non-Perl libraries with FFI.  No XS required. |
 | 47 | 20 | 8 | [perl-cwmp](https://github.com/dpavlin/perl-cwmp) | Perl ACS server implementing CWMP protocol to manage CPE clients |
 | 47 | 14 | 4 | [xv6-book](https://github.com/mit-pdos/xv6-book) | Commentary for xv6-public |
+| 47 | 5 | 5 | [mojo.vim](https://github.com/yko/mojo.vim) | Vim syntax for mojo epl templates in Mojo projects |
 | 47 | 6 | 15 | [abricate](https://github.com/tseemann/abricate) | :mag_right: :pill: Mass screening of contigs for antimicrobial and virulence genes |
 | 47 | 11 | 4 | [thicknet](https://github.com/SpiderLabs/thicknet) | TCP session interception and injection framework |
 | 47 | 11 | 1 | [Perl-FitBit-API](https://github.com/ericblue/Perl-FitBit-API) | Provides an OO API for fetching fitness data from fitbit.com.    Currently there is no official API, however data is retrieved using XML feeds  that populate the flash-based charts.  |
@@ -812,29 +813,28 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 46 | 12 | 0 | [prototypeui](https://github.com/xilinus/prototypeui) | Prototype UI |
 | 46 | 29 | 23 | [gms](https://github.com/freenode/gms) | Group Management System |
 | 46 | 14 | 3 | [munin-plugin-couchdb](https://github.com/gws/munin-plugin-couchdb) | Munin plugins for graphing CouchDB statistics. |
-| 46 | 5 | 5 | [mojo.vim](https://github.com/yko/mojo.vim) | Vim syntax for mojo epl templates in Mojo projects |
 | 46 | 24 | 2 | [lua-resty-wechat](https://github.com/aCayF/lua-resty-wechat) | 基于ngx_lua的微信公众平台lua库 |
 | 46 | 5 | 8 | [shovill](https://github.com/tseemann/shovill) | Faster SPAdes assembly of Illumina reads |
 | 46 | 32 | 7 | [test-bdd-cucumber-perl](https://github.com/pjlsergeant/test-bdd-cucumber-perl) | Test::BDD::Cucumber - Cucumber in Perl |
 | 46 | 17 | 0 | [echidna](https://github.com/gamelinux/echidna) | Network Security Monitoring Framework |
 | 46 | 1 | 0 | [sidef](https://github.com/trizen/sidef) | A modern object-oriented programming language implemented in Perl. |
 | 45 | 23 | 15 | [project](https://github.com/Open-TEE/project) | Overall project configuration and documentation |
-| 45 | 8 | 7 | [git-store-meta](https://github.com/danny0838/git-store-meta) | Simple file metadata storing and applying for git. |
 | 45 | 13 | 7 | [vmd](https://github.com/genaev/vmd) | vkontakte music downloader |
 | 45 | 5 | 2 | [when](https://github.com/bcrowell/when) | an extremely simple personal calendar program, aimed at the Unix geek who wants something minimalistic |
+| 45 | 8 | 7 | [git-store-meta](https://github.com/danny0838/git-store-meta) | Simple file metadata storing and applying for git. |
 | 45 | 14 | 1 | [varnish-bites](https://github.com/NITEMAN/varnish-bites) | Varnish VCL Samples and Hacks |
 | 45 | 4 | 2 | [Net-Google-Tasks](https://github.com/nickspacek/Net-Google-Tasks) | Interface to Google Tasks |
 | 45 | 38 | 14 | [manubulon-snmp](https://github.com/dnsmichi/manubulon-snmp) | Set of Icinga/Nagios plugins to check hosts/devices using snmp protocol. |
 | 45 | 31 | 10 | [ZMQ](https://github.com/lestrrat-p5/ZMQ) | libzmq Perl binding |
 | 45 | 11 | 5 | [pgeodns](https://github.com/abh/pgeodns) | Geographic Perl Nameserver |
-| 45 | 10 | 2 | [Net--Dropbox](https://github.com/norbu09/Net--Dropbox) | perl interface to the Dropbox API |
 | 45 | 1 | 0 | [git-spark](https://github.com/kablamo/git-spark) | Plot your commit history on the command line with sparklines.  A mash up of git and spark and Perl.   |
+| 45 | 10 | 2 | [Net--Dropbox](https://github.com/norbu09/Net--Dropbox) | perl interface to the Dropbox API |
 | 45 | 6 | 33 | [fuuka](https://github.com/eksopl/fuuka) | Fuuka Imageboard Archiver |
 | 45 | 6 | 3 | [bashobfus](https://github.com/Aralhach/bashobfus) | A small bash minifier/obfuscator written in Perl. |
 | 45 | 50 | 52 | [ExtUtils-MakeMaker](https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker) | Perl module to make Makefiles and build modules (what backs Makefile.PL) |
 | 45 | 12 | 0 | [Perl-Belkin-WeMo-API](https://github.com/ericblue/Perl-Belkin-WeMo-API) | Perl-Belkin-WeMo-API |
-| 45 | 23 | 8 | [docker-perl](https://github.com/Perl/docker-perl) | Dockerfiles for index.docker.io (official Perl Docker image) |
 | 45 | 38 | 0 | [bio_scripts](https://github.com/shenwei356/bio_scripts) | Practical, reusable scripts for bioinformatics |
+| 45 | 23 | 8 | [docker-perl](https://github.com/Perl/docker-perl) | Dockerfiles for index.docker.io (official Perl Docker image) |
 | 44 | 7 | 5 | [mailnesia.com](https://github.com/Gilwyad/mailnesia.com) | Anonymous Email in Seconds |
 | 44 | 5 | 0 | [colorize](https://github.com/raszi/colorize) | Log colorizer perl script |
 | 44 | 40 | 5 | [ansible-playbook](https://github.com/plone/ansible-playbook) | An Ansible playbook for automated deployment of full-stack Plone servers. |
@@ -843,9 +843,9 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 44 | 17 | 64 | [perl-compiler](https://github.com/rurban/perl-compiler) | B::C - Moved over from googlecode |
 | 44 | 31 | 24 | [Daemon-Control](https://github.com/symkat/Daemon-Control) | Daemon::Control - Create init scripts in Perl |
 | 44 | 9 | 0 | [mysqldiff](https://github.com/onishi/mysqldiff) | mysqldiff - mysql scheme diff |
+| 44 | 7 | 2 | [polite](https://github.com/wayfind/polite) | 一个为前端开发者量身打造的Vim配置和插件精选集 |
 | 44 | 9 | 0 | [wireless](https://github.com/overrider/wireless) | Very simple OpenBSD console wireless connection manager |
 | 44 | 10 | 1 | [android-dev-tools](https://github.com/jasta/android-dev-tools) | Collection of developer tools for working with Android. |
-| 44 | 7 | 2 | [polite](https://github.com/wayfind/polite) | 一个为前端开发者量身打造的Vim配置和插件精选集 |
 | 44 | 24 | 0 | [Apk-Changer](https://github.com/Furniel/Apk-Changer) | Command line program for modifying apk files |
 | 44 | 17 | 4 | [psh](https://github.com/gnp/psh) | Perl Shell (psh) — Aspiring to be your primary login shell |
 | 44 | 15 | 8 | [dbix-connector](https://github.com/theory/dbix-connector) | Fast, safe DBI connection management |
@@ -861,18 +861,18 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 43 | 22 | 3 | [SQL-Maker](https://github.com/tokuhirom/SQL-Maker) | None |
 | 43 | 44 | 2 | [VEP_plugins](https://github.com/Ensembl/VEP_plugins) | Plugins for the Ensembl Variant Effect Predictor (VEP) |
 | 43 | 5 | 3 | [prophet](https://github.com/bestpractical/prophet) | A disconnected, replicated p2p database -- upstream is now http://gitorious.org/prophet |
-| 43 | 12 | 6 | [App-GitHubPullRequest](https://github.com/robinsmidsrod/App-GitHubPullRequest) | Command-line tool to query GitHub pull requests |
-| 43 | 11 | 1 | [nagios-plugins-kumina](https://github.com/kumina/nagios-plugins-kumina) | A collection of Nagios plugins that we package. |
 | 43 | 25 | 12 | [nagios-jenkins-plugin](https://github.com/jonlives/nagios-jenkins-plugin) | A nagios plugin for which lets you check jenkins jobs according to various criteria. |
+| 43 | 11 | 1 | [nagios-plugins-kumina](https://github.com/kumina/nagios-plugins-kumina) | A collection of Nagios plugins that we package. |
+| 43 | 12 | 6 | [App-GitHubPullRequest](https://github.com/robinsmidsrod/App-GitHubPullRequest) | Command-line tool to query GitHub pull requests |
 | 43 | 5 | 1 | [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) | pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit. |
 | 43 | 12 | 0 | [hard-dj](https://github.com/robelix/hard-dj) | arduino based DJ MIDI cotroller using Harddisks as jog wheels |
 | 43 | 3 | 3 | [ttmp32gme](https://github.com/thawn/ttmp32gme) | a tool to create tiptoi gme files from mp3 files. Also creates a printable sheet to play the music. |
 | 43 | 11 | 0 | [perl5-devel-kytprof](https://github.com/onishi/perl5-devel-kytprof) | Devel::KYTProf - Simple Perl code profiler |
-| 43 | 7 | 0 | [rank-amateur-cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) | Fork me if you want to maintain cowsay. |
-| 43 | 5 | 0 | [cr48](https://github.com/helloandre/cr48) | my programs that i've put on cr48 |
 | 43 | 9 | 2 | [emacs-travis](https://github.com/rolandwalker/emacs-travis) | Travis CI recipe for Emacs libraries. |
 | 43 | 99 | 0 | [perlmaven.com](https://github.com/szabgab/perlmaven.com) | The source files of the Perl Maven articles |
 | 43 | 28 | 10 | [app-gitgot](https://github.com/genehack/app-gitgot) | A tool to make it easier to manage multiple code repositories using different VCSen |
+| 43 | 5 | 0 | [cr48](https://github.com/helloandre/cr48) | my programs that i've put on cr48 |
+| 43 | 7 | 0 | [rank-amateur-cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) | Fork me if you want to maintain cowsay. |
 | 43 | 29 | 8 | [barnowl](https://github.com/barnowl/barnowl) | A multi-protocol curses IM client. |
 | 43 | 4 | 1 | [git-shift](https://github.com/gitbits/git-shift) | shifts timestamps of commits after the fact |
 | 43 | 14 | 0 | [perl-tcp-proxy](https://github.com/pkrumins/perl-tcp-proxy) | A simple TCP proxy written in Perl. Uses IO::Socket::INET and IO::Select for multiplexing. |
@@ -886,22 +886,22 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 42 | 8 | 5 | [Stalker](https://github.com/symkat/Stalker) | Records and correlates nick!user@host information |
 | 42 | 3 | 14 | [shlint](https://github.com/duggan/shlint) | A shell linting utility. |
 | 42 | 11 | 1 | [rakudo-pkg](https://github.com/nxadm/rakudo-pkg) | Pre-compiled OS packages for Rakudo |
-| 42 | 17 | 0 | [hotoloti](https://github.com/RealityNet/hotoloti) | documentation, scripts, tools related to Zena Forensics (http://blog.digital-forensics.it) |
 | 42 | 11 | 43 | [RapidApp](https://github.com/vanstyn/RapidApp) | Turnkey ajaxy webapps |
+| 42 | 17 | 0 | [hotoloti](https://github.com/RealityNet/hotoloti) | documentation, scripts, tools related to Zena Forensics (http://blog.digital-forensics.it) |
 | 42 | 43 | 5 | [p5-http-tiny](https://github.com/chansen/p5-http-tiny) | Tiny HTTP Client |
 | 42 | 6 | 2 | [tmux-url-select](https://github.com/dequis/tmux-url-select) | Keyboard based URL selector that integrates with tmux |
 | 42 | 28 | 9 | [epic-ide](https://github.com/jploski/epic-ide) | EPIC - Eclipse Perl Integration (new official repository!) |
-| 42 | 11 | 5 | [OX](https://github.com/iinteractive/OX) | the hardest working two letters in Perl |
 | 42 | 25 | 5 | [check_nginx_status](https://github.com/regilero/check_nginx_status) | Nagios check for nginx status report |
+| 42 | 11 | 5 | [OX](https://github.com/iinteractive/OX) | the hardest working two letters in Perl |
 | 42 | 14 | 0 | [symbolicatecrash-fix](https://github.com/chrispix/symbolicatecrash-fix) | A patch of Apple's symbolicatecrash script, broken in XCode4 |
-| 42 | 7 | 3 | [GeoTag](https://github.com/marchyman/GeoTag) | Geo Location editing for OS X.  Version 4.3 released 2018-04-22. Instructions, a dmg of the current version, and a short video of the application in use can seen at the application home page (see following link). |
 | 42 | 20 | 5 | [lg](https://github.com/Cougar/lg) | Looking Glass |
+| 42 | 7 | 3 | [GeoTag](https://github.com/marchyman/GeoTag) | Geo Location editing for OS X.  Version 4.3 released 2018-04-22. Instructions, a dmg of the current version, and a short video of the application in use can seen at the application home page (see following link). |
 | 42 | 26 | 1 | [roffit](https://github.com/bagder/roffit) | converts nroff man pages to HTML |
 | 42 | 7 | 36 | [p5-Devel-IPerl](https://github.com/EntropyOrg/p5-Devel-IPerl) | :microscope::books: Perl5 language kernel for Jupyter <http://jupyter.org/> |
 | 41 | 6 | 7 | [ljsm](https://github.com/ati/ljsm) | perl script for LiveJournal blog backup |
 | 41 | 8 | 1 | [perl-android-scripts](https://github.com/xsawyerx/perl-android-scripts) | Collection of Perl scripts (examples, programs) that run on Android using ASE |
 | 41 | 70 | 0 | [OozieSamples](https://github.com/airawat/OozieSamples) | Oozie Samples |
-| 41 | 17 | 7 | [git-cpan-patch](https://github.com/yanick/git-cpan-patch) | System to write patches against CPAN modules via Git |
+| 41 | 12 | 7 | [sendmailanalyzer](https://github.com/darold/sendmailanalyzer) | Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report. |
 | 41 | 17 | 7 | [git-cpan-patch](https://github.com/yanick/git-cpan-patch) | System to write patches against CPAN modules via Git |
 | 41 | 24 | 4 | [EDGE](https://github.com/LANL-Bioinformatics/EDGE) | EDGE is a highly adaptable bioinformatics platform that allows laboratories to quickly analyze and interpret genomic sequence data.  |
 | 41 | 5 | 0 | [perl-advent-calendar](https://github.com/perl-users-jp/perl-advent-calendar) | japanese perl advent calendar - fork 禁止 |
@@ -930,7 +930,7 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 40 | 7 | 1 | [App-PRT](https://github.com/hitode909/App-PRT) | Command line tool for Perl code refactoring |
 | 40 | 6 | 1 | [Zoidberg](https://github.com/jberger/Zoidberg) | A modular perl shell |
 | 40 | 7 | 1 | [horenso](https://github.com/google/horenso) | 探しやすいコードで漢字直接入力 |
-| 40 | 2 | 0 | [i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy. |
+| 40 | 3 | 0 | [i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack) | A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy. |
 | 40 | 20 | 12 | [Maltego-Facebook](https://github.com/cmlh/Maltego-Facebook) | Maltego Local Transforms for Facebook |
 | 40 | 35 | 0 | [Sorter](https://github.com/hatena/Sorter) | None |
 | 40 | 22 | 16 | [reply](https://github.com/doy/reply) | read, eval, print, loop, yay! |
@@ -953,7 +953,7 @@ It's a temporary substitution of Redis Cluster that is under development.  |
 | 39 | 29 | 0 | [tools](https://github.com/HariSekhon/tools) | CLI Tools for Hadoop, Hive, HDFS file/snapshot age out, Solr / SolrCloud CLI, Ambari FreeIPA Kerberos, Config / Log Anonymizer, URL watcher for load balanced web farms, SQL ReCaser (Hive, Impala, Cassandra CQL, Couchbase N1QL, MySQL, PostgreSQL, Apache Drill, Microsoft SQL Server, Oracle, Pig Latin, Neo4j, InfluxDB, Dockerfiles), Nginx stats watcher, Datameer, Linux tools... |
 | 39 | 9 | 0 | [TerminalHero](https://github.com/ciembor/TerminalHero) | Linux society's response to Guitar Hero. :) |
 | 39 | 11 | 6 | [ParZu](https://github.com/rsennrich/ParZu) | The Zurich Dependency Parser for German |
-| 39 | 18 | 69 | [pdl](https://github.com/PDLPorters/pdl) | Scientific computing with Perl |
+| 39 | 18 | 68 | [pdl](https://github.com/PDLPorters/pdl) | Scientific computing with Perl |
 | 39 | 12 | 5 | [Gekko-BacktestTool](https://github.com/xFFFFF/Gekko-BacktestTool) | Batch backtest, import and strategy params optimalization for Gekko Trading Bot. With one command you will run any number of backtests. |
 | 39 | 50 | 1 | [ensembl](https://github.com/Ensembl/ensembl) | The Ensembl Core Perl API and SQL schema |
 | 39 | 44 | 0 | [yazecminer](https://github.com/mtve/yazecminer) | yet another ZEC miner |

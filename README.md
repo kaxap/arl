@@ -29,6 +29,7 @@ Below is the list of lists of most popular repositories, sorted by number of sta
  * [Haskell](https://github.com/kaxap/arl/blob/master/README-Haskell.md)
  * [CoffeeScript](https://github.com/kaxap/arl/blob/master/README-CoffeeScript.md)
  * [Clojure](https://github.com/kaxap/arl/blob/master/README-Clojure.md) is not on SO's list, but it's very popular on its own.
+ * [Rust](https://github.com/kaxap/arl/blob/master/README-Rust.md) same as previous
 
 It is updated every now and then, but generally every 3-4 weeks.
 
