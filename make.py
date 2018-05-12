@@ -2,14 +2,16 @@
 
 import requests
 import time
+import humanize
+import datetime
 
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3 import Retry
 
 TABLE_DISCLAIMER = "## This is a most popular repository list for {lng} sorted by number of stars"
-TABLE_HEADER = "|STARS|FORKS|ISSUES|NAME|DESCRIPTION|"
-TABLE_SEPARATOR = "| --- | --- | --- | --- | --- |"
-TABLE_ITEM_MASK = "| {n_stars} | {n_forks} | {n_issues} | [{name}]({url}) | {description} |"
+TABLE_HEADER = "|STARS|FORKS|ISSUES|UPDATED|NAME|DESCRIPTION|"
+TABLE_SEPARATOR = "| --- | --- | --- | --- | --- | --- |"
+TABLE_ITEM_MASK = "| {n_stars} | {n_forks} | {n_issues} | {updated_at} | [{name}]({url}) | {description} |"
 MAX_PAGE = 10
 URL_MASK = "https://api.github.com/search/repositories" \
            "?q=language:{lng}&sort=stars&order=desc&page={n_page}&per_page=100"
@@ -21,6 +23,7 @@ KEY_REPOSITORY_NAME = "name"
 KEY_DESCRIPTION = "description"
 KEY_URL = "html_url"
 KEY_ITEMS = "items"
+KEY_UPDATED_AT = 'updated_at'
 
 languages = ["Python", "Java", "C", "CPP", "SQL", "Node", "CSharp", "PHP", "Ruby", "TypeScript", "Swift", "ObjectiveC",
              "VB.net", "Assembly", "R", "Perl", "MATLAB", "Go", "Scala", "Groovy", "Lua", "Haskell", "CoffeeScript",
@@ -75,6 +78,13 @@ class RepositoryInformationProvider:
             response.close()
 
 
+def humanize_date(iso_date: str) -> str:
+    if iso_date:
+        return humanize.naturaltime(datetime.datetime.now() - datetime.datetime.strptime(iso_date, "%Y-%m-%dT%H:%M:%SZ"))
+    else:
+        return "Unknown"
+
+
 def generate_readme(language: str, info_provider: RepositoryInformationProvider) -> str:
     """
     generates a README markdown file with a table of most popular repositories for a given language
@@ -89,12 +99,15 @@ def generate_readme(language: str, info_provider: RepositoryInformationProvider)
     for n_page in range(1, MAX_PAGE + 1):
         data: dict = info_provider.get_next(language, n_page)
         for item in data[KEY_ITEMS]:
+            updated = humanize_date(item.get(KEY_UPDATED_AT, None))
+            
             result.append(TABLE_ITEM_MASK.format(n_stars=item.get(KEY_STAR_COUNT),
                                                  n_forks=item.get(KEY_FORK_COUNT),
                                                  n_issues=item.get(KEY_ISSUE_COUNT),
                                                  name=item.get(KEY_REPOSITORY_NAME),
                                                  url=item.get(KEY_URL),
-                                                 description=item.get(KEY_DESCRIPTION)))
+                                                 description=item.get(KEY_DESCRIPTION),
+                                                 updated_at=updated))
 
     return "\n".join(result)
 
