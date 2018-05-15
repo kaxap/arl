@@ -8,8 +8,10 @@ import datetime
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3 import Retry
 
+from last_commit import get_last_commit_date
+
 TABLE_DISCLAIMER = "## This is a most popular repository list for {lng} sorted by number of stars"
-TABLE_HEADER = "|STARS|FORKS|ISSUES|UPDATED|NAME|DESCRIPTION|"
+TABLE_HEADER = "|STARS|FORKS|ISSUES|LAST COMMIT|NAME|DESCRIPTION|"
 TABLE_SEPARATOR = "| --- | --- | --- | --- | --- | --- |"
 TABLE_ITEM_MASK = "| {n_stars} | {n_forks} | {n_issues} | {updated_at} | [{name}]({url}) | {description} |"
 MAX_PAGE = 10
@@ -20,6 +22,7 @@ KEY_STAR_COUNT = "stargazers_count"
 KEY_ISSUE_COUNT = "open_issues"
 KEY_FORK_COUNT = "forks"
 KEY_REPOSITORY_NAME = "name"
+KEY_REPOSITORY_FULL_NAME = "full_name"
 KEY_DESCRIPTION = "description"
 KEY_URL = "html_url"
 KEY_ITEMS = "items"
@@ -98,16 +101,18 @@ def generate_readme(language: str, info_provider: RepositoryInformationProvider)
 
     for n_page in range(1, MAX_PAGE + 1):
         data: dict = info_provider.get_next(language, n_page)
-        for item in data[KEY_ITEMS]:
-            updated = humanize_date(item.get(KEY_UPDATED_AT, None))
-            
+        for i, item in enumerate(data[KEY_ITEMS]):
+            # updated = humanize_date(item.get(KEY_UPDATED_AT, None))
+            last_commit_date = humanize_date(get_last_commit_date(item.get(KEY_REPOSITORY_FULL_NAME, None)))
+
             result.append(TABLE_ITEM_MASK.format(n_stars=item.get(KEY_STAR_COUNT),
                                                  n_forks=item.get(KEY_FORK_COUNT),
                                                  n_issues=item.get(KEY_ISSUE_COUNT),
                                                  name=item.get(KEY_REPOSITORY_NAME),
                                                  url=item.get(KEY_URL),
                                                  description=item.get(KEY_DESCRIPTION),
-                                                 updated_at=updated))
+                                                 updated_at=last_commit_date))
+            print(f"{i+1}/{len(data[KEY_ITEMS])}/{n_page}")
 
     return "\n".join(result)
 
