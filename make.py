@@ -11,9 +11,9 @@ from requests.packages.urllib3 import Retry
 from last_commit import get_last_commit_date
 
 TABLE_DISCLAIMER = "## This is a most popular repository list for {lng} sorted by number of stars"
-TABLE_HEADER = "|STARS|FORKS|ISSUES|LAST COMMIT|NAME|DESCRIPTION|"
+TABLE_HEADER = "|STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|"
 TABLE_SEPARATOR = "| --- | --- | --- | --- | --- | --- |"
-TABLE_ITEM_MASK = "| {n_stars} | {n_forks} | {n_issues} | {updated_at} | [{name}]({url}) | {description} |"
+TABLE_ITEM_MASK = "| {n_stars} | {n_forks} | {n_issues} | {updated_at} | [{name}]({url})/{place} | {description} |"
 MAX_PAGE = 10
 URL_MASK = "https://api.github.com/search/repositories" \
            "?q=language:{lng}&sort=stars&order=desc&page={n_page}&per_page=100"
@@ -30,7 +30,7 @@ KEY_UPDATED_AT = 'updated_at'
 
 languages = ["Python", "Java", "C", "CPP", "SQL", "Node", "CSharp", "PHP", "Ruby", "TypeScript", "Swift", "ObjectiveC",
              "VB.net", "Assembly", "R", "Perl", "MATLAB", "Go", "Scala", "Groovy", "Lua", "Haskell", "CoffeeScript",
-             "Clojure", "Rust"]
+             "Clojure", "Rust", "JS"]
 
 
 class WrongReturnCodeException(Exception):
@@ -99,11 +99,13 @@ def generate_readme(language: str, info_provider: RepositoryInformationProvider)
               TABLE_HEADER,
               TABLE_SEPARATOR]
 
+    place = 0
     for n_page in range(1, MAX_PAGE + 1):
         data: dict = info_provider.get_next(language, n_page)
         for i, item in enumerate(data[KEY_ITEMS]):
             # updated = humanize_date(item.get(KEY_UPDATED_AT, None))
             last_commit_date = humanize_date(get_last_commit_date(item.get(KEY_REPOSITORY_FULL_NAME, None)))
+            place += 1
 
             result.append(TABLE_ITEM_MASK.format(n_stars=item.get(KEY_STAR_COUNT),
                                                  n_forks=item.get(KEY_FORK_COUNT),
@@ -111,6 +113,7 @@ def generate_readme(language: str, info_provider: RepositoryInformationProvider)
                                                  name=item.get(KEY_REPOSITORY_NAME),
                                                  url=item.get(KEY_URL),
                                                  description=item.get(KEY_DESCRIPTION),
+                                                 place=place,
                                                  updated_at=last_commit_date))
             print(f"{i+1}/{len(data[KEY_ITEMS])}/{n_page}")
 
