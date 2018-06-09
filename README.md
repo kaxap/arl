@@ -14,7 +14,7 @@ Below is the list of lists of most popular repositories, sorted by number of sta
  * [NodeJS](https://github.com/kaxap/arl/blob/master/README-Node.md)
  * [C#](https://github.com/kaxap/arl/blob/master/README-CSharp.md)
  * [PHP](https://github.com/kaxap/arl/blob/master/README-PHP.md)
- * [Ruby](https://github.com/kaxap/arl/blob/master/README-ruby.md)
+ * [Ruby](https://github.com/kaxap/arl/blob/master/README-Ruby.md)
  * [TypeScript](https://github.com/kaxap/arl/blob/master/README-TypeScript.md)
  * [Swift](https://github.com/kaxap/arl/blob/master/README-Swift.md)
  * [Objective-C](https://github.com/kaxap/arl/blob/master/README-ObjectiveC.md)
