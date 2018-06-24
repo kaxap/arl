@@ -30,7 +30,7 @@ KEY_UPDATED_AT = 'updated_at'
 
 languages = ["Python", "Java", "C", "CPP", "SQL", "Node", "CSharp", "PHP", "Ruby", "TypeScript", "Swift", "ObjectiveC",
              "VB.net", "Assembly", "R", "Perl", "MATLAB", "Go", "Scala", "Groovy", "Lua", "Haskell", "CoffeeScript",
-             "Clojure", "Rust", "JS", "ActionScript"]
+             "Clojure", "Rust", "JS", "ActionScript", "Elixir"]
 
 
 class WrongReturnCodeException(Exception):
