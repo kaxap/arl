@@ -32,7 +32,7 @@ Below is the list of lists of most popular repositories, sorted by number of sta
  * [Clojure](https://github.com/kaxap/arl/blob/master/README-Clojure.md) is not on SO's list, but it's very popular on its own.
  * [Rust](https://github.com/kaxap/arl/blob/master/README-Rust.md) same as previous
  * [ActionScript](https://github.com/kaxap/arl/blob/master/README-ActionScript.md) 
-
+ * [Elixir](https://github.com/kaxap/arl/blob/master/README-Elixir.md) 
 It is updated every now and then, but generally every 3-4 weeks.
 
 ### Can't find your programming language?
