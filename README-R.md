@@ -1,1003 +1,1003 @@
 ## This is a most popular repository list for R sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 3356 | 2198 | 33 | 4 years ago | [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)/1 | Code accompanying the book "Machine Learning for Hackers" |
-| 3245 | 1230 | 88 | a day ago | [ggplot2](https://github.com/tidyverse/ggplot2)/2 | An implementation of the Grammar of Graphics in R |
-| 3056 | 1060 | 26 | 3 months ago | [awesome-R](https://github.com/qinwf/awesome-R)/3 | A curated list of awesome R packages, frameworks and software. |
-| 2956 | 1401 | 388 | 24 days ago | [shiny](https://github.com/rstudio/shiny)/4 | Easy interactive web applications with R |
-| 2639 | 5787 | 111 | 3 months ago | [swirl_courses](https://github.com/swirldev/swirl_courses)/5 | :mortar_board: A collection of interactive courses for the swirl R package. |
-| 2596 | 585 | 65 | 2 years ago | [AnomalyDetection](https://github.com/twitter/AnomalyDetection)/6 | Anomaly Detection with R |
-| 2481 | 931 | 126 | 3 days ago | [dplyr](https://github.com/tidyverse/dplyr)/7 | dplyr: A grammar of data manipulation |
-| 1665 | 587 | 21 | a day ago | [devtools](https://github.com/r-lib/devtools)/8 | Tools to make an R developer's life easier |
-| 1657 | 99 | 0 | 1 year, 6 months ago | [investing](https://github.com/zonination/investing)/9 | Investing Returns on the Market as a Whole |
-| 1606 | 699 | 59 | 18 days ago | [knitr](https://github.com/yihui/knitr)/10 | A general-purpose tool for dynamic report generation in R |
-| 1496 | 270 | 9 | 5 months ago | [benchm-ml](https://github.com/szilard/benchm-ml)/11 | A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.). |
-| 1408 | 1734 | 40 | a month ago | [r4ds](https://github.com/hadley/r4ds)/12 | R for data science |
-| 1360 | 173 | 7 | a month ago | [stats337](https://github.com/hadley/stats337)/13 | Readings in applied data science |
-| 1317 | 243 | 224 | 10 hours ago | [stan](https://github.com/stan-dev/stan)/14 | Stan development repository (home page is linked below). The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.   |
-| 1300 | 398 | 0 | a month ago | [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data)/15 | Import public NYC taxi and Uber trip data into PostgreSQL / PostGIS database, analyze with R |
-| 1276 | 477 | 233 | 8 days ago | [plotly](https://github.com/ropensci/plotly)/16 | An interactive graphing library for R |
-| 1203 | 551 | 86 | 5 days ago | [rmarkdown](https://github.com/rstudio/rmarkdown)/17 | Dynamic Documents for R |
-| 1110 | 615 | 3 | 8 months ago | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)/18 | a curated list of R tutorials for Data Science, NLP and Machine Learning  |
-| 1087 | 232 | 13 | 5 days ago | [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)/19 | A curated list of awesome network analysis resources. |
-| 1049 | 284 | 38 | 8 hours ago | [tensorflow](https://github.com/rstudio/tensorflow)/20 | TensorFlow for R |
-| 1047 | 476 | 50 | 4 days ago | [bookdown](https://github.com/rstudio/bookdown)/21 | Authoring Books and Technical Documents with R Markdown |
-| 1034 | 288 | 445 | 13 hours ago | [mlr](https://github.com/mlr-org/mlr)/22 | mlr: Machine Learning in R  |
-| 1004 | 156 | 63 | a month ago | [DiagrammeR](https://github.com/rich-iannone/DiagrammeR)/23 | Graph and network visualization using tabular data in R |
-| 957 | 247 | 65 | 20 days ago | [rvest](https://github.com/hadley/rvest)/24 | Simple web scraping for R |
-| 925 | 187 | 0 | 6 days ago | [ggthemes](https://github.com/jrnold/ggthemes)/25 | Additional themes, scales, and geoms for ggplot2 |
-| 888 | 1337 | 15 | 7 months ago | [labs](https://github.com/genomicsclass/labs)/26 | Rmd source files for the HarvardX series PH525x |
-| 887 | 421 | 108 | 6 days ago | [caret](https://github.com/topepo/caret)/27 | caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models |
-| 815 | 139 | 12 | 5 months ago | [CausalImpact](https://github.com/google/CausalImpact)/28 | An R package for causal inference in time series |
-| 806 | 56 | 14 | 19 days ago | [patchwork](https://github.com/thomasp85/patchwork)/29 | The Composer of ggplots |
-| 798 | 333 | 179 | 2 years ago | [slidify](https://github.com/ramnathv/slidify)/30 | Generate reproducible html5 slides from R markdown |
-| 757 | 501 | 151 | 1 year, 4 months ago | [swirl](https://github.com/swirldev/swirl)/31 | :cyclone: Learn R, in R. |
-| 752 | 167 | 3 | 9 days ago | [blogdown](https://github.com/rstudio/blogdown)/32 | Create Blogs and Websites with R Markdown |
-| 736 | 188 | 94 | 6 days ago | [broom](https://github.com/tidymodels/broom)/33 | Convert statistical analysis objects from R into tidy format |
-| 733 | 64 | 8 | 3 months ago | [wesanderson](https://github.com/karthik/wesanderson)/34 | A Wes Anderson color palette for R |
-| 715 | 1785 | 52 | a month ago | [httr](https://github.com/r-lib/httr)/35 | httr: a friendly http package for R |
-| 698 | 122 | 15 | 8 hours ago | [gganimate](https://github.com/thomasp85/gganimate)/36 | A Grammar of Animated Graphics |
-| 662 | 112 | 59 | a month ago | [plumber](https://github.com/trestletech/plumber)/37 | Turn your R code into a web API. |
-| 661 | 140 | 78 | 21 days ago | [purrr](https://github.com/tidyverse/purrr)/38 | A functional programming toolkit for R |
-| 652 | 104 | 87 | 8 hours ago | [reticulate](https://github.com/rstudio/reticulate)/39 | R Interface to Python |
-| 648 | 350 | 21 | 2 years ago | [SparkR-pkg](https://github.com/amplab-extras/SparkR-pkg)/40 | R frontend for Spark |
-| 639 | 181 | 193 | 8 months ago | [ggvis](https://github.com/rstudio/ggvis)/41 | Interactive grammar of graphics for R |
-| 637 | 130 | 11 | a month ago | [tidytext](https://github.com/juliasilge/tidytext)/42 | Text mining using dplyr, ggplot2, and other tidy tools :sparkles::page_facing_up::sparkles::page_facing_up::sparkles: |
-| 635 | 149 | 85 | 25 days ago | [googlesheets](https://github.com/jennybc/googlesheets)/43 | Google Spreadsheets R API |
-| 634 | 112 | 15 | 20 days ago | [magrittr](https://github.com/tidyverse/magrittr)/44 | Improve the readability of R code with the pipe |
-| 628 | 183 | 99 | 19 days ago | [readr](https://github.com/tidyverse/readr)/45 | Read flat files (csv, tsv, fwf) into R |
-| 624 | 240 | 53 | 21 days ago | [tidyr](https://github.com/tidyverse/tidyr)/46 | Easily tidy data with spread and gather functions. |
-| 600 | 218 | 16 | 15 hours ago | [forecast](https://github.com/robjhyndman/forecast)/47 | forecast package for R |
-| 583 | 191 | 0 | 7 months ago | [MLPB](https://github.com/ben519/MLPB)/48 | Machine Learning Problem Bible | Problem Set Here >> |
-| 570 | 168 | 102 | a month ago | [htmlwidgets](https://github.com/ramnathv/htmlwidgets)/49 | HTML Widgets for R |
-| 566 | 202 | 276 | 3 days ago | [sparklyr](https://github.com/rstudio/sparklyr)/50 | R interface for Apache Spark |
-| 566 | 185 | 72 | 11 months ago | [rethinking](https://github.com/rmcelreath/rethinking)/51 | Statistical Rethinking course and book package |
-| 560 | 118 | 8 | 19 days ago | [tidyverse](https://github.com/tidyverse/tidyverse)/52 | Easily install and load packages from the tidyverse |
-| 558 | 102 | 5 | 23 hours ago | [dataviz](https://github.com/clauswilke/dataviz)/53 | A book covering the fundamentals of data visualization. |
-| 555 | 65 | 0 | 10 months ago | [perceptions](https://github.com/zonination/perceptions)/54 | Perceptions of Probability and Numbers |
-| 554 | 188 | 6 | 2 years ago | [BanditsBook](https://github.com/johnmyleswhite/BanditsBook)/55 | Code for my book on Multi-Armed Bandit Algorithms |
-| 547 | 63 | 44 | 2 months ago | [ggraph](https://github.com/thomasp85/ggraph)/56 | Grammar of Graph Graphics |
-| 538 | 112023 | 2518 | 4 years ago | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)/57 | Repository for Programming Assignment 2 for R Programming on Coursera |
-| 530 | 213 | 0 | a month ago | [advanced-shiny](https://github.com/daattali/advanced-shiny)/58 | Shiny tips & tricks for improving your apps and solving common problems |
-| 526 | 170 | 0 | 8 hours ago | [r-source](https://github.com/wch/r-source)/59 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page. |
-| 522 | 216 | 45 | 8 days ago | [testthat](https://github.com/r-lib/testthat)/60 | An R 📦 to make testing 😀 |
-| 517 | 148 | 13 | 25 days ago | [ProjectTemplate](https://github.com/KentonWhite/ProjectTemplate)/61 | A template utility for R projects that provides a skeletal project. |
-| 513 | 94 | 23 | a month ago | [text2vec](https://github.com/dselivanov/text2vec)/62 | Fast vectorization, topic modeling, distances and GloVe word embeddings in R. |
-| 512 | 192 | 7 | 7 months ago | [RStartHere](https://github.com/rstudio/RStartHere)/63 | A guide to some of the most useful R Packages that we know about |
-| 508 | 64 | 20 | 6 days ago | [ggrepel](https://github.com/slowkow/ggrepel)/64 | :round_pushpin: Repel overlapping text labels away from each other. |
-| 503 | 91 | 32 | 1 year, 5 months ago | [rappor](https://github.com/google/rappor)/65 | RAPPOR: Privacy-Preserving Reporting Algorithms |
-| 499 | 309 | 8 | a month ago | [rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)/66 | Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation. |
-| 492 | 436 | 81 | 5 days ago | [asdfree](https://github.com/ajdamico/asdfree)/67 | analyze survey data for free |
-| 472 | 116 | 26 | 2 years ago | [plyr](https://github.com/hadley/plyr)/68 | A R package for splitting, applying and combining large problems into simpler problems |
-| 470 | 83 | 125 | a month ago | [lintr](https://github.com/jimhester/lintr)/69 | Static Code Analysis for R |
-| 464 | 153 | 116 | 8 days ago | [rstan](https://github.com/stan-dev/rstan)/70 | RStan, the R interface to Stan |
-| 455 | 49 | 31 | 6 days ago | [janitor](https://github.com/sfirke/janitor)/71 | simple tools for data cleaning in R |
-| 449 | 89 | 62 | 7 hours ago | [opencpu](https://github.com/opencpu/opencpu)/72 | OpenCPU system for embedded scientific computation and reproducible research |
-| 420 | 220 | 68 | 6 months ago | [networkD3](https://github.com/christophergandrud/networkD3)/73 | D3 JavaScript Network Graphs from R |
-| 408 | 48 | 10 | 19 days ago | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)/74 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components |
-| 404 | 64 | 1 | 3 months ago | [ggthemr](https://github.com/cttobin/ggthemr)/75 | Themes for ggplot2. |
-| 404 | 59 | 40 | 1 year, 10 months ago | [formattable](https://github.com/renkun-ken/formattable)/76 | Formattable Data Structures |
-| 403 | 88 | 1 | 19 days ago | [ballr](https://github.com/toddwschneider/ballr)/77 | Interactive NBA and NCAA Shot Charts with R and Shiny |
-| 402 | 68 | 53 | 21 days ago | [renjin](https://github.com/bedatadriven/renjin)/78 | JVM-based interpreter for the R language for the statistical analysis. |
-| 396 | 39 | 3 | 18 hours ago | [drake](https://github.com/ropensci/drake)/79 | An R-focused pipeline toolkit for reproducibility and high-performance computing |
-| 395 | 99 | 31 | 11 days ago | [sf](https://github.com/r-spatial/sf)/80 | Simple Features for R |
-| 389 | 89 | 1 | 12 days ago | [addinslist](https://github.com/daattali/addinslist)/81 | Discover and install useful RStudio addins  |
-| 388 | 102 | 48 | 4 days ago | [quanteda](https://github.com/quanteda/quanteda)/82 | An R package for the Quantitative Analysis of Textual Data |
-| 386 | 144 | 35 | 4 days ago | [lubridate](https://github.com/tidyverse/lubridate)/83 | Make working with dates in R just that little bit easier |
-| 381 | 170 | 63 | 2 months ago | [ggmap](https://github.com/dkahle/ggmap)/84 | a package for plotting maps in R with ggplot2 |
-| 378 | 338 | 21 | a month ago | [SIT](https://github.com/systematicinvestor/SIT)/85 | Systematic Investor Toolkit |
-| 374 | 77 | 11 | 9 days ago | [shinyjs](https://github.com/daattali/shinyjs)/86 | Easily improve the user experience of your Shiny apps in seconds |
-| 373 | 34 | 8 | 3 months ago | [mindr](https://github.com/pzhaonet/mindr)/87 | an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms) |
-| 363 | 30 | 45 | a day ago | [future](https://github.com/HenrikBengtsson/future)/88 | :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone |
-| 360 | 49 | 24 | 26 days ago | [ggalt](https://github.com/hrbrmstr/ggalt)/89 | :earth_americas: Extra Coordinate Systems, Geoms,  Statistical Transformations & Scales for 'ggplot2' |
-| 357 | 53 | 14 | a month ago | [ggfortify](https://github.com/sinhrks/ggfortify)/90 | Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages. |
-| 357 | 45 | 29 | a day ago | [brms](https://github.com/paul-buerkner/brms)/91 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan |
-| 350 | 173 | 31 | a day ago | [pkgdown](https://github.com/r-lib/pkgdown)/92 | Generate static html documentation for an R package |
-| 346 | 114 | 14 | 7 months ago | [engsoccerdata](https://github.com/jalapic/engsoccerdata)/93 | English and European soccer results 1871-2017 |
-| 343 | 440 | 3 | 7 years ago | [twitter-sentiment-analysis-tutorial-201107](https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107)/94 | Code to reproduce the simple sentiment analysis from my presentation |
-| 340 | 71 | 100 | a month ago | [highcharter](https://github.com/jbkunst/highcharter)/95 | R wrapper for highcharts based on htmlwidgets  |
-| 340 | 90 | 0 | 5 years ago | [MLNotes](https://github.com/johnmyleswhite/MLNotes)/96 | Very concise notes on machine learning and statistics. |
-| 340 | 152 | 60 | 2 months ago | [quantmod](https://github.com/joshuaulrich/quantmod)/97 | Quantitative Financial Modelling Framework |
-| 336 | 39 | 17 | 12 hours ago | [reprex](https://github.com/tidyverse/reprex)/98 | Render bits of R code for sharing, e.g., on GitHub or StackOverflow. |
-| 334 | 56 | 23 | 1 year, 5 months ago | [multidplyr](https://github.com/hadley/multidplyr)/99 | Partitioned data frames for 'dplyr' |
-| 333 | 43 | 20 | 4 months ago | [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin)/100 | Join tables together on inexact matching |
-| 330 | 20 | 19 | 2 months ago | [datapasta](https://github.com/MilesMcBain/datapasta)/101 | On top of spaghetti, all covered in cheese.... |
-| 322 | 52 | 3 | 11 days ago | [fivethirtyeight](https://github.com/rudeboybert/fivethirtyeight)/102 | R package of data and code behind the stories and interactives at FiveThirtyEight |
-| 316 | 236 | 48 | 6 days ago | [Rfacebook](https://github.com/pablobarbera/Rfacebook)/103 | Dev version of Rfacebook package: Access to Facebook API via R |
-| 313 | 632 | 2 | 5 years ago | [Caffo-Coursera](https://github.com/bcaffo/Caffo-Coursera)/104 | A repository of my Coursera latex code and notes |
-| 311 | 40 | 41 | a month ago | [tabulizer](https://github.com/ropensci/tabulizer)/105 | Bindings for Tabula PDF Table Extractor Library |
-| 310 | 29 | 50 | 22 days ago | [greta](https://github.com/greta-dev/greta)/106 | simple and scalable statistical modelling in R |
-| 308 | 42 | 13 | 3 days ago | [rio](https://github.com/leeper/rio)/107 | A Swiss-Army Knife for Data I/O |
-| 304 | 56 | 4 | a day ago | [cowplot](https://github.com/wilkelab/cowplot)/108 | None |
-| 301 | 26 | 0 | 2 months ago | [ggjoy](https://github.com/clauswilke/ggjoy)/109 | Deprecated. Please use ggridges. |
-| 301 | 28 | 109 | 10 months ago | [remake](https://github.com/richfitz/remake)/110 | Make-like declarative workflows in R |
-| 295 | 61 | 37 | 2 months ago | [tidyquant](https://github.com/business-science/tidyquant)/111 | Bringing financial analysis to the tidyverse |
-| 295 | 27 | 3 | a month ago | [tweenr](https://github.com/thomasp85/tweenr)/112 | Interpolate your data |
-| 294 | 52 | 3 | 2 months ago | [modelr](https://github.com/tidyverse/modelr)/113 | Helper functions for modelling |
-| 292 | 110 | 15 | a month ago | [bigrquery](https://github.com/r-dbi/bigrquery)/114 | An interface to Google's bigquery from R. |
-| 289 | 32 | 10 | 8 days ago | [glue](https://github.com/tidyverse/glue)/115 | Glue strings to data in R. Small, fast, dependency free interpreted string literals. |
-| 288 | 103 | 72 | 27 days ago | [DT](https://github.com/rstudio/DT)/116 | R Interface to the jQuery Plug-in DataTables |
-| 288 | 27 | 15 | 2 years ago | [editR](https://github.com/swarm-lab/editR)/117 | A Rmarkdown editor with instant preview |
-| 287 | 145 | 35 | 4 months ago | [googleVis](https://github.com/mages/googleVis)/118 | Interface between R and the Google Chart Tools |
-| 284 | 133 | 46 | 21 days ago | [roxygen](https://github.com/klutometis/roxygen)/119 | None |
-| 283 | 33 | 45 | 28 days ago | [ggforce](https://github.com/thomasp85/ggforce)/120 | Accelerating ggplot2 |
-| 277 | 107 | 12 | 2 months ago | [stringr](https://github.com/tidyverse/stringr)/121 | A fresh approach to string manipulation in R |
-| 275 | 56 | 8 | 15 days ago | [circlize](https://github.com/jokergoo/circlize)/122 | Circular visualization in R |
-| 274 | 51 | 23 | 2 days ago | [ggpubr](https://github.com/kassambara/ggpubr)/123 | 'ggplot2' Based Publication Ready Plots |
-| 274 | 52 | 27 | 28 days ago | [lime](https://github.com/thomasp85/lime)/124 | Local Interpretable Model-Agnostic Explanations (R port of original Python package) |
-| 271 | 299 | 0 | 11 months ago | [R](https://github.com/dmpe/R)/125 | Exercises (incl. analyses) with R language (math+statistics) |
-| 269 | 68 | 31 | 23 hours ago | [rtweet](https://github.com/mkearney/rtweet)/126 | 🐦 R client for interacting with Twitter's [stream and REST] APIs |
-| 266 | 66 | 177 | 8 days ago | [packrat](https://github.com/rstudio/packrat)/127 | Packrat is a dependency management system for R |
-| 262 | 33 | 7 | 9 days ago | [ggiraph](https://github.com/davidgohel/ggiraph)/128 | htmlwidget to make 'ggplot' graphics interactive |
-| 260 | 117 | 3 | 5 days ago | [rplos](https://github.com/ropensci/rplos)/129 | R client for the PLoS Journals API |
-| 259 | 89 | 307 | 4 days ago | [jasp-desktop](https://github.com/jasp-stats/jasp-desktop)/130 | JASP aims to be a complete statistical package for both Bayesian and Frequentist statistical methods, that is easy to use and familiar to users of SPSS |
-| 258 | 238 | 17 | 3 months ago | [SQL-Server-R-Services-Samples](https://github.com/Microsoft/SQL-Server-R-Services-Samples)/131 | Advanced analytics samples and templates using SQL Server R Services |
-| 256 | 75 | 16 | 3 months ago | [timevis](https://github.com/daattali/timevis)/132 | Create interactive timeline visualizations in R |
-| 254 | 123 | 1 | 2 years ago | [r-source](https://github.com/SurajGupta/r-source)/133 | R Source Code |
-| 254 | 18 | 6 | a month ago | [r2d3](https://github.com/rstudio/r2d3)/134 | R Interface to D3 Visualizations |
-| 249 | 93 | 16 | 10 months ago | [Bioinformatics-Training](https://github.com/PacificBiosciences/Bioinformatics-Training)/135 | Bioinformatics training resources |
-| 246 | 170 | 44 | 1 year, 10 months ago | [twitteR](https://github.com/geoffjentry/twitteR)/136 | R based twitter client |
-| 245 | 74 | 28 | 3 days ago | [ggtree](https://github.com/GuangchuangYu/ggtree)/137 | :christmas_tree:Visualization and annotation of phylogenetic trees |
-| 245 | 57 | 58 | 1 year, 2 months ago | [rbokeh](https://github.com/bokeh/rbokeh)/138 | R interface to Bokeh http://hafen.github.io/rbokeh/ |
-| 243 | 46 | 20 | 8 days ago | [tmap](https://github.com/mtennekes/tmap)/139 | R package for thematic maps |
-| 242 | 51 | 24 | 21 days ago | [forcats](https://github.com/tidyverse/forcats)/140 | 🐈🐈🐈🐈: tools for working with categorical variables (factors) |
-| 242 | 43 | 6 | 2 months ago | [ReporteRs](https://github.com/davidgohel/ReporteRs)/141 | Note that ReporteRs will be removed from CRAN the 16th of July. please migrate to officer |
-| 239 | 35 | 3 | 1 year, 11 months ago | [bayesian_first_aid](https://github.com/rasmusab/bayesian_first_aid)/142 | Inside every classical test there is a Bayesian model trying to get out. |
-| 238 | 71 | 79 | 7 days ago | [usethis](https://github.com/r-lib/usethis)/143 | Set up commonly used 📦 components |
-| 237 | 23 | 60 | 13 days ago | [naniar](https://github.com/njtierney/naniar)/144 | Tidy data structures, summaries, and visualisations for missing data |
-| 237 | 61 | 2 | a month ago | [syuzhet](https://github.com/mjockers/syuzhet)/145 | An R package for the extraction of sentiment and sentiment-based plot arcs from text |
-| 237 | 13 | 1 | 3 days ago | [ggpage](https://github.com/EmilHvitfeldt/ggpage)/146 | Creates Page Layout Visualizations in R |
-| 236 | 98 | 165 | 8 months ago | [rigraph](https://github.com/igraph/rigraph)/147 | igraph R package |
-| 236 | 82 | 0 | 5 years ago | [ggplot2-tutorial](https://github.com/echen/ggplot2-tutorial)/148 | Quick introduction to ggplot2 (no knowledge of R assumed) |
-| 236 | 22 | 10 | 9 months ago | [ggthemeassist](https://github.com/calligross/ggthemeassist)/149 | A RStudio addin for ggplot2 theme tweaking  |
-| 234 | 84 | 14 | 2 months ago | [ggally](https://github.com/ggobi/ggally)/150 | R package that extends ggplot2 |
-| 234 | 69 | 2 | 3 years ago | [dirichlet-process](https://github.com/echen/dirichlet-process)/151 | Introduction to Nonparametric Bayes, Infinite Mixture Models, and the Dirichlet Process (+ McDonald's) |
-| 232 | 21 | 4 | 4 years ago | [SimpleAintEasy](https://github.com/johnmyleswhite/SimpleAintEasy)/152 | A compendium of the pitfalls and problems that arise when using standard statistical methods |
-| 232 | 57 | 100 | a month ago | [openxlsx](https://github.com/awalker89/openxlsx)/153 | R package for .xlsx file reading and writing. |
-| 230 | 36 | 0 | 11 hours ago | [mathart](https://github.com/marcusvolz/mathart)/154 | Create mathematical art with R |
-| 230 | 23 | 2 | 6 days ago | [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)/155 | Comprehensive list of color palettes available in r |
-| 228 | 38 | 49 | 10 hours ago | [magick](https://github.com/ropensci/magick)/156 | Magic, madness, heaven, sin |
-| 226 | 101 | 0 | 1 year, 1 month ago | [guns-data](https://github.com/fivethirtyeight/guns-data)/157 | None |
-| 225 | 144 | 0 | 1 year, 11 months ago | [radiant](https://github.com/vnijs/radiant)/158 | Business analytics using R and Shiny |
-| 225 | 156 | 51 | 22 days ago | [seurat](https://github.com/satijalab/seurat)/159 | R toolkit for single cell genomics |
-| 223 | 170 | 7 | 2 months ago | [statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists)/160 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" |
-| 222 | 44 | 5 | 4 years ago | [leo-senate-model](https://github.com/TheUpshot/leo-senate-model)/161 | Code and data for The Upshot's Senate model. |
-| 222 | 35 | 25 | a month ago | [R6](https://github.com/r-lib/R6)/162 | R objects with reference semantics |
-| 222 | 40 | 26 | 2 months ago | [kableExtra](https://github.com/haozhu233/kableExtra)/163 | Construct Complex Table with knitr::kable() + pipe |
-| 217 | 53 | 19 | 4 months ago | [RNeo4j](https://github.com/nicolewhite/RNeo4j)/164 | Neo4j Driver for R. |
-| 217 | 66 | 35 | 16 days ago | [pander](https://github.com/Rapporter/pander)/165 | An R Pandoc Writer |
-| 214 | 21 | 6 | 15 days ago | [tinytex](https://github.com/yihui/tinytex)/166 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
-| 213 | 104 | 0 | 4 years ago | [Elements-of-Statistical-Learning](https://github.com/ajtulloch/Elements-of-Statistical-Learning)/167 | Contains LaTeX, SciPy and R code providing solutions to exercises in Elements of Statistical Learning (Hastie, Tibshirani & Friedman) |
-| 212 | 44 | 24 | a month ago | [doconce](https://github.com/hplgit/doconce)/168 | Lightweight markup language - document once, include anywhere |
-| 212 | 20 | 7 | 2 years ago | [glider_pro](https://github.com/softdorothy/glider_pro)/169 | Sources for the Macintosh game, Glider PRO, written by John Calhoun and published by Casady & Green Inc. |
-| 209 | 306 | 4 | 4 years ago | [titanic](https://github.com/trevorstephens/titanic)/170 | Getting Started With R |
-| 209 | 14 | 52 | a month ago | [goodpractice](https://github.com/MangoTheCat/goodpractice)/171 | Advice on R Package Building |
-| 208 | 28 | 11 | 16 days ago | [styler](https://github.com/r-lib/styler)/172 | Non-invasive pretty printing of R code |
-| 208 | 141 | 7 | 7 hours ago | [rweekly.org](https://github.com/rweekly/rweekly.org)/173 | R Weekly |
-| 207 | 260 | 1 | 10 months ago | [IntroToDataScience](https://github.com/EasyD/IntroToDataScience)/174 | GitHub Repository to accompany my YouTube series of videos on Introductory Data Science using R. |
-| 206 | 263 | 0 | 3 years ago | [Intro](https://github.com/rstudio/Intro)/175 | Course materials for "Introduction to Data Science with R", a video course by RStudio and O'Reilly Media |
-| 205 | 38 | 0 | 1 year, 1 month ago | [top-github-users-data](https://github.com/JJ/top-github-users-data)/176 | Data obtained with the top-github-users script |
-| 204 | 49 | 1 | 12 days ago | [cryptocurrency-analysis](https://github.com/prouast/cryptocurrency-analysis)/177 | Analysis and visualisation of the cryptocurrency market |
-| 203 | 24 | 24 | a month ago | [tidygraph](https://github.com/thomasp85/tidygraph)/178 | A tidy API for graph manipulation |
-| 203 | 26 | 21 | 18 hours ago | [infer](https://github.com/tidymodels/infer)/179 | An R package for tidyverse-friendly statistical inference |
-| 202 | 68 | 16 | 25 days ago | [covr](https://github.com/r-lib/covr)/180 | Test coverage reports for R |
-| 202 | 133 | 1 | 1 year, 3 months ago | [foodborne_classifier](https://github.com/corynissen/foodborne_classifier)/181 | The classifier used in the http://foodborne.smartchicagoapps.org/ application. |
-| 201 | 72 | 8 | a day ago | [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap)/182 | make complex heatmaps as well as self define annotation graphics |
-| 200 | 23 | 6 | 27 days ago | [DALEX](https://github.com/pbiecek/DALEX)/183 | Descriptive mAchine Learning EXplanations |
-| 199 | 30 | 25 | 14 days ago | [workflowr](https://github.com/jdblischak/workflowr)/184 | Organize your project into a research website |
-| 197 | 6 | 5 | a month ago | [furrr](https://github.com/DavisVaughan/furrr)/185 | Apply Mapping Functions in Parallel using Futures |
-| 197 | 23 | 6 | 4 days ago | [tidycensus](https://github.com/walkerke/tidycensus)/186 | Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R |
-| 196 | 21 | 7 | a month ago | [tweetbotornot](https://github.com/mkearney/tweetbotornot)/187 | 🤖 R package for detecting Twitter bots via machine learning  |
-| 196 | 26 | 1 | 9 days ago | [bayesAB](https://github.com/FrankPortman/bayesAB)/188 | 🐢 bayesAB: Fast Bayesian Methods for A/B Testing |
-| 195 | 11 | 2 | 3 months ago | [regexplain](https://github.com/gadenbuie/regexplain)/189 | 🔍 An RStudio addin slash regex utility belt |
-| 195 | 23 | 7 | 2 months ago | [assertr](https://github.com/ropensci/assertr)/190 | Assertive programming for R analysis pipelines |
-| 194 | 42 | 2 | 4 months ago | [ggtech](https://github.com/ricardo-bion/ggtech)/191 | ggplot2 tech themes, scales, and geoms |
-| 193 | 21 | 3 | 4 days ago | [canvasXpress](https://github.com/neuhausi/canvasXpress)/192 | JavaScript VisualizationTools |
-| 193 | 64 | 0 | 1 year, 6 months ago | [shiny-salesman](https://github.com/toddwschneider/shiny-salesman)/193 | Traveling salesman with simulated annealing, R, and Shiny |
-| 191 | 66 | 58 | 3 months ago | [papaja](https://github.com/crsh/papaja)/194 | papaja (Preparing APA Journal Articles) is an R package that provides document formats and helper functions to produce complete APA manscripts from RMarkdown-files (PDF and Word documents). |
-| 190 | 41 | 10 | 2 months ago | [sentimentr](https://github.com/trinker/sentimentr)/195 | Dictionary based sentiment analysis that considers valence shifters |
-| 190 | 57 | 0 | 6 months ago | [agency-loan-level](https://github.com/toddwschneider/agency-loan-level)/196 | Loan-level analysis of Fannie Mae and Freddie Mac data |
-| 190 | 77 | 16 | 6 hours ago | [geocompr](https://github.com/Robinlovelace/geocompr)/197 | Forthcoming book on geographic data with R |
-| 190 | 44 | 23 | 7 days ago | [elastic](https://github.com/ropensci/elastic)/198 | R client for the Elasticsearch HTTP API |
-| 189 | 49 | 12 | 5 months ago | [rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable)/199 | A R wrapper for the great library pivottable |
-| 188 | 50 | 25 | 2 months ago | [slackr](https://github.com/hrbrmstr/slackr)/200 | :hash: A package to send webhook API messages to Slack.com channels/users from R |
-| 187 | 60 | 43 | 1 year, 1 month ago | [2016-new-coder-survey](https://github.com/freeCodeCamp/2016-new-coder-survey)/201 | None |
-| 186 | 54 | 2 | 1 year, 9 months ago | [DataWrangling](https://github.com/ben519/DataWrangling)/202 | The ultimate reference guide to data wrangling with Python and R |
-| 185 | 96 | 214 | 9 days ago | [phyloseq](https://github.com/joey711/phyloseq)/203 | phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page: |
-| 184 | 106 | 6 | 1 year, 4 months ago | [REmap](https://github.com/Lchiffon/REmap)/204 | create  a map by R |
-| 183 | 71 | 58 | 8 months ago | [caretEnsemble](https://github.com/zachmayer/caretEnsemble)/205 | caret models all the way down :turtle: |
-| 181 | 13 | 33 | 2 months ago | [rhub](https://github.com/r-hub/rhub)/206 | R-hub API client |
-| 180 | 38 | 40 | a day ago | [sjPlot](https://github.com/strengejacke/sjPlot)/207 | sjPlot - Data Visualization for Statistics in Social Science |
-| 180 | 70 | 28 | 3 days ago | [aws.s3](https://github.com/cloudyr/aws.s3)/208 | Amazon Simple Storage Service (S3) API Client |
-| 180 | 16 | 10 | 4 days ago | [rrtools](https://github.com/benmarwick/rrtools)/209 | rrtools: Tools for Writing Reproducible Research in R |
-| 178 | 133 | 26 | 1 year, 5 months ago | [RGoogleAnalytics](https://github.com/Tatvic/RGoogleAnalytics)/210 | R Library to easily extract data from the Google Analytics API into R |
-| 177 | 48 | 31 | 7 months ago | [reshape](https://github.com/hadley/reshape)/211 | An R package to flexible rearrange, reshape and aggregate data |
-| 177 | 23 | 14 | 10 days ago | [shinyWidgets](https://github.com/dreamRs/shinyWidgets)/212 | shinyWidgets : Extend widgets available in shiny |
-| 176 | 43 | 45 | 1 year, 1 month ago | [RSelenium](https://github.com/ropensci/RSelenium)/213 | An R client for Selenium Remote WebDriver |
-| 176 | 11 | 2 | a month ago | [ggbeeswarm](https://github.com/eclarke/ggbeeswarm)/214 | Column scatter / beeswarm-style plots in ggplot2 |
-| 175 | 123 | 0 | 9 months ago | [ggplot2-tutorial](https://github.com/jennybc/ggplot2-tutorial)/215 | Teaching materials for the R package ggplot2 |
-| 175 | 13 | 11 | a month ago | [ggridges](https://github.com/clauswilke/ggridges)/216 | Geoms to make ridgeline plots with ggplot2 |
-| 174 | 17 | 38 | 22 days ago | [tidybayes](https://github.com/mjskay/tidybayes)/217 | Bayesian analysis + tidy data + geoms (R package) |
-| 172 | 52 | 13 | 1 year, 8 months ago | [ida](https://github.com/briatte/ida)/218 | Introduction to Data Analysis, using R (2013) |
-| 172 | 15 | 3 | a month ago | [slidex](https://github.com/datalorax/slidex)/219 | Convert PowerPoint Slides to xaringan (remark.js) Slides |
-| 171 | 31 | 4 | 4 months ago | [CatterPlots](https://github.com/Gibbsdavidl/CatterPlots)/220 | Did you ever wish you could make scatter plots with cat shaped points?  Now you can! |
-| 170 | 26 | 7 | a day ago | [officer](https://github.com/davidgohel/officer)/221 | :cop: officer: office documents from R |
-| 170 | 12 | 8 | 2 months ago | [row-oriented-workflows](https://github.com/jennybc/row-oriented-workflows)/222 | Row-oriented workflows in R with the tidyverse |
-| 170 | 87 | 43 | 1 year, 5 months ago | [rga](https://github.com/skardhamar/rga)/223 | R Google Analytics |
-| 169 | 37 | 16 | 9 days ago | [mapview](https://github.com/r-spatial/mapview)/224 | Interactive viewing of spatial data in R |
-| 169 | 103 | 0 | 4 months ago | [TeachingDemos](https://github.com/dgrapov/TeachingDemos)/225 | Bioinformatics related demos and tutorials using the R programming language |
-| 168 | 88 | 26 | 3 years ago | [ggbiplot](https://github.com/vqv/ggbiplot)/226 | A biplot based on ggplot2 |
-| 168 | 45 | 0 | 1 year, 27 days ago | [purrr-tutorial](https://github.com/cwickham/purrr-tutorial)/227 | A introduction to purrr |
-| 168 | 17 | 12 | a month ago | [progress](https://github.com/r-lib/progress)/228 | Progress bar in your R terminal |
-| 168 | 45 | 3 | 2 months ago | [taskscheduleR](https://github.com/bnosac/taskscheduleR)/229 | Schedule R scripts/processes with the Windows task scheduler. |
-| 168 | 19 | 37 | 3 months ago | [geofacet](https://github.com/hafen/geofacet)/230 | R package for geographical faceting with ggplot2 |
-| 168 | 119 | 8 | 2 years ago | [r-graph-catalog](https://github.com/jennybc/r-graph-catalog)/231 | All graphs in “Creating More Effective Graphs”, made with R package ggplot2. |
-| 167 | 28 | 0 | 2 years ago | [textmining_southpark](https://github.com/walkerkq/textmining_southpark)/232 | http://kaylinpavlik.com/text-mining-south-park/ |
-| 167 | 25 | 6 | 3 months ago | [viridis](https://github.com/sjmgarnier/viridis)/233 | Implementation of the Matplolib 'viridis' color map in R |
-| 166 | 42 | 4 | 1 year, 4 months ago | [Laurae](https://github.com/Laurae2/Laurae)/234 | Advanced High Performance Data Science Toolbox for R by Laurae |
-| 165 | 55 | 125 | 8 days ago | [rlang](https://github.com/r-lib/rlang)/235 | Low-level API for programming with R |
-| 165 | 16 | 23 | 3 months ago | [emo](https://github.com/hadley/emo)/236 | Easily insert emoji into R and RMarkdown |
-| 165 | 217 | 2 | 2 years ago | [RiA2](https://github.com/kabacoff/RiA2)/237 | Source code for R in Action, Second Edition |
-| 164 | 21 | 3 | 20 days ago | [servr](https://github.com/yihui/servr)/238 | A simple HTTP server in R |
-| 164 | 64 | 0 | 11 months ago | [nyc-citibike-data](https://github.com/toddwschneider/nyc-citibike-data)/239 | NYC Citi Bike system data and analysis |
-| 164 | 28 | 34 | 3 years ago | [extrafont](https://github.com/wch/extrafont)/240 | Tools for using fonts in R graphics |
-| 163 | 16 | 15 | 26 days ago | [corrr](https://github.com/drsimonj/corrr)/241 | R package for exploring correlations |
-| 163 | 30 | 51 | 18 days ago | [heatmaply](https://github.com/talgalili/heatmaply)/242 | Interactive Heat Maps for R Using plotly |
-| 162 | 16 | 4 | 19 days ago | [remedy](https://github.com/ThinkR-open/remedy)/243 | RStudio Addins to Simplify Markdown Writing |
-| 161 | 48 | 48 | a month ago | [codemeta](https://github.com/codemeta/codemeta)/244 | Minimal metadata schemas for science software and code, in JSON-LD |
-| 161 | 6 | 17 | 1 year, 28 days ago | [strict](https://github.com/hadley/strict)/245 | Make R a little bit stricter |
-| 160 | 20 | 20 | 18 days ago | [visdat](https://github.com/ropensci/visdat)/246 | Preliminary Exploratory Visualisation of Data |
-| 160 | 56 | 11 | 3 years ago | [d3Network](https://github.com/christophergandrud/d3Network)/247 | Tools for creating D3 JavaScript network graphs from R. |
-| 159 | 4 | 1 | 2 months ago | [ggpomological](https://github.com/gadenbuie/ggpomological)/248 | 🍑 Pomological plot theme for ggplot2 |
-| 158 | 54 | 63 | a month ago | [rstanarm](https://github.com/stan-dev/rstanarm)/249 | rstanarm R package for Bayesian applied regression modeling |
-| 157 | 34 | 41 | 3 months ago | [rdrop2](https://github.com/karthik/rdrop2)/250 | Dropbox Interface from R |
-| 157 | 58 | 33 | 2 months ago | [stm](https://github.com/bstewart/stm)/251 | An R Package for the Structural Topic Model |
-| 157 | 21 | 9 | 2 days ago | [margins](https://github.com/leeper/margins)/252 | An R Port of Stata's 'margins' Command |
-| 156 | 82 | 28 | 3 days ago | [clusterProfiler](https://github.com/GuangchuangYu/clusterProfiler)/253 | :bar_chart:statistical analysis and visualization of functional profiles for genes and gene clusters |
-| 156 | 46 | 12 | 5 days ago | [radiant](https://github.com/radiant-rstats/radiant)/254 | Business analytics using R and Shiny. The radiant app combines the menus from radiant.data, radiant.design, radiant.basics, radiant.model, and radiant.multivariate. |
-| 155 | 106 | 2 | 16 days ago | [R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial)/255 | Spatial data in R: using R as a GIS |
-| 154 | 38 | 28 | 5 months ago | [pryr](https://github.com/hadley/pryr)/256 | Pry open the covers of R |
-| 153 | 33 | 8 | 2 months ago | [cowsay](https://github.com/sckott/cowsay)/257 | cowsay w/ more animals, in R |
-| 152 | 455 | 0 | 2 years ago | [dagdata](https://github.com/genomicsclass/dagdata)/258 | Data for the HarvardX courses: PH525x |
-| 152 | 42 | 39 | 2 months ago | [rnoaa](https://github.com/ropensci/rnoaa)/259 | R interface to many NOAA data APIs |
-| 152 | 22 | 26 | 1 year, 7 days ago | [knitcitations](https://github.com/cboettig/knitcitations)/260 | Generate citations for knitr markdown and html files |
-| 152 | 11 | 7 | 4 months ago | [fiery](https://github.com/thomasp85/fiery)/261 | A flexible and lightweight web server |
-| 152 | 51 | 12 | 8 days ago | [tufte](https://github.com/rstudio/tufte)/262 | Tufte Styles for R Markdown Documents |
-| 151 | 48 | 1 | 2 years ago | [topicmodels_learning](https://github.com/trinker/topicmodels_learning)/263 | A repository of learning & R resources related to topic models  |
-| 151 | 21 | 9 | 2 months ago | [wakefield](https://github.com/trinker/wakefield)/264 | Generate random data sets |
-| 150 | 43 | 35 | a month ago | [RSQLite](https://github.com/r-dbi/RSQLite)/265 | R interface for SQLite |
-| 150 | 17 | 9 | 9 months ago | [rex](https://github.com/kevinushey/rex)/266 | Friendly regular expressions for R. |
-| 149 | 11 | 10 | 7 hours ago | [fs](https://github.com/r-lib/fs)/267 | Provide cross platform file operations based on libuv. |
-| 149 | 40 | 14 | 8 days ago | [lavaan](https://github.com/yrosseel/lavaan)/268 | an R package for structural equation modeling and more |
-| 149 | 37 | 8 | a month ago | [RQGIS](https://github.com/jannes-m/RQGIS)/269 | RQGIS - integrating R with QGIS |
-| 149 | 19 | 10 | 21 days ago | [slopegraph](https://github.com/leeper/slopegraph)/270 | Edward Tufte-Inspired Slopegraphs |
-| 148 | 52 | 22 | 17 days ago | [installr](https://github.com/talgalili/installr)/271 | Functions for installing softwares from within R |
-| 147 | 22 | 0 | a month ago | [strava](https://github.com/marcusvolz/strava)/272 | Create artistic visualisations with your exercise data |
-| 147 | 11 | 1 | 20 days ago | [rayshader](https://github.com/tylermorganwall/rayshader)/273 | R Package for Raytracing Elevation Matrices to Produce Global Illumination Relief Maps |
-| 147 | 28 | 5 | 5 days ago | [hexSticker](https://github.com/GuangchuangYu/hexSticker)/274 | :sparkles:Hexagon sticker in R |
-| 147 | 27 | 7 | 2 years ago | [ggnet](https://github.com/briatte/ggnet)/275 | Network visualization with ggplot2 |
-| 146 | 56 | 12 | 2 years ago | [DistributedR](https://github.com/vertica/DistributedR)/276 | None |
-| 146 | 76 | 30 | 8 hours ago | [gtrendsR](https://github.com/PMassicotte/gtrendsR)/277 | R functions to perform and display Google Trends queries |
-| 145 | 23 | 14 | 10 days ago | [iheatmapr](https://github.com/ropensci/iheatmapr)/278 | Complex, interactive heatmaps in R |
-| 145 | 15 | 1 | a day ago | [staplr](https://github.com/pridiltal/staplr)/279 | PDF Toolkit. :paperclip: :hammer: :wrench: :scissors:  :bookmark_tabs: :file_folder::paperclip:  |
-| 145 | 33 | 2 | 2 years ago | [send-email-with-r](https://github.com/jennybc/send-email-with-r)/280 | How to send a bunch of email from R |
-| 145 | 12 | 7 | 21 days ago | [iml](https://github.com/christophM/iml)/281 | iml: interpretable machine learning R package |
-| 144 | 42 | 26 | 22 hours ago | [taxize](https://github.com/ropensci/taxize)/282 | A taxonomic toolbelt for R |
-| 144 | 13 | 19 | 6 days ago | [stars](https://github.com/r-spatial/stars)/283 | Spatiotemporal tidy arrays for R |
-| 142 | 18 | 11 | 5 months ago | [widyr](https://github.com/dgrtwo/widyr)/284 | Widen, process, and re-tidy a dataset |
-| 141 | 41 | 10 | a month ago | [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)/285 | An R package that makes xgboost models fully interpretable |
-| 141 | 23 | 2 | a month ago | [stationaRy](https://github.com/rich-iannone/stationaRy)/286 | Get hourly meteorological data from one of thousands of global stations |
-| 141 | 15 | 56 | 9 months ago | [modules](https://github.com/klmr/modules)/287 | Replacing packages: An alternative module system for R |
-| 141 | 15 | 31 | 15 days ago | [ompr](https://github.com/dirkschumacher/ompr)/288 | R package to model Mixed Integer Linear Programs |
-| 141 | 183 | 6 | 3 years ago | [baseball_R](https://github.com/maxtoki/baseball_R)/289 | Companion to Analyzing Baseball Data with R |
-| 140 | 4 | 8 | 2 months ago | [lookup](https://github.com/jimhester/lookup)/290 | Lookup R full function definitions, including compiled code, S3 and S4 methods. |
-| 140 | 10 | 6 | 19 days ago | [lobstr](https://github.com/r-lib/lobstr)/291 | Understanding complex R objects with tools similar to str() |
-| 140 | 49 | 17 | 2 months ago | [corrplot](https://github.com/taiyun/corrplot)/292 | Package corrplot is for visualizing a correlation matrix |
-| 139 | 8 | 5 | 27 days ago | [syberia](https://github.com/syberia/syberia)/293 | Syberia: The development framework for R |
-| 139 | 68 | 0 | 5 years ago | [hadoop-R](https://github.com/jseidman/hadoop-R)/294 | Example code for running R on Hadoop |
-| 139 | 16 | 40 | 8 months ago | [gpuR](https://github.com/cdeterman/gpuR)/295 | R interface to use GPU's |
-| 139 | 16 | 16 | 8 days ago | [pixiedust](https://github.com/nutterb/pixiedust)/296 | Tables So Beautifully Fine-Tuned You Will Believe It's Magic. |
-| 139 | 38 | 9 | 6 hours ago | [ggExtra](https://github.com/daattali/ggExtra)/297 | Add marginal histograms to ggplot2, and more ggplot2 enhancements |
-| 139 | 26 | 8 | 11 months ago | [jug](https://github.com/Bart6114/jug)/298 | jug: A Simple Web Framework for R |
-| 139 | 68 | 9 | a month ago | [sqldf](https://github.com/ggrothendieck/sqldf)/299 | Perform SQL Selects on R Data Frames |
-| 138 | 208 | 0 | 4 months ago | [shiny-server](https://github.com/daattali/shiny-server)/300 | My personal Shiny server |
-| 138 | 35 | 30 | 1 year, 6 months ago | [animint](https://github.com/tdhock/animint)/301 | animated and interactive web graphics |
-| 138 | 60 | 29 | 5 months ago | [TTR](https://github.com/joshuaulrich/TTR)/302 | Technical analysis and other functions to construct technical trading rules with R |
-| 138 | 21 | 19 | 3 years ago | [testdat](https://github.com/karthik/testdat)/303 | A package to run unit tests on tabular data |
-| 138 | 56 | 40 | 26 days ago | [sleuth](https://github.com/pachterlab/sleuth)/304 | Differential analysis of RNA-Seq |
-| 137 | 39 | 11 | 7 months ago | [formatR](https://github.com/yihui/formatR)/305 | Format R Code Automatically |
-| 137 | 41 | 76 | 1 year, 3 months ago | [opendata](https://github.com/ropensci/opendata)/306 | CRAN OpenData Task View |
-| 137 | 64 | 47 | a month ago | [dbplyr](https://github.com/tidyverse/dbplyr)/307 | Database (DBI) backend for dplyr |
-| 136 | 6 | 10 | 5 days ago | [esquisse](https://github.com/dreamRs/esquisse)/308 | RStudio add-in to make plots with ggplot2 |
-| 136 | 61 | 0 | 6 months ago | [statistical-learning](https://github.com/khanhnamle1994/statistical-learning)/309 | Lecture Slides and R Sessions for Trevor Hastie and Rob Tibshinari's "Statistical Learning" Stanford course |
-| 136 | 42 | 43 | a month ago | [gmailr](https://github.com/jimhester/gmailr)/310 | Access the Gmail RESTful API from R. |
-| 136 | 32 | 10 | a month ago | [shiny.semantic](https://github.com/Appsilon/shiny.semantic)/311 | Shiny support for powerful Semantic UI library. |
-| 136 | 11 | 0 | 7 hours ago | [analytics](https://github.com/dupadhyaya/analytics)/312 | My work on Analytics and Research in Data Science |
-| 135 | 91 | 3 | 8 years ago | [data-baby-names](https://github.com/hadley/data-baby-names)/313 | Distribution of US baby names, 1880-2008 |
-| 135 | 18 | 20 | 2 months ago | [superheat](https://github.com/rlbarter/superheat)/314 | An r package for generating beautiful and customizable heatmaps |
-| 135 | 68 | 0 | 3 years ago | [revere](https://github.com/kjhealy/revere)/315 | Finding Paul Revere |
-| 134 | 50 | 4 | 3 years ago | [choroplethr](https://github.com/trulia/choroplethr)/316 | choroplethr simplifies the creation of choropleths (thematic maps) in R |
-| 134 | 20 | 8 | 2 months ago | [crayon](https://github.com/r-lib/crayon)/317 | R package for colored terminal output |
-| 134 | 39 | 27 | 2 months ago | [shinystan](https://github.com/stan-dev/shinystan)/318 | shinystan R package and ShinyStan GUI |
-| 134 | 34 | 4 | 2 years ago | [tiq-test](https://github.com/mlsecproject/tiq-test)/319 | Threat Intelligence Quotient Test - Dataviz and Statistical Analysis of TI feeds |
-| 134 | 52 | 32 | 28 days ago | [GenVisR](https://github.com/griffithlab/GenVisR)/320 | Genome data visualizations |
-| 134 | 44 | 36 | 2 months ago | [DBI](https://github.com/r-dbi/DBI)/321 | A database interface (DBI) definition for communication between R and RDBMSs |
-| 134 | 12 | 2 | 4 days ago | [ggstance](https://github.com/lionel-/ggstance)/322 | Horizontal ggplot2 components |
-| 134 | 18 | 17 | a month ago | [stringdist](https://github.com/markvanderloo/stringdist)/323 | String distance functions for R |
-| 134 | 23 | 1 | 28 days ago | [ggsci](https://github.com/road2stat/ggsci)/324 | Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2 |
-| 133 | 53 | 54 | 15 days ago | [survminer](https://github.com/kassambara/survminer)/325 | Survival Analysis and Visualization |
-| 133 | 29 | 66 | 2 years ago | [shinyBS](https://github.com/ebailey78/shinyBS)/326 | Twitter Bootstrap Components for Shiny |
-| 133 | 36 | 16 | 5 days ago | [scholar](https://github.com/jkeirstead/scholar)/327 | Analyse citation data from Google Scholar |
-| 133 | 108 | 5 | 1 year, 4 months ago | [sand](https://github.com/kolaczyk/sand)/328 | Statistical Analysis of Network Data with R |
-| 133 | 24 | 5 | a month ago | [DataExplorer](https://github.com/boxuancui/DataExplorer)/329 | R package to simplify Exploratory Data Analysis |
-| 132 | 29 | 8 | 2 months ago | [timetk](https://github.com/business-science/timetk)/330 | A toolkit for working with time series in R |
-| 132 | 71 | 0 | 3 years ago | [r-tutorials](https://github.com/ranalytics/r-tutorials)/331 | Приложения к книге "Статистический анализ и визуализация данных с помощью R" |
-| 131 | 44 | 25 | 2 years ago | [mailR](https://github.com/rpremraj/mailR)/332 | A utility to send emails from the R programming environment |
-| 131 | 130 | 8 | 1 year, 6 months ago | [R-Tutorials](https://github.com/JulianHill/R-Tutorials)/333 | Code from the r tutorial on my blog |
-| 131 | 113 | 11 | 2 months ago | [rfortraders](https://github.com/hgeorgako/rfortraders)/334 | Quantitative Trading with R |
-| 130 | 53 | 18 | 9 days ago | [animation](https://github.com/yihui/animation)/335 | A gallery of animations in statistics and utilities to create animations |
-| 130 | 39 | 13 | 4 months ago | [memoise](https://github.com/r-lib/memoise)/336 | Easy memoisation for R |
-| 130 | 23 | 7 | 1 year, 23 days ago | [rho](https://github.com/rho-devel/rho)/337 | None |
-| 130 | 15 | 7 | a month ago | [emoGG](https://github.com/dill/emoGG)/338 | :chart_with_upwards_trend::heart_eyes_cat: Emoji in ggplot2 :heart_eyes_cat::chart_with_upwards_trend: |
-| 130 | 33 | 5 | 7 days ago | [shinyAce](https://github.com/trestletech/shinyAce)/339 | Integrating the Ace editor with Shiny. |
-| 129 | 45 | 26 | 23 hours ago | [nflscrapR](https://github.com/maksimhorowitz/nflscrapR)/340 | R Package for Scraping and Aggregating NFL Data |
-| 129 | 140 | 1 | 4 months ago | [ShinyEd](https://github.com/ShinyEd/ShinyEd)/341 | Shiny Applets for Education |
-| 128 | 27 | 13 | 9 months ago | [Rook](https://github.com/jeffreyhorner/Rook)/342 | A web server interface for R |
-| 128 | 31 | 4 | 1 year, 10 months ago | [pipeR](https://github.com/renkun-ken/pipeR)/343 | Multi-Paradigm Pipeline Implementation |
-| 127 | 46 | 7 | 14 days ago | [SuperLearner](https://github.com/ecpolley/SuperLearner)/344 | Current version of the SuperLearner R package |
-| 127 | 48 | 23 | a month ago | [dada2](https://github.com/benjjneb/dada2)/345 | Accurate sample inference from amplicon data with single nucleotide resolution |
-| 127 | 11 | 5 | 14 days ago | [tesseract](https://github.com/ropensci/tesseract)/346 | Bindings to Tesseract OCR engine for R |
-| 126 | 117 | 219 | 12 days ago | [doctree](https://github.com/rurema/doctree)/347 | Repository of Japanese Ruby reference manual |
-| 125 | 8 | 6 | 20 days ago | [gghighlight](https://github.com/yutannihilation/gghighlight)/348 | Highlight points and lines in ggplot2 |
-| 125 | 36 | 59 | 3 months ago | [leaflet.extras](https://github.com/bhaskarvk/leaflet.extras)/349 | Extra functionality for leaflet R package. |
-| 125 | 10 | 1 | 2 months ago | [mathpix](https://github.com/jonocarroll/mathpix)/350 | Query the mathpix API to convert math images to LaTeX |
-| 125 | 49 | 9 | 19 days ago | [DesktopDeployR](https://github.com/wleepang/DesktopDeployR)/351 | A framework for deploying self-contained R-based applications to the desktop |
-| 125 | 46 | 26 | 7 months ago | [Rcrawler](https://github.com/salimk/Rcrawler)/352 | An R web crawler and scraper |
-| 124 | 17 | 31 | 18 days ago | [googledrive](https://github.com/tidyverse/googledrive)/353 | Google Drive R API |
-| 124 | 94 | 0 | a month ago | [RDocumentation](https://github.com/datacamp/RDocumentation)/354 | R package to integrate rdocumentation.org into your R workflow |
-| 124 | 32 | 35 | a month ago | [fulltext](https://github.com/ropensci/fulltext)/355 | Search across and get full text for OA & closed journals |
-| 124 | 42 | 0 | 4 months ago | [broman](https://github.com/kbroman/broman)/356 | R/broman: A package with Karl Broman's personal R code |
-| 124 | 13 | 11 | 2 months ago | [lambda.r](https://github.com/zatonovo/lambda.r)/357 | Functional programming in R |
-| 123 | 26 | 18 | 11 days ago | [shinymaterial](https://github.com/ericrayanderson/shinymaterial)/358 | None |
-| 123 | 26 | 46 | a month ago | [r4intellij](https://github.com/holgerbrandl/r4intellij)/359 | An integration of the R programming language into Intellij IDEA |
-| 123 | 9 | 10 | 5 months ago | [zeallot](https://github.com/r-lib/zeallot)/360 | Variable assignment with zeal! (or multiple, unpacking, and destructuring assignment in R) |
-| 123 | 61 | 55 | 1 year, 5 days ago | [RHive](https://github.com/nexr/RHive)/361 | RHive is an R extension facilitating distributed computing via Apache Hive. |
-| 123 | 70 | 2 | 2 years ago | [kaggle-avito](https://github.com/owenzhang/kaggle-avito)/362 | Winning solution to the Avito CTR competition |
-| 123 | 33 | 8 | a month ago | [baseballr](https://github.com/BillPetti/baseballr)/363 | A package written for R focused on baseball analysis. Currently in development. |
-| 122 | 58 | 26 | 7 months ago | [RSocrata](https://github.com/Chicago/RSocrata)/364 | Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "human-friendly" URL, returns an R data frame. Converts dates to 'POSIX' format. Manages throttling by 'Socrata'. |
-| 122 | 42 | 0 | 6 months ago | [voice-gender](https://github.com/primaryobjects/voice-gender)/365 | Gender recognition by voice and speech analysis |
-| 122 | 36 | 7 | 5 months ago | [muxViz](https://github.com/manlius/muxViz)/366 | Analysis and Visualization of Interconnected Multilayer Networks |
-| 122 | 48 | 9 | 6 hours ago | [scales](https://github.com/r-lib/scales)/367 | Graphical scales |
-| 121 | 76 | 1 | 1 year, 6 months ago | [Santander-Product-Recommendation](https://github.com/ttvand/Santander-Product-Recommendation)/368 | 2nd Place Solution of the Kaggle Competition - Santander Product Recommendation |
-| 121 | 42 | 20 | 19 hours ago | [countrycode](https://github.com/vincentarelbundock/countrycode)/369 | R package: Convert country names and country codes. Assigns region descriptors. |
-| 120 | 24 | 12 | a month ago | [data.tree](https://github.com/gluc/data.tree)/370 | General Purpose Hierarchical Data Structure for R |
-| 120 | 16 | 3 | 1 year, 11 months ago | [git-submodule-tools](https://github.com/kollerma/git-submodule-tools)/371 | git submodule scripts |
-| 120 | 46 | 11 | a month ago | [vegan](https://github.com/vegandevs/vegan)/372 | R package for community ecologists: popular ordination methods, ecological null models & diversity analysis |
-| 120 | 21 | 16 | 4 months ago | [tibbletime](https://github.com/business-science/tibbletime)/373 | Time-aware tibbles |
-| 120 | 13 | 6 | 28 days ago | [citr](https://github.com/crsh/citr)/374 | RStudio Addin to Insert Markdown Citations |
-| 119 | 7 | 3 | a month ago | [chunked](https://github.com/edwindj/chunked)/375 | Chunkwise Text-file Processing for 'dplyr' |
-| 119 | 239 | 1 | 3 months ago | [MLwR](https://github.com/dataspelunking/MLwR)/376 | Machine Learning with R |
-| 119 | 25 | 21 | 1 year, 10 months ago | [rlist](https://github.com/renkun-ken/rlist)/377 | A Toolbox for Non-Tabular Data Manipulation |
-| 118 | 19 | 35 | a month ago | [trelliscopejs](https://github.com/hafen/trelliscopejs)/378 | TrelliscopeJS R Package |
-| 118 | 10 | 23 | 3 years ago | [tidyjson](https://github.com/sailthru/tidyjson)/379 | Tools for using dplyr with JSON data |
-| 118 | 14 | 0 | 8 days ago | [PolData](https://github.com/erikgahner/PolData)/380 | A dataset with political datasets |
-| 117 | 40 | 3 | 11 months ago | [cognizer](https://github.com/ColumbusCollaboratory/cognizer)/381 | R package to call IBM Watson services. |
-| 116 | 22 | 4 | 1 year, 1 month ago | [pipelearner](https://github.com/drsimonj/pipelearner)/382 | Tidy machine learning pipelines |
-| 115 | 37 | 31 | 6 months ago | [factoextra](https://github.com/kassambara/factoextra)/383 | Extract and Visualize the Results of Multivariate Data Analyses |
-| 114 | 7 | 1 | 12 days ago | [ggspatial](https://github.com/paleolimbot/ggspatial)/384 | A ggplot2 R extension for plotting Spatial* objects |
-| 113 | 26 | 29 | a day ago | [bayesplot](https://github.com/stan-dev/bayesplot)/385 | bayesplot R package for plotting Bayesian models |
-| 113 | 139 | 2 | 6 years ago | [data-science-r](https://github.com/jmstanto/data-science-r)/386 | R code and documentation for "Introduction to Data Science" by Jeffrey Stanton |
-| 113 | 6 | 393 | 2 years ago | [itch.io](https://github.com/itchio/itch.io)/387 | :bug: Public itch.io issues tracker - use support instead for private information! |
-| 113 | 19 | 33 | 1 year, 2 months ago | [dtplyr](https://github.com/hadley/dtplyr)/388 | Data table backend for dplyr |
-| 113 | 41 | 10 | 3 months ago | [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst)/389 | R package to access Adobe Analytics Reporting API |
-| 112 | 45 | 12 | 1 year, 3 months ago | [PivotalR](https://github.com/pivotalsoftware/PivotalR)/390 | An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib. |
-| 112 | 19 | 7 | a month ago | [statcheck](https://github.com/MicheleNuijten/statcheck)/391 | None |
-| 111 | 6 | 6 | 8 months ago | [latex2exp](https://github.com/stefano-meschiari/latex2exp)/392 | Use LaTeX in R |
-| 111 | 88 | 1 | 3 months ago | [spacetime-vis](https://github.com/oscarperpinan/spacetime-vis)/393 | Sources of the book "Displaying time series, spatial and space-time data with R" (1st Edition) |
-| 111 | 66 | 0 | 5 months ago | [Facebook-V](https://github.com/ttvand/Facebook-V)/394 | Cleaned code of the winning submission of the Kaggle Recruiting Competition |
-| 110 | 101 | 4 | 8 months ago | [gapminder](https://github.com/jennybc/gapminder)/395 | Excerpt from the Gapminder data, as an R data package and in plain text delimited form |
-| 110 | 29 | 19 | 5 months ago | [futile.logger](https://github.com/zatonovo/futile.logger)/396 | A logging package in R similar to log4j |
-| 110 | 16 | 3 | 14 days ago | [tigris](https://github.com/walkerke/tigris)/397 | Download and use Census TIGER/Line shapefiles in R |
-| 110 | 32 | 0 | 2 years ago | [JSE_OkCupid](https://github.com/rudeboybert/JSE_OkCupid)/398 | Journal of Statistical Education Paper on Using OkCupid Data for Data Science Courses |
-| 110 | 10 | 87 | 3 months ago | [containerit](https://github.com/o2r-project/containerit)/399 | Package an R workspace and all dependencies as a Docker container |
-| 109 | 12 | 1 | 9 months ago | [slipper](https://github.com/jtleek/slipper)/400 | Tidy and easy bootstrapping |
-| 109 | 8 | 4 | a month ago | [cli](https://github.com/r-lib/cli)/401 | Tools for making beautiful & useful command line interfaces |
-| 109 | 34 | 0 | 10 months ago | [gunsales](https://github.com/NYTimes/gunsales)/402 | Statistical analysis of monthly background checks of gun purchases |
-| 109 | 16 | 1 | a month ago | [fundManageR](https://github.com/abresler/fundManageR)/403 | An Investment Management toolkit for R.  Because Excel is a threat to the global financial system. |
-| 109 | 40 | 8 | 1 year, 3 months ago | [fitbitScraper](https://github.com/corynissen/fitbitScraper)/404 | R package to scrape fitbit data |
-| 109 | 256 | 4 | 4 years ago | [MathematicsBiostatisticsBootCamp2](https://github.com/bcaffo/MathematicsBiostatisticsBootCamp2)/405 | The github repository for mathematical biostatistics bootcamp 2 |
-| 109 | 55 | 3 | 8 days ago | [N2H4](https://github.com/forkonlp/N2H4)/406 | 네이버 뉴스 수집을 위한 도구 |
-| 108 | 15 | 0 | 29 days ago | [cartography](https://github.com/riatelab/cartography)/407 | :globe_with_meridians: Thematic Cartography |
-| 107 | 11 | 5 | 3 years ago | [meme](https://github.com/leeper/meme)/408 | Meme Generation in R |
-| 107 | 10 | 11 | 3 months ago | [listviewer](https://github.com/timelyportfolio/listviewer)/409 | R htmlwidget to view lists |
-| 107 | 17 | 2 | 16 hours ago | [summarytools](https://github.com/dcomtois/summarytools)/410 | R Package for quickly and neatly summarizing vectors and dataframes |
-| 107 | 32 | 25 | 2 months ago | [qdap](https://github.com/trinker/qdap)/411 | Quantitative Discourse Analysis Package: Bridging the gap between qualitative data and quantitative analysis |
-| 107 | 14 | 15 | 1 year, 9 months ago | [ddR](https://github.com/vertica/ddR)/412 | Standard API for Distributed Data Structures in R |
-| 107 | 18 | 3 | a month ago | [tokenizers](https://github.com/ropensci/tokenizers)/413 | Fast, Consistent Tokenization of Natural Language Text |
-| 107 | 66 | 31 | 2 days ago | [maftools](https://github.com/PoisonAlien/maftools)/414 | :cancer: Summarize, Analyze and Visualize MAF files from TCGA or in house studies. |
-| 106 | 34 | 1 | 1 year, 6 months ago | [user2016-tutorial](https://github.com/ropensci-training/user2016-tutorial)/415 | useR 2016 workshop materials for "Extracting data from the web APIs and beyond" |
-| 106 | 58 | 9 | 2 years ago | [Latent-Factor-Models](https://github.com/beechung/Latent-Factor-Models)/416 | R functions for fitting latent factor models with internal computation in C/C++ |
-| 106 | 27 | 0 | 2 years ago | [osd-street-center-line](https://github.com/Chicago/osd-street-center-line)/417 | Open source release of street center lines in Chicago. |
-| 106 | 39 | 7 | 4 months ago | [ggradar](https://github.com/ricardo-bion/ggradar)/418 | radar charts with ggplot2 |
-| 106 | 21 | 5 | 3 months ago | [anomalize](https://github.com/business-science/anomalize)/419 | Tidy anomaly detection |
-| 106 | 6 | 0 | 3 months ago | [nytcrossword](https://github.com/jtanwk/nytcrossword)/420 | Exploration of NYT Crossword answers from 1994-2017 |
-| 105 | 44 | 8 | 1 year, 4 months ago | [fio_scripts](https://github.com/khailey/fio_scripts)/421 | scripts for running fio, parsing the data and graphing the output |
-| 105 | 27 | 5 | 1 year, 2 months ago | [leafletCN](https://github.com/Lchiffon/leafletCN)/422 | An R gallery for China and other geojson choropleth map in leaflet |
-| 105 | 23 | 8 | 3 days ago | [simmer](https://github.com/r-simmer/simmer)/423 | Discrete-Event Simulation for R |
-| 104 | 2 | 3 | 9 months ago | [wordcountaddin](https://github.com/benmarwick/wordcountaddin)/424 | Word counts and readability statistics in R markdown documents |
-| 104 | 15 | 6 | 15 days ago | [datasauRus](https://github.com/lockedata/datasauRus)/425 | R Package 📦 Containing the Datasaurus Dozen datasets :bar_chart: |
-| 104 | 17 | 14 | 4 months ago | [pool](https://github.com/rstudio/pool)/426 | Object Pooling in R |
-| 104 | 68 | 0 | 1 year, 11 months ago | [kaggle-airbnb-recruiting-new-user-bookings](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)/427 | 2nd Place Solution in Kaggle Airbnb New User Bookings competition |
-| 104 | 66 | 87 | 12 days ago | [healthcareai-r](https://github.com/HealthCatalyst/healthcareai-r)/428 | R tools for healthcare machine learning |
-| 103 | 9 | 7 | a month ago | [here](https://github.com/r-lib/here)/429 | A simpler way to find your files |
-| 103 | 25 | 11 | a month ago | [rmdshower](https://github.com/MangoTheCat/rmdshower)/430 | R Markdown template for shower |
-| 103 | 4 | 6 | a month ago | [pointblank](https://github.com/rich-iannone/pointblank)/431 | Validation of local and remote data tables |
-| 103 | 46 | 40 | a year ago | [ngsplot](https://github.com/shenlab-sinai/ngsplot)/432 | Quick mining and visualization of NGS data by integrating genomic databases |
-| 103 | 14 | 7 | 2 years ago | [whisker](https://github.com/edwindj/whisker)/433 | {{mustache}} for R |
-| 103 | 16 | 8 | 3 months ago | [gender](https://github.com/ropensci/gender)/434 | Predict Gender from Names Using Historical Data |
-| 103 | 13 | 2 | 23 days ago | [d3r](https://github.com/timelyportfolio/d3r)/435 | d3.js helpers for R |
-| 103 | 49 | 2 | a month ago | [bioc-refcard](https://github.com/mikelove/bioc-refcard)/436 | Bioconductor cheat sheet |
-| 102 | 26 | 62 | 4 months ago | [remotes](https://github.com/r-lib/remotes)/437 | Install R packages from GitHub, Bitbucket, git, svn repositories, URLs |
-| 102 | 24 | 0 | 2 years ago | [reddit-bigquery](https://github.com/minimaxir/reddit-bigquery)/438 | Code + Jupyter notebook for analyzing and visualizing Reddit Data quickly and easily |
-| 101 | 81 | 2 | 2 years ago | [R](https://github.com/datadolphyn/R)/439 | None |
-| 101 | 17 | 15 | 26 days ago | [googleway](https://github.com/SymbolixAU/googleway)/440 | R Package for accessing and plotting Google Maps |
-| 101 | 4 | 0 | 7 months ago | [ghibli](https://github.com/ewenme/ghibli)/441 | Studio Ghibli colour palettes 📦 |
-| 101 | 3 | 0 | 5 months ago | [Text_Mining](https://github.com/TuGengs/Text_Mining)/442 | 基于R语言的文本挖掘，用于分析演讲人的情感成分 |
-| 101 | 15 | 35 | 4 months ago | [pacman](https://github.com/trinker/pacman)/443 | A package management tools for R |
-| 101 | 114 | 0 | 12 days ago | [machine-learning-course](https://github.com/faridcher/machine-learning-course)/444 | R code for the assignments of Coursera machine learning course |
-| 101 | 20 | 0 | 15 hours ago | [TSstudio](https://github.com/RamiKrispin/TSstudio)/445 | Tools for time series analysis and forecasting |
-| 101 | 29 | 38 | 1 year, 3 months ago | [trelliscope](https://github.com/delta-rho/trelliscope)/446 | Detailed Visualization of Large Complex Data in R |
-| 100 | 12 | 0 | a month ago | [treemapify](https://github.com/wilkox/treemapify)/447 | 🌳 Draw treemaps in ggplot2 |
-| 100 | 22 | 11 | 2 days ago | [eurostat](https://github.com/rOpenGov/eurostat)/448 | R tools for Eurostat data |
-| 100 | 25 | 2 | 3 months ago | [anomalous-acm](https://github.com/robjhyndman/anomalous-acm)/449 | Anomalous time series package for R (ACM) |
-| 100 | 114 | 27 | 8 months ago | [gbm3](https://github.com/gbm-developers/gbm3)/450 | Gradient boosted models |
-| 100 | 24 | 22 | 3 months ago | [checkpoint](https://github.com/RevolutionAnalytics/checkpoint)/451 | Install R packages from snapshots on checkpoint-server |
-| 99 | 19 | 0 | 3 days ago | [dtwclust](https://github.com/asardaes/dtwclust)/452 | R Package for Time Series Clustering Along with Optimizations for DTW |
-| 99 | 6 | 3 | 2 years ago | [pystr](https://github.com/Ironholds/pystr)/453 | Python String Methods in R. |
-| 99 | 45 | 83 | a day ago | [openair](https://github.com/davidcarslaw/openair)/454 | Tools for air quality data analysis |
-| 99 | 20 | 17 | 8 months ago | [ggsignif](https://github.com/const-ae/ggsignif)/455 | Easily add significance brackets to your ggplots |
-| 99 | 11 | 13 | a month ago | [docopt.R](https://github.com/docopt/docopt.R)/456 | Command-line interface description language for R (http:docopt.org) |
-| 98 | 63 | 4 | 1 year, 5 months ago | [smappR](https://github.com/SMAPPNYU/smappR)/457 | R tools for analysis of Twitter data |
-| 98 | 15 | 8 | 3 years ago | [secure](https://github.com/hadley/secure)/458 | Secure private R data in public packages |
-| 97 | 32 | 24 | a month ago | [googleAuthR](https://github.com/MarkEdmondson1234/googleAuthR)/459 | Google API Client Library for R. Easy authentication and help to build Google API R libraries with OAuth2. Shiny compatible.  |
-| 97 | 20 | 11 | a month ago | [textreuse](https://github.com/ropensci/textreuse)/460 | Detect text reuse and document similarity |
-| 97 | 44 | 1 | 6 years ago | [ML-Email-Code](https://github.com/drewconway/ML-Email-Code)/461 | This repository contains all code examples in Machine Learning for Email, by Drew Conway and John Myles White. |
-| 97 | 15 | 13 | 7 days ago | [shinyjqui](https://github.com/Yang-Tang/shinyjqui)/462 | jQuery UI Interactions and Effects for Shiny |
-| 97 | 6 | 1 | 1 year, 30 days ago | [artyfarty](https://github.com/datarootsio/artyfarty)/463 | ggplot2 theme + palette presets |
-| 96 | 5 | 3 | 2 days ago | [paletteer](https://github.com/EmilHvitfeldt/paletteer)/464 | Collection of most color palettes in a single R package  🎨 |
-| 96 | 31 | 11 | a month ago | [geojsonio](https://github.com/ropensci/geojsonio)/465 | Convert many data formats to & from GeoJSON & TopoJSON |
-| 96 | 15 | 6 | a month ago | [rprojroot](https://github.com/r-lib/rprojroot)/466 | Finding files in project subdirectories |
-| 96 | 11 | 3 | a month ago | [tidyversity](https://github.com/mkearney/tidyversity)/467 | 🎓 Tidy tools for academics |
-| 96 | 4 | 0 | 12 days ago | [ggdag](https://github.com/malcolmbarrett/ggdag)/468 | An R package for working with directed acyclic graphs (DAGs) |
-| 96 | 69 | 1 | 4 years ago | [edX-Learning-From-Data-Solutions](https://github.com/kirbs-/edX-Learning-From-Data-Solutions)/469 | Homework Answers |
-| 96 | 18 | 14 | 6 days ago | [rsample](https://github.com/tidymodels/rsample)/470 | Classes and functions to create and summarize different types of resampling objects |
-| 96 | 22 | 2 | 8 months ago | [rbooks](https://github.com/RomanTsegelskyi/rbooks)/471 | A curated list of #rstats books |
-| 96 | 8 | 3 | 22 days ago | [echarts4r](https://github.com/JohnCoene/echarts4r)/472 | 🐳 ECharts 4 for R |
-| 95 | 3 | 1 | 3 months ago | [Rcade](https://github.com/RLesur/Rcade)/473 | Games to procrastinate with RStudio |
-| 95 | 4 | 8 | 29 days ago | [bench](https://github.com/r-lib/bench)/474 | High Precision Timing of R Expressions |
-| 95 | 16 | 10 | 8 days ago | [spacyr](https://github.com/quanteda/spacyr)/475 | R wrapper to spaCy NLP |
-| 95 | 47 | 3 | 6 months ago | [xda](https://github.com/ujjwalkarn/xda)/476 | R package for exploratory data analysis |
-| 95 | 101 | 4 | 3 years ago | [theBioBucket-Archives](https://github.com/gimoya/theBioBucket-Archives)/477 | R-Code used in my blog theBioBucket |
-| 95 | 30 | 13 | a month ago | [stplanr](https://github.com/ropensci/stplanr)/478 | R package providing functions and data access for transport research |
-| 95 | 25 | 13 | 28 days ago | [assertthat](https://github.com/hadley/assertthat)/479 | User friendly assertions for R |
-| 95 | 4 | 0 | 5 months ago | [xcode-time-tracker](https://github.com/PaulTaykalo/xcode-time-tracker)/480 | None |
-| 95 | 8 | 5 | a month ago | [ggsn](https://github.com/oswaldosantos/ggsn)/481 | R package to add north symbols and scale bars to maps created with ggplot or ggmap |
-| 95 | 18 | 2 | 2 years ago | [lego](https://github.com/seankross/lego)/482 | :smiley: R data package featuring every Lego set from 1970 to 2015 |
-| 94 | 41 | 30 | 4 months ago | [scde](https://github.com/hms-dbmi/scde)/483 | R package for analyzing single-cell RNA-seq data |
-| 94 | 10 | 8 | a month ago | [bookdownplus](https://github.com/pzhaonet/bookdownplus)/484 | The easiest way to use R package bookdown for  writing varied types of books and documents  |
-| 94 | 32 | 8 | 4 months ago | [what-they-forgot](https://github.com/jennybc/what-they-forgot)/485 | What They Forgot To Teach You About R, workshop homepage |
-| 94 | 11 | 11 | 14 days ago | [callr](https://github.com/r-lib/callr)/486 | Call R from R |
-| 94 | 10 | 22 | 3 days ago | [mapedit](https://github.com/r-spatial/mapedit)/487 | Interactive editing of spatial data in R |
-| 94 | 31 | 14 | 3 days ago | [icd](https://github.com/jackwasey/icd)/488 | Fast ICD-10 and ICD-9 comorbidities, decoding and validation in R |
-| 93 | 51 | 1 | 8 months ago | [densityClust](https://github.com/thomasp85/densityClust)/489 | Clustering by fast search and find of density peaks |
-| 93 | 25 | 8 | 1 year, 2 months ago | [explainr](https://github.com/hilaryparker/explainr)/490 | None |
-| 93 | 44 | 58 | 2 months ago | [monocle-release](https://github.com/cole-trapnell-lab/monocle-release)/491 | None |
-| 93 | 21 | 10 | 3 years ago | [reports](https://github.com/trinker/reports)/492 | An R package to assist in the workflow of writing academic articles and other reports |
-| 93 | 13 | 4 | 5 months ago | [VisualResume](https://github.com/ndphillips/VisualResume)/493 | An R package for creating a visual resume |
-| 93 | 43 | 6 | 13 days ago | [RStoolbox](https://github.com/bleutner/RStoolbox)/494 | Remote Sensing Analysis in R |
-| 93 | 15 | 2 | 2 months ago | [gglabeller](https://github.com/AliciaSchep/gglabeller)/495 | Shiny gadget for labeling points on ggplot |
-| 93 | 20 | 5 | 4 months ago | [rentrez](https://github.com/ropensci/rentrez)/496 | talk with NCBI entrez using R |
-| 92 | 26 | 8 | 7 months ago | [rredis](https://github.com/bwlewis/rredis)/497 | R client for Redis |
-| 92 | 280 | 31 | 15 days ago | [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson)/498 | :notebook: Data Carpentry R lessons on ecology. |
-| 92 | 8 | 5 | 9 days ago | [ggalluvial](https://github.com/corybrunson/ggalluvial)/499 | ggplot2 extension for alluvial diagrams 🔠🔀📊 |
-| 92 | 49 | 1 | 3 months ago | [ga-dashboard-demo](https://github.com/MarkEdmondson1234/ga-dashboard-demo)/500 | A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL |
-| 92 | 28 | 4 | 2 years ago | [bigrf](https://github.com/aloysius-lim/bigrf)/501 | Random forests for R for large data sets, optimized with parallel tree-growing and disk-based memory |
-| 91 | 24 | 11 | 1 year, 2 months ago | [printr](https://github.com/yihui/printr)/502 | Some (magical) printing methods for knitr |
-| 91 | 22 | 21 | 3 months ago | [pitchRx](https://github.com/cpsievert/pitchRx)/503 | Tools for scraping MLB Gameday data and Visualizing PITCHf/x |
-| 91 | 29 | 10 | a month ago | [tuber](https://github.com/soodoku/tuber)/504 | :sweet_potato: Access YouTube from R |
-| 91 | 119 | 2 | 18 days ago | [openintro-r-package](https://github.com/OpenIntroOrg/openintro-r-package)/505 | R Package: openintro |
-| 91 | 44 | 1 | 5 months ago | [docs](https://github.com/makerdao/docs)/506 | The Dai Credit System white paper |
-| 91 | 1 | 3 | 3 months ago | [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps)/507 | Create tabs of View() output for each chained pipe |
-| 91 | 27 | 39 | 1 year, 8 months ago | [microsoft-r-open](https://github.com/Microsoft/microsoft-r-open)/508 | Microsoft R Open Source |
-| 91 | 38 | 89 | 8 days ago | [xts](https://github.com/joshuaulrich/xts)/509 | Extensible time series class that provides uniform handling of many R time series classes by extending zoo. |
-| 91 | 5 | 11 | 29 days ago | [roomba](https://github.com/ropenscilabs/roomba)/510 | General purpose API response tidier |
-| 90 | 38 | 0 | 1 year, 1 month ago | [quandl-r](https://github.com/quandl/quandl-r)/511 | This is Quandl's R Package |
-| 90 | 16 | 5 | 4 months ago | [sweep](https://github.com/business-science/sweep)/512 | Extending broom for time series forecasting |
-| 90 | 12 | 5 | 19 days ago | [rnaturalearth](https://github.com/ropensci/rnaturalearth)/513 | :earth_africa: an R package to hold and facilitate interaction with natural earth map data |
-| 90 | 31 | 71 | 13 days ago | [mlrMBO](https://github.com/mlr-org/mlrMBO)/514 | Toolbox for Bayesian Optimization and Model-Based Optimization in R |
-| 90 | 10 | 15 | 26 days ago | [promises](https://github.com/rstudio/promises)/515 | A promise library for R |
-| 90 | 4 | 16 | 5 days ago | [ciTools](https://github.com/jthaman/ciTools)/516 | An R Package for Quick Uncertainty Intervals |
-| 90 | 49 | 38 | 1 year, 9 months ago | [ballgown](https://github.com/alyssafrazee/ballgown)/517 | Bioconductor package "ballgown", devel version. Isoform-level differential expression analysis in R. |
-| 90 | 10 | 7 | 2 months ago | [config](https://github.com/rstudio/config)/518 | config package for R |
-| 89 | 8 | 7 | 1 year, 17 days ago | [daff](https://github.com/edwindj/daff)/519 | Diff, patch and merge for data.frames, see  http://paulfitz.github.io/daff/ |
-| 89 | 20 | 3 | 7 hours ago | [lidR](https://github.com/Jean-Romain/lidR)/520 | R package for airborne LiDAR data manipulation and visualisation for forestry application |
-| 89 | 16 | 13 | 12 days ago | [osmplotr](https://github.com/ropensci/osmplotr)/521 | Data visualisation using OpenStreetMap objects |
-| 89 | 53 | 3 | 6 years ago | [Play-Econometrics-with-R](https://github.com/cloudly/Play-Econometrics-with-R)/522 | a brochure about "Play Econometrics with R" |
-| 89 | 93 | 8 | 2 years ago | [recharts](https://github.com/yihui/recharts)/523 | An R Interface to ECharts |
-| 88 | 15 | 18 | 16 days ago | [gh](https://github.com/r-lib/gh)/524 | Minimalistic GitHub API client in R |
-| 88 | 2 | 6 | 1 year, 17 days ago | [mason](https://github.com/metacran/mason)/525 | A friendly craftsman that builds you great R packages |
-| 88 | 19 | 20 | a month ago | [ggRandomForests](https://github.com/ehrlinger/ggRandomForests)/526 | Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages.  |
-| 88 | 8 | 4 | 2 months ago | [dbplot](https://github.com/edgararuiz/dbplot)/527 | Simplifies plotting of database and sparklyr data |
-| 88 | 35 | 3 | a month ago | [recommenderlab](https://github.com/mhahsler/recommenderlab)/528 | recommenderlab - Lab for Developing and Testing Recommender Algorithms - R package |
-| 88 | 71 | 6 | 4 months ago | [drat](https://github.com/eddelbuettel/drat)/529 | Drat R Archive Template |
-| 88 | 47 | 19 | a month ago | [dataRetrieval](https://github.com/USGS-R/dataRetrieval)/530 | This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services |
-| 87 | 8 | 5 | 1 year, 29 days ago | [import](https://github.com/smbache/import)/531 | An Import Mechanism For R |
-| 87 | 59 | 6 | 6 hours ago | [starter-kit](https://github.com/rladies/starter-kit)/532 | Guidelines for starting up a local R-Ladies chapter :purple_heart: :earth_africa: |
-| 87 | 10 | 1 | 2 years ago | [evsrc](https://github.com/armish/evsrc)/533 | evSrc: EVolutionary SouRCe |
-| 87 | 19 | 8 | 1 year, 2 months ago | [alluvial](https://github.com/mbojan/alluvial)/534 | Alluvial diagrams |
-| 87 | 45 | 14 | 19 days ago | [streamR](https://github.com/pablobarbera/streamR)/535 | Dev version of streamR package: Access to Twitter Streaming API via R |
-| 86 | 31 | 18 | 8 months ago | [lazyeval](https://github.com/hadley/lazyeval)/536 | Lazy evaluation: an alternative to non-standard evaluation (NSE) for R |
-| 86 | 75 | 0 | 2 years ago | [sentimentCN](https://github.com/data-science-lab/sentimentCN)/537 | 中文情感分析 |
-| 86 | 36 | 0 | 2 years ago | [google-analytics-premium-bigquery-statistics](https://github.com/GoogleCloudPlatform/google-analytics-premium-bigquery-statistics)/538 | None |
-| 86 | 16 | 9 | a month ago | [rsparse](https://github.com/dselivanov/rsparse)/539 | Fast and accurate machine learning on sparse matrices - Factorization Machines, FTRL, Matrix factorizations. Applications for top-N recommendations. |
-| 86 | 8 | 15 | 2 months ago | [jqr](https://github.com/ropensci/jqr)/540 | R interface to jq  |
-| 86 | 47 | 0 | a month ago | [RStanBook](https://github.com/MatsuuraKentaro/RStanBook)/541 | 『StanとRでベイズ統計モデリング』のサポートページです. |
-| 85 | 26 | 5 | 10 months ago | [kerasR](https://github.com/statsmaths/kerasR)/542 | R interface to the keras library |
-| 85 | 15 | 22 | 18 days ago | [checkmate](https://github.com/mllg/checkmate)/543 | Fast and versatile argument checks |
-| 84 | 11 | 4 | 3 months ago | [Rvision](https://github.com/swarm-lab/Rvision)/544 | Basic computer vision library for R |
-| 84 | 133 | 24 | 1 year, 1 month ago | [praise](https://github.com/rladies/praise)/545 | Praise useRs when they have done something good, or when they just need it |
-| 84 | 1 | 1 | 7 days ago | [dbx](https://github.com/ankane/dbx)/546 | A fast, easy-to-use database library for R |
-| 84 | 3 | 5 | 2 months ago | [COMEVIZZ](https://github.com/FujitsuLaboratories/COMEVIZZ)/547 | COMEVIZZ is COde MEtrics VIsualiZation with Z-Score. |
-| 84 | 7 | 9 | 5 days ago | [blastula](https://github.com/rich-iannone/blastula)/548 | Easily send great-looking HTML email messages from R |
-| 84 | 23 | 1 | a day ago | [nbastatR](https://github.com/abresler/nbastatR)/549 | NBA Stats API Wrapper and more for R |
-| 83 | 10 | 3 | 6 days ago | [anytime](https://github.com/eddelbuettel/anytime)/550 | Anything to POSIXct or Date Converter |
-| 83 | 3 | 3 | 9 months ago | [explor](https://github.com/juba/explor)/551 | Interfaces for Multivariate Analysis in R |
-| 83 | 21 | 0 | 3 months ago | [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis)/552 | Dictionary-based sentiment analysis |
-| 83 | 41 | 0 | 10 months ago | [r-sample-tools](https://github.com/R-ArcGIS/r-sample-tools)/553 |  Sample tools illustrating R usage in geoprocessing scripts |
-| 83 | 34 | 11 | 2 months ago | [fbRads](https://github.com/daroczig/fbRads)/554 | Analyze and manage Facebook ads from R using this client library to access their Marketing APIs |
-| 82 | 72 | 8 | 3 years ago | [IKTrading](https://github.com/IlyaKipnis/IKTrading)/555 | Ilya Kipnis's miscellaneous quantstrat extensions, indicators, and order-sizing functions. |
-| 82 | 17 | 1 | 2 months ago | [cleanNLP](https://github.com/statsmaths/cleanNLP)/556 | R package providing annotators and a tidy data model for natural language processing |
-| 82 | 8 | 6 | 2 months ago | [sergeant](https://github.com/hrbrmstr/sergeant)/557 | :guardsman: Tools to Transform and Query Data with 'Apache' 'Drill' |
-| 82 | 6 | 6 | 8 months ago | [ggseqlogo](https://github.com/omarwagih/ggseqlogo)/558 | Publication-quality sequence logos in R |
-| 82 | 6 | 4 | 13 hours ago | [tsibble](https://github.com/tidyverts/tsibble)/559 | Tidy Temporal Data Frames and Tools |
-| 82 | 15 | 5 | a month ago | [beepr](https://github.com/rasmusab/beepr)/560 | The package that sounds as it is called. |
-| 82 | 105 | 1 | 4 years ago | [art-r-translation](https://github.com/cosname/art-r-translation)/561 | 《R语言编程艺术》翻译项目文件 |
-| 82 | 13 | 1 | 4 days ago | [polyreg](https://github.com/matloff/polyreg)/562 | None |
-| 82 | 10 | 5 | 28 days ago | [padr](https://github.com/EdwinTh/padr)/563 | Padding of missing records in time series |
-| 82 | 3 | 9 | a month ago | [conflicted](https://github.com/r-lib/conflicted)/564 | An alternative conflict resolution strategy for R |
-| 81 | 22 | 27 | 23 hours ago | [matrixStats](https://github.com/HenrikBengtsson/matrixStats)/565 | R package: Methods that Apply to Rows and Columns of Matrices (and to Vectors)  |
-| 81 | 10 | 2 | 1 year, 6 months ago | [skittles](https://github.com/zonination/skittles)/566 | Counts of Skittles |
-| 81 | 11 | 6 | a month ago | [fastLink](https://github.com/kosukeimai/fastLink)/567 | R package fastLink: Fast Probabilistic Record Linkage |
-| 81 | 25 | 17 | a month ago | [miniCRAN](https://github.com/andrie/miniCRAN)/568 | R package to create internally consistent, mini version of CRAN |
-| 81 | 8 | 5 | 1 year, 11 months ago | [jailbreakr](https://github.com/rsheets/jailbreakr)/569 | Get out of Excel free. |
-| 81 | 14 | 10 | 27 days ago | [monkeylearn](https://github.com/ropensci/monkeylearn)/570 | :monkey: R package for text analysis with Monkeylearn :monkey: |
-| 81 | 22 | 0 | 3 months ago | [anomalous](https://github.com/robjhyndman/anomalous)/571 | Anomalous time series package for R |
-| 81 | 38 | 0 | 3 years ago | [code_r](https://github.com/chrisalbon/code_r)/572 | Collection of R Scripts for Reuse |
-| 81 | 36 | 12 | 12 days ago | [rgbif](https://github.com/ropensci/rgbif)/573 | Wrapper to the Global Biodiversity Information Facility API |
-| 81 | 15 | 0 | 1 year, 3 months ago | [StackLite](https://github.com/dgrtwo/StackLite)/574 | A simple dataset of Stack Overflow questions and tags |
-| 81 | 16 | 2 | 9 months ago | [captioner](https://github.com/adletaw/captioner)/575 | an R package for generating figure/table numbers and captions, especially for Rmd docs |
-| 81 | 96 | 1 | 27 days ago | [Azure-TDSP-ProjectTemplate](https://github.com/Azure/Azure-TDSP-ProjectTemplate)/576 | TDSP: Data science project template repository with standardized directory structure and document templates to support efficient project execution and collaboration.  |
-| 80 | 37 | 18 | 5 months ago | [r-script](https://github.com/joshkatz/r-script)/577 | A simple little module for passing data from NodeJS to R (and back again). |
-| 80 | 10 | 3 | 2 months ago | [dashboardthemes](https://github.com/nik01010/dashboardthemes)/578 | BETA: custom theme support for R Shinydashboard applications. |
-| 80 | 31 | 4 | 3 years ago | [shinyData](https://github.com/yindeng/shinyData)/579 | A GUI for interactive data analysis, visualization and presentation |
-| 80 | 36 | 8 | 20 days ago | [M4-methods](https://github.com/M4Competition/M4-methods)/580 | Includes the source code of the methods which participated in the M4 Competition  |
-| 80 | 19 | 6 | a month ago | [BTYDplus](https://github.com/mplatzer/BTYDplus)/581 | R package for Customer Behavior Analysis |
-| 80 | 14 | 2 | 11 months ago | [benchm-databases](https://github.com/szilard/benchm-databases)/582 | A minimal benchmark of various tools (statistical software, databases etc.) for working with tabular data of moderately large sizes (interactive data analysis). |
-| 79 | 5 | 5 | 1 year, 16 days ago | [prairie](https://github.com/nteetor/prairie)/583 | Get web applications growing in R |
-| 79 | 0 | 0 | 2 months ago | [r-utf8](https://github.com/patperry/r-utf8)/584 | UTF-8 Text Processing (R Package) |
-| 79 | 10 | 6 | 8 months ago | [template](https://github.com/Pakillo/template)/585 | A template for research projects structured as R packages |
-| 79 | 24 | 14 | 5 months ago | [rsqlserver](https://github.com/agstudy/rsqlserver)/586 | Sql Server driver  database interface (DBI) driver for R. This is a DBI-compliant Sql Server driver based on the System.Data.SqlClient.  |
-| 79 | 66 | 1 | 6 years ago | [facebook-data-mining](https://github.com/datamgmt/facebook-data-mining)/587 | Facebook Data Mining |
-| 79 | 23 | 6 | 25 days ago | [googleLanguageR](https://github.com/ropensci/googleLanguageR)/588 | R client for the Google Translation API, Google Cloud Natural Language API and Google Cloud Speech API |
-| 79 | 39 | 96 | 6 days ago | [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks)/589 | TCGAbiolinks |
-| 79 | 0 | 0 | 12 days ago | [xaringanthemer](https://github.com/gadenbuie/xaringanthemer)/590 | 😎 Give your xaringan slides some style |
-| 78 | 14 | 60 | 3 years ago | [cranvas](https://github.com/ggobi/cranvas)/591 | Interactive graphics in R using Qt interfaces, a descendant of ggobi software |
-| 78 | 6 | 14 | 3 months ago | [rmapshaper](https://github.com/ateucher/rmapshaper)/592 | An R wrapper for the mapshaper javascript library |
-| 78 | 20 | 38 | a month ago | [batchtools](https://github.com/mllg/batchtools)/593 | Tools for computation on batch systems |
-| 78 | 34 | 24 | 2 months ago | [leafcutter](https://github.com/davidaknowles/leafcutter)/594 | Annotation-free quantification of RNA splicing. Yang I. Li, David A. Knowles, Jack Humphrey, Alvaro N. Barbeira, Scott P. Dickinson, Hae Kyung Im, Jonathan K. Pritchard |
-| 78 | 15 | 18 | a month ago | [analogsea](https://github.com/sckott/analogsea)/595 | Digital Ocean R client |
-| 78 | 41 | 4 | 2 months ago | [docker-rstats](https://github.com/Kaggle/docker-rstats)/596 | Kaggle R docker image |
-| 77 | 11 | 11 | 28 days ago | [liftr](https://github.com/road2stat/liftr)/597 | Containerize R Markdown Documents for Continuous Reproducibility |
-| 77 | 3 | 4 | 8 hours ago | [ggeffects](https://github.com/strengejacke/ggeffects)/598 | Tidy Data Frames of Marginal Effects for ggplot2 |
-| 77 | 20 | 2 | a month ago | [docxtractr](https://github.com/hrbrmstr/docxtractr)/599 | :scissors: Extract Tables from Microsoft Word Documents with R |
-| 77 | 30 | 14 | 10 days ago | [doAzureParallel](https://github.com/Azure/doAzureParallel)/600 | A R package that allows users to submit parallel workloads in Azure |
-| 77 | 7 | 8 | 1 year, 4 months ago | [harbor](https://github.com/wch/harbor)/601 | An R package for controlling docker containers on local and remote hosts |
-| 77 | 23 | 10 | 10 months ago | [runr](https://github.com/yihui/runr)/602 | Run external programs from R (experimental) |
-| 77 | 2 | 1 | 23 hours ago | [pkgverse](https://github.com/mkearney/pkgverse)/603 | 📦🔭🌠 Create your own universe of packages à la tidyverse |
-| 77 | 3 | 13 | 2 years ago | [vadr](https://github.com/crowding/vadr)/604 | Making R a better language  |
-| 77 | 11 | 15 | a month ago | [yardstick](https://github.com/tidymodels/yardstick)/605 | Tidy methods for measuring model performance |
-| 76 | 3 | 33 | a month ago | [diffobj](https://github.com/brodieG/diffobj)/606 | Compare R Objects with a Diff |
-| 76 | 114 | 346 | 23 hours ago | [pecan](https://github.com/PecanProject/pecan)/607 | The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox. |
-| 76 | 35 | 7 | a month ago | [RAdwords](https://github.com/jburkhardt/RAdwords)/608 | Loading Google Adwords Data into R |
-| 76 | 19 | 10 | 7 months ago | [seasonal](https://github.com/christophsax/seasonal)/609 | R interface to X-13ARIMA-SEATS |
-| 76 | 30 | 8 | 3 months ago | [RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl)/610 | Julia package for loading many of the data sets available in R |
-| 76 | 19 | 4 | 4 days ago | [RPresto](https://github.com/prestodb/RPresto)/611 | DBI-based adapter for Presto for the statistical programming language R. |
-| 76 | 75 | 0 | 3 years ago | [blenditbayes](https://github.com/woobe/blenditbayes)/612 | Code used in my blog "Blend it like a Bayesian!" |
-| 76 | 33 | 0 | 6 months ago | [datacamp](https://github.com/datacamp/datacamp)/613 | R package to create interactive courses for www.datacamp.com |
-| 76 | 7 | 2 | 2 years ago | [mansplainr](https://github.com/hilaryparker/mansplainr)/614 | Mansplaining R |
-| 75 | 29 | 0 | 6 years ago | [JAGSExamples](https://github.com/johnmyleswhite/JAGSExamples)/615 | Examples of statistical models implemented using JAGS |
-| 75 | 80 | 0 | 4 years ago | [Kaggle-AmazonChallenge2013](https://github.com/owenzhang/Kaggle-AmazonChallenge2013)/616 | my public kaggle code |
-| 75 | 18 | 0 | 4 days ago | [tsfeatures](https://github.com/robjhyndman/tsfeatures)/617 | Time series features |
-| 75 | 7 | 3 | 3 months ago | [datamodelr](https://github.com/bergant/datamodelr)/618 | Data model diagrams in R |
-| 75 | 43 | 27 | a month ago | [pheatmap](https://github.com/raivokolde/pheatmap)/619 | Pretty heatmaps |
-| 75 | 15 | 1 | 5 months ago | [A-Psychologists-Guide-to-R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R)/620 | A repository containing the course notes and worked examples for a six week course in the R statistical programming language aimed at helping psychology students and faculty to learn R. This course was taught live at the University of Melbourne, Australia in 2016. |
-| 75 | 8 | 21 | 11 days ago | [units](https://github.com/r-quantities/units)/621 | Measurement units for R |
-| 75 | 34 | 0 | 2 months ago | [ngsTools](https://github.com/mfumagalli/ngsTools)/622 | Programs to analyse NGS data for population genetics purposes |
-| 74 | 27 | 12 | 8 days ago | [searchConsoleR](https://github.com/MarkEdmondson1234/searchConsoleR)/623 | R interface with Google Search Console API v3, including Search Analytics. |
-| 74 | 21 | 31 | 3 months ago | [xlconnect](https://github.com/miraisolutions/xlconnect)/624 | XLConnect: Excel Connector for R |
-| 74 | 14 | 5 | 29 days ago | [pcgr](https://github.com/sigven/pcgr)/625 | Personal Cancer Genome Reporter (PCGR) |
-| 74 | 11 | 2 | 19 days ago | [available](https://github.com/ropenscilabs/available)/626 | Check if a package name is available to use |
-| 74 | 13 | 8 | 26 days ago | [gistr](https://github.com/ropensci/gistr)/627 | Interact with GitHub gists from R |
-| 74 | 27 | 19 | 2 days ago | [ganalytics](https://github.com/jdeboer/ganalytics)/628 | Interact with Google Analytics using R |
-| 74 | 40 | 2 | 3 months ago | [WDI](https://github.com/vincentarelbundock/WDI)/629 | None |
-| 74 | 35 | 5 | 1 year, 4 months ago | [finstr](https://github.com/bergant/finstr)/630 | :chart_with_upwards_trend: Financial statements in R |
-| 74 | 6 | 17 | 7 months ago | [debugme](https://github.com/r-lib/debugme)/631 | Easy and efficient debugging for R packages |
-| 74 | 39 | 2 | 7 months ago | [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny)/632 | To insert interactive charts from ECharts into R Shiny applications (在R Shiny app中插入ECharts可交互图形) |
-| 74 | 48 | 1 | 7 years ago | [r_recommendation_system](https://github.com/johnmyleswhite/r_recommendation_system)/633 | Data and code for the Dataists R recommendation system contest |
-| 74 | 22 | 0 | 10 months ago | [medium_visualization](https://github.com/ricardo-bion/medium_visualization)/634 | None |
-| 74 | 7 | 0 | 10 months ago | [ggbash](https://github.com/caprice-j/ggbash)/635 | A simpler ggplot2 syntax, saving half of your typing. |
-| 73 | 43 | 26 | 10 days ago | [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions)/636 | Set of solutions for the Advanced R programming book |
-| 73 | 2 | 0 | 12 days ago | [nyhackr-docker-talk](https://github.com/noamross/nyhackr-docker-talk)/637 | Slides, Code, and Links to Resources from "Docker for the User," delivered at nyhackr 2018-07-11 |
-| 73 | 25 | 13 | 2 years ago | [ggmcmc](https://github.com/xfim/ggmcmc)/638 | Graphical tools for analyzing Markov Chain Monte Carlo simulations from Bayesian inference |
-| 73 | 16 | 6 | 3 years ago | [ggsubplot](https://github.com/garrettgman/ggsubplot)/639 | Embed subplots in ggplot2 graphics in R |
-| 73 | 29 | 18 | 5 days ago | [openWAR](https://github.com/beanumber/openWAR)/640 | An R package enabling the computation of openWAR using MLBAM data |
-| 73 | 19 | 48 | 7 months ago | [BatchJobs](https://github.com/tudo-r/BatchJobs)/641 | BatchJobs: Batch computing with R |
-| 72 | 16 | 2 | 5 years ago | [medley](https://github.com/mewo2/medley)/642 | A system for blending regression models in R |
-| 72 | 50 | 0 | 3 months ago | [Miscellaneous-R-Code](https://github.com/m-clark/Miscellaneous-R-Code)/643 | Code that might be useful to others for learning/demonstration purposes. |
-| 72 | 3 | 2 | 4 months ago | [particles](https://github.com/thomasp85/particles)/644 | A particle simulation engine based on a port of d3-force |
-| 72 | 27 | 3 | a month ago | [openpolicing](https://github.com/5harad/openpolicing)/645 | The Stanford Open Policing Project - https://openpolicing.stanford.edu |
-| 72 | 29 | 1 | 12 days ago | [RTutor](https://github.com/skranz/RTutor)/646 | Creating interactive R Problem Sets. Automatic hints and solution checks. (Shiny or RStudio) |
-| 72 | 14 | 2 | 4 years ago | [GLM](https://github.com/bwlewis/GLM)/647 | Notes on generalized linear models |
-| 72 | 51 | 8 | 5 years ago | [ggplot2-translation](https://github.com/cosname/ggplot2-translation)/648 | ggplot2一书中文翻译的项目文件 |
-| 72 | 8 | 17 | 1 year, 3 days ago | [loggr](https://github.com/smbache/loggr)/649 | Easy and flexible logging for R |
-| 72 | 130 | 0 | 1 year, 6 months ago | [Programming-in-R-for-Data-Science](https://github.com/MicrosoftLearning/Programming-in-R-for-Data-Science)/650 | None |
-| 71 | 9 | 2 | 18 days ago | [ggfittext](https://github.com/wilkox/ggfittext)/651 | 🔠 ggplot2 geoms to fit text into boxes |
-| 71 | 10 | 2 | 23 days ago | [clipr](https://github.com/mdlincoln/clipr)/652 | R functions for reading and writing from the system clipboard |
-| 71 | 1 | 12 | 2 months ago | [stevedore](https://github.com/richfitz/stevedore)/653 | :cloud::rowboat::whale::cloud: Docker client for R |
-| 71 | 5 | 0 | 1 year, 10 months ago | [intubate](https://github.com/rbertolusso/intubate)/654 | <||> Interfaces to Popular R Functions for Data Science Pipelines, and More |
-| 71 | 17 | 8 | 1 year, 11 months ago | [shinyURL](https://github.com/aoles/shinyURL)/655 | :link: Save and restore the state of Shiny app's widgets by encoding them in an URL query string |
-| 71 | 7 | 0 | a month ago | [LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR)/656 | LaCroix Color Palettes for R. |
-| 71 | 24 | 17 | 19 days ago | [shinyFiles](https://github.com/thomasp85/shinyFiles)/657 | A shiny extension for server side file access |
-| 71 | 10 | 0 | 11 days ago | [billboarder](https://github.com/dreamRs/billboarder)/658 | :bar_chart: Htmlwidget for billboard.js |
-| 70 | 4 | 0 | a day ago | [cholera](https://github.com/lindbrook/cholera)/659 | R Package for Analyzing John Snow's 1854 Cholera Map |
-| 70 | 5 | 1 | a month ago | [gistfo](https://github.com/MilesMcBain/gistfo)/660 | Turn your RStudio untitled tabs into gists. You monsters. |
-| 70 | 16 | 4 | 3 months ago | [MTurkR](https://github.com/cloudyr/MTurkR)/661 | R Client for the MTurk Requester API |
-| 70 | 13 | 3 | 4 days ago | [decryptr](https://github.com/decryptr/decryptr)/662 | An extensible API for breaking captchas |
-| 70 | 6 | 4 | 3 days ago | [umapr](https://github.com/ropenscilabs/umapr)/663 | UMAP dimensionality reduction in R |
-| 70 | 47 | 5 | 1 year, 3 months ago | [babynames](https://github.com/hadley/babynames)/664 | An R package contain all baby names data from the SSA |
-| 70 | 8 | 11 | 20 days ago | [biomartr](https://github.com/ropensci/biomartr)/665 | Genomic Data Retrieval with R |
-| 70 | 15 | 11 | a month ago | [sp](https://github.com/edzer/sp)/666 | Classes and methods for spatial data |
-| 70 | 27 | 20 | 7 months ago | [shinyforms](https://github.com/daattali/shinyforms)/667 | Easily create questionnaire-type forms with Shiny  |
-| 69 | 21 | 10 | 1 year, 9 months ago | [redshift-r](https://github.com/pingles/redshift-r)/668 | Small R package for accessing Redshift |
-| 69 | 5 | 1 | 5 days ago | [jetpack](https://github.com/ankane/jetpack)/669 | A friendly package manager for R |
-| 69 | 19 | 7 | 1 year, 14 days ago | [ggplotgui](https://github.com/gertstulp/ggplotgui)/670 | ggplotgui |
-| 69 | 24 | 10 | 2 days ago | [rsdmx](https://github.com/opensdmx/rsdmx)/671 | Tools for reading SDMX data and metadata in R |
-| 69 | 456 | 0 | 4 years ago | [GettingAndCleaningData](https://github.com/benjamin-chan/GettingAndCleaningData)/672 | Repository for Coursera course Getting and Cleaning Data. |
-| 69 | 11 | 10 | a month ago | [FFTrees](https://github.com/ndphillips/FFTrees)/673 | An R package to create and visualise fast-and-frugal decision trees (FFTs) |
-| 69 | 9 | 5 | 5 months ago | [tabplot](https://github.com/mtennekes/tabplot)/674 | R package for tableplot visualisation |
-| 69 | 1 | 0 | 1 year, 14 days ago | [ggshape](https://github.com/jonocarroll/ggshape)/675 | Arrange 'ggplot' facets in arbitrary shapes |
-| 68 | 413 | 3 | 3 years ago | [Coursera-R-Programming](https://github.com/Xiaodan/Coursera-R-Programming)/676 | Repo for Coursera.com online course: R Programming |
-| 68 | 6 | 25 | 18 days ago | [charlatan](https://github.com/ropensci/charlatan)/677 | Create fake data in R |
-| 68 | 5 | 7 | 3 months ago | [newsflash](https://github.com/hrbrmstr/newsflash)/678 | Tools to Work with the Internet Archive and GDELT Television Explorer in R |
-| 68 | 14 | 13 | 4 months ago | [pavian](https://github.com/fbreitwieser/pavian)/679 | 🌈 Interactive analysis of metagenomics data |
-| 68 | 18 | 0 | 4 days ago | [WVPlots](https://github.com/WinVector/WVPlots)/680 | Pre-packaged plots in R |
-| 68 | 5 | 11 | 8 months ago | [llr](https://github.com/dirkschumacher/llr)/681 | Lisp-like-R: A lisp that compiles to R in R |
-| 68 | 58 | 7 | 4 years ago | [r_tutorial_ed](https://github.com/jknowles/r_tutorial_ed)/682 | R Tutorial for Educational Data Users |
-| 68 | 38 | 0 | a day ago | [mirt](https://github.com/philchalmers/mirt)/683 | Multidimensional item response theory |
-| 68 | 14 | 10 | 4 months ago | [rdom](https://github.com/cpsievert/rdom)/684 | Render and parse dynamic web pages from R |
-| 68 | 56 | 2 | 27 days ago | [qqman](https://github.com/stephenturner/qqman)/685 | An R package for creating Q-Q and manhattan plots from GWAS results |
-| 68 | 8 | 29 | 1 year, 10 months ago | [tidyjson](https://github.com/jeremystan/tidyjson)/686 | Tidy your JSON data in R with tidyjson |
-| 67 | 39 | 0 | 4 years ago | [r-slopegraph](https://github.com/jkeirstead/r-slopegraph)/687 | Create Edward Tufte style slopegraphs with R and ggplot2 |
-| 67 | 29 | 3 | 2 months ago | [darch](https://github.com/maddin79/darch)/688 | Create deep architectures in the R programming language |
-| 67 | 26 | 18 | 2 months ago | [BayesFactor](https://github.com/richarddmorey/BayesFactor)/689 | BayesFactor R package for Bayesian data analysis with common statistical models. |
-| 67 | 44 | 6 | 1 year, 1 month ago | [instaR](https://github.com/pablobarbera/instaR)/690 | Dev version of instaR package: Access to Instagram API via R |
-| 67 | 22 | 5 | 5 months ago | [glmm-course](https://github.com/seananderson/glmm-course)/691 | Workshop exercises on regression, GLMS, mixed-effects models, and GLMMs in R |
-| 67 | 14 | 19 | a month ago | [tableone](https://github.com/kaz-yos/tableone)/692 | R package to create "Table 1", description of baseline characteristics |
-| 67 | 20 | 3 | 6 days ago | [ob-analytics](https://github.com/phil8192/ob-analytics)/693 | Limit order book event processing and visualisation |
-| 67 | 6 | 19 | 5 days ago | [vdiffr](https://github.com/lionel-/vdiffr)/694 | Visual regression testing and graphical diffing with testthat |
-| 67 | 6 | 2 | a day ago | [unpivotr](https://github.com/nacnudus/unpivotr)/695 | Unpivot complex and irregular data layouts in R |
-| 67 | 32 | 2 | a month ago | [rgithub](https://github.com/cscheid/rgithub)/696 | R bindings for the github API |
-| 66 | 3 | 1 | 2 days ago | [code-smells-and-feels](https://github.com/jennybc/code-smells-and-feels)/697 | Talk on code smells and feels and how to change that via refactoring |
-| 66 | 22 | 15 | 1 year, 5 months ago | [datadr](https://github.com/delta-rho/datadr)/698 | Divide and Recombine |
-| 66 | 68 | 17 | 4 years ago | [rhdfs](https://github.com/RevolutionAnalytics/rhdfs)/699 | A package that allows R developers to use Hadoop HDFS |
-| 66 | 7 | 0 | 1 year, 3 months ago | [RPackage](https://github.com/jalapic/RPackage)/700 | Materials for writing an R Package |
-| 66 | 25 | 4 | 5 days ago | [rsparkling](https://github.com/h2oai/rsparkling)/701 | RSparkling: Use H2O Sparkling Water from R  (Spark + R + Machine Learning) |
-| 66 | 11 | 5 | 1 year, 5 months ago | [ezknitr](https://github.com/ropensci/ezknitr)/702 | Avoid the typical working directory pain when using 'knitr' |
-| 66 | 45 | 2 | 1 year, 8 months ago | [Rlinkedin](https://github.com/mpiccirilli/Rlinkedin)/703 | Dev version of access to LinkedIn API via R |
-| 65 | 10 | 1 | 4 years ago | [globalnamedata](https://github.com/OpenGenderTracking/globalnamedata)/704 | Tools to download and process name data from various sources. |
-| 65 | 12 | 3 | 3 days ago | [scRNA-tools](https://github.com/Oshlack/scRNA-tools)/705 | Table of software for the analysis of single-cell RNA-seq data. |
-| 65 | 6 | 7 | 21 hours ago | [ggparliament](https://github.com/RobWHickman/ggparliament)/706 | Simple parliament plots using ggplot2 |
-| 65 | 62 | 0 | 4 years ago | [Rdataviz](https://github.com/pablobarbera/Rdataviz)/707 | Materials for workshop "Data Visualization with R and ggplot2" |
-| 65 | 46 | 0 | a month ago | [shiny-wordcloud](https://github.com/flaviobarros/shiny-wordcloud)/708 | Example dockerized Shiny App |
-| 65 | 27 | 0 | 10 months ago | [signalplot](https://github.com/luyongxu/signalplot)/709 | This repository contains code used for my blog. |
-| 65 | 12 | 0 | 7 years ago | [WikiLeaks_Analysis](https://github.com/drewconway/WikiLeaks_Analysis)/710 | Scripts and analysis in support of statistical analysis of WL Afghanistan data |
-| 65 | 41 | 0 | 1 year, 10 months ago | [tourism-dashboard-public](https://github.com/nz-mbie/tourism-dashboard-public)/711 | Source code the New Zealand Tourism Dashboard which is deployed to https://mbienz.shinyapps.io/tourism_dashboard_prod/ |
-| 65 | 23 | 1 | 1 year, 6 months ago | [lfda](https://github.com/terrytangyuan/lfda)/712 | R package for Local Fisher Discriminant Analysis |
-| 65 | 4 | 0 | 1 year, 28 days ago | [tidygenomics](https://github.com/const-ae/tidygenomics)/713 | Tidy Verbs for Dealing with Genomic Data Frames |
-| 65 | 6 | 29 | a month ago | [bsplus](https://github.com/ijlyttle/bsplus)/714 | Shiny and R Markdown addons to Bootstrap 3 |
-| 65 | 75 | 1 | 1 year, 8 months ago | [kruschke-doing_bayesian_data_analysis](https://github.com/boboppie/kruschke-doing_bayesian_data_analysis)/715 | John K. Kruschke's Doing Bayesian Data Analysis:  A Tutorial with R and BUGS  |
-| 65 | 37 | 3 | 8 months ago | [Talk_Graphs](https://github.com/kbroman/Talk_Graphs)/716 | Talk: How to display data badly |
-| 64 | 32 | 25 | 4 months ago | [Zelig](https://github.com/IQSS/Zelig)/717 | A statistical framework that serves as a common interface to a large range of models |
-| 64 | 6 | 14 | 2 days ago | [parsnip](https://github.com/topepo/parsnip)/718 | A tidy unified interface to models |
-| 64 | 20 | 0 | a day ago | [PubMed](https://github.com/neilfws/PubMed)/719 | PubMed analysis: code and data |
-| 64 | 36 | 5 | 3 years ago | [R-Websockets](https://github.com/rstudio/R-Websockets)/720 | HTML 5 Websockets implementation for R |
-| 64 | 12 | 1 | 29 days ago | [gdeltr2](https://github.com/abresler/gdeltr2)/721 | R's modern interface to The GDELT Project |
-| 64 | 16 | 11 | 3 years ago | [rDrop](https://github.com/karthik/rDrop)/722 | Programmatic interface to Dropbox |
-| 64 | 16 | 2 | 10 months ago | [archive-scater](https://github.com/davismcc/archive-scater)/723 | An archived version of the scater repository, see https://github.com/davismcc/scater for the active version. |
-| 64 | 13 | 0 | a month ago | [janeaustenr](https://github.com/juliasilge/janeaustenr)/724 | An R Package for Jane Austen's Complete Novels :orange_book: |
-| 64 | 3 | 4 | 11 days ago | [RestRserve](https://github.com/dselivanov/RestRserve)/725 | [work-in-progress] RestRserve is a R web API framework for building high-performance microservices and app backends |
-| 64 | 30 | 1 | 5 days ago | [twitter_ideology](https://github.com/pablobarbera/twitter_ideology)/726 | Estimating Ideological Positions with Twitter Data |
-| 63 | 2 | 3 | 1 year, 6 months ago | [precis](https://github.com/hadley/precis)/727 | Succintly Summarise Data Frames |
-| 63 | 44 | 2 | 4 years ago | [quantstrat](https://github.com/R-Finance/quantstrat)/728 | None |
-| 63 | 13 | 5 | 2 months ago | [rwunderground](https://github.com/ALShum/rwunderground)/729 | A simple R package to get historical and forecast weather data |
-| 63 | 24 | 6 | 2 months ago | [textmineR](https://github.com/TommyJones/textmineR)/730 | An aid for text mining in R, with a syntax that should be familiar to experienced R users. Provides a wrapper for several topic models that take similarly-formatted input and give similarly-formatted output. Has additional functionality for analyzing and diagnostics for topic models. |
-| 63 | 3 | 15 | 3 months ago | [startup](https://github.com/HenrikBengtsson/startup)/731 | :wrench: R package: startup - Friendly R Startup Configuration |
-| 63 | 49 | 0 | 7 months ago | [Bios6301](https://github.com/fonnesbeck/Bios6301)/732 | Biostatistics 301: Introduction to Statistical Computing |
-| 63 | 92 | 3 | 7 days ago | [courses-intro-to-r](https://github.com/datacamp/courses-intro-to-r)/733 | An free interactive introduction to R tutorial for DataCamp.com |
-| 63 | 5 | 0 | 1 year, 10 months ago | [shinytoastr](https://github.com/MangoTheCat/shinytoastr)/734 | Notifications in Shiny apps |
-| 63 | 1 | 1 | a month ago | [scico](https://github.com/thomasp85/scico)/735 | Palettes for R based on the Scientific Colour-Maps |
-| 63 | 15 | 9 | 2 months ago | [rcrossref](https://github.com/ropensci/rcrossref)/736 | R client for various CrossRef APIs |
-| 63 | 7 | 2 | 8 days ago | [keyring](https://github.com/r-lib/keyring)/737 | :closed_lock_with_key: Access the system credential store from R |
-| 63 | 12 | 16 | 1 year, 6 days ago | [shinyMlr](https://github.com/mlr-org/shinyMlr)/738 | shiny-mlr: Integration of the mlr package into shiny |
-| 63 | 5 | 1 | 2 years ago | [UnidecodeR](https://github.com/rich-iannone/UnidecodeR)/739 | Replace Unicode characters with sensible US-ASCII equivalents |
-| 63 | 10 | 3 | a month ago | [textnets](https://github.com/cbail/textnets)/740 | R package to perform automated text analysis using network techniques |
-| 62 | 13 | 5 | a month ago | [GBM-perf](https://github.com/szilard/GBM-perf)/741 | Performance of various open source GBM implementations |
-| 62 | 23 | 3 | 2 months ago | [musiclyrics](https://github.com/walkerkq/musiclyrics)/742 | http://kaylinpavlik.com/50-years-of-pop-music/ |
-| 62 | 11 | 5 | 7 days ago | [flextable](https://github.com/davidgohel/flextable)/743 | table farming |
-| 62 | 3 | 3 | 21 days ago | [friendlyeval](https://github.com/MilesMcBain/friendlyeval)/744 | A friendly interface to tidyeval/rlang that will excuse itself when you're done. |
-| 62 | 92 | 1 | 6 years ago | [Data-Mining-With-R](https://github.com/chengjun/Data-Mining-With-R)/745 | data_mining_with_r |
-| 62 | 18 | 7 | 2 years ago | [r-python](https://github.com/hadley/r-python)/746 | Exploring data related to relative usage of R vs. python |
-| 62 | 38 | 3 | 1 year, 14 days ago | [rwml-R](https://github.com/padamson/rwml-R)/747 | R code to accompany Henrik Brink, Joseph W. Richards, and Mark Fetherolf's book "Real-World Machine Learning" |
-| 62 | 12 | 12 | a month ago | [merTools](https://github.com/jknowles/merTools)/748 | Convenience functions for working with merMod objects from lme4 |
-| 61 | 6 | 6 | 1 year, 2 months ago | [rmote](https://github.com/cloudyr/rmote)/749 | Utilities for running R on a remote server |
-| 61 | 70 | 0 | 5 months ago | [Walmart_competition_code](https://github.com/davidthaler/Walmart_competition_code)/750 | This repo holds the code for the 1st place entry in the Walmart 2014 sales forecasting competition hosted on Kaggle. |
-| 61 | 4 | 0 | 4 months ago | [shinyalert](https://github.com/daattali/shinyalert)/751 | Easily create pretty popup messages (modals) in Shiny |
-| 61 | 5 | 4 | 9 months ago | [aside](https://github.com/ColinFay/aside)/752 | Send a long R job to be run aside  |
-| 61 | 10 | 9 | 25 days ago | [Rllvm](https://github.com/duncantl/Rllvm)/753 | R interface to LLVM C++ API to be able to create compiled code from within R |
-| 61 | 0 | 8 | 28 days ago | [requirements](https://github.com/hadley/requirements)/754 | Find packages required for code to run |
-| 61 | 14 | 0 | 6 months ago | [NBA_RANKINGS](https://github.com/klarsen1/NBA_RANKINGS)/755 | None |
-| 61 | 53 | 2 | 7 months ago | [h2o](https://github.com/DarrenCook/h2o)/756 | For the "Practical Machine Learning with H2O" book, to be published by O'Reilly (ISBN, etc. coming soon) |
-| 61 | 17 | 7 | 3 years ago | [quickcheck](https://github.com/RevolutionAnalytics/quickcheck)/757 | Randomized testing for R |
-| 61 | 17 | 11 | 3 years ago | [sas7bdat](https://github.com/BioStatMatt/sas7bdat)/758 | A reverse engineering of the sas7bdat database file format |
-| 61 | 20 | 3 | 1 year, 6 months ago | [JSTORr](https://github.com/benmarwick/JSTORr)/759 | Simple text mining of journal articles from JSTOR's Data for Research service |
-| 61 | 21 | 4 | 17 hours ago | [minion_qc](https://github.com/roblanf/minion_qc)/760 | Quality control for MinION sequencing data |
-| 61 | 23 | 15 | 7 days ago | [evaluate](https://github.com/r-lib/evaluate)/761 | A version of eval for R that returns more information about what happened |
-| 61 | 26 | 23 | 1 year, 8 months ago | [doRedis](https://github.com/bwlewis/doRedis)/762 | R/foreach Redis backend for parallel computing |
-| 61 | 19 | 1 | 1 year, 5 months ago | [R2D3](https://github.com/jamesthomson/R2D3)/763 | R package to create D3.js Visualisations |
-| 61 | 72 | 1 | 4 years ago | [AAA2011-Tweets](https://github.com/benmarwick/AAA2011-Tweets)/764 | R code for analyzing tweets relating to #AAA2011 (text mining, topic modelling, network analysis, clustering and sentiment analysis) |
-| 61 | 9 | 11 | 11 months ago | [secret](https://github.com/gaborcsardi/secret)/765 | :closed_lock_with_key: Secure sharing of sensitive information in R packages |
-| 61 | 7 | 1 | a month ago | [cartogram](https://github.com/sjewo/cartogram)/766 | r package for cartogram creation |
-| 61 | 10 | 0 | 2 months ago | [SpeedReader](https://github.com/matthewjdenny/SpeedReader)/767 | High Performance Text Processing in R |
-| 60 | 27 | 1 | 1 year, 3 months ago | [Rtraining](https://github.com/stephlocke/Rtraining)/768 | R training materials developed by Steph Locke |
-| 60 | 13 | 2 | a month ago | [CVXR](https://github.com/anqif/CVXR)/769 | An R modeling language for convex optimization problems. |
-| 60 | 9 | 8 | 11 days ago | [languageserver](https://github.com/REditorSupport/languageserver)/770 | An implementation of the Language Server Protocol for R |
-| 60 | 10 | 1 | 1 year, 6 months ago | [election-history](https://github.com/zonination/election-history)/771 | US Presidential Elections since 1789 |
-| 60 | 21 | 7 | 3 months ago | [poweRlaw](https://github.com/csgillespie/poweRlaw)/772 | This package implements both the discrete and continuous maximum likelihood estimators for fitting the power-law distribution to data. Additionally, a goodness-of-fit based approach is used to estimate the lower cutoff for the scaling region. |
-| 60 | 35 | 1 | 4 years ago | [StarWars](https://github.com/gastonstat/StarWars)/773 | Visualizing Star Wars scripts with arc diagrams |
-| 60 | 5 | 2 | 6 months ago | [jsReact](https://github.com/kcf-jackson/jsReact)/774 | R package: Modelling in R. Interactivity in JS. Best of both worlds. |
-| 60 | 4 | 1 | 9 months ago | [giphyr](https://github.com/haozhu233/giphyr)/775 | A R package for giphy API |
-| 60 | 56 | 1 | 4 years ago | [churn201](https://github.com/HireSmarter/churn201)/776 | Simple employee cost/benefit model with plots.  Supports a series of blog entries. |
-| 60 | 20 | 4 | 7 months ago | [randomForestCI](https://github.com/swager/randomForestCI)/777 | This package is DEPRECATED. Please use the packages `grf` or `ranger` instead, which have built-in confidence intervals. |
-| 60 | 71 | 1 | 5 years ago | [sentiment](https://github.com/timjurka/sentiment)/778 | sentiment is an R package with tools for sentiment analysis including bayesian classifiers for positivity/negativity and emotion classification. |
-| 60 | 18 | 44 | a month ago | [EML](https://github.com/ropensci/EML)/779 |  Ecological Metadata Language interface for R: synthesis and integration of heterogenous data |
-| 60 | 21 | 6 | a month ago | [hts](https://github.com/earowang/hts)/780 | hts package for R |
-| 60 | 18 | 5 | 2 months ago | [miniUI](https://github.com/rstudio/miniUI)/781 | None |
-| 60 | 13 | 11 | 7 months ago | [D3TableFilter](https://github.com/ThomasSiegmund/D3TableFilter)/782 | A table widget based on Max Guglielmi's "HTML Table Filter Generator"     and D3.js |
-| 60 | 19 | 66 | 2 years ago | [NMF](https://github.com/renozao/NMF)/783 | NMF: A Flexible R package for Nonnegative Matrix Factorization |
-| 60 | 16 | 7 | 7 months ago | [statebins](https://github.com/hrbrmstr/statebins)/784 | Alternative to choropleths of US States ala http://bit.ly/statebins |
-| 59 | 10 | 5 | 4 years ago | [ggcounty](https://github.com/hrbrmstr/ggcounty)/785 | :globe_with_meridians: Generate ggplot2 geom_map county maps |
-| 59 | 62 | 1 | 8 months ago | [dengyishuo.github.com](https://github.com/dengyishuo/dengyishuo.github.com)/786 | 邓一硕的博客 |
-| 59 | 32 | 1 | 1 year, 4 months ago | [sciclone](https://github.com/genome/sciclone)/787 | An R package for inferring the subclonal architecture of tumors |
-| 59 | 8 | 13 | a month ago | [storr](https://github.com/richfitz/storr)/788 | :package: Object cacher for R |
-| 59 | 4 | 9 | 2 months ago | [rintrojs](https://github.com/carlganz/rintrojs)/789 | Wrapper for the Intro.js library |
-| 59 | 16 | 2 | 2 years ago | [osd-building-footprints](https://github.com/Chicago/osd-building-footprints)/790 | Open source release of building footprints in Chicago. |
-| 59 | 14 | 5 | 10 days ago | [spocc](https://github.com/ropensci/spocc)/791 | Species occurrence data toolkit for R |
-| 59 | 17 | 1 | 4 months ago | [miner](https://github.com/ropenscilabs/miner)/792 | R package for controlling Minecraft via API |
-| 59 | 22 | 36 | 8 months ago | [h5](https://github.com/mannau/h5)/793 | Interface to the HDF5 Library |
-| 59 | 4 | 1 | 3 months ago | [markovifyR](https://github.com/abresler/markovifyR)/794 | Markovify wrapper for R |
-| 59 | 79 | 1 | a month ago | [R-Shinyapp-Tutorial](https://github.com/aagarw30/R-Shinyapp-Tutorial)/795 | None |
-| 59 | 5 | 0 | 6 months ago | [xray](https://github.com/sicarul/xray)/796 | xray: The R Package to have X Ray vision on your datasets |
-| 58 | 14 | 0 | a month ago | [crypto](https://github.com/JesseVent/crypto)/797 | Cryptocurrency Historical Market Data R Package |
-| 58 | 4 | 8 | a month ago | [future.apply](https://github.com/HenrikBengtsson/future.apply)/798 | :rocket: R package: future.apply -  Apply Function to Elements in Parallel using Futures |
-| 58 | 15 | 0 | 1 year, 9 months ago | [GeospatialLineGraphs](https://github.com/Brideau/GeospatialLineGraphs)/799 | A library for creating geospatial line graphs along lines of latitude. |
-| 58 | 11 | 7 | 10 months ago | [repurrrsive](https://github.com/jennybc/repurrrsive)/800 | Recursive lists to use in teaching and examples |
-| 58 | 16 | 5 | 2 years ago | [tidyshiny](https://github.com/MangoTheCat/tidyshiny)/801 | Interactively generate function calls for the tidyr package |
-| 58 | 12 | 2 | 6 months ago | [presidential_election_county_results_2016](https://github.com/mkearney/presidential_election_county_results_2016)/802 | 🏁 presidential_election_county_results_2016 |
-| 58 | 13 | 0 | 6 months ago | [shot-by-cops](https://github.com/vicenews/shot-by-cops)/803 | None |
-| 58 | 8 | 3 | 28 days ago | [EnrichedHeatmap](https://github.com/jokergoo/EnrichedHeatmap)/804 | make enriched heatmap which visualizes the enrichment of genomic signals to specific target regions. |
-| 58 | 3 | 0 | 7 months ago | [Rokemon](https://github.com/schochastics/Rokemon)/805 | Pokemon themed R package  |
-| 58 | 11 | 0 | 11 days ago | [zUMIs](https://github.com/sdparekh/zUMIs)/806 | zUMIs: A fast and flexible pipeline to process RNA sequencing data with UMIs |
-| 58 | 13 | 14 | 3 months ago | [historydata](https://github.com/ropensci/historydata)/807 | Datasets for Historians |
-| 58 | 24 | 0 | 22 days ago | [ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data)/808 | Code and data used to create the examples in "Empirical Software Engineering using R" |
-| 58 | 22 | 11 | 3 days ago | [oce](https://github.com/dankelley/oce)/809 | R package for oceanographic processing |
-| 58 | 9 | 8 | 1 year, 1 month ago | [twidlr](https://github.com/drsimonj/twidlr)/810 | data.frame-based API for model and predict functions |
-| 57 | 7 | 10 | 22 days ago | [semantic.dashboard](https://github.com/Appsilon/semantic.dashboard)/811 | Quick, beautiful and customizable dashboard template for Shiny based on shiny.semantic and Semantic UI. |
-| 57 | 23 | 22 | a month ago | [ckanr](https://github.com/ropensci/ckanr)/812 | R client for the CKAN REST API |
-| 57 | 40 | 1 | 1 year, 1 month ago | [QuantInsti-Final-Project-Statistical-Arbitrage](https://github.com/Jackal08/QuantInsti-Final-Project-Statistical-Arbitrage)/813 | QuantInsti EPAT: Final Project on Statistical Arbitrage  |
-| 57 | 7 | 9 | 1 year, 2 months ago | [flowr](https://github.com/sahilseth/flowr)/814 | Robust and efficient workflows using a simple language agnostic approach |
-| 57 | 36 | 0 | 11 months ago | [Learn-Bioinformatics](https://github.com/xuzhougeng/Learn-Bioinformatics)/815 | None |
-| 57 | 21 | 1 | a month ago | [fgsea](https://github.com/ctlab/fgsea)/816 | Fast Gene Set Enrichment Analysis |
-| 57 | 17 | 5 | 3 years ago | [arcdiagram](https://github.com/gastonstat/arcdiagram)/817 | R package arcdiagram |
-| 57 | 16 | 4 | 2 days ago | [pophelper](https://github.com/royfrancis/pophelper)/818 | An R package to analyse and visualise admixture proportions from STRUCTURE, fastSTRUCTURE, TESS, ADMIXTURE etc. |
-| 57 | 18 | 5 | 1 year, 1 month ago | [fishplot](https://github.com/chrisamiller/fishplot)/819 | Create timecourse "fish plots" that show changes in the clonal architecture of tumors |
-| 57 | 13 | 7 | 3 years ago | [shinyStore](https://github.com/trestletech/shinyStore)/820 | R package that adds HTML5 Local Storage support to Shiny |
-| 57 | 21 | 14 | a month ago | [SplitR](https://github.com/rich-iannone/SplitR)/821 | Use the HYSPLIT model from inside R and do more with it |
-| 56 | 59 | 0 | 2 years ago | [DSTrading](https://github.com/IlyaKipnis/DSTrading)/822 | Digital Signal Trading (John Ehlers indicators) |
-| 56 | 17 | 1 | 11 months ago | [HiveR](https://github.com/bryanhanson/HiveR)/823 | An R package for creating and plotting 2D and 3D hive plots. |
-| 56 | 135 | 1 | 1 year, 1 month ago | [meetup](https://github.com/datasciencedojo/meetup)/824 | None |
-| 56 | 25 | 37 | 1 year, 9 months ago | [bfastSpatial](https://github.com/loicdtx/bfastSpatial)/825 | Set of utilities and wrappers to perform change detection on satellite image time-series (Landsat and MODIS). Includes pre-processing steps and functions for spatial implementation of bfastmonitor change detection and post processing of the results. |
-| 56 | 1 | 3 | 2 years ago | [needs](https://github.com/joshkatz/needs)/826 | An R function for safe package loading / installation. |
-| 56 | 33 | 2 | 3 years ago | [rr-init](https://github.com/Reproducible-Science-Curriculum/rr-init)/827 | Research project initialization and organization following reproducible research guidelines  |
-| 56 | 9 | 0 | 2 months ago | [mapmate](https://github.com/leonawicz/mapmate)/828 | mapmate is an R package for generating and saving a sequence of plots to disk as a still image sequence intended for later use in data animation production. |
-| 56 | 13 | 0 | 2 years ago | [R-Network-Visualization-Basics-to-Advanced](https://github.com/kateto/R-Network-Visualization-Basics-to-Advanced)/829 | Basic and advanced network visualization with R - code and tutorial from my Sunbelt 2016 workshop.  |
-| 56 | 42 | 3 | 2 years ago | [addinexamples](https://github.com/rstudio/addinexamples)/830 | An R package showcasing how RStudio addins can be registered and used. |
-| 56 | 4 | 10 | 8 days ago | [fable](https://github.com/tidyverts/fable)/831 | Forecasting with tidy objects |
-| 56 | 2 | 9 | 6 months ago | [splashr](https://github.com/hrbrmstr/splashr)/832 | :sweat_drops: Tools to Work with the 'Splash' JavaScript Rendering Service in R |
-| 56 | 7 | 16 | 7 months ago | [Rperform](https://github.com/analyticalmonk/Rperform)/833 | :bar_chart: R package for tracking performance metrics across git versions and branches. |
-| 56 | 26 | 13 | a month ago | [nflscrapR-data](https://github.com/ryurko/nflscrapR-data)/834 | Data files (.csv) accessed with nflscrapR and summarized at the player-level |
-| 56 | 38 | 5 | 5 years ago | [cartodb-r](https://github.com/CartoDB/cartodb-r)/835 | R package to interface with CartoDB |
-| 56 | 108 | 9 | 3 years ago | [googleCharts](https://github.com/jcheng5/googleCharts)/836 | Google Charts bindings for the Shiny web framework for R |
-| 56 | 8 | 9 | 6 days ago | [dropSeqPipe](https://github.com/Hoohm/dropSeqPipe)/837 | A SingleCell RNASeq pre-processing pipeline built on snakemake |
-| 55 | 13 | 0 | 3 years ago | [theme_fivethirtyeight](https://github.com/alex23lemm/theme_fivethirtyeight)/838 | ggplot2 theme that mimics themes of fivethirtyeight.com plots |
-| 55 | 1 | 4 | 2 months ago | [trackmd](https://github.com/ropenscilabs/trackmd)/839 | Tools for tracking changes in Markdown format within RStudio |
-| 55 | 1 | 2 | 2 years ago | [maxygen](https://github.com/gaborcsardi/maxygen)/840 | :exclamation: OUTDATED Markdown + Roxygen = Maxygen |
-| 55 | 11 | 2 | 5 months ago | [edarf](https://github.com/zmjones/edarf)/841 | exploratory data analysis using random forests |
-| 55 | 18 | 0 | 1 year, 21 days ago | [stan-statespace](https://github.com/sinhrks/stan-statespace)/842 | Stan models for state space time series |
-| 55 | 4 | 4 | 29 days ago | [lemon](https://github.com/stefanedwards/lemon)/843 | 🍊 Lemon --- Freshing up your ggplots |
-| 55 | 32 | 17 | 5 months ago | [polyester](https://github.com/alyssafrazee/polyester)/844 | Bioconductor package "polyester", devel version. RNA-seq read simulator.  |
-| 55 | 16 | 1 | 8 months ago | [rpushbullet](https://github.com/eddelbuettel/rpushbullet)/845 | R interface to the awesome Pushbullet service |
-| 55 | 42 | 0 | a month ago | [qss](https://github.com/kosukeimai/qss)/846 | Supplementary Materials for ``Quantitative Social Science: An Introduction'' |
-| 55 | 2 | 4 | 7 days ago | [shinycustomloader](https://github.com/emitanaka/shinycustomloader)/847 | Add a custom loader for R shiny |
-| 55 | 14 | 1 | 16 days ago | [dou-salaries](https://github.com/imax/dou-salaries)/848 | salary statistics for developers in Ukraine |
-| 55 | 65 | 0 | 28 days ago | [nycflights13](https://github.com/hadley/nycflights13)/849 | An R data package containing all out-bound flights from NYC in 2013 + useful metdata |
-| 55 | 22 | 13 | 3 days ago | [ANTsR](https://github.com/ANTsX/ANTsR)/850 | Advanced Normalization Tools in R |
-| 55 | 4 | 3 | a month ago | [bib2df](https://github.com/ropensci/bib2df)/851 | Parse a BibTeX file to a tibble |
-| 55 | 28 | 0 | 6 hours ago | [spatstat](https://github.com/spatstat/spatstat)/852 | Development version of 'spatstat' package ..............................                         |
-| 55 | 24 | 11 | 10 days ago | [MAST](https://github.com/RGLab/MAST)/853 | Tools and methods for analysis of single cell assay data in R |
-| 55 | 10 | 1 | 3 years ago | [rPlotter](https://github.com/woobe/rPlotter)/854 | Wrapper functions that make plotting in R a lot easier for beginners. |
-| 55 | 10 | 15 | 5 days ago | [irlba](https://github.com/bwlewis/irlba)/855 | Fast truncated singular value decompositions |
-| 54 | 0 | 0 | 3 years ago | [pride](https://github.com/chrisnager/pride)/856 | Simple hack to display the colors of the rainbow flag in the GitHub language bar. #lovewins |
-| 54 | 42 | 5 | a month ago | [CIDA-Viz](https://github.com/USGS-VIZLAB/CIDA-Viz)/857 | Datasets and docs for CIDA's data visualization challenge |
-| 54 | 21 | 4 | 11 hours ago | [leafletR](https://github.com/chgrl/leafletR)/858 | An R package to create interactive web-maps based on the Leaflet JavaScript library |
-| 54 | 4 | 1 | 1 year, 5 months ago | [USA.county.data](https://github.com/Deleetdk/USA.county.data)/859 | Open dataset of counties from the United States |
-| 54 | 7 | 9 | 5 months ago | [velox](https://github.com/hunzikp/velox)/860 | None |
-| 54 | 20 | 12 | 10 months ago | [hurricane-irma](https://github.com/USGS-VIZLAB/hurricane-irma)/861 | None |
-| 54 | 1 | 6 | 16 days ago | [fledge](https://github.com/krlmlr/fledge)/862 | Wings for your R packages: Streamline the process of versioning R packages and updating NEWS |
-| 54 | 28 | 3 | 1 year, 5 months ago | [R-Programs](https://github.com/ezgraphs/R-Programs)/863 | A Variety of R Programs |
-| 54 | 24 | 2 | 21 days ago | [tutorial](https://github.com/datacamp/tutorial)/864 | R Package to convert R Markdown files to DataCamp Light HTML files |
-| 54 | 13 | 0 | 11 months ago | [thematic-maps-ggplot2](https://github.com/grssnbchr/thematic-maps-ggplot2)/865 | Beautiful thematic maps with ggplot2 (only) |
-| 54 | 5 | 1 | 1 year, 2 months ago | [beyonce](https://github.com/dill/beyonce)/866 | :crown: :bee: :bar_chart: Beyoncé colour palettes for R |
-| 54 | 2 | 0 | 19 days ago | [multiscales](https://github.com/clauswilke/multiscales)/867 | Multivariate scales for ggplot2 |
-| 53 | 8 | 1 | 2 years ago | [glider_4](https://github.com/softdorothy/glider_4)/868 | Original sources to Glider 4.0 by John Calhoun, originally published by Casady & Green Inc. |
-| 53 | 13 | 0 | 2 months ago | [travelling-salesman-portrait](https://github.com/aschinchon/travelling-salesman-portrait)/869 | An experiment in R to convert photos into single-line-drawings |
-| 53 | 9 | 1 | 14 days ago | [paletter](https://github.com/AndreaCirilloAC/paletter)/870 | build your palette from a picture √ |
-| 53 | 22 | 16 | 3 years ago | [nozzle](https://github.com/parklab/nozzle)/871 | Nozzle is a report generation toolkit for data analysis pipelines implemented in R. |
-| 53 | 0 | 2 | 1 year, 1 month ago | [aargh](https://github.com/jeremystan/aargh)/872 | Easily Expose R Functions to Command Line Arguments |
-| 53 | 100 | 10 | 7 months ago | [Doit_R](https://github.com/youngwoos/Doit_R)/873 | <Do it! 쉽게 배우는 R 데이터 분석> 저장소 |
-| 53 | 3 | 0 | a month ago | [gggenes](https://github.com/wilkox/gggenes)/874 | ➡️️➡️️⬅️️➡️️ Draw gene arrow maps in ggplot2 |
-| 53 | 8 | 8 | a month ago | [lawn](https://github.com/ropensci/lawn)/875 | turf.js R client |
-| 53 | 38 | 26 | 12 days ago | [AzureSMR](https://github.com/Microsoft/AzureSMR)/876 | R Package for managing a selection of Azure resources. Targeted at Data Scientists who need to control Azure Resources without needing to both Administrators. APIs include Storage Blobs, HDInsight(Nodes, Hive, Spark), ARM, VMs |
-| 53 | 12 | 6 | a day ago | [spotifyr](https://github.com/charlie86/spotifyr)/877 | R wrapper for Spotify's Web API |
-| 53 | 8 | 21 | 18 days ago | [pRojects](https://github.com/lockedata/pRojects)/878 | R Package 📦 for making projects for various R activities :nut_and_bolt: |
-| 53 | 16 | 38 | 21 days ago | [rstudioapi](https://github.com/rstudio/rstudioapi)/879 | Safely access RStudio's API (when available) |
-| 53 | 6 | 0 | 5 days ago | [wrapr](https://github.com/WinVector/wrapr)/880 | Wrap R Functions for Debugging and Ease of Use |
-| 53 | 10 | 13 | 6 days ago | [solrium](https://github.com/ropensci/solrium)/881 | A general purpose R interface to Solr |
-| 53 | 11 | 8 | 9 days ago | [hms](https://github.com/tidyverse/hms)/882 | A simple class for storing time-of-day values |
-| 53 | 7 | 16 | 2 months ago | [yarrr](https://github.com/ndphillips/yarrr)/883 | An R package for conducting all sorts of R piratery |
-| 53 | 19 | 9 | 4 months ago | [ahp](https://github.com/gluc/ahp)/884 | Analytical Hierarchy Process (AHP) with R |
-| 53 | 32 | 6 | 15 days ago | [BiocStickers](https://github.com/Bioconductor/BiocStickers)/885 | Stickers for some Bioconductor packages - feel free to contribute and/or modify. |
-| 53 | 11 | 2 | 5 days ago | [ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)/886 | CRAN Task View: Archaeological Science |
-| 53 | 4 | 3 | a month ago | [async](https://github.com/r-lib/async)/887 | Asynchronous HTTP requests in R -- UNDER CONSTRUCTION |
-| 52 | 48 | 0 | 2 years ago | [AzureML-Regression-Example](https://github.com/Quantia-Analytics/AzureML-Regression-Example)/888 | This repo contains all the code and data necessary to explore non-linear regression using Azure ML. |
-| 52 | 72 | 1 | 3 months ago | [Data-Analysis-with-R](https://github.com/susanli2016/Data-Analysis-with-R)/889 | Using gglot2, tidyr, dplyr, ggmap, choroplethr, shiny, logistic regression, clustering models and more |
-| 52 | 5 | 3 | 1 year, 10 days ago | [dpmr](https://github.com/christophergandrud/dpmr)/890 | Data Package Manager for R |
-| 52 | 10 | 3 | 2 months ago | [desc](https://github.com/r-lib/desc)/891 | Manipulate DESCRIPTION files |
-| 52 | 17 | 6 | 5 days ago | [regtools](https://github.com/matloff/regtools)/892 | Various tools for linear, nonlinear and nonparametric regression. |
-| 52 | 1 | 21 | 23 days ago | [tic](https://github.com/ropenscilabs/tic)/893 | Tasks Integrating Continuously: CI-Agnostic Workflow Definitions |
-| 52 | 14 | 2 | 1 year, 4 months ago | [old-diversity-dashboard](https://github.com/bufferapp/old-diversity-dashboard)/894 | None |
-| 52 | 15 | 6 | 20 days ago | [sjmisc](https://github.com/strengejacke/sjmisc)/895 | Data transformation and utility functions for R |
-| 52 | 56 | 0 | 9 months ago | [telco-customer-churn-in-r-and-h2o](https://github.com/WLOGSolutions/telco-customer-churn-in-r-and-h2o)/896 | Showcase for using H2O and R for churn prediction (inspired by ZhouFang928 examples) |
-| 52 | 29 | 0 | 2 years ago | [misc](https://github.com/petewerner/misc)/897 | Miscellany, mostly code supporting blog posts |
-| 52 | 5 | 2 | 3 years ago | [snippr](https://github.com/dgrtwo/snippr)/898 | Manage, share, and install RStudio code snippets |
-| 52 | 56 | 0 | a month ago | [qrm](https://github.com/qrmtutorial/qrm)/899 | qrm |
-| 52 | 12 | 77 | 2 days ago | [metacoder](https://github.com/grunwaldlab/metacoder)/900 | Parsing, Manipulation, and Visualization of Metabarcoding/Taxonomic data  |
-| 52 | 19 | 4 | 2 years ago | [MarketMatching](https://github.com/klarsen1/MarketMatching)/901 | None |
-| 52 | 10 | 3 | 1 year, 3 months ago | [ggdendro](https://github.com/andrie/ggdendro)/902 | Tools to extract dendrogram plot data for use with ggplot |
-| 52 | 43 | 0 | 1 year, 9 months ago | [shinythemes](https://github.com/rstudio/shinythemes)/903 | Themes for Shiny |
-| 52 | 33 | 34 | 17 days ago | [quantstrat](https://github.com/braverock/quantstrat)/904 | None |
-| 52 | 4 | 6 | 2 months ago | [prediction](https://github.com/leeper/prediction)/905 | Tidy, Type-Safe 'prediction()' Methods |
-| 52 | 16 | 1 | 10 days ago | [tximport](https://github.com/mikelove/tximport)/906 | Import and summarize transcript-level estimates for gene-level analysis |
-| 52 | 5 | 2 | 2 years ago | [scholarnetwork](https://github.com/pablobarbera/scholarnetwork)/907 | Extract and Visualize Google Scholar Collaboration Networks |
-| 51 | 22 | 18 | 2 months ago | [microbiome](https://github.com/microbiome/microbiome)/908 | microbiome R package |
-| 51 | 8 | 27 | 2 months ago | [rcmdcheck](https://github.com/r-lib/rcmdcheck)/909 | Run R CMD check from R and collect the results |
-| 51 | 10 | 1 | 3 years ago | [stackr](https://github.com/dgrtwo/stackr)/910 | R package for connecting to the Stack Exchange API |
-| 51 | 1 | 3 | 3 months ago | [colourlovers](https://github.com/leeper/colourlovers)/911 | R Client for the COLOURlovers API |
-| 51 | 6 | 1 | 6 hours ago | [shinydashboardPlus](https://github.com/DivadNojnarg/shinydashboardPlus)/912 | extensions for shinydashboard |
-| 51 | 23 | 29 | 5 days ago | [adegenet](https://github.com/thibautjombart/adegenet)/913 | adegenet: a R package for the multivariate analysis of genetic markers |
-| 51 | 16 | 7 | 11 days ago | [MODIStsp](https://github.com/lbusett/MODIStsp)/914 | An "R" package for automatic download and preprocessing of MODIS Land Products Time Series |
-| 51 | 125 | 2 | 10 months ago | [IntroToTextAnalyticsWithR](https://github.com/datasciencedojo/IntroToTextAnalyticsWithR)/915 | Public repo for the Data Science Dojo YouTube tutorial series "Introduction to Text Analytics with R". |
-| 51 | 13 | 2 | a month ago | [breakDown](https://github.com/pbiecek/breakDown)/916 | Model Agnostics breakDown plots |
-| 51 | 16 | 0 | a month ago | [beer-data-science](https://github.com/aedobbyn/beer-data-science)/917 | Various forays into the data science of beer.  |
-| 51 | 5 | 3 | a month ago | [mschart](https://github.com/ardata-fr/mschart)/918 | :bar_chart: mschart: office charts from R |
-| 51 | 56 | 1 | 1 year, 2 months ago | [emojis](https://github.com/today-is-a-good-day/emojis)/919 | Set up a proper Emoticons dictionary for R to analyze emojis in tweets |
-| 51 | 12 | 0 | 4 days ago | [rscala](https://github.com/dbdahl/rscala)/920 | The Scala interpreter is embedded in R and callbacks to R from the embedded interpreter are supported. Conversely, the R interpreter is embedded in Scala. |
-| 51 | 17 | 19 | 2 years ago | [dplyr-spark](https://github.com/RevolutionAnalytics/dplyr-spark)/921 | spark backend for dplyr |
-| 51 | 11 | 5 | a month ago | [ggimage](https://github.com/GuangchuangYu/ggimage)/922 | :art: Use Images in ggplot2 |
-| 51 | 12 | 19 | 1 year, 8 days ago | [rBayesianOptimization](https://github.com/yanyachen/rBayesianOptimization)/923 | Bayesian Optimization of Hyperparameters |
-| 51 | 6 | 0 | 8 months ago | [linemap](https://github.com/rCarto/linemap)/924 | :aquarius: Create maps made of lines |
-| 51 | 27 | 8 | 2 years ago | [RHIPE](https://github.com/delta-rho/RHIPE)/925 | R and Hadoop Integrated Programming Environment |
-| 51 | 32 | 0 | 1 year, 7 months ago | [mro](https://github.com/nbrgraphs/mro)/926 | Creating Effective Graphs with Microsoft R Open |
-| 51 | 30 | 21 | 14 days ago | [microdadosBrasil](https://github.com/lucasmation/microdadosBrasil)/927 | Reads most common Brazilian public microdata (CENSO, PNAD, etc) easy and fast |
-| 51 | 7 | 1 | a month ago | [sinew](https://github.com/metrumresearchgroup/sinew)/928 | Generate roxygen2 skeletons populated with information scraped from the function script. |
-| 51 | 7 | 7 | a month ago | [quickmapr](https://github.com/jhollist/quickmapr)/929 | An R package for quickly mapping and navigating spatial data |
-| 51 | 13 | 2 | 6 months ago | [wbstats](https://github.com/GIST-ORNL/wbstats)/930 | wbstats: An R package for searching and downloading data from the World Bank API |
-| 50 | 15 | 3 | 3 years ago | [Rkoans](https://github.com/DASpringate/Rkoans)/931 | R Koans: An interactive R tutorial |
-| 50 | 6 | 1 | 9 months ago | [orangetext](https://github.com/hrbrmstr/orangetext)/932 | 🍊📄 : An #rstats project to keep track of The 🍊 One's speeches  |
-| 50 | 17 | 11 | 1 year, 3 months ago | [radarchart](https://github.com/MangoTheCat/radarchart)/933 | Implementation of the radar chart from chart.js library |
-| 50 | 21 | 4 | 5 months ago | [SpiecEasi](https://github.com/zdk123/SpiecEasi)/934 | Sparse InversE Covariance estimation for Ecological Association and Statistical Inference |
-| 50 | 2 | 0 | 12 hours ago | [anicon](https://github.com/emitanaka/anicon)/935 | Animated icons for R markdown and Shiny apps |
-| 50 | 13 | 4 | 1 year, 9 months ago | [R.matlab](https://github.com/HenrikBengtsson/R.matlab)/936 | R package: R.matlab |
-| 50 | 14 | 0 | 2 years ago | [ggplot2-theme](https://github.com/r4ecology/ggplot2-theme)/937 | a ggplot2 designed to make it easier to create publication quality figures |
-| 50 | 20 | 4 | 1 year, 8 months ago | [Rbitcoin](https://github.com/jangorecki/Rbitcoin)/938 | R & bitcoin integration |
-| 50 | 3 | 4 | 3 months ago | [snakecase](https://github.com/Tazinho/snakecase)/939 | 🐍🐍🐍 A systematic approach to parse strings and automate the conversion to snake_case, UpperCamelCase or any other case. |
-| 50 | 2 | 14 | 22 days ago | [fabricatr](https://github.com/DeclareDesign/fabricatr)/940 | Imagine Your Data Before You Collect It |
-| 50 | 50 | 2 | 6 years ago | [Mining_Twitter](https://github.com/gastonstat/Mining_Twitter)/941 | R scripts describing several options to do twitter analysis in R |
-| 50 | 26 | 2 | 2 years ago | [datamicroarray](https://github.com/ramhiser/datamicroarray)/942 | A collection of small-sample, high-dimensional microarray data sets to assess machine-learning algorithms and models. |
-| 50 | 13 | 0 | 1 year, 3 months ago | [geoChina](https://github.com/caijun/geoChina)/943 | An R package for geocoding address by calling the Google or Baidu Geocoding API and coordinate conversions for WGS-84, GCJ-02 and BD-09 geodetic system |
-| 50 | 24 | 6 | 21 days ago | [clonevol](https://github.com/hdng/clonevol)/944 | Inferring and visualizing clonal evolution in multi-sample cancer sequencing |
-| 50 | 39 | 0 | 15 days ago | [RExRepos](https://github.com/dwoll/RExRepos)/945 | R Examples Repository |
-| 50 | 4 | 3 | 5 months ago | [reactR](https://github.com/timelyportfolio/reactR)/946 | React for R |
-| 50 | 7 | 0 | 2 months ago | [shinyLP](https://github.com/jasdumas/shinyLP)/947 | A R package for Bootstrap Components to make Landing Home Pages for Shiny :globe_with_meridians: |
-| 50 | 9 | 7 | 22 days ago | [gutenbergr](https://github.com/ropensci/gutenbergr)/948 | Search and download public domain texts from Project Gutenberg |
-| 50 | 5 | 6 | 1 year, 11 months ago | [rchess](https://github.com/jbkunst/rchess)/949 | ♛ Chess package for R |
-| 50 | 10 | 1 | 4 months ago | [osrm](https://github.com/rCarto/osrm)/950 | :twisted_rightwards_arrows: Shortest Paths and Travel Time from OpenStreetMap with R |
-| 50 | 12 | 13 | 6 hours ago | [phangorn](https://github.com/KlausVigo/phangorn)/951 | Phylogenetic analysis in R |
-| 49 | 69 | 3 | 1 year, 9 months ago | [programacion-estadistica-r](https://github.com/ifunam/programacion-estadistica-r)/952 | None |
-| 49 | 7 | 3 | a month ago | [soccermatics](https://github.com/JoGall/soccermatics)/953 | Tools for visualisation and analysis of soccer spatiotemporal data |
-| 49 | 19 | 1 | 1 year, 1 month ago | [getting-started-bigquery](https://github.com/googlegenomics/getting-started-bigquery)/954 | Examples of how to get started with genomics data in BigQuery in many languages. |
-| 49 | 23 | 3 | 5 years ago | [rHighcharts](https://github.com/metagraf/rHighcharts)/955 | An R wrapper for Highcharts JS |
-| 49 | 26 | 0 | 7 months ago | [I_LOVE_IKEA_SHINY_APP](https://github.com/longhowlam/I_LOVE_IKEA_SHINY_APP)/956 | hackaton shiny app |
-| 49 | 7 | 9 | 29 days ago | [withr](https://github.com/r-lib/withr)/957 | Methods For Temporarily Modifying Global State |
-| 49 | 91 | 1 | 3 years ago | [Learning-RSpark](https://github.com/CjTouzi/Learning-RSpark)/958 | None |
-| 49 | 17 | 0 | 5 years ago | [bayesian_nonparametrics](https://github.com/johnmyleswhite/bayesian_nonparametrics)/959 | Slides and code for Bayesian nonparametrics in R and Julia |
-| 49 | 7 | 6 | 14 days ago | [Metrics](https://github.com/mfrasco/Metrics)/960 | An R package for common supervised machine learning metrics. |
-| 49 | 7 | 5 | a month ago | [tsbox](https://github.com/christophsax/tsbox)/961 | tsbox: Class-Agnostic Time Series in R |
-| 49 | 2 | 1 | 6 years ago | [rRack](https://github.com/jeffreyhorner/rRack)/962 | A web server interface for the R language |
-| 49 | 6 | 9 | a month ago | [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts)/963 | None |
-| 49 | 20 | 13 | 15 days ago | [vcfR](https://github.com/knausb/vcfR)/964 | Tools to work with variant call format files |
-| 49 | 11 | 3 | 6 months ago | [shiny.collections](https://github.com/Appsilon/shiny.collections)/965 | Google Docs-like live collaboration in Shiny |
-| 49 | 2 | 1 | 1 year, 1 month ago | [trump](https://github.com/romainfrancois/trump)/966 | instantly segfault your R session |
-| 49 | 7 | 12 | 2 months ago | [BASiCS](https://github.com/catavallejos/BASiCS)/967 | BASiCS: Bayesian Analysis of Single-Cell Sequencing Data. This is an unstable experimental version. Please see http://bioconductor.org/packages/BASiCS/ for the official release version |
-| 49 | 0 | 1 | 7 months ago | [swatches](https://github.com/hrbrmstr/swatches)/968 | 🎨 Read, Inspect, and Manipulate Color Swatch Files |
-| 49 | 22 | 2 | 1 year, 2 months ago | [baidumap](https://github.com/badbye/baidumap)/969 | R interface of baidu map api |
-| 49 | 22 | 11 | 4 years ago | [timeline](https://github.com/jbryer/timeline)/970 | Create timeline plots using a grammar of graphics. |
-| 49 | 11 | 15 | 16 days ago | [bikedata](https://github.com/ropensci/bikedata)/971 | :bike: Extract data from public hire bicycle systems |
-| 49 | 28 | 2 | 4 years ago | [swirl_OLD](https://github.com/ncarchedi/swirl_OLD)/972 | We've moved! See README below for more info. |
-| 49 | 17 | 4 | 11 months ago | [RoogleVision](https://github.com/cloudyr/RoogleVision)/973 | R Package for Image Recognition using Google Cloud Vision |
-| 49 | 30 | 26 | 1 year, 3 days ago | [weatherData](https://github.com/Ram-N/weatherData)/974 | A simple R package that fetches Weather data from WeatherUnderground |
-| 49 | 24 | 8 | 5 days ago | [survival](https://github.com/therneau/survival)/975 | Survival package for R |
-| 48 | 11 | 7 | 27 days ago | [r2pmml](https://github.com/jpmml/r2pmml)/976 | R library for converting R models to PMML |
-| 48 | 25 | 11 | a month ago | [markovchain](https://github.com/spedygiorgio/markovchain)/977 | Easy Handling Discrete Time Markov Chains |
-| 48 | 2 | 2 | 7 months ago | [decapitated](https://github.com/hrbrmstr/decapitated)/978 | Headless 'Chrome' Orchestration in R |
-| 48 | 22 | 3 | 6 months ago | [intRo](https://github.com/gammarama/intRo)/979 | Shiny-based statistics learning application |
-| 48 | 15 | 6 | 2 years ago | [rapport](https://github.com/Rapporter/rapport)/980 | rapport is an R package that facilitates the creation of reproducible statistical report templates |
-| 48 | 41 | 2 | 2 years ago | [PowerPoint_from_R](https://github.com/asifsalam/PowerPoint_from_R)/981 | PowerPoint_from_R |
-| 48 | 20 | 38 | 21 days ago | [piecewiseSEM](https://github.com/jslefche/piecewiseSEM)/982 | Piecewise Structural Equation Modeling in R |
-| 48 | 3 | 1 | 1 year, 4 months ago | [ggcal](https://github.com/jayjacobs/ggcal)/983 | Generate simple calendar plots using ggplot2 |
-| 48 | 7 | 1 | 2 years ago | [rpanama](https://github.com/dgrtwo/rpanama)/984 | The Panama Papers offshore leaks database in R |
-| 48 | 34 | 36 | 1 year, 3 months ago | [caret-machine-learning](https://github.com/tobigithub/caret-machine-learning)/985 | Practical examples for the R caret machine learning package |
-| 48 | 0 | 0 | 7 years ago | [decumar](https://github.com/hadley/decumar)/986 | An alternative to sweave |
-| 48 | 2 | 0 | 7 months ago | [streaming-simulations](https://github.com/echen/streaming-simulations)/987 | Simulating the performance of various streaming algorithms. #experimentalmathematics |
-| 48 | 3 | 21 | 25 days ago | [clustermq](https://github.com/mschubert/clustermq)/988 | R package to send function calls as jobs on LSF, SGE, Slurm, PBS/Torque, or each via SSH |
-| 48 | 8 | 3 | 15 days ago | [olsrr](https://github.com/rsquaredacademy/olsrr)/989 | Tools for developing OLS regression models |
-| 48 | 18 | 0 | 1 year, 3 months ago | [data-mining](https://github.com/ranalytics/data-mining)/990 | Материалы к книге "Классификация, регрессия, и другие алгоритмы Data Mining с использованием R" |
-| 48 | 77 | 0 | a month ago | [DataWarehouse](https://github.com/ljtyduyu/DataWarehouse)/991 | DataSource |
-| 48 | 43 | 1 | 5 years ago | [shiny-sandbox](https://github.com/trestletech/shiny-sandbox)/992 | Testbox for Shiny package from RStudio |
-| 48 | 21 | 8 | 7 months ago | [ggvegan](https://github.com/gavinsimpson/ggvegan)/993 | ggplot-based plots for vegan |
-| 48 | 11 | 2 | 1 year, 8 months ago | [pattern.nlp](https://github.com/bnosac/pattern.nlp)/994 | R package to perform sentiment analysis and Parts of Speech tagging for Dutch/French/English/German/Spanish/Italian |
-| 48 | 83 | 0 | 4 years ago | [kaggle-allstate](https://github.com/justmarkham/kaggle-allstate)/995 | Allstate Purchase Prediction Challenge on Kaggle |
-| 48 | 10 | 0 | 1 year, 7 months ago | [dynshiny](https://github.com/MangoTheCat/dynshiny)/996 | Example Shiny app for dynamically building a UI from a database |
-| 48 | 4 | 5 | 2 years ago | [tamper](https://github.com/gaborcsardi/tamper)/997 | Easier debugging of magrittr pipes |
-| 48 | 11 | 1 | 1 year, 11 months ago | [ethr](https://github.com/BSDStudios/ethr)/998 | An Ethereum package for R |
-| 48 | 28 | 1 | 8 months ago | [pullreqs](https://github.com/gousiosg/pullreqs)/999 | Assessment of the pull based development model, as implemented by Github |
-| 48 | 4 | 3 | 4 months ago | [rdat](https://github.com/karthik/rdat)/1000 | An R interface to data Dat  |
+| 3377 | 2205 | 33 | 4 years ago | [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)/1 | Code accompanying the book "Machine Learning for Hackers" |
+| 3290 | 1233 | 107 | 8 hours ago | [ggplot2](https://github.com/tidyverse/ggplot2)/2 | An implementation of the Grammar of Graphics in R |
+| 3120 | 1068 | 27 | 4 months ago | [awesome-R](https://github.com/qinwf/awesome-R)/3 | A curated list of awesome R packages, frameworks and software. |
+| 2995 | 1412 | 404 | 7 days ago | [shiny](https://github.com/rstudio/shiny)/4 | Easy interactive web applications with R |
+| 2664 | 5831 | 115 | 4 months ago | [swirl_courses](https://github.com/swirldev/swirl_courses)/5 | :mortar_board: A collection of interactive courses for the swirl R package. |
+| 2628 | 600 | 66 | 2 years ago | [AnomalyDetection](https://github.com/twitter/AnomalyDetection)/6 | Anomaly Detection with R |
+| 2521 | 952 | 127 | 10 days ago | [dplyr](https://github.com/tidyverse/dplyr)/7 | dplyr: A grammar of data manipulation |
+| 1691 | 597 | 20 | 2 days ago | [devtools](https://github.com/r-lib/devtools)/8 | Tools to make an R developer's life easier |
+| 1663 | 100 | 0 | 1 year, 7 months ago | [investing](https://github.com/zonination/investing)/9 | Investing Returns on the Market as a Whole |
+| 1623 | 700 | 58 | 9 hours ago | [knitr](https://github.com/yihui/knitr)/10 | A general-purpose tool for dynamic report generation in R |
+| 1512 | 275 | 9 | 6 months ago | [benchm-ml](https://github.com/szilard/benchm-ml)/11 | A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.). |
+| 1475 | 1814 | 49 | 6 hours ago | [r4ds](https://github.com/hadley/r4ds)/12 | R for data science |
+| 1374 | 182 | 7 | 2 months ago | [stats337](https://github.com/hadley/stats337)/13 | Readings in applied data science |
+| 1349 | 248 | 237 | a day ago | [stan](https://github.com/stan-dev/stan)/14 | Stan development repository (home page is linked below). The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.   |
+| 1309 | 405 | 0 | 2 months ago | [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data)/15 | Import public NYC taxi and Uber trip data into PostgreSQL / PostGIS database, analyze with R |
+| 1303 | 484 | 245 | 2 days ago | [plotly](https://github.com/ropensci/plotly)/16 | An interactive graphing library for R |
+| 1232 | 561 | 88 | 3 days ago | [rmarkdown](https://github.com/rstudio/rmarkdown)/17 | Dynamic Documents for R |
+| 1136 | 626 | 3 | 9 months ago | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)/18 | a curated list of R tutorials for Data Science, NLP and Machine Learning  |
+| 1128 | 239 | 13 | a month ago | [awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)/19 | A curated list of awesome network analysis resources. |
+| 1086 | 491 | 55 | 10 days ago | [bookdown](https://github.com/rstudio/bookdown)/20 | Authoring Books and Technical Documents with R Markdown |
+| 1058 | 286 | 39 | 17 days ago | [tensorflow](https://github.com/rstudio/tensorflow)/21 | TensorFlow for R |
+| 1052 | 294 | 453 | 3 days ago | [mlr](https://github.com/mlr-org/mlr)/22 | mlr: Machine Learning in R  |
+| 1020 | 160 | 71 | a day ago | [DiagrammeR](https://github.com/rich-iannone/DiagrammeR)/23 | Graph and network visualization using tabular data in R |
+| 973 | 250 | 65 | a month ago | [rvest](https://github.com/hadley/rvest)/24 | Simple web scraping for R |
+| 929 | 191 | 0 | 8 hours ago | [ggthemes](https://github.com/jrnold/ggthemes)/25 | Additional themes, scales, and geoms for ggplot2 |
+| 909 | 429 | 110 | a day ago | [caret](https://github.com/topepo/caret)/26 | caret (Classification And Regression Training) R package that contains misc functions for training and plotting classification and regression models |
+| 904 | 1350 | 15 | 8 months ago | [labs](https://github.com/genomicsclass/labs)/27 | Rmd source files for the HarvardX series PH525x |
+| 838 | 61 | 21 | a month ago | [patchwork](https://github.com/thomasp85/patchwork)/28 | The Composer of ggplots |
+| 827 | 138 | 12 | 6 months ago | [CausalImpact](https://github.com/google/CausalImpact)/29 | An R package for causal inference in time series |
+| 806 | 138 | 32 | 8 days ago | [gganimate](https://github.com/thomasp85/gganimate)/30 | A Grammar of Animated Graphics |
+| 799 | 336 | 180 | 2 years ago | [slidify](https://github.com/ramnathv/slidify)/31 | Generate reproducible html5 slides from R markdown |
+| 783 | 173 | 6 | 9 days ago | [blogdown](https://github.com/rstudio/blogdown)/32 | Create Blogs and Websites with R Markdown |
+| 763 | 507 | 150 | 1 year, 5 months ago | [swirl](https://github.com/swirldev/swirl)/33 | :cyclone: Learn R, in R. |
+| 760 | 65 | 8 | 9 days ago | [wesanderson](https://github.com/karthik/wesanderson)/34 | A Wes Anderson color palette for R |
+| 747 | 188 | 99 | 16 days ago | [broom](https://github.com/tidymodels/broom)/35 | Convert statistical analysis objects from R into tidy format |
+| 722 | 1794 | 51 | 2 months ago | [httr](https://github.com/r-lib/httr)/36 | httr: a friendly http package for R |
+| 684 | 118 | 60 | 8 days ago | [plumber](https://github.com/trestletech/plumber)/37 | Turn your R code into a web API. |
+| 675 | 107 | 104 | 7 hours ago | [reticulate](https://github.com/rstudio/reticulate)/38 | R Interface to Python |
+| 673 | 143 | 89 | a month ago | [purrr](https://github.com/tidyverse/purrr)/39 | A functional programming toolkit for R |
+| 651 | 127 | 10 | 2 months ago | [tidytext](https://github.com/juliasilge/tidytext)/40 | Text mining using dplyr, ggplot2, and other tidy tools :sparkles::page_facing_up::sparkles::page_facing_up::sparkles: |
+| 649 | 350 | 21 | 2 years ago | [SparkR-pkg](https://github.com/amplab-extras/SparkR-pkg)/41 | R frontend for Spark |
+| 641 | 113 | 16 | a month ago | [magrittr](https://github.com/tidyverse/magrittr)/42 | Improve the readability of R code with the pipe |
+| 639 | 181 | 192 | 9 months ago | [ggvis](https://github.com/rstudio/ggvis)/43 | Interactive grammar of graphics for R |
+| 639 | 184 | 108 | a month ago | [readr](https://github.com/tidyverse/readr)/44 | Read flat files (csv, tsv, fwf) into R |
+| 637 | 152 | 85 | a month ago | [googlesheets](https://github.com/jennybc/googlesheets)/45 | Google Spreadsheets R API |
+| 632 | 238 | 62 | a month ago | [tidyr](https://github.com/tidyverse/tidyr)/46 | Easily tidy data with spread and gather functions. |
+| 622 | 112 | 8 | 10 days ago | [dataviz](https://github.com/clauswilke/dataviz)/47 | A book covering the fundamentals of data visualization. |
+| 614 | 225 | 19 | 16 hours ago | [forecast](https://github.com/robjhyndman/forecast)/48 | forecast package for R |
+| 594 | 200 | 0 | 8 months ago | [MLPB](https://github.com/ben519/MLPB)/49 | Machine Learning Problem Bible | Problem Set Here >> |
+| 583 | 186 | 75 | 1 year, 29 days ago | [rethinking](https://github.com/rmcelreath/rethinking)/50 | Statistical Rethinking course and book package |
+| 578 | 170 | 102 | 2 months ago | [htmlwidgets](https://github.com/ramnathv/htmlwidgets)/51 | HTML Widgets for R |
+| 577 | 123 | 9 | a month ago | [tidyverse](https://github.com/tidyverse/tidyverse)/52 | Easily install and load packages from the tidyverse |
+| 572 | 205 | 283 | a day ago | [sparklyr](https://github.com/rstudio/sparklyr)/53 | R interface for Apache Spark |
+| 563 | 190 | 6 | 2 years ago | [BanditsBook](https://github.com/johnmyleswhite/BanditsBook)/54 | Code for my book on Multi-Armed Bandit Algorithms |
+| 557 | 65 | 0 | 11 months ago | [perceptions](https://github.com/zonination/perceptions)/55 | Perceptions of Probability and Numbers |
+| 556 | 218 | 0 | 2 months ago | [advanced-shiny](https://github.com/daattali/advanced-shiny)/56 | Shiny tips & tricks for improving your apps and solving common problems |
+| 554 | 64 | 47 | 3 months ago | [ggraph](https://github.com/thomasp85/ggraph)/57 | Grammar of Graph Graphics |
+| 546 | 112587 | 2551 | 4 years ago | [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)/58 | Repository for Programming Assignment 2 for R Programming on Coursera |
+| 532 | 173 | 0 | 15 hours ago | [r-source](https://github.com/wch/r-source)/59 | Read-only mirror of R source code from https://svn.r-project.org/R/, updated hourly. See the build instructions on the wiki page. |
+| 529 | 218 | 57 | 20 days ago | [testthat](https://github.com/r-lib/testthat)/60 | An R 📦 to make testing 😀 |
+| 521 | 95 | 28 | 2 months ago | [text2vec](https://github.com/dselivanov/text2vec)/61 | Fast vectorization, topic modeling, distances and GloVe word embeddings in R. |
+| 521 | 148 | 15 | a month ago | [ProjectTemplate](https://github.com/KentonWhite/ProjectTemplate)/62 | A template utility for R projects that provides a skeletal project. |
+| 520 | 65 | 21 | 16 days ago | [ggrepel](https://github.com/slowkow/ggrepel)/63 | :round_pushpin: Repel overlapping text labels away from each other. |
+| 519 | 192 | 7 | 8 months ago | [RStartHere](https://github.com/rstudio/RStartHere)/64 | A guide to some of the most useful R Packages that we know about |
+| 517 | 317 | 8 | 2 months ago | [rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)/65 | Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation. |
+| 508 | 95 | 32 | 1 year, 6 months ago | [rappor](https://github.com/google/rappor)/66 | RAPPOR: Privacy-Preserving Reporting Algorithms |
+| 495 | 438 | 81 | a month ago | [asdfree](https://github.com/ajdamico/asdfree)/67 | analyze survey data for free |
+| 478 | 53 | 38 | a day ago | [janitor](https://github.com/sfirke/janitor)/68 | simple tools for data cleaning in R |
+| 477 | 87 | 128 | 11 days ago | [lintr](https://github.com/jimhester/lintr)/69 | Static Code Analysis for R |
+| 473 | 117 | 26 | 2 years ago | [plyr](https://github.com/hadley/plyr)/70 | A R package for splitting, applying and combining large problems into simpler problems |
+| 470 | 156 | 119 | 2 days ago | [rstan](https://github.com/stan-dev/rstan)/71 | RStan, the R interface to Stan |
+| 453 | 89 | 65 | 5 days ago | [opencpu](https://github.com/opencpu/opencpu)/72 | OpenCPU system for embedded scientific computation and reproducible research |
+| 444 | 41 | 4 | 8 hours ago | [drake](https://github.com/ropensci/drake)/73 | An R-focused pipeline toolkit for reproducibility and high-performance computing |
+| 426 | 223 | 70 | 7 months ago | [networkD3](https://github.com/christophergandrud/networkD3)/74 | D3 JavaScript Network Graphs from R |
+| 417 | 47 | 10 | a month ago | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)/75 | :lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components |
+| 410 | 60 | 40 | 1 year, 11 months ago | [formattable](https://github.com/renkun-ken/formattable)/76 | Formattable Data Structures |
+| 410 | 88 | 1 | a month ago | [ballr](https://github.com/toddwschneider/ballr)/77 | Interactive NBA and NCAA Shot Charts with R and Shiny |
+| 407 | 66 | 2 | 4 months ago | [ggthemr](https://github.com/cttobin/ggthemr)/78 | Themes for ggplot2. |
+| 407 | 69 | 50 | 7 hours ago | [renjin](https://github.com/bedatadriven/renjin)/79 | JVM-based interpreter for the R language for the statistical analysis. |
+| 403 | 102 | 46 | 6 days ago | [quanteda](https://github.com/quanteda/quanteda)/80 | An R package for the Quantitative Analysis of Textual Data |
+| 400 | 102 | 47 | a day ago | [sf](https://github.com/r-spatial/sf)/81 | Simple Features for R |
+| 397 | 89 | 1 | a month ago | [addinslist](https://github.com/daattali/addinslist)/82 | Discover and install useful RStudio addins  |
+| 392 | 174 | 65 | 3 months ago | [ggmap](https://github.com/dkahle/ggmap)/83 | a package for plotting maps in R with ggplot2 |
+| 389 | 145 | 43 | 28 days ago | [lubridate](https://github.com/tidyverse/lubridate)/84 | Make working with dates in R just that little bit easier |
+| 386 | 35 | 46 | 30 days ago | [future](https://github.com/HenrikBengtsson/future)/85 | :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone |
+| 383 | 48 | 32 | a day ago | [brms](https://github.com/paul-buerkner/brms)/86 | brms R package for Bayesian generalized multivariate non-linear multilevel models using Stan |
+| 382 | 338 | 22 | 2 months ago | [SIT](https://github.com/systematicinvestor/SIT)/87 | Systematic Investor Toolkit |
+| 381 | 78 | 11 | a month ago | [shinyjs](https://github.com/daattali/shinyjs)/88 | Easily improve the user experience of your Shiny apps in seconds |
+| 374 | 35 | 8 | 4 months ago | [mindr](https://github.com/pzhaonet/mindr)/89 | an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms) |
+| 364 | 52 | 24 | a month ago | [ggalt](https://github.com/hrbrmstr/ggalt)/90 | :earth_americas: Extra Coordinate Systems, Geoms,  Statistical Transformations & Scales for 'ggplot2' |
+| 362 | 115 | 14 | 8 months ago | [engsoccerdata](https://github.com/jalapic/engsoccerdata)/91 | English and European soccer results 1871-2017 |
+| 361 | 55 | 14 | 2 months ago | [ggfortify](https://github.com/sinhrks/ggfortify)/92 | Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages. |
+| 359 | 175 | 39 | 22 days ago | [pkgdown](https://github.com/r-lib/pkgdown)/93 | Generate static html documentation for an R package |
+| 354 | 22 | 16 | 17 days ago | [datapasta](https://github.com/MilesMcBain/datapasta)/94 | On top of spaghetti, all covered in cheese.... |
+| 349 | 73 | 103 | 2 months ago | [highcharter](https://github.com/jbkunst/highcharter)/95 | R wrapper for highcharts based on htmlwidgets  |
+| 348 | 41 | 17 | a day ago | [reprex](https://github.com/tidyverse/reprex)/96 | Render bits of R code for sharing, e.g., on GitHub or StackOverflow. |
+| 347 | 156 | 62 | 3 months ago | [quantmod](https://github.com/joshuaulrich/quantmod)/97 | Quantitative Financial Modelling Framework |
+| 345 | 447 | 3 | 7 years ago | [twitter-sentiment-analysis-tutorial-201107](https://github.com/jeffreybreen/twitter-sentiment-analysis-tutorial-201107)/98 | Code to reproduce the simple sentiment analysis from my presentation |
+| 341 | 57 | 23 | 1 year, 6 months ago | [multidplyr](https://github.com/hadley/multidplyr)/99 | Partitioned data frames for 'dplyr' |
+| 340 | 90 | 0 | 6 years ago | [MLNotes](https://github.com/johnmyleswhite/MLNotes)/100 | Very concise notes on machine learning and statistics. |
+| 335 | 44 | 21 | 5 months ago | [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin)/101 | Join tables together on inexact matching |
+| 328 | 52 | 4 | 11 days ago | [fivethirtyeight](https://github.com/rudeboybert/fivethirtyeight)/102 | R package of data and code behind the stories and interactives at FiveThirtyEight |
+| 326 | 31 | 60 | a month ago | [greta](https://github.com/greta-dev/greta)/103 | simple and scalable statistical modelling in R |
+| 319 | 45 | 11 | 12 days ago | [rio](https://github.com/leeper/rio)/104 | A Swiss-Army Knife for Data I/O |
+| 317 | 237 | 49 | 27 days ago | [Rfacebook](https://github.com/pablobarbera/Rfacebook)/105 | Dev version of Rfacebook package: Access to Facebook API via R |
+| 317 | 58 | 5 | 6 days ago | [cowplot](https://github.com/wilkelab/cowplot)/106 | None |
+| 315 | 630 | 2 | 5 years ago | [Caffo-Coursera](https://github.com/bcaffo/Caffo-Coursera)/107 | A repository of my Coursera latex code and notes |
+| 314 | 40 | 42 | 2 months ago | [tabulizer](https://github.com/ropensci/tabulizer)/108 | Bindings for Tabula PDF Table Extractor Library |
+| 306 | 30 | 109 | 11 months ago | [remake](https://github.com/richfitz/remake)/109 | Make-like declarative workflows in R |
+| 306 | 65 | 38 | 3 months ago | [tidyquant](https://github.com/business-science/tidyquant)/110 | Bringing financial analysis to the tidyverse |
+| 301 | 26 | 0 | 3 months ago | [ggjoy](https://github.com/clauswilke/ggjoy)/111 | Deprecated. Please use ggridges. |
+| 301 | 51 | 5 | a day ago | [ggpubr](https://github.com/kassambara/ggpubr)/112 | 'ggplot2' Based Publication Ready Plots |
+| 300 | 28 | 4 | 23 days ago | [tweenr](https://github.com/thomasp85/tweenr)/113 | Interpolate your data |
+| 300 | 35 | 13 | 2 days ago | [glue](https://github.com/tidyverse/glue)/114 | Glue strings to data in R. Small, fast, dependency free interpreted string literals. |
+| 296 | 110 | 19 | 2 months ago | [bigrquery](https://github.com/r-dbi/bigrquery)/115 | An interface to Google's bigquery from R. |
+| 296 | 54 | 5 | 3 months ago | [modelr](https://github.com/tidyverse/modelr)/116 | Helper functions for modelling |
+| 293 | 107 | 75 | a day ago | [DT](https://github.com/rstudio/DT)/117 | R Interface to the jQuery Plug-in DataTables |
+| 292 | 35 | 45 | a month ago | [ggforce](https://github.com/thomasp85/ggforce)/118 | Accelerating ggplot2 |
+| 291 | 27 | 16 | 2 years ago | [editR](https://github.com/swarm-lab/editR)/119 | A Rmarkdown editor with instant preview |
+| 289 | 140 | 48 | 3 days ago | [roxygen](https://github.com/klutometis/roxygen)/120 | None |
+| 288 | 145 | 36 | 5 months ago | [googleVis](https://github.com/mages/googleVis)/121 | Interface between R and the Google Chart Tools |
+| 285 | 56 | 61 | 16 days ago | [UpSetR](https://github.com/hms-dbmi/UpSetR)/122 | An R implementation of the UpSet set visualization technique published by Lex, Gehlenborg, et al..   |
+| 283 | 306 | 0 | 17 days ago | [R](https://github.com/dmpe/R)/123 | Exercises (incl. analyses) with R language (math+statistics) |
+| 282 | 56 | 9 | a month ago | [circlize](https://github.com/jokergoo/circlize)/124 | Circular visualization in R |
+| 281 | 110 | 15 | 2 days ago | [stringr](https://github.com/tidyverse/stringr)/125 | A fresh approach to string manipulation in R |
+| 281 | 59 | 34 | a month ago | [lime](https://github.com/thomasp85/lime)/126 | Local Interpretable Model-Agnostic Explanations (R port of original Python package) |
+| 279 | 72 | 35 | 7 days ago | [rtweet](https://github.com/mkearney/rtweet)/127 | 🐦 R client for interacting with Twitter's [stream and REST] APIs |
+| 277 | 76 | 76 | 3 days ago | [usethis](https://github.com/r-lib/usethis)/128 | Set up commonly used 📦 components |
+| 270 | 36 | 8 | 13 days ago | [ggiraph](https://github.com/davidgohel/ggiraph)/129 | htmlwidget to make 'ggplot' graphics interactive |
+| 267 | 67 | 182 | 9 days ago | [packrat](https://github.com/rstudio/packrat)/130 | Packrat is a dependency management system for R |
+| 266 | 92 | 320 | 12 hours ago | [jasp-desktop](https://github.com/jasp-stats/jasp-desktop)/131 | JASP aims to be a complete statistical package for both Bayesian and Frequentist statistical methods, that is easy to use and familiar to users of SPSS |
+| 264 | 240 | 17 | 10 days ago | [SQL-Server-R-Services-Samples](https://github.com/Microsoft/SQL-Server-R-Services-Samples)/132 | Advanced analytics samples and templates using SQL Server R Services |
+| 263 | 75 | 17 | 4 months ago | [timevis](https://github.com/daattali/timevis)/133 | Create interactive timeline visualizations in R |
+| 261 | 19 | 7 | 2 months ago | [r2d3](https://github.com/rstudio/r2d3)/134 | R Interface to D3 Visualizations |
+| 259 | 118 | 3 | 10 days ago | [rplos](https://github.com/ropensci/rplos)/135 | R client for the PLoS Journals API |
+| 258 | 16 | 0 | 18 days ago | [ggpage](https://github.com/EmilHvitfeldt/ggpage)/136 | Creates Page Layout Visualizations in R |
+| 255 | 121 | 1 | 2 years ago | [r-source](https://github.com/SurajGupta/r-source)/137 | R Source Code |
+| 254 | 93 | 16 | 11 months ago | [Bioinformatics-Training](https://github.com/PacificBiosciences/Bioinformatics-Training)/138 | Bioinformatics training resources |
+| 251 | 24 | 67 | 3 days ago | [naniar](https://github.com/njtierney/naniar)/139 | Tidy data structures, summaries, and visualisations for missing data |
+| 250 | 75 | 28 | 17 days ago | [ggtree](https://github.com/GuangchuangYu/ggtree)/140 | :christmas_tree:Visualization and annotation of phylogenetic trees |
+| 249 | 44 | 22 | 14 days ago | [tmap](https://github.com/mtennekes/tmap)/141 | R package for thematic maps |
+| 249 | 170 | 44 | a month ago | [seurat](https://github.com/satijalab/seurat)/142 | R toolkit for single cell genomics |
+| 248 | 170 | 44 | 1 year, 11 months ago | [twitteR](https://github.com/geoffjentry/twitteR)/143 | R based twitter client |
+| 247 | 52 | 25 | a month ago | [forcats](https://github.com/tidyverse/forcats)/144 | 🐈🐈🐈🐈: tools for working with categorical variables (factors) |
+| 247 | 58 | 60 | 1 year, 3 months ago | [rbokeh](https://github.com/bokeh/rbokeh)/145 | R interface to Bokeh http://hafen.github.io/rbokeh/ |
+| 246 | 85 | 17 | 3 months ago | [ggally](https://github.com/ggobi/ggally)/146 | R package that extends ggplot2 |
+| 243 | 16 | 1 | 3 days ago | [rayshader](https://github.com/tylermorganwall/rayshader)/147 | R Package for Producing and Visualizing Hillshaded Maps from Elevation Matrices, in 2D and 3D |
+| 243 | 189 | 7 | 3 months ago | [statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists)/148 | Code and data associated with the book "Statistics for Data Scientists: 50 Essential Concepts" |
+| 242 | 43 | 6 | 3 months ago | [ReporteRs](https://github.com/davidgohel/ReporteRs)/149 | Note that ReporteRs will be removed from CRAN the 16th of July. please migrate to officer |
+| 241 | 101 | 168 | 9 months ago | [rigraph](https://github.com/igraph/rigraph)/150 | igraph R package |
+| 241 | 61 | 2 | 2 months ago | [syuzhet](https://github.com/mjockers/syuzhet)/151 | An R package for the extraction of sentiment and sentiment-based plot arcs from text |
+| 241 | 23 | 2 | a month ago | [r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)/152 | Comprehensive list of color palettes available in r |
+| 241 | 22 | 10 | 10 months ago | [ggthemeassist](https://github.com/calligross/ggthemeassist)/153 | A RStudio addin for ggplot2 theme tweaking  |
+| 239 | 36 | 3 | 2 years ago | [bayesian_first_aid](https://github.com/rasmusab/bayesian_first_aid)/154 | Inside every classical test there is a Bayesian model trying to get out. |
+| 239 | 59 | 111 | 6 days ago | [openxlsx](https://github.com/awalker89/openxlsx)/155 | R package for .xlsx file reading and writing. |
+| 238 | 27 | 11 | 10 days ago | [DALEX](https://github.com/pbiecek/DALEX)/156 | Descriptive mAchine Learning EXplanations |
+| 237 | 81 | 0 | 5 years ago | [ggplot2-tutorial](https://github.com/echen/ggplot2-tutorial)/157 | Quick introduction to ggplot2 (no knowledge of R assumed) |
+| 235 | 71 | 2 | 3 years ago | [dirichlet-process](https://github.com/echen/dirichlet-process)/158 | Introduction to Nonparametric Bayes, Infinite Mixture Models, and the Dirichlet Process (+ McDonald's) |
+| 235 | 39 | 49 | a day ago | [magick](https://github.com/ropensci/magick)/159 | Magic, madness, heaven, sin |
+| 234 | 36 | 0 | a month ago | [mathart](https://github.com/marcusvolz/mathart)/160 | Create mathematical art with R |
+| 232 | 21 | 4 | 4 years ago | [SimpleAintEasy](https://github.com/johnmyleswhite/SimpleAintEasy)/161 | A compendium of the pitfalls and problems that arise when using standard statistical methods |
+| 229 | 43 | 28 | a day ago | [kableExtra](https://github.com/haozhu233/kableExtra)/162 | Construct Complex Table with knitr::kable() + pipe |
+| 227 | 103 | 0 | 1 year, 2 months ago | [guns-data](https://github.com/fivethirtyeight/guns-data)/163 | None |
+| 226 | 146 | 0 | 2 years ago | [radiant](https://github.com/vnijs/radiant)/164 | Business analytics using R and Shiny |
+| 226 | 31 | 22 | 15 days ago | [infer](https://github.com/tidymodels/infer)/165 | An R package for tidyverse-friendly statistical inference |
+| 224 | 36 | 25 | 2 months ago | [R6](https://github.com/r-lib/R6)/166 | R objects with reference semantics |
+| 222 | 21 | 6 | a day ago | [tinytex](https://github.com/yihui/tinytex)/167 | A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live |
+| 221 | 45 | 5 | 4 years ago | [leo-senate-model](https://github.com/TheUpshot/leo-senate-model)/168 | Code and data for The Upshot's Senate model. |
+| 220 | 46 | 25 | 6 days ago | [doconce](https://github.com/hplgit/doconce)/169 | Lightweight markup language - document once, include anywhere |
+| 219 | 54 | 19 | 5 months ago | [RNeo4j](https://github.com/nicolewhite/RNeo4j)/170 | Neo4j Driver for R. |
+| 219 | 65 | 35 | a month ago | [pander](https://github.com/Rapporter/pander)/171 | An R Pandoc Writer |
+| 215 | 10 | 18 | 2 months ago | [furrr](https://github.com/DavisVaughan/furrr)/172 | Apply Mapping Functions in Parallel using Futures |
+| 214 | 20 | 7 | 2 years ago | [glider_pro](https://github.com/softdorothy/glider_pro)/173 | Sources for the Macintosh game, Glider PRO, written by John Calhoun and published by Casady & Green Inc. |
+| 214 | 105 | 0 | 4 years ago | [Elements-of-Statistical-Learning](https://github.com/ajtulloch/Elements-of-Statistical-Learning)/174 | Contains LaTeX, SciPy and R code providing solutions to exercises in Elements of Statistical Learning (Hastie, Tibshirani & Friedman) |
+| 213 | 19 | 40 | 4 days ago | [tidybayes](https://github.com/mjskay/tidybayes)/175 | Bayesian analysis + tidy data + geoms (R package) |
+| 213 | 16 | 0 | a day ago | [analytics](https://github.com/dupadhyaya/analytics)/176 | My work on Analytics and Research in Data Science |
+| 212 | 28 | 10 | a day ago | [styler](https://github.com/r-lib/styler)/177 | Non-invasive pretty printing of R code |
+| 212 | 266 | 1 | 11 months ago | [IntroToDataScience](https://github.com/EasyD/IntroToDataScience)/178 | GitHub Repository to accompany my YouTube series of videos on Introductory Data Science using R. |
+| 212 | 14 | 52 | 2 months ago | [goodpractice](https://github.com/MangoTheCat/goodpractice)/179 | Advice on R Package Building |
+| 212 | 142 | 6 | 3 days ago | [rweekly.org](https://github.com/rweekly/rweekly.org)/180 | R Weekly |
+| 211 | 87 | 20 | a day ago | [geocompr](https://github.com/Robinlovelace/geocompr)/181 | Forthcoming book on geographic data with R |
+| 210 | 32 | 27 | a month ago | [workflowr](https://github.com/jdblischak/workflowr)/182 | Organize your project into a research website |
+| 210 | 311 | 4 | 4 years ago | [titanic](https://github.com/trevorstephens/titanic)/183 | Getting Started With R |
+| 210 | 27 | 24 | 22 days ago | [tidygraph](https://github.com/thomasp85/tidygraph)/184 | A tidy API for graph manipulation |
+| 209 | 51 | 0 | 8 days ago | [cryptocurrency-analysis](https://github.com/prouast/cryptocurrency-analysis)/185 | Analysis and visualisation of the cryptocurrency market |
+| 207 | 268 | 0 | 3 years ago | [Intro](https://github.com/rstudio/Intro)/186 | Course materials for "Introduction to Data Science with R", a video course by RStudio and O'Reilly Media |
+| 207 | 75 | 11 | a day ago | [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap)/187 | make complex heatmaps as well as self define annotation graphics |
+| 206 | 70 | 14 | 2 days ago | [covr](https://github.com/r-lib/covr)/188 | Test coverage reports for R |
+| 206 | 11 | 2 | 4 months ago | [regexplain](https://github.com/gadenbuie/regexplain)/189 | 🔍 An RStudio addin slash regex utility belt |
+| 205 | 38 | 0 | 1 year, 2 months ago | [top-github-users-data](https://github.com/JJ/top-github-users-data)/190 | Data obtained with the top-github-users script |
+| 201 | 24 | 8 | 3 days ago | [tidycensus](https://github.com/walkerke/tidycensus)/191 | Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R |
+| 201 | 68 | 33 | 11 days ago | [papaja](https://github.com/crsh/papaja)/192 | papaja (Preparing APA Journal Articles) is an R package that provides document formats and helper functions to produce complete APA manscripts from RMarkdown-files (PDF and Word documents). |
+| 201 | 135 | 1 | 1 year, 4 months ago | [foodborne_classifier](https://github.com/corynissen/foodborne_classifier)/193 | The classifier used in the http://foodborne.smartchicagoapps.org/ application. |
+| 200 | 23 | 9 | 20 days ago | [tweetbotornot](https://github.com/mkearney/tweetbotornot)/194 | 🤖 R package for detecting Twitter bots via machine learning  |
+| 197 | 43 | 2 | 5 months ago | [ggtech](https://github.com/ricardo-bion/ggtech)/195 | ggplot2 tech themes, scales, and geoms |
+| 197 | 28 | 1 | a month ago | [bayesAB](https://github.com/FrankPortman/bayesAB)/196 | 🐢 bayesAB: Fast Bayesian Methods for A/B Testing |
+| 196 | 23 | 7 | 3 months ago | [assertr](https://github.com/ropensci/assertr)/197 | Assertive programming for R analysis pipelines |
+| 196 | 15 | 35 | 3 months ago | [rhub](https://github.com/r-hub/rhub)/198 | R-hub API client |
+| 196 | 53 | 26 | 3 months ago | [slackr](https://github.com/hrbrmstr/slackr)/199 | :hash: A package to send webhook API messages to Slack.com channels/users from R |
+| 194 | 65 | 0 | 1 year, 7 months ago | [shiny-salesman](https://github.com/toddwschneider/shiny-salesman)/200 | Traveling salesman with simulated annealing, R, and Shiny |
+| 193 | 42 | 10 | 4 months ago | [sentimentr](https://github.com/trinker/sentimentr)/201 | Dictionary based sentiment analysis that considers valence shifters |
+| 193 | 44 | 22 | a day ago | [elastic](https://github.com/ropensci/elastic)/202 | R client for the Elasticsearch HTTP API |
+| 192 | 21 | 4 | 5 days ago | [canvasXpress](https://github.com/neuhausi/canvasXpress)/203 | JavaScript VisualizationTools |
+| 192 | 16 | 10 | 30 days ago | [ggridges](https://github.com/clauswilke/ggridges)/204 | Geoms to make ridgeline plots with ggplot2 |
+| 191 | 58 | 0 | 7 months ago | [agency-loan-level](https://github.com/toddwschneider/agency-loan-level)/205 | Loan-level analysis of Fannie Mae and Freddie Mac data |
+| 190 | 42 | 36 | 15 hours ago | [sjPlot](https://github.com/strengejacke/sjPlot)/206 | sjPlot - Data Visualization for Statistics in Social Science |
+| 190 | 49 | 12 | 6 months ago | [rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable)/207 | A R wrapper for the great library pivottable |
+| 188 | 97 | 227 | a month ago | [phyloseq](https://github.com/joey711/phyloseq)/208 | phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page: |
+| 188 | 54 | 2 | 1 year, 10 months ago | [DataWrangling](https://github.com/ben519/DataWrangling)/209 | The ultimate reference guide to data wrangling with Python and R |
+| 188 | 18 | 11 | a month ago | [rrtools](https://github.com/benmarwick/rrtools)/210 | rrtools: Tools for Writing Reproducible Research in R |
+| 186 | 61 | 43 | 1 year, 2 months ago | [2016-new-coder-survey](https://github.com/freeCodeCamp/2016-new-coder-survey)/211 | None |
+| 186 | 72 | 58 | 9 months ago | [caretEnsemble](https://github.com/zachmayer/caretEnsemble)/212 | caret models all the way down :turtle: |
+| 184 | 11 | 2 | 2 months ago | [ggbeeswarm](https://github.com/eclarke/ggbeeswarm)/213 | Column scatter / beeswarm-style plots in ggplot2 |
+| 184 | 106 | 7 | 1 year, 5 months ago | [REmap](https://github.com/Lchiffon/REmap)/214 | create  a map by R |
+| 184 | 23 | 14 | a day ago | [shinyWidgets](https://github.com/dreamRs/shinyWidgets)/215 | shinyWidgets : Extend widgets available in shiny |
+| 183 | 44 | 44 | 7 days ago | [RSelenium](https://github.com/ropensci/RSelenium)/216 | An R client for Selenium Remote WebDriver |
+| 183 | 72 | 11 | 9 days ago | [aws.s3](https://github.com/cloudyr/aws.s3)/217 | Amazon Simple Storage Service (S3) API Client |
+| 182 | 19 | 18 | 13 days ago | [corrr](https://github.com/drsimonj/corrr)/218 | R package for exploring correlations |
+| 181 | 26 | 10 | a month ago | [officer](https://github.com/davidgohel/officer)/219 | :cop: officer: office documents from R |
+| 180 | 21 | 23 | 10 days ago | [visdat](https://github.com/ropensci/visdat)/220 | Preliminary Exploratory Visualisation of Data |
+| 178 | 134 | 26 | 1 year, 6 months ago | [RGoogleAnalytics](https://github.com/Tatvic/RGoogleAnalytics)/221 | R Library to easily extract data from the Google Analytics API into R |
+| 178 | 48 | 31 | 8 months ago | [reshape](https://github.com/hadley/reshape)/222 | An R package to flexible rearrange, reshape and aggregate data |
+| 176 | 123 | 0 | 10 months ago | [ggplot2-tutorial](https://github.com/jennybc/ggplot2-tutorial)/223 | Teaching materials for the R package ggplot2 |
+| 175 | 14 | 8 | 3 months ago | [row-oriented-workflows](https://github.com/jennybc/row-oriented-workflows)/224 | Row-oriented workflows in R with the tidyverse |
+| 175 | 224 | 2 | 2 years ago | [RiA2](https://github.com/kabacoff/RiA2)/225 | Source code for R in Action, Second Edition |
+| 175 | 17 | 3 | 2 months ago | [slidex](https://github.com/datalorax/slidex)/226 | Convert PowerPoint Slides to xaringan (remark.js) Slides |
+| 174 | 58 | 137 | 2 days ago | [rlang](https://github.com/r-lib/rlang)/227 | Low-level API for programming with R |
+| 174 | 17 | 3 | 10 days ago | [remedy](https://github.com/ThinkR-open/remedy)/228 | RStudio Addins to Simplify Markdown Writing |
+| 174 | 20 | 13 | 2 months ago | [progress](https://github.com/r-lib/progress)/229 | Progress bar in your R terminal |
+| 174 | 46 | 2 | 3 months ago | [taskscheduleR](https://github.com/bnosac/taskscheduleR)/230 | Schedule R scripts/processes with the Windows task scheduler. |
+| 174 | 19 | 43 | 4 months ago | [geofacet](https://github.com/hafen/geofacet)/231 | R package for geographical faceting with ggplot2 |
+| 173 | 31 | 4 | 5 months ago | [CatterPlots](https://github.com/Gibbsdavidl/CatterPlots)/232 | Did you ever wish you could make scatter plots with cat shaped points?  Now you can! |
+| 173 | 25 | 6 | 4 months ago | [viridis](https://github.com/sjmgarnier/viridis)/233 | Implementation of the Matplolib 'viridis' color map in R |
+| 172 | 52 | 13 | 1 year, 9 months ago | [ida](https://github.com/briatte/ida)/234 | Introduction to Data Analysis, using R (2013) |
+| 171 | 89 | 26 | 3 years ago | [ggbiplot](https://github.com/vqv/ggbiplot)/235 | A biplot based on ggplot2 |
+| 171 | 37 | 18 | 8 days ago | [mapview](https://github.com/r-spatial/mapview)/236 | Interactive viewing of spatial data in R |
+| 171 | 87 | 43 | 1 year, 6 months ago | [rga](https://github.com/skardhamar/rga)/237 | R Google Analytics |
+| 171 | 103 | 0 | 26 days ago | [TeachingDemos](https://github.com/dgrapov/TeachingDemos)/238 | Bioinformatics related demos and tutorials using the R programming language |
+| 170 | 31 | 53 | a month ago | [heatmaply](https://github.com/talgalili/heatmaply)/239 | Interactive Heat Maps for R Using plotly |
+| 169 | 43 | 4 | 1 year, 5 months ago | [Laurae](https://github.com/Laurae2/Laurae)/240 | Advanced High Performance Data Science Toolbox for R by Laurae |
+| 169 | 46 | 0 | 1 year, 1 month ago | [purrr-tutorial](https://github.com/cwickham/purrr-tutorial)/241 | A introduction to purrr |
+| 168 | 16 | 24 | 4 months ago | [emo](https://github.com/hadley/emo)/242 | Easily insert emoji into R and RMarkdown |
+| 168 | 119 | 8 | 2 years ago | [r-graph-catalog](https://github.com/jennybc/r-graph-catalog)/243 | All graphs in “Creating More Effective Graphs”, made with R package ggplot2. |
+| 167 | 29 | 0 | 2 years ago | [textmining_southpark](https://github.com/walkerkq/textmining_southpark)/244 | http://kaylinpavlik.com/text-mining-south-park/ |
+| 167 | 28 | 34 | 3 years ago | [extrafont](https://github.com/wch/extrafont)/245 | Tools for using fonts in R graphics |
+| 166 | 64 | 0 | 1 year, 20 days ago | [nyc-citibike-data](https://github.com/toddwschneider/nyc-citibike-data)/246 | NYC Citi Bike system data and analysis |
+| 165 | 21 | 3 | a month ago | [servr](https://github.com/yihui/servr)/247 | A simple HTTP server in R |
+| 165 | 56 | 61 | 2 days ago | [rstanarm](https://github.com/stan-dev/rstanarm)/248 | rstanarm R package for Bayesian applied regression modeling |
+| 164 | 4 | 1 | 3 months ago | [ggpomological](https://github.com/gadenbuie/ggpomological)/249 | 🍑 Pomological plot theme for ggplot2 |
+| 164 | 6 | 18 | 1 year, 1 month ago | [strict](https://github.com/hadley/strict)/250 | Make R a little bit stricter |
+| 163 | 48 | 48 | 2 months ago | [codemeta](https://github.com/codemeta/codemeta)/251 | Minimal metadata schemas for science software and code, in JSON-LD |
+| 163 | 59 | 36 | 2 days ago | [stm](https://github.com/bstewart/stm)/252 | An R Package for the Structural Topic Model |
+| 161 | 56 | 11 | 3 years ago | [d3Network](https://github.com/christophergandrud/d3Network)/253 | Tools for creating D3 JavaScript network graphs from R. |
+| 160 | 39 | 9 | 3 days ago | [ggExtra](https://github.com/daattali/ggExtra)/254 | Add marginal histograms to ggplot2, and more ggplot2 enhancements |
+| 160 | 43 | 42 | 3 days ago | [rnoaa](https://github.com/ropensci/rnoaa)/255 | R interface to many NOAA data APIs |
+| 160 | 22 | 4 | 5 days ago | [margins](https://github.com/leeper/margins)/256 | An R Port of Stata's 'margins' Command |
+| 159 | 87 | 28 | a month ago | [clusterProfiler](https://github.com/GuangchuangYu/clusterProfiler)/257 | :bar_chart:statistical analysis and visualization of functional profiles for genes and gene clusters |
+| 158 | 44 | 16 | a month ago | [radiant](https://github.com/radiant-rstats/radiant)/258 | Business analytics using R and Shiny. The radiant app combines the menus from radiant.data, radiant.design, radiant.basics, radiant.model, and radiant.multivariate. |
+| 157 | 38 | 28 | 6 months ago | [pryr](https://github.com/hadley/pryr)/259 | Pry open the covers of R |
+| 157 | 106 | 2 | a month ago | [R-GIS-tutorial](https://github.com/Pakillo/R-GIS-tutorial)/260 | Spatial data in R: using R as a GIS |
+| 157 | 35 | 41 | 4 months ago | [rdrop2](https://github.com/karthik/rdrop2)/261 | Dropbox Interface from R |
+| 156 | 11 | 7 | 5 months ago | [fiery](https://github.com/thomasp85/fiery)/262 | A flexible and lightweight web server |
+| 155 | 47 | 36 | 2 months ago | [RSQLite](https://github.com/r-dbi/RSQLite)/263 | R interface for SQLite |
+| 155 | 48 | 1 | 2 years ago | [topicmodels_learning](https://github.com/trinker/topicmodels_learning)/264 | A repository of learning & R resources related to topic models  |
+| 155 | 54 | 13 | a month ago | [tufte](https://github.com/rstudio/tufte)/265 | Tufte Styles for R Markdown Documents |
+| 154 | 461 | 0 | 2 years ago | [dagdata](https://github.com/genomicsclass/dagdata)/266 | Data for the HarvardX courses: PH525x |
+| 154 | 18 | 8 | 10 months ago | [rex](https://github.com/kevinushey/rex)/267 | Friendly regular expressions for R. |
+| 154 | 40 | 13 | 3 days ago | [lavaan](https://github.com/yrosseel/lavaan)/268 | an R package for structural equation modeling and more |
+| 154 | 16 | 19 | 7 days ago | [iml](https://github.com/christophM/iml)/269 | iml: interpretable machine learning R package |
+| 153 | 13 | 10 | a day ago | [fs](https://github.com/r-lib/fs)/270 | Provide cross platform file operations based on libuv. |
+| 153 | 30 | 6 | 11 days ago | [hexSticker](https://github.com/GuangchuangYu/hexSticker)/271 | :sparkles:Hexagon sticker in R |
+| 153 | 22 | 26 | 1 year, 1 month ago | [knitcitations](https://github.com/cboettig/knitcitations)/272 | Generate citations for knitr markdown and html files |
+| 153 | 33 | 7 | 22 days ago | [cowsay](https://github.com/sckott/cowsay)/273 | cowsay w/ more animals, in R |
+| 152 | 38 | 6 | a day ago | [RQGIS](https://github.com/jannes-m/RQGIS)/274 | RQGIS - integrating R with QGIS |
+| 152 | 22 | 9 | 6 days ago | [wakefield](https://github.com/trinker/wakefield)/275 | Generate random data sets |
+| 151 | 22 | 0 | 2 months ago | [strava](https://github.com/marcusvolz/strava)/276 | Create artistic visualisations with your exercise data |
+| 150 | 13 | 2 | a month ago | [ggstance](https://github.com/lionel-/ggstance)/277 | Horizontal ggplot2 components |
+| 150 | 20 | 10 | 17 days ago | [slopegraph](https://github.com/leeper/slopegraph)/278 | Edward Tufte-Inspired Slopegraphs |
+| 149 | 53 | 24 | a month ago | [installr](https://github.com/talgalili/installr)/279 | Functions for installing softwares from within R |
+| 149 | 18 | 11 | 6 months ago | [widyr](https://github.com/dgrtwo/widyr)/280 | Widen, process, and re-tidy a dataset |
+| 149 | 24 | 15 | a month ago | [iheatmapr](https://github.com/ropensci/iheatmapr)/281 | Complex, interactive heatmaps in R |
+| 149 | 14 | 24 | 16 days ago | [stars](https://github.com/r-spatial/stars)/282 | Spatiotemporal tidy arrays for R |
+| 148 | 15 | 4 | 8 days ago | [staplr](https://github.com/pridiltal/staplr)/283 | PDF Toolkit. :paperclip: :hammer: :wrench: :scissors:  :bookmark_tabs: :file_folder::paperclip:  |
+| 148 | 35 | 2 | 2 years ago | [send-email-with-r](https://github.com/jennybc/send-email-with-r)/284 | How to send a bunch of email from R |
+| 148 | 78 | 26 | 4 days ago | [gtrendsR](https://github.com/PMassicotte/gtrendsR)/285 | R functions to perform and display Google Trends queries |
+| 147 | 42 | 28 | a month ago | [taxize](https://github.com/ropensci/taxize)/286 | A taxonomic toolbelt for R |
+| 147 | 28 | 7 | 2 years ago | [ggnet](https://github.com/briatte/ggnet)/287 | Network visualization with ggplot2 |
+| 145 | 10 | 8 | a month ago | [gghighlight](https://github.com/yutannihilation/gghighlight)/288 | Highlight points and lines in ggplot2 |
+| 145 | 15 | 56 | 7 days ago | [modules](https://github.com/klmr/modules)/289 | Replacing packages: An alternative module system for R |
+| 145 | 56 | 12 | 2 years ago | [DistributedR](https://github.com/vertica/DistributedR)/290 | None |
+| 144 | 20 | 19 | 23 days ago | [superheat](https://github.com/rlbarter/superheat)/291 | An r package for generating beautiful and customizable heatmaps |
+| 144 | 16 | 33 | 13 days ago | [ompr](https://github.com/dirkschumacher/ompr)/292 | R package to model Mixed Integer Linear Programs |
+| 143 | 41 | 12 | 2 months ago | [xgboostExplainer](https://github.com/AppliedDataSciencePartners/xgboostExplainer)/293 | An R package that makes xgboost models fully interpretable |
+| 143 | 16 | 40 | 10 months ago | [gpuR](https://github.com/cdeterman/gpuR)/294 | R interface to use GPU's |
+| 142 | 48 | 30 | a month ago | [nflscrapR](https://github.com/maksimhorowitz/nflscrapR)/295 | R Package for Scraping and Aggregating NFL Data |
+| 142 | 9 | 3 | 8 hours ago | [lobstr](https://github.com/r-lib/lobstr)/296 | Understanding complex R objects with tools similar to str() |
+| 142 | 6 | 9 | a day ago | [esquisse](https://github.com/dreamRs/esquisse)/297 | RStudio add-in to make plots with ggplot2 |
+| 142 | 49 | 18 | 3 months ago | [corrplot](https://github.com/taiyun/corrplot)/298 | Package corrplot is for visualizing a correlation matrix |
+| 142 | 62 | 30 | 6 months ago | [TTR](https://github.com/joshuaulrich/TTR)/299 | Technical analysis and other functions to construct technical trading rules with R |
+| 141 | 39 | 11 | 8 months ago | [formatR](https://github.com/yihui/formatR)/300 | Format R Code Automatically |
+| 141 | 66 | 0 | 7 months ago | [statistical-learning](https://github.com/khanhnamle1994/statistical-learning)/301 | Lecture Slides and R Sessions for Trevor Hastie and Rob Tibshinari's "Statistical Learning" Stanford course |
+| 141 | 24 | 2 | 2 months ago | [stationaRy](https://github.com/rich-iannone/stationaRy)/302 | Get hourly meteorological data from one of thousands of global stations |
+| 141 | 31 | 9 | 3 months ago | [timetk](https://github.com/business-science/timetk)/303 | A toolkit for working with time series in R |
+| 141 | 41 | 76 | 1 year, 4 months ago | [opendata](https://github.com/ropensci/opendata)/304 | CRAN OpenData Task View |
+| 141 | 43 | 45 | 2 months ago | [gmailr](https://github.com/jimhester/gmailr)/305 | Access the Gmail RESTful API from R. |
+| 141 | 187 | 6 | 3 years ago | [baseball_R](https://github.com/maxtoki/baseball_R)/306 | Companion to Analyzing Baseball Data with R |
+| 141 | 66 | 56 | 23 hours ago | [dbplyr](https://github.com/tidyverse/dbplyr)/307 | Database (DBI) backend for dplyr |
+| 141 | 33 | 10 | 26 days ago | [shiny.semantic](https://github.com/Appsilon/shiny.semantic)/308 | Shiny support for powerful Semantic UI library. |
+| 141 | 24 | 1 | a month ago | [ggsci](https://github.com/road2stat/ggsci)/309 | Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2 |
+| 140 | 4 | 8 | 28 days ago | [lookup](https://github.com/jimhester/lookup)/310 | Lookup R full function definitions, including compiled code, S3 and S4 methods. |
+| 140 | 68 | 0 | 5 years ago | [hadoop-R](https://github.com/jseidman/hadoop-R)/311 | Example code for running R on Hadoop |
+| 140 | 17 | 16 | a month ago | [pixiedust](https://github.com/nutterb/pixiedust)/312 | Tables So Beautifully Fine-Tuned You Will Believe It's Magic. |
+| 140 | 39 | 27 | 3 months ago | [shinystan](https://github.com/stan-dev/shinystan)/313 | shinystan R package and ShinyStan GUI |
+| 140 | 68 | 9 | 2 months ago | [sqldf](https://github.com/ggrothendieck/sqldf)/314 | Perform SQL Selects on R Data Frames |
+| 139 | 8 | 5 | 20 days ago | [syberia](https://github.com/syberia/syberia)/315 | Syberia: The development framework for R |
+| 139 | 25 | 8 | 2 months ago | [DataExplorer](https://github.com/boxuancui/DataExplorer)/316 | R package to simplify Exploratory Data Analysis |
+| 139 | 56 | 40 | a month ago | [sleuth](https://github.com/pachterlab/sleuth)/317 | Differential analysis of RNA-Seq |
+| 138 | 54 | 52 | a day ago | [survminer](https://github.com/kassambara/survminer)/318 | Survival Analysis and Visualization |
+| 138 | 22 | 8 | 3 months ago | [crayon](https://github.com/r-lib/crayon)/319 | R package for colored terminal output |
+| 138 | 213 | 0 | 5 months ago | [shiny-server](https://github.com/daattali/shiny-server)/320 | My personal Shiny server |
+| 138 | 25 | 8 | 1 year, 22 days ago | [jug](https://github.com/Bart6114/jug)/321 | jug: A Simple Web Framework for R |
+| 138 | 21 | 19 | 3 years ago | [testdat](https://github.com/karthik/testdat)/322 | A package to run unit tests on tabular data |
+| 138 | 18 | 19 | 2 months ago | [stringdist](https://github.com/markvanderloo/stringdist)/323 | String distance functions for R |
+| 137 | 93 | 3 | 8 years ago | [data-baby-names](https://github.com/hadley/data-baby-names)/324 | Distribution of US baby names, 1880-2008 |
+| 137 | 35 | 30 | 1 year, 7 months ago | [animint](https://github.com/tdhock/animint)/325 | animated and interactive web graphics |
+| 137 | 39 | 15 | 3 days ago | [scholar](https://github.com/jkeirstead/scholar)/326 | Analyse citation data from Google Scholar |
+| 137 | 44 | 36 | 2 days ago | [DBI](https://github.com/r-dbi/DBI)/327 | A database interface (DBI) definition for communication between R and RDBMSs |
+| 136 | 53 | 33 | a month ago | [GenVisR](https://github.com/griffithlab/GenVisR)/328 | Genome data visualizations |
+| 135 | 34 | 4 | 2 years ago | [tiq-test](https://github.com/mlsecproject/tiq-test)/329 | Threat Intelligence Quotient Test - Dataviz and Statistical Analysis of TI feeds |
+| 135 | 68 | 0 | 3 years ago | [revere](https://github.com/kjhealy/revere)/330 | Finding Paul Revere |
+| 134 | 50 | 5 | 3 years ago | [choroplethr](https://github.com/trulia/choroplethr)/331 | choroplethr simplifies the creation of choropleths (thematic maps) in R |
+| 133 | 29 | 67 | 2 years ago | [shinyBS](https://github.com/ebailey78/shinyBS)/332 | Twitter Bootstrap Components for Shiny |
+| 133 | 40 | 15 | 5 months ago | [memoise](https://github.com/r-lib/memoise)/333 | Easy memoisation for R |
+| 133 | 46 | 7 | 14 days ago | [SuperLearner](https://github.com/ecpolley/SuperLearner)/334 | Current version of the SuperLearner R package |
+| 133 | 72 | 0 | 3 years ago | [r-tutorials](https://github.com/ranalytics/r-tutorials)/335 | Приложения к книге "Статистический анализ и визуализация данных с помощью R" |
+| 133 | 108 | 5 | 1 year, 5 months ago | [sand](https://github.com/kolaczyk/sand)/336 | Statistical Analysis of Network Data with R |
+| 132 | 45 | 26 | 2 years ago | [mailR](https://github.com/rpremraj/mailR)/337 | A utility to send emails from the R programming environment |
+| 132 | 130 | 8 | 1 year, 7 months ago | [R-Tutorials](https://github.com/JulianHill/R-Tutorials)/338 | Code from the r tutorial on my blog |
+| 132 | 32 | 35 | 2 days ago | [fulltext](https://github.com/ropensci/fulltext)/339 | Search across and get full text for OA & closed journals |
+| 132 | 31 | 4 | 1 year, 11 months ago | [pipeR](https://github.com/renkun-ken/pipeR)/340 | Multi-Paradigm Pipeline Implementation |
+| 132 | 27 | 13 | 10 months ago | [Rook](https://github.com/jeffreyhorner/Rook)/341 | A web server interface for R |
+| 132 | 113 | 11 | 3 months ago | [rfortraders](https://github.com/hgeorgako/rfortraders)/342 | Quantitative Trading with R |
+| 132 | 33 | 6 | a month ago | [shinyAce](https://github.com/trestletech/shinyAce)/343 | Integrating the Ace editor with Shiny. |
+| 131 | 54 | 19 | 7 days ago | [ShinySky](https://github.com/AnalytixWare/ShinySky)/344 | Various UI widgets/components not part of Shiny e.g. alerts, styled buttons |
+| 131 | 144 | 1 | 5 months ago | [ShinyEd](https://github.com/ShinyEd/ShinyEd)/345 | Shiny Applets for Education |
+| 131 | 15 | 7 | 2 months ago | [emoGG](https://github.com/dill/emoGG)/346 | :chart_with_upwards_trend::heart_eyes_cat: Emoji in ggplot2 :heart_eyes_cat::chart_with_upwards_trend: |
+| 131 | 49 | 8 | a month ago | [DesktopDeployR](https://github.com/wleepang/DesktopDeployR)/347 | A framework for deploying self-contained R-based applications to the desktop |
+| 130 | 53 | 18 | a month ago | [animation](https://github.com/yihui/animation)/348 | A gallery of animations in statistics and utilities to create animations |
+| 130 | 27 | 17 | a month ago | [shinymaterial](https://github.com/ericrayanderson/shinymaterial)/349 | None |
+| 130 | 49 | 19 | 9 days ago | [dada2](https://github.com/benjjneb/dada2)/350 | Accurate sample inference from amplicon data with single nucleotide resolution |
+| 130 | 24 | 7 | 1 year, 1 month ago | [rho](https://github.com/rho-devel/rho)/351 | None |
+| 130 | 49 | 28 | 8 months ago | [Rcrawler](https://github.com/salimk/Rcrawler)/352 | An R web crawler and scraper |
+| 129 | 18 | 33 | a month ago | [googledrive](https://github.com/tidyverse/googledrive)/353 | Google Drive R API |
+| 129 | 13 | 3 | 14 days ago | [tesseract](https://github.com/ropensci/tesseract)/354 | Bindings to Tesseract OCR engine for R |
+| 128 | 26 | 30 | 22 days ago | [bayesplot](https://github.com/stan-dev/bayesplot)/355 | bayesplot R package for plotting Bayesian models |
+| 128 | 11 | 1 | 3 months ago | [mathpix](https://github.com/jonocarroll/mathpix)/356 | Query the mathpix API to convert math images to LaTeX |
+| 128 | 44 | 0 | 7 months ago | [voice-gender](https://github.com/primaryobjects/voice-gender)/357 | Gender recognition by voice and speech analysis |
+| 127 | 20 | 4 | 16 days ago | [summarytools](https://github.com/dcomtois/summarytools)/358 | R Package for quickly and neatly summarizing vectors and dataframes |
+| 127 | 119 | 234 | a day ago | [doctree](https://github.com/rurema/doctree)/359 | Repository of Japanese Ruby reference manual |
+| 127 | 38 | 63 | 4 months ago | [leaflet.extras](https://github.com/bhaskarvk/leaflet.extras)/360 | Extra functionality for leaflet R package. |
+| 126 | 96 | 1 | 2 months ago | [RDocumentation](https://github.com/datacamp/RDocumentation)/361 | R package to integrate rdocumentation.org into your R workflow |
+| 126 | 47 | 10 | 14 days ago | [vegan](https://github.com/vegandevs/vegan)/362 | R package for community ecologists: popular ordination methods, ecological null models & diversity analysis |
+| 126 | 38 | 7 | 6 months ago | [muxViz](https://github.com/manlius/muxViz)/363 | Analysis and Visualization of Interconnected Multilayer Networks |
+| 126 | 50 | 5 | 2 days ago | [scales](https://github.com/r-lib/scales)/364 | Graphical scales |
+| 125 | 23 | 18 | 13 days ago | [tibbletime](https://github.com/business-science/tibbletime)/365 | Time-aware tibbles |
+| 124 | 26 | 46 | 2 months ago | [r4intellij](https://github.com/holgerbrandl/r4intellij)/366 | An integration of the R programming language into Intellij IDEA |
+| 124 | 24 | 13 | 2 months ago | [data.tree](https://github.com/gluc/data.tree)/367 | General Purpose Hierarchical Data Structure for R |
+| 124 | 13 | 11 | 3 months ago | [lambda.r](https://github.com/zatonovo/lambda.r)/368 | Functional programming in R |
+| 124 | 43 | 0 | 7 days ago | [broman](https://github.com/kbroman/broman)/369 | R/broman: A package with Karl Broman's personal R code |
+| 124 | 61 | 55 | 1 year, 1 month ago | [RHive](https://github.com/nexr/RHive)/370 | RHive is an R extension facilitating distributed computing via Apache Hive. |
+| 124 | 70 | 2 | 3 years ago | [kaggle-avito](https://github.com/owenzhang/kaggle-avito)/371 | Winning solution to the Avito CTR competition |
+| 124 | 33 | 8 | 2 months ago | [baseballr](https://github.com/BillPetti/baseballr)/372 | A package written for R focused on baseball analysis. Currently in development. |
+| 124 | 44 | 20 | 15 days ago | [countrycode](https://github.com/vincentarelbundock/countrycode)/373 | R package: Convert country names and country codes. Assigns region descriptors. |
+| 123 | 60 | 26 | 8 months ago | [RSocrata](https://github.com/Chicago/RSocrata)/374 | Provides easier interaction with Socrata open data portals http://dev.socrata.com. Users can provide a 'Socrata' data set resource URL, or a 'Socrata' Open Data API (SoDA) web query, or a 'Socrata' "human-friendly" URL, returns an R data frame. Converts dates to 'POSIX' format. Manages throttling by 'Socrata'. |
+| 123 | 77 | 1 | 1 year, 7 months ago | [Santander-Product-Recommendation](https://github.com/ttvand/Santander-Product-Recommendation)/375 | 2nd Place Solution of the Kaggle Competition - Santander Product Recommendation |
+| 123 | 9 | 10 | 6 months ago | [zeallot](https://github.com/r-lib/zeallot)/376 | Variable assignment with zeal! (or multiple, unpacking, and destructuring assignment in R) |
+| 123 | 7 | 1 | a month ago | [ggspatial](https://github.com/paleolimbot/ggspatial)/377 | A ggplot2 R extension for plotting Spatial* objects |
+| 123 | 14 | 0 | 3 days ago | [PolData](https://github.com/erikgahner/PolData)/378 | A dataset with political datasets |
+| 122 | 38 | 32 | 19 days ago | [factoextra](https://github.com/kassambara/factoextra)/379 | Extract and Visualize the Results of Multivariate Data Analyses |
+| 122 | 247 | 1 | 4 months ago | [MLwR](https://github.com/dataspelunking/MLwR)/380 | Machine Learning with R |
+| 122 | 29 | 3 | 17 days ago | [ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries)/381 | Time series visualisation |
+| 122 | 25 | 21 | 1 year, 11 months ago | [rlist](https://github.com/renkun-ken/rlist)/382 | A Toolbox for Non-Tabular Data Manipulation |
+| 121 | 11 | 0 | 10 days ago | [colorblindr](https://github.com/clauswilke/colorblindr)/383 | An R package to simulate colorblindness on R figures. |
+| 121 | 14 | 8 | a month ago | [citr](https://github.com/crsh/citr)/384 | RStudio Addin to Insert Markdown Citations |
+| 120 | 16 | 3 | 2 years ago | [git-submodule-tools](https://github.com/kollerma/git-submodule-tools)/385 | git submodule scripts |
+| 120 | 7 | 3 | 2 months ago | [chunked](https://github.com/edwindj/chunked)/386 | Chunkwise Text-file Processing for 'dplyr' |
+| 120 | 20 | 35 | 17 days ago | [trelliscopejs](https://github.com/hafen/trelliscopejs)/387 | TrelliscopeJS R Package |
+| 120 | 5 | 1 | 7 hours ago | [ggdag](https://github.com/malcolmbarrett/ggdag)/388 | An R package for working with causal directed acyclic graphs (DAGs) |
+| 120 | 16 | 4 | 11 days ago | [tigris](https://github.com/walkerke/tigris)/389 | Download and use Census TIGER/Line shapefiles in R |
+| 119 | 11 | 23 | 3 years ago | [tidyjson](https://github.com/sailthru/tidyjson)/390 | Tools for using dplyr with JSON data |
+| 118 | 25 | 4 | 1 year, 2 months ago | [pipelearner](https://github.com/drsimonj/pipelearner)/391 | Tidy machine learning pipelines |
+| 117 | 40 | 3 | 1 year, 7 days ago | [cognizer](https://github.com/ColumbusCollaboratory/cognizer)/392 | R package to call IBM Watson services. |
+| 115 | 7 | 400 | 2 years ago | [itch.io](https://github.com/itchio/itch.io)/393 | :bug: Public itch.io issues tracker - use support instead for private information! |
+| 115 | 106 | 4 | 9 months ago | [gapminder](https://github.com/jennybc/gapminder)/394 | Excerpt from the Gapminder data, as an R data package and in plain text delimited form |
+| 115 | 24 | 7 | 4 months ago | [anomalize](https://github.com/business-science/anomalize)/395 | Tidy anomaly detection |
+| 114 | 10 | 9 | 2 months ago | [here](https://github.com/r-lib/here)/396 | A simpler way to find your files |
+| 114 | 9 | 4 | 2 months ago | [cli](https://github.com/r-lib/cli)/397 | Tools for making beautiful & useful command line interfaces |
+| 114 | 18 | 33 | 1 year, 3 months ago | [dtplyr](https://github.com/hadley/dtplyr)/398 | Data table backend for dplyr |
+| 114 | 32 | 0 | 2 years ago | [JSE_OkCupid](https://github.com/rudeboybert/JSE_OkCupid)/399 | Journal of Statistical Education Paper on Using OkCupid Data for Data Science Courses |
+| 114 | 41 | 10 | 4 months ago | [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst)/400 | R package to access Adobe Analytics Reporting API |
+| 113 | 140 | 2 | 6 years ago | [data-science-r](https://github.com/jmstanto/data-science-r)/401 | R code and documentation for "Introduction to Data Science" by Jeffrey Stanton |
+| 113 | 20 | 7 | 2 months ago | [statcheck](https://github.com/MicheleNuijten/statcheck)/402 | None |
+| 112 | 45 | 12 | 1 year, 4 months ago | [PivotalR](https://github.com/pivotalsoftware/PivotalR)/403 | An convenient R tool for manipulating tables in PostgreSQL type databases and a wrapper of Apache MADlib. |
+| 112 | 42 | 8 | 5 months ago | [ggradar](https://github.com/ricardo-bion/ggradar)/404 | radar charts with ggplot2 |
+| 112 | 6 | 6 | 9 months ago | [latex2exp](https://github.com/stefano-meschiari/latex2exp)/405 | Use LaTeX in R |
+| 112 | 19 | 3 | 29 days ago | [tokenizers](https://github.com/ropensci/tokenizers)/406 | Fast, Consistent Tokenization of Natural Language Text |
+| 112 | 16 | 0 | 26 days ago | [fundManageR](https://github.com/abresler/fundManageR)/407 | An Investment Management toolkit for R.  Because Excel is a threat to the global financial system. |
+| 112 | 11 | 85 | 7 days ago | [containerit](https://github.com/o2r-project/containerit)/408 | Package an R workspace and all dependencies as a Docker container |
+| 112 | 55 | 4 | 17 days ago | [N2H4](https://github.com/forkonlp/N2H4)/409 | 네이버 뉴스 수집을 위한 도구 |
+| 111 | 15 | 0 | 28 days ago | [cartography](https://github.com/riatelab/cartography)/410 | :globe_with_meridians: Thematic Cartography |
+| 111 | 28 | 19 | 6 months ago | [futile.logger](https://github.com/zatonovo/futile.logger)/411 | A logging package in R similar to log4j |
+| 111 | 88 | 1 | 4 months ago | [spacetime-vis](https://github.com/oscarperpinan/spacetime-vis)/412 | Sources of the book "Displaying time series, spatial and space-time data with R" (1st Edition) |
+| 111 | 66 | 0 | 6 months ago | [Facebook-V](https://github.com/ttvand/Facebook-V)/413 | Cleaned code of the winning submission of the Kaggle Recruiting Competition |
+| 111 | 70 | 30 | 2 days ago | [maftools](https://github.com/PoisonAlien/maftools)/414 | Summarize, Analyze and Visualize MAF files from TCGA or in house studies. |
+| 110 | 12 | 1 | 10 months ago | [slipper](https://github.com/jtleek/slipper)/415 | Tidy and easy bootstrapping |
+| 110 | 34 | 0 | 11 months ago | [gunsales](https://github.com/NYTimes/gunsales)/416 | Statistical analysis of monthly background checks of gun purchases |
+| 109 | 32 | 26 | 3 months ago | [qdap](https://github.com/trinker/qdap)/417 | Quantitative Discourse Analysis Package: Bridging the gap between qualitative data and quantitative analysis |
+| 109 | 40 | 8 | 1 year, 4 months ago | [fitbitScraper](https://github.com/corynissen/fitbitScraper)/418 | R package to scrape fitbit data |
+| 109 | 257 | 4 | 4 years ago | [MathematicsBiostatisticsBootCamp2](https://github.com/bcaffo/MathematicsBiostatisticsBootCamp2)/419 | The github repository for mathematical biostatistics bootcamp 2 |
+| 108 | 3 | 4 | 10 months ago | [wordcountaddin](https://github.com/benmarwick/wordcountaddin)/420 | Word counts and readability statistics in R markdown documents |
+| 108 | 26 | 5 | 1 year, 4 months ago | [leafletCN](https://github.com/Lchiffon/leafletCN)/421 | An R gallery for China and other geojson choropleth map in leaflet |
+| 108 | 14 | 15 | 1 year, 10 months ago | [ddR](https://github.com/vertica/ddR)/422 | Standard API for Distributed Data Structures in R |
+| 108 | 46 | 40 | 1 year, 1 month ago | [ngsplot](https://github.com/shenlab-sinai/ngsplot)/423 | Quick mining and visualization of NGS data by integrating genomic databases |
+| 108 | 22 | 0 | 7 hours ago | [TSstudio](https://github.com/RamiKrispin/TSstudio)/424 | Tools for time series analysis and forecasting |
+| 108 | 68 | 83 | 22 hours ago | [healthcareai-r](https://github.com/HealthCatalyst/healthcareai-r)/425 | R tools for healthcare machine learning |
+| 107 | 10 | 11 | 4 months ago | [listviewer](https://github.com/timelyportfolio/listviewer)/426 | R htmlwidget to view lists |
+| 107 | 28 | 36 | 3 days ago | [remotes](https://github.com/r-lib/remotes)/427 | Install R packages from GitHub, Bitbucket, git, svn repositories, URLs |
+| 107 | 19 | 17 | 5 months ago | [pool](https://github.com/rstudio/pool)/428 | Object Pooling in R |
+| 107 | 24 | 10 | 5 days ago | [simmer](https://github.com/r-simmer/simmer)/429 | Discrete-Event Simulation for R |
+| 107 | 14 | 7 | 3 years ago | [whisker](https://github.com/edwindj/whisker)/430 | {{mustache}} for R |
+| 106 | 58 | 9 | 2 years ago | [Latent-Factor-Models](https://github.com/beechung/Latent-Factor-Models)/431 | R functions for fitting latent factor models with internal computation in C/C++ |
+| 106 | 11 | 5 | 3 years ago | [meme](https://github.com/leeper/meme)/432 | Meme Generation in R |
+| 106 | 20 | 19 | 10 days ago | [googleway](https://github.com/SymbolixAU/googleway)/433 | R Package for accessing and plotting Google Maps |
+| 106 | 27 | 0 | 3 years ago | [osd-street-center-line](https://github.com/Chicago/osd-street-center-line)/434 | Open source release of street center lines in Chicago. |
+| 106 | 36 | 9 | 6 months ago | [what-they-forgot](https://github.com/jennybc/what-they-forgot)/435 | What They Forgot To Teach You About R, workshop homepage |
+| 106 | 45 | 8 | 1 year, 5 months ago | [fio_scripts](https://github.com/khailey/fio_scripts)/436 | scripts for running fio, parsing the data and graphing the output |
+| 106 | 16 | 38 | 5 months ago | [pacman](https://github.com/trinker/pacman)/437 | A package management tools for R |
+| 106 | 7 | 0 | 4 months ago | [nytcrossword](https://github.com/jtanwk/nytcrossword)/438 | Exploration of NYT Crossword answers from 1994-2017 |
+| 106 | 50 | 2 | 2 months ago | [bioc-refcard](https://github.com/mikelove/bioc-refcard)/439 | Bioconductor cheat sheet |
+| 105 | 34 | 1 | 1 year, 8 months ago | [user2016-tutorial](https://github.com/ropensci-training/user2016-tutorial)/440 | useR 2016 workshop materials for "Extracting data from the web APIs and beyond" |
+| 105 | 11 | 3 | 22 days ago | [tidyversity](https://github.com/mkearney/tidyversity)/441 | 🎓 Tidy tools for academics |
+| 105 | 15 | 6 | a month ago | [datasauRus](https://github.com/lockedata/datasauRus)/442 | R Package 📦 Containing the Datasaurus Dozen datasets :bar_chart: |
+| 105 | 5 | 7 | 2 months ago | [pointblank](https://github.com/rich-iannone/pointblank)/443 | Validation of local and remote data tables |
+| 105 | 13 | 2 | 20 days ago | [d3r](https://github.com/timelyportfolio/d3r)/444 | d3.js helpers for R |
+| 104 | 5 | 2 | 18 days ago | [paletteer](https://github.com/EmilHvitfeldt/paletteer)/445 | Collection of most color palettes in a single R package  🎨 |
+| 104 | 20 | 21 | 9 months ago | [ggsignif](https://github.com/const-ae/ggsignif)/446 | Easily add significance brackets to your ggplots |
+| 104 | 12 | 16 | 2 days ago | [promises](https://github.com/rstudio/promises)/447 | A promise library for R |
+| 104 | 26 | 11 | 2 months ago | [rmdshower](https://github.com/MangoTheCat/rmdshower)/448 | R Markdown template for shower |
+| 104 | 68 | 0 | 2 years ago | [kaggle-airbnb-recruiting-new-user-bookings](https://github.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings)/449 | 2nd Place Solution in Kaggle Airbnb New User Bookings competition |
+| 104 | 16 | 8 | 4 months ago | [gender](https://github.com/ropensci/gender)/450 | Predict Gender from Names Using Historical Data |
+| 104 | 12 | 12 | 7 days ago | [docopt.R](https://github.com/docopt/docopt.R)/451 | Command-line interface description language for R (http://docopt.org) |
+| 103 | 4 | 1 | 8 months ago | [ghibli](https://github.com/ewenme/ghibli)/452 | Studio Ghibli colour palettes 📦 |
+| 103 | 22 | 14 | 9 days ago | [eurostat](https://github.com/rOpenGov/eurostat)/453 | R tools for Eurostat data |
+| 103 | 115 | 28 | 9 months ago | [gbm3](https://github.com/gbm-developers/gbm3)/454 | Gradient boosted models |
+| 103 | 26 | 0 | 2 years ago | [reddit-bigquery](https://github.com/minimaxir/reddit-bigquery)/455 | Code + Jupyter notebook for analyzing and visualizing Reddit Data quickly and easily |
+| 102 | 11 | 1 | 5 days ago | [treemapify](https://github.com/wilkox/treemapify)/456 | 🌳 Draw treemaps in ggplot2 |
+| 102 | 26 | 3 | 4 months ago | [anomalous-acm](https://github.com/robjhyndman/anomalous-acm)/457 | Anomalous time series package for R (ACM) |
+| 102 | 24 | 14 | a month ago | [assertthat](https://github.com/hadley/assertthat)/458 | User friendly assertions for R |
+| 102 | 119 | 0 | a month ago | [machine-learning-course](https://github.com/faridcher/machine-learning-course)/459 | R code for the assignments of Coursera machine learning course |
+| 102 | 29 | 38 | 1 year, 4 months ago | [trelliscope](https://github.com/delta-rho/trelliscope)/460 | Detailed Visualization of Large Complex Data in R |
+| 101 | 80 | 2 | 2 years ago | [R](https://github.com/datadolphyn/R)/461 | None |
+| 101 | 19 | 0 | 5 days ago | [dtwclust](https://github.com/asardaes/dtwclust)/462 | R Package for Time Series Clustering Along with Optimizations for DTW |
+| 101 | 48 | 87 | 23 days ago | [openair](https://github.com/davidcarslaw/openair)/463 | Tools for air quality data analysis |
+| 101 | 10 | 5 | a month ago | [ggalluvial](https://github.com/corybrunson/ggalluvial)/464 | ggplot2 extension for alluvial diagrams 🔠🔀📊 |
+| 101 | 18 | 12 | 18 days ago | [rsample](https://github.com/tidymodels/rsample)/465 | Classes and functions to create and summarize different types of resampling objects |
+| 100 | 13 | 11 | 24 days ago | [liftr](https://github.com/road2stat/liftr)/466 | Containerize R Markdown Documents for Continuous Reproducibility |
+| 100 | 13 | 5 | 12 hours ago | [callr](https://github.com/r-lib/callr)/467 | Call R from R |
+| 100 | 20 | 11 | 2 months ago | [textreuse](https://github.com/ropensci/textreuse)/468 | Detect text reuse and document similarity |
+| 100 | 15 | 12 | 30 days ago | [shinyjqui](https://github.com/Yang-Tang/shinyjqui)/469 | jQuery UI Interactions and Effects for Shiny |
+| 100 | 3 | 0 | 6 months ago | [Text_Mining](https://github.com/TuGengs/Text_Mining)/470 | 基于R语言的文本挖掘，用于分析演讲人的情感成分 |
+| 100 | 24 | 20 | 4 months ago | [checkpoint](https://github.com/RevolutionAnalytics/checkpoint)/471 | Install R packages from snapshots on checkpoint-server |
+| 99 | 31 | 12 | 17 days ago | [geojsonio](https://github.com/ropensci/geojsonio)/472 | Convert many data formats to & from GeoJSON & TopoJSON |
+| 99 | 6 | 3 | 2 years ago | [pystr](https://github.com/Ironholds/pystr)/473 | Python String Methods in R. |
+| 99 | 13 | 9 | 2 months ago | [bookdownplus](https://github.com/pzhaonet/bookdownplus)/474 | The easiest way to use R package bookdown for  writing varied types of books and documents  |
+| 99 | 50 | 75 | 3 months ago | [monocle-release](https://github.com/cole-trapnell-lab/monocle-release)/475 | None |
+| 99 | 10 | 5 | 2 months ago | [ggsn](https://github.com/oswaldosantos/ggsn)/476 | R package to add north symbols and scale bars to maps created with ggplot or ggmap |
+| 99 | 8 | 5 | 4 days ago | [echarts4r](https://github.com/JohnCoene/echarts4r)/477 | 🐳 ECharts 4 for R |
+| 99 | 11 | 9 | 3 months ago | [config](https://github.com/rstudio/config)/478 | config package for R |
+| 99 | 31 | 17 | a day ago | [icd](https://github.com/jackwasey/icd)/479 | Fast ICD-10 and ICD-9 comorbidities, decoding and validation in R |
+| 98 | 8 | 4 | 2 days ago | [tidy-animated-verbs](https://github.com/gadenbuie/tidy-animated-verbs)/480 | Animations of tidyverse verbs using R, the tidyverse, and gganimate |
+| 98 | 63 | 4 | 1 year, 6 months ago | [smappR](https://github.com/SMAPPNYU/smappR)/481 | R tools for analysis of Twitter data |
+| 98 | 4 | 10 | a month ago | [bench](https://github.com/r-lib/bench)/482 | High Precision Timing of R Expressions |
+| 98 | 15 | 8 | 2 months ago | [rprojroot](https://github.com/r-lib/rprojroot)/483 | Finding files in project subdirectories |
+| 98 | 30 | 14 | 2 months ago | [stplanr](https://github.com/ropensci/stplanr)/484 | R package providing functions and data access for transport research |
+| 98 | 16 | 11 | 25 days ago | [spacyr](https://github.com/quanteda/spacyr)/485 | R wrapper to spaCy NLP |
+| 98 | 44 | 1 | 6 years ago | [ML-Email-Code](https://github.com/drewconway/ML-Email-Code)/486 | This repository contains all code examples in Machine Learning for Email, by Drew Conway and John Myles White. |
+| 98 | 15 | 8 | 3 years ago | [secure](https://github.com/hadley/secure)/487 | Secure private R data in public packages |
+| 98 | 36 | 2 | 2 months ago | [recommenderlab](https://github.com/mhahsler/recommenderlab)/488 | recommenderlab - Lab for Developing and Testing Recommender Algorithms - R package |
+| 98 | 19 | 2 | 2 years ago | [lego](https://github.com/seankross/lego)/489 | :smiley: R data package featuring every Lego set from 1970 to 2015 |
+| 98 | 22 | 2 | 9 months ago | [rbooks](https://github.com/RomanTsegelskyi/rbooks)/490 | A curated list of #rstats books |
+| 98 | 10 | 22 | 8 days ago | [mapedit](https://github.com/r-spatial/mapedit)/491 | Interactive editing of spatial data in R |
+| 97 | 43 | 26 | 5 months ago | [scde](https://github.com/hms-dbmi/scde)/492 | R package for analyzing single-cell RNA-seq data |
+| 97 | 51 | 1 | 9 months ago | [densityClust](https://github.com/thomasp85/densityClust)/493 | Clustering by fast search and find of density peaks |
+| 97 | 20 | 20 | 2 months ago | [ggRandomForests](https://github.com/ehrlinger/ggRandomForests)/494 | Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages.  |
+| 97 | 32 | 24 | 10 hours ago | [googleAuthR](https://github.com/MarkEdmondson1234/googleAuthR)/495 | Google API Client Library for R. Easy authentication and help to build Google API R libraries with OAuth2. Shiny compatible.  |
+| 97 | 6 | 1 | 1 year, 2 months ago | [artyfarty](https://github.com/datarootsio/artyfarty)/496 | ggplot2 theme + palette presets |
+| 96 | 3 | 1 | 4 months ago | [Rcade](https://github.com/RLesur/Rcade)/497 | Games to procrastinate with RStudio |
+| 96 | 48 | 3 | 7 months ago | [xda](https://github.com/ujjwalkarn/xda)/498 | R package for exploratory data analysis |
+| 96 | 101 | 4 | 3 years ago | [theBioBucket-Archives](https://github.com/gimoya/theBioBucket-Archives)/499 | R-Code used in my blog theBioBucket |
+| 96 | 21 | 3 | 3 days ago | [lidR](https://github.com/Jean-Romain/lidR)/500 | R package for airborne LiDAR data manipulation and visualisation for forestry application |
+| 96 | 4 | 0 | 6 months ago | [xcode-time-tracker](https://github.com/PaulTaykalo/xcode-time-tracker)/501 | None |
+| 96 | 69 | 1 | 4 years ago | [edX-Learning-From-Data-Solutions](https://github.com/kirbs-/edX-Learning-From-Data-Solutions)/502 | Homework Answers |
+| 96 | 45 | 6 | a month ago | [RStoolbox](https://github.com/bleutner/RStoolbox)/503 | Remote Sensing Analysis in R |
+| 96 | 28 | 39 | 16 days ago | [microsoft-r-open](https://github.com/Microsoft/microsoft-r-open)/504 | Microsoft R Open Source |
+| 95 | 20 | 6 | 5 months ago | [rentrez](https://github.com/ropensci/rentrez)/505 | talk with NCBI entrez using R |
+| 95 | 39 | 85 | 9 hours ago | [xts](https://github.com/joshuaulrich/xts)/506 | Extensible time series class that provides uniform handling of many R time series classes by extending zoo. |
+| 94 | 78 | 1 | 2 years ago | [sentimentCN](https://github.com/data-science-lab/sentimentCN)/507 | 中文情感分析 |
+| 94 | 12 | 5 | a month ago | [rnaturalearth](https://github.com/ropensci/rnaturalearth)/508 | :earth_africa: an R package to hold and facilitate interaction with natural earth map data |
+| 94 | 18 | 5 | 5 months ago | [sweep](https://github.com/business-science/sweep)/509 | Extending broom for time series forecasting |
+| 94 | 62 | 6 | 2 days ago | [starter-kit](https://github.com/rladies/starter-kit)/510 | Guidelines for starting up a local R-Ladies chapter :purple_heart: :earth_africa: |
+| 94 | 4 | 3 | 10 months ago | [explor](https://github.com/juba/explor)/511 | Interfaces for Multivariate Analysis in R |
+| 94 | 21 | 10 | 3 years ago | [reports](https://github.com/trinker/reports)/512 | An R package to assist in the workflow of writing academic articles and other reports |
+| 94 | 13 | 4 | 6 months ago | [VisualResume](https://github.com/ndphillips/VisualResume)/513 | An R package for creating a visual resume |
+| 94 | 44 | 1 | 6 months ago | [docs](https://github.com/makerdao/docs)/514 | The Dai Credit System white paper |
+| 94 | 2 | 3 | 2 days ago | [ViewPipeSteps](https://github.com/daranzolin/ViewPipeSteps)/515 | Create tabs of View() output for each chained pipe |
+| 94 | 49 | 21 | 10 days ago | [dataRetrieval](https://github.com/USGS-R/dataRetrieval)/516 | This R package is designed to obtain USGS or EPA water quality sample data, streamflow data, and metadata directly from web services |
+| 93 | 33 | 68 | 11 days ago | [mlrMBO](https://github.com/mlr-org/mlrMBO)/517 | Toolbox for Bayesian Optimization and Model-Based Optimization in R |
+| 93 | 25 | 8 | 1 year, 3 months ago | [explainr](https://github.com/hilaryparker/explainr)/518 | None |
+| 93 | 50 | 1 | 4 months ago | [ga-dashboard-demo](https://github.com/MarkEdmondson1234/ga-dashboard-demo)/519 | A demo on how to build your own Google Analytics dashboard with R, Shiny and MySQL |
+| 93 | 121 | 2 | 4 days ago | [openintro-r-package](https://github.com/OpenIntroStat/openintro-r-package)/520 | R Package: openintro |
+| 93 | 15 | 1 | 9 days ago | [gglabeller](https://github.com/AliciaSchep/gglabeller)/521 | Shiny gadget for labeling points on ggplot |
+| 93 | 6 | 11 | a month ago | [roomba](https://github.com/ropenscilabs/roomba)/522 | General purpose API response tidier |
+| 92 | 26 | 8 | 8 months ago | [rredis](https://github.com/bwlewis/rredis)/523 | R client for Redis |
+| 92 | 285 | 39 | a month ago | [R-ecology-lesson](https://github.com/datacarpentry/R-ecology-lesson)/524 | :notebook: Data Carpentry R lessons on ecology. |
+| 92 | 29 | 11 | 2 months ago | [tuber](https://github.com/soodoku/tuber)/525 | :sweet_potato: Access YouTube from R |
+| 92 | 23 | 22 | 4 months ago | [pitchRx](https://github.com/cpsievert/pitchRx)/526 | Tools for scraping MLB Gameday data and Visualizing PITCHf/x |
+| 92 | 8 | 9 | 23 days ago | [blastula](https://github.com/rich-iannone/blastula)/527 | Easily send great-looking HTML email messages from R |
+| 92 | 50 | 38 | 1 year, 10 months ago | [ballgown](https://github.com/alyssafrazee/ballgown)/528 | Bioconductor package "ballgown", devel version. Isoform-level differential expression analysis in R. |
+| 91 | 23 | 26 | a month ago | [matrixStats](https://github.com/HenrikBengtsson/matrixStats)/529 | R package: Methods that Apply to Rows and Columns of Matrices (and to Vectors)  |
+| 91 | 18 | 18 | a month ago | [gh](https://github.com/r-lib/gh)/530 | Minimalistic GitHub API client in R |
+| 91 | 24 | 11 | 1 year, 3 months ago | [printr](https://github.com/yihui/printr)/531 | Some (magical) printing methods for knitr |
+| 91 | 8 | 3 | 4 months ago | [datamodelr](https://github.com/bergant/datamodelr)/532 | Data model diagrams in R |
+| 91 | 4 | 17 | a month ago | [ciTools](https://github.com/jthaman/ciTools)/533 | An R Package for Quick Uncertainty Intervals |
+| 91 | 28 | 4 | 2 years ago | [bigrf](https://github.com/aloysius-lim/bigrf)/534 | Random forests for R for large data sets, optimized with parallel tree-growing and disk-based memory |
+| 90 | 39 | 0 | 10 days ago | [quandl-r](https://github.com/quandl/quandl-r)/535 | This is Quandl's R Package |
+| 90 | 8 | 8 | 1 year, 1 month ago | [daff](https://github.com/edwindj/daff)/536 | Diff, patch and merge for data.frames, see  http://paulfitz.github.io/daff/ |
+| 90 | 41 | 9 | 18 days ago | [M4-methods](https://github.com/M4Competition/M4-methods)/537 | Includes the source code of the methods which participated in the M4 Competition  |
+| 90 | 8 | 4 | 3 months ago | [dbplot](https://github.com/edgararuiz/dbplot)/538 | Simplifies plotting of database and sparklyr data |
+| 90 | 72 | 6 | 5 months ago | [drat](https://github.com/eddelbuettel/drat)/539 | Drat R Archive Template |
+| 90 | 16 | 13 | a month ago | [osmplotr](https://github.com/ropensci/osmplotr)/540 | Data visualisation using OpenStreetMap objects |
+| 90 | 53 | 3 | 6 years ago | [Play-Econometrics-with-R](https://github.com/cloudly/Play-Econometrics-with-R)/541 | a brochure about "Play Econometrics with R" |
+| 89 | 8 | 5 | 1 year, 1 month ago | [import](https://github.com/smbache/import)/542 | An Import Mechanism For R |
+| 89 | 37 | 0 | 2 years ago | [google-analytics-premium-bigquery-statistics](https://github.com/GoogleCloudPlatform/google-analytics-premium-bigquery-statistics)/543 | None |
+| 89 | 16 | 8 | 28 days ago | [rsparse](https://github.com/dselivanov/rsparse)/544 | Fast and accurate machine learning on sparse matrices - Factorization Machines, FTRL, Matrix factorizations. Applications for top-N recommendations. |
+| 89 | 7 | 6 | a day ago | [tsibble](https://github.com/tidyverts/tsibble)/545 | Tidy Temporal Data Frames and Tools |
+| 89 | 95 | 8 | 2 years ago | [recharts](https://github.com/yihui/recharts)/546 | An R Interface to ECharts |
+| 88 | 2 | 6 | 1 year, 1 month ago | [mason](https://github.com/metacran/mason)/547 | A friendly craftsman that builds you great R packages |
+| 88 | 19 | 8 | 1 year, 3 months ago | [alluvial](https://github.com/mbojan/alluvial)/548 | Alluvial diagrams |
+| 88 | 15 | 22 | 2 months ago | [analogsea](https://github.com/sckott/analogsea)/549 | Digital Ocean R client |
+| 88 | 5 | 2 | a day ago | [conflicted](https://github.com/r-lib/conflicted)/550 | An alternative conflict resolution strategy for R |
+| 87 | 74 | 8 | 3 years ago | [IKTrading](https://github.com/IlyaKipnis/IKTrading)/551 | Ilya Kipnis's miscellaneous quantstrat extensions, indicators, and order-sizing functions. |
+| 87 | 5 | 1 | a day ago | [ggeffects](https://github.com/strengejacke/ggeffects)/552 | Tidy Data Frames of Marginal Effects for ggplot2 |
+| 87 | 8 | 15 | 3 months ago | [jqr](https://github.com/ropensci/jqr)/553 | R interface to jq  |
+| 87 | 10 | 1 | 2 years ago | [evsrc](https://github.com/armish/evsrc)/554 | evSrc: EVolutionary SouRCe |
+| 87 | 15 | 2 | 3 days ago | [polyreg](https://github.com/matloff/polyreg)/555 | None |
+| 87 | 46 | 14 | a month ago | [streamR](https://github.com/pablobarbera/streamR)/556 | Dev version of streamR package: Access to Twitter Streaming API via R |
+| 87 | 15 | 23 | 11 days ago | [checkmate](https://github.com/mllg/checkmate)/557 | Fast and versatile argument checks |
+| 87 | 47 | 0 | 2 months ago | [RStanBook](https://github.com/MatsuuraKentaro/RStanBook)/558 | 『StanとRでベイズ統計モデリング』のサポートページです. |
+| 87 | 36 | 11 | 15 days ago | [fbRads](https://github.com/daroczig/fbRads)/559 | Analyze and manage Facebook ads from R using this client library to access their Marketing APIs |
+| 87 | 25 | 1 | a day ago | [nbastatR](https://github.com/abresler/nbastatR)/560 | NBA Stats API Wrapper and more for R |
+| 86 | 31 | 18 | 9 months ago | [lazyeval](https://github.com/hadley/lazyeval)/561 | Lazy evaluation: an alternative to non-standard evaluation (NSE) for R |
+| 86 | 134 | 24 | 1 year, 2 months ago | [praise](https://github.com/rladies/praise)/562 | Praise useRs when they have done something good, or when they just need it |
+| 86 | 5 | 32 | 26 days ago | [diffobj](https://github.com/brodieG/diffobj)/563 | Compare R Objects with a Diff |
+| 86 | 1 | 1 | 8 days ago | [dbx](https://github.com/ankane/dbx)/564 | A fast, easy-to-use database library for R |
+| 86 | 108 | 1 | a month ago | [Azure-TDSP-ProjectTemplate](https://github.com/Azure/Azure-TDSP-ProjectTemplate)/565 | TDSP: Data science project template repository with standardized directory structure and document templates to support efficient project execution and collaboration.  |
+| 85 | 8 | 5 | 7 days ago | [sergeant](https://github.com/hrbrmstr/sergeant)/566 | :guardsman: Tools to Transform and Query Data with 'Apache' 'Drill' |
+| 85 | 12 | 5 | 12 days ago | [fastLink](https://github.com/kosukeimai/fastLink)/567 | R package fastLink: Fast Probabilistic Record Linkage |
+| 85 | 6 | 6 | 9 months ago | [ggseqlogo](https://github.com/omarwagih/ggseqlogo)/568 | Publication-quality sequence logos in R |
+| 85 | 39 | 0 | 3 years ago | [code_r](https://github.com/chrisalbon/code_r)/569 | Collection of R Scripts for Reuse |
+| 85 | 26 | 5 | 11 months ago | [kerasR](https://github.com/statsmaths/kerasR)/570 | R interface to the keras library |
+| 84 | 11 | 4 | 4 months ago | [Rvision](https://github.com/swarm-lab/Rvision)/571 | Basic computer vision library for R |
+| 84 | 18 | 2 | 3 months ago | [cleanNLP](https://github.com/statsmaths/cleanNLP)/572 | R package providing annotators and a tidy data model for natural language processing |
+| 84 | 11 | 2 | 5 days ago | [anytime](https://github.com/eddelbuettel/anytime)/573 | Anything to POSIXct or Date Converter |
+| 84 | 25 | 5 | 5 days ago | [googleLanguageR](https://github.com/ropensci/googleLanguageR)/574 | R client for the Google Translation API, Google Cloud Natural Language API and Google Cloud Speech API |
+| 84 | 3 | 5 | 3 months ago | [COMEVIZZ](https://github.com/FujitsuLaboratories/COMEVIZZ)/575 | COMEVIZZ is COde MEtrics VIsualiZation with Z-Score. |
+| 84 | 41 | 0 | 11 months ago | [r-sample-tools](https://github.com/R-ArcGIS/r-sample-tools)/576 |  Sample tools illustrating R usage in geoprocessing scripts |
+| 84 | 1 | 0 | a month ago | [xaringanthemer](https://github.com/gadenbuie/xaringanthemer)/577 | 😎 Give your xaringan slides some style |
+| 83 | 37 | 18 | 6 months ago | [r-script](https://github.com/joshkatz/r-script)/578 | A simple little module for passing data from NodeJS to R (and back again). |
+| 83 | 25 | 18 | 2 months ago | [miniCRAN](https://github.com/andrie/miniCRAN)/579 | R package to create internally consistent, mini version of CRAN |
+| 83 | 10 | 3 | 3 months ago | [dashboardthemes](https://github.com/nik01010/dashboardthemes)/580 | BETA: custom theme support for R Shinydashboard applications. |
+| 83 | 6 | 4 | a month ago | [umapr](https://github.com/ropenscilabs/umapr)/581 | UMAP dimensionality reduction in R |
+| 83 | 22 | 0 | 4 months ago | [SentimentAnalysis](https://github.com/sfeuerriegel/SentimentAnalysis)/582 | Dictionary-based sentiment analysis |
+| 83 | 15 | 5 | 2 months ago | [beepr](https://github.com/rasmusab/beepr)/583 | The package that sounds as it is called. |
+| 83 | 37 | 12 | 3 days ago | [rgbif](https://github.com/ropensci/rgbif)/584 | Wrapper to the Global Biodiversity Information Facility API |
+| 83 | 106 | 1 | 4 years ago | [art-r-translation](https://github.com/cosname/art-r-translation)/585 | 《R语言编程艺术》翻译项目文件 |
+| 83 | 13 | 17 | 18 days ago | [yardstick](https://github.com/tidymodels/yardstick)/586 | Tidy methods for measuring model performance |
+| 83 | 46 | 8 | 3 days ago | [docker-rstats](https://github.com/Kaggle/docker-rstats)/587 | Kaggle R docker image |
+| 82 | 22 | 0 | 4 months ago | [anomalous](https://github.com/robjhyndman/anomalous)/588 | Anomalous time series package for R |
+| 82 | 19 | 6 | 2 months ago | [BTYDplus](https://github.com/mplatzer/BTYDplus)/589 | R package for Customer Behavior Analysis |
+| 82 | 15 | 0 | 1 year, 4 months ago | [StackLite](https://github.com/dgrtwo/StackLite)/590 | A simple dataset of Stack Overflow questions and tags |
+| 82 | 10 | 5 | a month ago | [padr](https://github.com/EdwinTh/padr)/591 | Padding of missing records in time series |
+| 81 | 16 | 0 | 11 days ago | [literature-clock](https://github.com/JohannesNE/literature-clock)/592 | Clock using time quotes from the literature, based on the work of Jaap Meijers |
+| 81 | 0 | 0 | 3 months ago | [r-utf8](https://github.com/patperry/r-utf8)/593 | UTF-8 Text Processing (R Package) |
+| 81 | 10 | 2 | 1 year, 7 months ago | [skittles](https://github.com/zonination/skittles)/594 | Counts of Skittles |
+| 81 | 8 | 5 | 2 years ago | [jailbreakr](https://github.com/rsheets/jailbreakr)/595 | Get out of Excel free. |
+| 81 | 15 | 8 | a month ago | [pcgr](https://github.com/sigven/pcgr)/596 | Personal Cancer Genome Reporter (PCGR) |
+| 81 | 41 | 98 | a day ago | [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks)/597 | TCGAbiolinks |
+| 81 | 14 | 11 | a month ago | [monkeylearn](https://github.com/ropensci/monkeylearn)/598 | :monkey: R package for text analysis with Monkeylearn :monkey: |
+| 81 | 31 | 4 | 3 years ago | [shinyData](https://github.com/yindeng/shinyData)/599 | A GUI for interactive data analysis, visualization and presentation |
+| 81 | 16 | 2 | 10 months ago | [captioner](https://github.com/adletaw/captioner)/600 | an R package for generating figure/table numbers and captions, especially for Rmd docs |
+| 80 | 7 | 14 | 8 days ago | [parsnip](https://github.com/topepo/parsnip)/601 | A tidy unified interface to models |
+| 80 | 34 | 26 | 3 months ago | [leafcutter](https://github.com/davidaknowles/leafcutter)/602 | Annotation-free quantification of RNA splicing. Yang I. Li, David A. Knowles, Jack Humphrey, Alvaro N. Barbeira, Scott P. Dickinson, Hae Kyung Im, Jonathan K. Pritchard |
+| 80 | 14 | 2 | 1 year, 30 days ago | [benchm-databases](https://github.com/szilard/benchm-databases)/603 | A minimal benchmark of various tools (statistical software, databases etc.) for working with tabular data of moderately large sizes (interactive data analysis). |
+| 79 | 5 | 5 | 1 year, 1 month ago | [prairie](https://github.com/nteetor/prairie)/604 | Get web applications growing in R |
+| 79 | 14 | 60 | 3 years ago | [cranvas](https://github.com/ggobi/cranvas)/605 | Interactive graphics in R using Qt interfaces, a descendant of ggobi software |
+| 79 | 10 | 6 | 9 months ago | [template](https://github.com/Pakillo/template)/606 | A template for research projects structured as R packages |
+| 79 | 24 | 14 | 6 months ago | [rsqlserver](https://github.com/agstudy/rsqlserver)/607 | Sql Server driver  database interface (DBI) driver for R. This is a DBI-compliant Sql Server driver based on the System.Data.SqlClient.  |
+| 79 | 66 | 1 | 6 years ago | [facebook-data-mining](https://github.com/datamgmt/facebook-data-mining)/608 | Facebook Data Mining |
+| 79 | 6 | 14 | 4 months ago | [rmapshaper](https://github.com/ateucher/rmapshaper)/609 | An R wrapper for the mapshaper javascript library |
+| 79 | 20 | 37 | 8 days ago | [batchtools](https://github.com/mllg/batchtools)/610 | Tools for computation on batch systems |
+| 79 | 46 | 27 | 2 months ago | [pheatmap](https://github.com/raivokolde/pheatmap)/611 | Pretty heatmaps |
+| 79 | 2 | 1 | 22 days ago | [pkgverse](https://github.com/mkearney/pkgverse)/612 | 📦🔭🌠 Create your own universe of packages à la tidyverse |
+| 78 | 6 | 6 | 23 days ago | [ggparliament](https://github.com/RobWHickman/ggparliament)/613 | Simple parliament plots using ggplot2 |
+| 78 | 4 | 1 | a month ago | [code-smells-and-feels](https://github.com/jennybc/code-smells-and-feels)/614 | Talk on code smells and feels and how to change that via refactoring |
+| 78 | 8 | 3 | 7 days ago | [jetpack](https://github.com/ankane/jetpack)/615 | A friendly package manager for R |
+| 78 | 6 | 2 | a month ago | [unpivotr](https://github.com/nacnudus/unpivotr)/616 | Unpivot complex and irregular data layouts in R |
+| 77 | 20 | 2 | 2 months ago | [docxtractr](https://github.com/hrbrmstr/docxtractr)/617 | :scissors: Extract Tables from Microsoft Word Documents with R |
+| 77 | 113 | 361 | 2 days ago | [pecan](https://github.com/PecanProject/pecan)/618 | The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox. |
+| 77 | 18 | 0 | 2 days ago | [tsfeatures](https://github.com/robjhyndman/tsfeatures)/619 | Time series features |
+| 77 | 31 | 14 | 4 days ago | [doAzureParallel](https://github.com/Azure/doAzureParallel)/620 | A R package that allows users to submit parallel workloads in Azure |
+| 77 | 10 | 2 | a month ago | [available](https://github.com/ropenscilabs/available)/621 | Check if a package name is available to use |
+| 77 | 35 | 9 | a day ago | [RAdwords](https://github.com/jburkhardt/RAdwords)/622 | Loading Google Adwords Data into R |
+| 77 | 15 | 1 | 6 months ago | [A-Psychologists-Guide-to-R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R)/623 | A repository containing the course notes and worked examples for a six week course in the R statistical programming language aimed at helping psychology students and faculty to learn R. This course was taught live at the University of Melbourne, Australia in 2016. |
+| 77 | 8 | 24 | 3 days ago | [units](https://github.com/r-quantities/units)/624 | Measurement units for R |
+| 77 | 8 | 12 | 16 days ago | [biomartr](https://github.com/ropensci/biomartr)/625 | Genomic Data Retrieval with R |
+| 77 | 7 | 8 | 1 year, 6 months ago | [harbor](https://github.com/wch/harbor)/626 | An R package for controlling docker containers on local and remote hosts |
+| 77 | 30 | 9 | 4 months ago | [RDatasets.jl](https://github.com/johnmyleswhite/RDatasets.jl)/627 | Julia package for loading many of the data sets available in R |
+| 77 | 19 | 4 | a month ago | [RPresto](https://github.com/prestodb/RPresto)/628 | DBI-based adapter for Presto for the statistical programming language R. |
+| 77 | 35 | 0 | 10 days ago | [ngsTools](https://github.com/mfumagalli/ngsTools)/629 | Programs to analyse NGS data for population genetics purposes |
+| 77 | 3 | 13 | 2 years ago | [vadr](https://github.com/crowding/vadr)/630 | Making R a better language  |
+| 77 | 7 | 2 | 2 years ago | [mansplainr](https://github.com/hilaryparker/mansplainr)/631 | Mansplaining R |
+| 76 | 29 | 0 | 6 years ago | [JAGSExamples](https://github.com/johnmyleswhite/JAGSExamples)/632 | Examples of statistical models implemented using JAGS |
+| 76 | 43 | 26 | 3 days ago | [Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions)/633 | Set of solutions for the Advanced R programming book |
+| 76 | 3 | 0 | a month ago | [nyhackr-docker-talk](https://github.com/noamross/nyhackr-docker-talk)/634 | Slides, Code, and Links to Resources from "Docker for the User," delivered at nyhackr 2018-07-11 |
+| 76 | 13 | 3 | 18 days ago | [decryptr](https://github.com/decryptr/decryptr)/635 | An extensible API for breaking captchas |
+| 76 | 19 | 10 | 8 months ago | [seasonal](https://github.com/christophsax/seasonal)/636 | R interface to X-13ARIMA-SEATS |
+| 76 | 59 | 0 | a month ago | [qqman](https://github.com/stephenturner/qqman)/637 | An R package for creating Q-Q and manhattan plots from GWAS results |
+| 76 | 25 | 10 | 11 months ago | [runr](https://github.com/yihui/runr)/638 | Run external programs from R (experimental) |
+| 76 | 74 | 0 | 3 years ago | [blenditbayes](https://github.com/woobe/blenditbayes)/639 | Code used in my blog "Blend it like a Bayesian!" |
+| 76 | 8 | 0 | 2 months ago | [LaCroixColoR](https://github.com/johannesbjork/LaCroixColoR)/640 | LaCroix Color Palettes for R. |
+| 76 | 22 | 0 | 11 months ago | [medium_visualization](https://github.com/ricardo-bion/medium_visualization)/641 | None |
+| 75 | 80 | 0 | 4 years ago | [Kaggle-AmazonChallenge2013](https://github.com/owenzhang/Kaggle-AmazonChallenge2013)/642 | my public kaggle code |
+| 75 | 27 | 19 | 5 days ago | [ganalytics](https://github.com/jdeboer/ganalytics)/643 | Interact with Google Analytics using R |
+| 75 | 13 | 8 | 17 days ago | [gistr](https://github.com/ropensci/gistr)/644 | Interact with GitHub gists from R |
+| 75 | 36 | 5 | 1 year, 5 months ago | [finstr](https://github.com/bergant/finstr)/645 | :chart_with_upwards_trend: Financial statements in R |
+| 75 | 25 | 13 | 2 years ago | [ggmcmc](https://github.com/xfim/ggmcmc)/646 | Graphical tools for analyzing Markov Chain Monte Carlo simulations from Bayesian inference |
+| 75 | 7 | 17 | 8 months ago | [debugme](https://github.com/r-lib/debugme)/647 | Easy and efficient debugging for R packages |
+| 75 | 38 | 2 | 8 months ago | [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny)/648 | To insert interactive charts from ECharts into R Shiny applications (在R Shiny app中插入ECharts可交互图形) |
+| 75 | 32 | 0 | 7 months ago | [datacamp](https://github.com/datacamp/datacamp)/649 | R package to create interactive courses for www.datacamp.com |
+| 74 | 27 | 11 | a month ago | [searchConsoleR](https://github.com/MarkEdmondson1234/searchConsoleR)/650 | R interface with Google Search Console API v3, including Search Analytics. |
+| 74 | 21 | 30 | 17 days ago | [xlconnect](https://github.com/miraisolutions/xlconnect)/651 | XLConnect: Excel Connector for R |
+| 74 | 16 | 4 | 4 months ago | [MTurkR](https://github.com/cloudyr/MTurkR)/652 | R Client for the MTurk Requester API |
+| 74 | 50 | 0 | 4 months ago | [Miscellaneous-R-Code](https://github.com/m-clark/Miscellaneous-R-Code)/653 | Code that might be useful to others for learning/demonstration purposes. |
+| 74 | 48 | 1 | 7 years ago | [r_recommendation_system](https://github.com/johnmyleswhite/r_recommendation_system)/654 | Data and code for the Dataists R recommendation system contest |
+| 74 | 29 | 18 | a month ago | [openWAR](https://github.com/beanumber/openWAR)/655 | An R package enabling the computation of openWAR using MLBAM data |
+| 74 | 19 | 48 | 8 months ago | [BatchJobs](https://github.com/tudo-r/BatchJobs)/656 | BatchJobs: Batch computing with R |
+| 74 | 7 | 0 | 18 days ago | [ggbash](https://github.com/caprice-j/ggbash)/657 | A simpler ggplot2 syntax, saving half of your typing. |
+| 73 | 9 | 2 | a month ago | [ggfittext](https://github.com/wilkox/ggfittext)/658 | 🔠 ggplot2 geoms to fit text into boxes |
+| 73 | 40 | 2 | 4 months ago | [WDI](https://github.com/vincentarelbundock/WDI)/659 | None |
+| 73 | 27 | 3 | 2 months ago | [openpolicing](https://github.com/5harad/openpolicing)/660 | The Stanford Open Policing Project - https://openpolicing.stanford.edu |
+| 73 | 30 | 1 | 23 days ago | [RTutor](https://github.com/skranz/RTutor)/661 | Creating interactive R Problem Sets. Automatic hints and solution checks. (Shiny or RStudio) |
+| 73 | 15 | 5 | 3 years ago | [ggsubplot](https://github.com/garrettgman/ggsubplot)/662 | Embed subplots in ggplot2 graphics in R |
+| 73 | 10 | 0 | 17 days ago | [billboarder](https://github.com/dreamRs/billboarder)/663 | :bar_chart: Htmlwidget for billboard.js |
+| 72 | 21 | 7 | 1 year, 1 month ago | [ggplotgui](https://github.com/gertstulp/ggplotgui)/664 | ggplotgui |
+| 72 | 16 | 2 | 5 years ago | [medley](https://github.com/mewo2/medley)/665 | A system for blending regression models in R |
+| 72 | 5 | 4 | a month ago | [lemon](https://github.com/stefanedwards/lemon)/666 | 🍊 Lemon --- Freshing up your ggplots |
+| 72 | 10 | 2 | a month ago | [clipr](https://github.com/mdlincoln/clipr)/667 | R functions for reading and writing from the system clipboard |
+| 72 | 25 | 5 | 6 hours ago | [glmm-course](https://github.com/seananderson/glmm-course)/668 | Workshop exercises on regression, GLMs, mixed-effects models, and GLMMs in R |
+| 72 | 4 | 2 | 5 months ago | [particles](https://github.com/thomasp85/particles)/669 | A particle simulation engine based on a port of d3-force |
+| 72 | 5 | 11 | 9 months ago | [llr](https://github.com/dirkschumacher/llr)/670 | Lisp-like-R: A lisp that compiles to R in R |
+| 72 | 14 | 3 | 16 days ago | [GLM](https://github.com/bwlewis/GLM)/671 | Notes on generalized linear models |
+| 72 | 17 | 8 | 2 years ago | [shinyURL](https://github.com/aoles/shinyURL)/672 | :link: Save and restore the state of Shiny app's widgets by encoding them in an URL query string |
+| 72 | 5 | 0 | 1 year, 11 months ago | [intubate](https://github.com/rbertolusso/intubate)/673 | <||> Interfaces to Popular R Functions for Data Science Pipelines, and More |
+| 72 | 24 | 21 | 4 days ago | [shinyFiles](https://github.com/thomasp85/shinyFiles)/674 | A shiny extension for server side file access |
+| 72 | 51 | 8 | 5 years ago | [ggplot2-translation](https://github.com/cosname/ggplot2-translation)/675 | ggplot2一书中文翻译的项目文件 |
+| 72 | 16 | 11 | 2 months ago | [sp](https://github.com/edzer/sp)/676 | Classes and methods for spatial data |
+| 72 | 8 | 17 | 1 year, 1 month ago | [loggr](https://github.com/smbache/loggr)/677 | Easy and flexible logging for R |
+| 72 | 133 | 0 | 1 year, 7 months ago | [Programming-in-R-for-Data-Science](https://github.com/MicrosoftLearning/Programming-in-R-for-Data-Science)/678 | None |
+| 71 | 6 | 27 | 3 days ago | [charlatan](https://github.com/ropensci/charlatan)/679 | Create fake data in R |
+| 71 | 24 | 5 | 4 days ago | [minion_qc](https://github.com/roblanf/minion_qc)/680 | Quality control for MinION sequencing data |
+| 71 | 2 | 8 | 4 days ago | [stevedore](https://github.com/richfitz/stevedore)/681 | :cloud::rowboat::whale::cloud: Docker client for R |
+| 71 | 25 | 10 | 2 days ago | [rsdmx](https://github.com/opensdmx/rsdmx)/682 | Tools for reading SDMX data and metadata in R |
+| 71 | 48 | 5 | 1 year, 4 months ago | [babynames](https://github.com/hadley/babynames)/683 | An R package contain all baby names data from the SSA |
+| 71 | 38 | 0 | 17 hours ago | [mirt](https://github.com/philchalmers/mirt)/684 | Multidimensional item response theory |
+| 71 | 21 | 3 | a month ago | [ob-analytics](https://github.com/phil8192/ob-analytics)/685 | Limit order book event processing and visualisation |
+| 71 | 29 | 20 | 8 months ago | [shinyforms](https://github.com/daattali/shinyforms)/686 | Easily create questionnaire-type forms with Shiny  |
+| 70 | 4 | 0 | 20 hours ago | [cholera](https://github.com/lindbrook/cholera)/687 | R Package for Analyzing John Snow's 1854 Cholera Map |
+| 70 | 6 | 1 | 2 months ago | [gistfo](https://github.com/MilesMcBain/gistfo)/688 | Turn your RStudio untitled tabs into gists. You monsters. |
+| 70 | 414 | 3 | 3 years ago | [Coursera-R-Programming](https://github.com/Xiaodan/Coursera-R-Programming)/689 | Repo for Coursera.com online course: R Programming |
+| 70 | 15 | 14 | 5 months ago | [pavian](https://github.com/fbreitwieser/pavian)/690 | 🌈 Interactive analysis of metagenomics data |
+| 70 | 10 | 10 | 2 months ago | [FFTrees](https://github.com/ndphillips/FFTrees)/691 | An R package to create and visualise fast-and-frugal decision trees (FFTs) |
+| 70 | 11 | 5 | 1 year, 6 months ago | [ezknitr](https://github.com/ropensci/ezknitr)/692 | Avoid the typical working directory pain when using 'knitr' |
+| 70 | 9 | 5 | 6 months ago | [tabplot](https://github.com/mtennekes/tabplot)/693 | R package for tableplot visualisation |
+| 70 | 6 | 22 | 5 days ago | [vdiffr](https://github.com/lionel-/vdiffr)/694 | Visual regression testing and graphical diffing with testthat |
+| 69 | 20 | 10 | 1 year, 10 months ago | [redshift-r](https://github.com/pingles/redshift-r)/695 | Small R package for accessing Redshift |
+| 69 | 7 | 7 | 4 days ago | [newsflash](https://github.com/hrbrmstr/newsflash)/696 | Tools to Work with the Internet Archive and GDELT Television Explorer in R |
+| 69 | 455 | 0 | 4 years ago | [GettingAndCleaningData](https://github.com/benjamin-chan/GettingAndCleaningData)/697 | Repository for Coursera course Getting and Cleaning Data. |
+| 69 | 13 | 16 | 5 days ago | [shinyMlr](https://github.com/mlr-org/shinyMlr)/698 | shiny-mlr: Integration of the mlr package into shiny |
+| 69 | 15 | 4 | 2 months ago | [textnets](https://github.com/cbail/textnets)/699 | R package to perform automated text analysis using network techniques |
+| 69 | 17 | 7 | 8 months ago | [statebins](https://github.com/hrbrmstr/statebins)/700 | Alternative to choropleths of US States ala http://bit.ly/statebins |
+| 55 | 7 | 0 | 2 days ago | [wrapr](https://github.com/WinVector/wrapr)/701 | Wrap R Functions for Debugging and Ease of Use |
+| 55 | 32 | 23 | 8 hours ago | [microdadosBrasil](https://github.com/lucasmation/microdadosBrasil)/702 | Reads most common Brazilian public microdata (CENSO, PNAD, etc) easy and fast |
+| 55 | 43 | 0 | 1 year, 10 months ago | [shinythemes](https://github.com/rstudio/shinythemes)/703 | Themes for Shiny |
+| 54 | 0 | 0 | 3 years ago | [pride](https://github.com/chrisnager/pride)/704 | Simple hack to display the colors of the rainbow flag in the GitHub language bar. #lovewins |
+| 54 | 23 | 16 | 3 years ago | [nozzle](https://github.com/parklab/nozzle)/705 | Nozzle is a report generation toolkit for data analysis pipelines implemented in R. |
+| 54 | 42 | 5 | 2 months ago | [CIDA-Viz](https://github.com/USGS-VIZLAB/CIDA-Viz)/706 | Datasets and docs for CIDA's data visualization challenge |
+| 54 | 9 | 8 | 4 days ago | [withr](https://github.com/r-lib/withr)/707 | Methods For Temporarily Modifying Global State |
+| 54 | 4 | 1 | 1 year, 6 months ago | [USA.county.data](https://github.com/Deleetdk/USA.county.data)/708 | Open dataset of counties from the United States |
+| 54 | 16 | 0 | 2 months ago | [beer-data-science](https://github.com/aedobbyn/beer-data-science)/709 | Various forays into the data science of beer.  |
+| 54 | 5 | 4 | 2 days ago | [snakecase](https://github.com/Tazinho/snakecase)/710 | 🐍🐍🐍 A systematic approach to parse strings and automate the conversion to snake_case, UpperCamelCase or any other case. |
+| 54 | 17 | 5 | a day ago | [sjmisc](https://github.com/strengejacke/sjmisc)/711 | Data transformation and utility functions for R |
+| 54 | 24 | 2 | a month ago | [tutorial](https://github.com/datacamp/tutorial)/712 | R Package to convert R Markdown files to DataCamp Light HTML files |
+| 54 | 8 | 21 | a month ago | [pRojects](https://github.com/lockedata/pRojects)/713 | R Package 📦 for making projects for various R activities :nut_and_bolt: |
+| 54 | 28 | 3 | 1 year, 6 months ago | [R-Programs](https://github.com/ezgraphs/R-Programs)/714 | A Variety of R Programs |
+| 54 | 10 | 13 | a month ago | [solrium](https://github.com/ropensci/solrium)/715 | A general purpose R interface to Solr |
+| 53 | 8 | 1 | 2 years ago | [glider_4](https://github.com/softdorothy/glider_4)/716 | Original sources to Glider 4.0 by John Calhoun, originally published by Casady & Green Inc. |
+| 53 | 9 | 1 | a month ago | [paletter](https://github.com/AndreaCirilloAC/paletter)/717 | build your palette from a picture √ |
+| 53 | 13 | 0 | 4 months ago | [travelling-salesman-portrait](https://github.com/aschinchon/travelling-salesman-portrait)/718 | An experiment in R to convert photos into single-line-drawings |
+| 53 | 0 | 2 | 1 year, 2 months ago | [aargh](https://github.com/jeremystan/aargh)/719 | Easily Expose R Functions to Command Line Arguments |
+| 53 | 3 | 0 | 2 months ago | [gggenes](https://github.com/wilkox/gggenes)/720 | ➡️️➡️️⬅️️➡️️ Draw gene arrow maps in ggplot2 |
+| 53 | 23 | 5 | 6 days ago | [SpiecEasi](https://github.com/zdk123/SpiecEasi)/721 | Sparse InversE Covariance estimation for Ecological Association and Statistical Inference |
+| 53 | 17 | 6 | a month ago | [regtools](https://github.com/matloff/regtools)/722 | Various tools for linear, nonlinear and nonparametric regression. |
+| 53 | 14 | 2 | 2 months ago | [breakDown](https://github.com/pbiecek/breakDown)/723 | Model Agnostics breakDown plots |
+| 53 | 131 | 2 | a year ago | [IntroToTextAnalyticsWithR](https://github.com/datasciencedojo/IntroToTextAnalyticsWithR)/724 | Public repo for the Data Science Dojo YouTube tutorial series "Introduction to Text Analytics with R". |
+| 53 | 56 | 0 | 10 months ago | [telco-customer-churn-in-r-and-h2o](https://github.com/WLOGSolutions/telco-customer-churn-in-r-and-h2o)/725 | Showcase for using H2O and R for churn prediction (inspired by ZhouFang928 examples) |
+| 53 | 12 | 12 | 2 days ago | [phangorn](https://github.com/KlausVigo/phangorn)/726 | Phylogenetic analysis in R |
+| 52 | 48 | 0 | 2 years ago | [AzureML-Regression-Example](https://github.com/Quantia-Analytics/AzureML-Regression-Example)/727 | This repo contains all the code and data necessary to explore non-linear regression using Azure ML. |
+| 52 | 3 | 4 | a day ago | [ellipsis](https://github.com/hadley/ellipsis)/728 | Tools for Working with ... |
+| 52 | 8 | 29 | 3 months ago | [rcmdcheck](https://github.com/r-lib/rcmdcheck)/729 | Run R CMD check from R and collect the results |
+| 52 | 8 | 14 | 2 months ago | [etl](https://github.com/beanumber/etl)/730 | R package to facilitate ETL operations |
+| 52 | 5 | 3 | 1 year, 1 month ago | [dpmr](https://github.com/christophergandrud/dpmr)/731 | Data Package Manager for R |
+| 52 | 7 | 3 | 13 days ago | [shinydashboardPlus](https://github.com/DivadNojnarg/shinydashboardPlus)/732 | extensions for shinydashboard |
+| 52 | 3 | 0 | a month ago | [anicon](https://github.com/emitanaka/anicon)/733 | Animated icons for R markdown and Shiny apps |
+| 52 | 10 | 1 | 3 years ago | [stackr](https://github.com/dgrtwo/stackr)/734 | R package for connecting to the Stack Exchange API |
+| 52 | 5 | 3 | 2 months ago | [mschart](https://github.com/ardata-fr/mschart)/735 | :bar_chart: mschart: office charts from R |
+| 52 | 14 | 2 | 1 year, 5 months ago | [old-diversity-dashboard](https://github.com/bufferapp/old-diversity-dashboard)/736 | None |
+| 52 | 12 | 1 | 27 days ago | [shiny.router](https://github.com/Appsilon/shiny.router)/737 | A minimalistic router for your Shiny apps. |
+| 52 | 11 | 5 | 2 months ago | [ggimage](https://github.com/GuangchuangYu/ggimage)/738 | :art: Use Images in ggplot2 |
+| 52 | 13 | 21 | 1 year, 1 month ago | [rBayesianOptimization](https://github.com/yanyachen/rBayesianOptimization)/739 | Bayesian Optimization of Hyperparameters |
+| 52 | 20 | 12 | a month ago | [vcfR](https://github.com/knausb/vcfR)/740 | Tools to work with variant call format files |
+| 52 | 27 | 8 | 2 years ago | [RHIPE](https://github.com/delta-rho/RHIPE)/741 | R and Hadoop Integrated Programming Environment |
+| 52 | 4 | 4 | 8 hours ago | [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics)/742 | Landscape Metrics for Categorical Map Patterns 🗺️ in R |
+| 52 | 29 | 0 | 2 years ago | [misc](https://github.com/petewerner/misc)/743 | Miscellany, mostly code supporting blog posts |
+| 52 | 22 | 2 | 1 year, 3 months ago | [baidumap](https://github.com/badbye/baidumap)/744 | R interface of baidu map api |
+| 52 | 10 | 4 | 1 year, 4 months ago | [ggdendro](https://github.com/andrie/ggdendro)/745 | Tools to extract dendrogram plot data for use with ggplot |
+| 52 | 10 | 1 | 21 days ago | [osrm](https://github.com/rCarto/osrm)/746 | :twisted_rightwards_arrows: Shortest Paths and Travel Time from OpenStreetMap with R |
+| 51 | 1 | 3 | 4 months ago | [colourlovers](https://github.com/leeper/colourlovers)/747 | R Client for the COLOURlovers API |
+| 51 | 17 | 11 | 1 year, 4 months ago | [radarchart](https://github.com/MangoTheCat/radarchart)/748 | Implementation of the radar chart from chart.js library |
+| 51 | 60 | 25 | 2 months ago | [methylKit](https://github.com/al2na/methylKit)/749 | R package for DNA methylation analysis |
+| 51 | 17 | 10 | 17 days ago | [MODIStsp](https://github.com/ropensci/MODIStsp)/750 | An "R" package for automatic download and preprocessing of MODIS Land Products Time Series |
+| 51 | 23 | 27 | a day ago | [adegenet](https://github.com/thibautjombart/adegenet)/751 | adegenet: a R package for the multivariate analysis of genetic markers |
+| 51 | 12 | 0 | 7 days ago | [rscala](https://github.com/dbdahl/rscala)/752 | The Scala interpreter is embedded in R and callbacks to R from the embedded interpreter are supported. Conversely, the R interpreter is embedded in Scala. |
+| 51 | 57 | 1 | 1 year, 3 months ago | [emojis](https://github.com/today-is-a-good-day/emojis)/753 | Set up a proper Emoticons dictionary for R to analyze emojis in tweets |
+| 51 | 5 | 3 | 2 days ago | [fasster](https://github.com/tidyverts/fasster)/754 | Forecasting with Additive Switching of Seasonality, Trend and Exogenous Regressors |
+| 51 | 17 | 19 | 2 years ago | [dplyr-spark](https://github.com/RevolutionAnalytics/dplyr-spark)/755 | spark backend for dplyr |
+| 51 | 6 | 0 | 9 months ago | [linemap](https://github.com/rCarto/linemap)/756 | :aquarius: Create maps made of lines |
+| 51 | 12 | 0 | a month ago | [the-lancet-2018](https://github.com/ikashnitsky/the-lancet-2018)/757 | Reproduce "Regional population structures at a glance" |
+| 51 | 13 | 0 | 1 year, 4 months ago | [geoChina](https://github.com/caijun/geoChina)/758 | An R package for geocoding address by calling the Google or Baidu Geocoding API and coordinate conversions for WGS-84, GCJ-02 and BD-09 geodetic system |
+| 51 | 12 | 6 | 5 days ago | [censusapi](https://github.com/hrecht/censusapi)/759 | R package to retrieve Census data and metadata via API |
+| 51 | 25 | 2 | 2 years ago | [datamicroarray](https://github.com/ramhiser/datamicroarray)/760 | A collection of small-sample, high-dimensional microarray data sets to assess machine-learning algorithms and models. |
+| 51 | 32 | 0 | 1 year, 8 months ago | [mro](https://github.com/nbrgraphs/mro)/761 | Creating Effective Graphs with Microsoft R Open |
+| 51 | 24 | 6 | a month ago | [clonevol](https://github.com/hdng/clonevol)/762 | Inferring and visualizing clonal evolution in multi-sample cancer sequencing |
+| 51 | 0 | 1 | 8 months ago | [swatches](https://github.com/hrbrmstr/swatches)/763 | 🎨 Read, Inspect, and Manipulate Color Swatch Files |
+| 51 | 4 | 26 | a month ago | [dataspice](https://github.com/ropenscilabs/dataspice)/764 | :hot_pepper: Create lightweight schema.org descriptions of dataset |
+| 50 | 15 | 3 | 3 years ago | [Rkoans](https://github.com/DASpringate/Rkoans)/765 | R Koans: An interactive R tutorial |
+| 50 | 6 | 1 | 10 months ago | [orangetext](https://github.com/hrbrmstr/orangetext)/766 | 🍊📄 : An #rstats project to keep track of The 🍊 One's speeches  |
+| 50 | 14 | 4 | 1 year, 10 months ago | [R.matlab](https://github.com/HenrikBengtsson/R.matlab)/767 | R package: R.matlab |
+| 50 | 4 | 1 | 1 year, 5 months ago | [ggcal](https://github.com/jayjacobs/ggcal)/768 | Generate simple calendar plots using ggplot2 |
+| 50 | 20 | 4 | 1 year, 9 months ago | [Rbitcoin](https://github.com/jangorecki/Rbitcoin)/769 | R & bitcoin integration |
+| 50 | 7 | 6 | 2 months ago | [tsbox](https://github.com/christophsax/tsbox)/770 | tsbox: Class-Agnostic Time Series in R |
+| 50 | 92 | 1 | 3 years ago | [Learning-RSpark](https://github.com/CjTouzi/Learning-RSpark)/771 | None |
+| 50 | 37 | 36 | 1 year, 4 months ago | [caret-machine-learning](https://github.com/tobigithub/caret-machine-learning)/772 | Practical examples for the R caret machine learning package |
+| 50 | 15 | 0 | 2 years ago | [ggplot2-theme](https://github.com/r4ecology/ggplot2-theme)/773 | a ggplot2 designed to make it easier to create publication quality figures |
+| 50 | 2 | 7 | a day ago | [fabricatr](https://github.com/DeclareDesign/fabricatr)/774 | Imagine Your Data Before You Collect It |
+| 50 | 50 | 2 | 6 years ago | [Mining_Twitter](https://github.com/gastonstat/Mining_Twitter)/775 | R scripts describing several options to do twitter analysis in R |
+| 50 | 18 | 12 | a month ago | [deconstructSigs](https://github.com/raerose01/deconstructSigs)/776 | deconstructSigs |
+| 50 | 13 | 18 | a day ago | [EpiModel](https://github.com/statnet/EpiModel)/777 | Mathematical Modeling of Infectious Disease Dynamics |
+| 50 | 39 | 0 | a month ago | [RExRepos](https://github.com/dwoll/RExRepos)/778 | R Examples Repository |
+| 50 | 7 | 12 | 3 months ago | [BASiCS](https://github.com/catavallejos/BASiCS)/779 | BASiCS: Bayesian Analysis of Single-Cell Sequencing Data. This is an unstable experimental version. Please see http://bioconductor.org/packages/BASiCS/ for the official release version |
+| 50 | 38 | 0 | 3 months ago | [spatial-microsim-book](https://github.com/Robinlovelace/spatial-microsim-book)/780 | Code, data and prose of the book: Spatial Microsimulation with R |
+| 50 | 40 | 0 | a month ago | [myBooks](https://github.com/williamlfang/myBooks)/781 | None |
+| 50 | 4 | 8 | 6 hours ago | [JuliaCall](https://github.com/Non-Contradiction/JuliaCall)/782 | Embed Julia in R |
+| 49 | 71 | 3 | 1 year, 10 months ago | [programacion-estadistica-r](https://github.com/ifunam/programacion-estadistica-r)/783 | None |
+| 49 | 11 | 7 | a month ago | [r2pmml](https://github.com/jpmml/r2pmml)/784 | R library for converting R models to PMML |
+| 49 | 19 | 1 | 1 year, 2 months ago | [getting-started-bigquery](https://github.com/googlegenomics/getting-started-bigquery)/785 | Examples of how to get started with genomics data in BigQuery in many languages. |
+| 49 | 2 | 2 | a day ago | [decapitated](https://github.com/hrbrmstr/decapitated)/786 | Headless 'Chrome' Orchestration in R |
+| 49 | 6 | 7 | 2 months ago | [darksky](https://github.com/hrbrmstr/darksky)/787 | :cloud: R interface to the Dark Sky API |
+| 49 | 20 | 39 | 26 days ago | [piecewiseSEM](https://github.com/jslefche/piecewiseSEM)/788 | Piecewise Structural Equation Modeling in R |
+| 49 | 27 | 0 | 8 months ago | [I_LOVE_IKEA_SHINY_APP](https://github.com/longhowlam/I_LOVE_IKEA_SHINY_APP)/789 | hackaton shiny app |
+| 49 | 22 | 3 | 5 years ago | [rHighcharts](https://github.com/metagraf/rHighcharts)/790 | An R wrapper for Highcharts JS |
+| 49 | 15 | 3 | 5 months ago | [annotables](https://github.com/stephenturner/annotables)/791 | R data package for annotating/converting Gene IDs |
+| 49 | 7 | 6 | a month ago | [Metrics](https://github.com/mfrasco/Metrics)/792 | An R package for common supervised machine learning metrics. |
+| 49 | 18 | 0 | 6 years ago | [bayesian_nonparametrics](https://github.com/johnmyleswhite/bayesian_nonparametrics)/793 | Slides and code for Bayesian nonparametrics in R and Julia |
+| 49 | 5 | 4 | 24 days ago | [remoter](https://github.com/RBigData/remoter)/794 | Control a remote R session from your local R session. |
+| 49 | 8 | 10 | 1 year, 7 days ago | [grateful](https://github.com/Pakillo/grateful)/795 | Facilitate citation of R packages |
+| 49 | 3 | 14 | a month ago | [clustermq](https://github.com/mschubert/clustermq)/796 | R package to send function calls as jobs on LSF, SGE, Slurm, PBS/Torque, or each via SSH |
+| 49 | 2 | 1 | 6 years ago | [rRack](https://github.com/jeffreyhorner/rRack)/797 | A web server interface for the R language |
+| 49 | 8 | 6 | 14 days ago | [olsrr](https://github.com/rsquaredacademy/olsrr)/798 | Tools for developing OLS regression models |
+| 49 | 6 | 10 | 2 months ago | [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts)/799 | None |
+| 49 | 81 | 0 | 2 months ago | [DataWarehouse](https://github.com/ljtyduyu/DataWarehouse)/800 | DataSource |
+| 60 | 21 | 6 | 30 days ago | [poweRlaw](https://github.com/csgillespie/poweRlaw)/801 | This package implements both the discrete and continuous maximum likelihood estimators for fitting the power-law distribution to data. Additionally, a goodness-of-fit based approach is used to estimate the lower cutoff for the scaling region. |
+| 60 | 5 | 9 | 2 months ago | [future.apply](https://github.com/HenrikBengtsson/future.apply)/802 | :rocket: R package: future.apply -  Apply Function to Elements in Parallel using Futures |
+| 60 | 10 | 1 | 1 year, 7 months ago | [election-history](https://github.com/zonination/election-history)/803 | US Presidential Elections since 1789 |
+| 60 | 12 | 7 | 11 months ago | [repurrrsive](https://github.com/jennybc/repurrrsive)/804 | Recursive lists to use in teaching and examples |
+| 60 | 1 | 0 | 9 days ago | [polite](https://github.com/dmi3kno/polite)/805 | Be nice on the web |
+| 60 | 54 | 2 | 8 months ago | [h2o](https://github.com/DarrenCook/h2o)/806 | For the "Practical Machine Learning with H2O" book, to be published by O'Reilly (ISBN, etc. coming soon) |
+| 60 | 32 | 1 | 1 year, 5 months ago | [sciclone](https://github.com/genome/sciclone)/807 | An R package for inferring the subclonal architecture of tumors |
+| 60 | 8 | 14 | 2 months ago | [storr](https://github.com/richfitz/storr)/808 | :package: Object cacher for R |
+| 60 | 45 | 0 | 18 days ago | [qss](https://github.com/kosukeimai/qss)/809 | Supplementary Materials for ``Quantitative Social Science: An Introduction'' |
+| 60 | 14 | 5 | 10 days ago | [spotifyr](https://github.com/charlie86/spotifyr)/810 | R wrapper for Spotify's Web API |
+| 60 | 5 | 19 | 19 hours ago | [mapdeck](https://github.com/SymbolixAU/mapdeck)/811 | R interface to Deck.gl  |
+| 60 | 26 | 0 | 24 days ago | [ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data)/812 | Code and data used to create the examples in "Evidence-based Software Engineering using R" |
+| 60 | 19 | 5 | 3 months ago | [miniUI](https://github.com/rstudio/miniUI)/813 | None |
+| 60 | 23 | 6 | 2 months ago | [hts](https://github.com/earowang/hts)/814 | Hierarchical and Grouped Time Series |
+| 60 | 5 | 0 | 8 months ago | [xray](https://github.com/sicarul/xray)/815 | xray: The R Package to have X Ray vision on your datasets |
+| 60 | 9 | 11 | 10 days ago | [dropSeqPipe](https://github.com/Hoohm/dropSeqPipe)/816 | A SingleCell RNASeq pre-processing pipeline built on snakemake |
+| 60 | 13 | 13 | 8 months ago | [D3TableFilter](https://github.com/ThomasSiegmund/D3TableFilter)/817 | A table widget based on Max Guglielmi's "HTML Table Filter Generator"     and D3.js |
+| 59 | 27 | 1 | 1 year, 4 months ago | [Rtraining](https://github.com/stephlocke/Rtraining)/818 | R training materials developed by Steph Locke |
+| 59 | 10 | 5 | 4 years ago | [ggcounty](https://github.com/hrbrmstr/ggcounty)/819 | :globe_with_meridians: Generate ggplot2 geom_map county maps |
+| 59 | 24 | 22 | 21 days ago | [ckanr](https://github.com/ropensci/ckanr)/820 | R client for the CKAN REST API |
+| 59 | 108 | 9 | 8 months ago | [Doit_R](https://github.com/youngwoos/Doit_R)/821 | <Do it! 쉽게 배우는 R 데이터 분석> 저장소 |
+| 59 | 62 | 1 | 10 months ago | [dengyishuo.github.com](https://github.com/dengyishuo/dengyishuo.github.com)/822 | 邓一硕的博客 |
+| 59 | 15 | 5 | 2 years ago | [tidyshiny](https://github.com/MangoTheCat/tidyshiny)/823 | Interactively generate function calls for the tidyr package |
+| 59 | 2 | 11 | 9 days ago | [splashr](https://github.com/hrbrmstr/splashr)/824 | :sweat_drops: Tools to Work with the 'Splash' JavaScript Rendering Service in R |
+| 59 | 8 | 3 | a month ago | [EnrichedHeatmap](https://github.com/jokergoo/EnrichedHeatmap)/825 | make enriched heatmap which visualizes the enrichment of genomic signals to specific target regions. |
+| 59 | 4 | 10 | 4 months ago | [rintrojs](https://github.com/carlganz/rintrojs)/826 | Wrapper for the Intro.js library |
+| 59 | 20 | 4 | 8 months ago | [randomForestCI](https://github.com/swager/randomForestCI)/827 | This package is DEPRECATED. Please use the packages `grf` or `ranger` instead, which have built-in confidence intervals. |
+| 59 | 21 | 2 | 2 months ago | [fgsea](https://github.com/ctlab/fgsea)/828 | Fast Gene Set Enrichment Analysis |
+| 59 | 17 | 3 | 4 days ago | [pophelper](https://github.com/royfrancis/pophelper)/829 | An R package to analyse and visualise admixture proportions from STRUCTURE, fastSTRUCTURE, TESS, ADMIXTURE etc. |
+| 59 | 16 | 2 | 3 years ago | [osd-building-footprints](https://github.com/Chicago/osd-building-footprints)/830 | Open source release of building footprints in Chicago. |
+| 59 | 24 | 13 | a day ago | [oce](https://github.com/dankelley/oce)/831 | R package for oceanographic processing |
+| 59 | 4 | 1 | 4 months ago | [markovifyR](https://github.com/abresler/markovifyR)/832 | Markovify wrapper for R |
+| 59 | 10 | 8 | 1 year, 2 months ago | [twidlr](https://github.com/drsimonj/twidlr)/833 | data.frame-based API for model and predict functions |
+| 59 | 22 | 15 | 2 months ago | [SplitR](https://github.com/rich-iannone/SplitR)/834 | Use the HYSPLIT model from inside R and do more with it |
+| 58 | 60 | 0 | 2 years ago | [DSTrading](https://github.com/IlyaKipnis/DSTrading)/835 | Digital Signal Trading (John Ehlers indicators) |
+| 58 | 22 | 19 | 3 months ago | [microbiome](https://github.com/microbiome/microbiome)/836 | microbiome R package |
+| 58 | 16 | 0 | 1 year, 10 months ago | [GeospatialLineGraphs](https://github.com/Brideau/GeospatialLineGraphs)/837 | A library for creating geospatial line graphs along lines of latitude. |
+| 58 | 11 | 6 | 3 months ago | [desc](https://github.com/r-lib/desc)/838 | Manipulate DESCRIPTION files |
+| 58 | 40 | 1 | 1 year, 2 months ago | [QuantInsti-Final-Project-Statistical-Arbitrage](https://github.com/Jackal08/QuantInsti-Final-Project-Statistical-Arbitrage)/839 | QuantInsti EPAT: Final Project on Statistical Arbitrage  |
+| 58 | 8 | 9 | 1 year, 3 months ago | [flowr](https://github.com/sahilseth/flowr)/840 | Robust and efficient workflows using a simple language agnostic approach |
+| 58 | 14 | 2 | 7 months ago | [presidential_election_county_results_2016](https://github.com/mkearney/presidential_election_county_results_2016)/841 | 🏁 presidential_election_county_results_2016 |
+| 58 | 12 | 4 | 7 months ago | [shot-by-cops](https://github.com/vicenews/shot-by-cops)/842 | None |
+| 58 | 1 | 0 | 22 days ago | [textfeatures](https://github.com/mkearney/textfeatures)/843 | 👷‍♂️ A simple package for extracting useful features from character objects 👷‍♀️ |
+| 58 | 13 | 14 | 4 months ago | [historydata](https://github.com/ropensci/historydata)/844 | Datasets for Historians |
+| 58 | 67 | 0 | a month ago | [nycflights13](https://github.com/hadley/nycflights13)/845 | An R data package containing all out-bound flights from NYC in 2013 + useful metdata |
+| 58 | 29 | 0 | 4 days ago | [spatstat](https://github.com/spatstat/spatstat)/846 | Development version of 'spatstat' package ..............................                         |
+| 58 | 110 | 9 | 3 years ago | [googleCharts](https://github.com/jcheng5/googleCharts)/847 | Google Charts bindings for the Shiny web framework for R |
+| 58 | 14 | 7 | 3 years ago | [shinyStore](https://github.com/trestletech/shinyStore)/848 | R package that adds HTML5 Local Storage support to Shiny |
+| 57 | 142 | 1 | 1 year, 2 months ago | [meetup](https://github.com/datasciencedojo/meetup)/849 | None |
+| 57 | 25 | 37 | 1 year, 10 months ago | [bfastSpatial](https://github.com/loicdtx/bfastSpatial)/850 | Set of utilities and wrappers to perform change detection on satellite image time-series (Landsat and MODIS). Includes pre-processing steps and functions for spatial implementation of bfastmonitor change detection and post processing of the results. |
+| 57 | 33 | 2 | 3 years ago | [rr-init](https://github.com/Reproducible-Science-Curriculum/rr-init)/851 | Research project initialization and organization following reproducible research guidelines  |
+| 57 | 18 | 0 | 1 year, 1 month ago | [stan-statespace](https://github.com/sinhrks/stan-statespace)/852 | Stan models for state space time series |
+| 57 | 9 | 0 | 3 months ago | [mapmate](https://github.com/leonawicz/mapmate)/853 | mapmate is an R package for generating and saving a sequence of plots to disk as a still image sequence intended for later use in data animation production. |
+| 57 | 33 | 17 | 6 months ago | [polyester](https://github.com/alyssafrazee/polyester)/854 | Bioconductor package "polyester", devel version. RNA-seq read simulator.  |
+| 57 | 37 | 0 | 1 year, 8 days ago | [Learn-Bioinformatics](https://github.com/xuzhougeng/Learn-Bioinformatics)/855 | None |
+| 57 | 17 | 1 | 9 months ago | [rpushbullet](https://github.com/eddelbuettel/rpushbullet)/856 | R interface to the awesome Pushbullet service |
+| 57 | 17 | 5 | 3 years ago | [arcdiagram](https://github.com/gastonstat/arcdiagram)/857 | R package arcdiagram |
+| 57 | 2 | 0 | a month ago | [multiscales](https://github.com/clauswilke/multiscales)/858 | Multivariate scales for ggplot2 |
+| 57 | 4 | 3 | 2 months ago | [bib2df](https://github.com/ropensci/bib2df)/859 | Parse a BibTeX file to a tibble |
+| 57 | 23 | 13 | 10 hours ago | [ANTsR](https://github.com/ANTsX/ANTsR)/860 | Advanced Normalization Tools in R |
+| 57 | 11 | 1 | 3 years ago | [rPlotter](https://github.com/woobe/rPlotter)/861 | Wrapper functions that make plotting in R a lot easier for beginners. |
+| 57 | 18 | 5 | 1 year, 2 months ago | [fishplot](https://github.com/chrisamiller/fishplot)/862 | Create timecourse "fish plots" that show changes in the clonal architecture of tumors |
+| 57 | 34 | 34 | a month ago | [quantstrat](https://github.com/braverock/quantstrat)/863 | None |
+| 57 | 10 | 15 | a month ago | [irlba](https://github.com/bwlewis/irlba)/864 | Fast truncated singular value decompositions |
+| 56 | 1 | 3 | 2 years ago | [needs](https://github.com/joshkatz/needs)/865 | An R function for safe package loading / installation. |
+| 56 | 17 | 1 | 1 year, 27 days ago | [HiveR](https://github.com/bryanhanson/HiveR)/866 | An R package for creating and plotting 2D and 3D hive plots. |
+| 56 | 15 | 0 | 2 years ago | [R-Network-Visualization-Basics-to-Advanced](https://github.com/kateto/R-Network-Visualization-Basics-to-Advanced)/867 | Basic and advanced network visualization with R - code and tutorial from my Sunbelt 2016 workshop.  |
+| 56 | 7 | 16 | 8 months ago | [Rperform](https://github.com/analyticalmonk/Rperform)/868 | :bar_chart: R package for tracking performance metrics across git versions and branches. |
+| 56 | 2 | 4 | a month ago | [shinycustomloader](https://github.com/emitanaka/shinycustomloader)/869 | Add a custom loader for R shiny |
+| 56 | 39 | 27 | a month ago | [AzureSMR](https://github.com/Microsoft/AzureSMR)/870 | R Package for managing a selection of Azure resources. Targeted at Data Scientists who need to control Azure Resources without needing to both Administrators. APIs include Storage Blobs, HDInsight(Nodes, Hive, Spark), ARM, VMs |
+| 56 | 4 | 2 | 7 days ago | [ggrastr](https://github.com/VPetukhov/ggrastr)/871 | Raster geoms for ggplot2 |
+| 56 | 57 | 0 | 2 months ago | [qrm](https://github.com/qrmtutorial/qrm)/872 | qrm |
+| 56 | 38 | 5 | 5 years ago | [cartodb-r](https://github.com/CartoDB/cartodb-r)/873 | R package to interface with CartoDB |
+| 55 | 13 | 0 | 4 years ago | [theme_fivethirtyeight](https://github.com/alex23lemm/theme_fivethirtyeight)/874 | ggplot2 theme that mimics themes of fivethirtyeight.com plots |
+| 55 | 1 | 4 | 3 months ago | [trackmd](https://github.com/ropenscilabs/trackmd)/875 | Tools for tracking changes in Markdown format within RStudio |
+| 55 | 22 | 4 | a month ago | [leafletR](https://github.com/chgrl/leafletR)/876 | An R package to create interactive web-maps based on the Leaflet JavaScript library |
+| 55 | 1 | 2 | 2 years ago | [maxygen](https://github.com/gaborcsardi/maxygen)/877 | :exclamation: OUTDATED Markdown + Roxygen = Maxygen |
+| 55 | 8 | 8 | 17 days ago | [lawn](https://github.com/ropensci/lawn)/878 | turf.js R client |
+| 55 | 7 | 10 | 6 months ago | [velox](https://github.com/hunzikp/velox)/879 | None |
+| 55 | 11 | 2 | 6 months ago | [edarf](https://github.com/zmjones/edarf)/880 | exploratory data analysis using random forests |
+| 55 | 43 | 4 | 2 years ago | [addinexamples](https://github.com/rstudio/addinexamples)/881 | An R package showcasing how RStudio addins can be registered and used. |
+| 55 | 20 | 12 | 11 months ago | [hurricane-irma](https://github.com/USGS-VIZLAB/hurricane-irma)/882 | None |
+| 55 | 1 | 9 | a month ago | [fledge](https://github.com/krlmlr/fledge)/883 | Wings for your R packages: Streamline the process of versioning R packages and updating NEWS |
+| 55 | 11 | 3 | 26 days ago | [shiny.collections](https://github.com/Appsilon/shiny.collections)/884 | Google Docs-like live collaboration in Shiny |
+| 55 | 14 | 1 | a month ago | [dou-salaries](https://github.com/imax/dou-salaries)/885 | salary statistics for developers in Ukraine |
+| 55 | 14 | 0 | 1 year, 14 days ago | [thematic-maps-ggplot2](https://github.com/grssnbchr/thematic-maps-ggplot2)/886 | Beautiful thematic maps with ggplot2 (only) |
+| 55 | 7 | 0 | 2 days ago | [wrapr](https://github.com/WinVector/wrapr)/887 | Wrap R Functions for Debugging and Ease of Use |
+| 55 | 32 | 23 | 8 hours ago | [microdadosBrasil](https://github.com/lucasmation/microdadosBrasil)/888 | Reads most common Brazilian public microdata (CENSO, PNAD, etc) easy and fast |
+| 55 | 13 | 77 | 4 days ago | [metacoder](https://github.com/grunwaldlab/metacoder)/889 | Parsing, Manipulation, and Visualization of Metabarcoding/Taxonomic data  |
+| 55 | 25 | 13 | 2 days ago | [MAST](https://github.com/RGLab/MAST)/890 | Tools and methods for analysis of single cell assay data in R |
+| 55 | 43 | 0 | 1 year, 10 months ago | [shinythemes](https://github.com/rstudio/shinythemes)/891 | Themes for Shiny |
+| 55 | 5 | 3 | 2 months ago | [async](https://github.com/r-lib/async)/892 | Asynchronous HTTP requests in R -- UNDER CONSTRUCTION |
+| 55 | 9 | 5 | a month ago | [clustree](https://github.com/lazappi/clustree)/893 | Visualise Clusterings at Different Resolutions |
+| 55 | 23 | 94 | 2 days ago | [ESL-CN](https://github.com/szcf-weiya/ESL-CN)/894 | The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。 |
+| 54 | 0 | 0 | 3 years ago | [pride](https://github.com/chrisnager/pride)/895 | Simple hack to display the colors of the rainbow flag in the GitHub language bar. #lovewins |
+| 54 | 23 | 16 | 3 years ago | [nozzle](https://github.com/parklab/nozzle)/896 | Nozzle is a report generation toolkit for data analysis pipelines implemented in R. |
+| 54 | 42 | 5 | 2 months ago | [CIDA-Viz](https://github.com/USGS-VIZLAB/CIDA-Viz)/897 | Datasets and docs for CIDA's data visualization challenge |
+| 54 | 9 | 8 | 4 days ago | [withr](https://github.com/r-lib/withr)/898 | Methods For Temporarily Modifying Global State |
+| 54 | 4 | 1 | 1 year, 6 months ago | [USA.county.data](https://github.com/Deleetdk/USA.county.data)/899 | Open dataset of counties from the United States |
+| 54 | 16 | 0 | 2 months ago | [beer-data-science](https://github.com/aedobbyn/beer-data-science)/900 | Various forays into the data science of beer.  |
+| 54 | 5 | 4 | 2 days ago | [snakecase](https://github.com/Tazinho/snakecase)/901 | 🐍🐍🐍 A systematic approach to parse strings and automate the conversion to snake_case, UpperCamelCase or any other case. |
+| 54 | 17 | 5 | a day ago | [sjmisc](https://github.com/strengejacke/sjmisc)/902 | Data transformation and utility functions for R |
+| 54 | 8 | 21 | a month ago | [pRojects](https://github.com/lockedata/pRojects)/903 | R Package 📦 for making projects for various R activities :nut_and_bolt: |
+| 54 | 24 | 2 | a month ago | [tutorial](https://github.com/datacamp/tutorial)/904 | R Package to convert R Markdown files to DataCamp Light HTML files |
+| 54 | 28 | 3 | 1 year, 6 months ago | [R-Programs](https://github.com/ezgraphs/R-Programs)/905 | A Variety of R Programs |
+| 54 | 10 | 13 | a month ago | [solrium](https://github.com/ropensci/solrium)/906 | A general purpose R interface to Solr |
+| 54 | 5 | 1 | 1 year, 3 months ago | [beyonce](https://github.com/dill/beyonce)/907 | :crown: :bee: :bar_chart: Beyoncé colour palettes for R |
+| 54 | 11 | 8 | a month ago | [hms](https://github.com/tidyverse/hms)/908 | A simple class for storing time-of-day values |
+| 54 | 7 | 1 | 14 days ago | [sinew](https://github.com/metrumresearchgroup/sinew)/909 | Generate roxygen2 skeletons populated with information scraped from the function script. |
+| 54 | 11 | 2 | 30 days ago | [ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)/910 | CRAN Task View: Archaeological Science |
+| 54 | 21 | 9 | 5 months ago | [ahp](https://github.com/gluc/ahp)/911 | Analytical Hierarchy Process (AHP) with R |
+| 54 | 6 | 17 | 3 months ago | [yarrr](https://github.com/ndphillips/yarrr)/912 | An R package for conducting all sorts of R piratery |
+| 54 | 36 | 6 | 7 days ago | [BiocStickers](https://github.com/Bioconductor/BiocStickers)/913 | Stickers for some Bioconductor packages - feel free to contribute and/or modify. |
+| 54 | 4 | 7 | 5 days ago | [prediction](https://github.com/leeper/prediction)/914 | Tidy, Type-Safe 'prediction()' Methods |
+| 54 | 16 | 2 | 21 days ago | [tximport](https://github.com/mikelove/tximport)/915 | Import and summarize transcript-level estimates for gene-level analysis |
+| 53 | 8 | 1 | 2 years ago | [glider_4](https://github.com/softdorothy/glider_4)/916 | Original sources to Glider 4.0 by John Calhoun, originally published by Casady & Green Inc. |
+| 53 | 9 | 1 | a month ago | [paletter](https://github.com/AndreaCirilloAC/paletter)/917 | build your palette from a picture √ |
+| 53 | 13 | 0 | 4 months ago | [travelling-salesman-portrait](https://github.com/aschinchon/travelling-salesman-portrait)/918 | An experiment in R to convert photos into single-line-drawings |
+| 53 | 0 | 2 | 1 year, 2 months ago | [aargh](https://github.com/jeremystan/aargh)/919 | Easily Expose R Functions to Command Line Arguments |
+| 53 | 3 | 0 | 2 months ago | [gggenes](https://github.com/wilkox/gggenes)/920 | ➡️️➡️️⬅️️➡️️ Draw gene arrow maps in ggplot2 |
+| 53 | 23 | 5 | 6 days ago | [SpiecEasi](https://github.com/zdk123/SpiecEasi)/921 | Sparse InversE Covariance estimation for Ecological Association and Statistical Inference |
+| 53 | 17 | 6 | a month ago | [regtools](https://github.com/matloff/regtools)/922 | Various tools for linear, nonlinear and nonparametric regression. |
+| 53 | 14 | 2 | 2 months ago | [breakDown](https://github.com/pbiecek/breakDown)/923 | Model Agnostics breakDown plots |
+| 53 | 131 | 2 | a year ago | [IntroToTextAnalyticsWithR](https://github.com/datasciencedojo/IntroToTextAnalyticsWithR)/924 | Public repo for the Data Science Dojo YouTube tutorial series "Introduction to Text Analytics with R". |
+| 53 | 56 | 0 | 10 months ago | [telco-customer-churn-in-r-and-h2o](https://github.com/WLOGSolutions/telco-customer-churn-in-r-and-h2o)/925 | Showcase for using H2O and R for churn prediction (inspired by ZhouFang928 examples) |
+| 53 | 5 | 2 | 3 years ago | [snippr](https://github.com/dgrtwo/snippr)/926 | Manage, share, and install RStudio code snippets |
+| 53 | 12 | 12 | 2 days ago | [phangorn](https://github.com/KlausVigo/phangorn)/927 | Phylogenetic analysis in R |
+| 52 | 48 | 0 | 2 years ago | [AzureML-Regression-Example](https://github.com/Quantia-Analytics/AzureML-Regression-Example)/928 | This repo contains all the code and data necessary to explore non-linear regression using Azure ML. |
+| 52 | 3 | 4 | a day ago | [ellipsis](https://github.com/hadley/ellipsis)/929 | Tools for Working with ... |
+| 52 | 8 | 29 | 3 months ago | [rcmdcheck](https://github.com/r-lib/rcmdcheck)/930 | Run R CMD check from R and collect the results |
+| 52 | 8 | 14 | 2 months ago | [etl](https://github.com/beanumber/etl)/931 | R package to facilitate ETL operations |
+| 52 | 5 | 3 | 1 year, 1 month ago | [dpmr](https://github.com/christophergandrud/dpmr)/932 | Data Package Manager for R |
+| 52 | 7 | 3 | 13 days ago | [shinydashboardPlus](https://github.com/DivadNojnarg/shinydashboardPlus)/933 | extensions for shinydashboard |
+| 52 | 3 | 0 | a month ago | [anicon](https://github.com/emitanaka/anicon)/934 | Animated icons for R markdown and Shiny apps |
+| 52 | 10 | 1 | 3 years ago | [stackr](https://github.com/dgrtwo/stackr)/935 | R package for connecting to the Stack Exchange API |
+| 52 | 5 | 3 | 2 months ago | [mschart](https://github.com/ardata-fr/mschart)/936 | :bar_chart: mschart: office charts from R |
+| 52 | 14 | 2 | 1 year, 5 months ago | [old-diversity-dashboard](https://github.com/bufferapp/old-diversity-dashboard)/937 | None |
+| 52 | 12 | 1 | 27 days ago | [shiny.router](https://github.com/Appsilon/shiny.router)/938 | A minimalistic router for your Shiny apps. |
+| 52 | 11 | 5 | 2 months ago | [ggimage](https://github.com/GuangchuangYu/ggimage)/939 | :art: Use Images in ggplot2 |
+| 52 | 20 | 12 | a month ago | [vcfR](https://github.com/knausb/vcfR)/940 | Tools to work with variant call format files |
+| 52 | 13 | 21 | 1 year, 1 month ago | [rBayesianOptimization](https://github.com/yanyachen/rBayesianOptimization)/941 | Bayesian Optimization of Hyperparameters |
+| 52 | 27 | 8 | 2 years ago | [RHIPE](https://github.com/delta-rho/RHIPE)/942 | R and Hadoop Integrated Programming Environment |
+| 52 | 4 | 4 | 8 hours ago | [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics)/943 | Landscape Metrics for Categorical Map Patterns 🗺️ in R |
+| 52 | 29 | 0 | 2 years ago | [misc](https://github.com/petewerner/misc)/944 | Miscellany, mostly code supporting blog posts |
+| 52 | 22 | 2 | 1 year, 3 months ago | [baidumap](https://github.com/badbye/baidumap)/945 | R interface of baidu map api |
+| 52 | 19 | 4 | 2 years ago | [MarketMatching](https://github.com/klarsen1/MarketMatching)/946 | None |
+| 52 | 9 | 6 | 13 days ago | [gutenbergr](https://github.com/ropensci/gutenbergr)/947 | Search and download public domain texts from Project Gutenberg |
+| 52 | 10 | 4 | 1 year, 4 months ago | [ggdendro](https://github.com/andrie/ggdendro)/948 | Tools to extract dendrogram plot data for use with ggplot |
+| 52 | 10 | 1 | 21 days ago | [osrm](https://github.com/rCarto/osrm)/949 | :twisted_rightwards_arrows: Shortest Paths and Travel Time from OpenStreetMap with R |
+| 52 | 5 | 2 | 2 years ago | [scholarnetwork](https://github.com/pablobarbera/scholarnetwork)/950 | Extract and Visualize Google Scholar Collaboration Networks |
+| 51 | 1 | 3 | 4 months ago | [colourlovers](https://github.com/leeper/colourlovers)/951 | R Client for the COLOURlovers API |
+| 51 | 17 | 11 | 1 year, 4 months ago | [radarchart](https://github.com/MangoTheCat/radarchart)/952 | Implementation of the radar chart from chart.js library |
+| 51 | 60 | 25 | 2 months ago | [methylKit](https://github.com/al2na/methylKit)/953 | R package for DNA methylation analysis |
+| 51 | 17 | 10 | 17 days ago | [MODIStsp](https://github.com/ropensci/MODIStsp)/954 | An "R" package for automatic download and preprocessing of MODIS Land Products Time Series |
+| 51 | 23 | 27 | a day ago | [adegenet](https://github.com/thibautjombart/adegenet)/955 | adegenet: a R package for the multivariate analysis of genetic markers |
+| 51 | 12 | 0 | 7 days ago | [rscala](https://github.com/dbdahl/rscala)/956 | The Scala interpreter is embedded in R and callbacks to R from the embedded interpreter are supported. Conversely, the R interpreter is embedded in Scala. |
+| 51 | 57 | 1 | 1 year, 3 months ago | [emojis](https://github.com/today-is-a-good-day/emojis)/957 | Set up a proper Emoticons dictionary for R to analyze emojis in tweets |
+| 51 | 5 | 3 | 2 days ago | [fasster](https://github.com/tidyverts/fasster)/958 | Forecasting with Additive Switching of Seasonality, Trend and Exogenous Regressors |
+| 51 | 17 | 19 | 2 years ago | [dplyr-spark](https://github.com/RevolutionAnalytics/dplyr-spark)/959 | spark backend for dplyr |
+| 51 | 6 | 0 | 9 months ago | [linemap](https://github.com/rCarto/linemap)/960 | :aquarius: Create maps made of lines |
+| 51 | 12 | 0 | a month ago | [the-lancet-2018](https://github.com/ikashnitsky/the-lancet-2018)/961 | Reproduce "Regional population structures at a glance" |
+| 51 | 12 | 6 | 5 days ago | [censusapi](https://github.com/hrecht/censusapi)/962 | R package to retrieve Census data and metadata via API |
+| 51 | 13 | 0 | 1 year, 4 months ago | [geoChina](https://github.com/caijun/geoChina)/963 | An R package for geocoding address by calling the Google or Baidu Geocoding API and coordinate conversions for WGS-84, GCJ-02 and BD-09 geodetic system |
+| 51 | 25 | 2 | 2 years ago | [datamicroarray](https://github.com/ramhiser/datamicroarray)/964 | A collection of small-sample, high-dimensional microarray data sets to assess machine-learning algorithms and models. |
+| 51 | 32 | 0 | 1 year, 8 months ago | [mro](https://github.com/nbrgraphs/mro)/965 | Creating Effective Graphs with Microsoft R Open |
+| 51 | 24 | 6 | a month ago | [clonevol](https://github.com/hdng/clonevol)/966 | Inferring and visualizing clonal evolution in multi-sample cancer sequencing |
+| 51 | 0 | 1 | 8 months ago | [swatches](https://github.com/hrbrmstr/swatches)/967 | 🎨 Read, Inspect, and Manipulate Color Swatch Files |
+| 51 | 4 | 26 | a month ago | [dataspice](https://github.com/ropenscilabs/dataspice)/968 | :hot_pepper: Create lightweight schema.org descriptions of dataset |
+| 51 | 4 | 3 | 6 months ago | [reactR](https://github.com/timelyportfolio/reactR)/969 | React for R |
+| 51 | 7 | 0 | 3 months ago | [shinyLP](https://github.com/jasdumas/shinyLP)/970 | A R package for Bootstrap Components to make Landing Home Pages for Shiny :globe_with_meridians: |
+| 51 | 7 | 7 | 2 months ago | [quickmapr](https://github.com/jhollist/quickmapr)/971 | An R package for quickly mapping and navigating spatial data |
+| 51 | 11 | 0 | 7 months ago | [DBDA2Estan](https://github.com/jhoupt/DBDA2Estan)/972 | Stan implementations of models in Doing Bayesian Data Analysis, 2nd Edition |
+| 51 | 6 | 6 | 2 days ago | [sjstats](https://github.com/strengejacke/sjstats)/973 | Statistical Functions for Regression Models |
+| 51 | 13 | 2 | 7 months ago | [wbstats](https://github.com/GIST-ORNL/wbstats)/974 | wbstats: An R package for searching and downloading data from the World Bank API |
+| 51 | 25 | 10 | 9 days ago | [survival](https://github.com/therneau/survival)/975 | Survival package for R |
+| 50 | 15 | 3 | 3 years ago | [Rkoans](https://github.com/DASpringate/Rkoans)/976 | R Koans: An interactive R tutorial |
+| 50 | 6 | 1 | 10 months ago | [orangetext](https://github.com/hrbrmstr/orangetext)/977 | 🍊📄 : An #rstats project to keep track of The 🍊 One's speeches  |
+| 50 | 14 | 4 | 1 year, 10 months ago | [R.matlab](https://github.com/HenrikBengtsson/R.matlab)/978 | R package: R.matlab |
+| 50 | 4 | 1 | 1 year, 5 months ago | [ggcal](https://github.com/jayjacobs/ggcal)/979 | Generate simple calendar plots using ggplot2 |
+| 50 | 92 | 1 | 3 years ago | [Learning-RSpark](https://github.com/CjTouzi/Learning-RSpark)/980 | None |
+| 50 | 7 | 6 | 2 months ago | [tsbox](https://github.com/christophsax/tsbox)/981 | tsbox: Class-Agnostic Time Series in R |
+| 50 | 20 | 4 | 1 year, 9 months ago | [Rbitcoin](https://github.com/jangorecki/Rbitcoin)/982 | R & bitcoin integration |
+| 50 | 15 | 0 | 2 years ago | [ggplot2-theme](https://github.com/r4ecology/ggplot2-theme)/983 | a ggplot2 designed to make it easier to create publication quality figures |
+| 50 | 37 | 36 | 1 year, 4 months ago | [caret-machine-learning](https://github.com/tobigithub/caret-machine-learning)/984 | Practical examples for the R caret machine learning package |
+| 50 | 2 | 7 | a day ago | [fabricatr](https://github.com/DeclareDesign/fabricatr)/985 | Imagine Your Data Before You Collect It |
+| 50 | 50 | 2 | 6 years ago | [Mining_Twitter](https://github.com/gastonstat/Mining_Twitter)/986 | R scripts describing several options to do twitter analysis in R |
+| 50 | 18 | 12 | a month ago | [deconstructSigs](https://github.com/raerose01/deconstructSigs)/987 | deconstructSigs |
+| 50 | 13 | 18 | a day ago | [EpiModel](https://github.com/statnet/EpiModel)/988 | Mathematical Modeling of Infectious Disease Dynamics |
+| 50 | 39 | 0 | a month ago | [RExRepos](https://github.com/dwoll/RExRepos)/989 | R Examples Repository |
+| 50 | 7 | 12 | 3 months ago | [BASiCS](https://github.com/catavallejos/BASiCS)/990 | BASiCS: Bayesian Analysis of Single-Cell Sequencing Data. This is an unstable experimental version. Please see http://bioconductor.org/packages/BASiCS/ for the official release version |
+| 50 | 10 | 13 | 9 days ago | [bikedata](https://github.com/ropensci/bikedata)/991 | :bike: Extract data from public hire bicycle systems |
+| 50 | 85 | 0 | 4 years ago | [kaggle-allstate](https://github.com/justmarkham/kaggle-allstate)/992 | Allstate Purchase Prediction Challenge on Kaggle |
+| 50 | 5 | 6 | 2 years ago | [rchess](https://github.com/jbkunst/rchess)/993 | ♛ Chess package for R |
+| 50 | 17 | 4 | 1 year, 14 days ago | [RoogleVision](https://github.com/cloudyr/RoogleVision)/994 | R Package for Image Recognition using Google Cloud Vision |
+| 50 | 38 | 0 | 3 months ago | [spatial-microsim-book](https://github.com/Robinlovelace/spatial-microsim-book)/995 | Code, data and prose of the book: Spatial Microsimulation with R |
+| 50 | 40 | 0 | a month ago | [myBooks](https://github.com/williamlfang/myBooks)/996 | None |
+| 50 | 4 | 8 | 6 hours ago | [JuliaCall](https://github.com/Non-Contradiction/JuliaCall)/997 | Embed Julia in R |
+| 50 | 21 | 2 | 1 year, 5 months ago | [statistical-rethinking](https://github.com/cavaunpeu/statistical-rethinking)/998 | Solutions for the practice problems |
+| 49 | 71 | 3 | 1 year, 10 months ago | [programacion-estadistica-r](https://github.com/ifunam/programacion-estadistica-r)/999 | None |
+| 49 | 11 | 7 | a month ago | [r2pmml](https://github.com/jpmml/r2pmml)/1000 | R library for converting R models to PMML |
