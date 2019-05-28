@@ -1,1003 +1,1003 @@
 ## This is a most popular repository list for TypeScript sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 76084 | 10398 | 5726 | 21 hours ago | [vscode](https://github.com/microsoft/vscode)/1 | Visual Studio Code |
-| 49007 | 6784 | 3797 | a day ago | [TypeScript](https://github.com/microsoft/TypeScript)/2 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| 48096 | 12832 | 2821 | a day ago | [angular](https://github.com/angular/angular)/3 | One framework. Mobile & desktop. |
-| 46426 | 16238 | 315 | 6 hours ago | [ant-design](https://github.com/ant-design/ant-design)/4 | 🌈 A UI Design Language |
-| 37963 | 13033 | 517 | 20 hours ago | [ionic](https://github.com/ionic-team/ionic)/5 | Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉 |
-| 34609 | 1645 | 223 | 7 days ago | [deno](https://github.com/denoland/deno)/6 | A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio |
-| 28710 | 5377 | 1805 | 6 hours ago | [grafana](https://github.com/grafana/grafana)/7 | The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More |
-| 22144 | 17487 | 2818 | 6 hours ago | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)/8 | The repository for high quality TypeScript type definitions. |
-| 21587 | 6612 | 698 | 6 days ago | [angular-cli](https://github.com/angular/angular-cli)/9 | CLI tool for Angular |
-| 19911 | 2728 | 111 | 17 days ago | [sweetalert](https://github.com/t4t5/sweetalert)/10 | A beautiful replacement for JavaScript's "alert" |
-| 19762 | 636 | 220 | 2 months ago | [upterm](https://github.com/railsware/upterm)/11 | A terminal emulator for the 21st century. |
-| 19057 | 1103 | 235 | 13 days ago | [code-server](https://github.com/cdr/code-server)/12 | Run VS Code on a remote server. |
-| 18397 | 1893 | 292 | 12 hours ago | [rxjs](https://github.com/ReactiveX/rxjs)/13 | A reactive programming library for JavaScript |
-| 17970 | 4655 | 1771 | 2 days ago | [components](https://github.com/angular/components)/14 | Component infrastructure and Material Design components for Angular |
-| 16869 | 1246 | 431 | 3 days ago | [NativeScript](https://github.com/NativeScript/NativeScript)/15 | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android. |
-| 16475 | 5341 | 236 | a month ago | [ngx-admin](https://github.com/akveo/ngx-admin)/16 | Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin) |
-| 15766 | 1055 | 91 | 6 hours ago | [nest](https://github.com/nestjs/nest)/17 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 |
-| 15198 | 960 | 256 | 18 hours ago | [formik](https://github.com/jaredpalmer/formik)/18 | Build forms in React, without the tears 😭  |
-| 14909 | 564 | 169 | 7 days ago | [docz](https://github.com/pedronauck/docz)/19 | ✍🏻It has never been so easy to document your things! |
-| 13994 | 1191 | 376 | 10 hours ago | [blueprint](https://github.com/palantir/blueprint)/20 | A React-based UI toolkit for the web |
-| 13909 | 3273 | 372 | 3 months ago | [ui-router](https://github.com/angular-ui/ui-router)/21 | The de-facto solution to flexible routing with nested views in AngularJS |
-| 13235 | 596 | 198 | 9 months ago | [chromeless](https://github.com/prisma-archive/chromeless)/22 | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. |
-| 12923 | 1581 | 728 | 3 days ago | [typeorm](https://github.com/typeorm/typeorm)/23 | ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. |
-| 11734 | 3549 | 18 | 2 months ago | [mean](https://github.com/linnovate/mean)/24 | The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications |
-| 11688 | 918 | 189 | 20 hours ago | [flatpickr](https://github.com/flatpickr/flatpickr)/25 | lightweight, powerful javascript datetimepicker with no dependencies |
-| 11136 | 1311 | 388 | a month ago | [react-dnd](https://github.com/react-dnd/react-dnd)/26 | Drag and Drop for React |
-| 11032 | 330 | 512 | 9 days ago | [oni](https://github.com/onivim/oni)/27 | Oni: Modern Modal Editing - powered by Neovim |
-| 10971 | 780 | 432 | 16 hours ago | [tfjs](https://github.com/tensorflow/tfjs)/28 | A WebGL accelerated JavaScript library for training and deploying ML models. |
-| 10953 | 1250 | 319 | 9 hours ago | [apollo-client](https://github.com/apollographql/apollo-client)/29 | :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server |
-| 10565 | 320 | 13 | 2 months ago | [rough](https://github.com/pshihn/rough)/30 | Create graphics with a hand-drawn, sketchy, appearance |
-| 10161 | 415 | 233 | a day ago | [notable](https://github.com/notable/notable)/31 | The markdown-based note-taking app that doesn't suck. |
-| 9835 | 763 | 16 | 20 hours ago | [ignite](https://github.com/infinitered/ignite)/32 | The hottest CLI for React Native, boilerplates, plugins, generators, and more! |
-| 9255 | 381 | 93 | 8 hours ago | [cyclejs](https://github.com/cyclejs/cyclejs)/33 | A functional and reactive JavaScript framework for predictable code |
-| 9200 | 1750 | 41 | 16 hours ago | [Babylon.js](https://github.com/BabylonJS/Babylon.js)/34 | Babylon.js is a powerful, beautiful, simple, and open, game and rendering engine packed into a friendly JavaScript framework. |
-| 9178 | 2010 | 53 | a day ago | [botkit](https://github.com/howdyai/botkit)/35 | Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms. |
-| 9006 | 831 | 204 | 7 months ago | [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)/36 | A starter template for TypeScript and React with a detailed README describing how to use the two together. |
-| 8828 | 955 | 3 | 9 days ago | [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp)/37 | Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux |
-| 8792 | 663 | 16 | a month ago | [pageres](https://github.com/sindresorhus/pageres)/38 | Capture website screenshots |
-| 8554 | 643 | 98 | 2 days ago | [refined-github](https://github.com/sindresorhus/refined-github)/39 | Browser extension that simplifies the GitHub interface and adds useful features |
-| 8454 | 950 | 35 | 21 hours ago | [tfjs-core](https://github.com/tensorflow/tfjs-core)/40 | WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript. |
-| 8367 | 479 | 65 | 2 months ago | [turbolinks](https://github.com/turbolinks/turbolinks)/41 | Turbolinks makes navigating your web application faster |
-| 8343 | 307 | 92 | 17 days ago | [editor.js](https://github.com/codex-team/editor.js)/42 | A block-styled editor with clean JSON output |
-| 8184 | 620 | 29 | 5 days ago | [interact.js](https://github.com/taye/interact.js)/43 | JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+) |
-| 8167 | 1700 | 66 | 2 months ago | [playground](https://github.com/tensorflow/playground)/44 | Play with neural networks! |
-| 8082 | 1270 | 287 | 2 years ago | [satellizer](https://github.com/sahat/satellizer)/45 | Token-based AngularJS Authentication |
-| 7782 | 459 | 110 | a day ago | [squoosh](https://github.com/GoogleChromeLabs/squoosh)/46 | Make images smaller using best-in-class codecs, right in the browser. |
-| 7714 | 548 | 42 | 3 days ago | [reactxp](https://github.com/microsoft/reactxp)/47 | Library for cross-platform app development. |
-| 7557 | 448 | 131 | 3 months ago | [react-page](https://github.com/react-page/react-page)/48 | Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids. |
-| 7459 | 1322 | 80 | 23 hours ago | [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)/49 | Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.  |
-| 7352 | 2152 | 68 | 2 days ago | [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)/50 | 💬 The most complete chat UI for React Native |
-| 7286 | 3279 | 516 | 23 hours ago | [desktop](https://github.com/desktop/desktop)/51 | Simple collaboration from your desktop |
-| 7279 | 334 | 27 | 17 days ago | [nexe](https://github.com/nexe/nexe)/52 | 🎉 create a single executable out of your node.js apps |
-| 7258 | 348 | 23 | 18 hours ago | [postgraphile](https://github.com/graphile/postgraphile)/53 | Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database! |
-| 7197 | 402 | 13 | 5 days ago | [barba](https://github.com/barbajs/barba)/54 | Create badass, fluid and smooth transition between your website's pages. |
-| 7188 | 177 | 8 | a month ago | [stimulus](https://github.com/stimulusjs/stimulus)/55 | A modest JavaScript framework for the HTML you already have |
-| 7163 | 233 | 14 | 20 days ago | [wired-elements](https://github.com/wiredjs/wired-elements)/56 | Collection of custom elements that appear hand drawn. Great for wireframes or a fun look. |
-| 7135 | 859 | 415 | 3 days ago | [apollo-server](https://github.com/apollographql/apollo-server)/57 | 🌍 GraphQL server for Express, Connect, Hapi, Koa and more |
-| 7075 | 1120 | 273 | 16 days ago | [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)/58 | A configurable Mobile UI |
-| 7062 | 253 | 160 | 4 days ago | [terminus](https://github.com/Eugeny/terminus)/59 | A terminal for a more modern age |
-| 6953 | 790 | 657 | 6 days ago | [electron-builder](https://github.com/electron-userland/electron-builder)/60 | A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box |
-| 6869 | 1151 | 241 | 2 days ago | [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap)/61 | Angular powered Bootstrap |
-| 6776 | 241 | 72 | 1 year, 1 month ago | [Eve](https://github.com/witheve/Eve)/62 | Better tools for thought |
-| 6756 | 248 | 3 | 14 days ago | [react-content-loader](https://github.com/danilowoz/react-content-loader)/63 | :white_circle: SVG-Powered component to easily create placeholder loadings (like Facebook cards loading) |
-| 6620 | 443 | 96 | a day ago | [webamp](https://github.com/captbaritone/webamp)/64 | Winamp 2 reimplemented for the browser |
-| 6565 | 1545 | 1108 | 16 hours ago | [tinymce](https://github.com/tinymce/tinymce)/65 | The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular |
-| 6472 | 849 | 95 | 2 days ago | [typescript-book](https://github.com/basarat/typescript-book)/66 | :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹 |
-| 6259 | 222 | 9 | 3 months ago | [eva-icons](https://github.com/akveo/eva-icons)/67 | A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. |
-| 6215 | 385 | 758 | a month ago | [Mailspring](https://github.com/Foundry376/Mailspring)/68 | :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors. |
-| 6214 | 647 | 152 | 2 days ago | [xterm.js](https://github.com/xtermjs/xterm.js)/69 | A terminal for the web |
-| 6100 | 336 | 56 | a month ago | [bacon.js](https://github.com/baconjs/bacon.js)/70 | Functional reactive programming library for TypeScript and JavaScript |
-| 6058 | 963 | 32 | 6 days ago | [peerjs](https://github.com/peers/peerjs)/71 | Peer-to-peer data in the browser. |
-| 6022 | 143 | 108 | 6 days ago | [css-blocks](https://github.com/linkedin/css-blocks)/72 | High performance, maintainable stylesheets. |
-| 5824 | 142 | 272 | 16 hours ago | [pnpm](https://github.com/pnpm/pnpm)/73 | 📦🚀 Fast, disk space efficient package manager |
-| 5785 | 321 | 25 | 17 days ago | [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)/74 | The complete guide to static typing in "React & Redux" apps using TypeScript |
-| 5662 | 725 | 73 | 8 days ago | [face-api.js](https://github.com/justadudewhohacks/face-api.js)/75 | JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js |
-| 5566 | 637 | 193 | 2 days ago | [ReDoc](https://github.com/Rebilly/ReDoc)/76 | 📘  OpenAPI/Swagger-generated API Reference Documentation |
-| 5564 | 577 | 13 | 3 days ago | [este](https://github.com/este/este)/77 | Is What It Is |
-| 5448 | 198 | 60 | 3 days ago | [xstate](https://github.com/davidkpiano/xstate)/78 | State machines and statecharts for the modern web. |
-| 5444 | 307 | 227 | 6 hours ago | [stencil](https://github.com/ionic-team/stencil)/79 | A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team |
-| 5443 | 1046 | 5 | 2 months ago | [countUp.js](https://github.com/inorganik/countUp.js)/80 | Animates a numerical value by counting to it |
-| 5441 | 488 | 295 | a day ago | [PeerTube](https://github.com/Chocobozzz/PeerTube)/81 | Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular. |
-| 5393 | 569 | 625 | a day ago | [Vim](https://github.com/VSCodeVim/Vim)/82 | :star: Vim for Visual Studio Code |
-| 5339 | 63 | 10 | 10 months ago | [learnapollo](https://github.com/learnapollo/learnapollo)/83 | 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool) |
-| 5317 | 829 | 657 | a day ago | [amplify-js](https://github.com/aws-amplify/amplify-js)/84 | A declarative JavaScript library for application development using cloud services. |
-| 5282 | 303 | 30 | 2 days ago | [got](https://github.com/sindresorhus/got)/85 | Simplified HTTP requests |
-| 5248 | 2462 | 835 | 23 hours ago | [primeng](https://github.com/primefaces/primeng)/86 | UI Components for Angular |
-| 5224 | 109 | 13 | 8 days ago | [majestic](https://github.com/Raathigesh/majestic)/87 | ⚡ Zero config GUI for Jest |
-| 5222 | 817 | 109 | 2 days ago | [wechaty](https://github.com/Chatie/wechaty)/88 | WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖 |
-| 5206 | 727 | 25 | 7 hours ago | [howtographql](https://github.com/howtographql/howtographql)/89 | The Fullstack Tutorial for GraphQL |
-| 5193 | 665 | 98 | 5 months ago | [esprima](https://github.com/jquery/esprima)/90 | ECMAScript parsing infrastructure for multipurpose analysis |
-| 5147 | 419 | 81 | a month ago | [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)/91 | :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync |
-| 5094 | 113 | 15 | 2 days ago | [guess](https://github.com/guess-js/guess)/92 | Libraries & tools for enabling Machine Learning driven user-experiences on the web |
-| 5093 | 859 | 51 | a month ago | [ag-grid](https://github.com/ag-grid/ag-grid)/93 | Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components |
-| 5060 | 898 | 539 | 11 hours ago | [tslint](https://github.com/palantir/tslint)/94 | :vertical_traffic_light: An extensible linter for the TypeScript language |
-| 5058 | 629 | 206 | 8 hours ago | [react-apollo](https://github.com/apollographql/react-apollo)/95 | :recycle: React integration for Apollo Client |
-| 5045 | 374 | 1316 | 19 hours ago | [azuredatastudio](https://github.com/microsoft/azuredatastudio)/96 | Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux. |
-| 5018 | 226 | 10 | 3 days ago | [react-cosmos](https://github.com/react-cosmos/react-cosmos)/97 | Dev tool for creating reusable React components |
-| 5000 | 1455 | 108 | 5 days ago | [angularfire2](https://github.com/angular/angularfire2)/98 | The official Angular library for Firebase. |
-| 4947 | 230 | 20 | 4 days ago | [rrweb](https://github.com/rrweb-io/rrweb)/99 | record and replay the web |
-| 4929 | 222 | 31 | 5 days ago | [devhub](https://github.com/devhubapp/devhub)/100 | DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop |
-| 4897 | 1607 | 194 | 17 days ago | [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)/101 | An enterprise-class UI components based on Ant Design and Angular. 🐜  |
-| 4846 | 562 | 216 | a day ago | [vscode-go](https://github.com/microsoft/vscode-go)/102 | An extension for VS Code which provides support for the Go language. |
-| 4819 | 1041 | 465 | 9 hours ago | [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react)/103 | React components for building Microsoft web experiences. |
-| 4814 | 1687 | 24 | a month ago | [angular-seed](https://github.com/mgechev/angular-seed)/104 | [DEPRECATED] Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation |
-| 4813 | 472 | 321 | a day ago | [clarity](https://github.com/vmware/clarity)/105 | UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences |
-| 4772 | 1208 | 83 | 18 hours ago | [platform](https://github.com/ngrx/platform)/106 | Reactive libraries for Angular |
-| 4761 | 184 | 44 | 10 hours ago | [react-use](https://github.com/streamich/react-use)/107 | React Hooks — 👍 |
-| 4746 | 884 | 215 | 2 days ago | [vue-storefront](https://github.com/DivanteLtd/vue-storefront)/108 | Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). |
-| 4694 | 1418 | 359 | a day ago | [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)/109 | Fast and reliable Bootstrap widgets in Angular |
-| 4665 | 444 | 31 | 12 days ago | [probot](https://github.com/probot/probot)/110 | 🤖 A framework for building GitHub Apps to automate and improve your workflow |
-| 4623 | 1078 | 154 | 6 months ago | [signature_pad](https://github.com/szimek/signature_pad)/111 | HTML5 canvas based smooth signature drawing |
-| 4607 | 1764 | 372 | 8 hours ago | [saleor](https://github.com/mirumee/saleor)/112 | A modular, high performance e-commerce storefront built with Python, GraphQL, Django, and ReactJS. |
-| 4574 | 265 | 88 | 2 days ago | [lit-html](https://github.com/Polymer/lit-html)/113 | An efficient, expressive, extensible HTML templating library for JavaScript. |
-| 4443 | 192 | 73 | a month ago | [ts-node](https://github.com/TypeStrong/ts-node)/114 | TypeScript execution and REPL for node.js |
-| 4390 | 286 | 232 | 2 months ago | [graphql-playground](https://github.com/prisma/graphql-playground)/115 | 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration) |
-| 4383 | 309 | 148 | 9 days ago | [InversifyJS](https://github.com/inversify/InversifyJS)/116 | A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript. |
-| 4329 | 392 | 67 | 12 days ago | [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)/117 | Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX |
-| 4319 | 295 | 65 | 10 hours ago | [BosqueLanguage](https://github.com/microsoft/BosqueLanguage)/118 | The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.  |
-| 4291 | 399 | 188 | 7 days ago | [caprine](https://github.com/sindresorhus/caprine)/119 | Elegant Facebook Messenger desktop app |
-| 4201 | 211 | 18 | a month ago | [path-to-regexp](https://github.com/pillarjs/path-to-regexp)/120 | Turn a path string such as `/user/:name` into a regular expression |
-| 4184 | 279 | 66 | a month ago | [rendertron](https://github.com/GoogleChrome/rendertron)/121 | A Headless Chrome rendering solution |
-| 4157 | 272 | 57 | 3 months ago | [graphql-yoga](https://github.com/prisma/graphql-yoga)/122 | 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience |
-| 4118 | 513 | 999 | a day ago | [theia](https://github.com/theia-ide/theia)/123 | Theia is a cloud & desktop IDE framework implemented in TypeScript. |
-| 4114 | 304 | 135 | 2 days ago | [intern](https://github.com/theintern/intern)/124 | A next-generation code testing stack for JavaScript. |
-| 4050 | 246 | 20 | 16 days ago | [caprover](https://github.com/caprover/caprover)/125 | [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids |
-| 4047 | 382 | 291 | 2 days ago | [nteract](https://github.com/nteract/nteract)/126 | 📘 The interactive computing suite for you!  ✨ |
-| 3992 | 770 | 319 | 2 days ago | [nebular](https://github.com/akveo/nebular)/127 | Angular 7 Components, Auth and Security |
-| 3975 | 325 | 10 | 1 year, 9 months ago | [store](https://github.com/ngrx/store)/128 | RxJS powered state management for Angular applications, inspired by Redux |
-| 3975 | 502 | 42 | 19 days ago | [flex-layout](https://github.com/angular/flex-layout)/129 | Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API  |
-| 3906 | 478 | 13 | 9 days ago | [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)/130 | Foreign language reading and translation assistant based on copy and translate. |
-| 3894 | 174 | 37 | 9 days ago | [graphql-voyager](https://github.com/APIs-guru/graphql-voyager)/131 | 🛰️ Represent any GraphQL API as an interactive graph |
-| 3868 | 69 | 15 | 14 days ago | [web](https://github.com/pikapkg/web)/132 | :package: :sparkles: Run npm dependencies directly in the browser. No Browserify, Webpack or import maps required. https://www.pikapkg.com/blog/pika-web-a-future-without-webpack/ |
-| 3858 | 97 | 22 | 2 days ago | [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview)/133 | A real browser preview inside your editor that you can debug. |
-| 3812 | 636 | 64 | 13 days ago | [outline-client](https://github.com/Jigsaw-Code/outline-client)/134 | Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS. |
-| 3796 | 117 | 24 | a day ago | [coc.nvim](https://github.com/neoclide/coc.nvim)/135 | Intellisense engine for vim8 & neovim, full language server protocol support as VSCode  |
-| 3792 | 199 | 40 | a day ago | [vscode-leetcode](https://github.com/jdneo/vscode-leetcode)/136 | Solve LeetCode problems in VS Code |
-| 3739 | 237 | 149 | 3 months ago | [fuse-box](https://github.com/fuse-box/fuse-box)/137 | A blazing fast js bundler/loader with a comprehensive API :fire: |
-| 3737 | 650 | 54 | a month ago | [rap2-delos](https://github.com/thx/rap2-delos)/138 | 阿里妈妈前端团队出品的开源接口管理工具RAP第二代 |
-| 3701 | 285 | 35 | a day ago | [jspm-cli](https://github.com/jspm/jspm-cli)/139 | Package management CLI |
-| 3651 | 366 | 446 | 3 years ago | [shumway](https://github.com/mozilla/shumway)/140 | Shumway is a Flash VM and runtime written in JavaScript |
-| 3645 | 385 | 12 | 6 months ago | [code-push](https://github.com/microsoft/code-push)/141 | A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices. |
-| 3635 | 335 | 167 | 7 days ago | [searchkit](https://github.com/searchkit/searchkit)/142 | React UI components / widgets. The easiest way to build a great search experience with Elasticsearch. |
-| 3631 | 79 | 15 | a month ago | [the-platform](https://github.com/palmerhq/the-platform)/143 | Web. Components. 😂 |
-| 3629 | 100 | 12 | 2 days ago | [react-three-fiber](https://github.com/drcmda/react-three-fiber)/144 | 👌A React-renderer for Three.js |
-| 3531 | 108 | 19 | 10 days ago | [pts](https://github.com/williamngan/pts)/145 | A library for visualization and creative-coding |
-| 3481 | 91 | 2 | 8 months ago | [react-fns](https://github.com/jaredpalmer/react-fns)/146 | Browser API's turned into declarative React components and HoC's |
-| 3476 | 111 | 61 | a month ago | [oclif](https://github.com/oclif/oclif)/147 | Node.js Open CLI Framework. Built with 💜 by Heroku. |
-| 3455 | 1174 | 688 | 9 days ago | [ngx-datatable](https://github.com/swimlane/ngx-datatable)/148 | ✨  A feature-rich yet lightweight data-table crafted for Angular |
-| 3446 | 127 | 4 | 2 days ago | [graphql-editor](https://github.com/slothking-online/graphql-editor)/149 | GraphQL Visual Node Editor |
-| 3425 | 239 | 8 | 7 days ago | [vue-class-component](https://github.com/vuejs/vue-class-component)/150 | ES / TypeScript decorator for class-style Vue components. |
-| 3417 | 112 | 22 | 13 hours ago | [fiddle](https://github.com/electron/fiddle)/151 | :electron: 🚀 The easiest way to get started with Electron |
-| 3361 | 569 | 386 | 14 days ago | [darkreader](https://github.com/darkreader/darkreader)/152 | Dark Reader Chrome and Firefox extension |
-| 3349 | 212 | 17 | a month ago | [ayu](https://github.com/dempfi/ayu)/153 | 🎨🖌 Modern Sublime Text theme |
-| 3340 | 252 | 134 | 21 hours ago | [vetur](https://github.com/vuejs/vetur)/154 | Vue tooling for VS Code. |
-| 3326 | 281 | 81 | 1 year, 10 months ago | [typings](https://github.com/typings/typings)/155 | *DEPRECATED* The TypeScript Definition Manager |
-| 3325 | 375 | 63 | 19 days ago | [universal](https://github.com/angular/universal)/156 | Universal javascript support for Angular |
-| 3305 | 140 | 7 | a month ago | [immutability-helper](https://github.com/kolodny/immutability-helper)/157 | mutate a copy of data without changing the original source |
-| 3283 | 216 | 89 | a day ago | [vscode-gitlens](https://github.com/eamodio/vscode-gitlens)/158 | Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more |
-| 3247 | 1632 | 60 | 2 days ago | [react-data-grid](https://github.com/adazzle/react-data-grid)/159 | Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like http://adazzle.github.io/react-data-grid/   |
-| 3231 | 190 | 11 | 7 days ago | [md2googleslides](https://github.com/gsuitedevs/md2googleslides)/160 | Generate Google Slides from markdown |
-| 3220 | 125 | 124 | 11 hours ago | [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)/161 | :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript |
-| 3213 | 149 | 13 | 3 months ago | [after.js](https://github.com/jaredpalmer/after.js)/162 | Next.js-like framework for server-rendered React apps built with React Router 4 |
-| 3152 | 217 | 16 | 14 days ago | [rete](https://github.com/retejs/rete)/163 | JavaScript framework for visual programming and creating node editor |
-| 3108 | 150 | 44 | 2 months ago | [incremental-dom](https://github.com/google/incremental-dom)/164 | An in-place DOM diffing library |
-| 3102 | 384 | 275 | 2 days ago | [zone.js](https://github.com/angular/zone.js)/165 | Implements Zones for JavaScript |
-| 3030 | 133 | 163 | 5 months ago | [ShapeShifter](https://github.com/alexjlockwood/ShapeShifter)/166 | SVG icon animation tool for Android, iOS, and the web |
-| 2982 | 735 | 434 | 2 days ago | [ngx-charts](https://github.com/swimlane/ngx-charts)/167 | :bar_chart: Declarative Charting Framework for Angular |
-| 2975 | 134 | 646 | 18 hours ago | [polar-bookshelf](https://github.com/burtonator/polar-bookshelf)/168 | Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation. |
-| 2970 | 767 | 114 | 1 year, 2 months ago | [tribeca](https://github.com/michaelgrosner/tribeca)/169 | A high frequency, market making cryptocurrency trading platform in node.js |
-| 2954 | 405 | 263 | 9 days ago | [core](https://github.com/ngx-translate/core)/170 | The internationalization (i18n) library for Angular |
-| 2947 | 456 | 34 | 3 years ago | [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine)/171 | Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. |
-| 2941 | 602 | 3 | a month ago | [TypeScript](https://github.com/zhongsp/TypeScript)/172 | TypeScript使用手册。TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org |
-| 2924 | 1214 | 47 | a month ago | [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)/173 | Exemplary real world application built with Angular |
-| 2919 | 123 | 54 | 9 days ago | [alva](https://github.com/meetalva/alva)/174 | Create living prototypes with code components. |
-| 2919 | 624 | 18 | a day ago | [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)/175 | A cross-platform Tab View component for React Native |
-| 2870 | 1440 | 18 | 2 days ago | [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app)/176 | A conference app built with Ionic to demonstrate Ionic |
-| 2860 | 158 | 41 | a day ago | [electron-forge](https://github.com/electron-userland/electron-forge)/177 | A complete tool for creating, publishing, and installing modern Electron applications |
-| 2850 | 924 | 352 | 2 years ago | [ng-table](https://github.com/esvit/ng-table)/178 | Simple table with sorting and filtering on AngularJS |
-| 2834 | 107 | 5 | 3 months ago | [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)/179 | Make optimisation of images part of your automated build process |
-| 2815 | 84 | 55 | 1 year, 23 days ago | [propel](https://github.com/propelml/propel)/180 | Differential Programming in JavaScript. |
-| 2794 | 319 | 86 | 27 days ago | [outline-server](https://github.com/Jigsaw-Code/outline-server)/181 | Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux. |
-| 2792 | 409 | 214 | 16 days ago | [graphql-tools](https://github.com/apollographql/graphql-tools)/182 | :wrench: Build, mock, and stitch a GraphQL schema using the schema language |
-| 2790 | 736 | 7 | 2 days ago | [tfjs-models](https://github.com/tensorflow/tfjs-models)/183 | Pretrained models for TensorFlow.js |
-| 2777 | 239 | 134 | 19 hours ago | [quicktype](https://github.com/quicktype/quicktype)/184 | Generate types and converters from JSON, Schema, and GraphQL |
-| 2765 | 257 | 50 | a year ago | [Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs)/185 | A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io |
-| 2750 | 365 | 68 | 2 months ago | [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)/186 | A powerful obfuscator for JavaScript and Node.js |
-| 2743 | 58 | 21 | 3 days ago | [ow](https://github.com/sindresorhus/ow)/187 | Function argument validation for humans |
-| 2716 | 146 | 36 | 5 months ago | [pandora](https://github.com/midwayjs/pandora)/188 | A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript |
-| 2670 | 1314 | 152 | 23 hours ago | [copay](https://github.com/bitpay/copay)/189 | Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices. |
-| 2648 | 284 | 21 | 2 days ago | [learn-rxjs](https://github.com/btroncone/learn-rxjs)/190 | Clear examples, explanations, and resources for RxJS 5/6+ |
-| 2630 | 1847 | 39 | 1 year, 3 months ago | [TypeScriptSamples](https://github.com/microsoft/TypeScriptSamples)/191 | Samples for TypeScript |
-| 2630 | 192 | 69 | 14 days ago | [danger-js](https://github.com/danger/danger-js)/192 | ⚠️ Stop saying "you forgot to …" in code review |
-| 2614 | 630 | 13 | 9 days ago | [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)/193 | The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. |
-| 2572 | 644 | 36 | 30 days ago | [angular-electron](https://github.com/maximegris/angular-electron)/194 | Ultra-fast bootstrapping with Angular 7 and Electron 4 (Typescript + SASS + Hot Reload) :speedboat: |
-| 2570 | 205 | 305 | a month ago | [plottable](https://github.com/palantir/plottable)/195 | :bar_chart: A library of modular chart components built on D3 |
-| 2488 | 229 | 164 | 23 days ago | [compodoc](https://github.com/compodoc/compodoc)/196 | :notebook_with_decorative_cover: The missing documentation tool for your Angular application |
-| 2486 | 406 | 233 | 6 hours ago | [polaris-react](https://github.com/Shopify/polaris-react)/197 | Shopify’s product component library |
-| 2486 | 93 | 34 | a month ago | [decaffeinate](https://github.com/decaffeinate/decaffeinate)/198 | Goodbye CoffeeScript, hello JavaScript! |
-| 2450 | 612 | 960 | a day ago | [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)/199 | Official repository for filing issues against and getting support for the Microsoft C/C++ extension for VS Code  |
-| 2425 | 152 | 44 | 2 days ago | [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools)/200 | :package: Install C++ Build Tools for Windows using npm |
-| 2418 | 484 | 42 | 24 days ago | [wayne](https://github.com/Qihoo360/wayne)/201 | Kubernetes multi-cluster management and publishing platform |
-| 2400 | 56 | 3 | 21 days ago | [react-morph](https://github.com/brunnolou/react-morph)/202 | Morphing Ui transitions made simple |
-| 2396 | 208 | 129 | a day ago | [recast](https://github.com/benjamn/recast)/203 | JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator |
-| 2395 | 80 | 18 | 29 days ago | [typestyle](https://github.com/typestyle/typestyle)/204 | Making CSS Typesafe 🌹 |
-| 2385 | 48 | 66 | a month ago | [veonim](https://github.com/veonim/veonim)/205 | simple modal IDE built on neovim |
-| 2376 | 141 | 23 | 1 year, 6 months ago | [bricklayer](https://github.com/ademilter/bricklayer)/206 | Lightweight and independent Pinterest-like cascading grid layout library |
-| 2368 | 379 | 7 | 10 months ago | [design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript)/207 | :triangular_ruler: Design pattern implementations in TypeScript |
-| 2361 | 459 | 252 | 21 hours ago | [autorest](https://github.com/Azure/autorest)/208 | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby and PHP. |
-| 2357 | 137 | 10 | 6 hours ago | [reakit](https://github.com/reakit/reakit)/209 | Toolkit for building accessible rich web apps with React |
-| 2352 | 73 | 14 | 9 days ago | [source-map-explorer](https://github.com/danvk/source-map-explorer)/210 | Analyze and debug space usage through source maps |
-| 2351 | 337 | 151 | 20 days ago | [bqplot](https://github.com/bloomberg/bqplot)/211 | Plotting library for IPython/Jupyter Notebooks |
-| 2308 | 313 | 93 | 2 months ago | [react-diagrams](https://github.com/projectstorm/react-diagrams)/212 | a super simple, no-nonsense diagramming library written in react that just works |
-| 2296 | 498 | 44 | 1 year, 6 months ago | [angular-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced)/213 | Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more. |
-| 2273 | 211 | 66 | a day ago | [grpc-web](https://github.com/improbable-eng/grpc-web)/214 | gRPC Web implementation for Golang and TypeScript |
-| 2245 | 353 | 0 | 1 year, 7 months ago | [growth-ionic](https://github.com/phodal/growth-ionic)/215 | [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker |
-| 2244 | 600 | 10 | 11 days ago | [mmenu-js](https://github.com/FrDH/mmenu-js)/216 | The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp. |
-| 2235 | 149 | 215 | 8 hours ago | [hint](https://github.com/webhintio/hint)/217 | 💡 A hinting engine for the web |
-| 2215 | 198 | 60 | 2 days ago | [ts-jest](https://github.com/kulshekhar/ts-jest)/218 | TypeScript preprocessor with sourcemap support for Jest |
-| 2213 | 145 | 1 | 3 months ago | [alm](https://github.com/alm-tools/alm)/219 | :rose: A :cloud: ready IDE just for TypeScript :heart: |
-| 2212 | 170 | 216 | 20 days ago | [prettier-vscode](https://github.com/prettier/prettier-vscode)/220 | Visual Studio Code extension for Prettier |
-| 2187 | 283 | 687 | 7 hours ago | [aws-cdk](https://github.com/awslabs/aws-cdk)/221 | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code |
-| 2186 | 246 | 89 | 9 hours ago | [store](https://github.com/ngxs/store)/222 | 🚀 NGXS - State Management for Angular  |
-| 2179 | 195 | 62 | 6 hours ago | [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)/223 | GraphQL code generator with flexible support for custom plugins and templates |
-| 2163 | 137 | 16 | 8 days ago | [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)/224 | Vue.js and Property Decorator |
-| 2147 | 132 | 41 | a day ago | [fp-ts](https://github.com/gcanti/fp-ts)/225 | Functional programming in TypeScript |
-| 2146 | 59 | 32 | 1 year, 5 months ago | [prototype](https://github.com/AssemblyScript/prototype)/226 | (deprecated) The journey continues at ASNEXT: https://github.com/AssemblyScript/assemblyscript |
-| 2139 | 58 | 10 | a month ago | [libreact](https://github.com/streamich/libreact)/227 | Collection of useful React components |
-| 2096 | 202 | 99 | 2 days ago | [lit-element](https://github.com/Polymer/lit-element)/228 | A simple base class for creating fast, lightweight web components |
-| 2083 | 459 | 145 | 12 days ago | [angular2-jwt](https://github.com/auth0/angular2-jwt)/229 | Helper library for handling JWTs in Angular 2+ apps |
-| 2081 | 97 | 2 | 1 year, 8 months ago | [pretty-algorithms](https://github.com/jiayihu/pretty-algorithms)/230 | 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests |
-| 2078 | 168 | 47 | 3 days ago | [type-graphql](https://github.com/19majkel94/type-graphql)/231 | Create GraphQL schema and resolvers with TypeScript, using classes and decorators! |
-| 2074 | 71 | 16 | 8 days ago | [urql](https://github.com/FormidableLabs/urql)/232 | A highly customizable and versatile GraphQL client for React |
-| 2059 | 166 | 70 | 3 months ago | [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio)/233 | Learn, Teach, Work and Play in the WebAssembly Studio |
-| 2052 | 183 | 223 | 6 months ago | [awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader)/234 | Awesome TypeScript loader for webpack |
-| 2040 | 725 | 80 | 3 months ago | [universal-starter](https://github.com/angular/universal-starter)/235 | Angular Universal starter kit by @AngularClass |
-| 2034 | 411 | 38 | a month ago | [wetty](https://github.com/krishnasrinivas/wetty)/236 | Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better) |
-| 2026 | 318 | 172 | 2 days ago | [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)/237 | Firebase Javascript SDK |
-| 2022 | 51 | 52 | 1 year, 23 days ago | [NyaoVim](https://github.com/rhysd/NyaoVim)/238 | Web-enhanced Extensible Neovim Frontend |
-| 2015 | 201 | 22 | 14 days ago | [codelyzer](https://github.com/mgechev/codelyzer)/239 | Static analysis for Angular projects. |
-| 1996 | 63 | 52 | a day ago | [worker-dom](https://github.com/ampproject/worker-dom)/240 | The same DOM API and Frameworks you know, but in a Web Worker. |
-| 1952 | 296 | 150 | 26 days ago | [covalent](https://github.com/Teradata/covalent)/241 | Teradata UI Platform built on Angular Material |
-| 1938 | 168 | 132 | 2 months ago | [class-validator](https://github.com/typestack/class-validator)/242 | Validation made easy using TypeScript decorators. |
-| 1932 | 198 | 7 | 8 days ago | [idb](https://github.com/jakearchibald/idb)/243 | IndexedDB, but with promises |
-| 1914 | 68 | 28 | 2 months ago | [GhostText](https://github.com/GhostText/GhostText)/244 | 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa). |
-| 1912 | 327 | 92 | 6 months ago | [Hitchhiker](https://github.com/brookshi/Hitchhiker)/245 | a Restful Api test tool |
-| 1905 | 515 | 49 | 6 days ago | [pythonVSCode](https://github.com/DonJayamanne/pythonVSCode)/246 | This extension is now maintained in the Microsoft fork. |
-| 1903 | 131 | 6 | a day ago | [ext-saladict](https://github.com/crimx/ext-saladict)/247 | 聚合词典专业划词翻译，Chrome / Firefox 扩展 |
-| 1902 | 91 | 159 | a day ago | [sapper](https://github.com/sveltejs/sapper)/248 | Military-grade progressive web apps, powered by Svelte |
-| 1884 | 1794 | 278 | 10 hours ago | [ionic-native](https://github.com/ionic-team/ionic-native)/249 | Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support. The successor to ngCordova. Pairs exquisitely with a nice bottle of Ionic Framework. |
-| 1879 | 236 | 32 | 3 months ago | [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter)/250 | Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more! |
-| 1878 | 304 | 2 | a day ago | [notadd](https://github.com/notadd/notadd)/251 | A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。 |
-| 1872 | 60 | 11 | 3 months ago | [jsxstyle](https://github.com/jsxstyle/jsxstyle)/252 | Inline style system for React and Preact |
-| 1863 | 159 | 7 | a day ago | [vscode-react-native](https://github.com/microsoft/vscode-react-native)/253 | VSCode extension for React Native - supports debugging and editor integration |
-| 1860 | 113 | 8 | 2 months ago | [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)/254 | Clean Code concepts adapted for TypeScript |
-| 1853 | 109 | 48 | 6 days ago | [orbit](https://github.com/orbitjs/orbit)/255 | Composable data framework for ambitious web applications. |
-| 1852 | 281 | 137 | a day ago | [apollo-tooling](https://github.com/apollographql/apollo-tooling)/256 | ✏️ Tooling for development and production Apollo workflows |
-| 1847 | 114 | 30 | 12 days ago | [xstream](https://github.com/staltz/xstream)/257 | An extremely intuitive, small, and fast functional reactive stream library for JavaScript |
-| 1844 | 40 | 7 | 19 days ago | [patch-package](https://github.com/ds300/patch-package)/258 | Fix broken node modules instantly  🏃🏽‍♀️💨 |
-| 1835 | 150 | 43 | 1 year, 3 months ago | [doppio](https://github.com/plasma-umass/doppio)/259 | Breaks the browser language barrier (includes a plugin-free JVM). |
-| 1832 | 502 | 179 | 14 hours ago | [instagram-private-api](https://github.com/dilame/instagram-private-api)/260 | NodeJS Instagram private API client. Written in TypeScript. |
-| 1817 | 70 | 4 | 2 months ago | [asyncawait](https://github.com/yortus/asyncawait)/261 | Callback heaven for Node.js with async/await |
-| 1817 | 88 | 10 | a month ago | [mirage](https://github.com/appbaseio/mirage)/262 | :art: GUI for simplifying Elasticsearch Query DSL |
-| 1815 | 417 | 231 | 6 hours ago | [voice-web](https://github.com/mozilla/voice-web)/263 | Common Voice is part of Mozilla's initiative to help teach machines how real people speak. |
-| 1812 | 244 | 343 | 10 hours ago | [vega-lite](https://github.com/vega/vega-lite)/264 | A concise grammar of interactive graphics, built on Vega. |
-| 1802 | 522 | 246 | a day ago | [ionic-cli](https://github.com/ionic-team/ionic-cli)/265 | The Ionic command-line interface |
-| 1799 | 626 | 20 | a month ago | [javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)/266 | :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book |
-| 1788 | 72 | 3 | a month ago | [redux-zero](https://github.com/redux-zero/redux-zero)/267 | A lightweight state container based on Redux  |
-| 1785 | 182 | 26 | 17 days ago | [colyseus](https://github.com/colyseus/colyseus)/268 | ⚔ Multiplayer Game Server for Node.js |
-| 1779 | 179 | 40 | 28 days ago | [code-settings-sync](https://github.com/shanalikhan/code-settings-sync)/269 | 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST 💪🌴 |
-| 1779 | 60 | 0 | a month ago | [1backend](https://github.com/1backend/1backend)/270 | Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas. |
-| 1768 | 80 | 49 | a month ago | [react-apollo-hooks](https://github.com/trojanowski/react-apollo-hooks)/271 | Use Apollo Client as React hooks |
-| 1763 | 408 | 269 | a day ago | [survey-library](https://github.com/surveyjs/survey-library)/272 | JavaScript Survey and Form Library |
-| 1754 | 237 | 32 | 21 days ago | [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)/273 | 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool) |
-| 1754 | 184 | 25 | 15 days ago | [augury](https://github.com/rangle/augury)/274 | Angular Debugging and Visualization Tools |
-| 1752 | 264 | 516 | 18 hours ago | [loopback-next](https://github.com/strongloop/loopback-next)/275 | LoopBack makes it easy to build modern API applications that require complex integrations. |
-| 1752 | 196 | 143 | 1 year, 22 days ago | [routing-controllers](https://github.com/typestack/routing-controllers)/276 | Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework. |
-| 1745 | 46 | 3 | 27 days ago | [constate](https://github.com/diegohaz/constate)/277 | Scalable state using React Hooks & Context |
-| 1725 | 97 | 10 | 2 months ago | [react-mosaic](https://github.com/nomcopter/react-mosaic)/278 | A React tiling window manager |
-| 1689 | 33 | 17 | a month ago | [sucrase](https://github.com/alangpierce/sucrase)/279 | Super-fast alternative to Babel for when you can target modern JS runtimes |
-| 1686 | 162 | 320 | a day ago | [tridactyl](https://github.com/tridactyl/tridactyl)/280 | A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl. |
-| 1679 | 57 | 24 | 5 days ago | [io-ts](https://github.com/gcanti/io-ts)/281 | Runtime type system for IO decoding/encoding |
-| 1668 | 339 | 4 | 21 days ago | [dotdotdot-js](https://github.com/FrDH/dotdotdot-js)/282 | dotdotdot.js, advanced cross-browser ellipsis for multiple line content. |
-| 1658 | 39 | 1 | 11 days ago | [microjob](https://github.com/wilk/microjob)/283 | A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads. |
-| 1653 | 343 | 43 | 4 days ago | [vscode-icons](https://github.com/vscode-icons/vscode-icons)/284 | Icons for Visual Studio Code |
-| 1650 | 248 | 61 | 7 days ago | [laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server)/285 | Socket.io server for Laravel Echo |
-| 1645 | 634 | 56 | 2 months ago | [angular-google-maps](https://github.com/SebastianM/angular-google-maps)/286 | Angular 2+ Google Maps Components |
-| 1642 | 49 | 8 | 8 days ago | [react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit)/287 | A utility library for highly configurable layout transitions |
-| 1641 | 388 | 19 | 21 days ago | [firekylin](https://github.com/firekylin/firekylin)/288 | A Simple & Fast Node.js Blogging Platform Base On ThinkJS3 & React & ES2015+ |
-| 1634 | 49 | 18 | a month ago | [strest](https://github.com/eykrehbein/strest)/289 | ⚡️ Set up tests for REST in seconds with YAML |
-| 1631 | 75 | 62 | 7 months ago | [graphql-request](https://github.com/prisma/graphql-request)/290 | 📡  Minimal GraphQL client supporting Node and browsers for scripts or simple apps |
-| 1629 | 41 | 21 | 5 days ago | [tsdx](https://github.com/palmerhq/tsdx)/291 | Zero-config CLI for TypeScript package development |
-| 1620 | 128 | 108 | 14 days ago | [recyclerlistview](https://github.com/Flipkart/recyclerlistview)/292 | High performance listview for React Native and web! |
-| 1615 | 54 | 3 | 6 days ago | [redux-react-hook](https://github.com/facebookincubator/redux-react-hook)/293 | React Hook for accessing state and dispatch from a Redux store |
-| 1614 | 551 | 340 | 1 year, 5 months ago | [ng2-file-upload](https://github.com/valor-software/ng2-file-upload)/294 | Easy to use Angular components for files upload |
-| 1609 | 58 | 13 | 22 days ago | [navi](https://github.com/frontarm/navi)/295 | Declarative, asynchronous routing for React. |
-| 1607 | 220 | 61 | 7 days ago | [vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug)/296 | Debug your JavaScript code running in Google Chrome from VS Code. |
-| 1602 | 404 | 49 | 6 months ago | [ng2-dragula](https://github.com/valor-software/ng2-dragula)/297 | Simple drag and drop with dragula |
-| 1600 | 701 | 37 | 9 months ago | [ionic3-components](https://github.com/yannbf/ionic3-components)/298 | A project full of ionic 3 components and samples - to make life easier :) |
-| 1595 | 41 | 44 | 2 days ago | [tsdoc](https://github.com/microsoft/tsdoc)/299 | A doc comment standard for the TypeScript language |
-| 1573 | 44 | 16 | 11 days ago | [bloomrpc](https://github.com/uw-labs/bloomrpc)/300 | GUI Client for GRPC Services |
-| 1572 | 261 | 34 | a day ago | [zent](https://github.com/youzan/zent)/301 | A collection of essential UI components written with React. |
-| 1559 | 146 | 29 | 3 days ago | [smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar)/302 | Customizable, Pluginable, and High Performance Scrollbars! |
-| 1557 | 204 | 65 | 29 days ago | [gh](https://github.com/node-gh/gh)/303 | GitHub CLI made with NodeJS |
-| 1554 | 509 | 12 | 19 days ago | [angular-calendar](https://github.com/mattlewis92/angular-calendar)/304 | A flexible calendar component for angular 6.0+ that can display events on a month, week or day view. |
-| 1554 | 37 | 0 | 18 days ago | [wretch](https://github.com/elbywan/wretch)/305 | A tiny wrapper built around fetch with an intuitive syntax. :candy: |
-| 1538 | 515 | 30 | 13 days ago | [angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter)/306 | Angular, NgRx, Angular CLI & Angular Material Starter Project |
-| 1528 | 42 | 10 | 4 days ago | [cherow](https://github.com/cherow/cherow)/307 | Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability |
-| 1526 | 89 | 20 | 9 months ago | [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list)/308 | A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more! |
-| 1516 | 2326 | 0 | 2 months ago | [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)/309 | Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted |
-| 1511 | 128 | 56 | 5 months ago | [typescript-starter](https://github.com/bitjson/typescript-starter)/310 | Quickly create and configure a new library or Node.js project |
-| 1509 | 152 | 46 | a day ago | [clasp](https://github.com/google/clasp)/311 | 🔗 Develop Apps Script projects locally. |
-| 1507 | 45 | 11 | 8 months ago | [react-adopt](https://github.com/pedronauck/react-adopt)/312 | :sunglasses: Compose render props components like a pro |
-| 1502 | 34 | 14 | a day ago | [type-fest](https://github.com/sindresorhus/type-fest)/313 | A collection of essential TypeScript types |
-| 1495 | 359 | 105 | 12 days ago | [ng-select](https://github.com/ng-select/ng-select)/314 | :star: Native angular 6+ select component |
-| 1486 | 235 | 17 | 14 days ago | [vuesion](https://github.com/vuesion/vuesion)/315 | The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices |
-| 1485 | 58 | 21 | a day ago | [graphql-shield](https://github.com/maticzav/graphql-shield)/316 | 🛡 A GraphQL tool to ease the creation of permission layer. |
-| 1474 | 1542 | 42 | a month ago | [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js)/317 | Spring Security and Angular:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication. |
-| 1473 | 111 | 4 | 1 year, 2 months ago | [fonts.css](https://github.com/zenozeng/fonts.css)/318 | 跨平台 CSS 中文字体解决方案 |
-| 1473 | 67 | 13 | a day ago | [gts](https://github.com/google/gts)/319 | ☂️ TypeScript style guide, formatter, and linter.   |
-| 1467 | 439 | 24 | 14 days ago | [ng2-charts](https://github.com/valor-software/ng2-charts)/320 | Beautiful charts for Angular based on Chart.js |
-| 1457 | 180 | 102 | 7 days ago | [material-components-web-react](https://github.com/material-components/material-components-web-react)/321 | Material Components for React (MDC React) |
-| 1450 | 1139 | 586 | 6 hours ago | [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)/322 | Tasks for Azure Pipelines |
-| 1445 | 253 | 77 | 11 days ago | [webpack-cli](https://github.com/webpack/webpack-cli)/323 | Webpack's Command Line Interface |
-| 1429 | 90 | 56 | a month ago | [remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter)/324 | Debug Safari and WebViews on iOS from tools like VS Code, Chrome DevTools, Mozilla Debugger.html |
-| 1424 | 442 | 12 | 1 year, 5 months ago | [colmena](https://github.com/colmena/colmena)/325 | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️ |
-| 1416 | 48 | 13 | 11 months ago | [react-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform)/326 | Convert React JavaScript code to TypeScript with proper typing |
-| 1406 | 28 | 2 | 5 months ago | [reworm](https://github.com/pedronauck/reworm)/327 | 🍫 the simplest way to manage state |
-| 1393 | 99 | 35 | 2 months ago | [router5](https://github.com/router5/router5)/328 | Flexible and powerful universal routing solution |
-| 1391 | 118 | 3 | 8 days ago | [blaze](https://github.com/BlazeSoftware/blaze)/329 | Framework-free open source UI toolkit |
-| 1389 | 53 | 0 | a day ago | [vditor](https://github.com/b3log/vditor)/330 | ♏ 一款浏览器端的 Markdown 编辑器。 |
-| 1388 | 122 | 10 | 3 days ago | [reactql](https://github.com/leebenson/reactql)/331 | Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR |
-| 1386 | 93 | 165 | 9 days ago | [vim-vixen](https://github.com/ueokande/vim-vixen)/332 | Accelerate your browsing with Vim power!! |
-| 1379 | 112 | 64 | 3 months ago | [apollo-link-state](https://github.com/apollographql/apollo-link-state)/333 | ✨ Manage your application's state with Apollo! |
-| 1367 | 123 | 24 | 22 days ago | [superpowers-core](https://github.com/superpowers/superpowers-core)/334 | :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects |
-| 1366 | 240 | 27 | 9 days ago | [gitgraph.js](https://github.com/nicoespeon/gitgraph.js)/335 | A JavaScript library to draw pretty git graphs in the browser |
-| 1365 | 490 | 351 | 19 days ago | [ipywidgets](https://github.com/jupyter-widgets/ipywidgets)/336 | Interactive Widgets for the Jupyter Notebook |
-| 1362 | 191 | 14 | 11 months ago | [TouchDevelop](https://github.com/microsoft/TouchDevelop)/337 | TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet! |
-| 1357 | 475 | 99 | a month ago | [aspnetcore-angular-universal](https://github.com/TrilonIO/aspnetcore-angular-universal)/338 | ASP.NET Core & Angular Universal advanced starter - PWA w/ server-side rendering for SEO, Bootstrap, i18n internationalization, TypeScript, unit testing, WebAPI REST setup, SignalR, Swagger docs, and more! By @TrilonIO |
-| 1352 | 224 | 8 | 7 days ago | [vue-slider-component](https://github.com/NightCatSama/vue-slider-component)/339 | 🌡 A highly customized slider component |
-| 1348 | 217 | 64 | 10 months ago | [store](https://github.com/angular-redux/store)/340 | Angular 2+ bindings for Redux |
-| 1348 | 106 | 2 | 11 hours ago | [browserless](https://github.com/joelgriffith/browserless)/341 | Chrome as a service in docker. Bring your own cloud or hardware. |
-| 1346 | 294 | 31 | 3 days ago | [rrule](https://github.com/jakubroztocil/rrule)/342 | JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more. |
-| 1343 | 460 | 166 | 1 year, 8 months ago | [angular-gantt](https://github.com/angular-gantt/angular-gantt)/343 | Gantt chart component for AngularJS |
-| 1336 | 297 | 79 | 10 days ago | [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer)/344 | 🚀 tiny & fast lib for react native image viewer pan and zoom |
-| 1335 | 88 | 154 | 3 months ago | [vscode-jest](https://github.com/jest-community/vscode-jest)/345 | The optimal flow for Jest based testing in VS Code |
-| 1331 | 123 | 2 | 8 days ago | [cookies](https://github.com/reactivestack/cookies)/346 | Load and save cookies within your React application |
-| 1330 | 202 | 59 | 5 days ago | [WebCola](https://github.com/tgdwyer/WebCola)/347 | Javascript constraint-based graph layout |
-| 1328 | 116 | 17 | 2 days ago | [prettydiff](https://github.com/prettydiff/prettydiff)/348 | Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things. |
-| 1327 | 183 | 166 | 6 days ago | [ng-packagr](https://github.com/ng-packagr/ng-packagr)/349 | Transpile your component libraries to Angular Package Format. |
-| 1324 | 43 | 7 | 2 months ago | [webpack-bundle-size-analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer)/350 | A tool for finding out what contributes to the size of Webpack bundles |
-| 1322 | 275 | 94 | 16 days ago | [VoTT](https://github.com/microsoft/VoTT)/351 | Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.  |
-| 1321 | 207 | 156 | a day ago | [nx](https://github.com/nrwl/nx)/352 | Angular CLI power-ups for modern development |
-| 1315 | 161 | 75 | 8 days ago | [class-transformer](https://github.com/typestack/class-transformer)/353 | Proper decorator-based transformation / serialization / deserialization of plain javascript objects to class constructors |
-| 1311 | 496 | 24 | 1 year, 9 months ago | [example-app](https://github.com/ngrx/example-app)/354 | Example app showcasing the ngrx platform |
-| 1301 | 47 | 17 | 4 days ago | [svg-term-cli](https://github.com/marionebl/svg-term-cli)/355 | Share terminal sessions via SVG and CSS |
-| 1295 | 89 | 81 | 10 hours ago | [vscode-restclient](https://github.com/Huachao/vscode-restclient)/356 | REST Client Extension for Visual Studio Code |
-| 1289 | 48 | 4 | 29 days ago | [list](https://github.com/funkia/list)/357 | 🐆 An immutable list with unmatched performance and a comprehensive functional API. |
-| 1285 | 170 | 35 | 12 hours ago | [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)/358 | Created from react styleguidist for Vue Components with a living style guide |
-| 1284 | 103 | 2 | 6 hours ago | [akita](https://github.com/datorama/akita)/359 | 🚀 State Management Tailored-Made for JS Applications |
-| 1278 | 260 | 19 | 2 months ago | [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary)/360 | Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。 |
-| 1266 | 80 | 3 | 2 months ago | [bdash](https://github.com/bdash-app/bdash)/361 | Simple SQL Client for lightweight data analysis. |
-| 1262 | 609 | 12 | 21 hours ago | [node-sdk](https://github.com/watson-developer-cloud/node-sdk)/362 | :comet: Node.js library to access IBM Watson services. |
-| 1260 | 653 | 10 | 2 months ago | [angularspree](https://github.com/aviabird/angularspree)/363 | angular ecommerce framework for online store |
-| 1260 | 209 | 103 | 2 days ago | [kubeapps](https://github.com/kubeapps/kubeapps)/364 | A web-based UI for deploying and managing applications in Kubernetes clusters |
-| 1257 | 100 | 6 | 5 months ago | [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs)/365 | Demo of in-browser Fast Neural Style Transfer with deeplearn.js library |
-| 1257 | 254 | 12 | 1 year, 9 months ago | [angular2-hn](https://github.com/housseindjirdeh/angular2-hn)/366 | :boom: Progressive Hacker News client built with Angular |
-| 1255 | 55 | 11 | 2 days ago | [altair](https://github.com/imolorhe/altair)/367 | ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. |
-| 1254 | 25 | 4 | 2 months ago | [retoggle](https://github.com/Raathigesh/retoggle)/368 | 🎨 UI controls as React Hooks to control your component state from outside |
-| 1254 | 518 | 22 | a day ago | [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)/369 | Sample code illustrating the VS Code extension API. |
-| 1254 | 35 | 0 | 4 months ago | [base65536](https://github.com/qntm/base65536)/370 | Unicode's answer to Base64 |
-| 1254 | 638 | 740 | 2 months ago | [ng2-smart-table](https://github.com/akveo/ng2-smart-table)/371 | Angular Smart Data Table component |
-| 1250 | 144 | 23 | a month ago | [router.js](https://github.com/tildeio/router.js)/372 | None |
-| 1241 | 67 | 52 | 2 days ago | [textlint](https://github.com/textlint/textlint)/373 | The pluggable natural language linter for text and markdown. |
-| 1233 | 59 | 19 | 2 months ago | [kactus](https://github.com/kactus-io/kactus)/374 | :cactus: A true version control tool for designers |
-| 1232 | 430 | 13 | a month ago | [angular-bootstrap-datetimepicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker)/375 | Native Angular date/time picker component styled by Twitter Bootstrap |
-| 1231 | 187 | 26 | 5 months ago | [node-csvtojson](https://github.com/Keyang/node-csvtojson)/376 | Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.  |
-| 1230 | 20 | 19 | 21 days ago | [undux](https://github.com/bcherny/undux)/377 | ⚡️ Dead simple state for React. Now with Hooks support. |
-| 1227 | 201 | 56 | 1 year, 10 months ago | [line-chart](https://github.com/n3-charts/line-chart)/378 | Awesome charts for AngularJS. |
-| 1226 | 192 | 6 | 3 months ago | [rgbaster.js](https://github.com/briangonzalez/rgbaster.js)/379 | 🎨 A simple library for extracting dominant colors from images. |
-| 1226 | 140 | 0 | 1 year, 1 month ago | [polymer-bundler](https://github.com/Polymer/polymer-bundler)/380 | Moved to Polymer/tools monorepo  |
-| 1224 | 85 | 20 | 8 days ago | [graphql-faker](https://github.com/APIs-guru/graphql-faker)/381 | 🎲 Mock or extend your GraphQL API with faked data. No coding required. |
-| 1212 | 49 | 9 | a month ago | [react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)/382 | react wrapper components for smooth-dnd |
-| 1198 | 84 | 40 | 12 days ago | [tessera](https://github.com/tessera-metrics/tessera)/383 | A dashboard front-end for graphite.   |
-| 1191 | 97 | 8 | 8 days ago | [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin)/384 | A webpack plugin to remove your build folder(s) before building |
-| 1172 | 296 | 473 | 14 hours ago | [omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode)/385 | Official C# support for Visual Studio Code (powered by OmniSharp) |
-| 1166 | 42 | 21 | 3 days ago | [mockoon](https://github.com/mockoon/mockoon)/386 | Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. |
-| 1163 | 344 | 54 | a month ago | [html5sortable](https://github.com/lukasoppermann/html5sortable)/387 | VanillaJS sortable lists and grids using native HTML5 drag and drop API. |
-| 1162 | 30 | 2 | 15 days ago | [react-hanger](https://github.com/kitze/react-hanger)/388 | A collection of useful React hooks  |
-| 1161 | 332 | 42 | a month ago | [eosjs](https://github.com/EOSIO/eosjs)/389 | General purpose library for the EOS blockchain.  |
-| 1156 | 136 | 32 | 3 months ago | [python-shell](https://github.com/extrabacon/python-shell)/390 | Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio |
-| 1156 | 50 | 4 | 5 months ago | [await-to-js](https://github.com/scopsy/await-to-js)/391 | Async await wrapper for easy error handling without try-catch |
-| 1150 | 85 | 15 | 2 days ago | [jscpd](https://github.com/kucherenko/jscpd)/392 | Copy/paste detector for programming source code. |
-| 1147 | 332 | 32 | 2 months ago | [geofire-js](https://github.com/firebase/geofire-js)/393 | GeoFire for JavaScript - Realtime location queries with Firebase |
-| 1145 | 82 | 31 | 11 days ago | [quirk](https://github.com/Flaque/quirk)/394 | ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android |
-| 1142 | 40 | 6 | 5 months ago | [cliflix](https://github.com/fabiospampinato/cliflix)/395 | Watch anything instantaneously, just write its name. |
-| 1135 | 615 | 38 | a month ago | [loklak_search](https://github.com/fossasia/loklak_search)/396 | Frontend Search for loklak server http://loklak.org |
-| 1130 | 337 | 35 | 6 hours ago | [ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)/397 | Real-time trading platform demo showcasing reactive programming principles applied across the full application stack. |
-| 1128 | 135 | 81 | 2 years ago | [tsd](https://github.com/DefinitelyTyped/tsd)/398 | [DEPRECATED] TypeScript Definition manager for DefinitelyTyped |
-| 1126 | 292 | 77 | 2 years ago | [blueprint3d](https://github.com/furnishup/blueprint3d)/399 | Build interior spaces in 3D |
-| 1115 | 28 | 3 | 6 days ago | [marble](https://github.com/marblejs/marble)/400 | Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS. |
-| 1112 | 135 | 43 | 15 days ago | [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)/401 | Decorators and some other features for sequelize |
-| 1112 | 44 | 54 | 2 months ago | [speedscope](https://github.com/jlfwong/speedscope)/402 | 🔬 A fast, interactive web-based viewer for performance profiles. |
-| 1111 | 258 | 157 | 9 hours ago | [apollo-link](https://github.com/apollographql/apollo-link)/403 | :link: Interface for fetching and modifying control flow of GraphQL requests |
-| 1101 | 54 | 16 | 3 months ago | [pwmetrics](https://github.com/paulirish/pwmetrics)/404 | Progressive web metrics at your fingertipz |
-| 1100 | 44 | 13 | 3 days ago | [typesafe-actions](https://github.com/piotrwitek/typesafe-actions)/405 | Typesafe utilities for "action-creators" in Redux / Flux Architecture |
-| 1097 | 182 | 22 | 4 days ago | [ngx-toastr](https://github.com/scttcper/ngx-toastr)/406 | 🍞 Angular Toastr |
-| 1096 | 383 | 24 | 2 months ago | [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator)/407 | QR Code Generator implementation in JavaScript, Java and more. |
-| 1088 | 542 | 18 | 27 days ago | [Angular-Full-Stack](https://github.com/DavideViolante/Angular-Full-Stack)/408 | Angular Full Stack project built using Angular 2+, Express, Mongoose and Node. Whole stack in TypeScript. |
-| 1087 | 97 | 17 | a day ago | [wexond](https://github.com/wexond/wexond)/409 | A privacy-focused, extensible and beautiful web browser |
-| 1084 | 646 | 1 | 27 days ago | [angular7-example-app](https://github.com/Ismaestro/angular7-example-app)/410 | Angular 7 Example App + Angular CLI + Angular Universal + i18n + Firebase |
-| 1082 | 166 | 151 | 26 days ago | [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)/411 | Launch a development local Server with live reload feature for static & dynamic pages. |
-| 1080 | 163 | 43 | 3 months ago | [jsQR](https://github.com/cozmo/jsQR)/412 | A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within. |
-| 1078 | 193 | 32 | a month ago | [Autolinker.js](https://github.com/gregjacobs/Autolinker.js)/413 | Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML |
-| 1077 | 54 | 95 | 2 months ago | [dts-gen](https://github.com/microsoft/dts-gen)/414 | dts-gen creates starter TypeScript definition files for any module or library. |
-| 1070 | 81 | 32 | 16 days ago | [redux-starter-kit](https://github.com/reduxjs/redux-starter-kit)/415 |  A simple set of tools to make using Redux easier |
-| 1069 | 209 | 10 | 3 days ago | [react-typescript-samples](https://github.com/Lemoncode/react-typescript-samples)/416 | The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript. |
-| 1068 | 102 | 159 | a month ago | [itch](https://github.com/itchio/itch)/417 | 🎮 The best way to play your itch.io games |
-| 1055 | 275 | 17 | 9 days ago | [ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn)/418 | Ant Design for React Native |
-| 1049 | 91 | 43 | 4 days ago | [chevrotain](https://github.com/SAP/chevrotain)/419 | Parser Building Toolkit for JavaScript |
-| 1049 | 210 | 149 | 9 hours ago | [nativescript-angular](https://github.com/NativeScript/nativescript-angular)/420 | Integrating NativeScript with Angular |
-| 1048 | 101 | 24 | 11 days ago | [utterances](https://github.com/utterance/utterances)/421 | :crystal_ball: A lightweight comments widget built on GitHub issues |
-| 1046 | 737 | 24 | 1 year, 9 months ago | [angular2-seed](https://github.com/angular/angular2-seed)/422 | None |
-| 1046 | 1043 | 196 | 3 months ago | [insight](https://github.com/bitpay/insight)/423 | A bitcoin blockchain explorer and API |
-| 1043 | 63 | 6 | a month ago | [ngrev](https://github.com/mgechev/ngrev)/424 | Tool for reverse engineering of Angular applications |
-| 1042 | 23 | 8 | 15 hours ago | [faast.js](https://github.com/faastjs/faast.js)/425 | Serverless batch computing made simple. |
-| 1039 | 324 | 26 | 16 hours ago | [0x-monorepo](https://github.com/0xProject/0x-monorepo)/426 | 0x protocol monorepo - includes our smart contracts and many developer tools |
-| 1037 | 82 | 9 | a month ago | [zan-proxy](https://github.com/youzan/zan-proxy)/427 | An extensible proxy for PC/Mobile/APP developer |
-| 1032 | 101 | 18 | 8 days ago | [rmwc](https://github.com/jamesmfriedman/rmwc)/428 | A React wrapper for Material Design (Web) Components |
-| 1031 | 200 | 238 | a month ago | [atom-typescript](https://github.com/TypeStrong/atom-typescript)/429 | The only TypeScript package you will ever need |
-| 1031 | 491 | 10 | 9 days ago | [grafana-dashboards](https://github.com/percona/grafana-dashboards)/430 | Grafana dashboards for MySQL and MongoDB monitoring using Prometheus |
-| 1030 | 136 | 35 | 2 months ago | [ngx-moment](https://github.com/urish/ngx-moment)/431 | moment.js pipes for Angular |
-| 1028 | 317 | 3 | 18 days ago | [angular-samples](https://github.com/thelgevold/angular-samples)/432 | Angular sample components |
-| 1024 | 86 | 9 | a month ago | [vsc-material-theme](https://github.com/equinusocio/vsc-material-theme)/433 | Material Theme, the most epic theme for Visual Studio Code |
-| 1022 | 30 | 4 | 20 hours ago | [indigo-player](https://github.com/matvp91/indigo-player)/434 | Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element. |
-| 1019 | 392 | 59 | 1 year, 3 months ago | [hybrid](https://github.com/wordpress-clients/hybrid)/435 | [I don't have time to work on this anymore. Use at your own risk] Build WordPress based PWA, iOS, Android & Windows phones apps in minutes! |
-| 1017 | 431 | 131 | 17 hours ago | [BotFramework-Emulator](https://github.com/microsoft/BotFramework-Emulator)/436 | Bot Framework Emulator |
-| 1009 | 78 | 99 | a day ago | [graphql-cli](https://github.com/graphql-cli/graphql-cli)/437 | 📟  Command line tool for common GraphQL development workflows |
-| 1008 | 39 | 18 | a day ago | [reactn](https://github.com/CharlesStover/reactn)/438 | React, but with built-in global state management. |
-| 1008 | 113 | 3 | a day ago | [beeshell](https://github.com/Meituan-Dianping/beeshell)/439 | React Native 组件库 |
-| 1008 | 111 | 4 | 15 hours ago | [unform](https://github.com/Rocketseat/unform)/440 | ReactJS form library to create uncontrolled form structures with nested fields, validations and much more! |
-| 1008 | 130 | 2 | a month ago | [gcoord](https://github.com/hujiulong/gcoord)/441 | 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转 |
-| 1005 | 53 | 37 | 2 days ago | [gluegun](https://github.com/infinitered/gluegun)/442 | A delightful toolkit for building Node-powered CLIs. |
-| 1004 | 175 | 100 | 2 years ago | [ngSemantic](https://github.com/vladotesanovic/ngSemantic)/443 | Angular 2 building blocks :package: based on Semantic UI |
-| 1001 | 323 | 91 | a month ago | [susper.com](https://github.com/fossasia/susper.com)/444 | Susper Decentralised Search Engine https://susper.com |
-| 1000 | 147 | 66 | 2 months ago | [react-rnd](https://github.com/bokuweb/react-rnd)/445 | 🖱  A resizable and draggable component for React. |
-| 998 | 42 | 4 | a day ago | [emma-cli](https://github.com/maticzav/emma-cli)/446 | 📦 Terminal assistant to find and install node packages. |
-| 995 | 70 | 30 | a month ago | [graphql-subscriptions](https://github.com/apollographql/graphql-subscriptions)/447 | :newspaper: A small module that implements GraphQL subscriptions for Node.js |
-| 993 | 94 | 17 | 8 hours ago | [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex)/448 | Make Zotero effective for us LaTeX holdouts |
-| 991 | 202 | 14 | 9 months ago | [WebGlobe](https://github.com/iSpring/WebGlobe)/449 | 基于HTML5原生WebGL实现的轻量级Google Earth三维地图引擎 |
-| 987 | 80 | 51 | 16 days ago | [vimflowy](https://github.com/WuTheFWasThat/vimflowy)/450 | An open source productivity tool drawing inspiration from workflowy and vim |
-| 983 | 79 | 34 | 3 months ago | [reflect-metadata](https://github.com/rbuckton/reflect-metadata)/451 | Prototype for a Metadata Reflection API for ECMAScript |
-| 978 | 78 | 27 | 2 months ago | [parrot](https://github.com/parrot-translate/parrot)/452 | Self-hosted Localization Management Platform built with Go and Angular |
-| 976 | 102 | 66 | 9 hours ago | [stryker](https://github.com/stryker-mutator/stryker)/453 | Mutation testing for JavaScript and friends |
-| 974 | 183 | 149 | 12 days ago | [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws)/454 | :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions |
-| 972 | 37 | 84 | a day ago | [stylable](https://github.com/wix/stylable)/455 | Stylable - CSS for components  |
-| 971 | 270 | 102 | 3 days ago | [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl)/456 | A React binding of mapbox-gl-js |
-| 965 | 159 | 122 | 3 days ago | [browser](https://github.com/bitwarden/browser)/457 | The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more). |
-| 964 | 292 | 20 | 5 days ago | [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)/458 | Accessible, customizable, delightful date & time pickers for @material-ui/core |
-| 957 | 53 | 0 | 22 days ago | [awilix](https://github.com/jeffijoe/awilix)/459 | Extremely powerful Inversion of Control (IoC) container for Node.JS |
-| 954 | 107 | 378 | 2 days ago | [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)/460 | GitHub Pull Requests for Visual Studio Code |
-| 948 | 578 | 2 | 2 months ago | [Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)/461 | Angular and TypeScript JumpStart example application |
-| 943 | 133 | 87 | 2 days ago | [glimmer-vm](https://github.com/glimmerjs/glimmer-vm)/462 | None |
-| 939 | 62 | 8 | 2 months ago | [react-placeholder](https://github.com/buildo/react-placeholder)/463 | A React component to easily replicate your page with nice placeholders while the content is loading |
-| 938 | 35 | 11 | 10 hours ago | [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite)/464 | Lightweight React bindings for MobX based on React 16.8 and Hooks |
-| 931 | 88 | 15 | 2 days ago | [tfjs-node](https://github.com/tensorflow/tfjs-node)/465 | TensorFlow powered JavaScript library for training and deploying ML models on Node.js. |
-| 930 | 121 | 0 | 3 days ago | [ngx-pipes](https://github.com/danrevah/ngx-pipes)/466 | ⚡️ Useful pipes for Angular with no external dependencies!  |
-| 930 | 53 | 9 | 2 months ago | [vuex-class](https://github.com/ktsn/vuex-class)/467 | Binding helpers for Vuex and vue-class-component |
-| 927 | 30 | 17 | 9 months ago | [navalia](https://github.com/joelgriffith/navalia)/468 | A bullet-proof, fast, and reliable headless browser API |
-| 923 | 180 | 15 | 7 months ago | [ngx-pagination](https://github.com/michaelbromley/ngx-pagination)/469 | Pagination for Angular |
-| 921 | 60 | 32 | a day ago | [bolt](https://github.com/slackapi/bolt)/470 | A framework for building Slack apps |
-| 919 | 150 | 57 | 6 days ago | [generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket)/471 | :rocket: Extensible Angular 7+ enterprise-grade project generator |
-| 914 | 195 | 615 | 7 days ago | [chronograf](https://github.com/influxdata/chronograf)/472 | Open source monitoring and visualization UI for the TICK stack |
-| 912 | 61 | 29 | 2 months ago | [react-uwp](https://github.com/myxvisual/react-uwp)/473 | 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design. |
-| 906 | 30 | 1 | a day ago | [tslint-config-prettier](https://github.com/prettier/tslint-config-prettier)/474 | Use tslint with prettier without any conflict |
-| 906 | 212 | 11 | 7 months ago | [angular-webpack-starter](https://github.com/qdouble/angular-webpack-starter)/475 | A complete Angular 6 and Webpack 4 starter seed with minimal and full featured branches. Full featured branch includes: Material Design 2 (Bootstrap 4 branch available as well), @ngrx, HMR, DLLs and optional use of Universal for server-side rendering - Supports AOT (offline) compilation, sync and lazy loading. Karma/Protractor for e2e/unit tests. |
-| 904 | 119 | 203 | 22 days ago | [ng-toolkit](https://github.com/maciejtreder/ng-toolkit)/476 | :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more |
-| 902 | 97 | 61 | 2 months ago | [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)/477 | Compile JSONSchema to TypeScript typings |
-| 901 | 58 | 24 | 10 months ago | [typedi](https://github.com/typestack/typedi)/478 | Simple yet powerful dependency injection tool for JavaScript and TypeScript. |
-| 898 | 270 | 50 | 26 days ago | [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms)/479 | Rapid form development library for Angular |
-| 898 | 50 | 11 | a month ago | [traduora](https://github.com/traduora/traduora)/480 | Translation management platform for teams |
-| 898 | 34 | 15 | 10 months ago | [learnrelay](https://github.com/learnrelay/learnrelay)/481 | Learn Relay - A comprehensive introduction to Relay (created by Graphcool) |
-| 887 | 120 | 10 | 14 days ago | [saas](https://github.com/async-labs/saas)/482 | Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript. |
-| 880 | 136 | 159 | 2 days ago | [Memex](https://github.com/WorldBrain/Memex)/483 | Browser Extension to full-text search your browsing history & bookmarks. |
-| 877 | 44 | 9 | 4 days ago | [vuese](https://github.com/vuese/vuese)/484 | 🤗 One-stop solution for vue component documentation |
-| 869 | 99 | 79 | 20 hours ago | [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown)/485 | Markdown All in One |
-| 868 | 34 | 34 | 2 days ago | [prime](https://github.com/birkir/prime)/486 | ✨Open Source GraphQL CMS |
-| 868 | 295 | 6 | a month ago | [jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable)/487 | jsPDF plugin for generating PDF tables with javascript |
-| 865 | 37 | 15 | 19 days ago | [umbrella](https://github.com/thi-ng/umbrella)/488 | ⛱ Mono-repository of ~90 TypeScript/ES6 projects for functional, data driven development |
-| 863 | 152 | 306 | 5 days ago | [amplify-cli](https://github.com/aws-amplify/amplify-cli)/489 | A CLI toolchain for simplifying serverless web and mobile development. |
-| 862 | 37 | 10 | a month ago | [react-circle](https://github.com/zzarcon/react-circle)/490 | Renders a svg circle + progress, it just works 💘 |
-| 856 | 184 | 63 | 4 months ago | [in-memory-web-api](https://github.com/angular/in-memory-web-api)/491 | None |
-| 852 | 283 | 59 | 3 days ago | [DIM](https://github.com/DestinyItemManager/DIM)/492 | Destiny Item Manager |
-| 852 | 264 | 178 | 1 year, 5 months ago | [ng2-dnd](https://github.com/akserg/ng2-dnd)/493 | Angular 2 Drag-and-Drop without dependencies |
-| 851 | 160 | 37 | 17 days ago | [angulartics2](https://github.com/angulartics/angulartics2)/494 | Vendor-agnostic analytics for Angular2 applications. |
-| 848 | 232 | 214 | a month ago | [datalab](https://github.com/googledatalab/datalab)/495 | Interactive tools and developer experiences for Big Data on Google Cloud Platform. |
-| 846 | 209 | 0 | 3 days ago | [Angular-Bootstrap-with-Material-Design](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design)/496 | Angular Bootstrap with Material Design - Powerful and free UI KIT |
-| 842 | 211 | 15 | 3 days ago | [ngx-formly](https://github.com/ngx-formly/ngx-formly)/497 | JSON powered / Dynamic forms in Angular |
-| 840 | 324 | 117 | 2 months ago | [angular-tree-component](https://github.com/500tech/angular-tree-component)/498 | A simple yet powerful tree component for Angular (>=2) |
-| 837 | 28 | 7 | a month ago | [flipping](https://github.com/davidkpiano/flipping)/499 | Flipping awesome animations. |
-| 837 | 300 | 23 | a month ago | [react-geosuggest](https://github.com/ubilabs/react-geosuggest)/500 | A React autosuggest for the Google Maps Places API. |
-| 761 | 221 | 370 | a day ago | [vscode-powershell](https://github.com/PowerShell/vscode-powershell)/501 | Provides PowerShell language and debugging support for Visual Studio Code |
-| 759 | 79 | 12 | 13 days ago | [avataaars-generator](https://github.com/fangpenlin/avataaars-generator)/502 | Simple generator React app for avataaars |
-| 759 | 91 | 70 | a month ago | [phosphor](https://github.com/phosphorjs/phosphor)/503 | The PhosphorJS Library |
-| 757 | 251 | 67 | 21 days ago | [iota.js](https://github.com/iotaledger/iota.js)/504 | IOTA JavaScript monorepo |
-| 756 | 115 | 14 | a day ago | [jovo-framework](https://github.com/jovotech/jovo-framework)/505 | 🔈 Build cross-platform Voice Apps for Amazon Alexa and Google Assistant |
-| 754 | 199 | 51 | 14 days ago | [coinbase-pro-trading-toolkit](https://github.com/coinbase/coinbase-pro-trading-toolkit)/506 | The Coinbase Pro trading toolkit |
-| 752 | 147 | 150 | 2 days ago | [web-build-tools](https://github.com/microsoft/web-build-tools)/507 | A tool box for large scale web development |
-| 750 | 54 | 22 | 19 hours ago | [node-vibrant](https://github.com/akfish/node-vibrant)/508 | Extract prominent colors from an image |
-| 748 | 107 | 7 | 3 days ago | [ng-lightning](https://github.com/ng-lightning/ng-lightning)/509 | Native Angular components & directives for Lightning Design System |
-| 746 | 119 | 19 | 3 days ago | [maker.js](https://github.com/microsoft/maker.js)/510 | 📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters. |
-| 746 | 131 | 51 | a month ago | [museeks](https://github.com/martpie/museeks)/511 | 🎵 A simple, clean and cross-platform music player |
-| 745 | 149 | 80 | 1 year, 10 months ago | [uProxy-p2p](https://github.com/UWNetworksLab/uProxy-p2p)/512 | Internet without borders |
-| 744 | 99 | 15 | 6 months ago | [TypeScript-React-Conversion-Guide](https://github.com/microsoft/TypeScript-React-Conversion-Guide)/513 | A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below. |
-| 742 | 324 | 139 | 6 months ago | [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc)/514 | Support for OAuth 2 and OpenId Connect (OIDC) in Angular.  |
-| 739 | 33 | 19 | 5 months ago | [avocado](https://github.com/alexjlockwood/avocado)/515 | 🥑 Vector Drawable optimization tool 🥑 |
-| 734 | 162 | 239 | 22 days ago | [vscode-mssql](https://github.com/microsoft/vscode-mssql)/516 | Visual Studio Code SQL Server extension. |
-| 732 | 14 | 10 | 2 days ago | [reaviz](https://github.com/jask-oss/reaviz)/517 | 📊 ReactJS Data Visualization Library based on D3.js |
-| 731 | 1269 | 187 | 2 days ago | [sp-dev-fx-webparts](https://github.com/SharePoint/sp-dev-fx-webparts)/518 | Code samples and developer content targeted towards SharePoint Framework client-side web parts. |
-| 728 | 77 | 17 | 16 days ago | [mobx-utils](https://github.com/mobxjs/mobx-utils)/519 | Utility functions and common patterns for MobX |
-| 725 | 278 | 287 | a day ago | [nativescript-plugin-firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase)/520 | :fire: NativeScript plugin for Firebase, the leading realtime JSON :cloud: app platform |
-| 724 | 50 | 38 | 1 year, 1 month ago | [graphdoc](https://github.com/2fd/graphdoc)/521 | Static page generator for documenting GraphQL Schema |
-| 723 | 64 | 21 | 17 days ago | [dgeni](https://github.com/angular/dgeni)/522 | Flexible JavaScript documentation generator used by AngularJS, Protractor and other JS projects |
-| 721 | 165 | 59 | 2 months ago | [angular2-notifications](https://github.com/flauc/angular2-notifications)/523 | A light and easy to use notifications library for Angular. |
-| 720 | 82 | 24 | 6 months ago | [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular)/524 | Restangular for Angular 2 and higher versions |
-| 719 | 177 | 21 | 16 hours ago | [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)/525 | Free and open source streaming software built on OBS and Electron. |
-| 719 | 108 | 85 | 1 year, 4 months ago | [min-cli](https://github.com/meili/min-cli)/526 | Min 小程序组件化解决方案 |
-| 716 | 159 | 10 | 1 year, 10 days ago | [angular-spinner](https://github.com/urish/angular-spinner)/527 | Angular directive to show an animated spinner (using spin.js) |
-| 715 | 102 | 15 | 2 days ago | [lotion](https://github.com/nomic-io/lotion)/528 | ✨ Smooth, easy blockchain apps ✨ |
-| 715 | 168 | 45 | 8 days ago | [actions-on-google-nodejs](https://github.com/actions-on-google/actions-on-google-nodejs)/529 | Node.js client library for Actions on Google |
-| 714 | 127 | 112 | a month ago | [rls-vscode](https://github.com/rust-lang/rls-vscode)/530 | RLS-based plugin for VSCode |
-| 713 | 64 | 10 | 10 months ago | [Imagine](https://github.com/meowtec/Imagine)/531 | 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux. |
-| 712 | 123 | 210 | 12 hours ago | [action](https://github.com/ParabolInc/action)/532 | Free online agile retrospective meeting tool |
-| 710 | 128 | 47 | a day ago | [typescript-json-schema](https://github.com/YousefED/typescript-json-schema)/533 | Generate json-schema from your Typescript sources |
-| 709 | 8 | 10 | 5 days ago | [packagephobia](https://github.com/styfle/packagephobia)/534 | ⚖️ Find the cost of adding a new dependency to your project |
-| 709 | 12 | 6 | 2 days ago | [yubaba](https://github.com/madou/yubaba)/535 | /juːba:ba/ out of the box animated experiences for React.js 🧙✨ |
-| 707 | 118 | 134 | 2 months ago | [typegoose](https://github.com/szokodiakos/typegoose)/536 | Typegoose - Define Mongoose models using TypeScript classes. |
-| 706 | 41 | 39 | 11 days ago | [ts-morph](https://github.com/dsherret/ts-morph)/537 | TypeScript Compiler API wrapper for static analysis and programmatic code changes. |
-| 704 | 289 | 60 | 6 months ago | [ngx-chips](https://github.com/Gbuomprisco/ngx-chips)/538 | Tag Input component for Angular |
-| 704 | 32 | 5 | a month ago | [core](https://github.com/HaikuTeam/core)/539 | :rice: Interactive UI animation engine for the Web.  Core renderer for Haiku Animator. |
-| 704 | 80 | 56 | 17 days ago | [desktop](https://github.com/bitwarden/desktop)/540 | The desktop vault (Windows, macOS, & Linux). |
-| 703 | 344 | 13 | a month ago | [QuickApp](https://github.com/emonney/QuickApp)/541 | ASP.NET Core 2.2 / Angular 7 startup project template with complete login, user and role management. Plus other useful services for Quick Application Development |
-| 703 | 29 | 44 | 19 days ago | [nexus](https://github.com/prisma/nexus)/542 | GraphQL Nexus: Code-First, Type-Safe, GraphQL Schema Construction |
-| 700 | 73 | 55 | a day ago | [deno_std](https://github.com/denoland/deno_std)/543 | deno standard modules |
-| 700 | 21 | 20 | 2 days ago | [fast-glob](https://github.com/mrmlnc/fast-glob)/544 | :rocket: Is a faster (1.5-10x for most cases) node-glob alternative. |
-| 699 | 33 | 1 | a month ago | [p-progress](https://github.com/sindresorhus/p-progress)/545 | Create a promise that reports progress |
-| 699 | 48 | 41 | 21 days ago | [eyeglass](https://github.com/linkedin/eyeglass)/546 | NPM Modules for Sass |
-| 688 | 258 | 139 | 11 months ago | [ngx-modialog](https://github.com/shlomiassaf/ngx-modialog)/547 | Modal / Dialog for Angular |
-| 687 | 39 | 11 | a day ago | [shortcuts-js](https://github.com/joshfarrant/shortcuts-js)/548 | A JavaScript iOS 12 Shortcuts creator |
-| 683 | 28 | 1 | 9 days ago | [refract](https://github.com/fanduel-oss/refract)/549 | Harness the power of reactive programming to supercharge your components |
-| 681 | 271 | 7 | 3 days ago | [echoes-player](https://github.com/orizens/echoes-player)/550 | Echoes Player: the missing Media Player experience for Youtube - Built with Angular (+7), ngrx (+7), Angular CLI, Boostrap (SASS), Youtube api |
-| 681 | 64 | 21 | a month ago | [opentracing-javascript](https://github.com/opentracing/opentracing-javascript)/551 | OpenTracing API for Javascript (both Node and browser) |
-| 681 | 116 | 46 | a day ago | [web](https://github.com/bitwarden/web)/552 | The website vault (vault.bitwarden.com). |
-| 675 | 201 | 12 | a day ago | [google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs)/553 | 🔑 Google Auth Library for Node.js |
-| 675 | 64 | 15 | 2 months ago | [maquette](https://github.com/AFASSoftware/maquette)/554 | Pure and simple virtual DOM library |
-| 675 | 112 | 8 | 1 year, 2 months ago | [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript)/555 | A Vue, Webpack, Typescript, Bootstrap setup with hot reload, dynamic imports, unit testing, code coverage, sass, uncss and bundling/minification. |
-| 671 | 41 | 9 | 2 months ago | [resugar](https://github.com/resugar/resugar)/556 | Rewrite your JavaScript & TypeScript source code with sweet new features. |
-| 670 | 151 | 4 | 2 months ago | [emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt)/557 | Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day. |
-| 670 | 330 | 35 | 2 years ago | [material2-app](https://github.com/jelbourn/material2-app)/558 | Simple app that consumes Angular Material 2 components |
-| 668 | 13 | 4 | 2 months ago | [wobble](https://github.com/skevy/wobble)/559 | A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. |
-| 668 | 26 | 1 | 20 days ago | [free-style](https://github.com/blakeembrey/free-style)/560 | Make CSS easier and more maintainable by using JavaScript |
-| 667 | 180 | 67 | 1 year, 4 months ago | [ng2-material](https://github.com/justindujardin/ng2-material)/561 | DEPRECATED: Components built on top of @angular/material and examples site |
-| 667 | 35 | 6 | 2 months ago | [scroll-out](https://github.com/scroll-out/scroll-out)/562 | ScrollOut detects changes in scroll for reveal, parallax, and CSS Variable effects! |
-| 667 | 103 | 58 | 8 months ago | [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules)/563 | Improve your TSLint with the missing ESLint rules |
-| 667 | 17 | 3 | 9 days ago | [rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks)/564 | React hooks for RxJS |
-| 666 | 20 | 18 | 13 days ago | [opticss](https://github.com/linkedin/opticss)/565 | A CSS Optimizer |
-| 666 | 161 | 44 | 11 months ago | [angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar)/566 | Angular module that uses SVG to create a circular progressbar |
-| 662 | 37 | 2 | a month ago | [mlhelper](https://github.com/laoqiren/mlhelper)/567 | Algorithms and utils for Machine Learning in JavaScript. |
-| 661 | 4 | 0 | a month ago | [typesync](https://github.com/jeffijoe/typesync)/568 | Install missing TypeScript typings for dependencies in your package.json. |
-| 660 | 326 | 1 | 6 days ago | [starter-kit](https://github.com/ngx-rocket/starter-kit)/569 | :package: Angular 7+ starter kit for enterprise-grade projects |
-| 659 | 128 | 46 | 5 months ago | [react-native-img-cache](https://github.com/wcandillon/react-native-img-cache)/570 | Image Cache for React Native |
-| 659 | 292 | 73 | 19 days ago | [quran.com-frontend](https://github.com/quran/quran.com-frontend)/571 | quran.com frontend |
-| 658 | 74 | 25 | 21 days ago | [react-mde](https://github.com/andrerpena/react-mde)/572 | 📝 React Markdown Editor |
-| 657 | 12 | 16 | a month ago | [foxr](https://github.com/deepsweet/foxr)/573 | 🦊 Node.js API to control Firefox |
-| 656 | 76 | 179 | 12 days ago | [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner)/574 | Code Runner for Visual Studio Code |
-| 655 | 271 | 20 | 10 days ago | [emberfire](https://github.com/firebase/emberfire)/575 | The officially supported adapter for using Firebase with Ember |
-| 654 | 207 | 32 | 6 months ago | [express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)/576 | A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch |
-| 653 | 308 | 252 | 22 hours ago | [Silex](https://github.com/silexlabs/Silex)/577 | Silex is a static website builder in the cloud.  |
-| 652 | 206 | 177 | a month ago | [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer)/578 | 📄 PDF Viewer Component for Angular 5+ |
-| 651 | 185 | 30 | a day ago | [ngx-virtual-scroller](https://github.com/rintoj/ngx-virtual-scroller)/579 | Virtual Scroll displays a virtual, "infinite" list. |
-| 648 | 53 | 79 | a month ago | [graphqlgen](https://github.com/prisma/graphqlgen)/580 | ⚙️ Generate type-safe resolvers based upon your GraphQL Schema |
-| 647 | 278 | 87 | 2 days ago | [node-opcua](https://github.com/node-opcua/node-opcua)/581 | an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/ |
-| 647 | 285 | 49 | a month ago | [davinci](https://github.com/edp963/davinci)/582 | Davinci is a DVsaaS (Data Visualization as a Service) Platform |
-| 646 | 345 | 2 | a month ago | [curso-angular](https://github.com/loiane/curso-angular)/583 | :mortar_board: [PT-BR] Curso de Angular (v2+) gratuito - loiane.training |
-| 646 | 27 | 2 | 2 months ago | [graphql-lodash](https://github.com/APIs-guru/graphql-lodash)/584 | 🛠 Data manipulation for GraphQL queries with lodash syntax |
-| 644 | 139 | 77 | 5 months ago | [node-influx](https://github.com/node-influx/node-influx)/585 | 📈  The InfluxDB Client for Node.js and Browsers |
-| 644 | 85 | 6 | 3 months ago | [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar)/586 | Angular progress bar ☄ |
-| 644 | 105 | 41 | a month ago | [re-resizable](https://github.com/bokuweb/re-resizable)/587 | 📏  A resizable component for React. |
-| 643 | 135 | 26 | 1 year, 6 months ago | [vortigern](https://github.com/barbar/vortigern)/588 | A universal boilerplate for building web applications w/ TypeScript, React, Redux, Server Side Rendering and more. |
-| 643 | 70 | 4 | 22 days ago | [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard)/589 | Material Angular Admin Template |
-| 641 | 25 | 3 | 2 days ago | [data-forge-ts](https://github.com/data-forge/data-forge-ts)/590 | The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ. |
-| 640 | 41 | 33 | 2 days ago | [bili](https://github.com/egoist/bili)/591 | Bili makes it easier to bundle JavaScript libraries. |
-| 639 | 335 | 134 | 12 days ago | [MyCrypto](https://github.com/MyCryptoHQ/MyCrypto)/592 | MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. |
-| 637 | 30 | 3 | a month ago | [re-reselect](https://github.com/toomuchdesign/re-reselect)/593 | Enhance Reselect selectors with deeper memoization and cache management. |
-| 635 | 15 | 6 | 9 days ago | [react-movable](https://github.com/tajo/react-movable)/594 | 🔀 Drag and drop for your React lists and tables. Accessible. Tiny. |
-| 635 | 56 | 25 | 6 months ago | [DouyuHTML5Player](https://github.com/spacemeowx2/DouyuHTML5Player)/595 | 替换斗鱼的Flash弹幕播放器 |
-| 634 | 31 | 5 | 8 months ago | [Shiba](https://github.com/rhysd/Shiba)/596 | Rich markdown live preview app with linter |
-| 634 | 28 | 25 | 1 year, 2 months ago | [onelang](https://github.com/koczkatamas/onelang)/597 | None |
-| 634 | 102 | 67 | 9 hours ago | [angular-console](https://github.com/nrwl/angular-console)/598 | Angular Console is the user interface for the Angular CLI. |
-| 633 | 162 | 57 | 19 days ago | [apollo-angular](https://github.com/apollographql/apollo-angular)/599 | A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server 🎁 |
-| 633 | 141 | 7 | 7 days ago | [sqs-consumer](https://github.com/bbc/sqs-consumer)/600 | Build Amazon Simple Queue Service (SQS) based applications without the boilerplate |
-| 675 | 64 | 15 | 2 months ago | [maquette](https://github.com/AFASSoftware/maquette)/601 | Pure and simple virtual DOM library |
-| 675 | 112 | 8 | 1 year, 2 months ago | [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript)/602 | A Vue, Webpack, Typescript, Bootstrap setup with hot reload, dynamic imports, unit testing, code coverage, sass, uncss and bundling/minification. |
-| 671 | 604 | 379 | 1 year, 5 months ago | [ng2-select](https://github.com/valor-software/ng2-select)/603 | Angular based replacement for select boxes |
-| 671 | 41 | 9 | 2 months ago | [resugar](https://github.com/resugar/resugar)/604 | Rewrite your JavaScript & TypeScript source code with sweet new features. |
-| 670 | 151 | 4 | 2 months ago | [emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt)/605 | Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day. |
-| 670 | 330 | 35 | 2 years ago | [material2-app](https://github.com/jelbourn/material2-app)/606 | Simple app that consumes Angular Material 2 components |
-| 668 | 56 | 11 | 17 days ago | [react-codemirror2](https://github.com/scniro/react-codemirror2)/607 | Codemirror integrated components for React |
-| 668 | 13 | 4 | 2 months ago | [wobble](https://github.com/skevy/wobble)/608 | A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. |
-| 668 | 26 | 1 | 20 days ago | [free-style](https://github.com/blakeembrey/free-style)/609 | Make CSS easier and more maintainable by using JavaScript |
-| 667 | 180 | 67 | 1 year, 4 months ago | [ng2-material](https://github.com/justindujardin/ng2-material)/610 | DEPRECATED: Components built on top of @angular/material and examples site |
-| 667 | 35 | 6 | 2 months ago | [scroll-out](https://github.com/scroll-out/scroll-out)/611 | ScrollOut detects changes in scroll for reveal, parallax, and CSS Variable effects! |
-| 667 | 103 | 58 | 8 months ago | [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules)/612 | Improve your TSLint with the missing ESLint rules |
-| 667 | 17 | 3 | 9 days ago | [rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks)/613 | React hooks for RxJS |
-| 666 | 20 | 18 | 13 days ago | [opticss](https://github.com/linkedin/opticss)/614 | A CSS Optimizer |
-| 666 | 161 | 44 | 11 months ago | [angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar)/615 | Angular module that uses SVG to create a circular progressbar |
-| 662 | 37 | 2 | a month ago | [mlhelper](https://github.com/laoqiren/mlhelper)/616 | Algorithms and utils for Machine Learning in JavaScript. |
-| 661 | 4 | 0 | a month ago | [typesync](https://github.com/jeffijoe/typesync)/617 | Install missing TypeScript typings for dependencies in your package.json. |
-| 660 | 326 | 1 | 6 days ago | [starter-kit](https://github.com/ngx-rocket/starter-kit)/618 | :package: Angular 7+ starter kit for enterprise-grade projects |
-| 659 | 128 | 46 | 5 months ago | [react-native-img-cache](https://github.com/wcandillon/react-native-img-cache)/619 | Image Cache for React Native |
-| 659 | 292 | 73 | 19 days ago | [quran.com-frontend](https://github.com/quran/quran.com-frontend)/620 | quran.com frontend |
-| 658 | 74 | 25 | 21 days ago | [react-mde](https://github.com/andrerpena/react-mde)/621 | 📝 React Markdown Editor |
-| 657 | 12 | 16 | a month ago | [foxr](https://github.com/deepsweet/foxr)/622 | 🦊 Node.js API to control Firefox |
-| 656 | 76 | 179 | 12 days ago | [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner)/623 | Code Runner for Visual Studio Code |
-| 655 | 271 | 20 | 10 days ago | [emberfire](https://github.com/firebase/emberfire)/624 | The officially supported adapter for using Firebase with Ember |
-| 654 | 207 | 32 | 6 months ago | [express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)/625 | A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch |
-| 653 | 308 | 252 | 22 hours ago | [Silex](https://github.com/silexlabs/Silex)/626 | Silex is a static website builder in the cloud.  |
-| 652 | 206 | 177 | a month ago | [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer)/627 | 📄 PDF Viewer Component for Angular 5+ |
-| 651 | 185 | 30 | a day ago | [ngx-virtual-scroller](https://github.com/rintoj/ngx-virtual-scroller)/628 | Virtual Scroll displays a virtual, "infinite" list. |
-| 648 | 53 | 79 | a month ago | [graphqlgen](https://github.com/prisma/graphqlgen)/629 | ⚙️ Generate type-safe resolvers based upon your GraphQL Schema |
-| 647 | 19 | 6 | 9 months ago | [fontplop](https://github.com/matthewgonzalez/fontplop)/630 | Fast, Simple, & Free Open Source Webfont Converter |
-| 647 | 278 | 87 | 2 days ago | [node-opcua](https://github.com/node-opcua/node-opcua)/631 | an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/ |
-| 647 | 285 | 49 | a month ago | [davinci](https://github.com/edp963/davinci)/632 | Davinci is a DVsaaS (Data Visualization as a Service) Platform |
-| 646 | 345 | 2 | a month ago | [curso-angular](https://github.com/loiane/curso-angular)/633 | :mortar_board: [PT-BR] Curso de Angular (v2+) gratuito - loiane.training |
-| 646 | 27 | 2 | 2 months ago | [graphql-lodash](https://github.com/APIs-guru/graphql-lodash)/634 | 🛠 Data manipulation for GraphQL queries with lodash syntax |
-| 644 | 139 | 77 | 5 months ago | [node-influx](https://github.com/node-influx/node-influx)/635 | 📈  The InfluxDB Client for Node.js and Browsers |
-| 644 | 85 | 6 | 3 months ago | [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar)/636 | Angular progress bar ☄ |
-| 644 | 105 | 41 | a month ago | [re-resizable](https://github.com/bokuweb/re-resizable)/637 | 📏  A resizable component for React. |
-| 643 | 75 | 55 | a month ago | [tslint-react](https://github.com/palantir/tslint-react)/638 | :orange_book: Lint rules related to React & JSX for TSLint. |
-| 643 | 135 | 26 | 1 year, 6 months ago | [vortigern](https://github.com/barbar/vortigern)/639 | A universal boilerplate for building web applications w/ TypeScript, React, Redux, Server Side Rendering and more. |
-| 643 | 70 | 4 | 22 days ago | [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard)/640 | Material Angular Admin Template |
-| 641 | 25 | 3 | 2 days ago | [data-forge-ts](https://github.com/data-forge/data-forge-ts)/641 | The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ. |
-| 640 | 41 | 33 | 2 days ago | [bili](https://github.com/egoist/bili)/642 | Bili makes it easier to bundle JavaScript libraries. |
-| 639 | 335 | 134 | 12 days ago | [MyCrypto](https://github.com/MyCryptoHQ/MyCrypto)/643 | MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. |
-| 637 | 30 | 3 | a month ago | [re-reselect](https://github.com/toomuchdesign/re-reselect)/644 | Enhance Reselect selectors with deeper memoization and cache management. |
-| 635 | 15 | 6 | 9 days ago | [react-movable](https://github.com/tajo/react-movable)/645 | 🔀 Drag and drop for your React lists and tables. Accessible. Tiny. |
-| 635 | 56 | 25 | 6 months ago | [DouyuHTML5Player](https://github.com/spacemeowx2/DouyuHTML5Player)/646 | 替换斗鱼的Flash弹幕播放器 |
-| 634 | 31 | 5 | 8 months ago | [Shiba](https://github.com/rhysd/Shiba)/647 | Rich markdown live preview app with linter |
-| 634 | 28 | 25 | 1 year, 2 months ago | [onelang](https://github.com/koczkatamas/onelang)/648 | None |
-| 634 | 102 | 67 | 9 hours ago | [angular-console](https://github.com/nrwl/angular-console)/649 | Angular Console is the user interface for the Angular CLI. |
-| 633 | 162 | 57 | 19 days ago | [apollo-angular](https://github.com/apollographql/apollo-angular)/650 | A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server 🎁 |
-| 633 | 141 | 7 | 7 days ago | [sqs-consumer](https://github.com/bbc/sqs-consumer)/651 | Build Amazon Simple Queue Service (SQS) based applications without the boilerplate |
-| 632 | 180 | 231 | 9 months ago | [brackets-git](https://github.com/brackets-userland/brackets-git)/652 | brackets-git — git extension for adobe/brackets |
-| 630 | 28 | 23 | 8 days ago | [yalc](https://github.com/whitecolor/yalc)/653 | Work with yarn/npm packages locally like a boss. |
-| 628 | 129 | 23 | 3 years ago | [angular-electron](https://github.com/angular/angular-electron)/654 | Angular2 + Electron |
-| 627 | 59 | 3 | 10 months ago | [RxJS-Docs-CN](https://github.com/RxJS-CN/RxJS-Docs-CN)/655 | RxJS 5 中文文档 |
-| 626 | 37 | 22 | a month ago | [IxJS](https://github.com/ReactiveX/IxJS)/656 | The Interactive Extensions for JavaScript |
-| 626 | 154 | 15 | 1 year, 5 months ago | [aws-serverless-auth-reference-app](https://github.com/awslabs/aws-serverless-auth-reference-app)/657 | Serverless reference app and backend API, showcasing authentication and authorization patterns using Amazon Cognito, Amazon API Gateway, AWS Lambda, and AWS IAM. |
-| 626 | 46 | 69 | 23 days ago | [SonarTS](https://github.com/SonarSource/SonarTS)/658 | Static code analyzer for TypeScript |
-| 625 | 56 | 12 | 18 days ago | [p-queue](https://github.com/sindresorhus/p-queue)/659 | Promise queue with concurrency control |
-| 624 | 59 | 3 | 12 days ago | [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)/660 | Redux wrapper for Next.js |
-| 623 | 154 | 4 | 1 year, 7 months ago | [todomvc-redux-react-typescript](https://github.com/jaysoo/todomvc-redux-react-typescript)/661 | TodoMVC example using Redux, React, and Typescript |
-| 622 | 7 | 4 | 11 hours ago | [RCRE](https://github.com/andycall/RCRE)/662 | Build complex applications without pain |
-| 621 | 29 | 1 | 4 months ago | [dob](https://github.com/dobjs/dob)/663 |  Light and fast 🚀 state management tool using proxy. |
-| 620 | 33 | 27 | 5 months ago | [vuex-persist](https://github.com/championswimmer/vuex-persist)/664 | A Vuex plugin to persist the store. (Fully Typescript enabled) |
-| 615 | 90 | 15 | 8 days ago | [firebase-server](https://github.com/urish/firebase-server)/665 | Firebase Realtime Database Server Implementation |
-| 611 | 24 | 7 | a month ago | [Mongoku](https://github.com/huggingface/Mongoku)/666 | 🔥The Web-scale GUI for MongoDB |
-| 611 | 56 | 18 | 7 months ago | [redux-crud](https://github.com/Versent/redux-crud)/667 | A set of standard actions and reducers for Redux CRUD Applications |
-| 611 | 36 | 5 | 2 months ago | [matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz)/668 | None |
-| 610 | 113 | 27 | a day ago | [graphql-prisma-typescript](https://github.com/prisma/graphql-prisma-typescript)/669 | 🏡  GraphQL server reference implementation (Airbnb clone) in Typescript using Prisma & graphql-yoga |
-| 609 | 42 | 59 | a day ago | [graphql-import](https://github.com/prisma/graphql-import)/670 | Import & export definitions in GraphQL SDL |
-| 609 | 37 | 0 | 3 months ago | [injection-js](https://github.com/mgechev/injection-js)/671 | Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and well tested. |
-| 609 | 41 | 170 | a day ago | [model-viewer](https://github.com/GoogleWebComponents/model-viewer)/672 | Easily display interactive 3D models on the web and in AR!  |
-| 607 | 26 | 5 | 1 year, 5 months ago | [react-slot-fill](https://github.com/camwest/react-slot-fill)/673 | Slot & Fill component for merging React subtrees together. Portal on steroids. |
-| 606 | 56 | 0 | 2 months ago | [leasot](https://github.com/pgilad/leasot)/674 | Parse and output TODOs and FIXMEs from comments in your files |
-| 606 | 269 | 33 | 3 months ago | [aws-cognito-angular-quickstart](https://github.com/awslabs/aws-cognito-angular-quickstart)/675 | An Angular(v5)-based QuickStart single-page app utilizing Amazon Cognito, S3, and DynamoDB (Serverless architecture) |
-| 605 | 153 | 42 | 1 year, 7 months ago | [custombox](https://github.com/dixso/custombox)/676 | Modal window effects with transitions CSS3. |
-| 604 | 236 | 15 | 1 year, 2 months ago | [socket-io-typescript-chat](https://github.com/luixaviles/socket-io-typescript-chat)/677 | A chat application implemented using Socket.io, TypeScript, Angular and Angular Material components |
-| 602 | 99 | 2 | 2 months ago | [node-easyimage](https://github.com/hacksparrow/node-easyimage)/678 | Node.js module for image processing and manipulation |
-| 599 | 184 | 11 | 6 days ago | [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)/679 | A simple module for creating, manipulating and signing ethereum transactions |
-| 599 | 31 | 1 | 4 months ago | [blurify](https://github.com/JustClear/blurify)/680 | blurify.js is a tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode. |
-| 598 | 128 | 30 | 2 months ago | [Dragact](https://github.com/Foveluy/Dragact)/681 | a dragger layout system with React style .  |
-| 598 | 24 | 8 | 7 days ago | [ui-box](https://github.com/segmentio/ui-box)/682 | Blazing Fast React UI Primitive |
-| 598 | 82 | 90 | 6 days ago | [vscode-sftp](https://github.com/liximomo/vscode-sftp)/683 | Super fast sftp/ftp extension for VS Code |
-| 598 | 94 | 61 | 11 hours ago | [fork-ts-checker-webpack-plugin](https://github.com/Realytics/fork-ts-checker-webpack-plugin)/684 | Webpack plugin that runs typescript type checker on a separate process. |
-| 597 | 174 | 19 | 6 days ago | [ionic-super-tabs](https://github.com/zyra/ionic-super-tabs)/685 | Swipeable Tabs for Ionic 3 |
-| 596 | 193 | 101 | 16 hours ago | [tslint-microsoft-contrib](https://github.com/microsoft/tslint-microsoft-contrib)/686 | A set of TSLint rules used on some Microsoft projects. |
-| 595 | 17 | 25 | 5 days ago | [vscode-glean](https://github.com/wix/vscode-glean)/687 | The extension provides refactoring tools for your React codebase |
-| 592 | 86 | 150 | 16 days ago | [tsickle](https://github.com/angular/tsickle)/688 | Tsickle — TypeScript to Closure Translator |
-| 591 | 60 | 8 | a month ago | [vue-svgicon](https://github.com/MMF-FE/vue-svgicon)/689 | A tool to create svg icon components. (vue 2.x). Using inline svg. |
-| 591 | 42 | 22 | a day ago | [vectorious](https://github.com/mateogianolio/vectorious)/690 | Linear algebra in TypeScript. |
-| 591 | 70 | 61 | 2 days ago | [ts-express-decorators](https://github.com/TypedProject/ts-express-decorators)/691 |  :triangular_ruler: A TypeScript Framework on top of Express. It provide a lot of decorators and guideline to write your code. |
-| 587 | 30 | 21 | 9 hours ago | [apollo-cache-persist](https://github.com/apollographql/apollo-cache-persist)/692 | 🎏 Simple persistence for all Apollo Cache implementations |
-| 586 | 123 | 236 | 2 days ago | [elevate](https://github.com/thomaschampagne/elevate)/693 | Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments. And more... https://thomaschampagne.github.io/elevate/ (formerly named stravistix) |
-| 586 | 58 | 34 | 18 days ago | [ngx-build-plus](https://github.com/manfredsteyer/ngx-build-plus)/694 | Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements |
-| 585 | 23 | 10 | a month ago | [chattervox](https://github.com/brannondorsey/chattervox)/695 | 📡 An AX.25 packet radio chat protocol with support for digital signatures and binary compression. Like IRC over radio waves. |
-| 585 | 272 | 337 | 2 months ago | [ionic-app-scripts](https://github.com/ionic-team/ionic-app-scripts)/696 | App Build Scripts for Ionic Projects |
-| 584 | 194 | 126 | 8 months ago | [ng2-semantic-ui](https://github.com/edcarroll/ng2-semantic-ui)/697 | Semantic UI Angular Integrations (no jQuery) |
-| 582 | 74 | 56 | 13 hours ago | [emission](https://github.com/artsy/emission)/698 | React Native Components |
-| 582 | 159 | 109 | a month ago | [tsoa](https://github.com/lukeautry/tsoa)/699 | Build swagger-compliant REST APIs using TypeScript and Node |
-| 580 | 124 | 134 | 5 days ago | [lichobile](https://github.com/veloce/lichobile)/700 | lichess.org mobile application |
-| 578 | 224 | 8 | 8 months ago | [ionic3_angular4_JD](https://github.com/dicallc/ionic3_angular4_JD)/701 | 使用ionic3/ag4编写模仿京东商城的demo |
-| 577 | 29 | 22 | 1 year, 5 months ago | [slinky](https://github.com/finchalyzer/slinky)/702 | Export your Sketch designs as HTML email templates |
-| 576 | 122 | 7 | 2 months ago | [gaea-editor](https://github.com/ascoders/gaea-editor)/703 | Design websites in your browser. A smart web editor! |
-| 575 | 299 | 20 | 6 months ago | [angular-firestarter](https://github.com/codediodeio/angular-firestarter)/704 | :anchor: :fire: Angular + Firebase Progressive Web App Starter |
-| 574 | 217 | 31 | 1 year, 2 months ago | [r2](https://github.com/bitrinjani/r2)/705 | R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript. |
-| 573 | 266 | 6 | 1 year, 2 months ago | [angular2-express-starter](https://github.com/vladotesanovic/angular2-express-starter)/706 | Angular 2 and Express :family: ( Heroku ready ) |
-| 573 | 135 | 37 | a month ago | [universal](https://github.com/ng-seed/universal)/707 | Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer |
-| 572 | 63 | 34 | 5 months ago | [vue-snotify](https://github.com/artemsky/vue-snotify)/708 | Vuejs 2 Notification Center |
-| 572 | 69 | 11 | 23 hours ago | [ionic-pwa-toolkit](https://github.com/ionic-team/ionic-pwa-toolkit)/709 | Build lightning fast Progressive Web Apps with zero config and best practices built-in. Go from zero to production ready with Ionic and Stencil (Web Components). |
-| 571 | 139 | 36 | 8 days ago | [firebase-admin-node](https://github.com/firebase/firebase-admin-node)/710 | Firebase Admin Node.js SDK |
-| 571 | 20 | 4 | a day ago | [perfume.js](https://github.com/Zizzamia/perfume.js)/711 | A flexible JavaScript library for measuring First Contentful Paint (FP/FCP), First Input Delay (FID) and components lifecycle performance (eg. Angular, React). Report real user measurements to Google Analytics or your ideal tracking tool. |
-| 570 | 50 | 20 | 6 months ago | [lyricfier](https://github.com/emilioastarita/lyricfier)/712 | a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang) |
-| 566 | 182 | 0 | 9 months ago | [web-component-tester](https://github.com/Polymer/web-component-tester)/713 | Moved to Polymer/tools monorepo |
-| 564 | 111 | 4 | 2 days ago | [tfjs-converter](https://github.com/tensorflow/tfjs-converter)/714 | Convert TensorFlow SavedModel and Keras models to TensorFlow.js |
-| 564 | 43 | 7 | 2 days ago | [ReSub](https://github.com/microsoft/ReSub)/715 | A library for writing React components that automatically manage subscriptions to data sources simply by accessing them |
-| 564 | 152 | 75 | 2 years ago | [ng2-validation](https://github.com/yuyang041060120/ng2-validation)/716 | angular2 validation |
-| 563 | 25 | 3 | 1 year, 3 months ago | [xreact](https://github.com/reactive-react/xreact)/717 | reactive x react = xreact |
-| 562 | 133 | 11 | a day ago | [angular-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg)/718 | Angular 2, 4, 5, 6 and 7 plugin for Froala WYSIWYG HTML Rich Text Editor. |
-| 560 | 51 | 119 | 2 days ago | [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver)/719 | JavaScript and TypeScript code intelligence through the Language Server Protocol |
-| 557 | 200 | 2 | 18 hours ago | [Farmbot-Web-App](https://github.com/FarmBot/Farmbot-Web-App)/720 | Setup, customize, and control FarmBot from any device |
-| 557 | 153 | 13 | 7 days ago | [react-google-charts](https://github.com/rakannimer/react-google-charts)/721 | A thin, typed, React wrapper over Google Charts Visualization and Charts API. |
-| 557 | 27 | 33 | 5 months ago | [apollo-fetch](https://github.com/apollographql/apollo-fetch)/722 | :dog: Lightweight GraphQL client that supports middleware and afterware |
-| 556 | 34 | 136 | 6 days ago | [aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode)/723 | AWS Toolkit for Visual Studio Code, an extension for working with AWS services including AWS Lambda. |
-| 555 | 175 | 85 | 4 months ago | [videogular2](https://github.com/videogular/videogular2)/724 | The HTML5 video player for Angular 2 |
-| 555 | 333 | 97 | 5 days ago | [mydatepicker](https://github.com/kekeh/mydatepicker)/725 | Angular 2+ date picker |
-| 554 | 62 | 16 | a month ago | [redux-beacon](https://github.com/rangle/redux-beacon)/726 | Analytics integration for Redux and ngrx/store |
-| 554 | 51 | 4 | 16 days ago | [avatars-api-middleware](https://github.com/adorableio/avatars-api-middleware)/727 | The express middleware for our avatars service |
-| 554 | 46 | 40 | 6 months ago | [bloomer](https://github.com/AlgusDark/bloomer)/728 | A set of React components for Bulma CSS Framework |
-| 552 | 27 | 2 | 4 months ago | [lodash-decorators](https://github.com/steelsojka/lodash-decorators)/729 | A collection of decorators using lodash at it's core. |
-| 550 | 40 | 36 | 23 days ago | [graphql-config](https://github.com/prisma/graphql-config)/730 | The easiest way to configure your development environment with your GraphQL schema (supported by most tools, editors & IDEs) |
-| 548 | 39 | 6 | a day ago | [brazilian-utils](https://github.com/brazilian-utils/brazilian-utils)/731 | Utils library for specific Brazilian businesses |
-| 545 | 91 | 17 | a day ago | [angular2-mdl](https://github.com/mseemann/angular2-mdl)/732 | Angular 2, 4, 5, 6 components, directives and styles based on material design lite (npm: @angular-mdl/core) |
-| 544 | 40 | 85 | 17 days ago | [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)/733 | Extension that deletes cookies as soon as the tab closes. |
-| 544 | 20 | 18 | a month ago | [runtypes](https://github.com/pelotom/runtypes)/734 | Runtime validation for static types |
-| 544 | 98 | 28 | 1 year, 6 months ago | [effects](https://github.com/ngrx/effects)/735 | Side effect model for @ngrx/store |
-| 543 | 136 | 1 | 3 months ago | [augur-core](https://github.com/AugurProject/augur-core)/736 | Augur back-end (Ethereum contracts) |
-| 543 | 38 | 48 | 2 years ago | [BlokDust](https://github.com/BlokDust/BlokDust)/737 | :musical_keyboard: A free to use web-based music making app. Make sounds, build instruments and share your creations. |
-| 543 | 127 | 88 | a day ago | [aws-mobile-appsync-sdk-js](https://github.com/awslabs/aws-mobile-appsync-sdk-js)/738 | JavaScript library files for Offline, Sync, Sigv4. includes support for React Native |
-| 541 | 76 | 21 | 10 months ago | [vscode-background](https://github.com/shalldie/vscode-background)/739 | A vscode extension to make it lovely. |
-| 540 | 87 | 140 | 5 days ago | [Excalibur](https://github.com/excaliburjs/Excalibur)/740 | 🎮 A simple HTML5 Canvas game engine written in TypeScript |
-| 540 | 119 | 70 | 30 days ago | [ngx-echarts](https://github.com/xieziyu/ngx-echarts)/741 | An angular (ver >= 2.x) directive for ECharts (ver >= 3.x) |
-| 539 | 31 | 36 | 1 year, 9 months ago | [Iridium](https://github.com/SierraSoftworks/Iridium)/742 | A high performance MongoDB ORM for Node.js |
-| 537 | 29 | 33 | 3 days ago | [manyverse](https://github.com/staltz/manyverse)/743 | A social network off the grid (real repo at https://gitlab.com/staltz/manyverse) |
-| 536 | 52 | 32 | a month ago | [metastream](https://github.com/samuelmaddock/metastream)/744 | Watch streaming media with friends. |
-| 534 | 116 | 67 | 23 hours ago | [ast-types](https://github.com/benjamn/ast-types)/745 | Esprima-compatible implementation of the Mozilla JS Parser API |
-| 534 | 102 | 29 | a day ago | [prisma-examples](https://github.com/prisma/prisma-examples)/746 | 💡 Examples of Prisma using different languages and technologies |
-| 534 | 79 | 1 | 21 hours ago | [remodel](https://github.com/facebook/remodel)/747 | Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability. |
-| 534 | 65 | 21 | a month ago | [vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)/748 | Project Manager Extension for Visual Studio Code |
-| 534 | 111 | 9 | 16 days ago | [echo](https://github.com/laravel/echo)/749 | None |
-| 533 | 78 | 13 | 6 days ago | [firebase-functions](https://github.com/firebase/firebase-functions)/750 | Firebase SDK for Cloud Functions |
-| 533 | 80 | 23 | a month ago | [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill)/751 | :clipboard: Sane copying on the web, with maximum browser compatibility. |
-| 531 | 142 | 21 | a day ago | [pact-js](https://github.com/pact-foundation/pact-js)/752 | JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems. |
-| 531 | 21 | 0 | 1 year, 2 months ago | [rill](https://github.com/rill-js/rill)/753 | 🗺 Universal router for web applications. |
-| 529 | 158 | 98 | 4 days ago | [angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2)/754 | Angular gridster 2 |
-| 528 | 111 | 14 | 3 years ago | [Semantic-UI-Angular](https://github.com/Semantic-Org/Semantic-UI-Angular)/755 | Semantic UI Angular Integrations |
-| 527 | 42 | 26 | 23 hours ago | [fly](https://github.com/superfly/fly)/756 | Fly is a runtime for global applications. Use it to build CDNs, smart proxy applications, and be a little more geo-neutral. |
-| 527 | 344 | 317 | 2 years ago | [ng2-table](https://github.com/valor-software/ng2-table)/757 | Simple table extension with sorting, filtering, paging... for Angular2 apps |
-| 527 | 221 | 100 | 1 year, 3 months ago | [angular-moment-picker](https://github.com/indrimuska/angular-moment-picker)/758 | Angular Moment Picker is an AngularJS directive for date and time picker using Moment.js. |
-| 526 | 13 | 8 | 6 months ago | [devalue](https://github.com/Rich-Harris/devalue)/759 | Gets the job done when JSON.stringify can't |
-| 526 | 74 | 11 | 3 months ago | [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions)/760 | Permission and roles based access control for your angular(angular 2,4,5,6,7+) applications(AOT, lazy modules compatible |
-| 524 | 174 | 26 | 13 days ago | [AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow)/761 | OpenID Connect Code /  Implicit Flow with Angular and ASP.NET Core 2.2 IdentityServer4 |
-| 524 | 20 | 32 | 16 days ago | [turbine](https://github.com/funkia/turbine)/762 | Purely functional frontend framework for building web applications |
-| 524 | 96 | 89 | 10 days ago | [vscode-arduino](https://github.com/microsoft/vscode-arduino)/763 | Visual Studio Code extension for Arduino |
-| 522 | 9 | 5 | 6 days ago | [graphql-birdseye](https://github.com/Novvum/graphql-birdseye)/764 | View any GraphQL schema as a dynamic and interactive graph. 🦅   |
-| 522 | 66 | 23 | a month ago | [ooth](https://github.com/nmaro/ooth)/765 | User identity/authentication/accounts management microservice for node.js |
-| 522 | 23 | 9 | 1 year, 6 months ago | [react-skeletor](https://github.com/trainline/react-skeletor)/766 | Skeleton loading for React |
-| 522 | 62 | 7 | 30 days ago | [Luoo.qy](https://github.com/Aedron/Luoo.qy)/767 | ❤️ 落在低处, 独立音乐社区落网的第三方客户端 🎵 |
-| 521 | 93 | 17 | 1 year, 13 days ago | [injectify](https://github.com/samdenty/injectify)/768 | Perform advanced MiTM attacks on websites with ease 💉 |
-| 520 | 104 | 44 | 20 days ago | [electron-rebuild](https://github.com/electron/electron-rebuild)/769 | Package to rebuild native Node.js modules against the currently installed Electron version |
-| 519 | 71 | 33 | 22 days ago | [apollo-link-rest](https://github.com/apollographql/apollo-link-rest)/770 | Use existing REST endpoints with GraphQL |
-| 517 | 27 | 34 | 10 months ago | [funfix](https://github.com/funfix/funfix)/771 | Functional Programming Library for JavaScript, TypeScript and Flow ✨⚡️ |
-| 516 | 12 | 5 | 2 months ago | [functional-typescript](https://github.com/transitive-bullshit/functional-typescript)/772 | TypeScript standard for rock solid serverless functions. |
-| 513 | 12 | 0 | 1 year, 6 months ago | [repatch](https://github.com/jaystack/repatch)/773 | Dispatch reducers |
-| 511 | 17 | 54 | 15 days ago | [wasmboy](https://github.com/torch2424/wasmboy)/774 | Game Boy / Game Boy Color Emulator Library Written for Web Assembly using AssemblyScript. 🚀Shell/Debugger in Preact. ⚛️ |
-| 511 | 197 | 3 | 1 year, 10 months ago | [todo-angular-firebase](https://github.com/r-park/todo-angular-firebase)/775 | Todo app with Angular CLI • AngularFire2 • Firebase • OAuth • SW-Precache |
-| 511 | 285 | 186 | 2 months ago | [azure-repos-vscode](https://github.com/microsoft/azure-repos-vscode)/776 | Visual Studio Team Services Extension for VS Code |
-| 510 | 68 | 159 | a day ago | [Dart-Code](https://github.com/Dart-Code/Dart-Code)/777 | Dart and Flutter support for VS Code |
-| 508 | 38 | 10 | a month ago | [serverless-babel-starter](https://github.com/postlight/serverless-babel-starter)/778 | 🗄🙅‍♀️ Serverless with all the fixings: Webpack, Babel, TypeScript (if you want it!), Jest, ESLint, and Prettier. |
-| 508 | 240 | 78 | 13 days ago | [material.angular.io](https://github.com/angular/material.angular.io)/779 | Docs site for Angular Material 2 |
-| 508 | 46 | 6 | 11 hours ago | [noclip.website](https://github.com/magcius/noclip.website)/780 | Model Viewer for random games |
-| 507 | 197 | 7 | 1 year, 3 months ago | [feedback](https://github.com/ivoviz/feedback)/781 | Feedback tool similar to Google's. |
-| 505 | 45 | 23 | 2 months ago | [angular-fontawesome](https://github.com/FortAwesome/angular-fontawesome)/782 | Font Awesome 5 Angular component using SVG with JS |
-| 502 | 49 | 16 | 18 hours ago | [super-productivity](https://github.com/johannesjo/super-productivity)/783 | To Do List / Time Tracker with Jira Integration. Makes you super productive!  |
-| 501 | 22 | 10 | 1 year, 11 months ago | [prism](https://github.com/salsita/prism)/784 | React / Redux action composition made simple http://salsita.github.io/prism/ |
-| 501 | 12 | 8 | 2 days ago | [unstated-next](https://github.com/jamiebuilds/unstated-next)/785 | 200 bytes to never think about React state management libraries ever again |
-| 500 | 22 | 6 | 3 days ago | [graphql-middleware](https://github.com/prisma/graphql-middleware)/786 | Split up your GraphQL resolvers in middleware functions |
-| 499 | 68 | 55 | 6 months ago | [abstruse](https://github.com/bleenco/abstruse)/787 | Continuous Integration platform built with Node.js and Docker. |
-| 499 | 22 | 22 | 3 days ago | [fast-check](https://github.com/dubzzz/fast-check)/788 | Property based testing framework for JavaScript (like QuickCheck) written in TypeScript |
-| 496 | 105 | 11 | 16 days ago | [ng-lazyload-image](https://github.com/tjoskar/ng-lazyload-image)/789 | Lazy image loader for Angular ≥ v2 |
-| 496 | 78 | 7 | a month ago | [node-tap](https://github.com/Srar/node-tap)/790 | 基于TypeScript实现的开源SSTap |
-| 496 | 548 | 178 | 2 days ago | [home-assistant-polymer](https://github.com/home-assistant/home-assistant-polymer)/791 | :lollipop: Polymer frontend for Home Assistant |
-| 495 | 43 | 7 | 6 months ago | [lerna-yarn-workspaces-example](https://github.com/Quramy/lerna-yarn-workspaces-example)/792 | How to build TypeScript mono-repo project with yarn and lerna |
-| 495 | 38 | 11 | 24 days ago | [ts2c](https://github.com/andrei-markeev/ts2c)/793 | Convert Javascript/TypeScript to C |
-| 493 | 91 | 12 | a month ago | [rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue)/794 | Roll .vue files |
-| 493 | 10 | 2 | a month ago | [reuse](https://github.com/diegohaz/reuse)/795 | ♻️ Reuse React components to create new ones |
-| 493 | 44 | 12 | 12 days ago | [html-pdf-chrome](https://github.com/westy92/html-pdf-chrome)/796 | HTML to PDF converter via Chrome/Chromium |
-| 493 | 27 | 22 | 1 year, 1 month ago | [vscode-power-mode](https://github.com/hoovercj/vscode-power-mode)/797 | Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code. |
-| 492 | 186 | 18 | 7 months ago | [news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator)/798 | A browser extension that deletes your Facebook news feed and replaces it with a nice quote |
-| 490 | 57 | 15 | 2 years ago | [hexo-theme-one](https://github.com/EYHN/hexo-theme-one)/799 | hexo单页面炫酷主题 |
-| 490 | 109 | 0 | 7 days ago | [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)/800 | Minimalistic project template to jump start a Node.js back-end application in TypeScript. TSLint, Jest and type definitions included. |
-| 490 | 35 | 48 | 18 hours ago | [glimmer.js](https://github.com/glimmerjs/glimmer.js)/801 | Central repository for the Glimmer.js project |
-| 490 | 19 | 12 | 13 days ago | [ts-node-dev](https://github.com/whitecolor/ts-node-dev)/802 | Compiles your TS app and restarts when files are modified. |
-| 488 | 12 | 14 | 5 months ago | [taskbotjs](https://github.com/eropple/taskbotjs)/803 | The best JavaScript/TypeScript job processing framework on the planet. |
-| 488 | 132 | 4 | 3 days ago | [vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets)/804 | Angular Snippets for VS Code |
-| 486 | 32 | 1 | 11 months ago | [Talkie](https://github.com/ahomu/Talkie)/805 | Simple slide presentation library. Responsive scaling & markdown ready. |
-| 486 | 55 | 2 | 4 months ago | [linq.ts](https://github.com/kutyel/linq.ts)/806 | 🌀LINQ for TypeScript |
-| 485 | 71 | 8 | a month ago | [ngd](https://github.com/compodoc/ngd)/807 | View the dependencies tree of you Angular application |
-| 485 | 52 | 33 | 7 days ago | [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server)/808 | Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most cases with zero-config). |
-| 485 | 70 | 7 | 21 hours ago | [electrode-native](https://github.com/electrode-io/electrode-native)/809 | A platform to ease integration&delivery of React Native apps in existing mobile applications |
-| 483 | 122 | 202 | 15 hours ago | [online-go.com](https://github.com/online-go/online-go.com)/810 | Source code for the Online-Go.com web interface |
-| 482 | 36 | 55 | 5 days ago | [aurelia](https://github.com/aurelia/aurelia)/811 | Aurelia vNext |
-| 482 | 77 | 10 | 1 year, 11 months ago | [gouqi](https://github.com/yuche/gouqi)/812 | 🐸 枸杞 - 伪装成音乐客户端的计时 App |
-| 480 | 45 | 5 | 23 hours ago | [Mob](https://github.com/zenghongtu/Mob)/813 | Mob - 一个高颜值的喜马拉雅 FM 桌面客户端，支持 Mac、Win 和 Linux |
-| 479 | 91 | 115 | 3 days ago | [electron-webpack](https://github.com/electron-userland/electron-webpack)/814 | Scripts and configurations to compile Electron applications using webpack |
-| 477 | 49 | 2 | a day ago | [graphql-redis-subscriptions](https://github.com/davidyaha/graphql-redis-subscriptions)/815 | A graphql subscriptions implementation using redis and apollo's graphql-subscriptions  |
-| 476 | 117 | 84 | 29 days ago | [erxes](https://github.com/erxes/erxes)/816 | erxes is an open source growth marketing platform |
-| 475 | 31 | 102 | a month ago | [scriptedforms](https://github.com/SimonBiggs/scriptedforms)/817 | Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements. |
-| 474 | 14 | 2 | 10 days ago | [start](https://github.com/deepsweet/start)/818 | :red_circle: Functional task runner for Node.js |
-| 474 | 222 | 57 | 9 days ago | [cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)/819 | Lesson content for cryptozombies.io |
-| 473 | 244 | 7 | 1 year, 2 months ago | [bootstraping-ngx-admin-lte](https://github.com/TwanoO67/bootstraping-ngx-admin-lte)/820 | Angular2,4,6 project with AdminLTE dashboard template (using angular, angular-cli and ngx-admin-lte ) Formerly called 'ng2-admin-lte'.  |
-| 473 | 324 | 0 | 1 year, 7 months ago | [Angular2](https://github.com/AngularLovers/Angular2)/821 | v2.4.10 官方教程配套(angular)源码(ng-book2)同步更新：ng-book2 source code (keywords:angular angular2 ) |
-| 471 | 34 | 6 | 2 months ago | [fs-jetpack](https://github.com/szwacz/fs-jetpack)/822 | Better file system API for Node.js |
-| 470 | 11 | 3 | a day ago | [ReacType](https://github.com/team-reactype/ReacType)/823 | 🧪 Prototyping Tool for exporting React/Typescript Applications! |
-| 468 | 192 | 60 | 7 days ago | [smart-home-nodejs](https://github.com/actions-on-google/smart-home-nodejs)/824 | A sample of the Smart Home device control APIs in Actions on Google |
-| 468 | 78 | 61 | a day ago | [preact-material-components](https://github.com/prateekbh/preact-material-components)/825 | preact wrapper for "Material Components for the web" |
-| 467 | 125 | 77 | a day ago | [vscode-eslint](https://github.com/microsoft/vscode-eslint)/826 | VSCode extension to integrate eslint into VSCode |
-| 467 | 15 | 1 | 8 hours ago | [react-simple-animate](https://github.com/bluebill1049/react-simple-animate)/827 | 🎯 React UI animation made easy |
-| 466 | 48 | 49 | 3 days ago | [accounts](https://github.com/accounts-js/accounts)/828 | Fullstack authentication and accounts-management for Javascript. |
-| 465 | 18 | 5 | 2 months ago | [focal](https://github.com/grammarly/focal)/829 | Program user interfaces the FRP way. |
-| 465 | 63 | 6 | a month ago | [nvim-typescript](https://github.com/mhartington/nvim-typescript)/830 | Typescript tooling for Neovim |
-| 464 | 51 | 7 | 9 months ago | [ng-animate](https://github.com/jiayihu/ng-animate)/831 | 🌙 A collection of cool, reusable and flexible animations for Angular 4.2+ |
-| 463 | 45 | 7 | 1 year, 2 months ago | [rar.js](https://github.com/43081j/rar.js)/832 | Pure-JavaScript RAR reader using AJAX, File API & local access |
-| 463 | 35 | 12 | 5 days ago | [puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster)/833 | Puppeteer Pool, run a cluster of instances in parallel |
-| 462 | 199 | 74 | a month ago | [PowerBI-JavaScript](https://github.com/microsoft/PowerBI-JavaScript)/834 | JavaScript library for embedding Power BI into your apps. Check out the docs website and wiki for more information. |
-| 462 | 24 | 28 | a day ago | [graphql-modules](https://github.com/Urigo/graphql-modules)/835 | Enterprise Grade Tooling For Your GraphQL Server |
-| 462 | 378 | 19 | a month ago | [sample-Groceries](https://github.com/NativeScript/sample-Groceries)/836 | :green_apple: :pineapple: :strawberry: A NativeScript-built iOS and Android app for managing grocery lists |
-| 461 | 22 | 2 | 11 days ago | [axax](https://github.com/jamiemccrindle/axax)/837 | Async Iterator Extensions for JavaScript e.g. map, reduce, filter, flatMap, etc. |
-| 461 | 4 | 0 | 27 days ago | [reattempt](https://github.com/wsmd/reattempt)/838 | 🙏 Give your functions another chance |
-| 461 | 76 | 1 | 1 year, 6 months ago | [TypeScript-WeChat-Starter](https://github.com/microsoft/TypeScript-WeChat-Starter)/839 | A starter template for TypeScript and WeChat with a detailed README describing how to use the two together. |
-| 461 | 36 | 7 | a day ago | [spectator](https://github.com/NetanelBasal/spectator)/840 | 🚀 Angular Tests Made Easy |
-| 459 | 36 | 47 | 9 months ago | [evermonkey](https://github.com/michalyao/evermonkey)/841 | Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！ |
-| 459 | 134 | 12 | 3 months ago | [fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone)/842 | A Fullstack GraphQL Airbnb Clone with React and React Native |
-| 459 | 49 | 5 | 7 months ago | [learn-rxjs-operators](https://github.com/RxJS-CN/learn-rxjs-operators)/843 | Learn RxJS 中文版 (通过清晰的示例来学习 RxJS 5 操作符) |
-| 457 | 15 | 58 | 3 months ago | [maia-yt](https://github.com/YePpHa/maia-yt)/844 | Currently codenamed maia-yt is a userscript (and browser extension) that enhances the user's experience on YouTube. |
-| 457 | 62 | 0 | a month ago | [gulp-shell](https://github.com/sun-zheng-an/gulp-shell)/845 | A handy command line interface for gulp |
-| 457 | 1272 | 485 | 16 hours ago | [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)/846 | The source for REST API specifications for Microsoft Azure. |
-| 457 | 110 | 1 | 5 days ago | [surmon.me.native](https://github.com/surmon-china/surmon.me.native)/847 | 📱 My blog app powered by @facebook/react-native |
-| 457 | 148 | 11 | 27 days ago | [qiniu-wxapp-sdk](https://github.com/gpake/qiniu-wxapp-sdk)/848 | qiniu SDK based on wxapp |
-| 455 | 72 | 1 | 11 hours ago | [msgpack-javascript](https://github.com/msgpack/msgpack-javascript)/849 | MessagePack for JavaScript/ECMA-262 |
-| 455 | 83 | 15 | a day ago | [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen)/850 | Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web. |
-| 455 | 190 | 9 | 28 days ago | [line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs)/851 | Node.js SDK for LINE Messaging API |
-| 454 | 47 | 21 | 10 months ago | [typescript-formatter](https://github.com/vvakame/typescript-formatter)/852 | Formatter of TypeScript code |
-| 454 | 79 | 11 | 3 months ago | [angular-pipes](https://github.com/fknop/angular-pipes)/853 | Useful pipes for Angular |
-| 452 | 14 | 0 | a month ago | [Json-Function](https://github.com/aykutkardas/Json-Function)/854 | It allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data. |
-| 450 | 55 | 3 | 7 months ago | [MarkdownIME](https://github.com/laobubu/MarkdownIME)/855 | A fresh way to write well-formatted text, by typing markdownized stuff on web. |
-| 449 | 15 | 0 | 2 days ago | [use-immer](https://github.com/immerjs/use-immer)/856 | Use immer to drive state with a React hooks |
-| 448 | 37 | 13 | 7 days ago | [vue-notifications](https://github.com/se-panfilov/vue-notifications)/857 | Vue.js agnostic library for non-blocking notifications |
-| 448 | 179 | 89 | 2 months ago | [ion2-calendar](https://github.com/hsuanxyz/ion2-calendar)/858 | 📅 A date picker components for ionic2 ／ionic3 / ionic4 |
-| 447 | 34 | 4 | 14 days ago | [xr](https://github.com/radiosilence/xr)/859 | Ultra-lightweight wrapper around XMLHttpRequest. You should probably use fetch (whatwg-fetch) or RxJS, though. |
-| 447 | 37 | 7 | 3 days ago | [kiwi](https://github.com/alibaba/kiwi)/860 | 🐤Kiwi-国际化全流程解决方案 |
-| 446 | 18 | 2 | 10 months ago | [story-graph](https://github.com/incrediblesound/story-graph)/861 | The Graph that Generates Stories |
-| 446 | 58 | 29 | a month ago | [ethql](https://github.com/ConsenSys/ethql)/862 | A GraphQL interface to Ethereum :fire: |
-| 445 | 104 | 34 | 27 days ago | [ngx-dnd](https://github.com/swimlane/ngx-dnd)/863 | 🕶  Drag, Drop and Sorting Library for Angular2 and beyond! |
-| 444 | 152 | 10 | 1 year, 1 month ago | [clicker](https://github.com/lathonez/clicker)/864 | Ionic 2 + @angular/cli Seed Project : Angular2 + Typescript + Karma + Protractor + Travis  |
-| 444 | 88 | 9 | 2 months ago | [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official)/865 | Vue Data Grid with Spreadsheet Look & Feel. Official Vue wrapper for Handsontable. |
-| 444 | 60 | 95 | 1 year, 7 months ago | [vscode-rust](https://github.com/editor-rs/vscode-rust)/866 | Rust for Visual Studio Code |
-| 444 | 87 | 57 | 2 months ago | [vscode-elm](https://github.com/Krzysztof-Cieslak/vscode-elm)/867 | Elm Language Support for Visual Studio Code |
-| 442 | 106 | 1 | 2 years ago | [learn-typescript](https://github.com/TypeStrong/learn-typescript)/868 | The complete workshop for picking up TypeScript |
-| 442 | 125 | 1 | 2 years ago | [angular-pizza-creator](https://github.com/toddmotto/angular-pizza-creator)/869 | Source code for Angular advanced Form APIs pizza builder |
-| 440 | 72 | 6 | a month ago | [react-accessible-accordion](https://github.com/springload/react-accessible-accordion)/870 | Accessible Accordion component for React |
-| 439 | 55 | 153 | 12 hours ago | [vscode-ng-language-service](https://github.com/angular/vscode-ng-language-service)/871 | VS Code plugin for the Angular Language Service |
-| 438 | 48 | 89 | 3 months ago | [vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml)/872 | OCaml &  Reason support for Visual Studio Code |
-| 438 | 92 | 37 | 7 hours ago | [ng-zorro-antd-mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile)/873 | A configurable Mobile UI components based on Ant Design Mobile and Angular7. 🐜 |
-| 438 | 81 | 28 | 1 year, 2 months ago | [ngx-errors](https://github.com/UltimateAngular/ngx-errors)/874 | A declarative validation errors module for reactive forms. |
-| 438 | 39 | 31 | a month ago | [gistio](https://github.com/idan/gistio)/875 | A gist-backed pretty display for markdown. |
-| 437 | 1325 | 6 | a month ago | [moodlemobile2](https://github.com/moodlehq/moodlemobile2)/876 | The Moodle Mobile app version 2.x |
-| 436 | 14 | 1 | 7 days ago | [avatars](https://github.com/DiceBear/avatars)/877 | Avatars is an avatar placeholder library for designers and developers. |
-| 436 | 48 | 148 | 7 days ago | [threema-web](https://github.com/threema-ch/threema-web)/878 | The Threema Web application. |
-| 435 | 58 | 5 | a month ago | [react-particles-js](https://github.com/Wufe/react-particles-js)/879 | Particles.js for React |
-| 435 | 39 | 1 | 9 months ago | [awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects)/880 | awesome typescript open source projects, includes IDE, Framework, Library, Tool |
-| 435 | 50 | 2 | 2 months ago | [react-native-fit-image](https://github.com/huiseoul/react-native-fit-image)/881 | Responsive image component to fit perfectly itself. |
-| 434 | 149 | 13 | 3 days ago | [ngx-graph](https://github.com/swimlane/ngx-graph)/882 | Graph visualization library for angular |
-| 433 | 57 | 37 | 7 days ago | [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators)/883 | TypeScript/ES7 Decorators to create Vuex modules declaratively |
-| 433 | 42 | 5 | a month ago | [random-js](https://github.com/ckknight/random-js)/884 | A mathematically correct random number generator library for JavaScript. |
-| 432 | 39 | 3 | a day ago | [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer)/885 | React component that monitors when an element enters or leaves the browser viewport. |
-| 431 | 117 | 45 | 2 months ago | [code-gov-web](https://github.com/GSA/code-gov-web)/886 | DEPRECATED 🛑- Federal Source Code policy implementation. |
-| 431 | 94 | 33 | a day ago | [serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager)/887 | Serverless plugin for managing custom domains with API Gateways. |
-| 430 | 97 | 115 | 2 months ago | [vscode-php-debug](https://github.com/felixfbecker/vscode-php-debug)/888 | PHP Debug Adapter for Visual Studio Code 🐞⛔ |
-| 429 | 45 | 30 | a month ago | [gql2ts](https://github.com/avantcredit/gql2ts)/889 | convert a graphql schema to a typescript definition |
-| 429 | 29 | 32 | 11 months ago | [vesper](https://github.com/vesper-framework/vesper)/890 | Vesper is a NodeJS framework that helps you to create scalable, maintainable, extensible, declarative and fast GraphQL-based server applications. |
-| 428 | 14 | 0 | 5 months ago | [autogit](https://github.com/fabiospampinato/autogit)/891 | Define commands, using plugins, to execute across all your repositories. |
-| 427 | 46 | 46 | 4 months ago | [puppetexplorer](https://github.com/dalen/puppetexplorer)/892 | Puppet web interface written in CoffeeScript using AngularJS |
-| 426 | 38 | 2 | 1 year, 7 months ago | [Querybase](https://github.com/davideast/Querybase)/893 | Bringing the where statement to the Firebase Database. |
-| 426 | 43 | 48 | 2 years ago | [ng-forward](https://github.com/ngUpgraders/ng-forward)/894 | The default solution for those that want to write Angular 2.x style code in Angular 1.x |
-| 426 | 200 | 6 | 1 year, 1 month ago | [ionic3-chat](https://github.com/hsuanxyz/ionic3-chat)/895 |  ionic3 chat example |
-| 425 | 40 | 29 | 8 months ago | [angular-hmr](https://github.com/PatrickJS/angular-hmr)/896 | :fire: Angular Hot Module Replacement for Hot Module Reloading via @TipeIO |
-| 424 | 89 | 97 | 2 months ago | [gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode)/897 | Git History for Visual Studio Code |
-| 424 | 38 | 7 | 6 days ago | [pont](https://github.com/alibaba/pont)/898 | 前端接口层工具 |
-| 424 | 120 | 12 | 10 days ago | [devextreme-angular](https://github.com/DevExpress/devextreme-angular)/899 | Angular UI and data visualization components |
-| 424 | 48 | 3 | 6 days ago | [raspi-io](https://github.com/nebrius/raspi-io)/900 | An IO plugin for Johnny-Five that provides support for the Raspberry Pi |
-| 422 | 62 | 7 | a month ago | [pixi-particles](https://github.com/pixijs/pixi-particles)/901 | A particle system for PixiJS |
-| 421 | 116 | 15 | 19 hours ago | [manager](https://github.com/linode/manager)/902 | The Linode Cloud Manager |
-| 420 | 153 | 127 | 9 months ago | [angular2-materialize](https://github.com/InfomediaLtd/angular2-materialize)/903 | Angular 2 support for Materialize CSS framework. |
-| 417 | 38 | 15 | 2 days ago | [overmind](https://github.com/cerebral/overmind)/904 | Overmind - Frictionless state management |
-| 417 | 102 | 44 | 17 days ago | [jest-preset-angular](https://github.com/thymikee/jest-preset-angular)/905 | Jest configuration preset for Angular projects. |
-| 417 | 92 | 44 | 10 months ago | [element-angular](https://github.com/ElemeFE/element-angular)/906 | Element for Angular |
-| 417 | 62 | 1 | 10 hours ago | [node-maxmind](https://github.com/runk/node-maxmind)/907 | Maxmind GEO Lookup  |
-| 415 | 43 | 59 | 1 year, 3 months ago | [shellshape](https://github.com/timbertson/shellshape)/908 | tiling window manager extension for gnome-shell |
-| 415 | 27 | 11 | a year ago | [typescript-fsa](https://github.com/aikoven/typescript-fsa)/909 | Type-safe action creator utilities |
-| 414 | 66 | 39 | 9 days ago | [angular-mdc-web](https://github.com/trimox/angular-mdc-web)/910 | Material Web Components for Angular |
-| 413 | 32 | 4 | 17 days ago | [node-casbin](https://github.com/casbin/node-casbin)/911 | An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js |
-| 411 | 45 | 0 | 5 months ago | [BlockchainStore](https://github.com/brakmic/BlockchainStore)/912 | :moneybag: Retail Store that runs on Ethereum  |
-| 411 | 67 | 0 | 2 days ago | [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar)/913 | A circular progress indicator |
-| 411 | 946 | 21 | 1 year, 2 months ago | [ngrx-store-effects-app](https://github.com/UltimateAngular/ngrx-store-effects-app)/914 | Project seed app for our NGRX application using Angular, NGRX Store, Effects, Router Store. |
-| 410 | 57 | 42 | 21 days ago | [authelia](https://github.com/clems4ever/authelia)/915 | The Cloud ready multi-factor authentication portal for your Apps |
-| 409 | 76 | 9 | 6 days ago | [ngx-ui](https://github.com/swimlane/ngx-ui)/916 | 🚀  Style and Component Library for Angular |
-| 409 | 225 | 52 | a day ago | [select](https://github.com/react-component/select)/917 | React Select |
-| 409 | 38 | 29 | 8 months ago | [mobx-persist](https://github.com/pinqy520/mobx-persist)/918 | persist mobx stores |
-| 409 | 88 | 13 | 9 months ago | [route-recognizer](https://github.com/tildeio/route-recognizer)/919 | A lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers. |
-| 409 | 48 | 22 | a month ago | [TypeChain](https://github.com/ethereum-ts/TypeChain)/920 | 🔌 TypeScript bindings for Ethereum smart contracts |
-| 408 | 167 | 0 | 1 year, 5 months ago | [ionic-starter-super](https://github.com/ionic-team/ionic-starter-super)/921 | The Ionic 2 Super Starter 🎮 |
-| 408 | 188 | 8 | 1 year, 8 months ago | [awesome-tutorials](https://github.com/wpcfan/awesome-tutorials)/922 | I am going to write a series of tutorials about web/android/ios development |
-| 408 | 50 | 32 | 4 days ago | [angular-builders](https://github.com/meltedspark/angular-builders)/923 | A set of custom builders for Angular CLI |
-| 408 | 46 | 19 | 2 months ago | [tinymce-vue](https://github.com/tinymce/tinymce-vue)/924 | Official TinyMCE Vue component |
-| 407 | 230 | 17 | 6 months ago | [cc](https://github.com/myopenresources/cc)/925 | 一个基于angular5.0.0+ng-bootstrap1.0.0-beta.8+bootstrap4.0.0-beta.2+scss的后台管理系统界面(没基础的同学请先自学基础，谢谢！) |
-| 406 | 81 | 49 | 22 hours ago | [node-pty](https://github.com/microsoft/node-pty)/926 | Fork pseudoterminals in Node.JS |
-| 405 | 10 | 3 | 5 days ago | [rxjs-spy](https://github.com/cartant/rxjs-spy)/927 | A debugging library for RxJS |
-| 405 | 395 | 4 | 1 year, 1 month ago | [angular2-registration-login-example](https://github.com/cornflourblue/angular2-registration-login-example)/928 | Angular 2/5 User Registration and Login Example |
-| 405 | 27 | 31 | 5 months ago | [jupyterlab-vim](https://github.com/jwkvam/jupyterlab-vim)/929 | :neckbeard: Vim notebook cell bindings for JupyterLab |
-| 404 | 14 | 10 | 27 days ago | [parket](https://github.com/ForsakenHarmony/parket)/930 | A library to manage application state, heavily inspired by mobx-state-tree |
-| 403 | 23 | 12 | a month ago | [npm-gui](https://github.com/q-nick/npm-gui)/931 | Graphic tool for managing javascript project dependencies - in a friendly way.  |
-| 403 | 175 | 57 | 2 months ago | [dialogflow-javascript-client](https://github.com/dialogflow/dialogflow-javascript-client)/932 | JavaScript Web SDK for Dialogflow |
-| 403 | 7 | 3 | 27 days ago | [use-query-params](https://github.com/pbeshai/use-query-params)/933 | React Hook for managing state in URL query parameters with easy serialization. |
-| 401 | 85 | 2 | a day ago | [react-bilibili](https://github.com/code-mcx/react-bilibili)/934 | :tv: 高仿B站web移动端 |
-| 400 | 98 | 13 | 9 days ago | [we-vue](https://github.com/tianyong90/we-vue)/935 | we-vue， 不只是 vue.js + weui! |
-| 400 | 31 | 23 | 3 months ago | [solidarity](https://github.com/infinitered/solidarity)/936 | Solidarity is an environment checker for project dependencies across multiple machines. |
-| 400 | 42 | 37 | 15 days ago | [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane)/937 | :sparkles: A sortable and resizable pane component for React. |
-| 400 | 24 | 25 | a month ago | [codemirror.next](https://github.com/codemirror/codemirror.next)/938 | The next generation of the CodeMirror in-browser editor |
-| 399 | 20 | 1 | 2 days ago | [trends](https://github.com/hanford/trends)/939 | ultra high performance github trending application |
-| 399 | 16 | 27 | 1 year, 8 months ago | [Mstdn](https://github.com/rhysd/Mstdn)/940 | Tiny web-based mastodon client for your desktop |
-| 399 | 160 | 1 | 23 days ago | [angular-material-app](https://github.com/stbui/angular-material-app)/941 | 基于最新Angular 7框架与Material 2技术的web企业级中后台前端应用框架，可以帮助企业提高工作效率，节省开发成本，提升品牌形象。 |
-| 398 | 6 | 7 | 29 days ago | [shiki](https://github.com/octref/shiki)/942 | A beautiful Syntax Highlighter. |
-| 397 | 8 | 25 | a month ago | [fromfrom](https://github.com/tomi/fromfrom)/943 | A JS library written in TS to transform sequences of data from format to another |
-| 396 | 58 | 16 | 23 hours ago | [rx-player](https://github.com/canalplus/rx-player)/944 | Smooth/DASH HTML5 Video Player |
-| 395 | 15 | 2 | 5 months ago | [webpack-deep-scope-analysis-plugin](https://github.com/vincentdchan/webpack-deep-scope-analysis-plugin)/945 | A webpack plugin for deep scope analysis |
-| 395 | 21 | 12 | 6 months ago | [surf](https://github.com/surf-build/surf)/946 | The simplest GitHub build server |
-| 395 | 129 | 113 | 2 years ago | [angular2-highcharts](https://github.com/gevgeny/angular2-highcharts)/947 | :bar_chart: :chart_with_upwards_trend: Highcharts for your Angular project |
-| 394 | 113 | 2 | 1 year, 10 months ago | [soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx)/948 | SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects |
-| 393 | 77 | 8 | 4 months ago | [swiper](https://github.com/fex-team/swiper)/949 | 轻量的移动端 H5 翻页库 |
-| 393 | 70 | 22 | 3 days ago | [nest-cli](https://github.com/nestjs/nest-cli)/950 | CLI tool for Nest applications 🍹  |
-| 392 | 114 | 46 | a month ago | [ionic-image-loader](https://github.com/zyra/ionic-image-loader)/951 | Ionic 2+ Component that loads images in a background thread and caches them for later use |
-| 391 | 74 | 11 | 3 months ago | [json-formatter-js](https://github.com/mohsen1/json-formatter-js)/952 |  Render JSON objects in beautiful HTML (pure JavaScript) |
-| 390 | 18 | 2 | 5 days ago | [env-cmd](https://github.com/toddbluhm/env-cmd)/953 | Setting the environment from a file |
-| 390 | 24 | 1 | 5 months ago | [libRmath.js](https://github.com/R-js/libRmath.js)/954 | Javascript Pure Implementation of Statistical R "core" numerical libRmath.so |
-| 390 | 49 | 1 | 17 days ago | [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar)/955 | Automatic page loading / progress bar for Angular |
-| 389 | 136 | 60 | 8 days ago | [vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node)/956 | Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js |
-| 388 | 35 | 46 | 2 months ago | [YamUI](https://github.com/microsoft/YamUI)/957 | Reusable component framework for Yammer.com |
-| 388 | 101 | 72 | 1 year, 1 month ago | [PruneCluster](https://github.com/SINTEF-9012/PruneCluster)/958 | Fast and realtime marker clustering for Leaflet |
-| 388 | 136 | 4 | 8 months ago | [rebirth](https://github.com/greengerong/rebirth)/959 | GreenGerong(破狼) blog with Angular4. |
-| 387 | 144 | 23 | 22 days ago | [Authenticator](https://github.com/Authenticator-Extension/Authenticator)/960 | Authenticator generates 2-Step Verification codes in your browser. |
-| 387 | 39 | 27 | 3 months ago | [ueli](https://github.com/oliverschwendener/ueli)/961 | This is a keystroke launcher for Windows and macOS. |
-| 386 | 22 | 13 | 4 months ago | [prpl-server](https://github.com/Polymer/prpl-server)/962 | An HTTP server for Node designed to serve PRPL apps in production. |
-| 385 | 98 | 0 | 24 days ago | [onfire.js](https://github.com/hustcc/onfire.js)/963 | :gun: onfire.js is a nano version (~500b) for event-emitter. |
-| 385 | 14 | 4 | a month ago | [typed-graphqlify](https://github.com/acro5piano/typed-graphqlify)/964 | Build Typed GraphQL Queries in TypeScript. A better TypeScript + GraphQL experience. |
-| 384 | 122 | 22 | 1 year, 1 month ago | [mobile-drag-drop](https://github.com/timruffles/mobile-drag-drop)/965 | A drop-in shim to allow you to use existing html5 drag'n'drop code with mobile browsers |
-| 383 | 6 | 20 | 2 months ago | [lynt](https://github.com/saadq/lynt)/966 | ✨ A zero config JavaScript linter with support for Typescript, Flow, and React. |
-| 383 | 23 | 23 | 3 months ago | [tsconfig-paths](https://github.com/dividab/tsconfig-paths)/967 | Load node modules according to tsconfig paths, in run-time or via API. |
-| 383 | 114 | 63 | 3 months ago | [md2](https://github.com/Promact/md2)/968 | Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Tabs, Tags(Chips), Toast and Tooltip. |
-| 383 | 165 | 4 | 2 months ago | [angular-commerce](https://github.com/NodeArt/angular-commerce)/969 | Angular components for scaffolding online store |
-| 383 | 82 | 34 | 2 days ago | [examples](https://github.com/pulumi/examples)/970 | Examples of using Pulumi to deploy infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes. |
-| 383 | 97 | 50 | 13 days ago | [serverless-plugin-typescript](https://github.com/prisma/serverless-plugin-typescript)/971 | Serverless plugin for zero-config Typescript support |
-| 382 | 49 | 10 | 2 months ago | [react2angular](https://github.com/coatue-oss/react2angular)/972 | The easiest way to embed React components in Angular 1 apps. |
-| 382 | 170 | 80 | 6 months ago | [date-time-picker](https://github.com/DanielYKPan/date-time-picker)/973 | Angular Date Time Picker (Responsive Design) |
-| 382 | 145 | 25 | 1 year, 1 month ago | [ionic-unit-testing-example](https://github.com/ionic-team/ionic-unit-testing-example)/974 | Example of adding unit testing in your Ionic 2.x or greater apps with Karma and Jasmine |
-| 382 | 19 | 4 | 3 years ago | [typed-react](https://github.com/Asana/typed-react)/975 | A binding layer between React and TypeScript |
-| 382 | 47 | 19 | 3 months ago | [geeks-diary](https://github.com/seokju-na/geeks-diary)/976 | TIL writing tool for programmer |
-| 382 | 233 | 73 | 9 months ago | [jquery-bracket](https://github.com/teijo/jquery-bracket)/977 | jQuery Bracket library for organizing single and double elimination tournaments |
-| 382 | 10 | 3 | 27 days ago | [remeda](https://github.com/remeda/remeda)/978 | A utility library for JavaScript and TypeScript. |
-| 381 | 37 | 22 | 8 days ago | [tslib](https://github.com/microsoft/tslib)/979 | Runtime library for TypeScript helpers. |
-| 381 | 377 | 1 | 13 hours ago | [delon](https://github.com/ng-alain/delon)/980 | Delon is a set of essential modules for ng-alain. |
-| 381 | 83 | 16 | a month ago | [backburner.js](https://github.com/BackburnerJS/backburner.js)/981 | A rewrite of the Ember.js run loop as a generic microlibrary |
-| 381 | 11 | 0 | 22 days ago | [Mosaic](https://github.com/Authman2/Mosaic)/982 | 🎨 A front-end JavaScript library for building user interfaces. |
-| 380 | 29 | 21 | a month ago | [almin](https://github.com/almin/almin)/983 | Client-side DDD/CQRS for JavaScript. |
-| 378 | 61 | 33 | 16 days ago | [gaia](https://github.com/blockstack/gaia)/984 | A decentralized high-performance storage system |
-| 378 | 75 | 20 | 2 months ago | [ngx-perfect-scrollbar](https://github.com/zefoy/ngx-perfect-scrollbar)/985 | Angular wrapper library for the Perfect Scrollbar |
-| 378 | 98 | 122 | 10 hours ago | [salesforcedx-vscode](https://github.com/forcedotcom/salesforcedx-vscode)/986 | Salesforce Extensions for VS Code |
-| 378 | 40 | 39 | 3 days ago | [prisma-binding](https://github.com/prisma/prisma-binding)/987 | GraphQL Binding for Prisma (using GraphQL schema delegation) |
-| 378 | 78 | 62 | 1 year, 2 months ago | [ngx-translate-extract](https://github.com/biesbjerg/ngx-translate-extract)/988 | None |
-| 377 | 67 | 4 | 1 year, 4 months ago | [ngrx-examples](https://github.com/btroncone/ngrx-examples)/989 | @ngrx examples and resources |
-| 377 | 86 | 16 | 2 days ago | [arangojs](https://github.com/arangodb/arangojs)/990 | The official ArangoDB JavaScript driver. |
-| 375 | 21 | 2 | 10 months ago | [apollo-link-firebase](https://github.com/Canner/apollo-link-firebase)/991 | :fire: :link: apollo-link-firebase provides you a simple way to use Firebase with graphQL. |
-| 374 | 101 | 3 | 2 days ago | [ngx-weui](https://github.com/cipchk/ngx-weui)/992 | WeUI for angular |
-| 374 | 60 | 28 | a day ago | [typescript-graphql-server](https://github.com/graphql-boilerplates/typescript-graphql-server)/993 | Boilerplate code for scalable, production-ready GraphQL servers written in TypeScript |
-| 373 | 93 | 0 | 4 days ago | [gamepad.js](https://github.com/bwiklund/gamepad.js)/994 | Web browser Gamepad API tester |
-| 373 | 253 | 28 | 6 months ago | [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player)/995 | An Alexa Skill Sample showing how to play long form audio in 3P-skills |
-| 372 | 14 | 13 | 29 days ago | [csstype](https://github.com/frenic/csstype)/996 | Strict TypeScript and Flow types for style based on MDN data |
-| 372 | 129 | 1 | 20 days ago | [typescript-starter](https://github.com/nestjs/typescript-starter)/997 | Nest framework TypeScript starter :coffee: |
-| 371 | 16 | 18 | 3 days ago | [tslint-immutable](https://github.com/jonaskello/tslint-immutable)/998 | TSLint rules to disable mutation in TypeScript. |
-| 371 | 233 | 0 | 10 months ago | [PnP-JS-Core](https://github.com/SharePoint/PnP-JS-Core)/999 | Code moved to https://github.com/pnp/pnpjs. This repository is archived. |
-| 370 | 47 | 39 | 1 year, 2 months ago | [persistgraphql](https://github.com/apollographql/persistgraphql)/1000 | A build tool for GraphQL projects. |
+| 76867 | 10585 | 5726 | 9 hours ago | [vscode](https://github.com/microsoft/vscode)/1 | Visual Studio Code |
+| 49522 | 6856 | 3838 | 3 days ago | [TypeScript](https://github.com/microsoft/TypeScript)/2 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| 48476 | 12977 | 2849 | 5 days ago | [angular](https://github.com/angular/angular)/3 | One framework. Mobile & desktop. |
+| 46887 | 16429 | 299 | 8 hours ago | [ant-design](https://github.com/ant-design/ant-design)/4 | 🌈 A UI Design Language |
+| 38092 | 13037 | 544 | a day ago | [ionic](https://github.com/ionic-team/ionic)/5 | Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉 |
+| 34948 | 1652 | 208 | 6 hours ago | [deno](https://github.com/denoland/deno)/6 | A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio |
+| 28975 | 5432 | 1842 | 7 hours ago | [grafana](https://github.com/grafana/grafana)/7 | The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More |
+| 22357 | 17600 | 2854 | 15 hours ago | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)/8 | The repository for high quality TypeScript type definitions. |
+| 21645 | 6685 | 703 | 4 days ago | [angular-cli](https://github.com/angular/angular-cli)/9 | CLI tool for Angular |
+| 19957 | 2734 | 112 | 28 days ago | [sweetalert](https://github.com/t4t5/sweetalert)/10 | A beautiful replacement for JavaScript's "alert" |
+| 19770 | 638 | 220 | 7 days ago | [upterm](https://github.com/railsware/upterm)/11 | A terminal emulator for the 21st century. |
+| 19500 | 1155 | 243 | 7 days ago | [code-server](https://github.com/cdr/code-server)/12 | Run VS Code on a remote server. |
+| 18568 | 1904 | 305 | 11 days ago | [rxjs](https://github.com/ReactiveX/rxjs)/13 | A reactive programming library for JavaScript |
+| 18041 | 4671 | 1820 | 3 days ago | [components](https://github.com/angular/components)/14 | Component infrastructure and Material Design components for Angular |
+| 17040 | 633 | 338 | 6 hours ago | [svelte](https://github.com/sveltejs/svelte)/15 | Cybernetically enhanced web apps |
+| 16981 | 3088 | 400 | a day ago | [html2canvas](https://github.com/niklasvh/html2canvas)/16 | Screenshots with JavaScript |
+| 16947 | 1247 | 437 | 5 days ago | [NativeScript](https://github.com/NativeScript/NativeScript)/17 | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android. |
+| 16601 | 5382 | 244 | a month ago | [ngx-admin](https://github.com/akveo/ngx-admin)/18 | Admin dashboard template based on Angular 7+, Bootstrap 4 (previously known as ng2-admin) |
+| 16120 | 1091 | 126 | 2 days ago | [nest](https://github.com/nestjs/nest)/19 | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 |
+| 15537 | 984 | 254 | a day ago | [formik](https://github.com/jaredpalmer/formik)/20 | Build forms in React, without the tears 😭  |
+| 15087 | 583 | 188 | 3 days ago | [docz](https://github.com/pedronauck/docz)/21 | ✍🏻It has never been so easy to document your things! |
+| 14072 | 1206 | 381 | 4 days ago | [blueprint](https://github.com/palantir/blueprint)/22 | A React-based UI toolkit for the web |
+| 13906 | 3271 | 373 | 3 months ago | [ui-router](https://github.com/angular-ui/ui-router)/23 | The de-facto solution to flexible routing with nested views in AngularJS |
+| 13236 | 597 | 198 | 9 months ago | [chromeless](https://github.com/prisma-archive/chromeless)/24 | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. |
+| 13157 | 1627 | 762 | 3 days ago | [typeorm](https://github.com/typeorm/typeorm)/25 | ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. |
+| 11749 | 3559 | 18 | 2 months ago | [mean](https://github.com/linnovate/mean)/26 | The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications |
+| 11734 | 920 | 193 | 19 hours ago | [flatpickr](https://github.com/flatpickr/flatpickr)/27 | lightweight, powerful javascript datetimepicker with no dependencies |
+| 11228 | 1316 | 394 | a month ago | [react-dnd](https://github.com/react-dnd/react-dnd)/28 | Drag and Drop for React |
+| 11055 | 1267 | 304 | 9 hours ago | [apollo-client](https://github.com/apollographql/apollo-client)/29 | :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server |
+| 11055 | 329 | 513 | 21 days ago | [oni](https://github.com/onivim/oni)/30 | Oni: Modern Modal Editing - powered by Neovim |
+| 11023 | 789 | 441 | 2 days ago | [tfjs](https://github.com/tensorflow/tfjs)/31 | A WebGL accelerated JavaScript library for training and deploying ML models. |
+| 10717 | 323 | 13 | 2 months ago | [rough](https://github.com/pshihn/rough)/32 | Create graphics with a hand-drawn, sketchy, appearance |
+| 10290 | 417 | 241 | 10 days ago | [notable](https://github.com/notable/notable)/33 | The markdown-based note-taking app that doesn't suck. |
+| 9883 | 771 | 17 | 7 days ago | [ignite](https://github.com/infinitered/ignite)/34 | The hottest CLI for React Native, boilerplates, plugins, generators, and more! |
+| 9351 | 1760 | 49 | 7 hours ago | [Babylon.js](https://github.com/BabylonJS/Babylon.js)/35 | Babylon.js is a powerful, beautiful, simple, and open, game and rendering engine packed into a friendly JavaScript framework. |
+| 9285 | 382 | 93 | 11 days ago | [cyclejs](https://github.com/cyclejs/cyclejs)/36 | A functional and reactive JavaScript framework for predictable code |
+| 9215 | 2017 | 56 | 6 days ago | [botkit](https://github.com/howdyai/botkit)/37 | Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms. |
+| 9095 | 845 | 204 | 7 months ago | [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)/38 | A starter template for TypeScript and React with a detailed README describing how to use the two together. |
+| 8952 | 787 | 43 | 13 hours ago | [omi](https://github.com/Tencent/omi)/39 |  Front End Cross-Frameworks Framework - 前端跨框架跨平台框架 |
+| 8894 | 963 | 3 | 21 days ago | [frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp)/40 | Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux |
+| 8880 | 308 | 172 | a day ago | [terminus](https://github.com/Eugeny/terminus)/41 | A terminal for a more modern age |
+| 8812 | 666 | 18 | 4 days ago | [pageres](https://github.com/sindresorhus/pageres)/42 | Capture website screenshots |
+| 8675 | 650 | 98 | 6 hours ago | [refined-github](https://github.com/sindresorhus/refined-github)/43 | Browser extension that simplifies the GitHub interface and adds useful features |
+| 8533 | 318 | 97 | 28 days ago | [editor.js](https://github.com/codex-team/editor.js)/44 | A block-styled editor with clean JSON output |
+| 8466 | 954 | 40 | 3 days ago | [tfjs-core](https://github.com/tensorflow/tfjs-core)/45 | WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript. |
+| 8427 | 482 | 66 | 2 months ago | [turbolinks](https://github.com/turbolinks/turbolinks)/46 | Turbolinks makes navigating your web application faster |
+| 8209 | 623 | 25 | a day ago | [interact.js](https://github.com/taye/interact.js)/47 | JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+) |
+| 8195 | 1709 | 66 | 2 months ago | [playground](https://github.com/tensorflow/playground)/48 | Play with neural networks! |
+| 8080 | 1270 | 287 | 2 years ago | [satellizer](https://github.com/sahat/satellizer)/49 | Token-based AngularJS Authentication |
+| 7898 | 468 | 109 | 7 hours ago | [squoosh](https://github.com/GoogleChromeLabs/squoosh)/50 | Make images smaller using best-in-class codecs, right in the browser. |
+| 7728 | 549 | 44 | 3 days ago | [reactxp](https://github.com/microsoft/reactxp)/51 | Library for cross-platform app development. |
+| 7576 | 452 | 91 | 3 days ago | [react-page](https://github.com/react-page/react-page)/52 | Next-gen, highly customizable content editor for the browser - based on React and Redux and written in TypeScript. WYSIWYG on steroids. |
+| 7500 | 1325 | 81 | 4 days ago | [google-api-nodejs-client](https://github.com/googleapis/google-api-nodejs-client)/53 | Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.  |
+| 7422 | 2174 | 60 | 8 hours ago | [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)/54 | 💬 The most complete chat UI for React Native |
+| 7367 | 3332 | 539 | 10 hours ago | [desktop](https://github.com/desktop/desktop)/55 | Simple collaboration from your desktop |
+| 7362 | 340 | 31 | 4 days ago | [nexe](https://github.com/nexe/nexe)/56 | 🎉 create a single executable out of your node.js apps |
+| 7341 | 354 | 23 | 3 days ago | [postgraphile](https://github.com/graphile/postgraphile)/57 | Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database! |
+| 7234 | 177 | 9 | a month ago | [stimulus](https://github.com/stimulusjs/stimulus)/58 | A modest JavaScript framework for the HTML you already have |
+| 7222 | 874 | 413 | 8 hours ago | [apollo-server](https://github.com/apollographql/apollo-server)/59 | 🌍 GraphQL server for Express, Connect, Hapi, Koa and more |
+| 7212 | 404 | 12 | 3 days ago | [barba](https://github.com/barbajs/barba)/60 | Create badass, fluid and smooth transition between your website's pages. |
+| 7194 | 234 | 14 | a month ago | [wired-elements](https://github.com/wiredjs/wired-elements)/61 | Collection of custom elements that appear hand drawn. Great for wireframes or a fun look. |
+| 7136 | 1127 | 286 | 7 days ago | [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)/62 | A configurable Mobile UI |
+| 7012 | 797 | 678 | 2 days ago | [electron-builder](https://github.com/electron-userland/electron-builder)/63 | A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box |
+| 6907 | 1160 | 236 | 11 days ago | [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap)/64 | Angular powered Bootstrap |
+| 6821 | 249 | 3 | 8 days ago | [react-content-loader](https://github.com/danilowoz/react-content-loader)/65 | :white_circle: SVG-Powered component to easily create placeholder loadings (like Facebook cards loading) |
+| 6785 | 241 | 72 | 1 year, 2 months ago | [Eve](https://github.com/witheve/Eve)/66 | Better tools for thought |
+| 6646 | 444 | 96 | 6 days ago | [webamp](https://github.com/captbaritone/webamp)/67 | Winamp 2 reimplemented for the browser |
+| 6609 | 862 | 96 | 2 days ago | [typescript-book](https://github.com/basarat/typescript-book)/68 | :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹 |
+| 6605 | 1550 | 1101 | 4 days ago | [tinymce](https://github.com/tinymce/tinymce)/69 | The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular |
+| 6368 | 352 | 9 | a day ago | [adonis-framework](https://github.com/adonisjs/adonis-framework)/70 | 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence |
+| 6291 | 223 | 9 | 4 months ago | [eva-icons](https://github.com/akveo/eva-icons)/71 | A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. |
+| 6289 | 652 | 153 | a day ago | [xterm.js](https://github.com/xtermjs/xterm.js)/72 | A terminal for the web |
+| 6286 | 393 | 760 | a day ago | [Mailspring](https://github.com/Foundry376/Mailspring)/73 | :love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors. |
+| 6167 | 965 | 33 | 18 days ago | [peerjs](https://github.com/peers/peerjs)/74 | Peer-to-peer data in the browser. |
+| 6112 | 336 | 56 | a month ago | [bacon.js](https://github.com/baconjs/bacon.js)/75 | Functional reactive programming library for TypeScript and JavaScript |
+| 6036 | 142 | 102 | 4 days ago | [css-blocks](https://github.com/linkedin/css-blocks)/76 | High performance, maintainable stylesheets. |
+| 5893 | 145 | 283 | 3 days ago | [pnpm](https://github.com/pnpm/pnpm)/77 | 📦🚀 Fast, disk space efficient package manager |
+| 5885 | 330 | 25 | 10 days ago | [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide)/78 | The complete guide to static typing in "React & Redux" apps using TypeScript |
+| 5787 | 754 | 75 | 4 days ago | [face-api.js](https://github.com/justadudewhohacks/face-api.js)/79 | JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js |
+| 5654 | 650 | 198 | 5 days ago | [ReDoc](https://github.com/Rebilly/ReDoc)/80 | 📘  OpenAPI/Swagger-generated API Reference Documentation |
+| 5571 | 575 | 14 | 15 days ago | [este](https://github.com/este/este)/81 | Is What It Is |
+| 5569 | 314 | 224 | 7 hours ago | [stencil](https://github.com/ionic-team/stencil)/82 | A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team |
+| 5541 | 196 | 63 | 2 days ago | [xstate](https://github.com/davidkpiano/xstate)/83 | State machines and statecharts for the modern web. |
+| 5481 | 1046 | 5 | 2 months ago | [countUp.js](https://github.com/inorganik/countUp.js)/84 | Animates a numerical value by counting to it |
+| 5476 | 493 | 304 | 3 days ago | [PeerTube](https://github.com/Chocobozzz/PeerTube)/85 | Federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular. |
+| 5474 | 582 | 633 | 2 days ago | [Vim](https://github.com/VSCodeVim/Vim)/86 | :star: Vim for Visual Studio Code |
+| 5369 | 844 | 664 | 3 days ago | [amplify-js](https://github.com/aws-amplify/amplify-js)/87 | A declarative JavaScript library for application development using cloud services. |
+| 5338 | 63 | 10 | 10 months ago | [learnapollo](https://github.com/learnapollo/learnapollo)/88 | 👩🏻‍🏫   Learn Apollo - A hands-on tutorial for Apollo GraphQL Client (created by Graphcool) |
+| 5330 | 303 | 34 | 4 days ago | [got](https://github.com/sindresorhus/got)/89 | Simplified HTTP requests |
+| 5302 | 827 | 111 | a day ago | [wechaty](https://github.com/Chatie/wechaty)/90 | WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖 |
+| 5272 | 731 | 29 | 11 days ago | [howtographql](https://github.com/howtographql/howtographql)/91 | The Fullstack Tutorial for GraphQL |
+| 5268 | 2479 | 873 | 6 hours ago | [primeng](https://github.com/primefaces/primeng)/92 | UI Components for Angular |
+| 5249 | 111 | 13 | a day ago | [majestic](https://github.com/Raathigesh/majestic)/93 | ⚡ Zero config GUI for Jest |
+| 5208 | 665 | 98 | 5 months ago | [esprima](https://github.com/jquery/esprima)/94 | ECMAScript parsing infrastructure for multipurpose analysis |
+| 5203 | 419 | 82 | a month ago | [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware)/95 | :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync |
+| 5135 | 114 | 16 | 13 days ago | [guess](https://github.com/guess-js/guess)/96 | Libraries & tools for enabling Machine Learning driven user-experiences on the web |
+| 5124 | 864 | 53 | 2 months ago | [ag-grid](https://github.com/ag-grid/ag-grid)/97 | Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components |
+| 5119 | 639 | 209 | 15 hours ago | [react-apollo](https://github.com/apollographql/react-apollo)/98 | :recycle: React integration for Apollo Client |
+| 5101 | 901 | 549 | 6 days ago | [tslint](https://github.com/palantir/tslint)/99 | :vertical_traffic_light: An extensible linter for the TypeScript language |
+| 5070 | 376 | 1366 | a day ago | [azuredatastudio](https://github.com/microsoft/azuredatastudio)/100 | Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux. |
+| 5052 | 1467 | 98 | 3 days ago | [angularfire2](https://github.com/angular/angularfire2)/101 | The official Angular library for Firebase. |
+| 5050 | 225 | 12 | 3 days ago | [react-cosmos](https://github.com/react-cosmos/react-cosmos)/102 | Dev tool for creating reusable React components |
+| 5001 | 220 | 33 | 4 days ago | [devhub](https://github.com/devhubapp/devhub)/103 | DevHub: TweetDeck for GitHub - Android, iOS, Web & Desktop |
+| 4980 | 233 | 21 | a day ago | [rrweb](https://github.com/rrweb-io/rrweb)/104 | record and replay the web |
+| 4951 | 196 | 45 | a day ago | [react-use](https://github.com/streamich/react-use)/105 | React Hooks — 👍 |
+| 4947 | 1620 | 187 | 5 days ago | [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)/106 | An enterprise-class UI components based on Ant Design and Angular. 🐜  |
+| 4894 | 565 | 219 | 3 days ago | [vscode-go](https://github.com/microsoft/vscode-go)/107 | An extension for VS Code which provides support for the Go language. |
+| 4891 | 1058 | 490 | 3 days ago | [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react)/108 | React components for building Microsoft web experiences. |
+| 4843 | 478 | 333 | 13 days ago | [clarity](https://github.com/vmware/clarity)/109 | UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences |
+| 4814 | 912 | 211 | 7 hours ago | [vue-storefront](https://github.com/DivanteLtd/vue-storefront)/110 | Vue Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento 2 supported. Always Open Source, MIT license. Join us as contributor (contributors@vuestorefront.io). |
+| 4811 | 1688 | 24 | a month ago | [angular-seed](https://github.com/mgechev/angular-seed)/111 | [DEPRECATED] Extensible, reliable, modular, PWA ready starter project for Angular (2 and beyond) with statically typed build and AoT compilation |
+| 4808 | 1210 | 87 | a day ago | [platform](https://github.com/ngrx/platform)/112 | Reactive libraries for Angular |
+| 4724 | 447 | 33 | 3 days ago | [probot](https://github.com/probot/probot)/113 | 🤖 A framework for building GitHub Apps to automate and improve your workflow |
+| 4721 | 1426 | 364 | 6 days ago | [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)/114 | Fast and reliable Bootstrap widgets in Angular |
+| 4697 | 1789 | 385 | 9 hours ago | [saleor](https://github.com/mirumee/saleor)/115 | A modular, high performance e-commerce storefront built with Python, GraphQL, Django, and ReactJS. |
+| 4669 | 1090 | 159 | 6 months ago | [signature_pad](https://github.com/szimek/signature_pad)/116 | HTML5 canvas based smooth signature drawing |
+| 4637 | 274 | 93 | a day ago | [lit-html](https://github.com/Polymer/lit-html)/117 | An efficient, expressive, extensible HTML templating library for JavaScript. |
+| 4530 | 197 | 72 | a day ago | [ts-node](https://github.com/TypeStrong/ts-node)/118 | TypeScript execution and REPL for node.js |
+| 4454 | 288 | 221 | a day ago | [graphql-playground](https://github.com/prisma/graphql-playground)/119 | 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration) |
+| 4447 | 312 | 152 | 21 days ago | [InversifyJS](https://github.com/inversify/InversifyJS)/120 | A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript. |
+| 4384 | 303 | 54 | a day ago | [BosqueLanguage](https://github.com/microsoft/BosqueLanguage)/121 | The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle.  |
+| 4373 | 399 | 66 | 7 days ago | [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree)/122 | Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX |
+| 4321 | 403 | 196 | 12 hours ago | [caprine](https://github.com/sindresorhus/caprine)/123 | Elegant Facebook Messenger desktop app |
+| 4252 | 211 | 18 | 2 months ago | [path-to-regexp](https://github.com/pillarjs/path-to-regexp)/124 | Turn a path string such as `/user/:name` into a regular expression |
+| 4233 | 535 | 1052 | 8 hours ago | [theia](https://github.com/theia-ide/theia)/125 | Theia is a cloud & desktop IDE framework implemented in TypeScript. |
+| 4226 | 281 | 66 | a month ago | [rendertron](https://github.com/GoogleChrome/rendertron)/126 | A Headless Chrome rendering solution |
+| 4217 | 277 | 53 | 3 months ago | [graphql-yoga](https://github.com/prisma/graphql-yoga)/127 | 🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience |
+| 4120 | 304 | 131 | 3 days ago | [intern](https://github.com/theintern/intern)/128 | A next-generation code testing stack for JavaScript. |
+| 4099 | 249 | 22 | 10 days ago | [caprover](https://github.com/caprover/caprover)/129 | [previously CaptainDuckDuck] Automated Scalable PaaS Package (automated Docker+nginx) - Heroku on Steroids |
+| 4096 | 385 | 294 | 7 days ago | [nteract](https://github.com/nteract/nteract)/130 | 📘 The interactive computing suite for you!  ✨ |
+| 4084 | 131 | 18 | 6 hours ago | [coc.nvim](https://github.com/neoclide/coc.nvim)/131 | Intellisense engine for vim8 & neovim, full language server protocol support as VSCode  |
+| 4052 | 779 | 323 | 7 hours ago | [nebular](https://github.com/akveo/nebular)/132 | Angular 7 Components, Auth and Security |
+| 4050 | 501 | 16 | 2 days ago | [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)/133 | Foreign language reading and translation assistant based on copy and translate. |
+| 3994 | 510 | 40 | 3 days ago | [flex-layout](https://github.com/angular/flex-layout)/134 | Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API  |
+| 3976 | 326 | 10 | 1 year, 9 months ago | [store](https://github.com/ngrx/store)/135 | RxJS powered state management for Angular applications, inspired by Redux |
+| 3927 | 178 | 38 | 21 days ago | [graphql-voyager](https://github.com/APIs-guru/graphql-voyager)/136 | 🛰️ Represent any GraphQL API as an interactive graph |
+| 3896 | 73 | 16 | 25 days ago | [web](https://github.com/pikapkg/web)/137 | :package: :sparkles: Run npm dependencies directly in the browser. No Browserify, Webpack or import maps required. https://www.pikapkg.com/blog/pika-web-a-future-without-webpack/ |
+| 3882 | 208 | 38 | 9 days ago | [vscode-leetcode](https://github.com/jdneo/vscode-leetcode)/138 | Solve LeetCode problems in VS Code |
+| 3866 | 659 | 68 | 4 days ago | [outline-client](https://github.com/Jigsaw-Code/outline-client)/139 | Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, Linux, iOS and macOS. |
+| 3865 | 98 | 17 | 2 days ago | [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview)/140 | A real browser preview inside your editor that you can debug. |
+| 3793 | 655 | 56 | a month ago | [rap2-delos](https://github.com/thx/rap2-delos)/141 | 阿里妈妈前端团队出品的开源接口管理工具RAP第二代 |
+| 3765 | 410 | 58 | 4 days ago | [express-validator](https://github.com/express-validator/express-validator)/142 | An express.js middleware for validator.js. |
+| 3756 | 236 | 149 | 3 months ago | [fuse-box](https://github.com/fuse-box/fuse-box)/143 | A blazing fast js bundler/loader with a comprehensive API :fire: |
+| 3751 | 103 | 13 | 18 hours ago | [react-three-fiber](https://github.com/drcmda/react-three-fiber)/144 | 👌A React-renderer for Three.js |
+| 3706 | 286 | 34 | 5 days ago | [jspm-cli](https://github.com/jspm/jspm-cli)/145 | Package management CLI |
+| 3664 | 79 | 15 | a month ago | [the-platform](https://github.com/palmerhq/the-platform)/146 | Web. Components. 😂 |
+| 3657 | 386 | 13 | 6 months ago | [code-push](https://github.com/microsoft/code-push)/147 | A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices. |
+| 3655 | 365 | 446 | 3 years ago | [shumway](https://github.com/mozilla/shumway)/148 | Shumway is a Flash VM and runtime written in JavaScript |
+| 3651 | 335 | 167 | 18 days ago | [searchkit](https://github.com/searchkit/searchkit)/149 | React UI components / widgets. The easiest way to build a great search experience with Elasticsearch. |
+| 3534 | 108 | 17 | 17 hours ago | [pts](https://github.com/williamngan/pts)/150 | A library for visualization and creative-coding |
+| 3525 | 110 | 63 | 2 months ago | [oclif](https://github.com/oclif/oclif)/151 | Node.js Open CLI Framework. Built with 💜 by Heroku. |
+| 3494 | 92 | 2 | 9 months ago | [react-fns](https://github.com/jaredpalmer/react-fns)/152 | Browser API's turned into declarative React components and HoC's |
+| 3481 | 243 | 9 | 18 days ago | [vue-class-component](https://github.com/vuejs/vue-class-component)/153 | ES / TypeScript decorator for class-style Vue components. |
+| 3476 | 129 | 4 | 3 days ago | [graphql-editor](https://github.com/slothking-online/graphql-editor)/154 | GraphQL Visual Node Editor |
+| 3473 | 1182 | 691 | 21 days ago | [ngx-datatable](https://github.com/swimlane/ngx-datatable)/155 | ✨  A feature-rich yet lightweight data-table crafted for Angular |
+| 3460 | 119 | 22 | 17 hours ago | [fiddle](https://github.com/electron/fiddle)/156 | :electron: 🚀 The easiest way to get started with Electron |
+| 3429 | 579 | 409 | 25 days ago | [darkreader](https://github.com/darkreader/darkreader)/157 | Dark Reader Chrome and Firefox extension |
+| 3397 | 255 | 141 | 12 days ago | [vetur](https://github.com/vuejs/vetur)/158 | Vue tooling for VS Code. |
+| 3357 | 214 | 18 | a month ago | [ayu](https://github.com/dempfi/ayu)/159 | 🎨🖌 Modern Sublime Text theme |
+| 3355 | 223 | 89 | 3 days ago | [vscode-gitlens](https://github.com/eamodio/vscode-gitlens)/160 | Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more |
+| 3348 | 138 | 144 | 3 days ago | [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)/161 | :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript |
+| 3333 | 375 | 66 | a day ago | [universal](https://github.com/angular/universal)/162 | Universal javascript support for Angular |
+| 3326 | 280 | 81 | 1 year, 10 months ago | [typings](https://github.com/typings/typings)/163 | *DEPRECATED* The TypeScript Definition Manager |
+| 3326 | 141 | 7 | 2 months ago | [immutability-helper](https://github.com/kolodny/immutability-helper)/164 | mutate a copy of data without changing the original source |
+| 3264 | 1640 | 67 | 3 days ago | [react-data-grid](https://github.com/adazzle/react-data-grid)/165 | Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like http://adazzle.github.io/react-data-grid/   |
+| 3242 | 190 | 12 | 19 days ago | [md2googleslides](https://github.com/gsuitedevs/md2googleslides)/166 | Generate Google Slides from markdown |
+| 3221 | 150 | 11 | 4 months ago | [after.js](https://github.com/jaredpalmer/after.js)/167 | Next.js-like framework for server-rendered React apps built with React Router 4 |
+| 3180 | 218 | 17 | 15 hours ago | [rete](https://github.com/retejs/rete)/168 | JavaScript framework for visual programming and creating node editor |
+| 3115 | 152 | 45 | 2 months ago | [incremental-dom](https://github.com/google/incremental-dom)/169 | An in-place DOM diffing library |
+| 3112 | 386 | 279 | 13 days ago | [zone.js](https://github.com/angular/zone.js)/170 | Implements Zones for JavaScript |
+| 3040 | 133 | 163 | 6 months ago | [ShapeShifter](https://github.com/alexjlockwood/ShapeShifter)/171 | SVG icon animation tool for Android, iOS, and the web |
+| 3032 | 139 | 672 | a day ago | [polar-bookshelf](https://github.com/burtonator/polar-bookshelf)/172 | Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation. |
+| 3020 | 163 | 12 | 2 days ago | [reakit](https://github.com/reakit/reakit)/173 | Toolkit for building accessible rich web apps with React |
+| 3007 | 749 | 382 | 4 days ago | [ngx-charts](https://github.com/swimlane/ngx-charts)/174 | :bar_chart: Declarative Charting Framework for Angular |
+| 2981 | 774 | 115 | 1 year, 2 months ago | [tribeca](https://github.com/michaelgrosner/tribeca)/175 | A high frequency, market making cryptocurrency trading platform in node.js |
+| 2971 | 635 | 14 | 5 days ago | [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view)/176 | A cross-platform Tab View component for React Native |
+| 2970 | 406 | 270 | 20 days ago | [core](https://github.com/ngx-translate/core)/177 | The internationalization (i18n) library for Angular |
+| 2968 | 603 | 3 | a month ago | [TypeScript](https://github.com/zhongsp/TypeScript)/178 | TypeScript使用手册。TypeScript is a superset of JavaScript that compiles to clean JavaScript output.  http://www.typescriptlang.org |
+| 2959 | 458 | 34 | 3 years ago | [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine)/179 | Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices. |
+| 2954 | 1230 | 48 | 5 days ago | [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app)/180 | Exemplary real world application built with Angular |
+| 2949 | 123 | 22 | 3 days ago | [alva](https://github.com/meetalva/alva)/181 | Create living prototypes with code components. |
+| 2884 | 162 | 26 | 2 days ago | [electron-forge](https://github.com/electron-userland/electron-forge)/182 | A complete tool for creating, publishing, and installing modern Electron applications |
+| 2881 | 1443 | 21 | 4 days ago | [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app)/183 | A conference app built with Ionic to demonstrate Ionic |
+| 2855 | 762 | 10 | 3 days ago | [tfjs-models](https://github.com/tensorflow/tfjs-models)/184 | Pretrained models for TensorFlow.js |
+| 2851 | 924 | 352 | 2 years ago | [ng-table](https://github.com/esvit/ng-table)/185 | Simple table with sorting and filtering on AngularJS |
+| 2837 | 107 | 5 | 3 months ago | [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)/186 | Make optimisation of images part of your automated build process |
+| 2827 | 242 | 134 | 8 days ago | [quicktype](https://github.com/quicktype/quicktype)/187 | Generate types and converters from JSON, Schema, and GraphQL |
+| 2814 | 83 | 55 | 1 year, 1 month ago | [propel](https://github.com/propelml/propel)/188 | Differential Programming in JavaScript. |
+| 2813 | 412 | 220 | 27 days ago | [graphql-tools](https://github.com/apollographql/graphql-tools)/189 | :wrench: Build, mock, and stitch a GraphQL schema using the schema language |
+| 2809 | 325 | 89 | a month ago | [outline-server](https://github.com/Jigsaw-Code/outline-server)/190 | Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux. |
+| 2788 | 374 | 69 | 3 months ago | [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)/191 | A powerful obfuscator for JavaScript and Node.js |
+| 2768 | 256 | 50 | 1 year, 11 days ago | [Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs)/192 | A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io |
+| 2751 | 57 | 19 | 2 days ago | [ow](https://github.com/sindresorhus/ow)/193 | Function argument validation for humans |
+| 2724 | 146 | 36 | 10 days ago | [pandora](https://github.com/midwayjs/pandora)/194 | A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript |
+| 2682 | 1330 | 160 | 10 hours ago | [copay](https://github.com/bitpay/copay)/195 | Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices. |
+| 2681 | 287 | 20 | 4 days ago | [learn-rxjs](https://github.com/btroncone/learn-rxjs)/196 | Clear examples, explanations, and resources for RxJS 5/6+ |
+| 2659 | 211 | 145 | 12 hours ago | [capacitor](https://github.com/ionic-team/capacitor)/197 | Build cross-platform Native Progressive Web Apps for iOS, Android, and the web ⚡️ |
+| 2650 | 193 | 69 | 25 days ago | [danger-js](https://github.com/danger/danger-js)/198 | ⚠️ Stop saying "you forgot to …" in code review |
+| 2645 | 1852 | 39 | 1 year, 4 months ago | [TypeScriptSamples](https://github.com/microsoft/TypeScriptSamples)/199 | Samples for TypeScript |
+| 2631 | 633 | 17 | 25 days ago | [alexa-skills-kit-sdk-for-nodejs](https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs)/200 | The Alexa Skills Kit SDK for Node.js helps you get a skill up and running quickly, letting you focus on skill logic instead of boilerplate code. |
+| 2602 | 656 | 39 | a month ago | [angular-electron](https://github.com/maximegris/angular-electron)/201 | Ultra-fast bootstrapping with Angular 7 and Electron 4 (Typescript + SASS + Hot Reload) :speedboat: |
+| 2569 | 205 | 305 | a month ago | [plottable](https://github.com/palantir/plottable)/202 | :bar_chart: A library of modular chart components built on D3 |
+| 2508 | 229 | 167 | 4 days ago | [compodoc](https://github.com/compodoc/compodoc)/203 | :notebook_with_decorative_cover: The missing documentation tool for your Angular application |
+| 2503 | 410 | 230 | 11 hours ago | [polaris-react](https://github.com/Shopify/polaris-react)/204 | Shopify’s product component library |
+| 2489 | 93 | 34 | a month ago | [decaffeinate](https://github.com/decaffeinate/decaffeinate)/205 | Goodbye CoffeeScript, hello JavaScript! |
+| 2483 | 613 | 973 | 3 days ago | [vscode-cpptools](https://github.com/microsoft/vscode-cpptools)/206 | Official repository for the Microsoft C/C++ extension for VS Code. |
+| 2455 | 151 | 43 | 10 days ago | [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools)/207 | :package: Install C++ Build Tools for Windows using npm |
+| 2438 | 497 | 41 | 3 days ago | [wayne](https://github.com/Qihoo360/wayne)/208 | Kubernetes multi-cluster management and publishing platform |
+| 2422 | 209 | 128 | 9 days ago | [recast](https://github.com/benjamn/recast)/209 | JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator |
+| 2411 | 56 | 3 | a month ago | [react-morph](https://github.com/brunnolou/react-morph)/210 | Morphing Ui transitions made simple |
+| 2410 | 80 | 19 | a month ago | [typestyle](https://github.com/typestyle/typestyle)/211 | Making CSS Typesafe 🌹 |
+| 2408 | 49 | 66 | a month ago | [veonim](https://github.com/veonim/veonim)/212 | simple modal IDE built on neovim |
+| 2402 | 383 | 7 | 11 months ago | [design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript)/213 | :triangular_ruler: Design pattern implementations in TypeScript |
+| 2379 | 142 | 23 | 1 year, 6 months ago | [bricklayer](https://github.com/ademilter/bricklayer)/214 | Lightweight and independent Pinterest-like cascading grid layout library |
+| 2379 | 463 | 259 | 3 days ago | [autorest](https://github.com/Azure/autorest)/215 | OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby and PHP. |
+| 2369 | 73 | 14 | 18 days ago | [source-map-explorer](https://github.com/danvk/source-map-explorer)/216 | Analyze and debug space usage through source maps |
+| 2366 | 339 | 153 | 6 days ago | [bqplot](https://github.com/bloomberg/bqplot)/217 | Plotting library for IPython/Jupyter Notebooks |
+| 2349 | 204 | 61 | a day ago | [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)/218 | GraphQL code generator with flexible support for custom plugins and templates |
+| 2333 | 321 | 94 | 2 months ago | [react-diagrams](https://github.com/projectstorm/react-diagrams)/219 | a super simple, no-nonsense diagramming library written in react that just works |
+| 2303 | 213 | 65 | 3 days ago | [grpc-web](https://github.com/improbable-eng/grpc-web)/220 | gRPC Web implementation for Golang and TypeScript |
+| 2296 | 499 | 44 | 1 year, 6 months ago | [angular-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced)/221 | Advanced Angular seed project with support for ngrx/store, ngrx/effects, ngx-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more. |
+| 2271 | 295 | 692 | a day ago | [aws-cdk](https://github.com/awslabs/aws-cdk)/222 | The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code |
+| 2250 | 198 | 60 | 7 days ago | [ts-jest](https://github.com/kulshekhar/ts-jest)/223 | TypeScript preprocessor with sourcemap support for Jest |
+| 2248 | 600 | 11 | 2 days ago | [mmenu-js](https://github.com/FrDH/mmenu-js)/224 | The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp. |
+| 2246 | 353 | 0 | 1 year, 8 months ago | [growth-ionic](https://github.com/phodal/growth-ionic)/225 | [v2.0 DEPRECATED, please update to Growth 3.0] Growth - App to help you Be Awesome Developer & Awesome Hacker |
+| 2245 | 151 | 207 | 3 days ago | [hint](https://github.com/webhintio/hint)/226 | 💡 A hinting engine for the web |
+| 2238 | 170 | 223 | a month ago | [prettier-vscode](https://github.com/prettier/prettier-vscode)/227 | Visual Studio Code extension for Prettier |
+| 2219 | 144 | 20 | 19 days ago | [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)/228 | Vue.js and Property Decorator |
+| 2218 | 144 | 1 | 4 months ago | [alm](https://github.com/alm-tools/alm)/229 | :rose: A :cloud: ready IDE just for TypeScript :heart: |
+| 2215 | 249 | 82 | 11 hours ago | [store](https://github.com/ngxs/store)/230 | 🚀 NGXS - State Management for Angular |
+| 2200 | 134 | 41 | 9 hours ago | [fp-ts](https://github.com/gcanti/fp-ts)/231 | Functional programming in TypeScript |
+| 2150 | 202 | 103 | 14 days ago | [lit-element](https://github.com/Polymer/lit-element)/232 | A simple base class for creating fast, lightweight web components |
+| 2144 | 59 | 32 | 1 year, 5 months ago | [prototype](https://github.com/AssemblyScript/prototype)/233 | (deprecated) The journey continues at ASNEXT: https://github.com/AssemblyScript/assemblyscript |
+| 2141 | 58 | 10 | a month ago | [libreact](https://github.com/streamich/libreact)/234 | Collection of useful React components |
+| 2125 | 172 | 52 | 15 days ago | [type-graphql](https://github.com/19majkel94/type-graphql)/235 | Create GraphQL schema and resolvers with TypeScript, using classes and decorators! |
+| 2109 | 71 | 14 | 4 days ago | [urql](https://github.com/FormidableLabs/urql)/236 | A highly customizable and versatile GraphQL client for React |
+| 2094 | 461 | 145 | 24 days ago | [angular2-jwt](https://github.com/auth0/angular2-jwt)/237 | Helper library for handling JWTs in Angular 2+ apps |
+| 2093 | 101 | 162 | 2 days ago | [sapper](https://github.com/sveltejs/sapper)/238 | Military-grade progressive web apps, powered by Svelte |
+| 2081 | 97 | 2 | 1 year, 8 months ago | [pretty-algorithms](https://github.com/jiayihu/pretty-algorithms)/239 | 🌊 Pretty, common and useful algorithms with modern JS and beautiful tests |
+| 2076 | 169 | 73 | 3 months ago | [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio)/240 | Learn, Teach, Work and Play in the WebAssembly Studio |
+| 2072 | 180 | 223 | 6 months ago | [awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader)/241 | Awesome TypeScript loader for webpack |
+| 2057 | 320 | 185 | 3 days ago | [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)/242 | Firebase Javascript SDK |
+| 2048 | 728 | 80 | 3 months ago | [universal-starter](https://github.com/angular/universal-starter)/243 | Angular Universal starter kit by @AngularClass |
+| 2041 | 411 | 40 | 2 months ago | [wetty](https://github.com/krishnasrinivas/wetty)/244 | Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better) |
+| 2028 | 204 | 17 | 25 days ago | [codelyzer](https://github.com/mgechev/codelyzer)/245 | Static analysis for Angular projects. |
+| 2023 | 52 | 52 | 1 year, 1 month ago | [NyaoVim](https://github.com/rhysd/NyaoVim)/246 | Web-enhanced Extensible Neovim Frontend |
+| 2014 | 65 | 48 | 3 days ago | [worker-dom](https://github.com/ampproject/worker-dom)/247 | The same DOM API and Frameworks you know, but in a Web Worker. |
+| 2007 | 140 | 6 | 2 days ago | [ext-saladict](https://github.com/crimx/ext-saladict)/248 | 聚合词典专业划词翻译，Chrome / Firefox 扩展 |
+| 1988 | 172 | 134 | 2 months ago | [class-validator](https://github.com/typestack/class-validator)/249 | Validation made easy using TypeScript decorators. |
+| 1962 | 298 | 153 | a month ago | [covalent](https://github.com/Teradata/covalent)/250 | Teradata UI Platform built on Angular Material |
+| 1949 | 198 | 8 | 20 days ago | [idb](https://github.com/jakearchibald/idb)/251 | IndexedDB, but with promises |
+| 1948 | 194 | 19 | 4 days ago | [unform](https://github.com/Rocketseat/unform)/252 | ReactJS form library to create uncontrolled form structures with nested fields, validations and much more! |
+| 1926 | 332 | 94 | 7 months ago | [Hitchhiker](https://github.com/brookshi/Hitchhiker)/253 | a Restful Api test tool |
+| 1926 | 238 | 32 | 3 months ago | [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter)/254 | Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more! |
+| 1914 | 68 | 28 | 2 months ago | [GhostText](https://github.com/GhostText/GhostText)/255 | 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa). |
+| 1905 | 521 | 40 | 10 days ago | [pythonVSCode](https://github.com/DonJayamanne/pythonVSCode)/256 | This extension is now maintained in the Microsoft fork. |
+| 1904 | 308 | 22 | 4 days ago | [notadd](https://github.com/notadd/notadd)/257 | A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。 |
+| 1891 | 1794 | 287 | 18 hours ago | [ionic-native](https://github.com/ionic-team/ionic-native)/258 | Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support. The successor to ngCordova. Pairs exquisitely with a nice bottle of Ionic Framework. |
+| 1885 | 115 | 8 | 2 months ago | [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)/259 | Clean Code concepts adapted for TypeScript |
+| 1878 | 284 | 145 | a day ago | [apollo-tooling](https://github.com/apollographql/apollo-tooling)/260 | ✏️ Tooling for development and production Apollo workflows |
+| 1875 | 62 | 12 | 3 months ago | [jsxstyle](https://github.com/jsxstyle/jsxstyle)/261 | Inline style system for React and Preact |
+| 1871 | 160 | 8 | 10 hours ago | [vscode-react-native](https://github.com/microsoft/vscode-react-native)/262 | VSCode extension for React Native - supports debugging and editor integration |
+| 1870 | 40 | 7 | 30 days ago | [patch-package](https://github.com/ds300/patch-package)/263 | Fix broken node modules instantly  🏃🏽‍♀️💨 |
+| 1862 | 506 | 180 | 13 hours ago | [instagram-private-api](https://github.com/dilame/instagram-private-api)/264 | NodeJS Instagram private API client. Written in TypeScript. |
+| 1861 | 110 | 45 | 2 days ago | [orbit](https://github.com/orbitjs/orbit)/265 | Composable data framework for ambitious web applications. |
+| 1860 | 87 | 52 | a month ago | [react-apollo-hooks](https://github.com/trojanowski/react-apollo-hooks)/266 | Use Apollo Client as React hooks |
+| 1858 | 116 | 33 | 23 days ago | [xstream](https://github.com/staltz/xstream)/267 | An extremely intuitive, small, and fast functional reactive stream library for JavaScript |
+| 1844 | 418 | 238 | 6 hours ago | [voice-web](https://github.com/mozilla/voice-web)/268 | Common Voice is part of Mozilla's initiative to help teach machines how real people speak. |
+| 1839 | 149 | 43 | 1 year, 3 months ago | [doppio](https://github.com/plasma-umass/doppio)/269 | Breaks the browser language barrier (includes a plugin-free JVM). |
+| 1834 | 179 | 44 | a month ago | [code-settings-sync](https://github.com/shanalikhan/code-settings-sync)/270 | 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using Github GIST 💪🌴 |
+| 1825 | 246 | 348 | 21 hours ago | [vega-lite](https://github.com/vega/vega-lite)/271 | A concise grammar of interactive graphics, built on Vega. |
+| 1823 | 70 | 4 | 3 months ago | [asyncawait](https://github.com/yortus/asyncawait)/272 | Callback heaven for Node.js with async/await |
+| 1820 | 89 | 10 | 2 months ago | [mirage](https://github.com/appbaseio/mirage)/273 | :art: GUI for simplifying Elasticsearch Query DSL |
+| 1818 | 631 | 20 | 2 months ago | [javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)/274 | :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book |
+| 1805 | 522 | 249 | 7 days ago | [ionic-cli](https://github.com/ionic-team/ionic-cli)/275 | The Ionic command-line interface |
+| 1804 | 184 | 28 | 2 days ago | [colyseus](https://github.com/colyseus/colyseus)/276 | ⚔ Multiplayer Game Server for Node.js |
+| 1795 | 72 | 5 | a month ago | [redux-zero](https://github.com/redux-zero/redux-zero)/277 | A lightweight state container based on Redux  |
+| 1787 | 411 | 268 | 15 hours ago | [survey-library](https://github.com/surveyjs/survey-library)/278 | JavaScript Survey and Form Library |
+| 1787 | 267 | 526 | 8 hours ago | [loopback-next](https://github.com/strongloop/loopback-next)/279 | LoopBack makes it easy to build modern API applications that require complex integrations. |
+| 1785 | 60 | 0 | 2 months ago | [1backend](https://github.com/1backend/1backend)/280 | Run your web apps easily with a complete platform that you can install on any server. Build composable microservices and lambdas. |
+| 1782 | 240 | 32 | a month ago | [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)/281 | 桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool) |
+| 1778 | 197 | 144 | 1 year, 1 month ago | [routing-controllers](https://github.com/typestack/routing-controllers)/282 | Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework. |
+| 1766 | 49 | 5 | 4 days ago | [constate](https://github.com/diegohaz/constate)/283 | Scalable state using React Hooks & Context |
+| 1757 | 183 | 27 | 26 days ago | [augury](https://github.com/rangle/augury)/284 | Angular Debugging and Visualization Tools |
+| 1753 | 48 | 27 | 3 days ago | [tsdx](https://github.com/palmerhq/tsdx)/285 | Zero-config CLI for TypeScript package development |
+| 1731 | 98 | 10 | 2 months ago | [react-mosaic](https://github.com/nomcopter/react-mosaic)/286 | A React tiling window manager |
+| 1712 | 59 | 25 | 16 days ago | [io-ts](https://github.com/gcanti/io-ts)/287 | Runtime type system for IO decoding/encoding |
+| 1709 | 33 | 18 | a month ago | [sucrase](https://github.com/alangpierce/sucrase)/288 | Super-fast alternative to Babel for when you can target modern JS runtimes |
+| 1704 | 163 | 307 | 6 hours ago | [tridactyl](https://github.com/tridactyl/tridactyl)/289 | A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl. |
+| 1683 | 348 | 36 | a day ago | [vscode-icons](https://github.com/vscode-icons/vscode-icons)/290 | Icons for Visual Studio Code |
+| 1673 | 39 | 1 | 22 days ago | [microjob](https://github.com/wilk/microjob)/291 | A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads. |
+| 1671 | 51 | 9 | 2 days ago | [react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit)/292 | A utility library for highly configurable layout transitions |
+| 1670 | 341 | 3 | 9 days ago | [dotdotdot-js](https://github.com/FrDH/dotdotdot-js)/293 | dotdotdot.js, advanced cross-browser ellipsis for multiple line content. |
+| 1667 | 255 | 64 | 6 days ago | [laravel-echo-server](https://github.com/tlaverdure/laravel-echo-server)/294 | Socket.io server for Laravel Echo |
+| 1653 | 54 | 4 | 17 days ago | [redux-react-hook](https://github.com/facebookincubator/redux-react-hook)/295 | React Hook for accessing state and dispatch from a Redux store |
+| 1652 | 75 | 62 | 8 months ago | [graphql-request](https://github.com/prisma/graphql-request)/296 | 📡  Minimal GraphQL client supporting Node and browsers for scripts or simple apps |
+| 1648 | 130 | 108 | 25 days ago | [recyclerlistview](https://github.com/Flipkart/recyclerlistview)/297 | High performance listview for React Native and web! |
+| 1645 | 390 | 19 | a month ago | [firekylin](https://github.com/firekylin/firekylin)/298 | A Simple & Fast Node.js Blogging Platform Base On ThinkJS3 & React & ES2015+ |
+| 1645 | 634 | 52 | 2 months ago | [angular-google-maps](https://github.com/SebastianM/angular-google-maps)/299 | Angular 2+ Google Maps Components |
+| 1635 | 49 | 18 | a month ago | [strest](https://github.com/eykrehbein/strest)/300 | ⚡️ Set up tests for REST in seconds with YAML |
+| 1627 | 47 | 14 | 7 days ago | [bloomrpc](https://github.com/uw-labs/bloomrpc)/301 | GUI Client for GRPC Services |
+| 1626 | 42 | 43 | a day ago | [tsdoc](https://github.com/microsoft/tsdoc)/302 | A doc comment standard for the TypeScript language |
+| 1625 | 58 | 15 | a day ago | [navi](https://github.com/frontarm/navi)/303 | Declarative, asynchronous routing for React. |
+| 1622 | 554 | 340 | 1 year, 5 months ago | [ng2-file-upload](https://github.com/valor-software/ng2-file-upload)/304 | Easy to use Angular components for files upload |
+| 1615 | 225 | 62 | a day ago | [vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug)/305 | Debug your JavaScript code running in Google Chrome from VS Code. |
+| 1608 | 407 | 49 | 6 months ago | [ng2-dragula](https://github.com/valor-software/ng2-dragula)/306 | Simple drag and drop with dragula |
+| 1606 | 702 | 37 | 9 months ago | [ionic3-components](https://github.com/yannbf/ionic3-components)/307 | A project full of ionic 3 components and samples - to make life easier :) |
+| 1585 | 261 | 33 | 14 hours ago | [zent](https://github.com/youzan/zent)/308 | A collection of essential UI components written with React. |
+| 1574 | 149 | 30 | 14 days ago | [smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar)/309 | Customizable, Pluginable, and High Performance Scrollbars! |
+| 1571 | 516 | 14 | 7 days ago | [angular-calendar](https://github.com/mattlewis92/angular-calendar)/310 | A flexible calendar component for angular 6.0+ that can display events on a month, week or day view. |
+| 1565 | 205 | 65 | a month ago | [gh](https://github.com/node-gh/gh)/311 | GitHub CLI made with NodeJS |
+| 1564 | 38 | 0 | 29 days ago | [wretch](https://github.com/elbywan/wretch)/312 | A tiny wrapper built around fetch with an intuitive syntax. :candy: |
+| 1558 | 519 | 30 | 25 days ago | [angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter)/313 | Angular, NgRx, Angular CLI & Angular Material Starter Project |
+| 1554 | 34 | 16 | a day ago | [type-fest](https://github.com/sindresorhus/type-fest)/314 | A collection of essential TypeScript types |
+| 1548 | 158 | 49 | 2 days ago | [clasp](https://github.com/google/clasp)/315 | 🔗 Develop Apps Script projects locally. |
+| 1539 | 90 | 20 | 9 months ago | [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list)/316 | A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more! |
+| 1532 | 42 | 10 | 15 days ago | [cherow](https://github.com/cherow/cherow)/317 | Very fast and lightweight, standards-compliant, self-hosted javascript parser with high focus on both performance and stability |
+| 1532 | 128 | 56 | 5 months ago | [typescript-starter](https://github.com/bitjson/typescript-starter)/318 | Quickly create and configure a new library or Node.js project |
+| 1526 | 2332 | 0 | 2 months ago | [Angular-GettingStarted](https://github.com/DeborahK/Angular-GettingStarted)/319 | Sample Angular application used in the "Angular: Getting Started" course: http://bit.ly/Angular-GettingStarted |
+| 1526 | 366 | 96 | 9 days ago | [ng-select](https://github.com/ng-select/ng-select)/320 | :star: Native angular 6+ select component |
+| 1521 | 59 | 18 | a day ago | [graphql-shield](https://github.com/maticzav/graphql-shield)/321 | 🛡 A GraphQL tool to ease the creation of permission layer. |
+| 1514 | 46 | 11 | 8 months ago | [react-adopt](https://github.com/pedronauck/react-adopt)/322 | :sunglasses: Compose render props components like a pro |
+| 1500 | 181 | 106 | 19 days ago | [material-components-web-react](https://github.com/material-components/material-components-web-react)/323 | Material Components for React (MDC React) |
+| 1500 | 237 | 13 | 8 days ago | [vuesion](https://github.com/vuesion/vuesion)/324 | The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices |
+| 1496 | 69 | 12 | 21 hours ago | [gts](https://github.com/google/gts)/325 | ☂️ TypeScript style guide, formatter, and linter.   |
+| 1480 | 1536 | 42 | 2 months ago | [tut-spring-security-and-angular-js](https://github.com/spring-guides/tut-spring-security-and-angular-js)/326 | Spring Security and Angular:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication. |
+| 1479 | 439 | 26 | 25 days ago | [ng2-charts](https://github.com/valor-software/ng2-charts)/327 | Beautiful charts for Angular based on Chart.js |
+| 1478 | 112 | 4 | 1 year, 2 months ago | [fonts.css](https://github.com/zenozeng/fonts.css)/328 | 跨平台 CSS 中文字体解决方案 |
+| 1468 | 1156 | 595 | 13 hours ago | [azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)/329 | Tasks for Azure Pipelines |
+| 1463 | 126 | 11 | 6 days ago | [reactql](https://github.com/leebenson/reactql)/330 | Universal React+GraphQL starter kit: React 16, Apollo 2, MobX, Emotion, Webpack 4, GraphQL Code Generator, React Router 4, PostCSS, SSR |
+| 1454 | 256 | 71 | 12 hours ago | [webpack-cli](https://github.com/webpack/webpack-cli)/331 | Webpack's Command Line Interface |
+| 1453 | 91 | 58 | a month ago | [remotedebug-ios-webkit-adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter)/332 | Debug Safari and WebViews on iOS from tools like VS Code, Chrome DevTools, Mozilla Debugger.html |
+| 1452 | 48 | 13 | 1 year, 7 days ago | [react-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform)/333 | Convert React JavaScript code to TypeScript with proper typing |
+| 1422 | 442 | 12 | 1 year, 5 months ago | [colmena](https://github.com/colmena/colmena)/334 | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️ |
+| 1411 | 28 | 3 | 6 months ago | [reworm](https://github.com/pedronauck/reworm)/335 | 🍫 the simplest way to manage state |
+| 1404 | 95 | 166 | a day ago | [vim-vixen](https://github.com/ueokande/vim-vixen)/336 | Accelerate your browsing with Vim power!! |
+| 1403 | 115 | 1 | 3 days ago | [browserless](https://github.com/joelgriffith/browserless)/337 | Chrome as a service in docker. Bring your own cloud or hardware. |
+| 1399 | 98 | 35 | 2 months ago | [router5](https://github.com/router5/router5)/338 | Flexible and powerful universal routing solution |
+| 1397 | 56 | 1 | a day ago | [vditor](https://github.com/b3log/vditor)/339 | ♏ 一款浏览器端的 Markdown 编辑器。 https://hacpai.com/guide/markdown |
+| 1391 | 116 | 3 | 19 days ago | [blaze](https://github.com/BlazeSoftware/blaze)/340 | Framework-free open source UI toolkit |
+| 1385 | 499 | 355 | 3 days ago | [ipywidgets](https://github.com/jupyter-widgets/ipywidgets)/341 | Interactive Widgets for the Jupyter Notebook |
+| 1384 | 243 | 23 | 4 days ago | [gitgraph.js](https://github.com/nicoespeon/gitgraph.js)/342 | A JavaScript library to draw pretty git graphs in the browser |
+| 1382 | 112 | 64 | 4 months ago | [apollo-link-state](https://github.com/apollographql/apollo-link-state)/343 | ✨ Manage your application's state with Apollo! |
+| 1377 | 123 | 24 | a month ago | [superpowers-core](https://github.com/superpowers/superpowers-core)/344 | :octopus: Superpowers — Extensible HTML5 app for real-time collaborative projects |
+| 1363 | 477 | 100 | a day ago | [aspnetcore-angular-universal](https://github.com/TrilonIO/aspnetcore-angular-universal)/345 | ASP.NET Core & Angular Universal advanced starter - PWA w/ server-side rendering for SEO, Bootstrap, i18n internationalization, TypeScript, unit testing, WebAPI REST setup, SignalR, Swagger docs, and more! By @TrilonIO |
+| 1362 | 228 | 8 | 4 days ago | [vue-slider-component](https://github.com/NightCatSama/vue-slider-component)/346 | 🌡 A highly customized slider component |
+| 1362 | 191 | 14 | 1 year, 10 days ago | [TouchDevelop](https://github.com/microsoft/TouchDevelop)/347 | TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet! |
+| 1361 | 280 | 96 | 28 days ago | [VoTT](https://github.com/microsoft/VoTT)/348 | Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.  |
+| 1359 | 297 | 31 | 15 days ago | [rrule](https://github.com/jakubroztocil/rrule)/349 | JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more. |
+| 1356 | 298 | 76 | a day ago | [react-native-image-viewer](https://github.com/ascoders/react-native-image-viewer)/350 | 🚀 tiny & fast lib for react native image viewer pan and zoom |
+| 1348 | 89 | 155 | 4 months ago | [vscode-jest](https://github.com/jest-community/vscode-jest)/351 | The optimal flow for Jest based testing in VS Code |
+| 1348 | 217 | 66 | 10 months ago | [store](https://github.com/angular-redux/store)/352 | Angular 2+ bindings for Redux |
+| 1346 | 461 | 166 | 1 year, 8 months ago | [angular-gantt](https://github.com/angular-gantt/angular-gantt)/353 | Gantt chart component for AngularJS |
+| 1345 | 207 | 164 | 7 hours ago | [nx](https://github.com/nrwl/nx)/354 | Angular CLI power-ups for modern development |
+| 1342 | 122 | 3 | 20 days ago | [cookies](https://github.com/reactivestack/cookies)/355 | Load and save cookies within your React application |
+| 1340 | 165 | 79 | 7 days ago | [class-transformer](https://github.com/typestack/class-transformer)/356 | Proper decorator-based transformation / serialization / deserialization of plain javascript objects to class constructors |
+| 1337 | 218 | 104 | 7 days ago | [kubeapps](https://github.com/kubeapps/kubeapps)/357 | A web-based UI for deploying and managing applications in Kubernetes clusters |
+| 1335 | 184 | 163 | 16 hours ago | [ng-packagr](https://github.com/ng-packagr/ng-packagr)/358 | Transpile your component libraries to Angular Package Format. |
+| 1334 | 204 | 59 | 7 days ago | [WebCola](https://github.com/tgdwyer/WebCola)/359 | Javascript constraint-based graph layout |
+| 1330 | 117 | 17 | a day ago | [prettydiff](https://github.com/prettydiff/prettydiff)/360 | Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things. |
+| 1330 | 31 | 0 | 7 days ago | [phenomenon](https://github.com/vaneenige/phenomenon)/361 | ⚡️ A fast 2kB low-level WebGL API. |
+| 1326 | 43 | 7 | 3 months ago | [webpack-bundle-size-analyzer](https://github.com/robertknight/webpack-bundle-size-analyzer)/362 | A tool for finding out what contributes to the size of Webpack bundles |
+| 1315 | 47 | 17 | 16 days ago | [svg-term-cli](https://github.com/marionebl/svg-term-cli)/363 | Share terminal sessions via SVG and CSS |
+| 1313 | 91 | 85 | 19 hours ago | [vscode-restclient](https://github.com/Huachao/vscode-restclient)/364 | REST Client Extension for Visual Studio Code |
+| 1311 | 104 | 1 | 16 hours ago | [akita](https://github.com/datorama/akita)/365 | 🚀 State Management Tailored-Made for JS Applications |
+| 1311 | 497 | 24 | 1 year, 9 months ago | [example-app](https://github.com/ngrx/example-app)/366 | Example app showcasing the ngrx platform |
+| 1302 | 48 | 4 | a month ago | [list](https://github.com/funkia/list)/367 | 🐆 An immutable list with unmatched performance and a comprehensive functional API. |
+| 1297 | 172 | 37 | 3 days ago | [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)/368 | Created from react styleguidist for Vue Components with a living style guide |
+| 1295 | 536 | 23 | 3 days ago | [vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples)/369 | Sample code illustrating the VS Code extension API. |
+| 1283 | 57 | 13 | 20 hours ago | [altair](https://github.com/imolorhe/altair)/370 | ✨⚡️ A beautiful feature-rich GraphQL Client for all platforms. |
+| 1283 | 261 | 19 | 4 days ago | [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary)/371 | Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。 |
+| 1268 | 81 | 3 | 2 months ago | [bdash](https://github.com/bdash-app/bdash)/372 | Simple SQL Client for lightweight data analysis. |
+| 1266 | 610 | 13 | 3 days ago | [node-sdk](https://github.com/watson-developer-cloud/node-sdk)/373 | :comet: Node.js library to access IBM Watson services. |
+| 1264 | 656 | 10 | 3 months ago | [angularspree](https://github.com/aviabird/angularspree)/374 | angular ecommerce framework for online store |
+| 1264 | 644 | 741 | 3 months ago | [ng2-smart-table](https://github.com/akveo/ng2-smart-table)/375 | Angular Smart Data Table component |
+| 1259 | 100 | 6 | 5 months ago | [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs)/376 | Demo of in-browser Fast Neural Style Transfer with deeplearn.js library |
+| 1259 | 253 | 12 | 1 year, 9 months ago | [angular2-hn](https://github.com/housseindjirdeh/angular2-hn)/377 | :boom: Progressive Hacker News client built with Angular |
+| 1258 | 26 | 5 | 8 days ago | [retoggle](https://github.com/Raathigesh/retoggle)/378 | 🎨 UI controls as React Hooks to control your component state from outside |
+| 1257 | 36 | 0 | 5 months ago | [base65536](https://github.com/qntm/base65536)/379 | Unicode's answer to Base64 |
+| 1251 | 143 | 23 | a month ago | [router.js](https://github.com/tildeio/router.js)/380 | None |
+| 1246 | 68 | 52 | 13 days ago | [textlint](https://github.com/textlint/textlint)/381 | The pluggable natural language linter for text and markdown. |
+| 1241 | 61 | 19 | 2 months ago | [kactus](https://github.com/kactus-io/kactus)/382 | :cactus: A true version control tool for designers |
+| 1241 | 193 | 6 | 3 months ago | [rgbaster.js](https://github.com/briangonzalez/rgbaster.js)/383 | 🎨 A simple library for extracting dominant colors from images. |
+| 1239 | 187 | 28 | 5 months ago | [node-csvtojson](https://github.com/Keyang/node-csvtojson)/384 | Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.  |
+| 1237 | 85 | 20 | 17 hours ago | [graphql-faker](https://github.com/APIs-guru/graphql-faker)/385 | 🎲 Mock or extend your GraphQL API with faked data. No coding required. |
+| 1233 | 21 | 20 | a month ago | [undux](https://github.com/bcherny/undux)/386 | ⚡️ Dead simple state for React. Now with Hooks support. |
+| 1232 | 431 | 13 | 2 months ago | [angular-bootstrap-datetimepicker](https://github.com/dalelotts/angular-bootstrap-datetimepicker)/387 | Native Angular date/time picker component styled by Twitter Bootstrap |
+| 1227 | 201 | 56 | 1 year, 11 months ago | [line-chart](https://github.com/n3-charts/line-chart)/388 | Awesome charts for AngularJS. |
+| 1226 | 139 | 0 | 1 year, 1 month ago | [polymer-bundler](https://github.com/Polymer/polymer-bundler)/389 | Moved to Polymer/tools monorepo  |
+| 1214 | 49 | 11 | a month ago | [react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd)/390 | react wrapper components for smooth-dnd |
+| 1209 | 99 | 6 | 4 days ago | [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin)/391 | A webpack plugin to remove your build folder(s) before building |
+| 1198 | 85 | 40 | 24 days ago | [tessera](https://github.com/tessera-metrics/tessera)/392 | A dashboard front-end for graphite.   |
+| 1187 | 45 | 21 | 3 days ago | [mockoon](https://github.com/mockoon/mockoon)/393 | Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. |
+| 1182 | 296 | 476 | 4 days ago | [omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode)/394 | Official C# support for Visual Studio Code (powered by OmniSharp) |
+| 1182 | 50 | 5 | 6 months ago | [await-to-js](https://github.com/scopsy/await-to-js)/395 | Async await wrapper for easy error handling without try-catch |
+| 1180 | 85 | 15 | 15 hours ago | [jscpd](https://github.com/kucherenko/jscpd)/396 | Copy/paste detector for programming source code. |
+| 1175 | 31 | 3 | 26 days ago | [react-hanger](https://github.com/kitze/react-hanger)/397 | A collection of useful React hooks  |
+| 1169 | 85 | 33 | 8 days ago | [quirk](https://github.com/Flaque/quirk)/398 | ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android |
+| 1168 | 347 | 51 | 5 days ago | [html5sortable](https://github.com/lukasoppermann/html5sortable)/399 | VanillaJS sortable lists and grids using native HTML5 drag and drop API. |
+| 1166 | 335 | 45 | a month ago | [eosjs](https://github.com/EOSIO/eosjs)/400 | General purpose library for the EOS blockchain.  |
+| 1164 | 136 | 32 | 3 months ago | [python-shell](https://github.com/extrabacon/python-shell)/401 | Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio |
+| 1148 | 40 | 6 | 5 months ago | [cliflix](https://github.com/fabiospampinato/cliflix)/402 | Watch anything instantaneously, just write its name. |
+| 1147 | 332 | 32 | 3 months ago | [geofire-js](https://github.com/firebase/geofire-js)/403 | GeoFire for JavaScript - Realtime location queries with Firebase |
+| 1137 | 614 | 38 | a month ago | [loklak_search](https://github.com/fossasia/loklak_search)/404 | Frontend Search for loklak server http://loklak.org |
+| 1134 | 336 | 36 | 3 days ago | [ReactiveTraderCloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud)/405 | Real-time trading platform demo showcasing reactive programming principles applied across the full application stack. |
+| 1133 | 137 | 45 | 9 days ago | [sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript)/406 | Decorators and some other features for sequelize |
+| 1133 | 28 | 3 | 9 hours ago | [marble](https://github.com/marblejs/marble)/407 | Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS. |
+| 1129 | 293 | 77 | 2 years ago | [blueprint3d](https://github.com/furnishup/blueprint3d)/408 | Build interior spaces in 3D |
+| 1129 | 135 | 81 | 2 years ago | [tsd](https://github.com/DefinitelyTyped/tsd)/409 | [DEPRECATED] TypeScript Definition manager for DefinitelyTyped |
+| 1128 | 47 | 13 | 6 days ago | [typesafe-actions](https://github.com/piotrwitek/typesafe-actions)/410 | Typesafe utilities for "action-creators" in Redux / Flux Architecture |
+| 1128 | 44 | 54 | 3 months ago | [speedscope](https://github.com/jlfwong/speedscope)/411 | 🔬 A fast, interactive web-based viewer for performance profiles. |
+| 1122 | 265 | 162 | 8 hours ago | [apollo-link](https://github.com/apollographql/apollo-link)/412 | :link: Interface for fetching and modifying control flow of GraphQL requests |
+| 1114 | 184 | 24 | 11 days ago | [ngx-toastr](https://github.com/scttcper/ngx-toastr)/413 | 🍞 Angular Toastr |
+| 1113 | 24 | 4 | 17 hours ago | [faast.js](https://github.com/faastjs/faast.js)/414 | Serverless batch computing made simple. |
+| 1110 | 171 | 162 | a month ago | [vscode-live-server](https://github.com/ritwickdey/vscode-live-server)/415 | Launch a development local Server with live reload feature for static & dynamic pages. |
+| 1110 | 54 | 16 | 3 months ago | [pwmetrics](https://github.com/paulirish/pwmetrics)/416 | Progressive web metrics at your fingertipz |
+| 1104 | 384 | 24 | 3 months ago | [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator)/417 | QR Code Generator implementation in JavaScript, Java and more. |
+| 1100 | 102 | 16 | 4 days ago | [wexond](https://github.com/wexond/wexond)/418 | A privacy-focused, extensible and beautiful web browser |
+| 1100 | 163 | 43 | 3 months ago | [jsQR](https://github.com/cozmo/jsQR)/419 | A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within. |
+| 1099 | 657 | 2 | a month ago | [angular7-example-app](https://github.com/Ismaestro/angular7-example-app)/420 | Angular 7 Example App + Angular CLI + Angular Universal + i18n + Firebase |
+| 1097 | 55 | 96 | 2 months ago | [dts-gen](https://github.com/microsoft/dts-gen)/421 | dts-gen creates starter TypeScript definition files for any module or library. |
+| 1095 | 544 | 18 | a month ago | [Angular-Full-Stack](https://github.com/DavideViolante/Angular-Full-Stack)/422 | Angular Full Stack project built using Angular 2+, Express, Mongoose and Node. Whole stack in TypeScript. |
+| 1092 | 84 | 29 | 5 days ago | [redux-starter-kit](https://github.com/reduxjs/redux-starter-kit)/423 |  A simple set of tools to make using Redux easier |
+| 1088 | 286 | 20 | 11 hours ago | [ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn)/424 | Ant Design for React Native |
+| 1088 | 82 | 8 | a day ago | [zan-proxy](https://github.com/youzan/zan-proxy)/425 | An extensible proxy for PC/Mobile/APP developer |
+| 1086 | 212 | 10 | 14 days ago | [react-typescript-samples](https://github.com/Lemoncode/react-typescript-samples)/426 | The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript. |
+| 1080 | 107 | 163 | 2 months ago | [itch](https://github.com/itchio/itch)/427 | 🎮 The best way to play your itch.io games |
+| 1080 | 193 | 33 | 2 months ago | [Autolinker.js](https://github.com/gregjacobs/Autolinker.js)/428 | Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML |
+| 1078 | 104 | 26 | 7 days ago | [utterances](https://github.com/utterance/utterances)/429 | :crystal_ball: A lightweight comments widget built on GitHub issues |
+| 1068 | 96 | 43 | 2 days ago | [chevrotain](https://github.com/SAP/chevrotain)/430 | Parser Building Toolkit for JavaScript |
+| 1052 | 209 | 156 | 9 days ago | [nativescript-angular](https://github.com/NativeScript/nativescript-angular)/431 | Integrating NativeScript with Angular |
+| 1052 | 331 | 36 | 3 days ago | [0x-monorepo](https://github.com/0xProject/0x-monorepo)/432 | 0x protocol monorepo - includes our smart contracts and many developer tools |
+| 1052 | 1048 | 197 | 4 months ago | [insight](https://github.com/bitpay/insight)/433 | A bitcoin blockchain explorer and API |
+| 1050 | 65 | 8 | 9 hours ago | [ngrev](https://github.com/mgechev/ngrev)/434 | Tool for reverse engineering of Angular applications |
+| 1049 | 55 | 33 | 9 days ago | [gluegun](https://github.com/infinitered/gluegun)/435 | A delightful toolkit for building Node-powered CLIs. |
+| 1044 | 737 | 24 | 1 year, 10 months ago | [angular2-seed](https://github.com/angular/angular2-seed)/436 | None |
+| 1043 | 495 | 10 | 20 days ago | [grafana-dashboards](https://github.com/percona/grafana-dashboards)/437 | Grafana dashboards for MySQL and MongoDB monitoring using Prometheus |
+| 1042 | 105 | 17 | 5 days ago | [rmwc](https://github.com/jamesmfriedman/rmwc)/438 | A React wrapper for Material Design (Web) Components |
+| 1037 | 137 | 34 | 2 months ago | [ngx-moment](https://github.com/urish/ngx-moment)/439 | moment.js pipes for Angular |
+| 1036 | 89 | 5 | 16 hours ago | [vsc-material-theme](https://github.com/equinusocio/vsc-material-theme)/440 | Material Theme, the most epic theme for Visual Studio Code |
+| 1033 | 434 | 131 | 4 days ago | [BotFramework-Emulator](https://github.com/microsoft/BotFramework-Emulator)/441 | Bot Framework Emulator |
+| 1033 | 200 | 238 | 2 months ago | [atom-typescript](https://github.com/TypeStrong/atom-typescript)/442 | The only TypeScript package you will ever need |
+| 1033 | 42 | 16 | 2 days ago | [reactn](https://github.com/CharlesStover/reactn)/443 | React, but with built-in global state management. |
+| 1029 | 318 | 3 | 12 hours ago | [angular-samples](https://github.com/thelgevold/angular-samples)/444 | Angular sample components |
+| 1029 | 132 | 3 | a month ago | [gcoord](https://github.com/hujiulong/gcoord)/445 | 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转 |
+| 1028 | 31 | 4 | 12 days ago | [indigo-player](https://github.com/matvp91/indigo-player)/446 | Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element. |
+| 1027 | 80 | 51 | a day ago | [vimflowy](https://github.com/WuTheFWasThat/vimflowy)/447 | An open source productivity tool drawing inspiration from workflowy and vim |
+| 1022 | 114 | 4 | 4 days ago | [beeshell](https://github.com/Meituan-Dianping/beeshell)/448 | React Native 组件库 |
+| 1018 | 150 | 66 | 3 months ago | [react-rnd](https://github.com/bokuweb/react-rnd)/449 | 🖱  A resizable and draggable component for React. |
+| 1018 | 390 | 59 | 1 year, 3 months ago | [hybrid](https://github.com/wordpress-clients/hybrid)/450 | [I don't have time to work on this anymore. Use at your own risk] Build WordPress based PWA, iOS, Android & Windows phones apps in minutes! |
+| 1018 | 79 | 99 | 4 days ago | [graphql-cli](https://github.com/graphql-cli/graphql-cli)/451 | 📟  Command line tool for common GraphQL development workflows |
+| 1015 | 97 | 8 | 12 hours ago | [amis](https://github.com/baidu/amis)/452 | 一种基于特定 JSON 格式生成 MIS 页面的工具 |
+| 1007 | 72 | 30 | a month ago | [graphql-subscriptions](https://github.com/apollographql/graphql-subscriptions)/453 | :newspaper: A small module that implements GraphQL subscriptions for Node.js |
+| 1007 | 305 | 23 | a day ago | [material-ui-pickers](https://github.com/mui-org/material-ui-pickers)/454 | Date & Time pickers, built with ❤️ for @material-ui/core |
+| 1005 | 175 | 100 | 2 years ago | [ngSemantic](https://github.com/vladotesanovic/ngSemantic)/455 | Angular 2 building blocks :package: based on Semantic UI |
+| 1004 | 42 | 4 | a day ago | [emma-cli](https://github.com/maticzav/emma-cli)/456 | 📦 Terminal assistant to find and install node packages. |
+| 1003 | 322 | 91 | 2 months ago | [susper.com](https://github.com/fossasia/susper.com)/457 | Susper Decentralised Search Engine https://susper.com |
+| 1001 | 93 | 16 | 4 days ago | [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex)/458 | Make Zotero effective for us LaTeX holdouts |
+| 1001 | 132 | 6 | 17 hours ago | [nomnoml](https://github.com/skanaar/nomnoml)/459 | The sassy UML diagram renderer |
+| 999 | 201 | 14 | 9 months ago | [WebGlobe](https://github.com/iSpring/WebGlobe)/460 | 基于HTML5原生WebGL实现的轻量级Google Earth三维地图引擎 |
+| 996 | 81 | 34 | 7 days ago | [reflect-metadata](https://github.com/rbuckton/reflect-metadata)/461 | Prototype for a Metadata Reflection API for ECMAScript |
+| 993 | 37 | 5 | 15 days ago | [mobx-react-lite](https://github.com/mobxjs/mobx-react-lite)/462 | Lightweight React bindings for MobX based on React 16.8 and Hooks |
+| 988 | 105 | 67 | 10 days ago | [stryker](https://github.com/stryker-mutator/stryker)/463 | Mutation testing for JavaScript and friends |
+| 985 | 184 | 150 | 2 days ago | [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws)/464 | :arrows_clockwise: A WebSocket client + server for GraphQL subscriptions |
+| 980 | 37 | 86 | 4 days ago | [stylable](https://github.com/wix/stylable)/465 | Stylable - CSS for components  |
+| 977 | 270 | 103 | 14 days ago | [react-mapbox-gl](https://github.com/alex3165/react-mapbox-gl)/466 | A React binding of mapbox-gl-js |
+| 977 | 79 | 27 | 2 months ago | [parrot](https://github.com/parrot-translate/parrot)/467 | Self-hosted Localization Management Platform built with Go and Angular |
+| 974 | 161 | 124 | 10 hours ago | [browser](https://github.com/bitwarden/browser)/468 | The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, & more). |
+| 969 | 55 | 0 | a month ago | [awilix](https://github.com/jeffijoe/awilix)/469 | Extremely powerful Inversion of Control (IoC) container for Node.JS |
+| 965 | 109 | 379 | 4 days ago | [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)/470 | GitHub Pull Requests for Visual Studio Code |
+| 955 | 588 | 2 | 5 days ago | [Angular-JumpStart](https://github.com/DanWahlin/Angular-JumpStart)/471 | Angular and TypeScript JumpStart example application |
+| 951 | 63 | 29 | 3 days ago | [bolt](https://github.com/slackapi/bolt)/472 | A framework for building Slack apps |
+| 947 | 53 | 9 | 2 months ago | [vuex-class](https://github.com/ktsn/vuex-class)/473 | Binding helpers for Vuex and vue-class-component |
+| 946 | 62 | 8 | 3 months ago | [react-placeholder](https://github.com/buildo/react-placeholder)/474 | A React component to easily replicate your page with nice placeholders while the content is loading |
+| 944 | 133 | 86 | 14 days ago | [glimmer-vm](https://github.com/glimmerjs/glimmer-vm)/475 | None |
+| 939 | 90 | 15 | a day ago | [tfjs-node](https://github.com/tensorflow/tfjs-node)/476 | TensorFlow powered JavaScript library for training and deploying ML models on Node.js. |
+| 938 | 122 | 1 | 3 days ago | [ngx-pipes](https://github.com/danrevah/ngx-pipes)/477 | ⚡️ Useful pipes for Angular with no external dependencies!  |
+| 927 | 180 | 16 | 7 months ago | [ngx-pagination](https://github.com/michaelbromley/ngx-pagination)/478 | Pagination for Angular |
+| 927 | 30 | 17 | 10 months ago | [navalia](https://github.com/joelgriffith/navalia)/479 | A bullet-proof, fast, and reliable headless browser API |
+| 924 | 153 | 59 | 12 hours ago | [generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket)/480 | :rocket: Extensible Angular 7+ enterprise-grade project generator |
+| 923 | 63 | 29 | 2 months ago | [react-uwp](https://github.com/myxvisual/react-uwp)/481 | 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design. |
+| 920 | 193 | 616 | 7 days ago | [chronograf](https://github.com/influxdata/chronograf)/482 | Open source monitoring and visualization UI for the TICK stack |
+| 918 | 30 | 1 | 18 hours ago | [tslint-config-prettier](https://github.com/prettier/tslint-config-prettier)/483 | Use tslint with prettier without any conflict |
+| 916 | 58 | 23 | 11 months ago | [typedi](https://github.com/typestack/typedi)/484 | Simple yet powerful dependency injection tool for JavaScript and TypeScript. |
+| 914 | 121 | 209 | a month ago | [ng-toolkit](https://github.com/maciejtreder/ng-toolkit)/485 | :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more |
+| 912 | 100 | 62 | 2 months ago | [json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)/486 | Compile JSONSchema to TypeScript typings |
+| 909 | 270 | 50 | a month ago | [ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms)/487 | Rapid form development library for Angular |
+| 907 | 212 | 11 | 8 months ago | [angular-webpack-starter](https://github.com/qdouble/angular-webpack-starter)/488 | A complete Angular 6 and Webpack 4 starter seed with minimal and full featured branches. Full featured branch includes: Material Design 2 (Bootstrap 4 branch available as well), @ngrx, HMR, DLLs and optional use of Universal for server-side rendering - Supports AOT (offline) compilation, sync and lazy loading. Karma/Protractor for e2e/unit tests. |
+| 904 | 50 | 11 | 2 months ago | [traduora](https://github.com/traduora/traduora)/489 | Translation management platform for teams |
+| 903 | 125 | 10 | 5 days ago | [saas](https://github.com/async-labs/saas)/490 | Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript. |
+| 901 | 37 | 45 | 21 hours ago | [prime](https://github.com/birkir/prime)/491 | ✨Open Source GraphQL CMS |
+| 900 | 97 | 5 | a month ago | [battle-city](https://github.com/shinima/battle-city)/492 | 🎮 Battle city remake built with react. |
+| 897 | 34 | 15 | 10 months ago | [learnrelay](https://github.com/learnrelay/learnrelay)/493 | Learn Relay - A comprehensive introduction to Relay (created by Graphcool) |
+| 894 | 46 | 10 | 3 days ago | [vuese](https://github.com/vuese/vuese)/494 | 🤗 One-stop solution for vue component documentation |
+| 892 | 136 | 155 | 18 hours ago | [Memex](https://github.com/WorldBrain/Memex)/495 | Browser Extension to full-text search your browsing history & bookmarks. |
+| 886 | 101 | 81 | 8 days ago | [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown)/496 | Markdown All in One |
+| 882 | 153 | 296 | 4 days ago | [amplify-cli](https://github.com/aws-amplify/amplify-cli)/497 | A CLI toolchain for simplifying serverless web and mobile development. |
+| 878 | 303 | 5 | a month ago | [jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable)/498 | jsPDF plugin for generating PDF tables with javascript |
+| 872 | 37 | 15 | 5 days ago | [umbrella](https://github.com/thi-ng/umbrella)/499 | ⛱ Mono-repository of ~90 TypeScript/ES6 projects for functional, data driven development |
+| 871 | 284 | 108 | 3 days ago | [pxt](https://github.com/microsoft/pxt)/500 | Microsoft MakeCode (PXT - Programming eXperience Toolkit) |
+| 867 | 186 | 64 | 5 months ago | [in-memory-web-api](https://github.com/angular/in-memory-web-api)/501 | None |
+| 863 | 37 | 10 | 2 months ago | [react-circle](https://github.com/zzarcon/react-circle)/502 | Renders a svg circle + progress, it just works 💘 |
+| 862 | 213 | 15 | 3 days ago | [ngx-formly](https://github.com/ngx-formly/ngx-formly)/503 | JSON powered / Dynamic forms in Angular |
+| 856 | 160 | 37 | 29 days ago | [angulartics2](https://github.com/angulartics/angulartics2)/504 | Vendor-agnostic analytics for Angular2 applications. |
+| 855 | 208 | 2 | 19 hours ago | [Angular-Bootstrap-with-Material-Design](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design)/505 | Angular Bootstrap with Material Design - Powerful and free UI KIT |
+| 853 | 285 | 60 | 18 hours ago | [DIM](https://github.com/DestinyItemManager/DIM)/506 | Destiny Item Manager |
+| 853 | 39 | 9 | 5 days ago | [utility-types](https://github.com/piotrwitek/utility-types)/507 | Utility Types for TypeScript (provide migration from Flow's Utility Types) |
+| 852 | 264 | 179 | 1 year, 6 months ago | [ng2-dnd](https://github.com/akserg/ng2-dnd)/508 | Angular 2 Drag-and-Drop without dependencies |
+| 851 | 232 | 217 | a month ago | [datalab](https://github.com/googledatalab/datalab)/509 | Interactive tools and developer experiences for Big Data on Google Cloud Platform. |
+| 849 | 13 | 3 | 2 days ago | [use-http](https://github.com/alex-cory/use-http)/510 | 🐶 React hook for making isomorphic http requests |
+| 845 | 29 | 7 | a month ago | [flipping](https://github.com/davidkpiano/flipping)/511 | Flipping awesome animations. |
+| 844 | 324 | 120 | 8 days ago | [angular-tree-component](https://github.com/500tech/angular-tree-component)/512 | A simple yet powerful tree component for Angular (>=2) |
+| 840 | 304 | 25 | a month ago | [react-geosuggest](https://github.com/ubilabs/react-geosuggest)/513 | A React autosuggest for the Google Maps Places API. |
+| 839 | 83 | 56 | 2 months ago | [music-web-player](https://github.com/naveedgol/music-web-player)/514 | Web player |
+| 838 | 146 | 251 | 11 days ago | [nativescript-cli](https://github.com/NativeScript/nativescript-cli)/515 | Command-line interface for building NativeScript apps |
+| 829 | 133 | 0 | 20 days ago | [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill)/516 | An angular (>=2) component for the Quill Rich Text Editor |
+| 828 | 99 | 8 | 2 months ago | [TypeScript-Babel-Starter](https://github.com/microsoft/TypeScript-Babel-Starter)/517 | A sample setup using Babel CLI to build TypeScript code, and using TypeScript for type-checking.  |
+| 827 | 305 | 24 | 5 days ago | [SIP.js](https://github.com/onsip/SIP.js)/518 | A simple, intuitive, and powerful JavaScript signaling library |
+| 826 | 14 | 12 | a month ago | [proppy](https://github.com/fahad19/proppy)/519 | Functional props composition for UI components (React.js & Vue.js) |
+| 821 | 108 | 34 | 6 months ago | [angular-ngrx-data](https://github.com/johnpapa/angular-ngrx-data)/520 | Angular with ngRx and experimental ngrx-data helper |
+| 818 | 126 | 31 | 6 days ago | [magenta-js](https://github.com/tensorflow/magenta-js)/521 | Magenta.js: Music and Art Generation with Machine Intelligence in the Browser |
+| 816 | 65 | 30 | 27 days ago | [viser](https://github.com/viserjs/viser)/522 | viser is a toolkit fit for data vis engineer.   |
+| 815 | 29 | 26 | a month ago | [typewiz](https://github.com/urish/typewiz)/523 | Automatically discover and add missing types in your TypeScript code |
+| 814 | 27 | 6 | 2 days ago | [octohint](https://github.com/pd4d10/octohint)/524 | The missing IntelliSense hint for GitHub and GitLab |
+| 813 | 173 | 36 | 2 months ago | [ngx-infinite-scroll](https://github.com/orizens/ngx-infinite-scroll)/525 | Infinite Scroll Directive for Angular |
+| 812 | 69 | 22 | 4 months ago | [accesscontrol](https://github.com/onury/accesscontrol)/526 | Role and Attribute based Access Control for Node.js |
+| 810 | 142 | 258 | 4 days ago | [vscode-java](https://github.com/redhat-developer/vscode-java)/527 | Java Language Support for Visual Studio Code |
+| 808 | 144 | 2 | a month ago | [typescript-collections](https://github.com/basarat/typescript-collections)/528 | A generically typed set of collections for use with TypeScript |
+| 807 | 122 | 641 | 9 hours ago | [misskey](https://github.com/syuilo/misskey)/529 | 🌎 A federated blogging platform 🚀 |
+| 802 | 60 | 4 | 6 days ago | [is](https://github.com/sindresorhus/is)/530 | Type check values |
+| 802 | 174 | 93 | 16 hours ago | [wire-desktop](https://github.com/wireapp/wire-desktop)/531 | :computer: Wire for desktop |
+| 799 | 124 | 9 | 3 months ago | [spotify-web-api-js](https://github.com/JMPerez/spotify-web-api-js)/532 | A client-side JS wrapper for the Spotify Web API |
+| 798 | 57 | 15 | 4 months ago | [HyperMD](https://github.com/laobubu/HyperMD)/533 | A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing. |
+| 798 | 103 | 61 | 3 months ago | [bolt](https://github.com/FirebaseExtended/bolt)/534 | Bolt Compiler (Firebase Security and Modeling) |
+| 797 | 19 | 7 | 1 year, 9 months ago | [MMM-SUSI-AI](https://github.com/fossasia/MMM-SUSI-AI)/535 | SUSI.AI implementation for Magic Mirror |
+| 795 | 102 | 17 | 4 months ago | [react-native-renderer](https://github.com/angular/react-native-renderer)/536 | Use Angular and React Native to build applications for Android and iOS |
+| 795 | 31 | 7 | 5 months ago | [nodebook](https://github.com/netgusto/nodebook)/537 | Nodebook - Multi-Lang Web REPL + CLI Code runner |
+| 795 | 98 | 88 | 9 days ago | [voyager](https://github.com/vega/voyager)/538 | Recommendation-Powered Visualization Tool for Data Exploration |
+| 792 | 60 | 17 | 14 days ago | [minapp](https://github.com/qiu8310/minapp)/539 | 重新定义微信小程序的开发 |
+| 792 | 49 | 18 | 7 days ago | [onnxjs](https://github.com/microsoft/onnxjs)/540 | ONNX.js: run ONNX models using JavaScript |
+| 788 | 4 | 3 | 1 year, 11 months ago | [loklak_publisher](https://github.com/fossasia/loklak_publisher)/541 | None |
+| 786 | 149 | 154 | 20 hours ago | [web-build-tools](https://github.com/microsoft/web-build-tools)/542 | A tool box for large scale web development |
+| 786 | 37 | 0 | 23 hours ago | [apprun](https://github.com/yysun/apprun)/543 | AppRun is a JavaScript library for developing high-performance and reliable web applications using the elm inspired architecture, events and components. |
+| 785 | 81 | 13 | 24 days ago | [avataaars-generator](https://github.com/fangpenlin/avataaars-generator)/544 | Simple generator React app for avataaars |
+| 784 | 65 | 17 | a month ago | [idb-keyval](https://github.com/jakearchibald/idb-keyval)/545 | A super-simple-small promise-based keyval store implemented with IndexedDB |
+| 782 | 159 | 79 | 5 days ago | [vscode-ruby](https://github.com/rubyide/vscode-ruby)/546 | Provides Ruby language and debugging support for Visual Studio Code |
+| 778 | 178 | 5 | 2 months ago | [jsonview](https://github.com/bhollis/jsonview)/547 | A web extension that helps you view JSON documents in the browser.  |
+| 777 | 28 | 5 | 2 months ago | [animate-css-grid](https://github.com/aholachek/animate-css-grid)/548 | Easy transitions for CSS Grid |
+| 776 | 206 | 15 | 1 year, 4 months ago | [great-big-example-application](https://github.com/dancancro/great-big-example-application)/549 | A full-stack example app built with JHipster, Spring Boot, Kotlin, Angular 4, ngrx, and Webpack |
+| 775 | 144 | 1 | 1 year, 10 months ago | [Angular-kitchen-sink](https://github.com/born2net/Angular-kitchen-sink)/550 | :rocket:  Angular - learn by example |
+| 772 | 224 | 350 | 4 days ago | [vscode-powershell](https://github.com/PowerShell/vscode-powershell)/551 | Provides PowerShell language and debugging support for Visual Studio Code |
+| 771 | 93 | 71 | a month ago | [phosphor](https://github.com/phosphorjs/phosphor)/552 | The PhosphorJS Library |
+| 770 | 234 | 14 | a month ago | [react-redux-typescript-boilerplate](https://github.com/rokoroku/react-redux-typescript-boilerplate)/553 | A bare minimum frontend boilerplate with React 16, Typescript 3 and Webpack 4 |
+| 768 | 118 | 16 | 9 hours ago | [jovo-framework](https://github.com/jovotech/jovo-framework)/554 | 🔈 Build cross-platform Voice Apps for Amazon Alexa and Google Assistant |
+| 766 | 42 | 4 | 1 year, 4 months ago | [atmo](https://github.com/Raathigesh/atmo)/555 | :heavy_check_mark: Mock data for your prototypes and demos. Remote deployments to Zeit now. |
+| 766 | 29 | 29 | a month ago | [vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode)/556 | Emacs Org Mode for Visual Studio Code |
+| 763 | 253 | 70 | a month ago | [iota.js](https://github.com/iotaledger/iota.js)/557 | IOTA JavaScript monorepo |
+| 762 | 38 | 18 | 2 days ago | [ClusterWS](https://github.com/ClusterWS/ClusterWS)/558 | :boom: Lightweight, fast and powerful framework for building scalable WebSocket applications in Node.js. Website: https://clusterws.github.io (under dev) |
+| 758 | 202 | 51 | 6 days ago | [coinbase-pro-trading-toolkit](https://github.com/coinbase/coinbase-pro-trading-toolkit)/559 | The Coinbase Pro trading toolkit |
+| 757 | 54 | 23 | 12 days ago | [node-vibrant](https://github.com/akfish/node-vibrant)/560 | Extract prominent colors from an image |
+| 755 | 120 | 21 | 14 days ago | [maker.js](https://github.com/microsoft/maker.js)/561 | 📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters. |
+| 755 | 330 | 140 | 7 months ago | [angular-oauth2-oidc](https://github.com/manfredsteyer/angular-oauth2-oidc)/562 | Support for OAuth 2 and OpenId Connect (OIDC) in Angular.  |
+| 753 | 108 | 8 | 6 days ago | [ng-lightning](https://github.com/ng-lightning/ng-lightning)/563 | Native Angular components & directives for Lightning Design System |
+| 751 | 949 | 4 | 1 year, 22 days ago | [angular-tour-of-heroes](https://github.com/johnpapa/angular-tour-of-heroes)/564 | Angular - Tour of Heroes - The Next Step after Getting Started |
+| 751 | 132 | 49 | 7 days ago | [museeks](https://github.com/martpie/museeks)/565 | 🎵 A simple, clean and cross-platform music player |
+| 749 | 101 | 15 | 6 months ago | [TypeScript-React-Conversion-Guide](https://github.com/microsoft/TypeScript-React-Conversion-Guide)/566 | A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below. |
+| 747 | 15 | 9 | 3 days ago | [reaviz](https://github.com/jask-oss/reaviz)/567 | 📊 ReactJS Data Visualization Library based on D3.js |
+| 746 | 149 | 80 | 1 year, 11 months ago | [uProxy-p2p](https://github.com/UWNetworksLab/uProxy-p2p)/568 | Internet without borders |
+| 744 | 84 | 0 | a month ago | [G3D](https://github.com/alibaba/G3D)/569 | A pure 3D render engine compatible with webgl, running both in browser and gcanvas. |
+| 743 | 33 | 19 | 5 months ago | [avocado](https://github.com/alexjlockwood/avocado)/570 | 🥑 Vector Drawable optimization tool 🥑 |
+| 743 | 166 | 239 | a month ago | [vscode-mssql](https://github.com/microsoft/vscode-mssql)/571 | Visual Studio Code SQL Server extension. |
+| 742 | 34 | 34 | 7 days ago | [nexus](https://github.com/prisma/nexus)/572 | GraphQL Nexus: Code-First, Type-Safe, GraphQL Schema Construction |
+| 736 | 183 | 18 | 3 days ago | [streamlabs-obs](https://github.com/stream-labs/streamlabs-obs)/573 | Free and open source streaming software built on OBS and Electron. |
+| 734 | 280 | 295 | a day ago | [nativescript-plugin-firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase)/574 | :fire: NativeScript plugin for Firebase, the leading realtime JSON :cloud: app platform |
+| 734 | 1292 | 192 | 14 days ago | [sp-dev-fx-webparts](https://github.com/SharePoint/sp-dev-fx-webparts)/575 | Code samples and developer content targeted towards SharePoint Framework client-side web parts. |
+| 733 | 51 | 38 | 1 year, 2 months ago | [graphdoc](https://github.com/2fd/graphdoc)/576 | Static page generator for documenting GraphQL Schema |
+| 731 | 80 | 18 | 27 days ago | [mobx-utils](https://github.com/mobxjs/mobx-utils)/577 | Utility functions and common patterns for MobX |
+| 727 | 77 | 61 | a day ago | [deno_std](https://github.com/denoland/deno_std)/578 | deno standard modules |
+| 727 | 108 | 86 | 1 year, 4 months ago | [min-cli](https://github.com/meili/min-cli)/579 | Min 小程序组件化解决方案 |
+| 726 | 9 | 10 | a day ago | [packagephobia](https://github.com/styfle/packagephobia)/580 | ⚖️ Find the cost of adding a new dependency to your project |
+| 726 | 119 | 142 | 2 months ago | [typegoose](https://github.com/szokodiakos/typegoose)/581 | Typegoose - Define Mongoose models using TypeScript classes. |
+| 726 | 64 | 21 | 28 days ago | [dgeni](https://github.com/angular/dgeni)/582 | Flexible JavaScript documentation generator used by AngularJS, Protractor and other JS projects |
+| 725 | 122 | 230 | 4 days ago | [action](https://github.com/ParabolInc/action)/583 | Free online agile retrospective meeting tool |
+| 724 | 12 | 7 | 2 days ago | [element-motion](https://github.com/madou/element-motion)/584 | formerly yubaba, element motion for React.js 💨✨ |
+| 723 | 127 | 113 | a month ago | [rls-vscode](https://github.com/rust-lang/rls-vscode)/585 | RLS-based plugin for VSCode |
+| 723 | 102 | 17 | 14 days ago | [lotion](https://github.com/nomic-io/lotion)/586 | ✨ Smooth, easy blockchain apps ✨ |
+| 721 | 66 | 10 | 10 months ago | [Imagine](https://github.com/meowtec/Imagine)/587 | 🖼️ PNG/JPEG optimization app for macOS, Windows and Linux. |
+| 721 | 165 | 60 | 3 months ago | [angular2-notifications](https://github.com/flauc/angular2-notifications)/588 | A light and easy to use notifications library for Angular. |
+| 720 | 169 | 45 | 20 days ago | [actions-on-google-nodejs](https://github.com/actions-on-google/actions-on-google-nodejs)/589 | Node.js client library for Actions on Google |
+| 720 | 82 | 24 | 6 months ago | [ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular)/590 | Restangular for Angular 2 and higher versions |
+| 719 | 129 | 50 | 2 days ago | [typescript-json-schema](https://github.com/YousefED/typescript-json-schema)/591 | Generate json-schema from your Typescript sources |
+| 719 | 85 | 55 | 10 hours ago | [desktop](https://github.com/bitwarden/desktop)/592 | The desktop vault (Windows, macOS, & Linux). |
+| 716 | 159 | 10 | 1 year, 21 days ago | [angular-spinner](https://github.com/urish/angular-spinner)/593 | Angular directive to show an animated spinner (using spin.js) |
+| 713 | 220 | 20 | a month ago | [datacamp-light](https://github.com/datacamp/datacamp-light)/594 | Convert any blog or website to an interactive learning platform for data science |
+| 713 | 353 | 14 | a month ago | [QuickApp](https://github.com/emonney/QuickApp)/595 | ASP.NET Core 2.2 / Angular 7 startup project template with complete login, user and role management. Plus other useful services for Quick Application Development |
+| 713 | 42 | 38 | a day ago | [ts-morph](https://github.com/dsherret/ts-morph)/596 | TypeScript Compiler API wrapper for static analysis and programmatic code changes. |
+| 711 | 22 | 16 | a day ago | [fast-glob](https://github.com/mrmlnc/fast-glob)/597 | :rocket: Is a faster (1.5-10x for most cases) node-glob alternative. |
+| 708 | 289 | 59 | 2 days ago | [ngx-chips](https://github.com/Gbuomprisco/ngx-chips)/598 | Tag Input component for Angular |
+| 706 | 32 | 5 | 2 months ago | [core](https://github.com/HaikuTeam/core)/599 | :rice: Interactive UI animation engine for the Web.  Core renderer for Haiku Animator. |
+| 701 | 33 | 1 | a month ago | [p-progress](https://github.com/sindresorhus/p-progress)/600 | Create a promise that reports progress |
+| 700 | 40 | 11 | 16 hours ago | [shortcuts-js](https://github.com/joshfarrant/shortcuts-js)/601 | A JavaScript iOS 12 Shortcuts creator |
+| 700 | 48 | 40 | a month ago | [eyeglass](https://github.com/linkedin/eyeglass)/602 | NPM Modules for Sass |
+| 699 | 133 | 8 | 7 days ago | [gaea-editor](https://github.com/ascoders/gaea-editor)/603 | Design websites in your browser. A smart web editor! |
+| 697 | 17 | 3 | 20 days ago | [rxjs-hooks](https://github.com/LeetCode-OpenSource/rxjs-hooks)/604 | React hooks for RxJS |
+| 696 | 328 | 103 | 4 months ago | [ngx-uploader](https://github.com/bleenco/ngx-uploader)/605 | Angular File Uploader |
+| 696 | 28 | 3 | 21 days ago | [refract](https://github.com/fanduel-oss/refract)/606 | Harness the power of reactive programming to supercharge your components |
+| 690 | 65 | 21 | a month ago | [opentracing-javascript](https://github.com/opentracing/opentracing-javascript)/607 | OpenTracing API for Javascript (both Node and browser) |
+| 687 | 258 | 139 | 1 year, 3 days ago | [ngx-modialog](https://github.com/shlomiassaf/ngx-modialog)/608 | Modal / Dialog for Angular |
+| 687 | 118 | 47 | 10 hours ago | [web](https://github.com/bitwarden/web)/609 | The website vault (vault.bitwarden.com). |
+| 686 | 201 | 15 | 4 days ago | [google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs)/610 | 🔑 Google Auth Library for Node.js |
+| 685 | 4 | 0 | 2 months ago | [typesync](https://github.com/jeffijoe/typesync)/611 | Install missing TypeScript typings for dependencies in your package.json. |
+| 684 | 272 | 7 | 15 days ago | [echoes-player](https://github.com/orizens/echoes-player)/612 | Echoes Player: the missing Media Player experience for Youtube - Built with Angular (+7), ngrx (+7), Angular CLI, Boostrap (SASS), Youtube api |
+| 681 | 57 | 12 | 28 days ago | [react-codemirror2](https://github.com/scniro/react-codemirror2)/613 | Codemirror integrated components for React |
+| 679 | 153 | 4 | 2 months ago | [emoji-scavenger-hunt](https://github.com/google/emoji-scavenger-hunt)/614 | Emoji Scavenger Hunt is an experiment that leverages the power of neural networks and your phone’s camera to identify the real world versions of the emojis we use every day. |
+| 676 | 64 | 14 | 4 days ago | [maquette](https://github.com/AFASSoftware/maquette)/615 | Pure and simple virtual DOM library |
+| 676 | 292 | 52 | 13 hours ago | [davinci](https://github.com/edp963/davinci)/616 | Davinci is a DVsaaS (Data Visualization as a Service) Platform |
+| 675 | 34 | 6 | 3 months ago | [scroll-out](https://github.com/scroll-out/scroll-out)/617 | ScrollOut detects changes in scroll for reveal, parallax, and CSS Variable effects! |
+| 675 | 332 | 1 | 12 hours ago | [starter-kit](https://github.com/ngx-rocket/starter-kit)/618 | :package: Angular 7+ starter kit for enterprise-grade projects |
+| 674 | 41 | 9 | 2 months ago | [resugar](https://github.com/resugar/resugar)/619 | Rewrite your JavaScript & TypeScript source code with sweet new features. |
+| 673 | 112 | 8 | 1 year, 3 months ago | [vue-webpack-typescript](https://github.com/ducksoupdev/vue-webpack-typescript)/620 | A Vue, Webpack, Typescript, Bootstrap setup with hot reload, dynamic imports, unit testing, code coverage, sass, uncss and bundling/minification. |
+| 673 | 210 | 31 | 5 days ago | [express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate)/621 | A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch |
+| 672 | 604 | 379 | 1 year, 6 months ago | [ng2-select](https://github.com/valor-software/ng2-select)/622 | Angular based replacement for select boxes |
+| 672 | 77 | 25 | 10 days ago | [react-mde](https://github.com/andrerpena/react-mde)/623 | 📝 React Markdown Editor |
+| 671 | 13 | 4 | 3 months ago | [wobble](https://github.com/skevy/wobble)/624 | A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. |
+| 670 | 28 | 20 | a day ago | [yalc](https://github.com/whitecolor/yalc)/625 | Work with yarn/npm packages locally like a boss. |
+| 670 | 102 | 57 | 8 months ago | [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules)/626 | Improve your TSLint with the missing ESLint rules |
+| 669 | 330 | 35 | 2 years ago | [material2-app](https://github.com/jelbourn/material2-app)/627 | Simple app that consumes Angular Material 2 components |
+| 669 | 80 | 188 | 23 days ago | [vscode-code-runner](https://github.com/formulahendry/vscode-code-runner)/628 | Code Runner for Visual Studio Code |
+| 668 | 26 | 1 | a month ago | [free-style](https://github.com/blakeembrey/free-style)/629 | Make CSS easier and more maintainable by using JavaScript |
+| 668 | 297 | 73 | a month ago | [quran.com-frontend](https://github.com/quran/quran.com-frontend)/630 | quran.com frontend |
+| 667 | 20 | 17 | 5 days ago | [opticss](https://github.com/linkedin/opticss)/631 | A CSS Optimizer |
+| 667 | 180 | 67 | 1 year, 4 months ago | [ng2-material](https://github.com/justindujardin/ng2-material)/632 | DEPRECATED: Components built on top of @angular/material and examples site |
+| 666 | 162 | 44 | 1 year, 10 days ago | [angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar)/633 | Angular module that uses SVG to create a circular progressbar |
+| 663 | 129 | 48 | 5 months ago | [react-native-img-cache](https://github.com/wcandillon/react-native-img-cache)/634 | Image Cache for React Native |
+| 662 | 37 | 2 | a month ago | [mlhelper](https://github.com/laoqiren/mlhelper)/635 | Algorithms and utils for Machine Learning in JavaScript. |
+| 661 | 211 | 183 | a month ago | [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer)/636 | 📄 PDF Viewer Component for Angular 5+ |
+| 660 | 14 | 16 | a month ago | [foxr](https://github.com/deepsweet/foxr)/637 | 🦊 Node.js API to control Firefox |
+| 659 | 8 | 3 | 10 hours ago | [RCRE](https://github.com/andycall/RCRE)/638 | Build complex applications without pain |
+| 658 | 187 | 33 | 10 days ago | [ngx-virtual-scroller](https://github.com/rintoj/ngx-virtual-scroller)/639 | Virtual Scroll displays a virtual, "infinite" list. |
+| 657 | 310 | 257 | 2 days ago | [Silex](https://github.com/silexlabs/Silex)/640 | Silex is a static website builder in the cloud.  |
+| 655 | 272 | 20 | 5 days ago | [emberfire](https://github.com/firebase/emberfire)/641 | The officially supported adapter for using Firebase with Ember |
+| 654 | 349 | 2 | a month ago | [curso-angular](https://github.com/loiane/curso-angular)/642 | :mortar_board: [PT-BR] Curso de Angular (v2+) gratuito - loiane.training |
+| 652 | 53 | 80 | a month ago | [graphqlgen](https://github.com/prisma/graphqlgen)/643 | ⚙️ Generate type-safe resolvers based upon your GraphQL Schema |
+| 652 | 107 | 44 | 2 months ago | [re-resizable](https://github.com/bokuweb/re-resizable)/644 | 📏  A resizable component for React. |
+| 652 | 278 | 88 | 6 days ago | [node-opcua](https://github.com/node-opcua/node-opcua)/645 | an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/ |
+| 651 | 25 | 2 | 14 days ago | [data-forge-ts](https://github.com/data-forge/data-forge-ts)/646 | The JavaScript data transformation and analysis toolkit inspired by Pandas and LINQ. |
+| 651 | 75 | 55 | a month ago | [tslint-react](https://github.com/palantir/tslint-react)/647 | :orange_book: Lint rules related to React & JSX for TSLint. |
+| 651 | 85 | 6 | 3 months ago | [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar)/648 | Angular progress bar ☄ |
+| 650 | 28 | 2 | 3 months ago | [graphql-lodash](https://github.com/APIs-guru/graphql-lodash)/649 | 🛠 Data manipulation for GraphQL queries with lodash syntax |
+| 649 | 20 | 6 | 10 months ago | [fontplop](https://github.com/matthewgonzalez/fontplop)/650 | Fast, Simple, & Free Open Source Webfont Converter |
+| 649 | 344 | 127 | 3 days ago | [MyCrypto](https://github.com/MyCryptoHQ/MyCrypto)/651 | MyCrypto is an open-source, client-side tool for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily. |
+| 649 | 41 | 34 | 13 days ago | [bili](https://github.com/egoist/bili)/652 | Bili makes it easier to bundle JavaScript libraries. |
+| 648 | 47 | 184 | 7 days ago | [model-viewer](https://github.com/GoogleWebComponents/model-viewer)/653 | Easily display interactive 3D models on the web and in AR!  |
+| 648 | 71 | 5 | a month ago | [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard)/654 | Material Angular Admin Template |
+| 647 | 138 | 70 | 2 days ago | [node-influx](https://github.com/node-influx/node-influx)/655 | 📈  The InfluxDB Client for Node.js and Browsers |
+| 645 | 102 | 70 | 2 days ago | [angular-console](https://github.com/nrwl/angular-console)/656 | Angular Console is the user interface for the Angular CLI. |
+| 642 | 134 | 26 | 1 year, 6 months ago | [vortigern](https://github.com/barbar/vortigern)/657 | A universal boilerplate for building web applications w/ TypeScript, React, Redux, Server Side Rendering and more. |
+| 641 | 30 | 5 | a month ago | [re-reselect](https://github.com/toomuchdesign/re-reselect)/658 | Enhance Reselect selectors with deeper memoization and cache management. |
+| 640 | 167 | 52 | 4 days ago | [apollo-angular](https://github.com/apollographql/apollo-angular)/659 | A fully-featured, production ready caching GraphQL client for Angular and every GraphQL server 🎁 |
+| 639 | 47 | 71 | 11 days ago | [SonarTS](https://github.com/SonarSource/SonarTS)/660 | Static code analyzer for TypeScript |
+| 638 | 142 | 6 | 5 days ago | [sqs-consumer](https://github.com/bbc/sqs-consumer)/661 | Build Amazon Simple Queue Service (SQS) based applications without the boilerplate |
+| 637 | 32 | 5 | 8 months ago | [Shiba](https://github.com/rhysd/Shiba)/662 | Rich markdown live preview app with linter |
+| 637 | 98 | 44 | 6 days ago | [fork-ts-checker-webpack-plugin](https://github.com/Realytics/fork-ts-checker-webpack-plugin)/663 | Webpack plugin that runs typescript type checker on a separate process. |
+| 636 | 28 | 25 | 1 year, 2 months ago | [onelang](https://github.com/koczkatamas/onelang)/664 | None |
+| 634 | 56 | 25 | 7 months ago | [DouyuHTML5Player](https://github.com/spacemeowx2/DouyuHTML5Player)/665 | 替换斗鱼的Flash弹幕播放器 |
+| 632 | 16 | 6 | 21 days ago | [react-movable](https://github.com/tajo/react-movable)/666 | 🔀 Drag and drop for your React lists and tables. Accessible. Tiny. |
+| 632 | 181 | 231 | 9 months ago | [brackets-git](https://github.com/brackets-userland/brackets-git)/667 | brackets-git — git extension for adobe/brackets |
+| 632 | 59 | 4 | 24 days ago | [next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper)/668 | Redux wrapper for Next.js |
+| 632 | 34 | 26 | 4 days ago | [vuex-persist](https://github.com/championswimmer/vuex-persist)/669 | A Vuex plugin to persist the store. (Fully Typescript enabled) |
+| 630 | 59 | 4 | 10 months ago | [RxJS-Docs-CN](https://github.com/RxJS-CN/RxJS-Docs-CN)/670 | RxJS 5 中文文档 |
+| 630 | 58 | 12 | 29 days ago | [p-queue](https://github.com/sindresorhus/p-queue)/671 | Promise queue with concurrency control |
+| 629 | 129 | 23 | 3 years ago | [angular-electron](https://github.com/angular/angular-electron)/672 | Angular2 + Electron |
+| 628 | 61 | 4 | 4 days ago | [Mob](https://github.com/zenghongtu/Mob)/673 | Mob - 一个高颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux |
+| 627 | 38 | 23 | 7 days ago | [IxJS](https://github.com/ReactiveX/IxJS)/674 | The Interactive Extensions for JavaScript |
+| 626 | 155 | 15 | 1 year, 5 months ago | [aws-serverless-auth-reference-app](https://github.com/awslabs/aws-serverless-auth-reference-app)/675 | Serverless reference app and backend API, showcasing authentication and authorization patterns using Amazon Cognito, Amazon API Gateway, AWS Lambda, and AWS IAM. |
+| 624 | 29 | 1 | 5 months ago | [dob](https://github.com/dobjs/dob)/676 |  Light and fast 🚀 state management tool using proxy. |
+| 623 | 154 | 4 | 1 year, 7 months ago | [todomvc-redux-react-typescript](https://github.com/jaysoo/todomvc-redux-react-typescript)/677 | TodoMVC example using Redux, React, and Typescript |
+| 622 | 25 | 8 | a month ago | [Mongoku](https://github.com/huggingface/Mongoku)/678 | 🔥The Web-scale GUI for MongoDB |
+| 620 | 42 | 59 | 4 days ago | [graphql-import](https://github.com/prisma/graphql-import)/679 | Import & export definitions in GraphQL SDL |
+| 614 | 16 | 5 | 14 days ago | [unstated-next](https://github.com/jamiebuilds/unstated-next)/680 | 200 bytes to never think about React state management libraries ever again |
+| 614 | 91 | 16 | 19 days ago | [firebase-server](https://github.com/urish/firebase-server)/681 | Firebase Realtime Database Server Implementation |
+| 613 | 272 | 34 | 4 months ago | [aws-cognito-angular-quickstart](https://github.com/awslabs/aws-cognito-angular-quickstart)/682 | An Angular(v5)-based QuickStart single-page app utilizing Amazon Cognito, S3, and DynamoDB (Serverless architecture) |
+| 613 | 114 | 27 | 2 days ago | [graphql-prisma-typescript](https://github.com/prisma/graphql-prisma-typescript)/683 | 🏡  GraphQL server reference implementation (Airbnb clone) in Typescript using Prisma & graphql-yoga |
+| 613 | 82 | 97 | 4 days ago | [vscode-sftp](https://github.com/liximomo/vscode-sftp)/684 | Super fast sftp/ftp extension for VS Code |
+| 611 | 56 | 18 | 8 months ago | [redux-crud](https://github.com/Versent/redux-crud)/685 | A set of standard actions and reducers for Redux CRUD Applications |
+| 611 | 237 | 15 | 1 year, 2 months ago | [socket-io-typescript-chat](https://github.com/luixaviles/socket-io-typescript-chat)/686 | A chat application implemented using Socket.io, TypeScript, Angular and Angular Material components |
+| 610 | 37 | 0 | 4 months ago | [injection-js](https://github.com/mgechev/injection-js)/687 | Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and well tested. |
+| 609 | 56 | 0 | 2 months ago | [leasot](https://github.com/pgilad/leasot)/688 | Parse and output TODOs and FIXMEs from comments in your files |
+| 609 | 24 | 9 | 19 days ago | [ui-box](https://github.com/segmentio/ui-box)/689 | Blazing Fast React UI Primitive |
+| 609 | 37 | 5 | 2 months ago | [matrixmultiplication.xyz](https://github.com/staltz/matrixmultiplication.xyz)/690 | None |
+| 607 | 26 | 5 | 1 year, 6 months ago | [react-slot-fill](https://github.com/camwest/react-slot-fill)/691 | Slot & Fill component for merging React subtrees together. Portal on steroids. |
+| 605 | 153 | 42 | 1 year, 7 months ago | [custombox](https://github.com/dixso/custombox)/692 | Modal window effects with transitions CSS3. |
+| 605 | 71 | 59 | 3 days ago | [ts-express-decorators](https://github.com/TypedProject/ts-express-decorators)/693 |  :triangular_ruler: A TypeScript Framework on top of Express. It provide a lot of decorators and guideline to write your code. |
+| 603 | 100 | 2 | 2 months ago | [node-easyimage](https://github.com/hacksparrow/node-easyimage)/694 | Node.js module for image processing and manipulation |
+| 603 | 193 | 102 | 3 days ago | [tslint-microsoft-contrib](https://github.com/microsoft/tslint-microsoft-contrib)/695 | A set of TSLint rules used on some Microsoft projects. |
+| 603 | 174 | 18 | 18 days ago | [ionic-super-tabs](https://github.com/zyra/ionic-super-tabs)/696 | Swipeable Tabs for Ionic 3 |
+| 602 | 17 | 25 | 17 days ago | [vscode-glean](https://github.com/wix/vscode-glean)/697 | The extension provides refactoring tools for your React codebase |
+| 601 | 61 | 35 | 30 days ago | [ngx-build-plus](https://github.com/manfredsteyer/ngx-build-plus)/698 | Extend the Angular CLI's default build behavior without ejecting, e. g. for Angular Elements |
+| 599 | 31 | 1 | 4 months ago | [blurify](https://github.com/JustClear/blurify)/699 | blurify.js is a tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode. |
+| 598 | 130 | 30 | 2 months ago | [Dragact](https://github.com/Foveluy/Dragact)/700 | a dragger layout system with React style .  |
+| 598 | 184 | 8 | 13 hours ago | [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)/701 | A simple module for creating, manipulating and signing ethereum transactions |
+| 596 | 60 | 10 | a month ago | [vue-svgicon](https://github.com/MMF-FE/vue-svgicon)/702 | A tool to create svg icon components. (vue 2.x). Using inline svg. |
+| 596 | 32 | 23 | 17 hours ago | [apollo-cache-persist](https://github.com/apollographql/apollo-cache-persist)/703 | 🎏 Simple persistence for all Apollo Cache implementations |
+| 592 | 43 | 22 | 13 days ago | [vectorious](https://github.com/mateogianolio/vectorious)/704 | Linear algebra in TypeScript. |
+| 592 | 86 | 152 | 27 days ago | [tsickle](https://github.com/angular/tsickle)/705 | Tsickle — TypeScript to Closure Translator |
+| 592 | 19 | 4 | 8 days ago | [ReacType](https://github.com/team-reactype/ReacType)/706 | 🧪 Prototyping Tool for exporting React/Typescript Applications! |
+| 591 | 162 | 108 | 4 days ago | [tsoa](https://github.com/lukeautry/tsoa)/707 | Build swagger-compliant REST APIs using TypeScript and Node |
+| 590 | 123 | 238 | 5 days ago | [elevate](https://github.com/thomaschampagne/elevate)/708 | Browser extension for strava. "Elevate" tracks your fitness and progressions over time. Analyse deeper your activities & segments. And more... https://thomaschampagne.github.io/elevate/ (formerly named stravistix) |
+| 589 | 141 | 36 | 4 days ago | [firebase-admin-node](https://github.com/firebase/firebase-admin-node)/709 | Firebase Admin Node.js SDK |
+| 586 | 194 | 126 | 8 months ago | [ng2-semantic-ui](https://github.com/edcarroll/ng2-semantic-ui)/710 | Semantic UI Angular Integrations (no jQuery) |
+| 586 | 274 | 337 | 3 days ago | [ionic-app-scripts](https://github.com/ionic-team/ionic-app-scripts)/711 | App Build Scripts for Ionic Projects |
+| 586 | 123 | 130 | 9 hours ago | [lichobile](https://github.com/veloce/lichobile)/712 | lichess.org mobile application |
+| 584 | 64 | 39 | 6 months ago | [vue-snotify](https://github.com/artemsky/vue-snotify)/713 | Vuejs 2 Notification Center |
+| 584 | 23 | 10 | 2 months ago | [chattervox](https://github.com/brannondorsey/chattervox)/714 | 📡 An AX.25 packet radio chat protocol with support for digital signatures and binary compression. Like IRC over radio waves. |
+| 583 | 76 | 60 | 4 days ago | [emission](https://github.com/artsy/emission)/715 | React Native Components |
+| 581 | 299 | 20 | 6 months ago | [angular-firestarter](https://github.com/codediodeio/angular-firestarter)/716 | :anchor: :fire: Angular + Firebase Progressive Web App Starter |
+| 579 | 225 | 8 | 9 months ago | [ionic3_angular4_JD](https://github.com/dicallc/ionic3_angular4_JD)/717 | 使用ionic3/ag4编写模仿京东商城的demo |
+| 578 | 22 | 7 | 13 days ago | [perfume.js](https://github.com/Zizzamia/perfume.js)/718 | A flexible JavaScript library for measuring First Contentful Paint (FP/FCP), First Input Delay (FID) and components lifecycle performance (eg. Angular, React). Report real user measurements to Google Analytics or your ideal tracking tool. |
+| 577 | 30 | 22 | 1 year, 5 months ago | [slinky](https://github.com/finchalyzer/slinky)/719 | Export your Sketch designs as HTML email templates |
+| 577 | 135 | 41 | 2 months ago | [universal](https://github.com/ng-seed/universal)/720 | Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, CLI scaffolding, dev/prod modes, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer |
+| 575 | 218 | 31 | 1 year, 2 months ago | [r2](https://github.com/bitrinjani/r2)/721 | R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript. |
+| 573 | 267 | 6 | 1 year, 2 months ago | [angular2-express-starter](https://github.com/vladotesanovic/angular2-express-starter)/722 | Angular 2 and Express :family: ( Heroku ready ) |
+| 573 | 70 | 11 | 2 days ago | [ionic-pwa-toolkit](https://github.com/ionic-team/ionic-pwa-toolkit)/723 | Build lightning fast Progressive Web Apps with zero config and best practices built-in. Go from zero to production ready with Ionic and Stencil (Web Components). |
+| 572 | 154 | 14 | 18 days ago | [react-google-charts](https://github.com/rakannimer/react-google-charts)/724 | A thin, typed, React wrapper over Google Charts Visualization and Charts API. |
+| 571 | 214 | 41 | 12 hours ago | [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)/725 | The Ethereum VM implemented in Javascript |
+| 570 | 50 | 20 | 6 months ago | [lyricfier](https://github.com/emilioastarita/lyricfier)/726 | a Spotify Lyrics alternative app | New updates at https://github.com/emilioastarita/lyricfier2 (a faster version in golang) |
+| 569 | 51 | 117 | 14 days ago | [javascript-typescript-langserver](https://github.com/sourcegraph/javascript-typescript-langserver)/727 | JavaScript and TypeScript code intelligence through the Language Server Protocol |
+| 568 | 115 | 5 | 2 days ago | [tfjs-converter](https://github.com/tensorflow/tfjs-converter)/728 | Convert TensorFlow SavedModel and Keras models to TensorFlow.js |
+| 565 | 132 | 13 | 3 days ago | [angular-froala-wysiwyg](https://github.com/froala/angular-froala-wysiwyg)/729 | Angular 2, 4, 5, 6 and 7 plugin for Froala WYSIWYG HTML Rich Text Editor. |
+| 565 | 182 | 0 | 10 months ago | [web-component-tester](https://github.com/Polymer/web-component-tester)/730 | Moved to Polymer/tools monorepo |
+| 565 | 43 | 8 | 4 days ago | [ReSub](https://github.com/microsoft/ReSub)/731 | A library for writing React components that automatically manage subscriptions to data sources simply by accessing them |
+| 565 | 152 | 75 | 2 years ago | [ng2-validation](https://github.com/yuyang041060120/ng2-validation)/732 | angular2 validation |
+| 564 | 25 | 3 | 1 year, 3 months ago | [xreact](https://github.com/reactive-react/xreact)/733 | reactive x react = xreact |
+| 564 | 27 | 34 | 5 months ago | [apollo-fetch](https://github.com/apollographql/apollo-fetch)/734 | :dog: Lightweight GraphQL client that supports middleware and afterware |
+| 561 | 202 | 2 | a day ago | [Farmbot-Web-App](https://github.com/FarmBot/Farmbot-Web-App)/735 | Setup, customize, and control FarmBot from any device |
+| 560 | 51 | 4 | 28 days ago | [avatars-api-middleware](https://github.com/adorableio/avatars-api-middleware)/736 | The express middleware for our avatars service |
+| 559 | 39 | 5 | 13 days ago | [brazilian-utils](https://github.com/brazilian-utils/brazilian-utils)/737 | Utils library for specific Brazilian businesses |
+| 559 | 35 | 135 | 3 days ago | [aws-toolkit-vscode](https://github.com/aws/aws-toolkit-vscode)/738 | AWS Toolkit for Visual Studio Code, an extension for working with AWS services including AWS Lambda. |
+| 558 | 40 | 87 | 29 days ago | [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete)/739 | Extension that deletes cookies as soon as the tab closes. |
+| 558 | 47 | 40 | 6 months ago | [bloomer](https://github.com/AlgusDark/bloomer)/740 | A set of React components for Bulma CSS Framework |
+| 557 | 179 | 86 | 4 months ago | [videogular2](https://github.com/videogular/videogular2)/741 | The HTML5 video player for Angular 2 |
+| 557 | 41 | 37 | a month ago | [graphql-config](https://github.com/prisma/graphql-config)/742 | The easiest way to configure your development environment with your GraphQL schema (supported by most tools, editors & IDEs) |
+| 557 | 335 | 97 | 17 days ago | [mydatepicker](https://github.com/kekeh/mydatepicker)/743 | Angular 2+ date picker |
+| 556 | 27 | 3 | 4 months ago | [lodash-decorators](https://github.com/steelsojka/lodash-decorators)/744 | A collection of decorators using lodash at it's core. |
+| 555 | 62 | 16 | a month ago | [redux-beacon](https://github.com/rangle/redux-beacon)/745 | Analytics integration for Redux and ngrx/store |
+| 555 | 20 | 18 | a month ago | [runtypes](https://github.com/pelotom/runtypes)/746 | Runtime validation for static types |
+| 554 | 60 | 33 | a day ago | [metastream](https://github.com/samuelmaddock/metastream)/747 | Watch streaming media with friends. |
+| 553 | 112 | 28 | a day ago | [prisma-examples](https://github.com/prisma/prisma-examples)/748 | 💡 Examples of Prisma using different languages and technologies |
+| 552 | 122 | 70 | 10 days ago | [ngx-echarts](https://github.com/xieziyu/ngx-echarts)/749 | An angular (ver >= 2.x) directive for ECharts (ver >= 3.x) |
+| 550 | 129 | 96 | 13 days ago | [aws-mobile-appsync-sdk-js](https://github.com/awslabs/aws-mobile-appsync-sdk-js)/750 | JavaScript library files for Offline, Sync, Sigv4. includes support for React Native |
+| 550 | 29 | 33 | 2 days ago | [manyverse](https://github.com/staltz/manyverse)/751 | A social network off the grid (real repo at https://gitlab.com/staltz/manyverse) |
+| 547 | 76 | 21 | 10 months ago | [vscode-background](https://github.com/shalldie/vscode-background)/752 | A vscode extension to make it lovely. |
+| 546 | 88 | 146 | 7 days ago | [Excalibur](https://github.com/excaliburjs/Excalibur)/753 | 🎮 A simple HTML5 Canvas game engine written in TypeScript |
+| 545 | 39 | 48 | 2 years ago | [BlokDust](https://github.com/BlokDust/BlokDust)/754 | :musical_keyboard: A free to use web-based music making app. Make sounds, build instruments and share your creations. |
+| 545 | 91 | 18 | a day ago | [angular2-mdl](https://github.com/mseemann/angular2-mdl)/755 | Angular 2, 4, 5, 6 components, directives and styles based on material design lite (npm: @angular-mdl/core) |
+| 544 | 36 | 72 | a day ago | [proxx](https://github.com/GoogleChromeLabs/proxx)/756 | A game of proximity |
+| 543 | 136 | 1 | 3 months ago | [augur-core](https://github.com/AugurProject/augur-core)/757 | Augur back-end (Ethereum contracts) |
+| 543 | 78 | 10 | 18 days ago | [firebase-functions](https://github.com/firebase/firebase-functions)/758 | Firebase SDK for Cloud Functions |
+| 543 | 31 | 36 | 1 year, 9 months ago | [Iridium](https://github.com/SierraSoftworks/Iridium)/759 | A high performance MongoDB ORM for Node.js |
+| 542 | 98 | 28 | 1 year, 7 months ago | [effects](https://github.com/ngrx/effects)/760 | Side effect model for @ngrx/store |
+| 539 | 110 | 10 | 8 days ago | [echo](https://github.com/laravel/echo)/761 | None |
+| 539 | 161 | 102 | 15 days ago | [angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2)/762 | Angular gridster 2 |
+| 538 | 65 | 21 | a month ago | [vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)/763 | Project Manager Extension for Visual Studio Code |
+| 538 | 80 | 0 | 5 days ago | [intl-messageformat](https://github.com/formatjs/intl-messageformat)/764 | [MIGRATED] Format a string with placeholders, including plural and select support to create localized messages. |
+| 537 | 116 | 68 | 6 days ago | [ast-types](https://github.com/benjamn/ast-types)/765 | Esprima-compatible implementation of the Mozilla JS Parser API |
+| 537 | 79 | 1 | 12 days ago | [remodel](https://github.com/facebook/remodel)/766 | Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability. |
+| 535 | 142 | 26 | 4 days ago | [pact-js](https://github.com/pact-foundation/pact-js)/767 | JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems. |
+| 534 | 74 | 12 | 4 months ago | [ngx-permissions](https://github.com/AlexKhymenko/ngx-permissions)/768 | Permission and roles based access control for your angular(angular 2,4,5,6,7+) applications(AOT, lazy modules compatible |
+| 533 | 80 | 23 | a month ago | [clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill)/769 | :clipboard: Sane copying on the web, with maximum browser compatibility. |
+| 533 | 18 | 57 | 18 hours ago | [wasmboy](https://github.com/torch2424/wasmboy)/770 | Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Shell/Debugger in Preact. ⚛️ |
+| 533 | 10 | 7 | 18 days ago | [graphql-birdseye](https://github.com/Novvum/graphql-birdseye)/771 | View any GraphQL schema as a dynamic and interactive graph. 🦅   |
+| 532 | 21 | 0 | 1 year, 2 months ago | [rill](https://github.com/rill-js/rill)/772 | 🗺 Universal router for web applications. |
+| 531 | 111 | 14 | 3 years ago | [Semantic-UI-Angular](https://github.com/Semantic-Org/Semantic-UI-Angular)/773 | Semantic UI Angular Integrations |
+| 530 | 43 | 25 | 6 days ago | [fly](https://github.com/superfly/fly)/774 | Fly is a runtime for global applications. Use it to build CDNs, smart proxy applications, and be a little more geo-neutral. |
+| 529 | 101 | 19 | 2 days ago | [swagger-to-graphql](https://github.com/yarax/swagger-to-graphql)/775 | Swagger to GraphQL API adapter |
+| 528 | 343 | 317 | 2 years ago | [ng2-table](https://github.com/valor-software/ng2-table)/776 | Simple table extension with sorting, filtering, paging... for Angular2 apps |
+| 528 | 222 | 100 | 1 year, 4 months ago | [angular-moment-picker](https://github.com/indrimuska/angular-moment-picker)/777 | Angular Moment Picker is an AngularJS directive for date and time picker using Moment.js. |
+| 527 | 13 | 8 | 6 months ago | [devalue](https://github.com/Rich-Harris/devalue)/778 | Gets the job done when JSON.stringify can't |
+| 527 | 74 | 36 | 10 days ago | [apollo-link-rest](https://github.com/apollographql/apollo-link-rest)/779 | Use existing REST endpoints with GraphQL |
+| 526 | 39 | 0 | 5 days ago | [weird-fonts](https://github.com/beizhedenglong/weird-fonts)/780 | 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆. |
+| 526 | 175 | 26 | 6 days ago | [AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow)/781 | OpenID Connect Code /  Implicit Flow with Angular and ASP.NET Core 2.2 IdentityServer4 |
+| 526 | 66 | 26 | 2 months ago | [ooth](https://github.com/nmaro/ooth)/782 | User identity/authentication/accounts management microservice for node.js |
+| 526 | 20 | 33 | 4 days ago | [turbine](https://github.com/funkia/turbine)/783 | Purely functional frontend framework for building web applications |
+| 526 | 94 | 94 | 21 days ago | [vscode-arduino](https://github.com/microsoft/vscode-arduino)/784 | Visual Studio Code extension for Arduino |
+| 525 | 23 | 26 | a day ago | [fast-check](https://github.com/dubzzz/fast-check)/785 | Property based testing framework for JavaScript (like QuickCheck) written in TypeScript |
+| 525 | 106 | 45 | 3 days ago | [electron-rebuild](https://github.com/electron/electron-rebuild)/786 | Package to rebuild native Node.js modules against the currently installed Electron version |
+| 524 | 22 | 9 | 1 year, 6 months ago | [react-skeletor](https://github.com/trainline/react-skeletor)/787 | Skeleton loading for React |
+| 524 | 65 | 7 | a month ago | [Luoo.qy](https://github.com/Aedron/Luoo.qy)/788 | ❤️ 落在低处, 独立音乐社区落网的第三方客户端 🎵 |
+| 522 | 93 | 23 | 1 year, 24 days ago | [injectify](https://github.com/samdenty/injectify)/789 | Perform advanced MiTM attacks on websites with ease 💉 |
+| 521 | 249 | 79 | 6 days ago | [material.angular.io](https://github.com/angular/material.angular.io)/790 | Docs site for Angular Material 2 |
+| 519 | 27 | 34 | 11 months ago | [funfix](https://github.com/funfix/funfix)/791 | Functional Programming Library for JavaScript, TypeScript and Flow ✨⚡️ |
+| 518 | 12 | 5 | 3 months ago | [functional-typescript](https://github.com/transitive-bullshit/functional-typescript)/792 | TypeScript standard for rock solid serverless functions. |
+| 518 | 70 | 160 | 8 hours ago | [Dart-Code](https://github.com/Dart-Code/Dart-Code)/793 | Dart and Flutter support for VS Code |
+| 516 | 21 | 14 | 9 days ago | [ts-node-dev](https://github.com/whitecolor/ts-node-dev)/794 | Compiles your TS app and restarts when files are modified. |
+| 515 | 39 | 10 | 8 days ago | [serverless-babel-starter](https://github.com/postlight/serverless-babel-starter)/795 | 🗄🙅‍♀️ Get your next serverless JavaScript function deployed in seconds |
+| 514 | 294 | 190 | 2 months ago | [azure-repos-vscode](https://github.com/microsoft/azure-repos-vscode)/796 | Visual Studio Team Services Extension for VS Code |
+| 513 | 46 | 7 | 14 hours ago | [noclip.website](https://github.com/magcius/noclip.website)/797 | Model Viewer for random games |
+| 513 | 12 | 0 | 1 year, 6 months ago | [repatch](https://github.com/jaystack/repatch)/798 | Dispatch reducers |
+| 512 | 48 | 23 | 3 months ago | [angular-fontawesome](https://github.com/FortAwesome/angular-fontawesome)/799 | Font Awesome 5 Angular component using SVG with JS |
+| 511 | 197 | 3 | 1 year, 10 months ago | [todo-angular-firebase](https://github.com/r-park/todo-angular-firebase)/800 | Todo app with Angular CLI • AngularFire2 • Firebase • OAuth • SW-Precache |
+| 508 | 69 | 55 | 6 months ago | [abstruse](https://github.com/bleenco/abstruse)/801 | Continuous Integration platform built with Node.js and Docker. |
+| 508 | 50 | 16 | 8 hours ago | [super-productivity](https://github.com/johannesjo/super-productivity)/802 | To Do List / Time Tracker with Jira Integration. Makes you super productive!  |
+| 507 | 198 | 10 | 11 days ago | [feedback](https://github.com/ivoviz/feedback)/803 | Feedback tool similar to Google's. |
+| 507 | 22 | 7 | a day ago | [graphql-middleware](https://github.com/prisma/graphql-middleware)/804 | Split up your GraphQL resolvers in middleware functions |
+| 502 | 78 | 8 | 2 months ago | [node-tap](https://github.com/Srar/node-tap)/805 | 基于TypeScript实现的开源SSTap |
+| 501 | 22 | 10 | 1 year, 11 months ago | [prism](https://github.com/salsita/prism)/806 | React / Redux action composition made simple http://salsita.github.io/prism/ |
+| 501 | 52 | 34 | 11 days ago | [mongodb-memory-server](https://github.com/nodkz/mongodb-memory-server)/807 | Spinning up mongod in memory for fast tests. If you run tests in parallel this lib helps to spin up dedicated mongodb servers for every test file in MacOS, *nix, Windows or CI environments (in most cases with zero-config). |
+| 501 | 106 | 11 | 27 days ago | [ng-lazyload-image](https://github.com/tjoskar/ng-lazyload-image)/808 | Lazy image loader for Angular ≥ v2 |
+| 501 | 43 | 7 | 7 months ago | [lerna-yarn-workspaces-example](https://github.com/Quramy/lerna-yarn-workspaces-example)/809 | How to build TypeScript mono-repo project with yarn and lerna |
+| 501 | 29 | 23 | 1 year, 2 months ago | [vscode-power-mode](https://github.com/hoovercj/vscode-power-mode)/810 | Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code. |
+| 500 | 556 | 184 | 20 hours ago | [home-assistant-polymer](https://github.com/home-assistant/home-assistant-polymer)/811 | :lollipop: Polymer frontend for Home Assistant |
+| 498 | 108 | 0 | 18 days ago | [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)/812 | Minimalistic project template to jump start a Node.js back-end application in TypeScript. TSLint, Jest and type definitions included. |
+| 498 | 38 | 11 | a month ago | [ts2c](https://github.com/andrei-markeev/ts2c)/813 | Convert Javascript/TypeScript to C |
+| 497 | 94 | 14 | a month ago | [rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue)/814 | Roll .vue files |
+| 497 | 189 | 20 | 7 months ago | [news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator)/815 | A browser extension that deletes your Facebook news feed and replaces it with a nice quote |
+| 496 | 45 | 12 | 23 days ago | [html-pdf-chrome](https://github.com/westy92/html-pdf-chrome)/816 | HTML to PDF converter via Chrome/Chromium |
+| 495 | 35 | 48 | 11 days ago | [glimmer.js](https://github.com/glimmerjs/glimmer.js)/817 | Central repository for the Glimmer.js project |
+| 493 | 10 | 3 | 2 months ago | [reuse](https://github.com/diegohaz/reuse)/818 | ♻️ Reuse React components to create new ones |
+| 493 | 36 | 11 | 16 days ago | [puppeteer-cluster](https://github.com/thomasdondorf/puppeteer-cluster)/819 | Puppeteer Pool, run a cluster of instances in parallel |
+| 491 | 57 | 15 | 2 years ago | [hexo-theme-one](https://github.com/EYHN/hexo-theme-one)/820 | hexo单页面炫酷主题 |
+| 490 | 94 | 112 | 3 days ago | [electron-webpack](https://github.com/electron-userland/electron-webpack)/821 | Scripts and configurations to compile Electron applications using webpack |
+| 490 | 132 | 4 | 15 days ago | [vscode-angular-snippets](https://github.com/johnpapa/vscode-angular-snippets)/822 | Angular Snippets for VS Code |
+| 489 | 18 | 0 | 6 days ago | [react-simple-animate](https://github.com/bluebill1049/react-simple-animate)/823 | 🎯 React UI animation made easy |
+| 489 | 12 | 14 | 6 months ago | [taskbotjs](https://github.com/eropple/taskbotjs)/824 | The best JavaScript/TypeScript job processing framework on the planet. |
+| 489 | 72 | 8 | 5 days ago | [electrode-native](https://github.com/electrode-io/electrode-native)/825 | A platform to ease integration&delivery of React Native apps in existing mobile applications |
+| 487 | 71 | 8 | a month ago | [ngd](https://github.com/compodoc/ngd)/826 | View the dependencies tree of you Angular application |
+| 487 | 32 | 1 | 1 year, 1 day ago | [Talkie](https://github.com/ahomu/Talkie)/827 | Simple slide presentation library. Responsive scaling & markdown ready. |
+| 487 | 123 | 171 | 2 days ago | [online-go.com](https://github.com/online-go/online-go.com)/828 | Source code for the Online-Go.com web interface |
+| 487 | 55 | 2 | 4 months ago | [linq.ts](https://github.com/kutyel/linq.ts)/829 | 🌀LINQ for TypeScript |
+| 487 | 37 | 56 | 17 days ago | [aurelia](https://github.com/aurelia/aurelia)/830 | Aurelia vNext |
+| 484 | 128 | 77 | 13 days ago | [vscode-eslint](https://github.com/microsoft/vscode-eslint)/831 | VSCode extension to integrate eslint into VSCode |
+| 484 | 117 | 89 | a month ago | [erxes](https://github.com/erxes/erxes)/832 | erxes is an open source growth marketing platform |
+| 481 | 76 | 10 | 1 year, 11 months ago | [gouqi](https://github.com/yuche/gouqi)/833 | 🐸 枸杞 - 伪装成音乐客户端的计时 App |
+| 479 | 49 | 2 | 12 days ago | [graphql-redis-subscriptions](https://github.com/davidyaha/graphql-redis-subscriptions)/834 | A graphql subscriptions implementation using redis and apollo's graphql-subscriptions  |
+| 479 | 32 | 102 | a month ago | [scriptedforms](https://github.com/SimonBiggs/scriptedforms)/835 | Quickly create live-update GUIs for Python packages using Markdown and simple HTML elements. |
+| 477 | 139 | 12 | 3 months ago | [fullstack-graphql-airbnb-clone](https://github.com/benawad/fullstack-graphql-airbnb-clone)/836 | A Fullstack GraphQL Airbnb Clone with React and React Native |
+| 476 | 34 | 6 | 3 months ago | [fs-jetpack](https://github.com/szwacz/fs-jetpack)/837 | Better file system API for Node.js |
+| 475 | 14 | 2 | 22 days ago | [start](https://github.com/deepsweet/start)/838 | :red_circle: Functional task runner for Node.js |
+| 475 | 223 | 59 | 21 days ago | [cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)/839 | Lesson content for cryptozombies.io |
+| 473 | 323 | 0 | 1 year, 8 months ago | [Angular2](https://github.com/AngularLovers/Angular2)/840 | v2.4.10 官方教程配套(angular)源码(ng-book2)同步更新：ng-book2 source code (keywords:angular angular2 ) |
+| 472 | 193 | 60 | 10 days ago | [smart-home-nodejs](https://github.com/actions-on-google/smart-home-nodejs)/841 | A sample of the Smart Home device control APIs in Actions on Google |
+| 471 | 25 | 33 | a day ago | [graphql-modules](https://github.com/Urigo/graphql-modules)/842 | Enterprise Grade Tooling For Your GraphQL Server |
+| 471 | 244 | 7 | 1 year, 2 months ago | [bootstraping-ngx-admin-lte](https://github.com/TwanoO67/bootstraping-ngx-admin-lte)/843 | Angular2,4,6 project with AdminLTE dashboard template (using angular, angular-cli and ngx-admin-lte ) Formerly called 'ng2-admin-lte'.  |
+| 471 | 38 | 7 | 14 days ago | [kiwi](https://github.com/alibaba/kiwi)/844 | 🐤Kiwi-国际化全流程解决方案 |
+| 470 | 202 | 74 | 4 days ago | [PowerBI-JavaScript](https://github.com/microsoft/PowerBI-JavaScript)/845 | JavaScript library for embedding Power BI into your apps. Check out the docs website and wiki for more information. |
+| 470 | 48 | 45 | 11 hours ago | [accounts](https://github.com/accounts-js/accounts)/846 | Fullstack authentication and accounts-management for Javascript. |
+| 470 | 4 | 0 | a month ago | [reattempt](https://github.com/wsmd/reattempt)/847 | 🙏 Give your functions another chance |
+| 470 | 36 | 9 | 5 days ago | [spectator](https://github.com/NetanelBasal/spectator)/848 | 🚀 Angular Tests Made Easy |
+| 469 | 63 | 8 | a month ago | [nvim-typescript](https://github.com/mhartington/nvim-typescript)/849 | Typescript tooling for Neovim |
+| 468 | 18 | 6 | 3 months ago | [focal](https://github.com/grammarly/focal)/850 | Program user interfaces the FRP way. |
+| 468 | 38 | 18 | 3 days ago | [overmind](https://github.com/cerebral/overmind)/851 | Overmind - Frictionless state management |
+| 468 | 78 | 60 | 12 days ago | [preact-material-components](https://github.com/prateekbh/preact-material-components)/852 | preact wrapper for "Material Components for the web" |
+| 467 | 51 | 5 | 8 months ago | [learn-rxjs-operators](https://github.com/RxJS-CN/learn-rxjs-operators)/853 | Learn RxJS 中文版 (通过清晰的示例来学习 RxJS 5 操作符) |
+| 466 | 51 | 7 | 9 months ago | [ng-animate](https://github.com/jiayihu/ng-animate)/854 | 🌙 A collection of cool, reusable and flexible animations for Angular 4.2+ |
+| 465 | 110 | 1 | 16 days ago | [surmon.me.native](https://github.com/surmon-china/surmon.me.native)/855 | 📱 My blog app powered by @facebook/react-native |
+| 464 | 45 | 7 | 1 year, 3 months ago | [rar.js](https://github.com/43081j/rar.js)/856 | Pure-JavaScript RAR reader using AJAX, File API & local access |
+| 464 | 73 | 2 | 10 hours ago | [msgpack-javascript](https://github.com/msgpack/msgpack-javascript)/857 | MessagePack for JavaScript/ECMA-262 |
+| 464 | 153 | 12 | a month ago | [qiniu-wxapp-sdk](https://github.com/gpake/qiniu-wxapp-sdk)/858 | qiniu SDK based on wxapp |
+| 464 | 381 | 20 | 2 months ago | [sample-Groceries](https://github.com/NativeScript/sample-Groceries)/859 | :green_apple: :pineapple: :strawberry: A NativeScript-built iOS and Android app for managing grocery lists |
+| 463 | 85 | 17 | 12 days ago | [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen)/860 | Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web. |
+| 463 | 76 | 1 | 1 year, 6 months ago | [TypeScript-WeChat-Starter](https://github.com/microsoft/TypeScript-WeChat-Starter)/861 | A starter template for TypeScript and WeChat with a detailed README describing how to use the two together. |
+| 461 | 22 | 3 | 22 days ago | [axax](https://github.com/jamiemccrindle/axax)/862 | Async Iterator Extensions for JavaScript e.g. map, reduce, filter, flatMap, etc. |
+| 460 | 36 | 47 | 9 months ago | [evermonkey](https://github.com/michalyao/evermonkey)/863 | Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！ |
+| 460 | 192 | 6 | 4 days ago | [line-bot-sdk-nodejs](https://github.com/line/line-bot-sdk-nodejs)/864 | LINE Messaging API SDK for Node.js |
+| 459 | 1283 | 492 | 3 days ago | [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs)/865 | The source for REST API specifications for Microsoft Azure. |
+| 458 | 15 | 1 | 13 days ago | [use-immer](https://github.com/immerjs/use-immer)/866 | Use immer to drive state with a React hooks |
+| 458 | 48 | 22 | 10 months ago | [typescript-formatter](https://github.com/vvakame/typescript-formatter)/867 | Formatter of TypeScript code |
+| 457 | 15 | 60 | 3 months ago | [maia-yt](https://github.com/YePpHa/maia-yt)/868 | Currently codenamed maia-yt is a userscript (and browser extension) that enhances the user's experience on YouTube. |
+| 457 | 62 | 0 | a month ago | [gulp-shell](https://github.com/sun-zheng-an/gulp-shell)/869 | A handy command line interface for gulp |
+| 457 | 95 | 17 | 3 days ago | [ng-zorro-antd-mobile](https://github.com/NG-ZORRO/ng-zorro-antd-mobile)/870 | A configurable Mobile UI components based on Ant Design Mobile and Angular7. 🐜 |
+| 457 | 79 | 11 | 3 months ago | [angular-pipes](https://github.com/fknop/angular-pipes)/871 | Useful pipes for Angular |
+| 454 | 14 | 0 | 2 months ago | [Json-Function](https://github.com/aykutkardas/Json-Function)/872 | It allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data. |
+| 453 | 55 | 3 | 8 months ago | [MarkdownIME](https://github.com/laobubu/MarkdownIME)/873 | A fresh way to write well-formatted text, by typing markdownized stuff on web. |
+| 451 | 37 | 88 | 4 days ago | [WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio)/874 | Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices |
+| 451 | 38 | 13 | 18 days ago | [vue-notifications](https://github.com/se-panfilov/vue-notifications)/875 | Vue.js agnostic library for non-blocking notifications |
+| 451 | 181 | 89 | 21 hours ago | [ion2-calendar](https://github.com/hsuanxyz/ion2-calendar)/876 | 📅 A date picker components for ionic2 ／ionic3 / ionic4 |
+| 450 | 39 | 7 | 8 days ago | [react-intersection-observer](https://github.com/thebuilder/react-intersection-observer)/877 | React component that monitors when an element enters or leaves the browser viewport. |
+| 449 | 59 | 42 | 18 days ago | [vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators)/878 | TypeScript/ES7 Decorators to create Vuex modules declaratively |
+| 449 | 90 | 9 | 2 months ago | [vue-handsontable-official](https://github.com/handsontable/vue-handsontable-official)/879 | Vue Data Grid with Spreadsheet Look & Feel. Official Vue wrapper for Handsontable. |
+| 447 | 34 | 4 | 25 days ago | [xr](https://github.com/radiosilence/xr)/880 | Ultra-lightweight wrapper around XMLHttpRequest. You should probably use fetch (whatwg-fetch) or RxJS, though. |
+| 447 | 33 | 4 | 3 days ago | [node-casbin](https://github.com/casbin/node-casbin)/881 | An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js |
+| 447 | 60 | 29 | 2 months ago | [ethql](https://github.com/ConsenSys/ethql)/882 | A GraphQL interface to Ethereum :fire: |
+| 446 | 18 | 2 | 11 months ago | [story-graph](https://github.com/incrediblesound/story-graph)/883 | The Graph that Generates Stories |
+| 446 | 106 | 1 | 2 years ago | [learn-typescript](https://github.com/TypeStrong/learn-typescript)/884 | The complete workshop for picking up TypeScript |
+| 446 | 88 | 58 | 2 months ago | [vscode-elm](https://github.com/Krzysztof-Cieslak/vscode-elm)/885 | Elm Language Support for Visual Studio Code |
+| 446 | 75 | 6 | a month ago | [react-accessible-accordion](https://github.com/springload/react-accessible-accordion)/886 | Accessible Accordion component for React |
+| 445 | 153 | 10 | 1 year, 1 month ago | [clicker](https://github.com/lathonez/clicker)/887 | Ionic 2 + @angular/cli Seed Project : Angular2 + Typescript + Karma + Protractor + Travis  |
+| 445 | 104 | 35 | a month ago | [ngx-dnd](https://github.com/swimlane/ngx-dnd)/888 | 🕶  Drag, Drop and Sorting Library for Angular2 and beyond! |
+| 444 | 61 | 94 | 1 year, 7 months ago | [vscode-rust](https://github.com/editor-rs/vscode-rust)/889 | Rust for Visual Studio Code |
+| 443 | 55 | 153 | 11 days ago | [vscode-ng-language-service](https://github.com/angular/vscode-ng-language-service)/890 | VS Code plugin for the Angular Language Service |
+| 443 | 14 | 0 | 5 days ago | [avatars](https://github.com/DiceBear/avatars)/891 | Avatars is an avatar placeholder library for designers and developers. |
+| 443 | 89 | 20 | a day ago | [nodejs.dev](https://github.com/nodejs/nodejs.dev)/892 | A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark. |
+| 442 | 58 | 5 | a month ago | [react-particles-js](https://github.com/Wufe/react-particles-js)/893 | Particles.js for React |
+| 442 | 126 | 1 | 2 years ago | [angular-pizza-creator](https://github.com/toddmotto/angular-pizza-creator)/894 | Source code for Angular advanced Form APIs pizza builder |
+| 441 | 50 | 91 | 4 months ago | [vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml)/895 | OCaml &  Reason support for Visual Studio Code |
+| 440 | 39 | 31 | a month ago | [gistio](https://github.com/idan/gistio)/896 | A gist-backed pretty display for markdown. |
+| 441 | 42 | 1 | 9 months ago | [awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects)/897 | awesome typescript open source projects, includes IDE, Framework, Library, Tool |
+| 439 | 81 | 28 | 1 year, 3 months ago | [ngx-errors](https://github.com/UltimateAngular/ngx-errors)/898 | A declarative validation errors module for reactive forms. |
+| 439 | 50 | 2 | 2 months ago | [react-native-fit-image](https://github.com/huiseoul/react-native-fit-image)/899 | Responsive image component to fit perfectly itself. |
+| 438 | 153 | 12 | 14 hours ago | [ngx-graph](https://github.com/swimlane/ngx-graph)/900 | Graph visualization library for angular |
+| 438 | 39 | 8 | 5 days ago | [pont](https://github.com/alibaba/pont)/901 | 前端接口层工具 |
+| 438 | 42 | 5 | a month ago | [random-js](https://github.com/ckknight/random-js)/902 | A mathematically correct random number generator library for JavaScript. |
+| 438 | 1332 | 6 | a month ago | [moodlemobile2](https://github.com/moodlehq/moodlemobile2)/903 | The Moodle Mobile app version 2.x |
+| 437 | 48 | 144 | 4 days ago | [threema-web](https://github.com/threema-ch/threema-web)/904 | The Threema Web application. |
+| 436 | 29 | 32 | 11 months ago | [vesper](https://github.com/vesper-framework/vesper)/905 | Vesper is a NodeJS framework that helps you to create scalable, maintainable, extensible, declarative and fast GraphQL-based server applications. |
+| 436 | 99 | 36 | 12 days ago | [serverless-domain-manager](https://github.com/amplify-education/serverless-domain-manager)/906 | Serverless plugin for managing custom domains with API Gateways. |
+| 432 | 202 | 6 | 1 year, 1 month ago | [ionic3-chat](https://github.com/hsuanxyz/ionic3-chat)/907 |  ionic3 chat example |
+| 432 | 99 | 116 | 2 months ago | [vscode-php-debug](https://github.com/felixfbecker/vscode-php-debug)/908 | PHP Debug Adapter for Visual Studio Code 🐞⛔ |
+| 431 | 116 | 45 | 2 months ago | [code-gov-web](https://github.com/GSA/code-gov-web)/909 | DEPRECATED 🛑- Federal Source Code policy implementation. |
+| 430 | 46 | 30 | a month ago | [gql2ts](https://github.com/avantcredit/gql2ts)/910 | convert a graphql schema to a typescript definition |
+| 428 | 46 | 46 | 2 days ago | [puppetexplorer](https://github.com/dalen/puppetexplorer)/911 | Puppet web interface written in CoffeeScript using AngularJS |
+| 428 | 14 | 0 | 5 months ago | [autogit](https://github.com/fabiospampinato/autogit)/912 | Define commands, using plugins, to execute across all your repositories. |
+| 427 | 120 | 10 | 6 days ago | [devextreme-angular](https://github.com/DevExpress/devextreme-angular)/913 | Angular UI and data visualization components |
+| 427 | 40 | 29 | 9 months ago | [angular-hmr](https://github.com/PatrickJS/angular-hmr)/914 | :fire: Angular Hot Module Replacement for Hot Module Reloading via @TipeIO |
+| 427 | 47 | 3 | 18 days ago | [raspi-io](https://github.com/nebrius/raspi-io)/915 | An IO plugin for Johnny-Five that provides support for the Raspberry Pi |
+| 426 | 38 | 2 | 1 year, 7 months ago | [Querybase](https://github.com/davideast/Querybase)/916 | Bringing the where statement to the Firebase Database. |
+| 426 | 93 | 44 | 11 months ago | [element-angular](https://github.com/ElemeFE/element-angular)/917 | Element for Angular |
+| 426 | 43 | 48 | 2 years ago | [ng-forward](https://github.com/ngUpgraders/ng-forward)/918 | The default solution for those that want to write Angular 2.x style code in Angular 1.x |
+| 425 | 62 | 7 | a month ago | [pixi-particles](https://github.com/pixijs/pixi-particles)/919 | A particle system for PixiJS |
+| 425 | 49 | 9 | 17 hours ago | [tinymce-vue](https://github.com/tinymce/tinymce-vue)/920 | Official TinyMCE Vue component |
+| 424 | 50 | 34 | 5 days ago | [angular-builders](https://github.com/meltedspark/angular-builders)/921 | A set of custom builders for Angular CLI |
+| 423 | 90 | 98 | 3 months ago | [gitHistoryVSCode](https://github.com/DonJayamanne/gitHistoryVSCode)/922 | Git History for Visual Studio Code |
+| 423 | 101 | 43 | 7 days ago | [jest-preset-angular](https://github.com/thymikee/jest-preset-angular)/923 | Jest configuration preset for Angular projects. |
+| 422 | 117 | 20 | 3 days ago | [manager](https://github.com/linode/manager)/924 | The Linode Cloud Manager |
+| 420 | 153 | 127 | 9 months ago | [angular2-materialize](https://github.com/InfomediaLtd/angular2-materialize)/925 | Angular 2 support for Materialize CSS framework. |
+| 420 | 27 | 10 | 1 year, 11 days ago | [typescript-fsa](https://github.com/aikoven/typescript-fsa)/926 | Type-safe action creator utilities |
+| 419 | 57 | 42 | a month ago | [authelia](https://github.com/clems4ever/authelia)/927 | The Cloud ready multi-factor authentication portal for your Apps |
+| 419 | 67 | 39 | a day ago | [angular-mdc-web](https://github.com/trimox/angular-mdc-web)/928 | Material Web Components for Angular |
+| 418 | 8 | 5 | a month ago | [use-query-params](https://github.com/pbeshai/use-query-params)/929 | React Hook for managing state in URL query parameters with easy serialization. |
+| 417 | 69 | 1 | 2 days ago | [react-circular-progressbar](https://github.com/kevinsqi/react-circular-progressbar)/930 | A circular progress indicator |
+| 417 | 62 | 4 | 11 days ago | [node-maxmind](https://github.com/runk/node-maxmind)/931 | Maxmind GEO Lookup  |
+| 415 | 44 | 59 | 1 year, 4 months ago | [shellshape](https://github.com/timbertson/shellshape)/932 | tiling window manager extension for gnome-shell |
+| 414 | 225 | 52 | 9 days ago | [select](https://github.com/react-component/select)/933 | React Select |
+| 414 | 948 | 21 | 1 year, 3 months ago | [ngrx-store-effects-app](https://github.com/UltimateAngular/ngrx-store-effects-app)/934 | Project seed app for our NGRX application using Angular, NGRX Store, Effects, Router Store. |
+| 413 | 84 | 50 | 3 days ago | [node-pty](https://github.com/microsoft/node-pty)/935 | Fork pseudoterminals in Node.JS |
+| 412 | 77 | 8 | 13 hours ago | [ngx-ui](https://github.com/swimlane/ngx-ui)/936 | 🚀  Style and Component Library for Angular |
+| 411 | 45 | 0 | 6 months ago | [BlockchainStore](https://github.com/brakmic/BlockchainStore)/937 | :moneybag: Retail Store that runs on Ethereum  |
+| 411 | 38 | 28 | 9 months ago | [mobx-persist](https://github.com/pinqy520/mobx-persist)/938 | persist mobx stores |
+| 411 | 30 | 31 | 6 months ago | [jupyterlab-vim](https://github.com/jwkvam/jupyterlab-vim)/939 | :neckbeard: Vim notebook cell bindings for JupyterLab |
+| 410 | 88 | 13 | 9 months ago | [route-recognizer](https://github.com/tildeio/route-recognizer)/940 | A lightweight JavaScript library that matches paths against registered routes. It includes support for dynamic and star segments and nested handlers. |
+| 410 | 49 | 20 | 3 days ago | [TypeChain](https://github.com/ethereum-ts/TypeChain)/941 | 🔌 TypeScript bindings for Ethereum smart contracts |
+| 410 | 40 | 29 | 3 months ago | [ueli](https://github.com/oliverschwendener/ueli)/942 | This is a keystroke launcher for Windows and macOS. |
+| 409 | 10 | 4 | 16 days ago | [rxjs-spy](https://github.com/cartant/rxjs-spy)/943 | A debugging library for RxJS |
+| 409 | 25 | 3 | 11 hours ago | [github-rank](https://github.com/jaywcjlove/github-rank)/944 | Github Users Ranking |
+| 408 | 189 | 8 | 1 year, 8 months ago | [awesome-tutorials](https://github.com/wpcfan/awesome-tutorials)/945 | I am going to write a series of tutorials about web/android/ios development |
+| 407 | 166 | 0 | 1 year, 5 months ago | [ionic-starter-super](https://github.com/ionic-team/ionic-starter-super)/946 | The Ionic 2 Super Starter 🎮 |
+| 407 | 2 | 1 | 3 days ago | [react-useportal](https://github.com/alex-cory/react-useportal)/947 | 🌀 React hook for Portals |
+| 406 | 174 | 57 | 3 months ago | [dialogflow-javascript-client](https://github.com/dialogflow/dialogflow-javascript-client)/948 | JavaScript Web SDK for Dialogflow |
+| 406 | 394 | 4 | 1 year, 2 months ago | [angular2-registration-login-example](https://github.com/cornflourblue/angular2-registration-login-example)/949 | Angular 2/5 User Registration and Login Example |
+| 406 | 231 | 17 | 6 months ago | [cc](https://github.com/myopenresources/cc)/950 | 一个基于angular5.0.0+ng-bootstrap1.0.0-beta.8+bootstrap4.0.0-beta.2+scss的后台管理系统界面(没基础的同学请先自学基础，谢谢！) |
+| 406 | 14 | 10 | a month ago | [parket](https://github.com/ForsakenHarmony/parket)/951 | A library to manage application state, heavily inspired by mobx-state-tree |
+| 405 | 96 | 15 | 20 days ago | [we-vue](https://github.com/tianyong90/we-vue)/952 | we-vue， 不只是 vue.js + weui! |
+| 404 | 19 | 4 | 17 days ago | [env-cmd](https://github.com/toddbluhm/env-cmd)/953 | Setting the environment from a file |
+| 404 | 23 | 11 | 8 days ago | [npm-gui](https://github.com/q-nick/npm-gui)/954 | Graphic tool for managing javascript project dependencies - in a friendly way.  |
+| 404 | 31 | 23 | 3 months ago | [solidarity](https://github.com/infinitered/solidarity)/955 | Solidarity is an environment checker for project dependencies across multiple machines. |
+| 404 | 25 | 25 | 4 days ago | [codemirror.next](https://github.com/codemirror/codemirror.next)/956 | The next generation of the CodeMirror in-browser editor |
+| 404 | 87 | 2 | 12 days ago | [react-bilibili](https://github.com/code-mcx/react-bilibili)/957 | :tv: 高仿B站web移动端 |
+| 403 | 9 | 26 | 2 months ago | [fromfrom](https://github.com/tomi/fromfrom)/958 | A JS library written in TS to transform sequences of data from format to another |
+| 403 | 42 | 37 | 26 days ago | [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane)/959 | :sparkles: A sortable and resizable pane component for React. |
+| 402 | 162 | 1 | a month ago | [angular-material-app](https://github.com/stbui/angular-material-app)/960 | 基于最新Angular 7框架与Material 2技术的web企业级中后台前端应用框架，可以帮助企业提高工作效率，节省开发成本，提升品牌形象。 |
+| 401 | 20 | 1 | 13 days ago | [trends](https://github.com/hanford/trends)/961 | ultra high performance github trending application |
+| 401 | 73 | 22 | 8 days ago | [nest-cli](https://github.com/nestjs/nest-cli)/962 | CLI tool for Nest applications 🍹  |
+| 400 | 5 | 0 | 6 hours ago | [react-virtuoso](https://github.com/petyosi/react-virtuoso)/963 | An elegant virtual list component for React |
+| 400 | 6 | 7 | a month ago | [shiki](https://github.com/octref/shiki)/964 | A beautiful Syntax Highlighter. |
+| 399 | 17 | 2 | 5 months ago | [webpack-deep-scope-analysis-plugin](https://github.com/vincentdchan/webpack-deep-scope-analysis-plugin)/965 | A webpack plugin for deep scope analysis |
+| 399 | 59 | 18 | 12 days ago | [rx-player](https://github.com/canalplus/rx-player)/966 | Smooth/DASH HTML5 Video Player |
+| 398 | 97 | 51 | 25 days ago | [serverless-plugin-typescript](https://github.com/prisma/serverless-plugin-typescript)/967 | Serverless plugin for zero-config Typescript support |
+| 397 | 10 | 6 | 15 days ago | [zustand](https://github.com/react-spring/zustand)/968 | 🐻 Bear necessities for state management in React |
+| 397 | 17 | 27 | 1 year, 8 months ago | [Mstdn](https://github.com/rhysd/Mstdn)/969 | Tiny web-based mastodon client for your desktop |
+| 396 | 113 | 2 | 1 year, 10 months ago | [soundcloud-ngrx](https://github.com/r-park/soundcloud-ngrx)/970 | SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects |
+| 396 | 115 | 46 | 2 months ago | [ionic-image-loader](https://github.com/zyra/ionic-image-loader)/971 | Ionic 2+ Component that loads images in a background thread and caches them for later use |
+| 395 | 75 | 11 | 3 months ago | [json-formatter-js](https://github.com/mohsen1/json-formatter-js)/972 |  Render JSON objects in beautiful HTML (pure JavaScript) |
+| 395 | 63 | 28 | 2 days ago | [typescript-graphql-server](https://github.com/graphql-boilerplates/typescript-graphql-server)/973 | Boilerplate code for scalable, production-ready GraphQL servers written in TypeScript |
+| 395 | 21 | 12 | 6 months ago | [surf](https://github.com/surf-build/surf)/974 | The simplest GitHub build server |
+| 395 | 129 | 112 | 2 years ago | [angular2-highcharts](https://github.com/gevgeny/angular2-highcharts)/975 | :bar_chart: :chart_with_upwards_trend: Highcharts for your Angular project |
+| 395 | 136 | 62 | 3 days ago | [vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node)/976 | Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js |
+| 395 | 83 | 35 | 3 days ago | [examples](https://github.com/pulumi/examples)/977 | Examples of using Pulumi to deploy infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes. |
+| 394 | 146 | 26 | 6 days ago | [Authenticator](https://github.com/Authenticator-Extension/Authenticator)/978 | Authenticator generates 2-Step Verification codes in your browser. |
+| 394 | 79 | 8 | 4 months ago | [swiper](https://github.com/fex-team/swiper)/979 | 轻量的移动端 H5 翻页库 |
+| 394 | 23 | 23 | 10 days ago | [tsconfig-paths](https://github.com/dividab/tsconfig-paths)/980 | Load node modules according to tsconfig paths, in run-time or via API. |
+| 392 | 50 | 1 | 28 days ago | [ngx-loading-bar](https://github.com/aitboudad/ngx-loading-bar)/981 | Automatic page loading / progress bar for Angular |
+| 391 | 24 | 1 | 5 months ago | [libRmath.js](https://github.com/R-js/libRmath.js)/982 | Javascript Pure Implementation of Statistical R "core" numerical libRmath.so |
+| 391 | 47 | 19 | 3 months ago | [geeks-diary](https://github.com/seokju-na/geeks-diary)/983 | TIL writing tool for programmer |
+| 390 | 102 | 72 | 1 year, 1 month ago | [PruneCluster](https://github.com/SINTEF-9012/PruneCluster)/984 | Fast and realtime marker clustering for Leaflet |
+| 389 | 136 | 4 | 8 months ago | [rebirth](https://github.com/greengerong/rebirth)/985 | GreenGerong(破狼) blog with Angular4. |
+| 389 | 14 | 4 | a month ago | [typed-graphqlify](https://github.com/acro5piano/typed-graphqlify)/986 | Build Typed GraphQL Queries in TypeScript. A better TypeScript + GraphQL experience. |
+| 388 | 35 | 46 | 2 months ago | [YamUI](https://github.com/microsoft/YamUI)/987 | Reusable component framework for Yammer.com |
+| 388 | 100 | 0 | a month ago | [onfire.js](https://github.com/hustcc/onfire.js)/988 | :gun: onfire.js is a nano version (~500b) for event-emitter. |
+| 388 | 382 | 1 | 2 days ago | [delon](https://github.com/ng-alain/delon)/989 | Delon is a set of essential modules for ng-alain. |
+| 388 | 22 | 14 | 4 months ago | [prpl-server](https://github.com/Polymer/prpl-server)/990 | An HTTP server for Node designed to serve PRPL apps in production. |
+| 388 | 39 | 24 | 2 days ago | [xlayers](https://github.com/xlayers/xlayers)/991 | View and generate code from Sketch files online |
+| 388 | 168 | 4 | 2 months ago | [angular-commerce](https://github.com/NodeArt/angular-commerce)/992 | Angular components for scaffolding online store |
+| 386 | 62 | 34 | 27 days ago | [gaia](https://github.com/blockstack/gaia)/993 | A decentralized high-performance storage system |
+| 386 | 36 | 22 | 20 days ago | [tslib](https://github.com/microsoft/tslib)/994 | Runtime library for TypeScript helpers. |
+| 386 | 49 | 10 | 2 months ago | [react2angular](https://github.com/coatue-oss/react2angular)/995 | The easiest way to embed React components in Angular 1 apps. |
+| 386 | 122 | 22 | 1 year, 1 month ago | [mobile-drag-drop](https://github.com/timruffles/mobile-drag-drop)/996 | A drop-in shim to allow you to use existing html5 drag'n'drop code with mobile browsers |
+| 384 | 11 | 0 | 7 days ago | [Mosaic](https://github.com/Authman2/Mosaic)/997 | 🎨 A front-end JavaScript library for building user interfaces. |
+| 383 | 175 | 83 | 7 months ago | [date-time-picker](https://github.com/DanielYKPan/date-time-picker)/998 | Angular Date Time Picker (Responsive Design) |
+| 383 | 6 | 20 | 3 months ago | [lynt](https://github.com/saadq/lynt)/999 | ✨ A zero config JavaScript linter with support for Typescript, Flow, and React. |
+| 383 | 100 | 124 | 2 days ago | [salesforcedx-vscode](https://github.com/forcedotcom/salesforcedx-vscode)/1000 | Salesforce Extensions for VS Code |
