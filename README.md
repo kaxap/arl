@@ -34,6 +34,8 @@ Below is the list of lists of most popular repositories, sorted by number of sta
  * [ActionScript](https://github.com/kaxap/arl/blob/master/README-ActionScript.md) 
  * [Elixir](https://github.com/kaxap/arl/blob/master/README-Elixir.md) 
  * [Idris](https://github.com/kaxap/arl/blob/master/README-Idris.md) 
+ * [Elm](https://github.com/kaxap/arl/blob/master/README-Elm.md) 
+ * [PureScript](https://github.com/kaxap/arl/blob/master/README-PureScript.md) 
 
 It is updated every now and then, but generally every 3-4 weeks.
 
