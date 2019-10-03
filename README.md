@@ -37,6 +37,8 @@ Below is the list of lists of most popular repositories, sorted by number of sta
  * [Elm](https://github.com/kaxap/arl/blob/master/README-Elm.md) 
  * [PureScript](https://github.com/kaxap/arl/blob/master/README-PureScript.md) 
  * [Crystal](https://github.com/kaxap/arl/blob/master/README-Crystal.md) 
+ * [D](https://github.com/kaxap/arl/blob/master/README-D.md) 
+ * [Kotlin](https://github.com/kaxap/arl/blob/master/README-Kotlin.md) 
 
 It is updated every now and then, but generally every 3-4 weeks.
 
