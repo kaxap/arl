@@ -736,7 +736,7 @@
 | 200 | 31 | 11 | 3 years ago | [kotlin-nosql](https://github.com/cheptsov/kotlin-nosql)/733 | NoSQL database query and access library for Kotlin |
 | 198 | 24 | 1 | 4 months ago | [TouchEventBus](https://github.com/YvesCheung/TouchEventBus)/734 | 一种处理嵌套和非嵌套滑动冲突的解决方案 |
 | 198 | 7 | 2 | 6 months ago | [autodsl](https://github.com/juanchosaravia/autodsl)/735 | Auto-generate Kotlin DSL |
-| 197 | 11 | 2 | 1 year, 7 months ago | [Prefekt](https://github.com/StylingAndroid/Prefekt)/736 | None |
+| 197 | 11 | 2 | 1 year, 7 months ago | [Prefekt](https://github.com/StylingAndroid/Prefekt)/736 | Prefekt is an Android SharedPreferences library for Kotlin. It's typesafe, has in-memory caching and subscriptions for changes. |
 | 197 | 27 | 0 | 7 days ago | [GeekNews](https://github.com/howshea/GeekNews)/737 | An MVVM practice app that uses Kotlin, DataBinding, LiveData, ViewModel and Room. The app's data source is from https://gank.io/api |
 | 196 | 29 | 0 | 1 year, 2 days ago | [Shrine-MaterialDesign2](https://github.com/florent37/Shrine-MaterialDesign2)/738 | implementation of Material Design 2 Shrine project |
 | 196 | 14 | 12 | 1 year, 1 month ago | [swarmer](https://github.com/gojuno/swarmer)/739 | Reactive tool to create and start multiple Android Emulators in parallel. |
