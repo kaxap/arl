@@ -753,12 +753,7 @@
 | 192 | 26 | 40 | a day ago | [hexagon](https://github.com/hexagonkt/hexagon)/750 | Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications, APIs or queue consumers) that run inside a cloud platform |
 | 192 | 34 | 2 | 2 years ago | [GLRippleView](https://github.com/r21nomi/GLRippleView)/751 | Custom GLSurfaceView for Android to show image with ripple effect using OpenGL. |
 | 192 | 19 | 3 | 5 days ago | [WanAndroid](https://github.com/hegaojian/WanAndroid)/752 | :heart_eyes::heart_eyes::heart_eyes:一位练习时长两年半的安卓练习生根据鸿神提供的WanAndroid开放Api来制作的产品级App,采用Kotlin语言，基于Material Design+AndroidX +MVP+RxJava+Retrofit等框架开发，注释超详细，方便大家练手 |
-| 192 | 67 | 3 | 1 year, 11 months ago | [SELinuxModeChanger](https://github.com/MrBIMC/SELinuxModeChanger)/753 | Simple android app that sets SELinux into desired mode on each boot. 
-
-I opensourced it because google banned such apps from Google Play. 
-Licence is GPLv3. 
-
-Enjoy! |
+| 192 | 67 | 3 | 1 year, 11 months ago | [SELinuxModeChanger](https://github.com/MrBIMC/SELinuxModeChanger)/753 | Simple android app that sets SELinux into desired mode on each boot. I opensourced it because google banned such apps from Google Play. Licence is GPLv3. Enjoy! |
 | 191 | 14 | 12 | 2 years ago | [kwery](https://github.com/andrewoma/kwery)/754 | Kwery is an SQL library for Kotlin |
 | 190 | 18 | 1 | a month ago | [bottomsheet-imagepicker](https://github.com/kroegerama/bottomsheet-imagepicker)/755 | Modern image picker for Android |
 | 190 | 86 | 1 | 23 days ago | [blog-related](https://github.com/phauer/blog-related)/756 | Playground to test things before posting them on my blog |
