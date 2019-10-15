@@ -33,6 +33,7 @@ Below is the list of lists of most popular repositories, sorted by number of sta
  * [Rust](https://github.com/kaxap/arl/blob/master/README-Rust.md) same as previous
  * [ActionScript](https://github.com/kaxap/arl/blob/master/README-ActionScript.md) 
  * [Elixir](https://github.com/kaxap/arl/blob/master/README-Elixir.md) 
+ * [Erlang](https://github.com/kaxap/arl/blob/master/README-Erlang.md) 
  * [Idris](https://github.com/kaxap/arl/blob/master/README-Idris.md) 
  * [Elm](https://github.com/kaxap/arl/blob/master/README-Elm.md) 
  * [PureScript](https://github.com/kaxap/arl/blob/master/README-PureScript.md) 
