@@ -4,6 +4,7 @@ import requests
 import time
 import humanize
 import datetime
+import argparse
 
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3 import Retry
@@ -125,6 +126,12 @@ def generate_readme(language: str, info_provider: RepositoryInformationProvider)
 
 
 if __name__ == "__main__":
+
+    # parse command-line arguments
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--langs", type=str, help="comma-separated language names", default=",".join(languages))
+    args= parser.parse_args()
+    languages = [l.strip() for l in args.langs.split(",")]
 
     provider = RepositoryInformationProvider()
     for lng in languages:
