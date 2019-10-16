@@ -107,12 +107,16 @@ def generate_readme(language: str, info_provider: RepositoryInformationProvider)
             last_commit_date = humanize_date(get_last_commit_date(item.get(KEY_REPOSITORY_FULL_NAME, None)))
             place += 1
 
+            desc = item.get(KEY_DESCRIPTION)
+            if desc:
+                desc = desc.replace("\n", " ")
+
             result.append(TABLE_ITEM_MASK.format(n_stars=item.get(KEY_STAR_COUNT),
                                                  n_forks=item.get(KEY_FORK_COUNT),
                                                  n_issues=item.get(KEY_ISSUE_COUNT),
                                                  name=item.get(KEY_REPOSITORY_NAME),
                                                  url=item.get(KEY_URL),
-                                                 description=item.get(KEY_DESCRIPTION),
+                                                 description=desc,
                                                  place=place,
                                                  updated_at=last_commit_date))
             print(f"{i+1}/{len(data[KEY_ITEMS])}/{n_page}")
