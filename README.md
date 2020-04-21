@@ -7,7 +7,7 @@ Got a new programming language to learn?
 Below is the list of lists of most popular repositories, sorted by number of stars, for each of the most favoured programming languages
 (according to [StackOverflow](https://insights.stackoverflow.com/survey/2017)):
  * [Python](https://github.com/kaxap/arl/blob/master/README-Python.md)
- * [JS](https://github.com/kaxap/arl/blob/master/README-JS.md)
+ * [JavaScript](https://github.com/kaxap/arl/blob/master/README-JavaScript.md)
  * [Java](https://github.com/kaxap/arl/blob/master/README-Java.md)
  * [C](https://github.com/kaxap/arl/blob/master/README-C.md)
  * [C++](https://github.com/kaxap/arl/blob/master/README-CPP.md)
