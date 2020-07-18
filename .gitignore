@@ -2,3 +2,4 @@
 __pycache__/
 last_commit.py
 venv/
+token.json
