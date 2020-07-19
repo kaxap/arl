@@ -44,7 +44,7 @@ Below is the list of lists of most popular repositories, sorted by number of sta
  * [Verilog](https://github.com/kaxap/arl/blob/master/README-Verilog.md) 
  * [VHDL](https://github.com/kaxap/arl/blob/master/README-VHDL.md) 
 
-It is updated every now and then, but generally every 3-4 weeks.
+The list is being updated every Sunday.
 
 ### Can't find your programming language?
 Feel free to create an issue.
