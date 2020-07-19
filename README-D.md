@@ -1,44 +1,44 @@
 ## This is a most popular repository list for D sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 4039 | 220 | 218 | 2 days ago | [tilix](https://github.com/gnunn1/tilix)/1 | A tiling terminal emulator for Linux using GTK+ 3 |
-| 3530 | 361 | 107 | 1 year, 10 months ago | [onedrive](https://github.com/skilion/onedrive)/2 | Free Client for OneDrive on Linux |
-| 2308 | 263 | 15 | 9 days ago | [onedrive](https://github.com/abraunegg/onedrive)/3 | OneDrive Client for Linux |
-| 2259 | 521 | 173 | 16 hours ago | [dmd](https://github.com/dlang/dmd)/4 | dmd D Programming Language compiler |
-| 1153 | 65 | 8 | 7 days ago | [tsv-utils](https://github.com/eBay/tsv-utils)/5 | eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. |
+| 4039 | 221 | 218 | 2 days ago | [tilix](https://github.com/gnunn1/tilix)/1 | A tiling terminal emulator for Linux using GTK+ 3 |
+| 3529 | 361 | 107 | 1 year, 10 months ago | [onedrive](https://github.com/skilion/onedrive)/2 | Free Client for OneDrive on Linux |
+| 2308 | 263 | 15 | 10 days ago | [onedrive](https://github.com/abraunegg/onedrive)/3 | OneDrive Client for Linux |
+| 2259 | 521 | 174 | a day ago | [dmd](https://github.com/dlang/dmd)/4 | dmd D Programming Language compiler |
+| 1153 | 65 | 8 | 8 days ago | [tsv-utils](https://github.com/eBay/tsv-utils)/5 | eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. |
 | 1043 | 78 | 13 | a month ago | [vectorflow](https://github.com/Netflix/vectorflow)/6 | None |
 | 1029 | 280 | 447 | 12 days ago | [vibe.d](https://github.com/vibe-d/vibe.d)/7 | Official vibe.d development |
-| 1010 | 664 | 158 | 2 days ago | [phobos](https://github.com/dlang/phobos)/8 | The standard library of the D programming language |
-| 886 | 201 | 341 | 2 days ago | [ldc](https://github.com/ldc-developers/ldc)/9 | The LLVM-based D Compiler. |
+| 1010 | 663 | 158 | 2 days ago | [phobos](https://github.com/dlang/phobos)/8 | The standard library of the D programming language |
+| 886 | 202 | 341 | 2 days ago | [ldc](https://github.com/ldc-developers/ldc)/9 | The LLVM-based D Compiler. |
 | 618 | 73 | 14 | 3 months ago | [flint](https://github.com/facebookarchive/flint)/10 | An open-source lint program for C++ developed by, and formerly used at Facebook. |
-| 602 | 102 | 96 | 11 months ago | [dlangui](https://github.com/buggins/dlangui)/11 | Cross Platform GUI for D programming language |
-| 580 | 388 | 118 | 3 days ago | [druntime](https://github.com/dlang/druntime)/12 | Low level runtime library for the D programming language |
+| 602 | 103 | 96 | 11 months ago | [dlangui](https://github.com/buggins/dlangui)/11 | Cross Platform GUI for D programming language |
+| 580 | 388 | 118 | 4 days ago | [druntime](https://github.com/dlang/druntime)/12 | Low level runtime library for the D programming language |
 | 515 | 187 | 485 | 9 days ago | [dub](https://github.com/dlang/dub)/13 | Package and build management system for D |
 | 491 | 47 | 7 | 4 years ago | [warp](https://github.com/facebookarchive/warp)/14 | A fast preprocessor for C and C++ |
 | 450 | 37 | 13 | 1 year, 4 months ago | [PowerNex](https://github.com/PowerNex/PowerNex)/15 | An operating system written in D |
 | 449 | 56 | 53 | 3 months ago | [Pegged](https://github.com/PhilippeSigaud/Pegged)/16 | A Parsing Expression Grammar (PEG) module, using the D programming language. |
 | 444 | 54 | 6 | a month ago | [awesome-d](https://github.com/zhaopuming/awesome-d)/17 |   A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python. |
-| 433 | 22 | 5 | 4 days ago | [search-deflector](https://github.com/spikespaz/search-deflector)/18 | A small program that forwards searches from Cortana to your preferred browser and search engine. |
+| 433 | 22 | 5 | 5 days ago | [search-deflector](https://github.com/spikespaz/search-deflector)/18 | A small program that forwards searches from Cortana to your preferred browser and search engine. |
 | 402 | 86 | 23 | 12 days ago | [arsd](https://github.com/adamdruppe/arsd)/19 | This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo. |
 | 394 | 73 | 32 | 4 years ago | [Dash](https://github.com/Circular-Studios/Dash)/20 | A free and open 3D game engine written in D. |
-| 377 | 78 | 35 | 5 days ago | [sambamba](https://github.com/biod/sambamba)/21 | Tools for working with SAM/BAM/CRAM data |
-| 376 | 34 | 26 | 1 year, 6 months ago | [Literate](https://github.com/zyedidia/Literate)/22 | A literate programming tool for any language |
+| 378 | 78 | 35 | 6 days ago | [sambamba](https://github.com/biod/sambamba)/21 | Tools for working with SAM/BAM/CRAM data |
+| 377 | 35 | 26 | 1 year, 6 months ago | [Literate](https://github.com/zyedidia/Literate)/22 | A literate programming tool for any language |
 | 369 | 83 | 6 | 8 months ago | [RABCDAsm](https://github.com/CyberShadow/RABCDAsm)/23 | Robust ABC (ActionScript Bytecode) [Dis-]Assembler |
 | 362 | 54 | 12 | 1 year, 8 months ago | [gdc](https://github.com/D-Programming-GDC/gdc)/24 | GNU D Compiler |
-| 339 | 22 | 2 | 2 days ago | [silq](https://github.com/eth-sri/silq)/25 | None |
-| 324 | 47 | 116 | 11 months ago | [dlangide](https://github.com/buggins/dlangide)/26 | D language IDE based on DlangUI |
+| 341 | 22 | 2 | 2 days ago | [silq](https://github.com/eth-sri/silq)/25 | None |
+| 324 | 48 | 116 | 11 months ago | [dlangide](https://github.com/buggins/dlangide)/26 | D language IDE based on DlangUI |
 | 323 | 82 | 3 | 7 years ago | [xomb](https://github.com/xomboverlord/xomb)/27 | An exokernel operating system written in D |
-| 306 | 62 | 35 | 28 days ago | [DCD](https://github.com/dlang-community/DCD)/28 | The D Completion Daemon is an auto-complete program for the D programming language |
-| 298 | 99 | 22 | a month ago | [DFeed](https://github.com/CyberShadow/DFeed)/29 | D news aggregator, newsgroup client, web newsreader and IRC bot |
-| 298 | 27 | 53 | 5 days ago | [Dplug](https://github.com/AuburnSounds/Dplug)/30 | Make audio plug-ins with D |
+| 306 | 62 | 35 | 29 days ago | [DCD](https://github.com/dlang-community/DCD)/28 | The D Completion Daemon is an auto-complete program for the D programming language |
+| 300 | 27 | 53 | 5 days ago | [Dplug](https://github.com/AuburnSounds/Dplug)/29 | Make audio plug-ins with D |
+| 298 | 99 | 22 | a month ago | [DFeed](https://github.com/CyberShadow/DFeed)/30 | D news aggregator, newsgroup client, web newsreader and IRC bot |
 | 286 | 40 | 0 | 2 years ago | [vk](https://github.com/vk-cli/vk)/31 | A console client for vk.com |
 | 273 | 65 | 30 | 4 months ago | [GtkD](https://github.com/gtkd-developers/GtkD)/32 | GtkD is a D binding and OO wrapper of GTK+ |
-| 272 | 14 | 7 | 3 days ago | [Compiler](https://github.com/DigitalMars/Compiler)/33 | None |
-| 254 | 344 | 66 | 9 days ago | [dlang.org](https://github.com/dlang/dlang.org)/34 | Pages for the dlang.org website, home of the D Programming Language |
+| 272 | 14 | 7 | 4 days ago | [Compiler](https://github.com/DigitalMars/Compiler)/33 | None |
+| 254 | 345 | 66 | 9 days ago | [dlang.org](https://github.com/dlang/dlang.org)/34 | Pages for the dlang.org website, home of the D Programming Language |
 | 245 | 58 | 1 | 14 days ago | [visuald](https://github.com/dlang/visuald)/35 | Visual D - Visual Studio extension for the D programming language |
-| 221 | 28 | 10 | a day ago | [hunt-framework](https://github.com/huntlabs/hunt-framework)/36 | A Web framework for D Programming Language. Full-stack high-performance. |
+| 221 | 28 | 10 | 2 days ago | [hunt-framework](https://github.com/huntlabs/hunt-framework)/36 | A Web framework for D Programming Language. Full-stack high-performance. |
 | 221 | 41 | 3 | 3 months ago | [dhcptest](https://github.com/CyberShadow/dhcptest)/37 | Cross-platform DHCP test client |
-| 216 | 66 | 78 | a day ago | [D-Scanner](https://github.com/dlang-community/D-Scanner)/38 | Swiss-army knife for D source code |
+| 216 | 66 | 78 | 2 days ago | [D-Scanner](https://github.com/dlang-community/D-Scanner)/38 | Swiss-army knife for D source code |
 | 201 | 14 | 20 | 10 days ago | [Drill](https://github.com/yatima1460/Drill)/39 | Search files without indexing, but clever crawling |
 | 200 | 17 | 0 | 3 months ago | [mir](https://github.com/libmir/mir)/40 | Mir (backports): Sparse tensors, Hoffman |
 | 183 | 49 | 0 | 4 months ago | [gfm](https://github.com/d-gamedev-team/gfm)/41 | 3D maths for D gamedev |
@@ -49,7 +49,7 @@
 | 173 | 38 | 50 | 4 years ago | [LuaD](https://github.com/JakobOvrum/LuaD)/46 | Bridge to Lua from the D programming language |
 | 169 | 73 | 1 | 5 years ago | [HideAndroidEmulator](https://github.com/MindMac/HideAndroidEmulator)/47 | Slides and demo resources presented at HITCON 2014 & XCON 2014-"Guess Where I am-Android模拟器躲避的检测与应对" |
 | 168 | 14 | 2 | 4 years ago | [trimcheck](https://github.com/CyberShadow/trimcheck)/48 | SSD TRIM check tool for Windows |
-| 166 | 37 | 78 | 20 days ago | [dfmt](https://github.com/dlang-community/dfmt)/49 | Dfmt is a formatter for D source code |
+| 166 | 37 | 78 | 21 days ago | [dfmt](https://github.com/dlang-community/dfmt)/49 | Dfmt is a formatter for D source code |
 | 165 | 7 | 1 | 3 months ago | [Diamond](https://github.com/DiamondMVC/Diamond)/50 | Diamond is a full-stack web-framework written in The D Programming Language using vibe.d |
 | 159 | 136 | 21 | 9 days ago | [tools](https://github.com/dlang/tools)/51 | Ancillary tools for the D programming language compiler |
 | 159 | 45 | 48 | 1 year, 2 months ago | [SDC](https://github.com/SDC-Developers/SDC)/52 | The Stupid D Compiler |
@@ -61,7 +61,7 @@
 | 128 | 17 | 25 | 12 days ago | [godot-d](https://github.com/godot-d/godot-d)/58 | D language bindings for the Godot Engine's GDNative API |
 | 127 | 7 | 2 | a month ago | [tree.d](https://github.com/nin-jin/tree.d)/59 | Tree - simple fast compact user-readable binary-safe extensible structural format |
 | 124 | 20 | 0 | 2 days ago | [mir-algorithm](https://github.com/libmir/mir-algorithm)/60 | Dlang Core Library |
-| 122 | 77 | 12 | 19 days ago | [DIPs](https://github.com/dlang/DIPs)/61 | D Improvement Proposals |
+| 122 | 77 | 12 | 20 days ago | [DIPs](https://github.com/dlang/DIPs)/61 | D Improvement Proposals |
 | 122 | 20 | 26 | a month ago | [pyd](https://github.com/ariovistus/pyd)/62 | Interoperability between Python and D |
 | 120 | 11 | 17 | 3 months ago | [spasm](https://github.com/skoppe/spasm)/63 | Write single page applications in D that compile to webassembly |
 | 115 | 33 | 18 | 2 months ago | [msgpack-d](https://github.com/msgpack/msgpack-d)/64 | MessagePack for D / msgpack.org[D] |
@@ -76,7 +76,7 @@
 | 101 | 5 | 2 | 1 year, 5 months ago | [atrium](https://github.com/gecko0307/atrium)/73 | FPS with physics based puzzles |
 | 101 | 12 | 22 | 2 months ago | [dls](https://github.com/d-language-server/dls)/74 | A Language Server implementation for D |
 | 100 | 13 | 5 | 11 months ago | [tkd](https://github.com/nomad-software/tkd)/75 | GUI toolkit for the D programming language based on Tcl/Tk |
-| 97 | 18 | 17 | 4 months ago | [dcompute](https://github.com/libmir/dcompute)/76 | DCompute: Native execution of D on GPUs and other Accelerators |
+| 97 | 19 | 17 | 4 months ago | [dcompute](https://github.com/libmir/dcompute)/76 | DCompute: Native execution of D on GPUs and other Accelerators |
 | 95 | 29 | 17 | 2 months ago | [D-YAML](https://github.com/dlang-community/D-YAML)/77 | YAML parser and emitter for the D programming language |
 | 93 | 38 | 15 | 6 years ago | [Zurmo](https://github.com/zurmo/Zurmo)/78 | None |
 | 92 | 23 | 48 | 1 year, 9 months ago | [DSFML](https://github.com/Jebbs/DSFML)/79 | DSFML is a D binding of SFML  |
@@ -84,7 +84,7 @@
 | 90 | 8 | 7 | 2 years ago | [mir-glas](https://github.com/libmir/mir-glas)/81 | [Experimental] LLVM-accelerated Generic Linear Algebra Subprograms |
 | 87 | 14 | 0 | 4 months ago | [DustMite](https://github.com/CyberShadow/DustMite)/82 | D source code minimization tool |
 | 86 | 41 | 76 | 2 months ago | [core](https://github.com/dlang-tour/core)/83 | D Language online tour (https://tour.dlang.org/) and online editor (https://run.dlang.io/) |
-| 85 | 46 | 24 | 2 days ago | [libdparse](https://github.com/dlang-community/libdparse)/84 | Library for lexing and parsing D source code |
+| 85 | 46 | 24 | 3 days ago | [libdparse](https://github.com/dlang-community/libdparse)/84 | Library for lexing and parsing D source code |
 | 84 | 36 | 19 | 1 year, 4 months ago | [Tango-D2](https://github.com/SiegeLord/Tango-D2)/85 | A port of the Tango library to D2 |
 | 82 | 11 | 16 | 1 year, 4 days ago | [scriptlike](https://github.com/Abscissa/scriptlike)/86 | Utility library to help you write script-like programs in D |
 | 82 | 2 | 5 | 9 months ago | [cerealed](https://github.com/atilaneves/cerealed)/87 | Powerful binary serialisation library for D |
@@ -103,7 +103,7 @@
 | 73 | 4 | 16 | 2 months ago | [tanya](https://github.com/caraus-ecms/tanya)/100 | GC-free, high-performance D library: Containers, networking, metaprogramming, memory management, utilities |
 | 73 | 15 | 39 | 2 years ago | [dcv](https://github.com/libmir/dcv)/101 | Computer Vision Library for D Programming Language |
 | 73 | 20 | 26 | 3 months ago | [SDLang-D](https://github.com/Abscissa/SDLang-D)/102 | An SDLang (Simple Declarative Language) library for D |
-| 72 | 75 | 10 | 8 days ago | [installer](https://github.com/dlang/installer)/103 | dmd installers for various systems |
+| 72 | 75 | 10 | 9 days ago | [installer](https://github.com/dlang/installer)/103 | dmd installers for various systems |
 | 71 | 16 | 19 | 3 months ago | [orange](https://github.com/jacob-carlborg/orange)/104 | A serialization library for the D programming language. |
 | 70 | 10 | 7 | a month ago | [hunt](https://github.com/huntlabs/hunt)/105 | A refined core library for D programming language. The module has concurrency / collections / event / io / logging / text / serialization and more. |
 | 68 | 21 | 27 | a month ago | [botan](https://github.com/etcimon/botan)/106 | Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc. |
@@ -165,14 +165,14 @@
 | 43 | 17 | 4 | 7 months ago | [BioD](https://github.com/biod/BioD)/162 | A D library for computational biology and bioinformatics  |
 | 42 | 10 | 6 | 3 months ago | [mood](https://github.com/mihails-strasuns/mood)/163 | PoC blog implementation in D + vibe.d |
 | 42 | 4 | 0 | 4 months ago | [AnotherCraft](https://github.com/CZDanol/AnotherCraft)/164 | A Minecraft clone demo |
-| 42 | 1 | 0 | 1 year, 6 months ago | [fearless](https://github.com/atilaneves/fearless)/165 | Safe concurrency in D (`shared` made easier) |
-| 42 | 2 | 1 | 5 years ago | [ctpg](https://github.com/youxkei/ctpg)/166 | Compile-Time Parser Generator in D programming language. |
-| 41 | 8 | 44 | 5 years ago | [DQuick](https://github.com/D-Quick/DQuick)/167 | A GUI library written in D |
-| 41 | 7 | 0 | a month ago | [bindbc-sdl](https://github.com/BindBC/bindbc-sdl)/168 | A configurable set of dynamic and static D bindings, to the SDL library and its satellites, which are compatible with @nogc, nothrow, and BetterC. |
+| 42 | 7 | 0 | a month ago | [bindbc-sdl](https://github.com/BindBC/bindbc-sdl)/165 | A configurable set of dynamic and static D bindings, to the SDL library and its satellites, which are compatible with @nogc, nothrow, and BetterC. |
+| 42 | 1 | 0 | 1 year, 6 months ago | [fearless](https://github.com/atilaneves/fearless)/166 | Safe concurrency in D (`shared` made easier) |
+| 42 | 2 | 1 | 5 years ago | [ctpg](https://github.com/youxkei/ctpg)/167 | Compile-Time Parser Generator in D programming language. |
+| 41 | 8 | 44 | 5 years ago | [DQuick](https://github.com/D-Quick/DQuick)/168 | A GUI library written in D |
 | 41 | 11 | 0 | 2 years ago | [DerelictImgui](https://github.com/extrawurst/DerelictImgui)/169 | Dynamic bindings to the cimgui library (a c-api for IMGUI) for the D programming language |
 | 41 | 10 | 1 | a month ago | [sumtype](https://github.com/pbackus/sumtype)/170 | A sum type for the D programming language |
 | 41 | 8 | 0 | 1 year, 6 months ago | [fpconv](https://github.com/night-shift/fpconv)/171 | Fast and accurate double to string conversion. |
-| 41 | 1 | 0 | 20 hours ago | [CIBYL](https://github.com/senselogic/CIBYL)/172 | Lightweight curly-bracket language which compiles to Ruby and Crystal. |
+| 41 | 1 | 0 | a day ago | [CIBYL](https://github.com/senselogic/CIBYL)/172 | Lightweight curly-bracket language which compiles to Ruby and Crystal. |
 | 40 | 1 | 27 | 1 year, 10 days ago | [kpd](https://github.com/felixangell/kpd)/173 | an old compiler for Krug written in D - a prototype version |
 | 40 | 30 | 15 | 2 months ago | [ddb](https://github.com/pszturmaj/ddb)/174 | Database access for D2. Currently, only PostgreSQL client. |
 | 40 | 22 | 1 | 3 years ago | [glamour](https://github.com/Dav1dde/glamour)/175 | OpenGL wrapper for the D programming language. |
@@ -181,7 +181,7 @@
 | 40 | 6 | 1 | 9 months ago | [dscripten](https://github.com/Ace17/dscripten)/178 | An example of D to asmjs using emscripten |
 | 40 | 13 | 3 | 6 years ago | [WebSocketWebRTCRecorders](https://github.com/benwtrent/WebSocketWebRTCRecorders)/179 | These are modifications of existing recording scripts that allow recording through websockets, not just downloading Blobs |
 | 39 | 13 | 0 | 6 years ago | [NDKBegining](https://github.com/viacheslavtitov/NDKBegining)/180 | None |
-| 39 | 14 | 21 | a day ago | [dextool](https://github.com/joakim-brannstrom/dextool)/181 | Suite of C/C++ tooling built on LLVM/Clang |
+| 39 | 14 | 21 | 2 days ago | [dextool](https://github.com/joakim-brannstrom/dextool)/181 | Suite of C/C++ tooling built on LLVM/Clang |
 | 39 | 5 | 2 | 4 years ago | [backtrace-d](https://github.com/yazd/backtrace-d)/182 | backtrace-d provides a pretty backtrace for D applications running under Linux |
 | 38 | 2 | 3 | 9 years ago | [rudy](https://github.com/tomash/rudy)/183 | enable and ease writing Ruby native extensions in D language |
 | 38 | 37 | 13 | 11 months ago | [openssl](https://github.com/D-Programming-Deimos/openssl)/184 | D version of the C headers for openssl |
@@ -209,8 +209,8 @@
 | 36 | 4 | 0 | 27 days ago | [tiny_jit](https://github.com/MrSmith33/tiny_jit)/206 | Compiler / JIT / Linker. Zero dependencies |
 | 36 | 13 | 5 | 1 year, 7 months ago | [DAllegro5](https://github.com/SiegeLord/DAllegro5)/207 | D binding to the Allegro5 game development library |
 | 35 | 5 | 0 | 1 year, 3 months ago | [dinu](https://github.com/weltensturm/dinu)/208 | None |
-| 35 | 6 | 2 | 2 years ago | [libuid](https://github.com/mogud/libuid)/209 | Complete OO interfaces of libui(https://github.com/andlabs/libui) in D |
-| 35 | 8 | 0 | 5 years ago | [arduino-trackpoint-extended](https://github.com/rampadc/arduino-trackpoint-extended)/210 | Arduino library used to interface with a TrackPoint/PS2 mouse. Supports stream mode. |
+| 35 | 8 | 0 | 5 years ago | [arduino-trackpoint-extended](https://github.com/rampadc/arduino-trackpoint-extended)/209 | Arduino library used to interface with a TrackPoint/PS2 mouse. Supports stream mode. |
+| 35 | 6 | 2 | 2 years ago | [libuid](https://github.com/mogud/libuid)/210 | Complete OO interfaces of libui(https://github.com/andlabs/libui) in D |
 | 34 | 8 | 6 | 5 years ago | [cl4d](https://github.com/Trass3r/cl4d)/211 | object-oriented wrapper for the OpenCL C API written in the D programming language |
 | 35 | 1 | 1 | a month ago | [d_android](https://github.com/adamdruppe/d_android)/212 | Helper programs and interfaces for using D on Android systems |
 | 35 | 8 | 0 | 2 months ago | [openmethods.d](https://github.com/jll63/openmethods.d)/213 | Open multi-methods for the D language. OPEN! Multi is cool. Open is great. |
@@ -222,11 +222,11 @@
 | 35 | 1 | 17 | 2 years ago | [feedback](https://github.com/FeedBackDevs/feedback)/219 | FeedBack - Music & Rhythm Game Engine |
 | 34 | 16 | 6 | 1 year, 5 months ago | [daemonize](https://github.com/NCrashed/daemonize)/220 | Simplifies daemons and services creation for GNU/Linux and Windows |
 | 34 | 7 | 5 | 1 year, 11 months ago | [darg](https://github.com/jasonwhite/darg)/221 | Robust command line argument parsing for D. |
-| 34 | 21 | 26 | 2 months ago | [dproto](https://github.com/msoucy/dproto)/222 | D Protocol Buffer mixins to create structures at compile time |
-| 34 | 4 | 3 | 5 years ago | [lock-free](https://github.com/MartinNowak/lock-free)/223 | Lock-Free data structures |
-| 33 | 3 | 2 | 5 months ago | [libhttp2](https://github.com/etcimon/libhttp2)/224 | HTTP/2 library in D, translated from nghttp2 |
-| 33 | 9 | 0 | 3 months ago | [terminal-emulator](https://github.com/adamdruppe/terminal-emulator)/225 | A terminal emulator in D. |
-| 33 | 2 | 4 | 23 days ago | [beamui](https://github.com/dayllenger/beamui)/226 | [WIP] Web-inspired declarative desktop UIs in the D language |
+| 34 | 2 | 4 | 23 days ago | [beamui](https://github.com/dayllenger/beamui)/222 | [WIP] Web-inspired declarative desktop UIs in the D language |
+| 34 | 21 | 26 | 2 months ago | [dproto](https://github.com/msoucy/dproto)/223 | D Protocol Buffer mixins to create structures at compile time |
+| 34 | 4 | 3 | 5 years ago | [lock-free](https://github.com/MartinNowak/lock-free)/224 | Lock-Free data structures |
+| 33 | 3 | 2 | 5 months ago | [libhttp2](https://github.com/etcimon/libhttp2)/225 | HTTP/2 library in D, translated from nghttp2 |
+| 33 | 9 | 0 | 3 months ago | [terminal-emulator](https://github.com/adamdruppe/terminal-emulator)/226 | A terminal emulator in D. |
 | 33 | 4 | 1 | 6 years ago | [multiplex](https://github.com/tcptr/multiplex)/227 | multi-directional shooter written in D |
 | 33 | 5 | 1 | 7 months ago | [optional](https://github.com/aliak00/optional)/228 | An optional/maybe type for D |
 | 32 | 7 | 2 | 5 months ago | [quantities](https://github.com/biozic/quantities)/229 | A library to work with quantities and units. |
@@ -234,7 +234,7 @@
 | 31 | 2 | 4 | 4 years ago | [DerelictLibui](https://github.com/extrawurst/DerelictLibui)/231 | Dynamic Binding for libui (https://github.com/andlabs/libui) in D |
 | 31 | 4 | 8 | 2 months ago | [rund](https://github.com/dragon-lang/rund)/232 | A compiler-wrapper that runs and caches D programs. |
 | 31 | 7 | 3 | 3 years ago | [docopt.d](https://github.com/docopt/docopt.d)/233 | None |
-| 30 | 42 | 1 | 6 years ago | [android-client](https://github.com/ngvoice/android-client)/234 | SIP-Client for Android (based on CSipSimple) |
+| 30 | 43 | 1 | 6 years ago | [android-client](https://github.com/ngvoice/android-client)/234 | SIP-Client for Android (based on CSipSimple) |
 | 30 | 13 | 0 | 12 days ago | [mir-random](https://github.com/libmir/mir-random)/235 | Advanced Random Number Generators |
 | 30 | 5 | 1 | 1 year, 2 months ago | [vgrep](https://github.com/gnunn1/vgrep)/236 | A grep graphical user interface written in D and GTK 3 |
 | 30 | 11 | 10 | 2 years ago | [dstddb](https://github.com/cruisercoder/dstddb)/237 | A proposed standard database interface and library for D |
@@ -257,8 +257,8 @@
 | 28 | 0 | 1 | 5 days ago | [backgammony](https://github.com/jonathanballs/backgammony)/254 | A backgammon client with multiplayer support |
 | 27 | 4 | 9 | 4 years ago | [d-colorize](https://github.com/yamadapc/d-colorize)/255 | A port of Ruby's colorize library to D. |
 | 27 | 10 | 3 | 3 years ago | [twitter4d](https://github.com/alphaKAI/twitter4d)/256 | The Simple Twitter API Wrapper Library For D Programming Language. |
-| 27 | 2 | 1 | 3 years ago | [hprose-d](https://github.com/hprose/hprose-d)/257 | Hprose for Dlang |
-| 27 | 2 | 7 | 3 months ago | [libpp](https://github.com/PolyplexEngine/libpp)/258 | The main library of polyplex |
+| 27 | 2 | 7 | 3 months ago | [libpp](https://github.com/PolyplexEngine/libpp)/257 | The main library of polyplex |
+| 27 | 2 | 1 | 3 years ago | [hprose-d](https://github.com/hprose/hprose-d)/258 | Hprose for Dlang |
 | 27 | 12 | 0 | 5 years ago | [levgen-benchmarks](https://github.com/logicchains/levgen-benchmarks)/259 | Crude random level generation benchmarks of C, Go, D and Rust. |
 | 27 | 9 | 6 | 2 years ago | [dchip](https://github.com/d-gamedev-team/dchip)/260 | The D2 port of the Chipmunk2D game physics library. |
 | 26 | 9 | 14 | 5 months ago | [std_data_json](https://github.com/dlang-community/std_data_json)/261 | Phobos candidate JSON implementation. |
@@ -280,21 +280,21 @@
 | 25 | 6 | 7 | 3 years ago | [Dirk](https://github.com/JakobOvrum/Dirk)/277 | IRC library for the D programming language |
 | 25 | 3 | 0 | a month ago | [bindbc-glfw](https://github.com/BindBC/bindbc-glfw)/278 | A configurable dynamic and static D binding to the GLFW library which is compatible with @nogc, nothrow, and BetterC. |
 | 25 | 1 | 0 | 4 months ago | [qscript](https://github.com/Nafees10/qscript)/279 | A simple scripting language |
-| 25 | 2 | 1 | 19 days ago | [sqlite-d](https://github.com/UplinkCoder/sqlite-d)/280 | a native sqlite database reader |
+| 25 | 2 | 1 | 20 days ago | [sqlite-d](https://github.com/UplinkCoder/sqlite-d)/280 | a native sqlite database reader |
 | 24 | 5 | 0 | a month ago | [bindbc-opengl](https://github.com/BindBC/bindbc-opengl)/281 | A configurable dynamic D binding to the OpenGL library which compatible with -betterC, @noGC and nothrow.  |
 | 24 | 9 | 7 | 11 months ago | [mysql-lited](https://github.com/eBookingServices/mysql-lited)/282 | Lightweight native mysql driver written in D |
 | 24 | 7 | 1 | 11 months ago | [SecureD](https://github.com/LightBender/SecureD)/283 | A cryptography library for D that encourages secure implementations through simple interfaces. |
 | 24 | 6 | 3 | 1 year, 8 months ago | [fio](https://github.com/jasonwhite/fio)/284 | IO streams for D. |
 | 24 | 1 | 3 | 3 years ago | [deadcode](https://github.com/jcd/deadcode)/285 | The Deadcode text editor |
 | 24 | 5 | 1 | 2 months ago | [raylib-d](https://github.com/onroundit/raylib-d)/286 | (static) D binding for Raylib 3.0. |
-| 24 | 4 | 4 | 12 hours ago | [commandr](https://github.com/robik/commandr)/287 | A modern, powerful commmand line argument parser 🔨 |
+| 24 | 4 | 4 | 20 hours ago | [commandr](https://github.com/robik/commandr)/287 | A modern, powerful commmand line argument parser 🔨 |
 | 24 | 6 | 0 | 6 years ago | [thBase](https://github.com/Ingrater/thBase)/288 | my GC free standard library for the D 2.0 programming language |
 | 24 | 3 | 1 | 6 years ago | [uv.d](https://github.com/bithavoc/uv.d)/289 | libuv bindings for D powering heaploop.io |
 | 24 | 13 | 20 | 5 years ago | [presto-odbc](https://github.com/facebookarchive/presto-odbc)/290 | Presto ODBC Driver |
 | 24 | 11 | 1 | 5 years ago | [libev](https://github.com/D-Programming-Deimos/libev)/291 | A full-featured and high-performance event loop that is loosely modelled after libevent, but without its limitations and bugs. |
 | 24 | 8 | 5 | a month ago | [protobuf-d](https://github.com/dcarp/protobuf-d)/292 | Protocol Buffers Compiler Plugin and Support Library for D |
 | 24 | 4 | 1 | 6 years ago | [BraLa](https://github.com/Dav1dde/BraLa)/293 | A minecraft SMP Client written in D (License: GPLv3) – BraLa, Minecraft on a lower (WTF?) level |
-| 24 | 4 | 3 | 3 days ago | [grpc-dlang](https://github.com/huntlabs/grpc-dlang)/294 | Grpc for D programming language, hunt-http library based. |
+| 24 | 4 | 3 | 4 days ago | [grpc-dlang](https://github.com/huntlabs/grpc-dlang)/294 | Grpc for D programming language, hunt-http library based. |
 | 24 | 11 | 0 | 6 years ago | [AndroidObjectRecognition](https://github.com/thorikawa/AndroidObjectRecognition)/295 | App to demo using android camera and recognize specific object. |
 | 24 | 2 | 4 | 2 years ago | [DWin](https://github.com/Vild/DWin)/296 | A tiled window manager written in D. |
 | 24 | 12 | 24 | 3 years ago | [Programming-in-D](https://github.com/DlangRen/Programming-in-D)/297 | The Chinese Translation Project of "Programming in D". |
@@ -307,7 +307,7 @@
 | 23 | 8 | 3 | 3 years ago | [witchcraft](https://github.com/Mihail-K/witchcraft)/304 | Extensions to runtime reflection in D. |
 | 22 | 11 | 3 | 22 days ago | [taggedalgebraic](https://github.com/s-ludwig/taggedalgebraic)/305 | A generic "tagged union" implementation with transparent operator forwarding. |
 | 22 | 5 | 1 | a month ago | [gtkDcoding](https://github.com/rontarrant/gtkDcoding)/306 | Sample code from gtkDcoding.com, a tutorial blog for new GtkD programmers. |
-| 22 | 2 | 2 | 1 year, 8 days ago | [DMocks-revived](https://github.com/QAston/DMocks-revived)/307 | A mocking framework for the D programming language |
+| 22 | 2 | 2 | 1 year, 9 days ago | [DMocks-revived](https://github.com/QAston/DMocks-revived)/307 | A mocking framework for the D programming language |
 | 22 | 2 | 3 | 10 months ago | [cook2](https://github.com/gecko0307/cook2)/308 | Build automation tool for D |
 | 22 | 2 | 1 | 1 year, 9 months ago | [soupply](https://github.com/sel-project/soupply)/309 | Data for automatically generated libraries and documentation for Minecraft (Bedrock Engine) and Minecraft: Java Edition |
 | 22 | 10 | 7 | 1 year, 2 months ago | [DAuth](https://github.com/Abscissa/DAuth)/310 | Salted Hased Password Library for D |
@@ -326,7 +326,7 @@
 | 21 | 4 | 2 | 7 years ago | [pfft](https://github.com/jkrempus/pfft)/323 | None |
 | 21 | 1 | 0 | 5 years ago | [darwinkit](https://github.com/proger/darwinkit)/324 | Darwin scripts toolbox |
 | 21 | 10 | 5 | 10 months ago | [oauth](https://github.com/thaven/oauth)/325 | OAuth2 client library for D |
-| 21 | 0 | 0 | 20 hours ago | [GENERIS](https://github.com/senselogic/GENERIS)/326 | Versatile Go code generator. |
+| 21 | 0 | 0 | a day ago | [GENERIS](https://github.com/senselogic/GENERIS)/326 | Versatile Go code generator. |
 | 21 | 0 | 19 | 1 year, 5 months ago | [LibertyEngine](https://github.com/GabyForceQ/LibertyEngine)/327 | A game engine created by one developer for all developers to make their life easier. |
 | 21 | 5 | 0 | 6 years ago | [DWinProgramming](https://github.com/WebFreak001/DWinProgramming)/328 | Fork because original project doesn't exist anymore |
 | 21 | 10 | 0 | 6 years ago | [ril_analyzer](https://github.com/narseo/ril_analyzer)/329 | None |
@@ -376,19 +376,19 @@
 | 18 | 3 | 0 | 1 year, 4 months ago | [DerelictCUDA](https://github.com/DerelictOrg/DerelictCUDA)/373 | Dynamic bindings to the CUDA library for the D Programming Language. |
 | 18 | 3 | 3 | 4 months ago | [depend](https://github.com/funkwerk/depend)/374 | Dependency Tool for D |
 | 18 | 13 | 3 | 3 years ago | [cairoD](https://github.com/cairoD/cairoD)/375 | cairo bindings and wrappers for the D programming language |
-| 18 | 1 | 0 | 9 months ago | [GothicFreeAim](https://github.com/szapp/GothicFreeAim)/376 | Free aiming for the video games Gothic and Gothic 2. |
-| 18 | 3 | 2 | 10 months ago | [SMM2CourseInjector](https://github.com/Chrs2324/SMM2CourseInjector)/377 | None |
+| 18 | 3 | 2 | 10 months ago | [SMM2CourseInjector](https://github.com/Chrs2324/SMM2CourseInjector)/376 | None |
+| 18 | 1 | 0 | 9 months ago | [GothicFreeAim](https://github.com/szapp/GothicFreeAim)/377 | Free aiming for the video games Gothic and Gothic 2. |
 | 18 | 3 | 1 | 9 years ago | [uoc](https://github.com/wh5a/uoc)/378 | Ubuntu On ChromeOS |
 | 18 | 4 | 3 | 1 year, 5 months ago | [date-parser](https://github.com/JackStouffer/date-parser)/379 | Parse date strings of any format in dlang |
 | 18 | 1 | 1 | 3 years ago | [mockcord](https://github.com/b1naryth1ef/mockcord)/380 | A Mock Discord backend for integration testing. |
-| 18 | 2 | 6 | 1 year, 7 days ago | [painlessjson](https://github.com/BlackEdder/painlessjson)/381 | D library for converting any custom types to and from JSON the painless way. |
+| 18 | 2 | 6 | 1 year, 8 days ago | [painlessjson](https://github.com/BlackEdder/painlessjson)/381 | D library for converting any custom types to and from JSON the painless way. |
 | 18 | 3 | 0 | 4 years ago | [Dvorm](https://github.com/rikkimax/Dvorm)/382 | An orm for D with Vibe support. |
 | 18 | 8 | 4 | 5 years ago | [imaged](https://github.com/callumenator/imaged)/383 | Image loading routines |
-| 18 | 3 | 2 | a day ago | [hunt-http](https://github.com/huntlabs/hunt-http)/384 | http library for D, support http 1.1 / http 2.0 (http2) / websocket server and client. |
+| 18 | 3 | 2 | 2 days ago | [hunt-http](https://github.com/huntlabs/hunt-http)/384 | http library for D, support http 1.1 / http 2.0 (http2) / websocket server and client. |
 | 18 | 1 | 6 | 2 years ago | [Avocado](https://github.com/TeamAvocado/Avocado)/385 | A 3D engine written in the D programming language |
-| 18 | 3 | 3 | 21 days ago | [numir](https://github.com/libmir/numir)/386 | numpy-like API wrappers of mir |
-| 18 | 2 | 0 | a month ago | [bindbc-loader](https://github.com/BindBC/bindbc-loader)/387 | A cross-platform, @nogc, nothrow, BetterC compatible shared library loading API. |
-| 18 | 7 | 2 | 6 years ago | [TASDK](https://github.com/AltimorTASDK/TASDK)/388 | Making a new repository because Orvid went MIA |
+| 18 | 2 | 0 | a month ago | [bindbc-loader](https://github.com/BindBC/bindbc-loader)/386 | A cross-platform, @nogc, nothrow, BetterC compatible shared library loading API. |
+| 18 | 7 | 2 | 6 years ago | [TASDK](https://github.com/AltimorTASDK/TASDK)/387 | Making a new repository because Orvid went MIA |
+| 18 | 3 | 3 | 22 days ago | [numir](https://github.com/libmir/numir)/388 | numpy-like API wrappers of mir |
 | 17 | 4 | 7 | 4 months ago | [archive](https://github.com/rcythr/archive)/389 | An archive library that supports zip, tar, and targz written entirely in D (with underlying gz implementation from zlib). |
 | 17 | 13 | 0 | 6 years ago | [PsContinuous](https://github.com/andrenatal/PsContinuous)/390 | Continuous speech recognition on Android using pocketsphinx |
 | 17 | 7 | 1 | 3 years ago | [mysql.d](https://github.com/Paxa/mysql.d)/391 | mysql library binding for D programming language |
@@ -397,68 +397,68 @@
 | 17 | 4 | 0 | 3 years ago | [Idiotmatic-D](https://github.com/Hackerpilot/Idiotmatic-D)/394 | Almost Idiomatic D Code |
 | 17 | 6 | 0 | 5 years ago | [ti-module-share](https://github.com/VincentWenShuo/ti-module-share)/395 | Open IOS native share activity window for titanium |
 | 17 | 3 | 1 | 7 years ago | [decimal](https://github.com/andersonpd/decimal)/396 | A D programming language implementation of the General Decimal Arithmetic specification. |
-| 17 | 5 | 2 | 4 months ago | [bolts](https://github.com/aliak00/bolts)/397 | Meta programming utilities for the D programming language |
-| 17 | 2 | 2 | 5 months ago | [repl.d](https://github.com/Sobaya007/repl.d)/398 | REPL of D programming language |
+| 17 | 2 | 2 | 5 months ago | [repl.d](https://github.com/Sobaya007/repl.d)/397 | REPL of D programming language |
+| 17 | 5 | 2 | 4 months ago | [bolts](https://github.com/aliak00/bolts)/398 | Meta programming utilities for the D programming language |
 | 17 | 3 | 1 | 6 years ago | [mod_usdt](https://github.com/joyent/mod_usdt)/399 | DTrace provider for Apache |
 | 17 | 5 | 13 | 9 months ago | [jsonizer](https://github.com/rcorre/jsonizer)/400 | D language json serializer |
 | 17 | 5 | 1 | 4 years ago | [bindings](https://github.com/smjgordon/bindings)/401 | API Bindings for D |
 | 17 | 1 | 0 | 2 years ago | [entitysysd](https://github.com/claudemr/entitysysd)/402 | D Entity/Component System engine |
 | 17 | 3 | 1 | 5 years ago | [ofxOSCSync](https://github.com/danzeeeman/ofxOSCSync)/403 | This is an addon developed by Andreas Muller and Dan Moore for syncing multiple clients via OSC messages |
 | 17 | 0 | 2 | 1 year, 4 months ago | [arrogant](https://github.com/2night/arrogant)/404 | Fully conformant HTML5 dom library with CSS4 selectors |
-| 17 | 10 | 122 | 2 days ago | [agora](https://github.com/bpfkorea/agora)/405 | Node implementation for BOA CoinNet |
+| 17 | 10 | 122 | 3 days ago | [agora](https://github.com/bpfkorea/agora)/405 | Node implementation for BOA CoinNet |
 | 17 | 4 | 1 | 11 months ago | [aedi](https://github.com/aermicioi/aedi)/406 | A dependency injection container |
 | 17 | 13 | 1 | 7 years ago | [simplewebcam](https://github.com/hai046/simplewebcam)/407 | android 摄像头项目 来源https://bitbucket.org/neuralassembly/simplewebcam/src   |
 | 17 | 5 | 0 | 7 years ago | [Wormhol](https://github.com/p0nce/Wormhol)/408 | 3D local multiplayer snake game.  |
 | 17 | 8 | 5 | 3 years ago | [dini](https://github.com/robik/dini)/409 | Customisable INI parser library :ok_hand: |
 | 17 | 15 | 2 | 2 months ago | [directx-d](https://github.com/evilrat666/directx-d)/410 | [DISCONTINUED] DirectX bindings for D |
 | 16 | 4 | 2 | 3 years ago | [dlogg](https://github.com/NCrashed/dlogg)/411 | Logging utilities that aimed to be used in highly loaded applications |
-| 16 | 8 | 0 | 26 days ago | [DLangKoans](https://github.com/ilmanzo/DLangKoans)/412 | D Programming Language Koans. Inspired from RubyKoans, CppKoans, GoKoans; an educational unit test suite for the D Programming Language |
+| 16 | 8 | 0 | 27 days ago | [DLangKoans](https://github.com/ilmanzo/DLangKoans)/412 | D Programming Language Koans. Inspired from RubyKoans, CppKoans, GoKoans; an educational unit test suite for the D Programming Language |
 | 16 | 2 | 0 | 4 years ago | [Skadi.d](https://github.com/Skadi-d/Skadi.d)/413 | Skadi MVC Web Framework D language |
 | 16 | 1 | 0 | 2 years ago | [embd](https://github.com/carlor/embd)/414 | A low-level API for embedding D code into text. |
 | 16 | 2 | 0 | 1 year, 9 months ago | [d-wasm-todomvc-poc](https://github.com/skoppe/d-wasm-todomvc-poc)/415 | A wasm todomvc proof of concept using D's webassembly target |
 | 16 | 8 | 7 | 4 years ago | [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan)/416 | Auto-generated D bindings for Vulkan |
 | 16 | 5 | 1 | 6 years ago | [Spacecraft](https://github.com/Ingrater/Spacecraft)/417 | A 3d multiplayer deathmatch space game written in D 2.0 |
 | 16 | 0 | 2 | 5 months ago | [evael](https://github.com/evael-dev/evael)/418 | Simple 2D/3D game engine written in the D programming language. |
-| 16 | 1 | 1 | 21 days ago | [D2DGame](https://github.com/WebFreak001/D2DGame)/419 | 2D Game Engine for Ludum Dare written in D |
+| 16 | 1 | 1 | 22 days ago | [D2DGame](https://github.com/WebFreak001/D2DGame)/419 | 2D Game Engine for Ludum Dare written in D |
 | 16 | 8 | 12 | a month ago | [userman](https://github.com/rejectedsoftware/userman)/420 | Embeddable user management library and authentication provider (user registration, activation mails, password authentication) |
 | 16 | 0 | 0 | a month ago | [numbernine](https://github.com/myfreeweb/numbernine)/421 | Attempt at a desktop shell and stuff; abandoned in favor of https://github.com/DankBSD/waysmoke |
 | 16 | 4 | 2 | 3 years ago | [DerelictBgfx](https://github.com/DerelictOrg/DerelictBgfx)/422 | DerelictBgfx is a dynamic binding to the bgfx library, which abstracts the graphics API. |
 | 16 | 7 | 0 | 2 years ago | [DerelictLua](https://github.com/DerelictOrg/DerelictLua)/423 | Dynamic bindings to the Lua scripting language library. |
 | 16 | 3 | 0 | 8 months ago | [cbor-d](https://github.com/MrSmith33/cbor-d)/424 | Concise Binary Object Representation (CBOR) binary data format for D language |
 | 16 | 0 | 4 | 3 months ago | [audio-formats](https://github.com/AuburnSounds/audio-formats)/425 | Audio decoding library for D, with streaming support. |
-| 16 | 3 | 0 | 8 years ago | [dio](https://github.com/9rnsr/dio)/426 | D I/O library |
-| 16 | 3 | 0 | 4 years ago | [VulkanTriangleD](https://github.com/MaikKlein/VulkanTriangleD)/427 | A ready to use Vulkan triangle example in D |
-| 16 | 3 | 4 | 6 years ago | [Plot2kill](https://github.com/dsimcha/Plot2kill)/428 | 2D Plotting Library for DFL and GTKD |
-| 16 | 11 | 44 | 18 days ago | [dlang-bot](https://github.com/dlang/dlang-bot)/429 | dlang-bot for automated bugzilla, github, and trello references | |
-| 16 | 2 | 6 | 5 years ago | [window](https://github.com/Devisualization/window)/430 | Window creational toolkit, cross platform. Written in D. |
-| 16 | 0 | 0 | 4 years ago | [XSort](https://github.com/Xinok/XSort)/431 | A collection of sorting algorithms for the D programming language |
-| 16 | 2 | 1 | 3 months ago | [cachetools](https://github.com/ikod/cachetools)/432 | python cachetools for dlang |
-| 16 | 2 | 1 | 2 years ago | [bayonet](https://github.com/eth-sri/bayonet)/433 | Probabilistic Computer Network Analysis |
-| 16 | 0 | 2 | a month ago | [during](https://github.com/tchaloupka/during)/434 | dlang io_uring wrapper |
-| 16 | 3 | 10 | 2 years ago | [dido](https://github.com/p0nce/dido)/435 | Simplistic toy editor for D. Failed and abandoned, use anything else instead! |
-| 15 | 1 | 3 | 2 years ago | [DBuildStat](https://github.com/CyberShadow/DBuildStat)/436 | Tools to measure and visualize performance of building D programs |
-| 15 | 2 | 1 | 2 months ago | [RPUI](https://github.com/sysint64/RPUI)/437 | User Interface Library based on OpenGL |
-| 15 | 0 | 2 | 1 year, 7 months ago | [tictac](https://github.com/dkorpel/tictac)/438 | D port of meta tic-tac-toe game written for the GNU assembler |
-| 15 | 11 | 5 | 8 years ago | [dunit](https://github.com/jmcabo/dunit)/439 | D Unit Testing Framework - class MyTest {mixin TestMixin; testMethod(){assert(true);} } |
-| 15 | 2 | 0 | 1 year, 5 months ago | [DerelictSteamworks](https://github.com/extrawurst/DerelictSteamworks)/440 | Dynamic bindings to the Steamworks API for the D programming language |
-| 15 | 3 | 2 | 9 days ago | [hunt-net](https://github.com/huntlabs/hunt-net)/441 | High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll). |
-| 15 | 1 | 0 | 6 years ago | [Cmsed](https://github.com/rikkimax/Cmsed)/442 | A component library for Vibe that functions as a CMS. |
-| 15 | 1 | 0 | 6 years ago | [Torvald3d-SSAO-OpenGL-ES-3.0](https://github.com/Torvald3d/Torvald3d-SSAO-OpenGL-ES-3.0)/443 | None |
-| 15 | 2 | 0 | 3 years ago | [pack-d](https://github.com/robik/pack-d)/444 | Binary I/O library for D Languge :dart: |
-| 15 | 0 | 5 | 6 years ago | [nitro](https://github.com/Zoadian/nitro)/445 | An Entity Component System for the D Programming Language. http://www.boost.org/LICENSE_1_0.txt |
-| 15 | 1 | 0 | 17 days ago | [tardy](https://github.com/atilaneves/tardy)/446 | Runtime polymorphism without inheritance (structs, ints, classes, ...) |
-| 15 | 2 | 0 | 5 years ago | [BatchEngine](https://github.com/vova616/BatchEngine)/447 | 2D Game Engine in D. |
-| 15 | 10 | 6 | 6 months ago | [gir-to-d](https://github.com/gtkd-developers/gir-to-d)/448 | Create D bindings from GObject introspection files |
-| 15 | 5 | 3 | 5 years ago | [ylink](https://github.com/yebblies/ylink)/449 | Experimental OMF linker written in D |
-| 15 | 5 | 2 | 7 years ago | [ICE](https://github.com/kiith-sa/ICE)/450 | Top-down shooter in D  |
-| 15 | 1 | 0 | 8 years ago | [netd](https://github.com/nazriel/netd)/451 | Networking package including http, ftp, smtp for D programming lanaguage |
-| 15 | 0 | 0 | 3 years ago | [msgpack-ll](https://github.com/jpf91/msgpack-ll)/452 | A low level @nogc, nothrow, @safe, pure and betterC compatible msgpack.org[D] library |
-| 15 | 5 | 6 | 2 years ago | [FactorioData-dlang](https://github.com/Murnto/FactorioData-dlang)/453 | None |
-| 15 | 5 | 19 | 7 years ago | [gff3-pltools](https://github.com/mamarjan/gff3-pltools)/454 | A fast parallel GFF3 parser |
-| 15 | 2 | 0 | 4 years ago | [unencumbered](https://github.com/atilaneves/unencumbered)/455 | Enencumbered allows Cucumber to support step definitions written in D |
-| 15 | 20 | 10 | 5 months ago | [d](https://github.com/exercism/d)/456 | Exercism exercises in D. |
-| 15 | 2 | 3 | 2 years ago | [xxhash-d](https://github.com/repeatedly/xxhash-d)/457 | D implementation of xxhash |
-| 15 | 0 | 0 | 5 months ago | [SponSkrub](https://github.com/faissaloo/SponSkrub)/458 | Strip advertisements from downloaded YouTube videos |
+| 16 | 0 | 0 | 5 months ago | [SponSkrub](https://github.com/faissaloo/SponSkrub)/426 | Strip advertisements from downloaded YouTube videos |
+| 16 | 3 | 0 | 8 years ago | [dio](https://github.com/9rnsr/dio)/427 | D I/O library |
+| 16 | 3 | 0 | 4 years ago | [VulkanTriangleD](https://github.com/MaikKlein/VulkanTriangleD)/428 | A ready to use Vulkan triangle example in D |
+| 16 | 3 | 4 | 6 years ago | [Plot2kill](https://github.com/dsimcha/Plot2kill)/429 | 2D Plotting Library for DFL and GTKD |
+| 16 | 11 | 44 | 19 days ago | [dlang-bot](https://github.com/dlang/dlang-bot)/430 | dlang-bot for automated bugzilla, github, and trello references | |
+| 16 | 2 | 6 | 5 years ago | [window](https://github.com/Devisualization/window)/431 | Window creational toolkit, cross platform. Written in D. |
+| 16 | 0 | 0 | 4 years ago | [XSort](https://github.com/Xinok/XSort)/432 | A collection of sorting algorithms for the D programming language |
+| 16 | 2 | 1 | 3 months ago | [cachetools](https://github.com/ikod/cachetools)/433 | python cachetools for dlang |
+| 16 | 2 | 1 | 2 years ago | [bayonet](https://github.com/eth-sri/bayonet)/434 | Probabilistic Computer Network Analysis |
+| 16 | 0 | 2 | a month ago | [during](https://github.com/tchaloupka/during)/435 | dlang io_uring wrapper |
+| 16 | 3 | 10 | 2 years ago | [dido](https://github.com/p0nce/dido)/436 | Simplistic toy editor for D. Failed and abandoned, use anything else instead! |
+| 15 | 1 | 3 | 2 years ago | [DBuildStat](https://github.com/CyberShadow/DBuildStat)/437 | Tools to measure and visualize performance of building D programs |
+| 15 | 2 | 1 | 2 months ago | [RPUI](https://github.com/sysint64/RPUI)/438 | User Interface Library based on OpenGL |
+| 15 | 0 | 2 | 1 year, 7 months ago | [tictac](https://github.com/dkorpel/tictac)/439 | D port of meta tic-tac-toe game written for the GNU assembler |
+| 15 | 11 | 5 | 8 years ago | [dunit](https://github.com/jmcabo/dunit)/440 | D Unit Testing Framework - class MyTest {mixin TestMixin; testMethod(){assert(true);} } |
+| 15 | 2 | 0 | 1 year, 5 months ago | [DerelictSteamworks](https://github.com/extrawurst/DerelictSteamworks)/441 | Dynamic bindings to the Steamworks API for the D programming language |
+| 15 | 3 | 2 | 9 days ago | [hunt-net](https://github.com/huntlabs/hunt-net)/442 | High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll). |
+| 15 | 1 | 0 | 6 years ago | [Cmsed](https://github.com/rikkimax/Cmsed)/443 | A component library for Vibe that functions as a CMS. |
+| 15 | 1 | 0 | 6 years ago | [Torvald3d-SSAO-OpenGL-ES-3.0](https://github.com/Torvald3d/Torvald3d-SSAO-OpenGL-ES-3.0)/444 | None |
+| 15 | 2 | 0 | 3 years ago | [pack-d](https://github.com/robik/pack-d)/445 | Binary I/O library for D Languge :dart: |
+| 15 | 0 | 5 | 6 years ago | [nitro](https://github.com/Zoadian/nitro)/446 | An Entity Component System for the D Programming Language. http://www.boost.org/LICENSE_1_0.txt |
+| 15 | 1 | 0 | 17 days ago | [tardy](https://github.com/atilaneves/tardy)/447 | Runtime polymorphism without inheritance (structs, ints, classes, ...) |
+| 15 | 2 | 0 | 5 years ago | [BatchEngine](https://github.com/vova616/BatchEngine)/448 | 2D Game Engine in D. |
+| 15 | 10 | 6 | 6 months ago | [gir-to-d](https://github.com/gtkd-developers/gir-to-d)/449 | Create D bindings from GObject introspection files |
+| 15 | 5 | 3 | 5 years ago | [ylink](https://github.com/yebblies/ylink)/450 | Experimental OMF linker written in D |
+| 15 | 5 | 2 | 7 years ago | [ICE](https://github.com/kiith-sa/ICE)/451 | Top-down shooter in D  |
+| 15 | 1 | 0 | 8 years ago | [netd](https://github.com/nazriel/netd)/452 | Networking package including http, ftp, smtp for D programming lanaguage |
+| 15 | 0 | 0 | 3 years ago | [msgpack-ll](https://github.com/jpf91/msgpack-ll)/453 | A low level @nogc, nothrow, @safe, pure and betterC compatible msgpack.org[D] library |
+| 15 | 5 | 6 | 2 years ago | [FactorioData-dlang](https://github.com/Murnto/FactorioData-dlang)/454 | None |
+| 15 | 5 | 19 | 7 years ago | [gff3-pltools](https://github.com/mamarjan/gff3-pltools)/455 | A fast parallel GFF3 parser |
+| 15 | 2 | 0 | 4 years ago | [unencumbered](https://github.com/atilaneves/unencumbered)/456 | Enencumbered allows Cucumber to support step definitions written in D |
+| 15 | 20 | 10 | 5 months ago | [d](https://github.com/exercism/d)/457 | Exercism exercises in D. |
+| 15 | 2 | 3 | 2 years ago | [xxhash-d](https://github.com/repeatedly/xxhash-d)/458 | D implementation of xxhash |
 | 15 | 3 | 13 | 4 years ago | [Juno-Windows-Class-Library](https://github.com/JesseKPhillips/Juno-Windows-Class-Library)/459 | A class library for Windows programming written in D |
 | 15 | 2 | 0 | 1 year, 1 month ago | [nogc](https://github.com/atilaneves/nogc)/460 | Utilities to write `@nogc` code |
 | 15 | 1 | 0 | 6 months ago | [dagon-demo](https://github.com/gecko0307/dagon-demo)/461 | Test app for Dagon game framework |
@@ -516,45 +516,45 @@
 | 13 | 9 | 1 | 6 years ago | [SwiftVideoPlayer](https://github.com/awojnowski/SwiftVideoPlayer)/513 | AVPlayer implementation in Swift |
 | 13 | 3 | 1 | 1 year, 8 months ago | [xcb-d](https://github.com/Vild/xcb-d)/514 | A port of XCB to D |
 | 13 | 7 | 1 | 4 years ago | [d_hdf5](https://github.com/Laeeth/d_hdf5)/515 | D wrappers for HDF5 - aiming ultimately at idiomatic D style.  thanks to Fritjers |
-| 13 | 1 | 0 | 6 years ago | [stdex](https://github.com/Poita/stdex)/516 | General libraries for the D Programming Language |
-| 13 | 1 | 2 | 3 years ago | [easyMesheD](https://github.com/BlackEdder/easyMesheD)/517 | Library to create a simple mesh network on Arduino/esp8266 |
-| 13 | 3 | 0 | 5 years ago | [TiYouTube](https://github.com/boardmain/TiYouTube)/518 | Titanium IOS Youtube video player |
-| 13 | 3 | 0 | 5 months ago | [directx](https://github.com/auroragraphics/directx)/519 | Aurora DirectX Interface |
-| 13 | 5 | 0 | 2 years ago | [talestrakt](https://github.com/talestra/talestrakt)/520 | Traducciones y reimplementaciones de Tales Translations |
-| 13 | 1 | 2 | 1 year, 4 months ago | [profdump](https://github.com/AntonMeep/profdump)/521 | Processes profiling output of the D compiler |
-| 13 | 1 | 1 | 2 years ago | [Argon](https://github.com/markuslaker/Argon)/522 | A processor for command-line arguments, an alternative to Getopt, written in D |
-| 13 | 5 | 0 | 2 years ago | [faster-command-line-tools-in-nim](https://github.com/euantorano/faster-command-line-tools-in-nim)/523 | A comparison of Nim's performance against the "Faster Command Line Tools in D" blog post found here: http://dlang.org/blog/2017/05/24/faster-command-line-tools-in-d/ |
-| 13 | 11 | 11 | 11 months ago | [euvm](https://github.com/coverify/euvm)/524 | Embedded UVM (D Language port of IEEE UVM 1.0) |
-| 13 | 1 | 3 | 4 years ago | [scheme-d](https://github.com/p0nce/scheme-d)/525 | Scheme interpreter in D. So incomplete it burns. Use chickenclisp package instead! |
-| 13 | 7 | 6 | 1 year, 6 months ago | [msgpack-rpc-d](https://github.com/msgpack-rpc/msgpack-rpc-d)/526 | MessagePack-RPC for D |
-| 13 | 1 | 0 | 5 days ago | [boilerplate](https://github.com/funkwerk/boilerplate)/527 | None |
-| 13 | 0 | 0 | 1 year, 5 months ago | [beast-dragon](https://github.com/beast-lang/beast-dragon)/528 | Beast language compiler & reference |
-| 12 | 6 | 1 | 3 years ago | [DerelictFI](https://github.com/DerelictOrg/DerelictFI)/529 | A dynamic binding to FreeImage for the D Programming Language. |
-| 12 | 1 | 1 | 6 years ago | [mongo-d-driver](https://github.com/itiu/mongo-d-driver)/530 | alpha |
-| 12 | 8 | 8 | 1 year, 11 months ago | [kafka-d](https://github.com/tamediadigital/kafka-d)/531 | kafka-d is a D Kafka client that depends on the vibe.d framework. |
-| 11 | 1 | 0 | 8 years ago | [crypto](https://github.com/apartridge/crypto)/532 | Cryptographic library in D, contains SHA functions, AES and RSA skeleton. |
-| 12 | 0 | 4 | 5 years ago | [phobosx](https://github.com/phobos-x/phobosx)/533 | Experimental modules that are intended for the phobos standard library of D |
-| 12 | 2 | 1 | 1 year, 11 months ago | [bearlibterminal-dlang](https://github.com/moon-chilled/bearlibterminal-dlang)/534 | A BearLibTerminal wrapper for D |
-| 12 | 2 | 1 | a month ago | [dssg](https://github.com/kambrium/dssg)/535 | A static site generator with a different approach |
-| 12 | 1 | 0 | 2 years ago | [uwu](https://github.com/Member1221/uwu)/536 | An esoteric "programming language", write machine code using the characters "u" and "w" |
-| 12 | 3 | 0 | 5 years ago | [dstruct](https://github.com/w0rp/dstruct)/537 | D Data Structures |
-| 12 | 6 | 13 | 1 year, 7 months ago | [faster_lmm_d](https://github.com/genetics-statistics/faster_lmm_d)/538 | A faster lmm for GWAS. Supports GPU backend. |
-| 12 | 2 | 1 | 5 years ago | [yajl-d](https://github.com/repeatedly/yajl-d)/539 | YAJL binding for D |
-| 12 | 1 | 0 | 2 years ago | [enumap](https://github.com/rcorre/enumap)/540 | A D type that provides a lightweight mapping of enum members to values. |
-| 12 | 11 | 0 | 6 years ago | [YPlayer](https://github.com/harishyarlagaddas/YPlayer)/541 | Source for YPlayer (DLNA Media Player on Android) |
-| 12 | 0 | 0 | 3 months ago | [3ds-hello-dlang](https://github.com/TheGag96/3ds-hello-dlang)/542 | A 3DS homebrew example written in D! |
-| 12 | 5 | 9 | 7 years ago | [nucular](https://github.com/meh/nucular)/543 | A reactor in D. |
-| 12 | 1 | 1 | 4 months ago | [wayland-d](https://github.com/rtbo/wayland-d)/544 | Wayland bindings for D |
-| 12 | 2 | 0 | 3 months ago | [mir-optim](https://github.com/libmir/mir-optim)/545 | BetterC Nonlinear Optimization Framework |
-| 12 | 0 | 3 | 6 years ago | [FostomEngine](https://github.com/NCrashed/FostomEngine)/546 | Voxel based game engine written in D2 programming language. |
-| 12 | 0 | 0 | 8 months ago | [pipes](https://github.com/b1naryth1ef/pipes)/547 | a small utilitarian language focused on data processing via streams |
-| 12 | 1 | 0 | 3 years ago | [p2p-gui](https://github.com/mwarning/p2p-gui)/548 | A remote web interface for MLdonkey, aMule, rTorrent, Transmission and giFT.  |
-| 12 | 1 | 1 | 2 years ago | [flatbuffers](https://github.com/huntlabs/flatbuffers)/549 | D Programming Language implementation of the google flatbuffers library |
-| 12 | 2 | 0 | 8 years ago | [dranges](https://github.com/MartinNowak/dranges)/550 | Philippe Sigaud's dranges |
-| 12 | 0 | 0 | 8 days ago | [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)/551 | Dynamic and static D bindings for bgfx |
-| 12 | 16 | 3 | 15 hours ago | [dsymbol](https://github.com/dlang-community/dsymbol)/552 | Basic symbol lookup/resolution for libdparse |
-| 12 | 1 | 9 | 3 years ago | [daffodil](https://github.com/BenjaminSchaaf/daffodil)/553 | A image processing library for D |
-| 12 | 0 | 0 | 1 year, 5 months ago | [tvm](https://github.com/alphaKAI/tvm)/554 | Toy virtual machine and JIT Engine with JavaScript Like Syntax |
+| 13 | 0 | 0 | 1 year, 5 months ago | [tvm](https://github.com/alphaKAI/tvm)/516 | Toy virtual machine and JIT Engine with JavaScript Like Syntax |
+| 13 | 1 | 0 | 6 years ago | [stdex](https://github.com/Poita/stdex)/517 | General libraries for the D Programming Language |
+| 13 | 1 | 2 | 3 years ago | [easyMesheD](https://github.com/BlackEdder/easyMesheD)/518 | Library to create a simple mesh network on Arduino/esp8266 |
+| 13 | 3 | 0 | 5 years ago | [TiYouTube](https://github.com/boardmain/TiYouTube)/519 | Titanium IOS Youtube video player |
+| 13 | 3 | 0 | 5 months ago | [directx](https://github.com/auroragraphics/directx)/520 | Aurora DirectX Interface |
+| 13 | 5 | 0 | 2 years ago | [talestrakt](https://github.com/talestra/talestrakt)/521 | Traducciones y reimplementaciones de Tales Translations |
+| 13 | 1 | 2 | 1 year, 4 months ago | [profdump](https://github.com/AntonMeep/profdump)/522 | Processes profiling output of the D compiler |
+| 13 | 1 | 1 | 2 years ago | [Argon](https://github.com/markuslaker/Argon)/523 | A processor for command-line arguments, an alternative to Getopt, written in D |
+| 13 | 5 | 0 | 2 years ago | [faster-command-line-tools-in-nim](https://github.com/euantorano/faster-command-line-tools-in-nim)/524 | A comparison of Nim's performance against the "Faster Command Line Tools in D" blog post found here: http://dlang.org/blog/2017/05/24/faster-command-line-tools-in-d/ |
+| 13 | 11 | 11 | 11 months ago | [euvm](https://github.com/coverify/euvm)/525 | Embedded UVM (D Language port of IEEE UVM 1.0) |
+| 13 | 1 | 3 | 4 years ago | [scheme-d](https://github.com/p0nce/scheme-d)/526 | Scheme interpreter in D. So incomplete it burns. Use chickenclisp package instead! |
+| 13 | 7 | 6 | 1 year, 6 months ago | [msgpack-rpc-d](https://github.com/msgpack-rpc/msgpack-rpc-d)/527 | MessagePack-RPC for D |
+| 13 | 1 | 0 | 6 days ago | [boilerplate](https://github.com/funkwerk/boilerplate)/528 | None |
+| 13 | 0 | 0 | 1 year, 5 months ago | [beast-dragon](https://github.com/beast-lang/beast-dragon)/529 | Beast language compiler & reference |
+| 12 | 6 | 1 | 3 years ago | [DerelictFI](https://github.com/DerelictOrg/DerelictFI)/530 | A dynamic binding to FreeImage for the D Programming Language. |
+| 12 | 1 | 1 | 6 years ago | [mongo-d-driver](https://github.com/itiu/mongo-d-driver)/531 | alpha |
+| 12 | 8 | 8 | 1 year, 11 months ago | [kafka-d](https://github.com/tamediadigital/kafka-d)/532 | kafka-d is a D Kafka client that depends on the vibe.d framework. |
+| 11 | 1 | 0 | 8 years ago | [crypto](https://github.com/apartridge/crypto)/533 | Cryptographic library in D, contains SHA functions, AES and RSA skeleton. |
+| 12 | 0 | 4 | 5 years ago | [phobosx](https://github.com/phobos-x/phobosx)/534 | Experimental modules that are intended for the phobos standard library of D |
+| 12 | 2 | 1 | 1 year, 11 months ago | [bearlibterminal-dlang](https://github.com/moon-chilled/bearlibterminal-dlang)/535 | A BearLibTerminal wrapper for D |
+| 12 | 2 | 1 | a month ago | [dssg](https://github.com/kambrium/dssg)/536 | A static site generator with a different approach |
+| 12 | 1 | 0 | 2 years ago | [uwu](https://github.com/Member1221/uwu)/537 | An esoteric "programming language", write machine code using the characters "u" and "w" |
+| 12 | 3 | 0 | 5 years ago | [dstruct](https://github.com/w0rp/dstruct)/538 | D Data Structures |
+| 12 | 6 | 13 | 1 year, 7 months ago | [faster_lmm_d](https://github.com/genetics-statistics/faster_lmm_d)/539 | A faster lmm for GWAS. Supports GPU backend. |
+| 12 | 2 | 1 | 5 years ago | [yajl-d](https://github.com/repeatedly/yajl-d)/540 | YAJL binding for D |
+| 12 | 1 | 0 | 2 years ago | [enumap](https://github.com/rcorre/enumap)/541 | A D type that provides a lightweight mapping of enum members to values. |
+| 12 | 11 | 0 | 6 years ago | [YPlayer](https://github.com/harishyarlagaddas/YPlayer)/542 | Source for YPlayer (DLNA Media Player on Android) |
+| 12 | 0 | 0 | 3 months ago | [3ds-hello-dlang](https://github.com/TheGag96/3ds-hello-dlang)/543 | A 3DS homebrew example written in D! |
+| 12 | 5 | 9 | 7 years ago | [nucular](https://github.com/meh/nucular)/544 | A reactor in D. |
+| 12 | 1 | 1 | 4 months ago | [wayland-d](https://github.com/rtbo/wayland-d)/545 | Wayland bindings for D |
+| 12 | 2 | 0 | 3 months ago | [mir-optim](https://github.com/libmir/mir-optim)/546 | BetterC Nonlinear Optimization Framework |
+| 12 | 0 | 3 | 6 years ago | [FostomEngine](https://github.com/NCrashed/FostomEngine)/547 | Voxel based game engine written in D2 programming language. |
+| 12 | 0 | 0 | 8 months ago | [pipes](https://github.com/b1naryth1ef/pipes)/548 | a small utilitarian language focused on data processing via streams |
+| 12 | 1 | 0 | 3 years ago | [p2p-gui](https://github.com/mwarning/p2p-gui)/549 | A remote web interface for MLdonkey, aMule, rTorrent, Transmission and giFT.  |
+| 12 | 1 | 1 | 2 years ago | [flatbuffers](https://github.com/huntlabs/flatbuffers)/550 | D Programming Language implementation of the google flatbuffers library |
+| 12 | 2 | 0 | 8 years ago | [dranges](https://github.com/MartinNowak/dranges)/551 | Philippe Sigaud's dranges |
+| 12 | 0 | 0 | 8 days ago | [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)/552 | Dynamic and static D bindings for bgfx |
+| 12 | 16 | 3 | 23 hours ago | [dsymbol](https://github.com/dlang-community/dsymbol)/553 | Basic symbol lookup/resolution for libdparse |
+| 12 | 1 | 9 | 3 years ago | [daffodil](https://github.com/BenjaminSchaaf/daffodil)/554 | A image processing library for D |
 | 12 | 8 | 0 | 5 years ago | [MathMagicka](https://github.com/danobi/MathMagicka)/555 | OCR based equation solver |
 | 12 | 4 | 0 | 6 years ago | [dtrace](https://github.com/richardelling/dtrace)/556 | Richard Elling's dtrace scribblings |
 | 12 | 0 | 0 | 20 days ago | [DOS](https://github.com/racerxdl/DOS)/557 | D Operating System - Just because HUEBR |
@@ -570,7 +570,7 @@
 | 12 | 2 | 0 | 7 years ago | [DJni](https://github.com/Monnoroch/DJni)/567 | A convenient D wrapper around JNI. |
 | 12 | 2 | 0 | 4 years ago | [dotter](https://github.com/rejectedsoftware/dotter)/568 | An efficient statically checked data(base) mapping framework |
 | 12 | 2 | 0 | 5 months ago | [NovelateEngine](https://github.com/Novelate/NovelateEngine)/569 | The core engine for Novelate - a visual novel engine and framework. |
-| 12 | 3 | 0 | 27 days ago | [KernelMatrixBenchmark](https://github.com/dataPulverizer/KernelMatrixBenchmark)/570 | Benchmarking Kernel Matrix Calculations in D, Julia, and Chapel |
+| 12 | 3 | 0 | 28 days ago | [KernelMatrixBenchmark](https://github.com/dataPulverizer/KernelMatrixBenchmark)/570 | Benchmarking Kernel Matrix Calculations in D, Julia, and Chapel |
 | 12 | 0 | 0 | 5 years ago | [MCU](https://github.com/jens-gpio/MCU)/571 | D startup- and library-files for ARM Cortex-M Microcontrollers |
 | 12 | 15 | 0 | 8 years ago | [faplayerplus](https://github.com/liumeng1201/faplayerplus)/572 | an android mediaplayer based on faplayer |
 | 12 | 2 | 0 | 2 years ago | [memory_mapped_io](https://github.com/JinShil/memory_mapped_io)/573 | A memory-mapped IO library written in the D programming language. |
@@ -587,7 +587,7 @@
 | 11 | 2 | 0 | 7 months ago | [ice](https://github.com/shove70/ice)/584 | NAT, stun, turn and ice. |
 | 11 | 2 | 1 | 2 years ago | [dguihub](https://github.com/o3o/dguihub)/585 | D Win32 Graphic Library |
 | 11 | 0 | 0 | a month ago | [hunt-redis](https://github.com/huntlabs/hunt-redis)/586 | A Powerfull Redis client library for D Programming Language. |
-| 11 | 1 | 7 | 22 hours ago | [ddcpuid](https://github.com/dd86k/ddcpuid)/587 | dd's x86 CPU Identification tool |
+| 11 | 1 | 7 | a day ago | [ddcpuid](https://github.com/dd86k/ddcpuid)/587 | dd's x86 CPU Identification tool |
 | 11 | 3 | 0 | 5 years ago | [sargon](https://github.com/DigitalMars/sargon)/588 | D component library |
 | 11 | 1 | 1 | 6 years ago | [gumbo-d](https://github.com/bakkdoor/gumbo-d)/589 | D bindings for Google's Gumbo HTML5 parser library |
 | 11 | 3 | 1 | 4 years ago | [d_excelsdk](https://github.com/Laeeth/d_excelsdk)/590 | Port of Excel SDK to the D programming language |
@@ -608,8 +608,8 @@
 | 11 | 1 | 0 | 2 years ago | [endovena](https://github.com/o3o/endovena)/605 | Simple dependency injection framework for D |
 | 11 | 0 | 0 | 5 years ago | [JSONSerialization](https://github.com/Orvid/JSONSerialization)/606 | A D implementation using meta-programming to automate the (de)serialization to/from JSON |
 | 11 | 2 | 3 | 4 years ago | [BulletD](https://github.com/blm768/BulletD)/607 | An unfinished D binding for the Bullet Physics Engine |
-| 11 | 0 | 0 | 7 days ago | [Learn-Dlang-game-dev](https://github.com/rillk500/Learn-Dlang-game-dev)/608 | Learn D programming language and Game dev |
-| 11 | 3 | 1 | 4 days ago | [mir-core](https://github.com/libmir/mir-core)/609 | Base software building blocks and conventions |
+| 11 | 3 | 1 | 4 days ago | [mir-core](https://github.com/libmir/mir-core)/608 | Base software building blocks and conventions |
+| 11 | 0 | 0 | 8 days ago | [Learn-Dlang-game-dev](https://github.com/rillk500/Learn-Dlang-game-dev)/609 | Learn D programming language and Game dev |
 | 11 | 1 | 1 | a day ago | [alicedbg](https://github.com/dd86k/alicedbg)/610 | ** WIP ** Aiming to be a simple debugger, dumper, and profiler |
 | 11 | 1 | 3 | 2 years ago | [alphaPhobos](https://github.com/rikkimax/alphaPhobos)/611 | Assume License: Boost |
 | 11 | 1 | 0 | 6 years ago | [sqpug](https://github.com/rostyboost/sqpug)/612 | another machine learning library |
@@ -630,7 +630,7 @@
 | 10 | 3 | 0 | 6 years ago | [PuzzleDash](https://github.com/wozniakty/PuzzleDash)/627 | A match-3 Puzzle game built in the Dash engine by Circular Studios. |
 | 10 | 1 | 1 | 3 months ago | [dawait](https://github.com/seeseemelk/dawait)/628 | A simple to use async/await library for D |
 | 10 | 2 | 2 | a month ago | [antlr-d](https://github.com/funkwerk/antlr-d)/629 | None |
-| 10 | 0 | 1 | 3 months ago | [dvector](https://github.com/aferust/dvector)/630 | Dynamic array implementation for D (-betterC) that fits my needs. |
+| 10 | 0 | 1 | Unknown | [dvector](https://github.com/aferust/dvector)/630 | Dynamic array implementation for D (-betterC) that fits my needs. |
 | 10 | 4 | 5 | 5 years ago | [toml.d](https://github.com/oglu/toml.d)/631 | TOML Parser for D |
 | 10 | 1 | 1 | 1 year, 17 days ago | [jsonwrap](https://github.com/2night/jsonwrap)/632 | Just a wrap over dlang std.json |
 | 10 | 5 | 4 | 2 years ago | [ffmpeg-d](https://github.com/ljubobratovicrelja/ffmpeg-d)/633 | D port of the FFmpeg C headers |
@@ -662,24 +662,24 @@
 | 10 | 0 | 2 | 4 years ago | [clWrap](https://github.com/John-Colvin/clWrap)/659 | a nicer way to OpenCL |
 | 10 | 0 | 0 | 4 years ago | [d-volkswagen](https://github.com/repeatedly/d-volkswagen)/660 | Volkswagen detects when your tests are being run in a CI server, and makes them pass. |
 | 10 | 4 | 4 | 1 year, 8 days ago | [harbored](https://github.com/economicmodeling/harbored)/661 | Documentation generator for D |
-| 10 | 8 | 1 | Unknown | [avplayer](https://github.com/yukuilong/avplayer)/662 | avplayer for android |
+| 10 | 8 | 1 | 6 years ago | [avplayer](https://github.com/yukuilong/avplayer)/662 | avplayer for android |
 | 10 | 0 | 0 | 5 months ago | [gtkui](https://github.com/deviator/gtkui)/663 | aux lib for using with glade ui builder |
 | 10 | 0 | 17 | 1 year, 23 days ago | [dunkelheit](https://github.com/yosupo06/dunkelheit)/664 | D competition Library |
 | 10 | 0 | 2 | 15 days ago | [pretty-d-array](https://github.com/tastyminerals/pretty-d-array)/665 | Pretty printing multidimensional D arrays. |
 | 10 | 1 | 1 | 3 years ago | [csfo4](https://github.com/CyberShadow/csfo4)/666 | Fallout 4 native mods |
-| 10 | 0 | 1 | a month ago | [quirks](https://github.com/llJochemll/quirks)/667 | Metaprogramming library for the D language |
+| 10 | 19 | 15 | 2 months ago | [turtle](https://github.com/sociomantic-tsunami/turtle)/667 | Black box application testing library/framework |
 | 10 | 2 | 2 | 17 days ago | [jupyter-wire](https://github.com/symmetryinvestments/jupyter-wire)/668 | Jupyter wire protocol implementation enabling D plugins to be jupyter kernels |
-| 10 | 19 | 15 | 2 months ago | [turtle](https://github.com/sociomantic-tsunami/turtle)/669 | Black box application testing library/framework |
+| 10 | 0 | 1 | a month ago | [quirks](https://github.com/llJochemll/quirks)/669 | Metaprogramming library for the D language |
 | 10 | 1 | 1 | 2 years ago | [hll-d](https://github.com/tamediadigital/hll-d)/670 | HyperLogLog++ algorithm implementation in D |
 | 10 | 0 | 0 | 9 months ago | [RebelEngine](https://github.com/Vild/RebelEngine)/671 | 3D game engine, with Vulkan support |
-| 10 | 12 | 1 | 5 years ago | [dstats](https://github.com/dsimcha/dstats)/672 | A statistics library for D. |
-| 10 | 7 | 23 | 2 months ago | [Cookbook](https://github.com/dlang-jp/Cookbook)/673 | 目的から処理を逆引きするためのコード集です |
+| 10 | 7 | 23 | 2 months ago | [Cookbook](https://github.com/dlang-jp/Cookbook)/672 | 目的から処理を逆引きするためのコード集です |
+| 10 | 12 | 1 | 5 years ago | [dstats](https://github.com/dsimcha/dstats)/673 | A statistics library for D. |
 | 10 | 1 | 1 | 8 years ago | [pspemu](https://github.com/soywiz/pspemu)/674 | D PSP Emulator |
 | 10 | 13 | 6 | 4 years ago | [kxml](https://github.com/opticron/kxml)/675 | A XML parsing/generating library for D1/D2 Phobos/Tango.  Commonly believed to blow std.xml out of the water. |
 | 10 | 1 | 0 | 1 year, 6 months ago | [WebConfig](https://github.com/WebFreak001/WebConfig)/676 | HTML settings generator & server side validator from any struct |
 | 10 | 2 | 1 | 2 years ago | [neural_net_examples](https://github.com/Marenz/neural_net_examples)/677 | Neural Network Examples in D |
-| 10 | 2 | 2 | 1 year, 7 months ago | [droaring](https://github.com/yuce/droaring)/678 | Roaring Bitmaps for D |
-| 10 | 2 | 1 | 11 months ago | [dflat](https://github.com/thewilsonator/dflat)/679 | C#/.NET wrapper library for the D programming language |
+| 10 | 3 | 1 | 11 months ago | [dflat](https://github.com/thewilsonator/dflat)/678 | C#/.NET wrapper library for the D programming language |
+| 10 | 2 | 2 | 1 year, 7 months ago | [droaring](https://github.com/yuce/droaring)/679 | Roaring Bitmaps for D |
 | 9 | 1 | 0 | 4 years ago | [jax](https://github.com/eBookingServices/jax)/680 | A mustache-like template compiler for D |
 | 9 | 2 | 0 | 1 year, 8 months ago | [raspberry_vibed](https://github.com/pander86/raspberry_vibed)/681 | A tutorial to build a vibed web application on raspberryPi |
 | 9 | 0 | 0 | 6 years ago | [simd](https://github.com/TurkeyMan/simd)/682 | std.simd development for eventual inclusion in phobos |
@@ -747,10 +747,10 @@
 | 9 | 0 | 0 | a month ago | [hunt-markdown](https://github.com/huntlabs/hunt-markdown)/744 | A markdown parsing and rendering library for D programming language. |
 | 9 | 1 | 0 | 6 years ago | [DCPU-16-emulator](https://github.com/MrSmith33/DCPU-16-emulator)/745 | DCPU-16 emulator written in D language |
 | 9 | 1 | 0 | 1 year, 5 months ago | [Musicpulator](https://github.com/UndergroundRekordz/Musicpulator)/746 | A library for manipulating and analyzing musical scores in D. |
-| 9 | 3 | 1 | 4 years ago | [future](https://github.com/evenex/future)/747 | asynchronous combinators and related functionality |
-| 9 | 2 | 0 | 10 months ago | [std.rcstring](https://github.com/burner/std.rcstring)/748 | A reference counted string implementation for D's build in string construct. |
-| 9 | 4 | 2 | 2 months ago | [gen-package-version](https://github.com/Abscissa/gen-package-version)/749 | Generate a D module with version and timestamp information automatically-detected from git/hg/dub. |
-| 9 | 2 | 5 | 2 years ago | [dfile](https://github.com/dd86k/dfile)/750 | Cross-platform and fast file scanner |
+| 9 | 2 | 0 | 10 months ago | [std.rcstring](https://github.com/burner/std.rcstring)/747 | A reference counted string implementation for D's build in string construct. |
+| 9 | 3 | 1 | 4 years ago | [future](https://github.com/evenex/future)/748 | asynchronous combinators and related functionality |
+| 9 | 2 | 5 | 2 years ago | [dfile](https://github.com/dd86k/dfile)/749 | Cross-platform and fast file scanner |
+| 9 | 4 | 2 | 2 months ago | [gen-package-version](https://github.com/Abscissa/gen-package-version)/750 | Generate a D module with version and timestamp information automatically-detected from git/hg/dub. |
 | 8 | 5 | 0 | 1 year, 3 months ago | [DerelictFT](https://github.com/DerelictOrg/DerelictFT)/751 | A dynamic binding to the FreeType library for the D Programming Language.  |
 | 8 | 9 | 1 | 7 years ago | [ClientExperiments-Android](https://github.com/OpenWatch/ClientExperiments-Android)/752 | Experiments in video encoding, processing and streaming from an Android client |
 | 8 | 1 | 0 | 8 years ago | [Mongo-D-Driver](https://github.com/repeatedly/Mongo-D-Driver)/753 | Mongo Driver for D |
@@ -777,7 +777,7 @@
 | 8 | 0 | 0 | 1 year, 4 months ago | [pptxgrep](https://github.com/kaityo256/pptxgrep)/774 | Find keywords in pptx files. |
 | 8 | 2 | 0 | 6 years ago | [droidsearch](https://github.com/mssun/droidsearch)/775 | None |
 | 8 | 6 | 1 | 4 years ago | [smtp](https://github.com/SSPkrolik/smtp)/776 | SMTP library for D |
-| 8 | 2 | 1 | 1 year, 8 months ago | [raylib_d](https://github.com/0xFireball/raylib_d)/777 | raylib bindings for dlang |
+| 8 | 2 | 1 | 1 year, 9 months ago | [raylib_d](https://github.com/0xFireball/raylib_d)/777 | raylib bindings for dlang |
 | 8 | 0 | 0 | 3 days ago | [commonmark-d](https://github.com/AuburnSounds/commonmark-d)/778 | Port of MD4C. D Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.  |
 | 8 | 0 | 0 | 6 years ago | [stm32_datasheet_to_d](https://github.com/JinShil/stm32_datasheet_to_d)/779 | Program for automatically generating register access code in D from the STM32 datasheets |
 | 8 | 1 | 0 | 5 years ago | [lua_d_api](https://github.com/maisvendoo/lua_d_api)/780 | Lua API for D language |
@@ -819,22 +819,22 @@
 | 8 | 0 | 0 | 9 years ago | [d4](https://github.com/dnadlinger/d4)/816 | A simple software rasterizer for demonstration purposes written in D. |
 | 8 | 1 | 1 | 7 years ago | [policy-rc.d](https://github.com/gpapilion/policy-rc.d)/817 | A version of policy-rc.d  |
 | 8 | 0 | 0 | 3 years ago | [cheetah](https://github.com/bausshf/cheetah)/818 | A high performance event-based tcp server socket library based on vibe.d |
-| 8 | 3 | 0 | 2 years ago | [markov](https://github.com/Mihail-K/markov)/819 | A generic markov chain library |
-| 8 | 0 | 0 | 23 days ago | [img4d](https://github.com/DYGV/img4d)/820 | PNG ImageProcessing with no dependencies |
-| 8 | 0 | 3 | 1 year, 7 months ago | [txtproc](https://github.com/phitsc/txtproc)/821 | A command line tool for text processing. |
+| 8 | 0 | 3 | 1 year, 7 months ago | [txtproc](https://github.com/phitsc/txtproc)/819 | A command line tool for text processing. |
+| 8 | 0 | 0 | 24 days ago | [img4d](https://github.com/DYGV/img4d)/820 | PNG ImageProcessing with no dependencies |
+| 8 | 3 | 0 | 2 years ago | [markov](https://github.com/Mihail-K/markov)/821 | A generic markov chain library |
 | 8 | 0 | 1 | 2 years ago | [benchmark](https://github.com/burner/benchmark)/822 | A benchmarking and parameterized unit testing framework for D. |
 | 8 | 13 | 0 | 7 years ago | [Android](https://github.com/thaind/Android)/823 | None |
 | 8 | 0 | 1 | 2 years ago | [Iup4D](https://github.com/Heromyth/Iup4D)/824 | A D binding library for IUP with OOP style. Its API is similar to WinForms. |
 | 8 | 0 | 4 | 1 year, 11 months ago | [dmatch](https://github.com/namachan10777/dmatch)/825 | Pattern match for D Language. |
 | 8 | 1 | 0 | 1 year, 6 days ago | [ddos](https://github.com/dd86k/ddos)/826 | An OS to satisfy my dose of baremetal |
 | 8 | 1 | 1 | 9 months ago | [dgpio](https://github.com/ozanselte/dgpio)/827 | Tiny GPIO control library for single board computers |
-| 8 | 1 | 0 | 1 year, 6 months ago | [pdcurses-d](https://github.com/unleashy/pdcurses-d)/828 | D bindings for pdcurses |
-| 8 | 2 | 7 | 5 months ago | [OpenTaiko](https://github.com/gtensha/OpenTaiko)/829 | A familiar drum rhythm game |
+| 8 | 2 | 7 | 5 months ago | [OpenTaiko](https://github.com/gtensha/OpenTaiko)/828 | A familiar drum rhythm game |
+| 8 | 1 | 0 | 1 year, 6 months ago | [pdcurses-d](https://github.com/unleashy/pdcurses-d)/829 | D bindings for pdcurses |
 | 8 | 0 | 3 | 3 years ago | [caraus](https://github.com/caraus-ecms/caraus)/830 | Web framework for the D programming language in development |
 | 8 | 1 | 0 | 8 years ago | [SpaceViking](https://github.com/nthtran-archive/SpaceViking)/831 | cocos2d-x version - In C++ |
 | 8 | 0 | 0 | 2 years ago | [aliasthis](https://github.com/p0nce/aliasthis)/832 | D rogue-like template with undo. |
-| 8 | 5 | 0 | 2 years ago | [example-d](https://github.com/codecov/example-d)/833 | Example repository for D and Codecov |
-| 8 | 14 | 0 | 7 years ago | [N64-To-USB](https://github.com/MickMad/N64-To-USB)/834 | Plug two N64 controllers to an Arduino and turn your Arduino in a USB HID joystick! Play your favourite games on the pc with the best controller ever! |
+| 8 | 14 | 0 | 7 years ago | [N64-To-USB](https://github.com/MickMad/N64-To-USB)/833 | Plug two N64 controllers to an Arduino and turn your Arduino in a USB HID joystick! Play your favourite games on the pc with the best controller ever! |
+| 8 | 5 | 0 | 2 years ago | [example-d](https://github.com/codecov/example-d)/834 | Example repository for D and Codecov |
 | 8 | 4 | 1 | 2 years ago | [bloom](https://github.com/MartinNowak/bloom)/835 | A basic bloom filter. |
 | 8 | 3 | 0 | 10 years ago | [synctester](https://github.com/maimuzo/synctester)/836 | A synchronization library and a sample source for Cloud and Android. |
 | 8 | 0 | 0 | 2 years ago | [mofile](https://github.com/FreeSlave/mofile)/837 | D library for parsing .mo files and getting translated messages |
@@ -856,10 +856,10 @@
 | 7 | 0 | 2 | 2 years ago | [rainbow](https://github.com/kingsleyh/rainbow)/853 | A terminal ansi colorizer for D programming language |
 | 7 | 0 | 1 | 5 years ago | [DerelictCL](https://github.com/MeinMein/DerelictCL)/854 | A dynamic binding to OpenCL for the D Programming Language.  |
 | 7 | 2 | 5 | 5 years ago | [Celeme](https://github.com/SiegeLord/Celeme)/855 | Open Source OpenCL Neural Network Simulator written in D |
-| 7 | 0 | 0 | 2 months ago | [dashcheck](https://github.com/mcandre/dashcheck)/856 | a D port of the QuickCheck unit test framework |
-| 7 | 3 | 1 | a month ago | [barcode](https://github.com/deviator/barcode)/857 | barcodes |
-| 7 | 3 | 1 | 3 years ago | [libssh-d](https://github.com/zebraxxl/libssh-d)/858 | D Programming Language binding for libssh: mulitplatform library implementing the SSHv2 and SSHv1 protocol on client and server side. |
-| 7 | 0 | 0 | 3 months ago | [dynamic](https://github.com/s-ludwig/dynamic)/859 | Automated dynamic library bindings for D. |
+| 7 | 0 | 0 | 3 months ago | [dynamic](https://github.com/s-ludwig/dynamic)/856 | Automated dynamic library bindings for D. |
+| 7 | 0 | 0 | 2 months ago | [dashcheck](https://github.com/mcandre/dashcheck)/857 | a D port of the QuickCheck unit test framework |
+| 7 | 3 | 1 | a month ago | [barcode](https://github.com/deviator/barcode)/858 | barcodes |
+| 7 | 3 | 1 | 3 years ago | [libssh-d](https://github.com/zebraxxl/libssh-d)/859 | D Programming Language binding for libssh: mulitplatform library implementing the SSHv2 and SSHv1 protocol on client and server side. |
 | 7 | 0 | 0 | 4 years ago | [EncoXD](https://github.com/Naronco/EncoXD)/860 | EncoX game engine written in D |
 | 7 | 1 | 0 | 2 years ago | [dlang-linq-examples](https://github.com/btbytes/dlang-linq-examples)/861 | 101 C# LINQ samples in D |
 | 7 | 0 | 2 | 3 years ago | [dxlib-d](https://github.com/dragoon2014/dxlib-d)/862 | None |
@@ -867,7 +867,7 @@
 | 7 | 3 | 0 | 8 months ago | [DerelictCL](https://github.com/DerelictOrg/DerelictCL)/864 | Dynamic bindings to the OpenCL library for the D Programming Language. |
 | 7 | 3 | 1 | a month ago | [bindbc-lua](https://github.com/BindBC/bindbc-lua)/865 | A configurable dynamic and static D binding to the Lua library which is compatible with @nogc, nothrow, and BetterC.  |
 | 7 | 1 | 0 | 7 months ago | [evael-ecs](https://github.com/evael-dev/evael-ecs)/866 | Evael engine Entity-Component-System. |
-| 7 | 0 | 1 | 17 hours ago | [ceres-c-compiler](https://github.com/Samathy/ceres-c-compiler)/867 | A C99 compiler built in Dlang |
+| 7 | 0 | 1 | a day ago | [ceres-c-compiler](https://github.com/Samathy/ceres-c-compiler)/867 | A C99 compiler built in Dlang |
 | 7 | 2 | 0 | 2 years ago | [embaked](https://github.com/eBookingServices/embaked)/868 | D library to bake HTML, CSS, and images into a single HTML - useful for sending emails |
 | 7 | 1 | 0 | 8 years ago | [motion-dtrace](https://github.com/siuying/motion-dtrace)/869 | Proof of concept to use dtrace on rubymotion |
 | 7 | 1 | 1 | 1 year, 3 months ago | [nel-d](https://github.com/Bananattack/nel-d)/870 | nel is a compiler for a low-level assembly programming language for developing on the NES hardware. |
@@ -880,7 +880,7 @@
 | 7 | 1 | 0 | 2 years ago | [fcgid](https://github.com/lplus/fcgid)/877 | Cross-platform FastCGI library for the D language |
 | 7 | 1 | 0 | 2 months ago | [vibe.auth](https://github.com/gedaiu/vibe.auth)/878 | An authentication and registration module with basic, oauth and html support |
 | 7 | 1 | 0 | 10 years ago | [dev-server](https://github.com/drupalsverige/dev-server)/879 | Konfiguration för utvecklingsservern till drupalsverige.se |
-| 7 | 0 | 0 | 9 years ago | [cords](https://github.com/baryluk/cords)/880 | Cord (rope) implementation for D programming language, with rich high performance string processing library |
+| 7 | 1 | 0 | 9 years ago | [cords](https://github.com/baryluk/cords)/880 | Cord (rope) implementation for D programming language, with rich high performance string processing library |
 | 7 | 0 | 0 | 4 years ago | [fvm](https://github.com/phase/fvm)/881 | Flower Virtual Machine - Register based Virtual Machine in D |
 | 7 | 2 | 0 | 1 year, 1 month ago | [sodium](https://github.com/carblue/sodium)/882 | D language: A binding to libsodium |
 | 7 | 0 | 0 | 6 years ago | [rpi-of-workshop-examples](https://github.com/kr15h/rpi-of-workshop-examples)/883 | Collection of examples used in Raspberry Pi + openFrameworks workshops |
@@ -940,7 +940,7 @@
 | 7 | 2 | 0 | 5 years ago | [BeegoBook](https://github.com/jemygraw/BeegoBook)/937 | This is a good book for understanding and using beego, a marvelous web framework written in golang. |
 | 7 | 1 | 0 | 7 years ago | [Guigle](https://github.com/Ste3e/Guigle)/938 | openGL GUI for D |
 | 7 | 1 | 1 | 6 months ago | [dot2dgml](https://github.com/timepp/dot2dgml)/939 | Convert dot files to dgml -- Written in the great D language |
-| 7 | 0 | 1 | 21 hours ago | [RESYNC](https://github.com/senselogic/RESYNC)/940 | Local folder synchronizer. |
+| 7 | 0 | 1 | 3 hours ago | [RESYNC](https://github.com/senselogic/RESYNC)/940 | Local folder synchronizer. |
 | 6 | 2 | 3 | 5 years ago | [Sample-Dash-Game](https://github.com/Circular-Studios/Sample-Dash-Game)/941 | A sample game demonstrating how to use the Dash engine. |
 | 6 | 7 | 0 | 5 years ago | [TTK4145](https://github.com/klasbo/TTK4145)/942 | None |
 | 6 | 1 | 0 | 3 years ago | [DerelictOgg](https://github.com/DerelictOrg/DerelictOgg)/943 | Dynamic bindings to libogg for the D Programming Language. |
@@ -957,7 +957,7 @@
 | 6 | 8 | 0 | 8 years ago | [tesseractstuff](https://github.com/hareeshganesan/tesseractstuff)/954 | None |
 | 6 | 3 | 0 | 1 year, 23 days ago | [argsd](https://github.com/burner/argsd)/955 | A command line and config file parser for DLang |
 | 6 | 1 | 0 | 7 months ago | [datefmt](https://github.com/dhasenan/datefmt)/956 | Datetime parsing and formatting for D |
-| 6 | 1 | 0 | 25 days ago | [bindbc-freetype](https://github.com/BindBC/bindbc-freetype)/957 | A configurable dynamic and static D binding to the FreeType library which is compatible with @nogc, nothrow, and BetterC. |
+| 6 | 1 | 0 | 26 days ago | [bindbc-freetype](https://github.com/BindBC/bindbc-freetype)/957 | A configurable dynamic and static D binding to the FreeType library which is compatible with @nogc, nothrow, and BetterC. |
 | 6 | 0 | 1 | 3 years ago | [EventSystem](https://github.com/WebFreak001/EventSystem)/958 | Tiny event system in D using delegates |
 | 6 | 1 | 1 | 4 years ago | [yamkeys](https://github.com/carlor/yamkeys)/959 | A runtime configuration management utility. |
 | 6 | 2 | 0 | 1 year, 2 months ago | [D-ablo](https://github.com/eresid/D-ablo)/960 | Clone Freeablo on D language (https://github.com/wheybags/freeablo) |
@@ -973,7 +973,7 @@
 | 6 | 0 | 0 | 2 years ago | [GTAViewer](https://github.com/GitExl/GTAViewer)/970 | A viewer for the top-down Grand Theft Auto games. |
 | 6 | 3 | 0 | 4 years ago | [feature-test-d](https://github.com/dmonagle/feature-test-d)/971 | A feature test framework for D applications or libraries that builds on unittest and does not need any external tools. |
 | 6 | 1 | 0 | a month ago | [LLtool](https://github.com/redstar/LLtool)/972 | A recursive-descent parser generator for D |
-| 6 | 4 | 4 | 27 days ago | [LeGo](https://github.com/Lehona/LeGo)/973 | A daedalus library for the game Gothic. It contains various packages to support modders. |
+| 6 | 4 | 4 | 28 days ago | [LeGo](https://github.com/Lehona/LeGo)/973 | A daedalus library for the game Gothic. It contains various packages to support modders. |
 | 6 | 1 | 0 | 24 days ago | [qui](https://github.com/Nafees10/qui)/974 | A Text User Interface library for the D Language |
 | 6 | 1 | 0 | 8 years ago | [Lua-D](https://github.com/codekitchen/Lua-D)/975 | Lua interpreter and runtime implementation in D |
 | 6 | 1 | 0 | 1 year, 8 months ago | [de](https://github.com/Vild/de)/976 | An editor written in D |
@@ -987,7 +987,7 @@
 | 6 | 0 | 0 | 5 months ago | [vest](https://github.com/valmat/vest)/984 | Vest - Tools for the D programming language |
 | 6 | 0 | 0 | 11 days ago | [collections-d](https://github.com/ZILtoid1991/collections-d)/985 | Advanced data containers for D |
 | 6 | 0 | 0 | 1 year, 10 months ago | [terrain-generator-d](https://github.com/aldocd4/terrain-generator-d)/986 | Basic terrain generator in D language |
-| 6 | 0 | 0 | 3 days ago | [hunt-raft](https://github.com/huntlabs/hunt-raft)/987 | Raft distributed consensus protocol for DLang. |
+| 6 | 0 | 0 | 4 days ago | [hunt-raft](https://github.com/huntlabs/hunt-raft)/987 | Raft distributed consensus protocol for DLang. |
 | 6 | 2 | 0 | 4 years ago | [ErupteD-GLFW](https://github.com/ParticlePeter/ErupteD-GLFW)/988 | Example how to use ErupteD Vulkan binding with glfw3 |
 | 6 | 3 | 0 | 7 years ago | [btrace](https://github.com/karahiyo/btrace)/989 | [https://kenai.com/projects/btrace/]'s project. |
 | 6 | 2 | 1 | 9 years ago | [Rational](https://github.com/dsimcha/Rational)/990 | std.rational Phobos candidate module |

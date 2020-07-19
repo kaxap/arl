@@ -3,7 +3,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 4110 | 777 | 9 | 6 months ago | [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial)/1 | How to create modular Elm code that scales nicely with your app |
 | 2919 | 465 | 47 | 8 months ago | [elm-spa-example](https://github.com/rtfeldman/elm-spa-example)/2 | A Single Page Application written in Elm |
-| 2440 | 341 | 76 | 4 months ago | [core](https://github.com/elm/core)/3 | Elm's core libraries |
+| 2439 | 341 | 76 | 4 months ago | [core](https://github.com/elm/core)/3 | Elm's core libraries |
 | 1826 | 363 | 76 | 2 months ago | [elm-lang.org](https://github.com/elm/elm-lang.org)/4 | Server and client code for the Elm website. |
 | 1570 | 82 | 4 | a month ago | [elm-native-ui](https://github.com/ohanhi/elm-native-ui)/5 | [CLOSED] Experiment: mobile apps in Elm using React Native. |
 | 1166 | 331 | 15 | 7 months ago | [elm-todomvc](https://github.com/evancz/elm-todomvc)/6 | The TodoMVC app written in Elm, nice example for beginners. |
@@ -12,10 +12,10 @@
 | 993 | 85 | 1 | 9 months ago | [level](https://github.com/unstacked/level)/9 | Team communication optimized for deep work |
 | 985 | 145 | 52 | 1 year, 11 months ago | [elm-mdl](https://github.com/debois/elm-mdl)/10 | Elm-port of the Material Design Lite CSS/JS library |
 | 913 | 44 | 2 | 2 years ago | [elm-cheat-sheet](https://github.com/izdi/elm-cheat-sheet)/11 | An overview of Elm syntax and features |
-| 881 | 78 | 109 | a month ago | [elm-ui](https://github.com/mdgriffith/elm-ui)/12 | What if you never had to write CSS again? |
+| 882 | 78 | 109 | a month ago | [elm-ui](https://github.com/mdgriffith/elm-ui)/12 | What if you never had to write CSS again? |
 | 855 | 41 | 29 | 1 year, 9 months ago | [elm-ui](https://github.com/gdotdesign/elm-ui)/13 | UI library for making web applications with Elm |
 | 746 | 59 | 16 | 1 year, 7 months ago | [react-elm-components](https://github.com/cultureamp/react-elm-components)/14 | Write React components in Elm |
-| 605 | 47 | 21 | 3 months ago | [ellie](https://github.com/ellie-app/ellie)/15 | The Elm Live Editor |
+| 606 | 47 | 21 | 3 months ago | [ellie](https://github.com/ellie-app/ellie)/15 | The Elm Live Editor |
 | 594 | 72 | 45 | a month ago | [elm-graphql](https://github.com/dillonkearns/elm-graphql)/16 | Autogenerate type-safe GraphQL queries in Elm. |
 | 481 | 48 | 18 | 1 year, 10 months ago | [elm-charts](https://github.com/terezka/elm-charts)/17 | Create SVG charts in Elm. |
 | 469 | 36 | 11 | 6 months ago | [sketch-n-sketch](https://github.com/ravichugh/sketch-n-sketch)/18 | Direct Manipulation Programming for HTML/SVG |
@@ -23,7 +23,7 @@
 | 444 | 89 | 4 | 1 year, 7 months ago | [elm-example-app](https://github.com/sporto/elm-example-app)/20 | An example Elm single page application |
 | 439 | 32 | 15 | 30 days ago | [elm-visualization](https://github.com/gampleman/elm-visualization)/21 | A data visualization library for Elm |
 | 438 | 162 | 10 | 2 years ago | [elm-workshop](https://github.com/rtfeldman/elm-workshop)/22 | An introductory Elm workshop. Video available on Frontend Masters! |
-| 434 | 40 | 8 | 6 days ago | [diffuse](https://github.com/icidasset/diffuse)/23 | A music player that connects to your cloud/distributed storage. |
+| 434 | 40 | 8 | 7 days ago | [diffuse](https://github.com/icidasset/diffuse)/23 | A music player that connects to your cloud/distributed storage. |
 | 419 | 39 | 30 | a month ago | [line-charts](https://github.com/terezka/line-charts)/24 | A library for plotting line charts in SVG. Written in all Elm. |
 | 409 | 66 | 3 | 2 months ago | [elm-flatris](https://github.com/w0rm/elm-flatris)/25 | A Flatris clone in Elm language |
 | 408 | 46 | 61 | 2 months ago | [elm-analyse](https://github.com/stil4m/elm-analyse)/26 | A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices. |
@@ -33,9 +33,9 @@
 | 368 | 117 | 7 | 3 years ago | [elm](https://github.com/knowthen/elm)/30 | Source companion for the Elmlang course at |
 | 363 | 40 | 43 | 9 months ago | [elm-test](https://github.com/elm-community/elm-test)/31 | moved to elm-explorations/test |
 | 362 | 15 | 5 | 4 years ago | [take-home](https://github.com/eeue56/take-home)/32 | A take-home application server written in Elm and only Elm |
-| 352 | 29 | 1 | 3 years ago | [time-tracker](https://github.com/knewter/time-tracker)/33 | An example Single Page Application in Elm, using elm-mdl for the UI, with a Phoenix backend. |
-| 342 | 80 | 28 | 3 years ago | [hapi-socketio-redis-chat-example](https://github.com/dwyl/hapi-socketio-redis-chat-example)/34 | :speech_balloon: Real-time Chat using Hapi.js + Socket.io + Redis Pub/Sub (example with tests!!) |
-| 342 | 75 | 9 | 19 days ago | [elm-companies](https://github.com/jah2488/elm-companies)/35 | 🌲 A list of companies using Elm in production. |
+| 352 | 29 | 1 | Unknown | [time-tracker](https://github.com/knewter/time-tracker)/33 | An example Single Page Application in Elm, using elm-mdl for the UI, with a Phoenix backend. |
+| 343 | 75 | 9 | 20 days ago | [elm-companies](https://github.com/jah2488/elm-companies)/34 | 🌲 A list of companies using Elm in production. |
+| 342 | 80 | 28 | 3 years ago | [hapi-socketio-redis-chat-example](https://github.com/dwyl/hapi-socketio-redis-chat-example)/35 | :speech_balloon: Real-time Chat using Hapi.js + Socket.io + Redis Pub/Sub (example with tests!!) |
 | 338 | 57 | 41 | 4 years ago | [elm-html](https://github.com/evancz/elm-html)/36 | DEPRECATED. Moved to elm-lang/html |
 | 333 | 86 | 50 | 9 months ago | [html](https://github.com/elm/html)/37 | Use HTML in Elm! |
 | 321 | 20 | 8 | 1 year, 10 months ago | [elm-graphql](https://github.com/jamesmacaulay/elm-graphql)/38 | A GraphQL library for Elm |
@@ -45,7 +45,7 @@
 | 294 | 12 | 1 | 1 year, 2 months ago | [elm-shared-state](https://github.com/ohanhi/elm-shared-state)/42 | Example app on managing shared state in large Elm SPAs. (ex elm-taco) |
 | 286 | 24 | 3 | 1 year, 2 months ago | [kanelm](https://github.com/huytd/kanelm)/43 | Kanban board built with Elm |
 | 280 | 6 | 3 | 2 months ago | [elmboy](https://github.com/Malax/elmboy)/44 | A Nintendo™ Game Boy™ Emulator written in Elm. |
-| 279 | 36 | 31 | 3 days ago | [elm-pages](https://github.com/dillonkearns/elm-pages)/45 | A statically typed site generator for Elm. |
+| 279 | 36 | 31 | 4 days ago | [elm-pages](https://github.com/dillonkearns/elm-pages)/45 | A statically typed site generator for Elm. |
 | 279 | 66 | 18 | 1 year, 10 months ago | [elm-sortable-table](https://github.com/evancz/elm-sortable-table)/46 | Sortable tables for whatever data you want to display |
 | 274 | 57 | 56 | 8 months ago | [browser](https://github.com/elm/browser)/47 | Create Elm programs that run in browsers! |
 | 266 | 24 | 16 | 2 years ago | [json-to-elm](https://github.com/eeue56/json-to-elm)/48 | Create Elm type aliases and decoders based on JSON input |
@@ -59,7 +59,7 @@
 | 228 | 23 | 10 | 1 year, 7 months ago | [remotedata](https://github.com/krisajenkins/remotedata)/56 | Tools for fetching data from remote sources (incl. HTTP). |
 | 227 | 14 | 3 | 4 years ago | [gipher](https://github.com/matthieu-beteille/gipher)/57 | tinder like app for gifs built with elm and firebase |
 | 222 | 33 | 13 | 3 years ago | [elm-phoenix-socket](https://github.com/fbonetti/elm-phoenix-socket)/58 | Pure Elm state manager for Phoenix channels |
-| 215 | 16 | 8 | Unknown | [elmfire](https://github.com/ThomasWeiser/elmfire)/59 | Firebase Bindings for Elm |
+| 215 | 16 | 8 | 3 years ago | [elmfire](https://github.com/ThomasWeiser/elmfire)/59 | Firebase Bindings for Elm |
 | 215 | 15 | 18 | 4 days ago | [compiler](https://github.com/elm-in-elm/compiler)/60 | Elm compiler written in Elm |
 | 214 | 27 | 4 | 4 months ago | [cotoami](https://github.com/cotoami/cotoami)/61 | Cotoami is a platform where people can weave a large network of wisdom from tiny ideas. |
 | 209 | 21 | 14 | 4 years ago | [elm-test](https://github.com/deadfoxygrandpa/elm-test)/62 | A unit testing framework for Elm |
@@ -67,29 +67,29 @@
 | 206 | 119 | 7 | 14 days ago | [builtwithelm](https://github.com/elm-community/builtwithelm)/64 | A list of projects and apps built with Elm. |
 | 205 | 60 | 9 | 1 year, 8 months ago | [safadometro](https://github.com/ythecombinator/safadometro)/65 | 👼Polyglot implementations of "safadeza" calculus. |
 | 194 | 9 | 1 | 2 years ago | [qian](https://github.com/xvw/qian)/66 | A minimalist file-explorer using Electron via Elm ! |
-| 191 | 44 | 15 | a month ago | [massivedecks](https://github.com/Lattyware/massivedecks)/67 | A comedy party game for PC, mobile & chromecast.  |
-| 191 | 23 | 0 | 3 days ago | [elm-spa](https://github.com/ryannhg/elm-spa)/68 | single page apps made easy |
+| 191 | 44 | 16 | a month ago | [massivedecks](https://github.com/Lattyware/massivedecks)/67 | A comedy party game for PC, mobile & chromecast.  |
+| 191 | 23 | 0 | 4 days ago | [elm-spa](https://github.com/ryannhg/elm-spa)/68 | single page apps made easy |
 | 189 | 31 | 13 | 1 year, 1 month ago | [elm-form](https://github.com/etaque/elm-form)/69 | Dynamic forms handling in Elm |
 | 181 | 7 | 14 | 2 years ago | [elm-styled](https://github.com/styled-components/elm-styled)/70 | Styling your Html Elements with typed Css 💅 |
 | 181 | 40 | 13 | 3 years ago | [elm-autocomplete](https://github.com/thebritican/elm-autocomplete)/71 | Autocomplete for Elm apps; in Elm |
 | 181 | 21 | 8 | 2 years ago | [elm-phoenix](https://github.com/saschatimme/elm-phoenix)/72 | An Elm client for Phoenix Channels |
 | 177 | 97 | 17 | 8 months ago | [elm-0.19-workshop](https://github.com/rtfeldman/elm-0.19-workshop)/73 | Elm 0.19 workshops. Includes Intro and Advanced courses. |
-| 176 | 10 | 6 | 1 year, 7 months ago | [elm-street-404](https://github.com/zalando/elm-street-404)/74 | A fun WebGL game built with Elm |
+| 176 | 10 | 6 | 1 year, 8 months ago | [elm-street-404](https://github.com/zalando/elm-street-404)/74 | A fun WebGL game built with Elm |
 | 175 | 24 | 59 | 8 days ago | [test](https://github.com/elm-explorations/test)/75 | Write unit and fuzz tests for Elm code. |
 | 173 | 6 | 7 | 2 months ago | [kite](https://github.com/erkal/kite)/76 | An interactive visualization tool for graph theory: |
 | 172 | 13 | 8 | 7 months ago | [composable-form](https://github.com/hecrj/composable-form)/77 | Build type-safe composable forms in Elm |
 | 169 | 17 | 0 | 10 months ago | [elm-serverless](https://github.com/ktonon/elm-serverless)/78 | Maintained at: https://github.com/the-sett/elm-serverless |
 | 168 | 45 | 13 | 4 years ago | [elm-webgl](https://github.com/johnpmayer/elm-webgl)/79 | Functional 3D Rendering with WebGL in Elm |
-| 167 | 12 | 3 | 23 days ago | [elm-vega](https://github.com/gicentre/elm-vega)/80 | Elm - Vega Integration for functional declarative visualization |
+| 167 | 12 | 3 | 24 days ago | [elm-vega](https://github.com/gicentre/elm-vega)/80 | Elm - Vega Integration for functional declarative visualization |
 | 164 | 17 | 0 | a month ago | [elm-http-builder](https://github.com/lukewestby/elm-http-builder)/81 | elm-http-builder |
 | 159 | 7 | 3 | 9 days ago | [elmstatic](https://github.com/alexkorban/elmstatic)/82 | Elm-to-HTML static site generator |
 | 158 | 17 | 168 | 4 years ago | [error-message-catalog](https://github.com/elm/error-message-catalog)/83 | A catalog of broken Elm programs / data to improve error messages |
 | 154 | 23 | 52 | a month ago | [client](https://github.com/gingko/client)/84 | Gingko desktop client. Written in Elm, running in Electron. |
-| 151 | 20 | 2 | 8 months ago | [elm-demystify-decoders](https://github.com/zwilias/elm-demystify-decoders)/85 | 💡 Figure out how JSON decoders in Elm work by writing them. Step by step. |
-| 151 | 6 | 0 | 1 year, 8 months ago | [elmChallenges](https://github.com/pdamoc/elmChallenges)/86 | A learning project for Elm programming language |
-| 151 | 21 | 40 | 14 days ago | [elm-geometry](https://github.com/ianmackenzie/elm-geometry)/87 | 2D/3D geometry package for Elm |
-| 150 | 34 | 34 | 1 year, 3 days ago | [parser](https://github.com/elm/parser)/88 | A parsing library, focused on simplicity and great error messages |
-| 146 | 10 | 15 | 4 months ago | [elm-typescript-interop](https://github.com/dillonkearns/elm-typescript-interop)/89 | Generate TypeScript declaration files for your elm ports! |
+| 152 | 21 | 40 | 14 days ago | [elm-geometry](https://github.com/ianmackenzie/elm-geometry)/85 | 2D/3D geometry package for Elm |
+| 151 | 20 | 2 | 8 months ago | [elm-demystify-decoders](https://github.com/zwilias/elm-demystify-decoders)/86 | 💡 Figure out how JSON decoders in Elm work by writing them. Step by step. |
+| 151 | 6 | 0 | 1 year, 8 months ago | [elmChallenges](https://github.com/pdamoc/elmChallenges)/87 | A learning project for Elm programming language |
+| 150 | 34 | 34 | 1 year, 4 days ago | [parser](https://github.com/elm/parser)/88 | A parsing library, focused on simplicity and great error messages |
+| 146 | 11 | 15 | 4 months ago | [elm-typescript-interop](https://github.com/dillonkearns/elm-typescript-interop)/89 | Generate TypeScript declaration files for your elm ports! |
 | 143 | 10 | 23 | 8 months ago | [elm-verify-examples](https://github.com/stoeffel/elm-verify-examples)/90 | None |
 | 142 | 87 | 0 | a day ago | [Sanderling](https://github.com/Arcitectus/Sanderling)/91 | See the EVE Online client in a new way |
 | 142 | 20 | 3 | 9 months ago | [webgl](https://github.com/elm-community/webgl)/92 | Moved to elm-explorations/webgl |
@@ -131,14 +131,14 @@
 | 103 | 19 | 3 | 2 years ago | [elm-todo-rest-api](https://github.com/andrewsuzuki/elm-todo-rest-api)/128 | Modular, heavily-documented Elm todo app with a json rest api |
 | 103 | 13 | 12 | 1 year, 9 months ago | [elm-postgrest](https://github.com/john-kelly/elm-postgrest)/129 | Make PostgREST requests in Elm |
 | 103 | 9 | 9 | 5 days ago | [elm-webpack-starter](https://github.com/romariolopezc/elm-webpack-starter)/130 | Elm 0.19 webpack 4 starter template to build SPA |
-| 102 | 5 | 5 | 16 days ago | [narrows](https://github.com/emanchado/narrows)/131 | Online storytelling system |
+| 102 | 5 | 5 | 17 days ago | [narrows](https://github.com/emanchado/narrows)/131 | Online storytelling system |
 | 102 | 13 | 0 | 3 years ago | [elm-server-side-renderer](https://github.com/eeue56/elm-server-side-renderer)/132 | Render elm on the server  |
 | 102 | 13 | 4 | 2 years ago | [parser-combinators](https://github.com/elm-community/parser-combinators)/133 | A parser combinator library for Elm. |
 | 102 | 6 | 1 | 1 year, 4 months ago | [elm-json-decode-pipeline](https://github.com/NoRedInk/elm-json-decode-pipeline)/134 | Use pipelines to build JSON Decoders in Elm. |
 | 101 | 69 | 19 | 1 year, 10 months ago | [elm-datepicker](https://github.com/elm-community/elm-datepicker)/135 | A reusable date picker component in Elm. |
 | 101 | 4 | 0 | a month ago | [elm-form-decoder](https://github.com/arowM/elm-form-decoder)/136 | Scalable way to decode user inputs into neat structure. |
 | 100 | 9 | 4 | 5 years ago | [elm-router](https://github.com/TheSeamau5/elm-router)/137 | Easy routing in Elm |
-| 99 | 10 | 3 | 1 year, 17 days ago | [origami](https://github.com/JetBrains/origami)/138 | Code2Art: Branded Animation Generator |
+| 99 | 10 | 3 | 1 year, 18 days ago | [origami](https://github.com/JetBrains/origami)/138 | Code2Art: Branded Animation Generator |
 | 97 | 9 | 5 | 5 years ago | [elm-checkerboardgrid-tutorial](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial)/139 | Tutorial on Container Components in Elm |
 | 96 | 14 | 12 | 1 year, 4 months ago | [file](https://github.com/elm/file)/140 | Select files. Download files. Work with file content. |
 | 94 | 9 | 4 | 6 months ago | [elixre](https://github.com/lpil/elixre)/141 | 🦑  An Elixir regular expression editor & tester, with Elm |
@@ -157,7 +157,7 @@
 | 89 | 6 | 17 | 1 year, 2 months ago | [farm](https://github.com/inkandswitch/farm)/154 | 🌱 Grow delightful software |
 | 88 | 4 | 0 | 3 years ago | [elm-hn](https://github.com/massung/elm-hn)/155 | Hacker News in Elm |
 | 87 | 11 | 0 | 3 years ago | [phoenix-elm-battleship](https://github.com/bigardone/phoenix-elm-battleship)/156 | The Good Old game, built with Elixir, Phoenix, and Elm. |
-| 86 | 14 | 4 | a day ago | [sharry](https://github.com/eikek/sharry)/157 | Sharry is a self-hosted file sharing web application. |
+| 86 | 14 | 4 | 2 days ago | [sharry](https://github.com/eikek/sharry)/157 | Sharry is a self-hosted file sharing web application. |
 | 86 | 15 | 6 | 4 years ago | [mantl-ui-frontend](https://github.com/mantl/mantl-ui-frontend)/158 | Mantl-UI frontend code |
 | 85 | 3 | 1 | 3 years ago | [elm-peer-tweet](https://github.com/rogeriochaves/elm-peer-tweet)/159 | Decentralized feeds using BitTorrent's DHT. Based on lmatteis' peer-tweet. |
 | 84 | 4 | 0 | 2 years ago | [Gravity](https://github.com/stephenbalaban/Gravity)/160 | An orbital simulation game written in Elm |
@@ -178,12 +178,12 @@
 | 78 | 13 | 1 | 3 years ago | [focus](https://github.com/evancz/focus)/175 | A library for getting and setting values in deeply nested data structures. |
 | 78 | 4 | 7 | 3 years ago | [elm-time-travel](https://github.com/jinjor/elm-time-travel)/176 | An experimental debugger for Elm |
 | 77 | 35 | 4 | 1 year, 11 months ago | [elm-date-extra](https://github.com/rluiten/elm-date-extra)/177 | Elm Date Extra library add/subtract/diff/format etc dates |
-| 77 | 2 | 7 | 1 year, 18 days ago | [devtools](https://github.com/opvasger/devtools)/178 | Tools for developing Elm programs! :wrench: |
+| 77 | 2 | 7 | 1 year, 19 days ago | [devtools](https://github.com/opvasger/devtools)/178 | Tools for developing Elm programs! :wrench: |
 | 77 | 9 | 4 | 1 year, 2 months ago | [elm-text-editor](https://github.com/SidneyNemzer/elm-text-editor)/179 | A text editor written completely in Elm |
 | 77 | 7 | 3 | 4 years ago | [elm-phoenix](https://github.com/eeue56/elm-phoenix)/180 | Phoenix helpers for Elm |
 | 76 | 7 | 13 | 2 years ago | [goat](https://github.com/thebritican/goat)/181 | Annotate Images (or goats) On The Web™ |
-| 76 | 5 | 3 | 1 year, 3 months ago | [elm-return](https://github.com/Fresheyeball/elm-return)/182 | Writer powered pipelining for `(model, Cmd msg)` |
-| 76 | 10 | 2 | 2 years ago | [elm-route](https://github.com/elm-community/elm-route)/183 | A library for parsing routes. |
+| 76 | 10 | 2 | 2 years ago | [elm-route](https://github.com/elm-community/elm-route)/182 | A library for parsing routes. |
+| 76 | 5 | 3 | 1 year, 3 months ago | [elm-return](https://github.com/Fresheyeball/elm-return)/183 | Writer powered pipelining for `(model, Cmd msg)` |
 | 76 | 18 | 13 | 1 year, 7 months ago | [swarm-dashboard](https://github.com/charypar/swarm-dashboard)/184 | A simple monitoring dashboard for Docker in Swarm Mode. |
 | 76 | 13 | 11 | 2 years ago | [netlify-playground](https://github.com/netlify/netlify-playground)/185 | None |
 | 76 | 17 | 13 | 11 months ago | [json](https://github.com/elm/json)/186 | Work with JSON in Elm |
@@ -208,11 +208,11 @@
 | 65 | 13 | 17 | 13 days ago | [material-components-web-elm](https://github.com/aforemny/material-components-web-elm)/205 | Material Components for Elm |
 | 65 | 8 | 8 | 3 years ago | [elm-calendar](https://github.com/thebritican/elm-calendar)/206 | Reusable Calendar widget written in Elm |
 | 65 | 4 | 0 | 4 years ago | [elmflux](https://github.com/yang-wei/elmflux)/207 | Visualization of Elm Signals |
-| 64 | 4 | 17 | 3 days ago | [nakadi-ui](https://github.com/zalando-nakadi/nakadi-ui)/208 | Official Nakadi user interface. |
+| 64 | 4 | 17 | 4 days ago | [nakadi-ui](https://github.com/zalando-nakadi/nakadi-ui)/208 | Official Nakadi user interface. |
 | 64 | 4 | 2 | 3 months ago | [js-integration-examples](https://github.com/elm-community/js-integration-examples)/209 | Examples of common uses of ports and web components |
 | 64 | 11 | 5 | 3 years ago | [elm-parts](https://github.com/debois/elm-parts)/210 | Elm library to reduce Elm Architecture boilerplate |
-| 64 | 14 | 3 | 1 year, 1 month ago | [rosetta_home](https://github.com/rosetta-home/rosetta_home)/211 | Rosetta Home 2.0 is an open source building performance monitoring platform |
-| 64 | 24 | 10 | 3 years ago | [jadpole.github.io](https://github.com/jadpole/jadpole.github.io)/212 | None |
+| 64 | 24 | 10 | 3 years ago | [jadpole.github.io](https://github.com/jadpole/jadpole.github.io)/211 | None |
+| 64 | 14 | 3 | 1 year, 1 month ago | [rosetta_home](https://github.com/rosetta-home/rosetta_home)/212 | Rosetta Home 2.0 is an open source building performance monitoring platform |
 | 64 | 6 | 10 | 3 years ago | [elmplayground](https://github.com/jackfranklin/elmplayground)/213 | An Elm blog, written in Elm, about Elm. |
 | 63 | 3 | 0 | 2 years ago | [elm-hn](https://github.com/alpacaaa/elm-hn)/214 | An Hacker News clone written in Elm. |
 | 63 | 9 | 0 | 4 months ago | [elm-editor](https://github.com/Janiczek/elm-editor)/215 | Basic text editor written in Elm |
@@ -222,7 +222,7 @@
 | 62 | 19 | 8 | 4 months ago | [apostello](https://github.com/monty5811/apostello)/219 | sms for your church |
 | 62 | 15 | 1 | a month ago | [elm-oauth2](https://github.com/truqu/elm-oauth2)/220 | OAuth 2.0 client-side utils in Elm |
 | 61 | 27 | 2 | 3 years ago | [elm-beyond-basics](https://github.com/knowthen/elm-beyond-basics)/221 | Source companion for the Elmlang course at |
-| 61 | 17 | 18 | 13 days ago | [elm-syntax](https://github.com/stil4m/elm-syntax)/222 | Elm syntax in Elm |
+| 61 | 17 | 18 | 14 days ago | [elm-syntax](https://github.com/stil4m/elm-syntax)/222 | Elm syntax in Elm |
 | 61 | 4 | 7 | 6 months ago | [athlete](https://github.com/elm-athlete/athlete)/223 | 💪 type safe elm-html-css-builder aka athlete |
 | 61 | 19 | 0 | 2 years ago | [ruby-operators](https://github.com/anildigital/ruby-operators)/224 | Webpage to show interesting names of different Ruby operators. |
 | 60 | 12 | 1 | 2 months ago | [elm-draggable](https://github.com/zaboco/elm-draggable)/225 | An easy way to make DOM elements draggable |
@@ -230,7 +230,7 @@
 | 60 | 0 | 4 | 7 months ago | [elm-xref](https://github.com/zwilias/elm-xref)/227 | Experimental tool for finding unused functions/finding usages |
 | 60 | 15 | 3 | a month ago | [elm-pages-starter](https://github.com/dillonkearns/elm-pages-starter)/228 | Starter blog for elm-pages |
 | 60 | 32 | 23 | 1 year, 10 months ago | [url](https://github.com/elm/url)/229 | Build and parse URLs. Useful for HTTP and "routing" in single-page apps (SPAs) |
-| 60 | 4 | 15 | 1 year, 5 days ago | [libreirc](https://github.com/libreirc/libreirc)/230 | (inactive) :heartbeat: IRC Client for everyone! |
+| 60 | 4 | 15 | 1 year, 6 days ago | [libreirc](https://github.com/libreirc/libreirc)/230 | (inactive) :heartbeat: IRC Client for everyone! |
 | 59 | 6 | 2 | 4 months ago | [elm-news](https://github.com/oakesja/elm-news)/231 | All elm news in one place |
 | 59 | 2 | 3 | 10 months ago | [elm-browser](https://github.com/Janiczek/elm-browser)/232 | Smalltalk-like System Browser for Elm projects |
 | 59 | 12 | 1 | 3 years ago | [elmchat](https://github.com/twopoint718/elmchat)/233 | Using elm to make a simple chatroom |
@@ -247,10 +247,10 @@
 | 56 | 10 | 15 | 3 years ago | [elm-graphics](https://github.com/evancz/elm-graphics)/244 | The graphical building blocks that inspired Elm in the first place |
 | 56 | 3 | 5 | 2 months ago | [elm-slice-show](https://github.com/w0rm/elm-slice-show)/245 | A simple presentation engine in Elm |
 | 56 | 5 | 1 | 2 years ago | [step-sequencer](https://github.com/bholtbholt/step-sequencer)/246 | A step sequencer for programming drum beats, written in Elm. Published on Smashing Magazine. |
-| 56 | 4 | 0 | 2 months ago | [elm-cubik](https://github.com/w0rm/elm-cubik)/247 | Rubik's cube puzzle in the Elm language |
-| 56 | 11 | 1 | 3 years ago | [elm-with-jwt-api](https://github.com/auth0-blog/elm-with-jwt-api)/248 | None |
+| 56 | 11 | 1 | 3 years ago | [elm-with-jwt-api](https://github.com/auth0-blog/elm-with-jwt-api)/247 | None |
+| 56 | 4 | 0 | 2 months ago | [elm-cubik](https://github.com/w0rm/elm-cubik)/248 | Rubik's cube puzzle in the Elm language |
 | 55 | 10 | 0 | 3 years ago | [Breakout](https://github.com/Dobiasd/Breakout)/249 | A clone of the classical game for your browser. |
-| 55 | 13 | 31 | 12 hours ago | [elm-program-test](https://github.com/avh4/elm-program-test)/250 | Test Elm programs |
+| 55 | 13 | 31 | 21 hours ago | [elm-program-test](https://github.com/avh4/elm-program-test)/250 | Test Elm programs |
 | 55 | 10 | 8 | 1 year, 10 months ago | [caronaboard](https://github.com/CaronaBoard/caronaboard)/251 | Your car does not need to carry only you: |
 | 55 | 17 | 35 | 2 years ago | [HEBorn](https://github.com/HackerExperience/HEBorn)/252 | None |
 | 55 | 2 | 0 | 3 years ago | [elm-brands](https://github.com/joneshf/elm-brands)/253 | An experiment with higher-kinded types in elm |
@@ -259,7 +259,7 @@
 | 54 | 16 | 0 | 3 years ago | [elm-starter](https://github.com/mrmurphy/elm-starter)/256 | A starter kit for writing front-end apps with Elm |
 | 54 | 20 | 3 | 1 year, 9 months ago | [elm-bootstrap-html](https://github.com/circuithub/elm-bootstrap-html)/257 | Html shorthand for Bootstrap |
 | 54 | 1 | 0 | 3 years ago | [elm-devtool](https://github.com/jinjor/elm-devtool)/258 | An attempt to use Elm's debugger on Chrome DevTools |
-| 54 | 9 | 1 | 22 days ago | [elm-i18next](https://github.com/ChristophP/elm-i18next)/259 | https://package.elm-lang.org/packages/ChristophP/elm-i18next/latest |
+| 54 | 9 | 1 | 23 days ago | [elm-i18next](https://github.com/ChristophP/elm-i18next)/259 | https://package.elm-lang.org/packages/ChristophP/elm-i18next/latest |
 | 54 | 4 | 0 | 9 months ago | [haskell-elm-todo-app](https://github.com/sectore/haskell-elm-todo-app)/260 | Todo app build with Haskell (server-side) and Elm (client-side) |
 | 54 | 6 | 2 | 3 years ago | [generator-elmlang](https://github.com/Gizra/generator-elmlang)/261 | Yo generator for Elm |
 | 53 | 12 | 3 | 3 years ago | [elm-google-maps](https://github.com/rtfeldman/elm-google-maps)/262 | Using Google Maps in Elm by way of Polymer |
@@ -268,8 +268,8 @@
 | 53 | 3 | 9 | 4 years ago | [elm-sydron](https://github.com/jessitron/elm-sydron)/265 | a first elm app. Hits the github API for events for a hard-coded repository. |
 | 53 | 3 | 7 | 4 months ago | [elm-spotify-mapper](https://github.com/FidelisClayton/elm-spotify-mapper)/266 | An app built with Elm to explore new artists using the Spotify api. |
 | 53 | 1 | 9 | a month ago | [Ring-of-Worlds](https://github.com/RoganMurley/Ring-of-Worlds)/267 | Ring of Worlds: Multiplayer card game written in Haskell and Elm. |
-| 53 | 11 | 8 | a month ago | [mapwatch](https://github.com/mapwatch/mapwatch)/268 | Automatically time your Path of Exile map clears |
-| 53 | 5 | 6 | 2 years ago | [elm-charts](https://github.com/wuct/elm-charts)/269 | A pure Elm chart library 📈 |
+| 53 | 5 | 6 | 2 years ago | [elm-charts](https://github.com/wuct/elm-charts)/268 | A pure Elm chart library 📈 |
+| 53 | 11 | 8 | a month ago | [mapwatch](https://github.com/mapwatch/mapwatch)/269 | Automatically time your Path of Exile map clears |
 | 52 | 17 | 0 | 2 months ago | [elm-format-number](https://github.com/cuducos/elm-format-number)/270 | ✨Format numbers as pretty strings |
 | 52 | 2 | 4 | 7 days ago | [phoenix_live_view_dropzone](https://github.com/JonRowe/phoenix_live_view_dropzone)/271 | None |
 | 52 | 4 | 1 | 2 years ago | [now_dashboard](https://github.com/littleStudent/now_dashboard)/272 | ▲ZEIT dashboard written in elm |
@@ -295,11 +295,11 @@
 | 48 | 2 | 1 | 3 years ago | [elm-taco-donut](https://github.com/madasebrof/elm-taco-donut)/292 | A model for scaling Elm apps. (re-write of elm-taco) |
 | 47 | 5 | 0 | 4 years ago | [asteroids](https://github.com/irh/asteroids)/293 | An Asteroids clone written in Elm |
 | 46 | 2 | 3 | 4 years ago | [elm-web-api](https://github.com/rgrempel/elm-web-api)/294 | Elm bindings for various web APIs |
-| 46 | 4 | 0 | 2 years ago | [elm-spa-template](https://github.com/simon-larsson/elm-spa-template)/295 | Template application for elm that is divided into sub models for several pages |
-| 46 | 10 | 6 | 4 years ago | [elm-effects](https://github.com/evancz/elm-effects)/296 | DEPRECATED. Moved to elm-lang/core |
-| 46 | 4 | 0 | 2 years ago | [elm-phoenix-typeform-clone](https://github.com/dstreet26/elm-phoenix-typeform-clone)/297 | A clone of https://www.typeform.com/ using Elm, Phoenix and Tachyons |
-| 45 | 14 | 3 | a month ago | [elm-uuid](https://github.com/danyx23/elm-uuid)/298 | Generate and parse UUIDs in Elm |
-| 45 | 5 | 1 | 10 months ago | [elm-drill](https://github.com/jinjor/elm-drill)/299 | 手を動かしながら Elm に慣れるためのドリルです。 |
+| 46 | 5 | 1 | 10 months ago | [elm-drill](https://github.com/jinjor/elm-drill)/295 | 手を動かしながら Elm に慣れるためのドリルです。 |
+| 46 | 4 | 0 | 2 years ago | [elm-spa-template](https://github.com/simon-larsson/elm-spa-template)/296 | Template application for elm that is divided into sub models for several pages |
+| 46 | 10 | 6 | 4 years ago | [elm-effects](https://github.com/evancz/elm-effects)/297 | DEPRECATED. Moved to elm-lang/core |
+| 46 | 4 | 0 | 2 years ago | [elm-phoenix-typeform-clone](https://github.com/dstreet26/elm-phoenix-typeform-clone)/298 | A clone of https://www.typeform.com/ using Elm, Phoenix and Tachyons |
+| 45 | 14 | 3 | a month ago | [elm-uuid](https://github.com/danyx23/elm-uuid)/299 | Generate and parse UUIDs in Elm |
 | 45 | 2 | 1 | 3 years ago | [elm-routing-example](https://github.com/etaque/elm-routing-example)/300 | SPA routing example for Elm 0.17 |
 | 45 | 7 | 1 | 2 years ago | [ev3](https://github.com/jfcloutier/ev3)/301 | Library for programming Mindstorm EV3 robots in Elixir |
 | 45 | 2 | 0 | 3 months ago | [elm-quake3-renderer](https://github.com/passiomatic/elm-quake3-renderer)/302 | Render Quake 3 Arena maps with Elm and WebGL |
@@ -375,7 +375,7 @@
 | 36 | 2 | 0 | 4 years ago | [destroid](https://github.com/fieldstrength/destroid)/372 | A space shooter based on the classic Asteroids |
 | 36 | 7 | 0 | 5 months ago | [elm-nonempty-list](https://github.com/mgold/elm-nonempty-list)/373 | head and tail without the Maybe |
 | 36 | 6 | 5 | 1 year, 3 months ago | [elm-verify](https://github.com/stoeffel/elm-verify)/374 | None |
-| 35 | 3 | 0 | 1 year, 14 days ago | [ephemeral](https://github.com/fpapado/ephemeral)/375 | (Archived) A progressive web app for writing down words and translations as you encounter them. |
+| 35 | 3 | 0 | 1 year, 15 days ago | [ephemeral](https://github.com/fpapado/ephemeral)/375 | (Archived) A progressive web app for writing down words and translations as you encounter them. |
 | 35 | 10 | 4 | 2 years ago | [geolocation](https://github.com/elm-lang/geolocation)/376 | Get location data from Elm |
 | 35 | 8 | 4 | 4 years ago | [ElmByExample](https://github.com/grzegorzbalcerek/ElmByExample)/377 | None |
 | 35 | 0 | 0 | 2 years ago | [dashboard](https://github.com/Nexosis/dashboard)/378 | Interactive dashboard for the Nexosis API |
@@ -383,12 +383,12 @@
 | 35 | 8 | 2 | 2 months ago | [Fretboard](https://github.com/fredericcormier/Fretboard)/380 | Chords, Scales and Fingerings for string instruments. in Elm |
 | 35 | 17 | 10 | 8 months ago | [exercism](https://github.com/lambda-study-group/exercism)/381 | Exercism - FP languages Exercises  |
 | 35 | 2 | 2 | 2 years ago | [tv](https://github.com/obtuseio/tv)/382 | Visualize IMDb Ratings of any TV Show's Episodes. |
-| 35 | 52 | 3 | 14 hours ago | [bots](https://github.com/Viir/bots)/383 | Discover a new side of your favorite video game. |
+| 35 | 52 | 3 | 22 hours ago | [bots](https://github.com/Viir/bots)/383 | Discover a new side of your favorite video game. |
 | 35 | 2 | 2 | 2 years ago | [a-very-im-port-ant-topic](https://github.com/mrmurphy/a-very-im-port-ant-topic)/384 | Source and slides for an Elm Conf 2017 talk: "A Very Im-port-ant Topic" |
 | 35 | 2 | 0 | 2 years ago | [elm-verbal-expressions](https://github.com/VerbalExpressions/elm-verbal-expressions)/385 | Elm Regular expressions made easy |
 | 35 | 2 | 3 | 11 months ago | [elm-text-search](https://github.com/rluiten/elm-text-search)/386 | Full text index engine in Elm language inspired by lunr.js. |
 | 34 | 9 | 2 | 3 years ago | [boxes-and-bubbles](https://github.com/jastice/boxes-and-bubbles)/387 | A simple-as-possible 2D physics rigid-body physics engine for Elm. |
-| 34 | 8 | 4 | 19 days ago | [elm-book](https://github.com/jinjor/elm-book)/388 | None |
+| 34 | 8 | 4 | 20 days ago | [elm-book](https://github.com/jinjor/elm-book)/388 | None |
 | 34 | 7 | 0 | 4 years ago | [autoheadline](https://github.com/krisajenkins/autoheadline)/389 | Generate Headlines from Hacker News |
 | 34 | 3 | 1 | 1 year, 10 months ago | [elm-state](https://github.com/folkertdev/elm-state)/390 | Threading state through computations in elm |
 | 34 | 12 | 42 | 2 months ago | [drupal-elm-starter](https://github.com/Gizra/drupal-elm-starter)/391 | DEPRECATED - See https://github.com/Gizra/drupal-starter |
@@ -408,9 +408,9 @@
 | 32 | 14 | 7 | 1 year, 9 days ago | [random](https://github.com/elm/random)/405 | Generate random values in Elm |
 | 32 | 4 | 3 | 4 months ago | [elm-outdated](https://github.com/gyzerok/elm-outdated)/406 | Keep your Elm dependencies up-to-date |
 | 32 | 2 | 1 | 2 years ago | [kube-alive](https://github.com/daniel-kun/kube-alive)/407 | Some tools to experiment with Kubernetes to observe it's real-life behavior |
-| 32 | 4 | 9 | 1 year, 2 months ago | [elm-desktop-app](https://github.com/avh4/elm-desktop-app)/408 | the simplest way to write desktop applications in Elm |
-| 32 | 2 | 0 | 9 months ago | [elm-particle](https://github.com/BrianHicks/elm-particle)/409 |  Simple particle system for web apps. Designed for visual flourishes like confetti. |
-| 32 | 1 | 1 | 2 years ago | [elm-module-graph](https://github.com/justinmimbs/elm-module-graph)/410 | Visually explore package and module dependencies for an Elm project |
+| 32 | 1 | 1 | 2 years ago | [elm-module-graph](https://github.com/justinmimbs/elm-module-graph)/408 | Visually explore package and module dependencies for an Elm project |
+| 32 | 4 | 9 | 1 year, 2 months ago | [elm-desktop-app](https://github.com/avh4/elm-desktop-app)/409 | the simplest way to write desktop applications in Elm |
+| 32 | 2 | 0 | 9 months ago | [elm-particle](https://github.com/BrianHicks/elm-particle)/410 |  Simple particle system for web apps. Designed for visual flourishes like confetti. |
 | 32 | 13 | 7 | 1 year, 3 months ago | [graphicsvg](https://github.com/MacCASOutreach/graphicsvg)/411 | Graphics library authored by Chris Schankula and Dr. Christopher Anand |
 | 31 | 2 | 0 | 3 years ago | [extending-tea](https://github.com/klemola/extending-tea)/412 | Example of an extension to The Elm Architecture |
 | 31 | 24 | 15 | a month ago | [string-extra](https://github.com/elm-community/string-extra)/413 | String helper functions for Elm. |
@@ -419,8 +419,8 @@
 | 31 | 2 | 2 | 2 years ago | [elm-css-normalize](https://github.com/scottcorgan/elm-css-normalize)/416 | A port of normalize.css for elm-css |
 | 30 | 8 | 5 | 4 years ago | [elm-svg](https://github.com/evancz/elm-svg)/417 | DEPRECATED. Moved to elm-lang/svg |
 | 30 | 2 | 6 | 1 year, 9 months ago | [json-schema](https://github.com/json-tools/json-schema)/418 | JSON Schema draft-6 implementation for elm. |
-| 30 | 13 | 3 | 1 year, 9 months ago | [erl](https://github.com/sporto/erl)/419 | URL parsing library for ELM  |
-| 30 | 9 | 12 | 1 year, 10 months ago | [elm-aframe](https://github.com/halfzebra/elm-aframe)/420 | :sunglasses: A-Frame bindings for Elm |
+| 30 | 9 | 12 | 1 year, 10 months ago | [elm-aframe](https://github.com/halfzebra/elm-aframe)/419 | :sunglasses: A-Frame bindings for Elm |
+| 30 | 13 | 3 | 1 year, 9 months ago | [erl](https://github.com/sporto/erl)/420 | URL parsing library for ELM  |
 | 30 | 1 | 0 | 3 years ago | [transfer-window-elm](https://github.com/times/transfer-window-elm)/421 | Elm code for the Premier League 2016 summer transfer window interactive |
 | 30 | 4 | 0 | 1 year, 8 months ago | [elm-spa-boilerplate](https://github.com/lucamug/elm-spa-boilerplate)/422 | Boilerplate to create Single Page Applications in Elm |
 | 30 | 3 | 0 | 2 years ago | [office-maker](https://github.com/WorksApplications/office-maker)/423 | None |
@@ -429,7 +429,7 @@
 | 30 | 0 | 0 | 2 years ago | [elm-double-folding-pattern](https://github.com/simonewebdesign/elm-double-folding-pattern)/426 | Actions + Events = :dragon: |
 | 30 | 1 | 0 | 2 years ago | [elm-workshop](https://github.com/diogob/elm-workshop)/427 | Elm + PostgREST workshop, building a simple database query user interface. |
 | 30 | 13 | 18 | 1 year, 8 months ago | [elm-jsonapi](https://github.com/noahzgordon/elm-jsonapi)/428 | decoders and helper functions for handling JSON API compliant server payloads |
-| 30 | 5 | 0 | 26 days ago | [elm-infinite-scroll](https://github.com/FabienHenon/elm-infinite-scroll)/429 | An infinite scroll API for Elm |
+| 30 | 5 | 0 | 27 days ago | [elm-infinite-scroll](https://github.com/FabienHenon/elm-infinite-scroll)/429 | An infinite scroll API for Elm |
 | 29 | 3 | 0 | 4 years ago | [elm-pokemon](https://github.com/passy/elm-pokemon)/430 | None |
 | 29 | 0 | 0 | 10 months ago | [elm-io](https://github.com/chrilves/elm-io)/431 | Pure IO like monad |
 | 29 | 9 | 1 | 3 years ago | [elm-image-upload](https://github.com/phylor/elm-image-upload)/432 | Example how to upload images with elm 0.18 (taken from https://www.paramander.com/blog/using-ports-to-deal-with-files-in-elm-0-17) |
@@ -444,7 +444,7 @@
 | 29 | 16 | 6 | 1 year, 3 months ago | [elm-iso8601-date-strings](https://github.com/rtfeldman/elm-iso8601-date-strings)/441 | Convert between ISO-8601 date strings and Time.Posix |
 | 29 | 5 | 3 | 1 year, 4 months ago | [elm-multiway-tree-zipper](https://github.com/tomjkidd/elm-multiway-tree-zipper)/442 | A library for navigating and updating immutable trees. |
 | 29 | 13 | 1 | a month ago | [html-extra](https://github.com/elm-community/html-extra)/443 | Additional functions for working with Html. |
-| 29 | 5 | 0 | 29 days ago | [arisgarden](https://github.com/theiceshelf/arisgarden)/444 | Electronic Cookbook |
+| 29 | 5 | 0 | 30 days ago | [arisgarden](https://github.com/theiceshelf/arisgarden)/444 | Electronic Cookbook |
 | 28 | 8 | 3 | 8 months ago | [elm-kinto](https://github.com/Kinto/elm-kinto)/445 | An Elm client for the Kinto API |
 | 28 | 4 | 3 | 4 years ago | [CastleOfElm](https://github.com/doppioslash/CastleOfElm)/446 | Roguelike for 7DRL make in Elm |
 | 28 | 13 | 5 | 2 years ago | [elm-color-extra](https://github.com/eskimoblood/elm-color-extra)/447 | :art: Additional color handling for Elm |
@@ -458,8 +458,8 @@
 | 28 | 3 | 2 | 2 years ago | [animation-frame](https://github.com/elm-lang/animation-frame)/455 | Somewhat low-level API for getting smoother animations with requestAnimationFrame |
 | 28 | 3 | 0 | 6 years ago | [traffic](https://github.com/adamw/traffic)/456 | None |
 | 28 | 3 | 0 | 1 year, 6 months ago | [path](https://github.com/jamonholmgren/path)/457 | Elm pathfinding demo by Jamon Holmgren and Chris Krycho |
-| 28 | 15 | 1 | 3 years ago | [elm-mdl-dashboard](https://github.com/vipentti/elm-mdl-dashboard)/458 | elm-mdl-dashboard Example |
-| 28 | 6 | 0 | 3 years ago | [Demoscene-Concentration](https://github.com/Dobiasd/Demoscene-Concentration)/459 | The classical memory game with old school demoscene effects. |
+| 28 | 6 | 0 | 3 years ago | [Demoscene-Concentration](https://github.com/Dobiasd/Demoscene-Concentration)/458 | The classical memory game with old school demoscene effects. |
+| 28 | 15 | 1 | 3 years ago | [elm-mdl-dashboard](https://github.com/vipentti/elm-mdl-dashboard)/459 | elm-mdl-dashboard Example |
 | 27 | 9 | 3 | 2 months ago | [elm-infinite-list-view](https://github.com/FabienHenon/elm-infinite-list-view)/460 | Displays a virtual infinite list, only showing visible items |
 | 27 | 2 | 0 | 9 months ago | [elm-lint](https://github.com/jfmengels/elm-lint)/461 | elm-lint lints Elm source code, to add additional guarantees to your project. |
 | 27 | 4 | 1 | 2 years ago | [elm-navigation-pushstate-example](https://github.com/sporto/elm-navigation-pushstate-example)/462 | Example Elm application with push state navigation |
@@ -512,17 +512,17 @@
 | 24 | 3 | 32 | 1 year, 11 months ago | [annotation-app](https://github.com/mpizenberg/annotation-app)/509 | Generic, reusable, image annotation web application |
 | 24 | 5 | 2 | 1 year, 10 months ago | [elm-dnd](https://github.com/ir4y/elm-dnd)/510 | Build great UI with drag-and-drop simple |
 | 24 | 2 | 0 | 3 years ago | [trampoline](https://github.com/elm-lang/trampoline)/511 | Crazy recursion without growing the stack. |
-| 24 | 3 | 0 | 1 year, 10 months ago | [elm-delay](https://github.com/andrewMacmurray/elm-delay)/512 | Utilities to delay updates after a set period of time |
-| 23 | 6 | 1 | 4 months ago | [trains](https://github.com/ohanhi/trains)/513 | Elm SPA for live station schedules for Helsinki region commuter trains |
-| 23 | 1 | 0 | 3 years ago | [elephant-guide](https://github.com/IwalkAlone/elephant-guide)/514 | Magic: the Gathering deck tuning tool implementing the Elephant Method |
-| 23 | 8 | 4 | 3 years ago | [elm-tree-diagram](https://github.com/brenden/elm-tree-diagram)/515 |  Elm package for drawing diagrams of trees |
-| 23 | 4 | 0 | 2 years ago | [do-you-even-elm](https://github.com/jackfranklin/do-you-even-elm)/516 | How much Elm do you do? |
-| 23 | 6 | 2 | 5 months ago | [open-radiant](https://github.com/JetBrains/open-radiant)/517 | JetBrains Branded Art Generator |
-| 23 | 0 | 17 | 21 days ago | [MiSTer_WebMenu](https://github.com/nilp0inter/MiSTer_WebMenu)/518 | A web interface for MiSTer |
-| 23 | 2 | 2 | 8 months ago | [context-cards](https://github.com/joakin/context-cards)/519 | Wikipedia page previews for any site |
-| 23 | 2 | 0 | 5 years ago | [chess-elm](https://github.com/grzegorzbalcerek/chess-elm)/520 | The game of chess written in elm. |
-| 23 | 6 | 1 | 4 years ago | [elm-signal-extra](https://github.com/Apanatshka/elm-signal-extra)/521 | (defunct as of Elm 0.17) Signal-related, advanced and convenience functions |
-| 23 | 4 | 22 | 6 days ago | [elm-antd](https://github.com/supermacro/elm-antd)/522 | The official Ant Design UI Kit for Elm |
+| 24 | 4 | 22 | 6 days ago | [elm-antd](https://github.com/supermacro/elm-antd)/512 | The official Ant Design UI Kit for Elm |
+| 24 | 3 | 0 | 1 year, 10 months ago | [elm-delay](https://github.com/andrewMacmurray/elm-delay)/513 | Utilities to delay updates after a set period of time |
+| 23 | 6 | 1 | 4 months ago | [trains](https://github.com/ohanhi/trains)/514 | Elm SPA for live station schedules for Helsinki region commuter trains |
+| 23 | 1 | 0 | 3 years ago | [elephant-guide](https://github.com/IwalkAlone/elephant-guide)/515 | Magic: the Gathering deck tuning tool implementing the Elephant Method |
+| 23 | 8 | 4 | 3 years ago | [elm-tree-diagram](https://github.com/brenden/elm-tree-diagram)/516 |  Elm package for drawing diagrams of trees |
+| 23 | 4 | 0 | 2 years ago | [do-you-even-elm](https://github.com/jackfranklin/do-you-even-elm)/517 | How much Elm do you do? |
+| 23 | 6 | 2 | 5 months ago | [open-radiant](https://github.com/JetBrains/open-radiant)/518 | JetBrains Branded Art Generator |
+| 23 | 0 | 17 | 22 days ago | [MiSTer_WebMenu](https://github.com/nilp0inter/MiSTer_WebMenu)/519 | A web interface for MiSTer |
+| 23 | 2 | 2 | 8 months ago | [context-cards](https://github.com/joakin/context-cards)/520 | Wikipedia page previews for any site |
+| 23 | 2 | 0 | 5 years ago | [chess-elm](https://github.com/grzegorzbalcerek/chess-elm)/521 | The game of chess written in elm. |
+| 23 | 6 | 1 | 4 years ago | [elm-signal-extra](https://github.com/Apanatshka/elm-signal-extra)/522 | (defunct as of Elm 0.17) Signal-related, advanced and convenience functions |
 | 23 | 1 | 2 | 11 days ago | [palette](https://github.com/tesk9/palette)/523 | Define, blend, and generate Colors and Palettes in Elm. |
 | 22 | 1 | 2 | 3 years ago | [eventsource](https://github.com/OpenSensorsIO/eventsource)/524 | Server Side Events (eventsource) library for Elm |
 | 22 | 2 | 6 | 2 months ago | [elm-kitchen](https://github.com/allo-media/elm-kitchen)/525 | Easily bootstrap a new Elm SPA |
@@ -539,7 +539,7 @@
 | 22 | 6 | 8 | 4 years ago | [cookie](https://github.com/elm-lang/cookie)/536 | Would it be better to use the Set-Cookie header? |
 | 22 | 3 | 4 | 10 months ago | [elm-firebase](https://github.com/jlengrand/elm-firebase)/537 | A simple repository to show Elm integration with Firebase using ports - WIP |
 | 22 | 2 | 0 | 1 year, 8 months ago | [elm-porter](https://github.com/peterszerzo/elm-porter)/538 | Elm ports' wrapper for uncomplicated request-response-style communication |
-| 22 | 0 | 1 | 17 days ago | [graph-editor](https://github.com/jhrcek/graph-editor)/539 | Simple editor for creating graphs implemented purely in Elm. |
+| 22 | 0 | 1 | 18 days ago | [graph-editor](https://github.com/jhrcek/graph-editor)/539 | Simple editor for creating graphs implemented purely in Elm. |
 | 22 | 3 | 4 | 5 months ago | [assoc-list](https://github.com/pzp1997/assoc-list)/540 | Dictionary with custom keys implemented using association lists |
 | 21 | 4 | 5 | 3 years ago | [hydra-frontend](https://github.com/domenkozar/hydra-frontend)/541 | Superseeded by https://github.com/hercules-ci/hercules |
 | 21 | 0 | 0 | 4 months ago | [talks](https://github.com/dillonkearns/talks)/542 | None |
@@ -552,7 +552,7 @@
 | 21 | 5 | 0 | 2 years ago | [elm-scroll](https://github.com/abrykajlo/elm-scroll)/549 | An Elm Library for scrolling through a page |
 | 21 | 2 | 1 | 1 year, 7 months ago | [programacao-funcional](https://github.com/fabiommendes/programacao-funcional)/550 | Repositório para a disciplina Tópicos Especiais em Programação: Programação funcional |
 | 21 | 3 | 1 | 4 months ago | [one-true-path-experiment](https://github.com/folkertdev/one-true-path-experiment)/551 | Creating a nice interface for SVG paths in Elm |
-| 21 | 1 | 15 | 28 days ago | [elm-script](https://github.com/ianmackenzie/elm-script)/552 | Experimental command-line scripting for Elm |
+| 21 | 2 | 15 | 29 days ago | [elm-script](https://github.com/ianmackenzie/elm-script)/552 | Experimental command-line scripting for Elm |
 | 21 | 5 | 4 | 1 year, 4 months ago | [elm-html-string](https://github.com/zwilias/elm-html-string)/553 | Drop in elm-lang/html replacement which can serialize to a pretty `String` |
 | 21 | 1 | 1 | 3 years ago | [elm-belle](https://github.com/belle-ui/elm-belle)/554 | Elm Components |
 | 21 | 2 | 3 | 3 years ago | [capodicis-notes](https://github.com/mcapodici/capodicis-notes)/555 | Source for the Chrome Extension of the same name |
@@ -564,7 +564,7 @@
 | 20 | 4 | 5 | 2 years ago | [elm-aws-cognito](https://github.com/avh4/elm-aws-cognito)/561 | Example of using AWS Cognito in Elm via ports |
 | 20 | 5 | 18 | 6 months ago | [elm-color](https://github.com/avh4/elm-color)/562 | Standard representation of colors, encouraging sharing between packages.  (This replaces elm-lang/core#Color from Elm 0.18.) |
 | 20 | 0 | 0 | 17 days ago | [elm-in-qt](https://github.com/Janiczek/elm-in-qt)/563 | Elm app driving QT (QML) native binary! |
-| 20 | 7 | 9 | 8 days ago | [LiaScript](https://github.com/liaScript/LiaScript)/564 | Interpreter interactive educational content, written in an extended Markdown format...    |
+| 20 | 7 | 9 | 9 days ago | [LiaScript](https://github.com/liaScript/LiaScript)/564 | Interpreter interactive educational content, written in an extended Markdown format...    |
 | 20 | 0 | 0 | 2 years ago | [force-layout](https://github.com/jhrcek/force-layout)/565 | Force-directed graph layout algorithm implemented in Elm |
 | 20 | 3 | 28 | 1 year, 18 days ago | [platformer](https://github.com/justgook/platformer)/566 | Demo: https://game.z0.lv/ |
 | 20 | 2 | 0 | 1 year, 9 months ago | [murmur3](https://github.com/Skinney/murmur3)/567 | Elm implementation of murmur3 hash function |
@@ -575,7 +575,7 @@
 | 20 | 2 | 2 | 4 years ago | [polymer-with-elm](https://github.com/quephird/polymer-with-elm)/572 | An illustration of how to incorporate Polymer components in an Elm app |
 | 21 | 2 | 14 | 1 year, 6 months ago | [benchmark](https://github.com/elm-explorations/benchmark)/573 | None |
 | 20 | 7 | 1 | 1 year, 8 months ago | [numeral-elm](https://github.com/ggb/numeral-elm)/574 | Numeral.js port to Elm |
-| 20 | 3 | 0 | 14 days ago | [elm-starfighter](https://github.com/y047aka/elm-starfighter)/575 | None |
+| 20 | 3 | 0 | 15 days ago | [elm-starfighter](https://github.com/y047aka/elm-starfighter)/575 | None |
 | 20 | 2 | 0 | 5 years ago | [lambdaconf-2015-elm-workshop](https://github.com/rtfeldman/lambdaconf-2015-elm-workshop)/576 | Materials for the Elm Workshop at LambdaConf 2015 |
 | 20 | 0 | 0 | a month ago | [PolarClockElm](https://github.com/sandydoo/PolarClockElm)/577 | A colorful, animated polar clock in Elm inspired by an infamous screensaver. |
 | 20 | 4 | 0 | 9 months ago | [Scylla](https://github.com/DanilaFe/Scylla)/578 | An Elm-based front-end for Matrix. |
@@ -621,7 +621,7 @@
 | 18 | 2 | 2 | a month ago | [elm-obj-loader](https://github.com/declension/elm-obj-loader)/618 | An elm library for importing wavefront .obj files into your WebGL application. |
 | 18 | 4 | 5 | 2 years ago | [markdown](https://github.com/elm-explorations/markdown)/619 | Markdown parser available for historical reasons. Will be replaced when we have an Elm implementation! |
 | 18 | 2 | 0 | 4 years ago | [elm-recipes](https://github.com/alexspurling/elm-recipes)/620 | Mini tutorials for common use cases in Elm |
-| 18 | 9 | 0 | a month ago | [kalkulator.ot.mk](https://github.com/skopjehacklab/kalkulator.ot.mk)/621 | Калкулатор за пресметка на придонеси и нето <-> бруто плата |
+| 18 | 9 | 0 | 2 months ago | [kalkulator.ot.mk](https://github.com/skopjehacklab/kalkulator.ot.mk)/621 | Калкулатор за пресметка на придонеси и нето <-> бруто плата |
 | 18 | 0 | 0 | 8 months ago | [polyhedra](https://github.com/justinmimbs/polyhedra)/622 | Explore polyhedron truncation of the five Platonic solids |
 | 18 | 1 | 1 | 2 years ago | [example-elm-searchable-dropdown](https://github.com/JoelQ/example-elm-searchable-dropdown)/623 | Project for Elm-lang workshop |
 | 19 | 1 | 2 | 3 years ago | [elm-i18n](https://github.com/lukewestby/elm-i18n)/624 | DEPRECATED. SEE http://www.gizra.com/content/elm-i18n-type-safety/ |
@@ -638,8 +638,8 @@
 | 18 | 8 | 1 | 5 months ago | [rakutentech.github.io](https://github.com/rakutentech/rakutentech.github.io)/635 | Rakuten Technology Page |
 | 18 | 2 | 5 | 6 months ago | [Odyssey](https://github.com/Libbum/Odyssey)/636 | Next generation gallery. Exceptional images deserve an exceptional presentation. |
 | 18 | 4 | 1 | 3 months ago | [elm-debug-controls](https://github.com/avh4/elm-debug-controls)/637 | Easily build interactive UIs for complex data structures |
-| 18 | 7 | 0 | 2 years ago | [servant-elm-example-app](https://github.com/mattjbray/servant-elm-example-app)/638 | An example application using servant-elm. |
-| 18 | 2 | 0 | 3 years ago | [wihere](https://github.com/NickSeagull/wihere)/639 | :headphones: - Wireless Headphone Refresher |
+| 18 | 2 | 0 | 3 years ago | [wihere](https://github.com/NickSeagull/wihere)/638 | :headphones: - Wireless Headphone Refresher |
+| 18 | 7 | 0 | 2 years ago | [servant-elm-example-app](https://github.com/mattjbray/servant-elm-example-app)/639 | An example application using servant-elm. |
 | 17 | 27 | 2 | 5 years ago | [elm-examples](https://github.com/michaelbjames/elm-examples)/640 | Some pleasant examples that show off the reactor and get you started |
 | 17 | 1 | 0 | 3 years ago | [elm-spa](https://github.com/billperegoy/elm-spa)/641 | Sample Single Page Web App in Elm |
 | 17 | 1 | 0 | 1 year, 10 months ago | [elm-simple-fuzzy](https://github.com/NoRedInk/elm-simple-fuzzy)/642 | http://package.elm-lang.org/packages/NoRedInk/elm-simple-fuzzy/latest |
@@ -647,7 +647,7 @@
 | 17 | 0 | 0 | 4 years ago | [elm-codify](https://github.com/rtfeldman/elm-codify)/644 | A tool to generate Elm decoders, encoders, and type aliases from JSON. |
 | 17 | 3 | 0 | 6 months ago | [advent-of-code](https://github.com/Janiczek/advent-of-code)/645 | (Mostly) Elm solutions for Advent of Code |
 | 17 | 3 | 3 | 1 year, 10 months ago | [tabata-timer](https://github.com/jackysee/tabata-timer)/646 | A tabata timer in Elm |
-| 17 | 4 | 4 | 9 days ago | [futuhours-next](https://github.com/futurice/futuhours-next)/647 | A simple frontend for logging work hours |
+| 17 | 4 | 4 | 10 days ago | [futuhours-next](https://github.com/futurice/futuhours-next)/647 | A simple frontend for logging work hours |
 | 17 | 1 | 2 | 3 years ago | [elm-logger](https://github.com/iosphere/elm-logger)/648 | Elm logger with support for log levels and colored console output |
 | 17 | 8 | 4 | 4 years ago | [flex-html](https://github.com/TheSeamau5/flex-html)/649 | Flexbox layout for elm-html |
 | 17 | 3 | 2 | 4 years ago | [candy-and-allowances](https://github.com/BrianHicks/candy-and-allowances)/650 | Candy and Allowances Code |
@@ -658,11 +658,11 @@
 | 17 | 1 | 1 | 5 years ago | [elm-animations](https://github.com/avh4/elm-animations)/655 | None |
 | 17 | 0 | 2 | 4 years ago | [elm-hot-reload](https://github.com/ccapndave/elm-hot-reload)/656 | State preserving hot reload in Elm |
 | 17 | 3 | 0 | 25 days ago | [Elmstagram](https://github.com/bkbooth/Elmstagram)/657 | A basic UI-clone of Instagram using Elm |
-| 17 | 2 | 11 | 15 days ago | [elm-markdown](https://github.com/jxxcarlson/elm-markdown)/658 | Pure elm markdown parser with optional extensions for math, poetry, etc. |
+| 17 | 2 | 11 | 16 days ago | [elm-markdown](https://github.com/jxxcarlson/elm-markdown)/658 | Pure elm markdown parser with optional extensions for math, poetry, etc. |
 | 17 | 1 | 0 | 2 years ago | [stream](https://github.com/naddeoa/stream)/659 | Functional, infinite streams of data in Elm that won't overflow the stack |
 | 17 | 0 | 0 | 4 years ago | [afro-kravitz](https://github.com/isovector/afro-kravitz)/660 | it's a guitar jammer |
 | 17 | 1 | 0 | 4 years ago | [lot](https://github.com/esad/lot)/661 | Constaints-based spreadsheet prototype |
-| 17 | 1 | 3 | 13 days ago | [elm-dependencies-analyzer](https://github.com/malaire/elm-dependencies-analyzer)/662 | None |
+| 17 | 1 | 3 | 14 days ago | [elm-dependencies-analyzer](https://github.com/malaire/elm-dependencies-analyzer)/662 | None |
 | 16 | 15 | 0 | 4 years ago | [elm-graph](https://github.com/sgraf812/elm-graph)/663 | This repository moved to https://github.com/elm-community/graph |
 | 16 | 2 | 0 | 1 year, 3 months ago | [elm-port-funnel](https://github.com/billstclair/elm-port-funnel)/664 | Funnel ALL your port modules through a single pair of ports |
 | 16 | 2 | 5 | 3 years ago | [elm-patterns](https://github.com/sporto/elm-patterns)/665 | A collection of common patterns for Elm |
@@ -720,14 +720,14 @@
 | 15 | 0 | 0 | 2 years ago | [elm-hashids](https://github.com/pdamoc/elm-hashids)/717 | Elm port of the Hashids library. |
 | 15 | 0 | 2 | 11 months ago | [space_invaders](https://github.com/gege251/space_invaders)/718 | Space Invaders game in Elm |
 | 15 | 3 | 14 | 1 year, 4 months ago | [tasksched](https://github.com/AnotherKamila/tasksched)/719 | An opinionated Taskwarrior web UI. Great for scheduling when to do your tasks. |
-| 15 | 4 | 0 | 1 year, 7 days ago | [elm-plane](https://github.com/odedw/elm-plane)/720 | A flappy bird clone written in  elm. |
+| 15 | 4 | 0 | 1 year, 8 days ago | [elm-plane](https://github.com/odedw/elm-plane)/720 | A flappy bird clone written in  elm. |
 | 14 | 0 | 3 | 2 years ago | [elm-beats](https://github.com/kafecho/elm-beats)/721 | A simple drum machine written in Elm with the Web Audio API |
 | 14 | 2 | 0 | 8 months ago | [elm-7guis](https://github.com/joakin/elm-7guis)/722 | Elm implementation of the 7GUIs tasks |
 | 14 | 2 | 0 | 2 years ago | [elm-inline-hover](https://github.com/jinjor/elm-inline-hover)/723 | An utility for using :hover by inline style |
 | 14 | 8 | 2 | 2 years ago | [elm-dropzone](https://github.com/danyx23/elm-dropzone)/724 | Easily allow users to drop files into the browser in Elm |
 | 14 | 3 | 0 | 3 years ago | [game2048elm](https://github.com/zindel/game2048elm)/725 | 2048 Game in Elm |
 | 14 | 1 | 1 | 3 years ago | [elm-nested-router](https://github.com/apuchenkin/elm-nested-router)/726 | A simple nested router for Elm SPA |
-| 14 | 0 | 9 | 15 days ago | [ultimate-tictactoe](https://github.com/jjst/ultimate-tictactoe)/727 | An implementation of ultimate tictactoe in Elm |
+| 14 | 0 | 9 | 16 days ago | [ultimate-tictactoe](https://github.com/jjst/ultimate-tictactoe)/727 | An implementation of ultimate tictactoe in Elm |
 | 14 | 2 | 0 | 1 year, 1 month ago | [rain](https://github.com/erik/rain)/728 | Minimal IRC client in Elm. |
 | 14 | 7 | 0 | 4 years ago | [elm-webaudio](https://github.com/bmatcuk/elm-webaudio)/729 | Elm library for accessing the Web Audio API |
 | 14 | 0 | 0 | 2 years ago | [elm-shooter](https://github.com/sporto/elm-shooter)/730 | Side scroll shooter in Elm |
@@ -752,7 +752,7 @@
 | 14 | 0 | 1 | 4 years ago | [meteor-elm-meteor](https://github.com/Kriegslustig/meteor-elm-meteor)/749 | Elm bindings for Meteor |
 | 14 | 2 | 0 | 3 years ago | [collections-ng](https://github.com/Skinney/collections-ng)/750 | Stable Array, Dict and Set implementations for Elm |
 | 14 | 2 | 10 | 1 year, 6 months ago | [whatnext](https://github.com/jeanCarloMachado/whatnext)/751 | A smart and lazy way of organizing your studies.  Prioritize the future and track the past. An open-source product written in Haskell and Elm |
-| 14 | 2 | 1 | 1 year, 16 days ago | [elm-svg-loaders](https://github.com/tj/elm-svg-loaders)/752 | A collection of SVG loading indicators for Elm. |
+| 14 | 2 | 1 | 1 year, 17 days ago | [elm-svg-loaders](https://github.com/tj/elm-svg-loaders)/752 | A collection of SVG loading indicators for Elm. |
 | 14 | 9 | 45 | a day ago | [frontend](https://github.com/cambiatus/frontend)/753 | Cambiatus Web based frontend using Elm |
 | 14 | 2 | 3 | 3 years ago | [elm-astar](https://github.com/krisajenkins/elm-astar)/754 | The A* pathfinding algorithm for Elm. |
 | 14 | 0 | 0 | 1 year, 8 months ago | [elm-suspense](https://github.com/rogeriochaves/elm-suspense)/755 | Recreating react-suspense features using elm |
@@ -785,7 +785,7 @@
 | 13 | 7 | 0 | 2 years ago | [elm-split-pane](https://github.com/doodledood/elm-split-pane)/782 | Split pane for elm | Elm package:  |
 | 13 | 3 | 1 | 6 months ago | [elm-json-decode](https://github.com/webbhuset/elm-json-decode)/783 | Write JSON decoders in Elm using continuation-style. |
 | 13 | 1 | 0 | 2 years ago | [web-development-with-elm](https://github.com/halfzebra/web-development-with-elm)/784 | 📖 Course materials for my course on Web Development with Elm |
-| 13 | 1 | 6 | 27 days ago | [elm-phone-numbers](https://github.com/Skinney/elm-phone-numbers)/785 | A package for validating and retrieving information about phone numbers. Based on google's libphonenumber. |
+| 13 | 1 | 6 | 28 days ago | [elm-phone-numbers](https://github.com/Skinney/elm-phone-numbers)/785 | A package for validating and retrieving information about phone numbers. Based on google's libphonenumber. |
 | 13 | 0 | 0 | 3 years ago | [elm-drum-machine](https://github.com/lukewestby/elm-drum-machine)/786 | A drum machine built with Elm |
 | 13 | 0 | 0 | 1 year, 10 months ago | [elm-template](https://github.com/lukewestby/elm-template)/787 | Type-safe Elm string templating with records. |
 | 13 | 3 | 2 | 1 year, 5 months ago | [popular-front](https://github.com/ivanov/popular-front)/788 | Jovyan Popular Front: Prototyping UI and UX ideas for Jupyter notebooks (in Elm). |
@@ -800,25 +800,25 @@
 | 13 | 3 | 0 | 3 years ago | [elm-bootstrap-webpack-starter](https://github.com/jiwhiz/elm-bootstrap-webpack-starter)/797 | A simple Webpack 2 setup for writing Elm apps with elm-bootstrap. |
 | 13 | 0 | 2 | 1 year, 1 month ago | [playlist-importer](https://github.com/OzTK/playlist-importer)/798 | Import your playlist from and to Spotify, Deezer, Amazon Music, Google Music and so on! |
 | 13 | 0 | 0 | 2 months ago | [elm-pratt-parser](https://github.com/dmy/elm-pratt-parser)/799 | Pratt / Top-Down Operator Precedence parsing for elm/parser |
-| 13 | 1 | 1 | 22 days ago | [elm-example-publisher](https://github.com/gampleman/elm-example-publisher)/800 | Make a beautiful website from your Elm examples |
+| 13 | 1 | 1 | 23 days ago | [elm-example-publisher](https://github.com/gampleman/elm-example-publisher)/800 | Make a beautiful website from your Elm examples |
 | 13 | 7 | 4 | 7 months ago | [finnish-harvest-hours](https://github.com/joaalto/finnish-harvest-hours)/801 | Compare your total logged hours in Harvest with standard Finnish working hours |
-| 13 | 0 | 0 | 1 year, 7 months ago | [elm-nats](https://github.com/orus-io/elm-nats)/802 | A Elm client for the NATS protocol |
-| 13 | 4 | 3 | 3 years ago | [elm-mustache](https://github.com/truqu/elm-mustache)/803 | Mustache templates in Elm |
+| 13 | 4 | 3 | 3 years ago | [elm-mustache](https://github.com/truqu/elm-mustache)/802 | Mustache templates in Elm |
+| 13 | 0 | 0 | 1 year, 7 months ago | [elm-nats](https://github.com/orus-io/elm-nats)/803 | A Elm client for the NATS protocol |
 | 12 | 0 | 0 | 2 years ago | [month-of-shaders](https://github.com/hendriklammers/month-of-shaders)/804 | One GLSL shader for every day of the month August |
 | 12 | 5 | 0 | 3 years ago | [Scorekeeper](https://github.com/NewMountain/Scorekeeper)/805 | A test application with a build process to practice Elm |
 | 12 | 3 | 2 | 1 year, 5 months ago | [elm-dropdown](https://github.com/sporto/elm-dropdown)/806 | A dropdown component for Elm |
-| 12 | 5 | 2 | a day ago | [textusm](https://github.com/harehare/textusm)/807 | Online tool for Generate a User Story Map from indented text. |
+| 12 | 5 | 3 | a day ago | [textusm](https://github.com/harehare/textusm)/807 | Online tool for Generate a User Story Map from indented text. |
 | 12 | 0 | 0 | 3 months ago | [elm-mixin](https://github.com/arowM/elm-mixin)/808 | A brief Elm library for Mixins. |
 | 12 | 7 | 1 | 3 years ago | [elm-matrix](https://github.com/chendrix/elm-matrix)/809 | None |
 | 12 | 0 | 0 | 3 years ago | [lunar-viz](https://github.com/rshest/lunar-viz)/810 | "Jeep problem" (applied to a moon rover) visualization using Elm |
 | 12 | 4 | 2 | 1 year, 4 months ago | [elm-dropbox](https://github.com/avh4/elm-dropbox)/811 | Unofficial Dropbox API for Elm |
 | 12 | 0 | 0 | 3 years ago | [input-widget](https://github.com/kintail/input-widget)/812 | Unified Elm shorthand for <input>, <select> and <range> elements |
-| 12 | 2 | 2 | 3 years ago | [drunk-label](https://github.com/freakingawesome/drunk-label)/813 | Mistyping as a Service |
-| 12 | 5 | 1 | 3 years ago | [elm-events](https://github.com/mbylstra/elm-events)/814 | Website: Upcoming Elm Events |
-| 12 | 0 | 0 | 1 year, 10 days ago | [crdt-text-editor](https://github.com/maca/crdt-text-editor)/815 | CRDT distributed text editor written in elm using maca/crdt-distributed-tree |
+| 12 | 5 | 1 | 3 years ago | [elm-events](https://github.com/mbylstra/elm-events)/813 | Website: Upcoming Elm Events |
+| 12 | 0 | 0 | 1 year, 10 days ago | [crdt-text-editor](https://github.com/maca/crdt-text-editor)/814 | CRDT distributed text editor written in elm using maca/crdt-distributed-tree |
+| 12 | 2 | 2 | 3 years ago | [drunk-label](https://github.com/freakingawesome/drunk-label)/815 | Mistyping as a Service |
 | 12 | 1 | 0 | 1 year, 10 months ago | [elm-game-of-life](https://github.com/jackfranklin/elm-game-of-life)/816 | Building Conway's Game of Life in Elm |
 | 12 | 1 | 0 | 4 years ago | [elm-mom](https://github.com/joneshf/elm-mom)/817 | None |
-| 12 | 3 | 1 | 7 days ago | [elm-countries](https://github.com/supermario/elm-countries)/818 | elm-countries package |
+| 12 | 3 | 1 | 8 days ago | [elm-countries](https://github.com/supermario/elm-countries)/818 | elm-countries package |
 | 12 | 0 | 0 | 2 years ago | [elm-todos](https://github.com/dwayne/elm-todos)/819 | A to-do list application in Elm along with a tutorial to teach you how to build it. |
 | 12 | 0 | 1 | 3 years ago | [into-the-heavens](https://github.com/nphollon/into-the-heavens)/820 | None |
 | 12 | 2 | 0 | 3 years ago | [elm-rocket-lander](https://github.com/WeAreWizards/elm-rocket-lander)/821 | A simple rocket lander game written in Elm |
@@ -850,7 +850,7 @@
 | 12 | 3 | 3 | 7 months ago | [json-form](https://github.com/json-tools/json-form)/847 | Lightweight form generator, using JSON Schema. |
 | 12 | 1 | 1 | 3 years ago | [elm-ide](https://github.com/ElmCast/elm-ide)/848 | Written in Elm. Backed by NeoVim. |
 | 12 | 7 | 0 | 2 years ago | [elm-workshop](https://github.com/sporto/elm-workshop)/849 | An introductory workshop to learn Elm |
-| 12 | 2 | 0 | 1 year, 14 days ago | [elm-auth0](https://github.com/kkpoon/elm-auth0)/850 | Auth0 for elmlang |
+| 12 | 2 | 0 | 1 year, 15 days ago | [elm-auth0](https://github.com/kkpoon/elm-auth0)/850 | Auth0 for elmlang |
 | 12 | 3 | 1 | 4 months ago | [functional-calculator](https://github.com/artfuldev/functional-calculator)/851 | A calculator written in the elm language |
 | 12 | 3 | 0 | 3 years ago | [elm-dom](https://github.com/gdotdesign/elm-dom)/852 | Alternative Elm package for DOM manipulation. |
 | 12 | 1 | 0 | 3 years ago | [elm-custom-element-demo](https://github.com/lukewestby/elm-custom-element-demo)/853 | Demonstrates creating a custom element with an Elm app as its implementation |
@@ -860,8 +860,8 @@
 | 12 | 3 | 6 | 1 year, 11 months ago | [focus-potion](https://github.com/lbighetti/focus-potion)/857 | 🍅A Pomodoro Technique web app built with Elm |
 | 12 | 1 | 5 | a month ago | [elm-3d-camera](https://github.com/ianmackenzie/elm-3d-camera)/858 | Camera type for doing 3D rendering in Elm |
 | 12 | 0 | 0 | 3 years ago | [fuzzy-elm](https://github.com/the-fool/fuzzy-elm)/859 | Feed-forward neural network toy -- in Elm! |
-| 12 | 15 | 0 | 4 months ago | [result-extra](https://github.com/elm-community/result-extra)/860 | Convenience functions for working with Result. |
-| 12 | 1 | 0 | 4 years ago | [elm-online-store](https://github.com/pinksalmon/elm-online-store)/861 | An example online store app written in elm |
+| 12 | 1 | 0 | 4 years ago | [elm-online-store](https://github.com/pinksalmon/elm-online-store)/860 | An example online store app written in elm |
+| 12 | 15 | 0 | 4 months ago | [result-extra](https://github.com/elm-community/result-extra)/861 | Convenience functions for working with Result. |
 | 11 | 8 | 0 | 2 years ago | [ogptoolbox-ui](https://github.com/ogptoolbox/ogptoolbox-ui)/862 |   Web interface for OGP Toolbox |
 | 11 | 0 | 0 | 4 years ago | [elm-http-request](https://github.com/maxhoffmann/elm-http-request)/863 | :arrows_clockwise: Example project which shows how to do HTTP Requests in Elm |
 | 11 | 0 | 0 | 3 years ago | [test](https://github.com/project-fuzzball/test)/864 | Deprecated, please see: |
@@ -873,8 +873,8 @@
 | 11 | 2 | 0 | 3 years ago | [elm-web-data](https://github.com/ohanhi/elm-web-data)/870 | None |
 | 11 | 3 | 1 | 1 year, 7 months ago | [elm-octicons](https://github.com/capitalist/elm-octicons)/871 | Octicons. For your Elm apps. |
 | 11 | 2 | 2 | 1 year, 11 months ago | [elm-keys](https://github.com/derrickreimer/elm-keys)/872 | Advanced keyboard event bindings for Elm |
-| 11 | 1 | 0 | 1 year, 3 months ago | [elm-loading](https://github.com/perzanko/elm-loading)/873 | Simple and optimized CSS loaders in Elm. |
-| 11 | 1 | 2 | 2 years ago | [peerdocs](https://github.com/hugobdev/peerdocs)/874 | Graduation project p2p collaborative editor |
+| 11 | 1 | 2 | 2 years ago | [peerdocs](https://github.com/hugobdev/peerdocs)/873 | Graduation project p2p collaborative editor |
+| 11 | 1 | 0 | 1 year, 3 months ago | [elm-loading](https://github.com/perzanko/elm-loading)/874 | Simple and optimized CSS loaders in Elm. |
 | 11 | 1 | 9 | 12 days ago | [elm-editor](https://github.com/jxxcarlson/elm-editor)/875 | A pure Elm text editor based on Martin Janiczek's demo |
 | 11 | 1 | 1 | 3 years ago | [beeline-demo](https://github.com/krisajenkins/beeline-demo)/876 | A GeoHackDay hack of the BeeLine product |
 | 11 | 1 | 2 | 4 years ago | [cyto-acoustics](https://github.com/lourds-n-cie/cyto-acoustics)/877 | None |
@@ -884,9 +884,9 @@
 | 11 | 0 | 2 | 6 months ago | [elm-spa-dev](https://github.com/ryannhg/elm-spa-dev)/881 | the docs site we build together at https://elm-spa.dev/guide |
 | 11 | 20 | 16 | 11 months ago | [elm-bootstrap.info](https://github.com/rundis/elm-bootstrap.info)/882 | User documentation for Elm Bootstrap |
 | 11 | 0 | 0 | 5 months ago | [triples](https://github.com/robx/triples)/883 | Triples card game |
-| 11 | 3 | 2 | 14 days ago | [elm-money](https://github.com/Chadtech/elm-money)/884 | All the worlds currencies. |
-| 11 | 1 | 7 | 2 years ago | [hellocrud](https://github.com/choonkeat/hellocrud)/885 | generate ORM, GraphQL backend and React JS frontend to CRUD against your database schema |
-| 11 | 1 | 13 | 2 months ago | [qdice](https://github.com/gipsy-king/qdice)/886 | None |
+| 11 | 1 | 13 | 2 months ago | [qdice](https://github.com/gipsy-king/qdice)/884 | None |
+| 11 | 3 | 2 | 14 days ago | [elm-money](https://github.com/Chadtech/elm-money)/885 | All the worlds currencies. |
+| 11 | 1 | 7 | 2 years ago | [hellocrud](https://github.com/choonkeat/hellocrud)/886 | generate ORM, GraphQL backend and React JS frontend to CRUD against your database schema |
 | 11 | 3 | 4 | 3 years ago | [elm-css-helpers](https://github.com/rtfeldman/elm-css-helpers)/887 | Helpers for using elm-css with elm-html |
 | 11 | 3 | 2 | 5 years ago | [elm-localstorage](https://github.com/xdissent/elm-localstorage)/888 | LocalStorage task adapter for Elm |
 | 11 | 5 | 2 | 1 year, 6 months ago | [elm-crypto](https://github.com/ktonon/elm-crypto)/889 | Cryptography with HMAC and SHA-2 |
@@ -895,7 +895,7 @@
 | 11 | 4 | 17 | 1 year, 3 months ago | [irclog-couchapp](https://github.com/gdamjan/irclog-couchapp)/892 | A couchapp to view irc logs stored in CouchDB |
 | 11 | 1 | 1 | 15 days ago | [nekobito](https://github.com/gaaamii/nekobito)/893 | browser-based markdown editor. |
 | 11 | 3 | 0 | 4 years ago | [elm-material-icons](https://github.com/TheSeamau5/elm-material-icons)/894 | Material Icons in Elm |
-| 11 | 5 | 3 | 8 days ago | [node-elm-review](https://github.com/jfmengels/node-elm-review)/895 | CLI for elm-review |
+| 11 | 5 | 3 | 9 days ago | [node-elm-review](https://github.com/jfmengels/node-elm-review)/895 | CLI for elm-review |
 | 11 | 0 | 0 | 2 years ago | [building-web-apps-with-elm-tutorial](https://github.com/jfairbank/building-web-apps-with-elm-tutorial)/896 | None |
 | 11 | 1 | 0 | 24 days ago | [decgen](https://github.com/dkodaj/decgen)/897 | Elm decoder generator |
 | 11 | 2 | 0 | 5 years ago | [mooltipass.hid-app](https://github.com/kasbah/mooltipass.hid-app)/898 | Chrome application to communicate with the Mooltipass. |
@@ -909,10 +909,10 @@
 | 11 | 1 | 1 | 3 years ago | [elm-notification](https://github.com/alepop/elm-notification)/906 | Elm Native bindings to Notification API |
 | 11 | 1 | 0 | 3 years ago | [elm-koala](https://github.com/tibastral/elm-koala)/907 | None |
 | 11 | 4 | 0 | 3 years ago | [SokobanElm](https://github.com/G4BB3R/SokobanElm)/908 | Remake of the classical game Sokoban in Elm |
-| 11 | 0 | 0 | 2 years ago | [aws-sdk-elm](https://github.com/ktonon/aws-sdk-elm)/909 | Deprecated. Replaced by elm-aws-core and elm-aws-generate |
-| 11 | 1 | 5 | 1 year, 9 months ago | [imdb-watchlist](https://github.com/johannth/imdb-watchlist)/910 | A small and dirty hack that downloads your IMDB watchlist, cross-references with JustWatch and the Bechdel API and allows you to sort the result. |
+| 11 | 1 | 5 | 1 year, 9 months ago | [imdb-watchlist](https://github.com/johannth/imdb-watchlist)/909 | A small and dirty hack that downloads your IMDB watchlist, cross-references with JustWatch and the Bechdel API and allows you to sort the result. |
+| 11 | 0 | 0 | 2 years ago | [aws-sdk-elm](https://github.com/ktonon/aws-sdk-elm)/910 | Deprecated. Replaced by elm-aws-core and elm-aws-generate |
 | 11 | 3 | 7 | a month ago | [elm-image](https://github.com/justgook/elm-image)/911 | A library for building images in elm |
-| 11 | 2 | 16 | 13 hours ago | [Contexture](https://github.com/Softwarepark/Contexture)/912 | Wizard for the Bounded-Context-Canvas |
+| 11 | 2 | 16 | 10 hours ago | [Contexture](https://github.com/Softwarepark/Contexture)/912 | Wizard for the Bounded-Context-Canvas |
 | 11 | 2 | 0 | 3 years ago | [elm-lazy](https://github.com/eeue56/elm-lazy)/913 | None |
 | 11 | 1 | 2 | 3 years ago | [elm-json-bidirectional](https://github.com/jamesmacaulay/elm-json-bidirectional)/914 | Helps you construct two-way JSON encoder-decoders in Elm. |
 | 11 | 2 | 1 | 8 months ago | [json-decode-exploration](https://github.com/zwilias/json-decode-exploration)/915 | Exploration: JSON decoding with strong error types |
@@ -925,7 +925,7 @@
 | 11 | 1 | 0 | 1 year, 8 months ago | [game-of-life](https://github.com/fizwidget/game-of-life)/922 | Conway's Game of Life implemented in Elm |
 | 11 | 0 | 1 | 2 years ago | [elm-fancy-table](https://github.com/tlentz/elm-fancy-table)/923 | An elm package for a table with the ability to resize, reorder, and hide columns. |
 | 11 | 1 | 0 | 4 months ago | [elm-material-ui](https://github.com/orus-io/elm-material-ui)/924 | Implements Material Design on top of elm-ui |
-| 11 | 0 | 0 | 1 year, 15 days ago | [first-person-elm](https://github.com/jeffcole/first-person-elm)/925 | First person navigation in Elm |
+| 11 | 0 | 0 | 1 year, 16 days ago | [first-person-elm](https://github.com/jeffcole/first-person-elm)/925 | First person navigation in Elm |
 | 10 | 2 | 0 | 5 years ago | [Roguelike](https://github.com/deadfoxygrandpa/Roguelike)/926 | A roguelike in Elm |
 | 10 | 3 | 1 | 6 years ago | [elm-voronoi](https://github.com/michaelbjames/elm-voronoi)/927 | Manhattan-style Voronoi diagram for the web! |
 | 10 | 4 | 1 | 4 years ago | [elm-simple-json-decoding](https://github.com/chrisbuttery/elm-simple-json-decoding)/928 | A playground of basic examples decoding a JSON object |
@@ -948,8 +948,8 @@
 | 10 | 2 | 1 | 5 years ago | [elm-text-editor](https://github.com/wetmore/elm-text-editor)/945 | Simple modal text editor in Elm |
 | 10 | 1 | 0 | 3 years ago | [elm-codegen-preview](https://github.com/lukewestby/elm-codegen-preview)/946 | Preview the JS code generated by an Elm program |
 | 10 | 2 | 1 | 3 years ago | [elm-network-graph](https://github.com/iosphere/elm-network-graph)/947 | Network graphs with nodes and edges written in Elm. |
-| 10 | 0 | 0 | 11 months ago | [elm-algebraic-graph](https://github.com/alexandrepiveteau/elm-algebraic-graph)/948 | Algebraic graphs for Elm |
-| 10 | 7 | 32 | 18 days ago | [DAIHard](https://github.com/team-toast/DAIHard)/949 | None |
+| 10 | 0 | 0 | a year ago | [elm-algebraic-graph](https://github.com/alexandrepiveteau/elm-algebraic-graph)/948 | Algebraic graphs for Elm |
+| 10 | 7 | 32 | 19 days ago | [DAIHard](https://github.com/team-toast/DAIHard)/949 | None |
 | 10 | 0 | 1 | 1 year, 5 months ago | [elm-doc](https://github.com/zwilias/elm-doc)/950 | None |
 | 10 | 0 | 0 | 3 years ago | [lights-out](https://github.com/ElmLive/lights-out)/951 | "Light's Out" game in Elm |
 | 10 | 2 | 0 | 2 days ago | [elm-slider](https://github.com/carwow/elm-slider)/952 | Elm package: customisable range sliders |
@@ -957,8 +957,8 @@
 | 10 | 6 | 1 | 3 years ago | [elm-xml-parser](https://github.com/toburger/elm-xml-parser)/954 | sample xml parser using elm-combine |
 | 10 | 1 | 0 | 1 year, 2 months ago | [elm-accessors](https://github.com/bChiquet/elm-accessors)/955 | Accessors, a library implementing lenses for Elm.  |
 | 10 | 0 | 0 | 4 months ago | [elm-game-logic](https://github.com/justgook/elm-game-logic)/956 | An ECS library for Elm |
-| 10 | 1 | 3 | 1 year, 3 months ago | [siren](https://github.com/alicebob/siren)/957 | Elm/Go based MPD client |
-| 10 | 8 | 43 | 9 days ago | [resource-types-website](https://github.com/concourse/resource-types-website)/958 | Website for Concourse resource types (Beta) |
+| 10 | 8 | 43 | 10 days ago | [resource-types-website](https://github.com/concourse/resource-types-website)/957 | Website for Concourse resource types (Beta) |
+| 10 | 1 | 3 | 1 year, 3 months ago | [siren](https://github.com/alicebob/siren)/958 | Elm/Go based MPD client |
 | 10 | 2 | 0 | 3 years ago | [elm-convo-supreme](https://github.com/klemola/elm-convo-supreme)/959 | A basic chat room app implementation in Elm |
 | 10 | 1 | 0 | 1 year, 10 months ago | [elm-image-slider](https://github.com/larribas/elm-image-slider)/960 | An image slider / slideshow for Elm  |
 | 10 | 0 | 0 | 3 years ago | [elm-spider](https://github.com/netzwerg/elm-spider)/961 | An interactive spider in Elm |
@@ -990,7 +990,7 @@
 | 10 | 1 | 4 | 2 years ago | [elm-interactive-graphics](https://github.com/john-kelly/elm-interactive-graphics)/987 | Gradual introduction to interactive graphics programs. |
 | 10 | 0 | 0 | 9 months ago | [architecture-test](https://github.com/Janiczek/architecture-test)/988 | A library for fuzz testing TEA models by simulating user interactions |
 | 10 | 7 | 5 | 1 year, 8 months ago | [touch-events](https://github.com/knledg/touch-events)/989 | Touch event package for Elm lang |
-| 10 | 0 | 0 | 1 year, 23 days ago | [elm-fetch](https://github.com/Gizra/elm-fetch)/990 | None |
+| 10 | 0 | 0 | 1 year, 24 days ago | [elm-fetch](https://github.com/Gizra/elm-fetch)/990 | None |
 | 9 | 0 | 0 | 4 years ago | [elm-widgets](https://github.com/tim-patterson/elm-widgets)/991 | None |
 | 9 | 0 | 0 | 2 years ago | [latte-charts](https://github.com/s3k/latte-charts)/992 | Elm Charts |
 | 9 | 1 | 0 | 3 years ago | [elmtube](https://github.com/felromo/elmtube)/993 | A very simple mockup of youtube written in elm and using their v3 api, that is it... |
