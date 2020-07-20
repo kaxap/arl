@@ -2,15 +2,15 @@
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
 | 946 | 76 | 83 | a month ago | [Idris2-boot](https://github.com/edwinb/Idris2-boot)/1 | A dependently typed programming language, a successor to Idris |
-| 640 | 99 | 111 | 17 hours ago | [Idris2](https://github.com/idris-lang/Idris2)/2 | A purely functional programming language with first class types |
-| 559 | 40 | 8 | 1 year, 11 days ago | [Blodwen](https://github.com/edwinb/Blodwen)/3 | A prototype successor to Idris |
+| 644 | 100 | 112 | a day ago | [Idris2](https://github.com/idris-lang/Idris2)/2 | A purely functional programming language with first class types |
+| 559 | 40 | 8 | 1 year, 12 days ago | [Blodwen](https://github.com/edwinb/Blodwen)/3 | A prototype successor to Idris |
 | 360 | 25 | 15 | 1 year, 2 months ago | [software-foundations](https://github.com/idris-hackers/software-foundations)/4 | Software Foundations in Idris |
 | 305 | 16 | 10 | a month ago | [idris-jvm](https://github.com/mmhelloworld/idris-jvm)/5 | JVM bytecode back end for Idris |
-| 274 | 15 | 53 | 25 days ago | [typedefs](https://github.com/typedefs/typedefs)/6 | Programming language agnostic type construction language based on polynomials. |
+| 274 | 15 | 53 | 26 days ago | [typedefs](https://github.com/typedefs/typedefs)/6 | Programming language agnostic type construction language based on polynomials. |
 | 270 | 17 | 0 | 4 months ago | [awesome-idris](https://github.com/joaomilho/awesome-idris)/7 | 𝛌 Awesome Idris resources |
 | 212 | 45 | 10 | 1 year, 9 months ago | [lightyear](https://github.com/ziman/lightyear)/8 | Parser combinators for Idris |
 | 194 | 10 | 8 | 5 years ago | [iridium](https://github.com/puffnfresh/iridium)/9 | xmonad with the X11 abstracted and configured with Idris |
-| 182 | 16 | 29 | 2 months ago | [idris-ct](https://github.com/statebox/idris-ct)/10 | formally verified category theory library |
+| 183 | 16 | 29 | 2 months ago | [idris-ct](https://github.com/statebox/idris-ct)/10 | formally verified category theory library |
 | 178 | 12 | 4 | 3 years ago | [idris-demos](https://github.com/idris-hackers/idris-demos)/11 | Collection of Idris tests and demonstration programs |
 | 167 | 23 | 1 | 6 years ago | [idris-koans](https://github.com/idris-hackers/idris-koans)/12 | Koans are small lessons on the path to enlightenment. The aim of the Idris Koans project is to provide an easy learning environment in Idris. Your insight will be derived by encountering failing code and fixing them so that they type check. |
 | 141 | 9 | 1 | 1 year, 5 months ago | [quantities](https://github.com/timjb/quantities)/13 | Type-safe physical computations and unit conversions in Idris ⚖ 🌡 ⏲ 🔋 📐 |
@@ -35,7 +35,7 @@
 | 43 | 3 | 2 | 3 months ago | [idris-grin](https://github.com/grin-compiler/idris-grin)/32 | GRIN backend for Idris |
 | 39 | 2 | 0 | 5 years ago | [blog](https://github.com/bmsherman/blog)/33 | None |
 | 39 | 6 | 1 | 1 year, 6 months ago | [differentiable-idris](https://github.com/doofin/differentiable-idris)/34 | dependent types meets deep learning |
-| 37 | 4 | 3 | 27 days ago | [fsm-oracle](https://github.com/statebox/fsm-oracle)/35 | Finite state machines as graphs |
+| 37 | 4 | 3 | 28 days ago | [fsm-oracle](https://github.com/statebox/fsm-oracle)/35 | Finite state machines as graphs |
 | 37 | 1 | 0 | 2 years ago | [LICK](https://github.com/i-am-tom/LICK)/36 | Idris-written, correct-by-construction, simply-typed lambda calculus. |
 | 36 | 2 | 0 | 3 years ago | [States](https://github.com/edwinb/States)/37 | State machines in Idris |
 | 36 | 11 | 3 | 6 years ago | [iQuery](https://github.com/idris-hackers/iQuery)/38 | Idris Lib to interact with the DOM and Browser API for the JavaScript backend |
@@ -65,7 +65,7 @@
 | 23 | 5 | 1 | 6 years ago | [idris-cph-exercises](https://github.com/idris-hackers/idris-cph-exercises)/62 | Exercises from the Idris lecture series presented at the ITU Copenhagen on March 11--15, updated to work with latest Idris releases. |
 | 23 | 0 | 0 | 5 months ago | [idris-cam](https://github.com/thautwarm/idris-cam)/63 | Sucessor: https://github.com/thautwarm/Quick-Backend |
 | 22 | 1 | 0 | 3 years ago | [tdd-with-idris](https://github.com/steshaw/tdd-with-idris)/64 | Working through Type-Driven Development with Idris |
-| 21 | 0 | 0 | 16 days ago | [code](https://github.com/sequents/code)/65 | None |
+| 21 | 0 | 0 | 17 days ago | [code](https://github.com/sequents/code)/65 | None |
 | 21 | 2 | 0 | 3 years ago | [flying-spaghetti-monster](https://github.com/ctford/flying-spaghetti-monster)/66 | An Idris type provider for communicating type-checkable protocols. |
 | 21 | 0 | 0 | 2 years ago | [Iaia](https://github.com/sellout/Iaia)/67 | A recursion scheme library for Idris. |
 | 21 | 4 | 4 | 3 years ago | [idris-lens](https://github.com/idris-hackers/idris-lens)/68 | None |
@@ -77,14 +77,14 @@
 | 19 | 1 | 0 | 1 year, 8 months ago | [smproc](https://github.com/jameshaydon/smproc)/74 | A well-typed symmetric-monoidal category of concurrent processes |
 | 18 | 1 | 1 | 6 years ago | [IdrisObjCExperiment](https://github.com/andyarvanitis/IdrisObjCExperiment)/75 | None |
 | 18 | 2 | 1 | 6 years ago | [bibdris](https://github.com/ziman/bibdris)/76 | BibTeX database management in Idris |
-| 18 | 0 | 3 | 2 days ago | [sequent-calc](https://github.com/clayrat/sequent-calc)/77 | Experiments with sequent calculi |
+| 18 | 0 | 3 | 3 days ago | [sequent-calc](https://github.com/clayrat/sequent-calc)/77 | Experiments with sequent calculi |
 | 18 | 1 | 2 | 2 years ago | [extensible-records](https://github.com/gonzaw/extensible-records)/78 | Extensible records for Idris |
 | 18 | 1 | 0 | 1 year, 1 month ago | [Idris-HoTT](https://github.com/jaredloomis/Idris-HoTT)/79 | Homotopy Type Theory in Idris |
 | 18 | 8 | 5 | 3 years ago | [idris-free](https://github.com/idris-hackers/idris-free)/80 | Free Monads and useful constructions to work with them |
 | 17 | 8 | 3 | 3 years ago | [Idris-Bifunctors](https://github.com/japesinator/Idris-Bifunctors)/81 | A small bifunctor library for idris |
 | 17 | 4 | 2 | 1 year, 8 months ago | [RingIdris](https://github.com/FranckS/RingIdris)/82 | Ring solver for Idris |
-| 16 | 2 | 0 | 12 days ago | [idris-snippets](https://github.com/palladin/idris-snippets)/83 | Collection of Idris snippets |
-| 16 | 0 | 0 | 11 days ago | [itt-idris](https://github.com/ziman/itt-idris)/84 | ITT: quantified dependent calculus with inference of all modalities, implemented in Idris 2 |
+| 16 | 2 | 0 | 13 days ago | [idris-snippets](https://github.com/palladin/idris-snippets)/83 | Collection of Idris snippets |
+| 16 | 0 | 0 | 12 days ago | [itt-idris](https://github.com/ziman/itt-idris)/84 | ITT: quantified dependent calculus with inference of all modalities, implemented in Idris 2 |
 | 16 | 1 | 7 | 2 years ago | [idris-patricia](https://github.com/kowainik/idris-patricia)/85 | 🌋 Idris implementation of patricia tree |
 | 16 | 2 | 0 | 5 years ago | [fp-in-idris](https://github.com/domdere/fp-in-idris)/86 | Functional Programing in Scala (in Idris) [Idris] |
 | 15 | 0 | 0 | 2 years ago | [univalence-from-scratch](https://github.com/jdolson/univalence-from-scratch)/87 | Univalence from scratch in Idris |
@@ -102,18 +102,18 @@
 | 13 | 1 | 0 | 6 years ago | [Eff-new](https://github.com/edwinb/Eff-new)/99 | New version of Effects library with dependent states |
 | 13 | 2 | 1 | 2 years ago | [idris-tmustache](https://github.com/gallais/idris-tmustache)/100 | Total Logic-Less Templating Library |
 | 13 | 0 | 0 | 1 year, 6 months ago | [tm-proposer-idris](https://github.com/cwgoes/tm-proposer-idris)/101 | Formalization of Tendermint proposer election properties |
-| 13 | 0 | 0 | 7 days ago | [idris2-clibs](https://github.com/edwinb/idris2-clibs)/102 | Idris 2 bindings to various C libraries |
+| 13 | 0 | 0 | 8 days ago | [idris2-clibs](https://github.com/edwinb/idris2-clibs)/102 | Idris 2 bindings to various C libraries |
 | 13 | 2 | 0 | 4 years ago | [Idris](https://github.com/mukeshtiwari/Idris)/103 | Codes related to Idris |
 | 13 | 4 | 1 | 3 years ago | [Idris-Profunctors](https://github.com/japesinator/Idris-Profunctors)/104 | A small profunctor library for idris |
 | 13 | 3 | 7 | 2 years ago | [idris-code-highlighter](https://github.com/david-christiansen/idris-code-highlighter)/105 | A semantic highlighter for Idris code |
 | 13 | 4 | 1 | 1 year, 6 months ago | [curses-idris](https://github.com/JakobBruenker/curses-idris)/106 | Curses bindings package for Idris |
-| 13 | 0 | 0 | 10 days ago | [modal-types](https://github.com/clayrat/modal-types)/107 | Experiments with modal types |
+| 13 | 0 | 0 | 11 days ago | [modal-types](https://github.com/clayrat/modal-types)/107 | Experiments with modal types |
 | 13 | 0 | 0 | 6 years ago | [Idris-CPDT](https://github.com/sellout/Idris-CPDT)/108 | A translation of Certified Programming with Dependent Types to Idris. |
 | 12 | 2 | 0 | 2 years ago | [idris-graphql](https://github.com/jameshaydon/idris-graphql)/109 | Idris GraphQL |
 | 12 | 7 | 1 | 3 years ago | [gl-idris](https://github.com/eckart/gl-idris)/110 | None |
 | 12 | 0 | 0 | 5 years ago | [xquant](https://github.com/fieldstrength/xquant)/111 | Dependently-typed structures for quantum physics in Idris |
 | 12 | 0 | 0 | 2 years ago | [idris-linear](https://github.com/clayrat/idris-linear)/112 | Experiments with linear types  |
-| 12 | 0 | 0 | 1 year, 19 days ago | [ttstar](https://github.com/ziman/ttstar)/113 | Dependently typed core calculus with erasure |
+| 12 | 0 | 0 | 1 year, 20 days ago | [ttstar](https://github.com/ziman/ttstar)/113 | Dependently typed core calculus with erasure |
 | 12 | 5 | 0 | 4 months ago | [http4idris](https://github.com/A1kmm/http4idris)/114 | An experimental HTTP framework for Idris |
 | 11 | 0 | 0 | 3 years ago | [idris-clean](https://github.com/timjs/idris-clean)/115 | A priliminary backend for Idris that compiles to Clean. |
 | 11 | 8 | 2 | 4 years ago | [idris-algebra](https://github.com/idris-hackers/idris-algebra)/116 | This is an attempt at painting as many bikesheds as possible with a typeclass hierarchy for idris reflecting "Algebra" |
@@ -156,7 +156,7 @@
 | 7 | 0 | 1 | 5 years ago | [idris-partiality](https://github.com/puffnfresh/idris-partiality)/153 | The partiality monad in Idris. |
 | 7 | 0 | 0 | 3 years ago | [levitation](https://github.com/RyanGlScott/levitation)/154 | Following along with the paper "The Practical Guide to Levitation" by Ahmad Salim Al-Sibahi |
 | 7 | 0 | 5 | 10 months ago | [tp](https://github.com/superfunc/tp)/155 | Strongly Typed Paths for Idris |
-| 7 | 4 | 5 | a month ago | [jerrington.me](https://github.com/tsani/jerrington.me)/156 | Personal website |
+| 7 | 4 | 5 | 12 hours ago | [jerrington.me](https://github.com/tsani/jerrington.me)/156 | Personal website |
 | 7 | 0 | 0 | 3 years ago | [dstbx](https://github.com/statebox/dstbx)/157 | dependently typed Statebox (heavy WIP) |
 | 7 | 0 | 0 | 6 years ago | [khartes](https://github.com/dysinger/khartes)/158 | An Experiment with Both Haskell & Idris JS FFI interface to AWS |
 | 7 | 0 | 0 | 10 months ago | [blott-experiments](https://github.com/clayrat/blott-experiments)/159 | Experiments with dependent modal types |
@@ -209,7 +209,7 @@
 | 5 | 0 | 0 | 2 years ago | [NomicCoin201710](https://github.com/redfish64/NomicCoin201710)/206 | A p2p network written in Idris and designed to be very similar to idris itself |
 | 5 | 0 | 0 | 3 years ago | [idris-tictactoe](https://github.com/LightAndLight/idris-tictactoe)/207 | TicTacToe using dependent types |
 | 5 | 0 | 0 | 7 months ago | [idris-sdl2](https://github.com/corazza/idris-sdl2)/208 | SDL2 bindings for my game in Idris |
-| 5 | 0 | 0 | 2 days ago | [exp-subs](https://github.com/clayrat/exp-subs)/209 | Explicit substitution calculi |
+| 5 | 0 | 0 | 3 days ago | [exp-subs](https://github.com/clayrat/exp-subs)/209 | Explicit substitution calculi |
 | 5 | 0 | 0 | 3 years ago | [type-driven-develop](https://github.com/xnning/type-driven-develop)/210 | Exercise Solution for the book Type Driven Development with Idris |
 | 5 | 2 | 2 | 3 years ago | [idris-hamt](https://github.com/bamboo/idris-hamt)/211 | Idris Hash Array Mapped Trie |
 | 5 | 2 | 0 | 1 year, 4 months ago | [rolidris](https://github.com/sqdorte/rolidris)/212 | None |
@@ -228,7 +228,7 @@
 | 4 | 2 | 0 | 5 years ago | [cooper](https://github.com/forestbelton/cooper)/225 | Presburger arithmetic solver in Idris |
 | 4 | 0 | 0 | 3 years ago | [idris-sodium](https://github.com/BartAdv/idris-sodium)/226 | A simple Idris implementation of Sodium FRP library, following TypeScript port. WIP |
 | 4 | 0 | 0 | 5 years ago | [idris-protocol-examples](https://github.com/jfdm/idris-protocol-examples)/227 | Examples of using the Idris Protocols package for stuff. |
-| 4 | 0 | 0 | a day ago | [idris2-elab-deriving](https://github.com/MarcelineVQ/idris2-elab-deriving)/228 | implementation deriving for idris2 |
+| 4 | 0 | 0 | 2 days ago | [idris2-elab-deriving](https://github.com/MarcelineVQ/idris2-elab-deriving)/228 | implementation deriving for idris2 |
 | 4 | 0 | 0 | 5 years ago | [ParsingWithProofs](https://github.com/avieth/ParsingWithProofs)/229 | Applicative/monadic parsing with dependent types |
 | 4 | 1 | 3 | 1 year, 3 months ago | [idris-multibase](https://github.com/statebox/idris-multibase)/230 | Self-identifying base encodings in Idris |
 | 4 | 4 | 0 | 5 years ago | [idris-curses](https://github.com/tixxit/idris-curses)/231 | Idris bindings to ncurses |
@@ -237,19 +237,19 @@
 | 4 | 0 | 0 | 8 months ago | [idris-heyting-algebra](https://github.com/Risto-Stevcev/idris-heyting-algebra)/234 | Interfaces for heyting algebras and verified bounded join and meet semilattices |
 | 4 | 0 | 0 | 3 years ago | [incremental](https://github.com/wyn/incremental)/235 | synchronous clocked dataflow in Idris - WIP |
 | 4 | 0 | 0 | 2 years ago | [battle](https://github.com/emccorson/battle)/236 | JavaScript battle game written in Idris |
-| 4 | 0 | 0 | 1 year, 5 days ago | [idris-trees](https://github.com/clayrat/idris-trees)/237 | Trees in Idris |
+| 4 | 0 | 0 | 1 year, 6 days ago | [idris-trees](https://github.com/clayrat/idris-trees)/237 | Trees in Idris |
 | 4 | 0 | 0 | 2 years ago | [idriscanvas](https://github.com/JinWuZhao/idriscanvas)/238 | idris FFI binding for html5 canvas 2d api |
 | 4 | 0 | 0 | 3 years ago | [tdd-idris-ex](https://github.com/stephen-smith/tdd-idris-ex)/239 | Exercise Solutions for Type-Driven Development with Idris |
 | 4 | 0 | 0 | 3 years ago | [idris-nanoparsec](https://github.com/lambdaxymox/idris-nanoparsec)/240 | A minimal and simple string based parser combinator library written in Idris. |
 | 4 | 0 | 0 | 2 years ago | [roguedris](https://github.com/camelpunch/roguedris)/241 | A Roguelike playground in Idris |
 | 4 | 0 | 1 | 2 years ago | [idris-for-scala-devs](https://github.com/cb372/idris-for-scala-devs)/242 | None |
-| 4 | 0 | 0 | 4 years ago | [idris-microKanren](https://github.com/tapeinosyne/idris-microKanren)/243 | μKanren in Idris |
-| 4 | 0 | 0 | 5 years ago | [idris-cats](https://github.com/zeitraffer/idris-cats)/244 | some category theory in Idris language |
+| 4 | 0 | 0 | 5 years ago | [idris-cats](https://github.com/zeitraffer/idris-cats)/243 | some category theory in Idris language |
+| 4 | 0 | 0 | 4 years ago | [idris-microKanren](https://github.com/tapeinosyne/idris-microKanren)/244 | μKanren in Idris |
 | 4 | 0 | 0 | 1 year, 4 months ago | [DepSec](https://github.com/simongregersen/DepSec)/245 | A library for static information-flow control in Idris |
 | 3 | 0 | 0 | 4 years ago | [invincy](https://github.com/defanor/invincy)/246 | Invertible and incremental parsing |
 | 3 | 2 | 0 | 3 years ago | [glfw-idris](https://github.com/eckart/glfw-idris)/247 | GLFW bindings for Idris |
 | 3 | 0 | 0 | 3 years ago | [idris-proofs](https://github.com/hzelenka/idris-proofs)/248 | None |
-| 3 | 0 | 0 | 1 year, 26 days ago | [idris-spring-boot-example](https://github.com/mmhelloworld/idris-spring-boot-example)/249 | Idris Spring Boot example |
+| 3 | 0 | 0 | 1 year, 27 days ago | [idris-spring-boot-example](https://github.com/mmhelloworld/idris-spring-boot-example)/249 | Idris Spring Boot example |
 | 3 | 0 | 1 | 3 years ago | [flow](https://github.com/imuli/flow)/250 | musings on programming with directed acyclic graphs. |
 | 3 | 1 | 0 | 3 years ago | [advent-of-code-2016](https://github.com/eeue56/advent-of-code-2016)/251 | None |
 | 3 | 0 | 0 | 1 year, 4 months ago | [idris-sort](https://github.com/stepancheg/idris-sort)/252 | None |
@@ -266,8 +266,8 @@
 | 3 | 0 | 0 | 4 years ago | [TAPL-idris](https://github.com/ezrosent/TAPL-idris)/263 | Examples of some TAPL examples in the idris language |
 | 3 | 0 | 0 | 2 years ago | [idris-power-of-pi](https://github.com/brendanzab/idris-power-of-pi)/264 | Parts of The Power of Pi, implemented in Idris |
 | 3 | 1 | 0 | 1 year, 3 months ago | [justified-type-inference](https://github.com/joonazan/justified-type-inference)/265 | An implementation of Algorithm W in Idris with a complete proof |
-| 3 | 3 | 0 | 4 years ago | [idris-libmicrohttpd](https://github.com/colin-adams/idris-libmicrohttpd)/266 | A binding of the GNU libmicrohttpd library to the Idris C backend |
-| 3 | 0 | 0 | 2 years ago | [idris-hanoi](https://github.com/marcosh/idris-hanoi)/267 | a super type safe implementation of the game of the Tower of Hanoi |
+| 3 | 0 | 0 | 2 years ago | [idris-hanoi](https://github.com/marcosh/idris-hanoi)/266 | a super type safe implementation of the game of the Tower of Hanoi |
+| 3 | 3 | 0 | 4 years ago | [idris-libmicrohttpd](https://github.com/colin-adams/idris-libmicrohttpd)/267 | A binding of the GNU libmicrohttpd library to the Idris C backend |
 | 3 | 0 | 0 | 2 years ago | [Smarter-contract-lang](https://github.com/MrChico/Smarter-contract-lang)/268 | None |
 | 3 | 0 | 0 | 2 years ago | [idris-printf](https://github.com/quephird/idris-printf)/269 | A type-safe implementation of `printf` inspired by an exercise from Edwin Brady's TDD in Idris book |
 | 3 | 0 | 1 | 3 years ago | [idris-functors](https://github.com/Risto-Stevcev/idris-functors)/270 | Bifunctors and functor products, coproducts, and composition |
@@ -300,15 +300,15 @@
 | 2 | 0 | 0 | 8 months ago | [idris-jvm-auto-ffi-sample](https://github.com/mmhelloworld/idris-jvm-auto-ffi-sample)/297 | Idris JVM automated FFI example |
 | 2 | 0 | 1 | 2 months ago | [dasheri](https://github.com/jeetu7/dasheri)/298 | Matrix type data store for Idris2 |
 | 2 | 1 | 0 | 3 years ago | [idris-koans](https://github.com/simonewebdesign/idris-koans)/299 | The path to enlightenment |
-| 2 | 0 | 0 | 27 days ago | [idrall](https://github.com/alexhumphreys/idrall)/300 | Dhall bindings for Idris |
+| 2 | 0 | 0 | 28 days ago | [idrall](https://github.com/alexhumphreys/idrall)/300 | Dhall bindings for Idris |
 | 2 | 0 | 0 | 4 years ago | [idris-misc](https://github.com/bgoodspeed/idris-misc)/301 | Miscellaneous Idris functions/types/etc  |
 | 2 | 0 | 0 | 2 years ago | [idris-samples](https://github.com/sergei-romanenko/idris-samples)/302 | A collection of samples in Idris |
-| 2 | 0 | 3 | 1 year, 3 days ago | [ImpCompiler](https://github.com/RonaldCamp/ImpCompiler)/303 | None |
+| 2 | 0 | 3 | 1 year, 4 days ago | [ImpCompiler](https://github.com/RonaldCamp/ImpCompiler)/303 | None |
 | 2 | 0 | 0 | 4 years ago | [sif-lang](https://github.com/jfdm/sif-lang)/304 | A Requirements Oriented DSL for design pattern specification. |
 | 2 | 1 | 0 | 3 years ago | [idris-comonad](https://github.com/Risto-Stevcev/idris-comonad)/305 | An implementation of comonads in idris |
 | 2 | 0 | 0 | 1 year, 6 months ago | [regalloc](https://github.com/elpinal/regalloc)/306 | Training in register allocation |
 | 2 | 2 | 0 | 4 years ago | [idris-libwebsockets](https://github.com/colin-adams/idris-libwebsockets)/307 | An Idris wrapper around libwebsockets |
-| 2 | 1 | 0 | 19 days ago | [Idris2-Erlang](https://github.com/chrrasmussen/Idris2-Erlang)/308 | Erlang code generator for Idris 2 |
+| 2 | 1 | 0 | 20 days ago | [Idris2-Erlang](https://github.com/chrrasmussen/Idris2-Erlang)/308 | Erlang code generator for Idris 2 |
 | 2 | 0 | 0 | 6 years ago | [validation-idris](https://github.com/domdere/validation-idris)/309 | Port of the Validation Library to Idris |
 | 2 | 0 | 0 | a month ago | [libc.idr](https://github.com/Hirrolot/libc.idr)/310 | Bindings to the C standard library for Idris2 |
 | 2 | 2 | 0 | 6 years ago | [GameTheory-Idris](https://github.com/walkie/GameTheory-Idris)/311 | A behavioral game theory library in Idris. |
@@ -320,7 +320,7 @@
 | 2 | 0 | 0 | 5 years ago | [vm-playground](https://github.com/danielwaterworth/vm-playground)/317 | Fun making virtual machines, probably won't come to much. |
 | 2 | 3 | 0 | 4 years ago | [tomladris](https://github.com/eklavya/tomladris)/318 | TOML parser for Idris |
 | 2 | 1 | 1 | 1 year, 11 months ago | [comonad](https://github.com/vmchale/comonad)/319 | Comonads for Idris |
-| 2 | 1 | 0 | 25 days ago | [REPLica](https://github.com/berewt/REPLica)/320 | Golden tests for command-line interfaces. |
+| 2 | 1 | 0 | 26 days ago | [REPLica](https://github.com/berewt/REPLica)/320 | Golden tests for command-line interfaces. |
 | 2 | 1 | 3 | 4 years ago | [idris-split](https://github.com/relrod/idris-split)/321 | An almost-direct port of Brent Yorgey's "split" package to Idris. |
 | 2 | 0 | 0 | 2 years ago | [idris-raytracer](https://github.com/pa-ba/idris-raytracer)/322 | simple ray tracer implemented in Idris |
 | 2 | 1 | 0 | 2 years ago | [type-driven-development-with-idris](https://github.com/ruippeixotog/type-driven-development-with-idris)/323 | My solutions to "Type-Driven Development with Idris" exercises |
@@ -345,20 +345,20 @@
 | 2 | 0 | 0 | 2 years ago | [idris-dependent-types](https://github.com/gvolpe/idris-dependent-types)/342 | Dependent Types research in the Idris language |
 | 2 | 0 | 0 | 2 years ago | [archer](https://github.com/tuura/archer)/343 | An experimental embedded domain specific language for describing instruction set architectures semantics. |
 | 2 | 2 | 0 | 2 years ago | [Idris-Number-Theory](https://github.com/anotherArka/Idris-Number-Theory)/344 | Elementary number theory written in Idris. |
-| 2 | 0 | 0 | 1 year, 13 days ago | [Idris-Repl](https://github.com/zenntenn/Idris-Repl)/345 | A self hosted Repl for Idris (Still *very* early stages) |
+| 2 | 0 | 0 | 1 year, 14 days ago | [Idris-Repl](https://github.com/zenntenn/Idris-Repl)/345 | A self hosted Repl for Idris (Still *very* early stages) |
 | 2 | 0 | 0 | 1 year, 2 months ago | [verified-tensor-operations](https://github.com/emilyaherbert/verified-tensor-operations)/346 | Attempt at creating a tensor type in Idris with dimension-safe operations. |
 | 2 | 0 | 2 | 4 years ago | [BonjourToUnbound](https://github.com/jeremy-w/BonjourToUnbound)/347 | Pretend MyHomeNAS.local is SomeURL.com by rewriting records from a Bonjour query as Unbound local_data entries |
 | 2 | 0 | 1 | 4 years ago | [rational-setoid](https://github.com/zerogerc/rational-setoid)/348 | setoid for rational numbers in Idris |
 | 2 | 0 | 0 | 7 months ago | [adventofcode2019](https://github.com/Carreau/adventofcode2019)/349 | None |
 | 2 | 0 | 0 | 6 months ago | [MATH302](https://github.com/tkaden4/MATH302)/350 | WWU MATH 302 Proofs in Idris |
 | 2 | 0 | 0 | 10 months ago | [sorts](https://github.com/0xd34df00d/sorts)/351 | Provably correct merge sort |
-| 2 | 0 | 0 | 12 hours ago | [idris2-lua](https://github.com/Russoul/idris2-lua)/352 | Lua backend for Idris2 |
+| 2 | 0 | 0 | a day ago | [idris2-lua](https://github.com/Russoul/idris2-lua)/352 | Lua backend for Idris2 |
 | 2 | 0 | 0 | 4 years ago | [lambductive](https://github.com/shlevy/lambductive)/353 | A lambda calculus with tarski universes, pi types, and self-referential expressions |
 | 2 | 2 | 0 | 1 year, 5 months ago | [Bikini](https://github.com/Heather/Bikini)/354 | Bad experiment | C++ Syntax Wrapper |
-| 2 | 0 | 0 | 11 days ago | [idris2-bytes](https://github.com/MarcelineVQ/idris2-bytes)/355 | ByteStrings for Idris2! |
+| 2 | 0 | 0 | 12 days ago | [idris2-bytes](https://github.com/MarcelineVQ/idris2-bytes)/355 | ByteStrings for Idris2! |
 | 2 | 0 | 0 | 6 years ago | [newmod](https://github.com/esmooov/newmod)/356 | None |
 | 2 | 0 | 0 | 4 years ago | [idris-optics](https://github.com/justjoheinz/idris-optics)/357 | None |
-| 2 | 0 | 0 | 3 days ago | [idris2-perf](https://github.com/ziman/idris2-perf)/358 | Various benchmarks |
+| 2 | 0 | 0 | 4 days ago | [idris2-perf](https://github.com/ziman/idris2-perf)/358 | Various benchmarks |
 | 2 | 0 | 0 | 6 months ago | [Idris2-pkg-outline](https://github.com/edwinb/Idris2-pkg-outline)/359 | Outline of an Idris2 package which uses C glue |
 | 1 | 0 | 0 | 2 years ago | [seo-router](https://github.com/janschultecom/seo-router)/360 | None |
 | 1 | 0 | 4 | 3 years ago | [advent-of-idris](https://github.com/yurrriq/advent-of-idris)/361 | My Idris (and Haskell) solutions to the 2016 Advent of Code. |
@@ -407,7 +407,7 @@
 | 1 | 0 | 0 | 5 years ago | [andromeda-idris](https://github.com/jaredloomis/andromeda-idris)/404 | A GLSL representation and eDSL in Idris |
 | 1 | 0 | 0 | 5 years ago | [tic-tac-idris](https://github.com/davidfstr/tic-tac-idris)/405 | Tic-tac-toe game written in Idris. |
 | 1 | 0 | 0 | 2 years ago | [idris-talk](https://github.com/k-bx/idris-talk)/406 | None |
-| 1 | 0 | 0 | 1 year, 25 days ago | [idr-pure-prolog](https://github.com/Sintrastes/idr-pure-prolog)/407 | Embeded Prolog DSL written in Idris. Based on github.com/kfl/pure-prolog. |
+| 1 | 0 | 0 | 1 year, 26 days ago | [idr-pure-prolog](https://github.com/Sintrastes/idr-pure-prolog)/407 | Embeded Prolog DSL written in Idris. Based on github.com/kfl/pure-prolog. |
 | 1 | 0 | 0 | 11 months ago | [tulis](https://github.com/PeterHajdu/tulis)/408 | A small game to teach programming |
 | 1 | 0 | 0 | 4 years ago | [idris-uml](https://github.com/jfdm/idris-uml)/409 | A simple DSL for UML modelling together with an API for programmable access. |
 | 1 | 0 | 0 | 8 days ago | [type-preserving-crossover](https://github.com/donovancrichton/type-preserving-crossover)/410 | A verified, type-preserving, crossover method for well-typed higher order abstract syntax trees |
@@ -423,8 +423,8 @@
 | 1 | 0 | 0 | 2 years ago | [Record](https://github.com/leon-vv/Record)/420 | Idris package describing records directly using sum types |
 | 1 | 0 | 0 | 1 year, 7 months ago | [semver](https://github.com/elba/semver)/421 | A semantic versioning library in Idris |
 | 1 | 0 | 0 | 1 year, 10 days ago | [gspider](https://github.com/sr-lab/gspider)/422 | Guess success probability slider, for plotting the evolution of password guessing attacks. |
-| 1 | 1 | 0 | a month ago | [Idris_dsp_motivation](https://github.com/cramsay/Idris_dsp_motivation)/423 | None |
-| 1 | 0 | 0 | 2 years ago | [idris-todaybot](https://github.com/benclifford/idris-todaybot)/424 | An Idris implementation of lsc-todaybot - a bot which moves the [TODAY] flair around on reddit.com/r/LondonSocialClub |
+| 1 | 0 | 0 | 2 years ago | [idris-todaybot](https://github.com/benclifford/idris-todaybot)/423 | An Idris implementation of lsc-todaybot - a bot which moves the [TODAY] flair around on reddit.com/r/LondonSocialClub |
+| 1 | 1 | 0 | a month ago | [Idris_dsp_motivation](https://github.com/cramsay/Idris_dsp_motivation)/424 | None |
 | 1 | 0 | 0 | 5 years ago | [9p2000](https://github.com/markuspf/9p2000)/425 | Plan9 protocol implementation in Idris using @edwinb's Protocols |
 | 1 | 0 | 0 | 6 years ago | [idris-tutorial](https://github.com/eckart/idris-tutorial)/426 | A tutorial to explain Idris to myself |
 | 1 | 0 | 0 | 3 years ago | [tdd-with-idris](https://github.com/yurrriq/tdd-with-idris)/427 | :book: Working through Type-Driven Development with Idris |
@@ -438,7 +438,7 @@
 | 1 | 0 | 0 | 11 months ago | [iterm](https://github.com/PeterHajdu/iterm)/435 | Simple tools to build interactive terminal applications. |
 | 1 | 0 | 0 | 1 year, 10 months ago | [Http](https://github.com/leon-vv/Http)/436 | Http module for Idris (small wrapper around Node.js) |
 | 1 | 0 | 0 | 2 years ago | [idris-websocket](https://github.com/concert/idris-websocket)/437 | A toy websocket library for Idris |
-| 1 | 0 | 0 | 1 year, 5 months ago | [queries.idr](https://github.com/Kazark/queries.idr)/438 | An investigation into DSLs with free monads and queries etc, using Idris |
+| 1 | 0 | 0 | 1 year, 6 months ago | [queries.idr](https://github.com/Kazark/queries.idr)/438 | An investigation into DSLs with free monads and queries etc, using Idris |
 | 1 | 0 | 0 | 1 year, 2 months ago | [untyped-lc](https://github.com/eayus/untyped-lc)/439 | Simple untyped lambda calculus interpreter in Idris |
 | 1 | 0 | 0 | 1 year, 7 months ago | [path](https://github.com/elba/path)/440 | Well-typed paths in Idris |
 | 1 | 0 | 0 | 7 months ago | [idris-order](https://github.com/clayrat/idris-order)/441 | Order/domain theory |
@@ -450,7 +450,7 @@
 | 1 | 0 | 0 | 3 years ago | [tdd-idris](https://github.com/joaomilho/tdd-idris)/447 | just exercises |
 | 1 | 0 | 0 | 3 years ago | [lc.idr](https://github.com/Kazark/lc.idr)/448 | Attempt at implementing lambda calculus in Idris |
 | 1 | 0 | 0 | 1 year, 1 month ago | [tapl](https://github.com/mr-infty/tapl)/449 | Solutions to the exercises in and miscellaneous material for the book "Types and Programming Languages" by Benjamin C. Pierce. |
-| 1 | 1 | 0 | 6 months ago | [Idris](https://github.com/GCPBigData/Idris)/450 | Meus Estudos sobre essa linguagem Fantastica [->] Idris |
+| 1 | 1 | 0 | 7 months ago | [Idris](https://github.com/GCPBigData/Idris)/450 | Meus Estudos sobre essa linguagem Fantastica [->] Idris |
 | 1 | 0 | 0 | 1 year, 11 months ago | [type-driven-development](https://github.com/minhnhdo/type-driven-development)/451 | None |
 | 1 | 0 | 0 | 3 years ago | [elba](https://github.com/ctford/elba)/452 | An Idris type provider for type-checked protocols. |
 | 1 | 0 | 0 | 2 years ago | [advent_of_code_2017](https://github.com/Jell/advent_of_code_2017)/453 | None |
@@ -472,7 +472,7 @@
 | 1 | 0 | 0 | 10 months ago | [idris-gpd](https://github.com/typedefs/idris-gpd)/469 | Generic Packet Descriptions in Idris |
 | 1 | 0 | 0 | 1 year, 8 months ago | [ep-idris](https://github.com/casvdrest/ep-idris)/470 | None |
 | 1 | 0 | 0 | 1 year, 2 months ago | [math-in-idris](https://github.com/nmmull/math-in-idris)/471 | A repository for various theorems in mathematics proved in idris |
-| 1 | 0 | 0 | 1 year, 17 days ago | [idris](https://github.com/0918nobita/idris)/472 | Idris code examples |
+| 1 | 0 | 0 | 1 year, 18 days ago | [idris](https://github.com/0918nobita/idris)/472 | Idris code examples |
 | 1 | 0 | 0 | 8 months ago | [idris-bench](https://github.com/andrevidela/idris-bench)/473 | None |
 | 1 | 0 | 0 | 3 months ago | [HomotopyTypeTheory](https://github.com/KenyC/HomotopyTypeTheory)/474 | Some definitions and propositions of Homotopy Type Theory |
 | 1 | 0 | 0 | 3 months ago | [Proofs](https://github.com/skykanin/Proofs)/475 | Collection of formal proofs |
@@ -568,7 +568,7 @@
 | 0 | 0 | 0 | 1 year, 3 months ago | [sheeps](https://github.com/andrevidela/sheeps)/565 | None |
 | 0 | 0 | 0 | 1 year, 3 months ago | [scratch](https://github.com/roycrippen/scratch)/566 | Example Idris project structure for a creating a library. |
 | 0 | 0 | 0 | 1 year, 7 months ago | [namespace2xml-idris](https://github.com/stop-cran/namespace2xml-idris)/567 | None |
-| 0 | 0 | 0 | 1 year, 29 days ago | [Dudley](https://github.com/dudley-lang/Dudley)/568 | An Idris-compatible Gradual Dependently-typed Language |
+| 0 | 0 | 0 | 1 year, 30 days ago | [Dudley](https://github.com/dudley-lang/Dudley)/568 | An Idris-compatible Gradual Dependently-typed Language |
 | 0 | 0 | 0 | 1 year, 5 months ago | [es-idris](https://github.com/codehag/es-idris)/569 | An experimental and rather direct ECMAScript implementation in Idris |
 | 0 | 0 | 0 | 5 months ago | [idris-map](https://github.com/GarkGarcia/idris-map)/570 | A simple port of Haskell's Data.Map.Strict 🧙‍♂️ |
 | 0 | 0 | 0 | 2 years ago | [DynIdris](https://github.com/zaoqi/DynIdris)/571 | Idris模拟动态类型 |
@@ -578,12 +578,12 @@
 | 0 | 0 | 0 | 7 months ago | [controlST](https://github.com/vfrinken/controlST)/575 | None |
 | 0 | 0 | 0 | 4 months ago | [idris-exercises](https://github.com/tetrapharmakon/idris-exercises)/576 | None |
 | 0 | 0 | 0 | 4 months ago | [fgli](https://github.com/doyougnu/fgli)/577 | A reimplementation of Erwig's fgl library in Idris (1) |
-| 0 | 0 | 0 | 3 months ago | [PrivGen-Rep](https://github.com/BoujdadFz/PrivGen-Rep)/578 | None |
+| 0 | 0 | 0 | 4 months ago | [PrivGen-Rep](https://github.com/BoujdadFz/PrivGen-Rep)/578 | None |
 | 0 | 0 | 0 | a month ago | [2020-idris](https://github.com/karlviik/2020-idris)/579 | None |
 | 0 | 0 | 0 | a month ago | [Lattices-in-Idris](https://github.com/anotherArka/Lattices-in-Idris)/580 | Trying to prove Knaster-Tarski theorem in Idris |
 | 0 | 0 | 0 | a month ago | [idris-diaries](https://github.com/tarik-ozkanli/idris-diaries)/581 | None |
 | 0 | 0 | 0 | a month ago | [BiNat](https://github.com/SekiT/BiNat)/582 | Binary representation of natural numbers in Idris |
-| 0 | 0 | 0 | 12 days ago | [cpidgin](https://github.com/nanolith/cpidgin)/583 | None |
+| 0 | 0 | 0 | 13 days ago | [cpidgin](https://github.com/nanolith/cpidgin)/583 | None |
 | 0 | 0 | 0 | 4 years ago | [Idris](https://github.com/StrangeLoopCodingDojo/Idris)/584 | Idris |
 | 0 | 0 | 0 | 4 years ago | [coerceo](https://github.com/yacinehmito/coerceo)/585 | Base repo for the Coerceo board game challenge |
 | 0 | 0 | 0 | 4 years ago | [idrisjava-prototype-to-ffi-interface](https://github.com/bgaster/idrisjava-prototype-to-ffi-interface)/586 | Simple program to take a Java method prototype and generate IdrisJava FFI interface |
@@ -637,7 +637,7 @@
 | 0 | 0 | 0 | 1 year, 6 months ago | [idris-btree](https://github.com/KeenS/idris-btree)/634 | None |
 | 0 | 0 | 0 | 1 year, 6 months ago | [type-level-sudoku](https://github.com/MightyAlex200/type-level-sudoku)/635 | Invalid Sudoku solutions are a type error |
 | 0 | 0 | 0 | 1 year, 5 months ago | [idris](https://github.com/aleksander-mendoza/idris)/636 | None |
-| 0 | 0 | 0 | 1 year, 19 days ago | [cct-exercises](https://github.com/mstn/cct-exercises)/637 | Exercises in Computational Category Theory from classical textbooks using idris-ct |
+| 0 | 0 | 0 | 1 year, 20 days ago | [cct-exercises](https://github.com/mstn/cct-exercises)/637 | Exercises in Computational Category Theory from classical textbooks using idris-ct |
 | 0 | 0 | 0 | 9 months ago | [rewrite](https://github.com/ShinKage/rewrite)/638 | Verified directed graph rewriting with Idris |
 | 0 | 0 | 0 | 4 years ago | [idris-discrete](https://github.com/bascott/idris-discrete)/639 | None |
 | 0 | 0 | 0 | 2 months ago | [insta-code](https://github.com/pawelsawicz/insta-code)/640 | None |
@@ -645,10 +645,10 @@
 | 0 | 0 | 0 | 1 year, 2 months ago | [software-foundations](https://github.com/erdeszt/software-foundations)/642 | Software foundations in Idris |
 | 0 | 0 | 0 | 3 months ago | [grocery](https://github.com/dkeehl/grocery)/643 | None |
 | 0 | 0 | 0 | 21 days ago | [ttfp](https://github.com/donovancrichton/ttfp)/644 | My working through Type Theory and Formal Proofs (Nederpelt and Geuvers) in Idris. |
-| 0 | 0 | 0 | 22 days ago | [PRSA](https://github.com/clayrat/PRSA)/645 | Proof-relevant separation algebras from Rouvoet et al |
-| 0 | 0 | 0 | 10 days ago | [Idris](https://github.com/NidhiMadab/Idris)/646 | None |
+| 0 | 0 | 0 | 18 days ago | [tdd_ex](https://github.com/Ablach/tdd_ex)/645 | None |
+| 0 | 0 | 0 | 23 days ago | [PRSA](https://github.com/clayrat/PRSA)/646 | Proof-relevant separation algebras from Rouvoet et al |
 | 0 | 0 | 0 | 5 days ago | [Echologie.github.io.old](https://github.com/Echologie/Echologie.github.io.old)/647 | None |
-| 0 | 0 | 0 | 17 days ago | [tdd_ex](https://github.com/Ablach/tdd_ex)/648 | None |
+| 0 | 0 | 0 | 11 days ago | [Idris](https://github.com/NidhiMadab/Idris)/648 | None |
 | 0 | 0 | 0 | 5 years ago | [Idris-benchmarks](https://github.com/harelfishbein/Idris-benchmarks)/649 | None |
 | 0 | 0 | 0 | 4 years ago | [atom-language-idris-tests](https://github.com/archaeron/atom-language-idris-tests)/650 | None |
 | 0 | 0 | 0 | 4 years ago | [CS1113](https://github.com/SordFysh/CS1113)/651 | None |
@@ -679,7 +679,7 @@
 | 0 | 0 | 0 | 1 year, 8 months ago | [tdd-in-idris](https://github.com/vivanov/tdd-in-idris)/676 | My solutions for tasks from Type-Driven Development in Idris |
 | 0 | 0 | 0 | 1 year, 8 months ago | [idris-spring-boot](https://github.com/mmhelloworld/idris-spring-boot)/677 | Spring Boot for Idris |
 | 0 | 0 | 0 | 1 year, 8 months ago | [IdrisTest](https://github.com/BryghtWords/IdrisTest)/678 | Testing library for Idris |
-| 0 | 0 | 0 | 1 year, 10 months ago | [PokerHands](https://github.com/as8709/PokerHands)/679 | Formally verified poker hand evaluation |
+| 0 | 0 | 0 | 1 year, 11 months ago | [PokerHands](https://github.com/as8709/PokerHands)/679 | Formally verified poker hand evaluation |
 | 0 | 0 | 0 | 1 year, 8 months ago | [tddi](https://github.com/johnchandlerburnham/tddi)/680 | Notes and exercises for Type-Driven Development with Idris by Edwin Brady |
 | 0 | 0 | 0 | 1 year, 1 month ago | [programming-language-foundations-in-idris](https://github.com/minhnhdo/programming-language-foundations-in-idris)/681 | Programming language foundations in Idris |
 | 0 | 0 | 0 | 1 year, 3 months ago | [type-driven-development-with-Idris](https://github.com/leetschau/type-driven-development-with-Idris)/682 | Notes and answers of the book "Type Driven Development with Idris" by Edwin Brady |
@@ -687,9 +687,9 @@
 | 0 | 0 | 1 | 7 months ago | [two-pc-idr](https://github.com/davlum/two-pc-idr)/684 | Implementation of the Two Phase commit protocol in Idris |
 | 0 | 0 | 0 | 6 months ago | [idris-playground](https://github.com/remexre/idris-playground)/685 | None |
 | 0 | 0 | 2 | 7 months ago | [idris-nt](https://github.com/bkushigian/idris-nt)/686 | idris number theory  |
-| 0 | 0 | 0 | a month ago | [Arith](https://github.com/AdamHarries/Arith)/687 | Blegh |
-| 0 | 0 | 0 | 3 months ago | [enjoy-idris](https://github.com/severuscat/enjoy-idris)/688 | Some Idris tasks for Type Theory course. ITMO, 2019-2020 |
-| 0 | 0 | 0 | 4 days ago | [Idris-exercises](https://github.com/neurogoo/Idris-exercises)/689 | None |
+| 0 | 0 | 0 | 3 months ago | [enjoy-idris](https://github.com/severuscat/enjoy-idris)/687 | Some Idris tasks for Type Theory course. ITMO, 2019-2020 |
+| 0 | 0 | 0 | 2 months ago | [Arith](https://github.com/AdamHarries/Arith)/688 | Blegh |
+| 0 | 0 | 0 | 5 days ago | [Idris-exercises](https://github.com/neurogoo/Idris-exercises)/689 | None |
 | 0 | 0 | 0 | 5 years ago | [socketexp](https://github.com/davidpeklak/socketexp)/690 | Exploring sockets in idris |
 | 0 | 0 | 0 | 4 years ago | [dudo](https://github.com/pharpend/dudo)/691 | The game of Dudo implemented in Idris. |
 | 0 | 0 | 0 | 4 years ago | [idris-learning-diary](https://github.com/jhegedus42/idris-learning-diary)/692 | Experimenting with fully dependent types. |
@@ -723,21 +723,21 @@
 | 0 | 0 | 0 | 2 years ago | [idris-random-fail](https://github.com/camelpunch/idris-random-fail)/720 | A Control.ST.Random and FFI program that crashes Idris 1.3 |
 | 0 | 0 | 0 | 1 year, 11 months ago | [tree](https://github.com/spydr073/tree)/721 | Tree library for Idris |
 | 0 | 0 | 0 | 1 year, 11 months ago | [TDD-Idris-Exercises](https://github.com/nicklecompte/TDD-Idris-Exercises)/722 | notes + solutions to exercises from Edwin Brady's Type-Driven Development With Idris |
-| 0 | 0 | 0 | 1 year, 30 days ago | [fc](https://github.com/dwarfmaster/fc)/723 | Compiler for a small functionnal language |
+| 0 | 0 | 0 | 1 year, 1 month ago | [fc](https://github.com/dwarfmaster/fc)/723 | Compiler for a small functionnal language |
 | 0 | 0 | 0 | 2 years ago | [idris-callbacks-tests](https://github.com/thalerjonathan/idris-callbacks-tests)/724 | None |
 | 0 | 0 | 0 | 1 year, 3 months ago | [GraphDB](https://github.com/spydr073/GraphDB)/725 | Dagger Category Database |
 | 0 | 0 | 0 | 1 year, 1 month ago | [idris-book](https://github.com/klangner/idris-book)/726 | Idris sandbox |
 | 0 | 0 | 0 | 1 year, 7 months ago | [adventofcode2018](https://github.com/alrunner4/adventofcode2018)/727 | https://adventofcode.com/2018 |
-| 0 | 0 | 0 | 1 year, 6 months ago | [tdd](https://github.com/optician/tdd)/728 | None |
+| 0 | 0 | 0 | 1 year, 7 months ago | [tdd](https://github.com/optician/tdd)/728 | None |
 | 0 | 0 | 0 | 1 year, 4 months ago | [2019-02-21-coding-for-students](https://github.com/janschultecom/2019-02-21-coding-for-students)/729 | None |
 | 0 | 0 | 0 | 1 year, 6 months ago | [Idris-Deps](https://github.com/chrrasmussen/Idris-Deps)/730 | List dependencies of an Idris project |
 | 0 | 0 | 0 | 1 year, 4 months ago | [P10](https://github.com/mortenm12/P10)/731 | None |
 | 0 | 0 | 0 | 11 months ago | [idrisgrouptheory](https://github.com/bencald/idrisgrouptheory)/732 | Implementation of basic group theory in Idris |
-| 0 | 0 | 0 | 1 year, 5 days ago | [idris-exercises](https://github.com/Nimor111/idris-exercises)/733 | Exercises and proofs while learning Idris |
+| 0 | 0 | 0 | 1 year, 6 days ago | [idris-exercises](https://github.com/Nimor111/idris-exercises)/733 | Exercises and proofs while learning Idris |
 | 0 | 0 | 0 | 7 months ago | [fspp](https://github.com/Kazark/fspp)/734 | A sort of F# preprocessor hack |
 | 0 | 1 | 0 | 9 months ago | [gcd](https://github.com/0xd34df00d/gcd)/735 | Euclidean algorithm, formally verified, provably correct |
 | 0 | 0 | 0 | 8 months ago | [idris-group](https://github.com/remexre/idris-group)/736 | Stuff related to the UMN plseminar going through Type-Driven Development in Idris in Fall 2019. |
-| 0 | 0 | 0 | 10 months ago | [idris-fist-steps](https://github.com/cattingcat/idris-fist-steps)/737 | None |
+| 0 | 0 | 0 | 11 months ago | [idris-fist-steps](https://github.com/cattingcat/idris-fist-steps)/737 | None |
 | 0 | 0 | 0 | 6 months ago | [TypeDrivenDevIdrisExercises](https://github.com/afarnham/TypeDrivenDevIdrisExercises)/738 | Type Driven Development with Idris Exercises |
 | 0 | 0 | 0 | 5 years ago | [Idris-sequences](https://github.com/treeowl/Idris-sequences)/739 | Experimental finger tree-based sequence implementations |
 | 0 | 0 | 0 | 5 years ago | [idris-datalog](https://github.com/michaelpj/idris-datalog)/740 | None |
@@ -792,8 +792,8 @@
 | 0 | 0 | 0 | 1 year, 2 months ago | [idris-exercises](https://github.com/guilhermehas/idris-exercises)/789 | Solutions of the book Type Driven Development |
 | 0 | 0 | 0 | 8 months ago | [iColor](https://github.com/marcesquerra/iColor)/790 | Terminal color for idris |
 | 0 | 0 | 0 | 1 year, 11 months ago | [idris-cg-dummy](https://github.com/doofin/idris-cg-dummy)/791 | None |
-| 0 | 0 | 0 | 11 months ago | [datapackris](https://github.com/problem233/datapackris)/792 | An EDSL for easily creating Minecraft datapacks |
-| 0 | 0 | 0 | a month ago | [PCF](https://github.com/normanrink/PCF)/793 | Development in Idris of standard meta-theory for a simply-typed lambda calculus with recursion. |
+| 0 | 0 | 0 | a month ago | [PCF](https://github.com/normanrink/PCF)/792 | Development in Idris of standard meta-theory for a simply-typed lambda calculus with recursion. |
+| 0 | 0 | 0 | 11 months ago | [datapackris](https://github.com/problem233/datapackris)/793 | An EDSL for easily creating Minecraft datapacks |
 | 0 | 0 | 0 | 5 years ago | [gol](https://github.com/lmarburger/gol)/794 | Game of Life in Idris |
 | 0 | 0 | 0 | 4 years ago | [cs1](https://github.com/runningchick/cs1)/795 | None |
 | 0 | 0 | 0 | 5 years ago | [ffiexp](https://github.com/davidpeklak/ffiexp)/796 | Experimenting with the idris FFI |
@@ -841,7 +841,7 @@
 | 0 | 0 | 0 | 10 months ago | [idris-tdd](https://github.com/aterentic/idris-tdd)/838 | Type Drive Development with Idris |
 | 0 | 0 | 0 | 4 months ago | [Temp](https://github.com/andylokandy/Temp)/839 | None |
 | 0 | 0 | 0 | 1 year, 6 months ago | [idris-playground](https://github.com/simpadjo/idris-playground)/840 | None |
-| 0 | 0 | 0 | a month ago | [n-ary](https://github.com/alexloomis/n-ary)/841 | N-Ary functions in Idris. |
+| 0 | 0 | 0 | 9 hours ago | [n-ary](https://github.com/alexloomis/n-ary)/841 | N-Ary functions in Idris. |
 | 0 | 0 | 0 | 4 years ago | [parcomb](https://github.com/defanor/parcomb)/842 | parsing stuff |
 | 0 | 0 | 0 | 5 years ago | [numtower](https://github.com/defanor/numtower)/843 | A numerical tower for Idris |
 | 0 | 0 | 0 | 6 years ago | [idrisMisc](https://github.com/tpsinnem/idrisMisc)/844 | Miscellaneous Idris code |
@@ -887,18 +887,18 @@
 | 0 | 0 | 0 | 1 year, 8 months ago | [idris-jackson](https://github.com/mmhelloworld/idris-jackson)/884 | Jackson for Idris |
 | 0 | 0 | 0 | 1 year, 5 months ago | [idris-starterwarefree-ffi](https://github.com/mokshasoft/idris-starterwarefree-ffi)/885 | TI StarterWare free Idris FFI |
 | 0 | 0 | 0 | 1 year, 4 months ago | [DependentLinearProgramming](https://github.com/dshieble/DependentLinearProgramming)/886 | None |
-| 0 | 0 | 0 | 1 year, 30 days ago | [type-theory-seminar](https://github.com/donald-pinckney/type-theory-seminar)/887 | None |
+| 0 | 0 | 0 | 1 year, 1 month ago | [type-theory-seminar](https://github.com/donald-pinckney/type-theory-seminar)/887 | None |
 | 0 | 0 | 0 | 10 months ago | [idris-sandbox](https://github.com/jhmcstanton/idris-sandbox)/888 | Just a place to play around with Idris |
 | 0 | 0 | 0 | 10 months ago | [StoryTime.Story.Service](https://github.com/nicholaslawton/StoryTime.Story.Service)/889 | None |
 | 0 | 0 | 0 | 8 months ago | [idris-tt-vs-coq-tt](https://github.com/0xd34df00d/idris-tt-vs-coq-tt)/890 | Learning Coq's type system by comparing it to Idris' |
 | 0 | 0 | 0 | 9 months ago | [tdd](https://github.com/zainab-ali/tdd)/891 | None |
 | 0 | 0 | 0 | 4 months ago | [quantum-computing-idris](https://github.com/tommysullivan/quantum-computing-idris)/892 | Modeling quantum computing using idris |
-| 0 | 0 | 0 | a month ago | [idris-age-of-conquerors](https://github.com/jappeace/idris-age-of-conquerors)/893 |  N-body problem with a GUI in idris trough sdl |
-| 0 | 0 | 0 | 2 months ago | [orsi-formalization](https://github.com/Isti115/orsi-formalization)/894 | Source codes for the project of formalizing the material of one of my university subjects about the properties of concurrent systems. |
-| 0 | 0 | 0 | a month ago | [idris-commons](https://github.com/jfdm/idris-commons)/895 | Various common utilities for use in Idris |
-| 0 | 0 | 0 | a month ago | [typeDrivenDevelopmentIdris](https://github.com/renanreismartins/typeDrivenDevelopmentIdris)/896 | Exercises from the book "Type-Driven Development with Idris" and deliberated practice to learn the language |
-| 0 | 0 | 0 | a month ago | [idris-arduino-lib](https://github.com/buzden/idris-arduino-lib)/897 | Library for using Arduino primitives in type-safe manner |
-| 0 | 0 | 0 | 21 hours ago | [circuit](https://github.com/nixCodeX/circuit)/898 | None |
+| 0 | 0 | 0 | 2 months ago | [orsi-formalization](https://github.com/Isti115/orsi-formalization)/893 | Source codes for the project of formalizing the material of one of my university subjects about the properties of concurrent systems. |
+| 0 | 0 | 0 | a month ago | [idris-commons](https://github.com/jfdm/idris-commons)/894 | Various common utilities for use in Idris |
+| 0 | 0 | 0 | a month ago | [idris-age-of-conquerors](https://github.com/jappeace/idris-age-of-conquerors)/895 |  N-body problem with a GUI in idris trough sdl |
+| 0 | 0 | 0 | a month ago | [idris-arduino-lib](https://github.com/buzden/idris-arduino-lib)/896 | Library for using Arduino primitives in type-safe manner |
+| 0 | 0 | 0 | a month ago | [typeDrivenDevelopmentIdris](https://github.com/renanreismartins/typeDrivenDevelopmentIdris)/897 | Exercises from the book "Type-Driven Development with Idris" and deliberated practice to learn the language |
+| 0 | 0 | 0 | a day ago | [circuit](https://github.com/nixCodeX/circuit)/898 | None |
 | 0 | 1 | 0 | 5 years ago | [idris-html](https://github.com/jgreene/idris-html)/899 | Parse and Generate HTML from Idris |
 | 0 | 0 | 0 | 4 years ago | [fpinidris](https://github.com/clayrat/fpinidris)/900 | FP in Scala but in Idris |
 | 0 | 0 | 0 | 11 months ago | [idris-integration](https://github.com/lambdacasserole/idris-integration)/901 | Riemann approximation of integrals in Idris. |
@@ -929,7 +929,7 @@
 | 0 | 0 | 0 | 3 years ago | [idris-lambda](https://github.com/loewenheim/idris-lambda)/926 | None |
 | 0 | 0 | 0 | 3 years ago | [idris_lambda_interpreter](https://github.com/lehmacdj/idris_lambda_interpreter)/927 | A very simple lambda interpreter that I built using idris |
 | 0 | 0 | 0 | 2 years ago | [tyclgen](https://github.com/Kazark/tyclgen)/928 | Type Class Generator for F# ... not as good as it sounds |
-| 0 | 0 | 0 | 1 year, 9 months ago | [threemanchess.idr](https://github.com/mkf/threemanchess.idr)/929 | None |
+| 0 | 0 | 0 | 1 year, 10 months ago | [threemanchess.idr](https://github.com/mkf/threemanchess.idr)/929 | None |
 | 0 | 0 | 0 | 1 year, 9 months ago | [idris](https://github.com/blasut/idris)/930 | None |
 | 0 | 0 | 0 | 2 years ago | [Event](https://github.com/leon-vv/Event)/931 | Idris Event module, interface to asynchronous JavaScript |
 | 0 | 0 | 0 | 1 year, 11 months ago | [tddwi](https://github.com/tamasn/tddwi)/932 | None |
@@ -937,23 +937,23 @@
 | 0 | 0 | 0 | 2 years ago | [verified-algebra](https://github.com/jeroennoels/verified-algebra)/934 | Composable algebraic structures and proofs |
 | 0 | 0 | 0 | 2 years ago | [xdris](https://github.com/awalterschulze/xdris)/935 | A regex package for Idris |
 | 0 | 0 | 0 | 1 year, 8 months ago | [task-semantics](https://github.com/mklinik/task-semantics)/936 | A temporary mirror for the task semantics paper |
-| 0 | 0 | 0 | 1 year, 8 months ago | [hangman](https://github.com/archontophoenix/hangman)/937 | Rework of the puzzling Hangman example in Chapter 14 of Type-Driven Development with Idris |
+| 0 | 0 | 0 | 1 year, 9 months ago | [hangman](https://github.com/archontophoenix/hangman)/937 | Rework of the puzzling Hangman example in Chapter 14 of Type-Driven Development with Idris |
 | 0 | 0 | 0 | 1 year, 1 month ago | [alacarte-idris](https://github.com/BakerSmithA/alacarte-idris)/938 | Data Types à la Carte extensible syntax and semantics, implemented in Idris. |
 | 0 | 0 | 0 | 1 year, 2 months ago | [idris-exercises](https://github.com/coffius/idris-exercises)/939 | Idris exercises and experiments |
 | 0 | 0 | 0 | 1 year, 3 months ago | [propositionsAsConditionals](https://github.com/archontophoenix/propositionsAsConditionals)/940 | Idris typeclasses let you use a proposition instead of a boolean to govern a conditional |
 | 0 | 0 | 0 | 1 year, 5 months ago | [idris-effect-example](https://github.com/prozacchiwawa/idris-effect-example)/941 | A commented example of an effect in idris.  Hopefully this makes clearer what the purpose of each part is for somebody else. |
 | 0 | 0 | 0 | 10 months ago | [brainfeck](https://github.com/jhmcstanton/brainfeck)/942 | Brainfuck interpreter written in Idris |
 | 0 | 0 | 0 | 11 months ago | [dependent-snooker](https://github.com/DaQuirm/dependent-snooker)/943 | Using dependently-typed FSMs to describe snooker breaks |
-| 0 | 0 | 0 | 8 months ago | [descheme](https://github.com/cmcmA20/descheme)/944 | None |
-| 0 | 0 | 0 | 7 months ago | [learn-idris](https://github.com/funemy/learn-idris)/945 | 2017 OPLSS course of idris |
-| 0 | 0 | 0 | 1 year, 24 days ago | [peti](https://github.com/PeterHajdu/peti)/946 | My text editor |
-| 0 | 0 | 0 | 3 years ago | [idris](https://github.com/emres/idris)/947 | Repository for Idris programming self-study |
-| 0 | 0 | 0 | 5 months ago | [idris-tdd-solutions](https://github.com/SLAVONchick/idris-tdd-solutions)/948 | Solutions for exercizes from Type Drive Development in Idris |
-| 0 | 0 | 41 | 1 year, 2 months ago | [wasm-project](https://github.com/imcgeoch/wasm-project)/949 | None |
-| 0 | 0 | 0 | 4 years ago | [frigg-tool](https://github.com/jfdm/frigg-tool)/950 | A tool to work with Design Patterns Modelled and created using Sif. |
-| 0 | 0 | 0 | 3 months ago | [idris-sqlite3](https://github.com/MarcelineVQ/idris-sqlite3)/951 | bindings to sqlite in idris2 |
-| 0 | 0 | 0 | 2 months ago | [2020-Functional-Programming](https://github.com/envomp/2020-Functional-Programming)/952 | ITI0212 |
-| 0 | 0 | 0 | 21 days ago | [idris-playground](https://github.com/Pzixel/idris-playground)/953 | None |
+| 0 | 0 | 41 | 1 year, 2 months ago | [wasm-project](https://github.com/imcgeoch/wasm-project)/944 | None |
+| 0 | 0 | 0 | 5 months ago | [idris-tdd-solutions](https://github.com/SLAVONchick/idris-tdd-solutions)/945 | Solutions for exercizes from Type Drive Development in Idris |
+| 0 | 0 | 0 | 8 months ago | [descheme](https://github.com/cmcmA20/descheme)/946 | None |
+| 0 | 0 | 0 | 7 months ago | [learn-idris](https://github.com/funemy/learn-idris)/947 | 2017 OPLSS course of idris |
+| 0 | 0 | 0 | 1 year, 24 days ago | [peti](https://github.com/PeterHajdu/peti)/948 | My text editor |
+| 0 | 0 | 0 | 3 years ago | [idris](https://github.com/emres/idris)/949 | Repository for Idris programming self-study |
+| 0 | 0 | 0 | 2 months ago | [2020-Functional-Programming](https://github.com/envomp/2020-Functional-Programming)/950 | ITI0212 |
+| 0 | 0 | 0 | 4 years ago | [frigg-tool](https://github.com/jfdm/frigg-tool)/951 | A tool to work with Design Patterns Modelled and created using Sif. |
+| 0 | 0 | 0 | 22 days ago | [idris-playground](https://github.com/Pzixel/idris-playground)/952 | None |
+| 0 | 0 | 0 | 3 months ago | [idris-sqlite3](https://github.com/MarcelineVQ/idris-sqlite3)/953 | bindings to sqlite in idris2 |
 | 0 | 0 | 0 | 3 days ago | [pfsm-base](https://github.com/titan/pfsm-base)/954 | None |
 | 0 | 0 | 0 | 5 years ago | [idris-exercises](https://github.com/expede/idris-exercises)/955 | My solutions to the "Dependently Typed Programming with Idris 2013" exercises |
 | 0 | 0 | 0 | 4 years ago | [TopologicalSpaceGenerator](https://github.com/FranckS/TopologicalSpaceGenerator)/956 | Generating topologies on a finite set with 5 elements |

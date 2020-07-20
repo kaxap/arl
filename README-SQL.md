@@ -4,7 +4,7 @@
 | 292 | 178 | 7 | 6 years ago | [agilebill](https://github.com/tony-landis/agilebill)/1 | Open source billing and invoicing |
 | 133 | 62 | 1 | 6 years ago | [SQL](https://github.com/dhaval1406/SQL)/2 | sql related stuff, interview questions, mySQL complex queries |
 | 112 | 63 | 0 | 6 years ago | [census-postgres](https://github.com/leehach/census-postgres)/3 | PostgreSQL schema and import scripts for recent US Census data |
-| 63 | 26 | 0 | 9 days ago | [sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox)/4 | SQL Server Toolbox by the Sparkhound SQL Team |
+| 63 | 26 | 0 | 10 days ago | [sql-server-toolbox](https://github.com/SparkhoundSQL/sql-server-toolbox)/4 | SQL Server Toolbox by the Sparkhound SQL Team |
 | 62 | 119 | 0 | 5 years ago | [TDB_4.3.4_NLU](https://github.com/TrinityCore/TDB_4.3.4_NLU)/5 | If you are looking for TDB for 4.3.4 go to: |
 | 60 | 34 | 0 | 6 years ago | [Ali-Data-Mining](https://github.com/sunnotes/Ali-Data-Mining)/6 | 阿里巴巴大数据竞赛 |
 | 17 | 7 | 0 | 6 years ago | [DocGraph](https://github.com/jhajagos/DocGraph)/7 | Code related to DocGraph analysis |
@@ -16,14 +16,14 @@
 | 12 | 6 | 1 | 6 years ago | [martini-example](https://github.com/joiggama/martini-example)/13 | Example martini app with different ORM integrations, see different branches. |
 | 11 | 5 | 6 | 6 years ago | [Lstore](https://github.com/cistoner/Lstore)/14 | This tool allows you to anonymously or publicly share contents in LAN. Clients can download contents directly from you |
 | 11 | 5 | 1 | 6 years ago | [Vanilla](https://github.com/andrewmunro/Vanilla)/15 | Vanilla WoW Emulator for Educational Purposes |
-| 10 | 1 | 5 | 4 days ago | [COVID-19](https://github.com/Flowminder/COVID-19)/16 | Data insights for COVID-19 response: resources for producing mobility indicators and analysis from CDR data |
+| 10 | 1 | 5 | 5 days ago | [COVID-19](https://github.com/Flowminder/COVID-19)/16 | Data insights for COVID-19 response: resources for producing mobility indicators and analysis from CDR data |
 | 10 | 7 | 3 | 6 years ago | [Algerian-Wilayas](https://github.com/01walid/Algerian-Wilayas)/17 | Algerian Wilayas list in different formats (XML, JSON, xsl..etc) for the sake of DRY |
 | 9 | 4 | 1 | 6 years ago | [pl-gapi](https://github.com/tschf/pl-gapi)/18 | None |
 | 9 | 1 | 0 | 6 years ago | [Donor9](https://github.com/hacker9/Donor9)/19 | None |
 | 7 | 7 | 0 | 6 years ago | [Live2](https://github.com/saphanaacademy/Live2)/20 | SAP HANA Academy - Live2 project code samples for playlist https://www.youtube.com/playlist?list=PLkzo92owKnVyIXgkK__7Z1o_C7pyNc3SR |
 | 7 | 2 | 1 | 6 years ago | [nutes](https://github.com/echlebek/nutes)/21 | SQL import of USDA nutrient database |
-| 7 | 0 | 0 | 10 days ago | [SQL-Zoo](https://github.com/simandebvu/SQL-Zoo)/22 | SQL Zoo is one of the few resources online that actually lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. |
-| 7 | 6 | 0 | a day ago | [HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions)/23 | The solutions of all SQL hackerrank challenges using MySQL environment |
+| 7 | 0 | 0 | 11 days ago | [SQL-Zoo](https://github.com/simandebvu/SQL-Zoo)/22 | SQL Zoo is one of the few resources online that actually lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. |
+| 7 | 6 | 0 | 2 days ago | [HackerRank-SQL-Challenges-Solutions](https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions)/23 | The solutions of all SQL hackerrank challenges using MySQL environment |
 | 6 | 2 | 0 | 6 years ago | [AuthManager](https://github.com/iosoft/AuthManager)/24 | User authentication and management web application |
 | 6 | 1 | 1 | 5 years ago | [ipython_nb](https://github.com/sr320/ipython_nb)/25 | Lab Notebook - 2014 |
 | 5 | 5 | 1 | 6 years ago | [puppet-openfire](https://github.com/ghoneycutt/puppet-openfire)/26 | Openfire Puppet module |
@@ -85,8 +85,8 @@
 | 1 | 0 | 0 | 6 years ago | [DEPRECATED-ti3wiki.org](https://github.com/lancegatlin/DEPRECATED-ti3wiki.org)/82 | Deployment package (without passwords) for the site ti3wiki.org |
 | 1 | 0 | 0 | 6 years ago | [englishquotesdatabase](https://github.com/x16bkkamz6rkb78rzt7op/englishquotesdatabase)/83 | This is a mysql database of 75968 english quotes. The four columns are id number, quote, author and genre. |
 | 1 | 0 | 0 | 3 months ago | [World-Populations](https://github.com/makozi/World-Populations)/84 | Analysing the World Populations using SQL |
-| 1 | 0 | 0 | 1 year, 26 days ago | [EBanking_database](https://github.com/Mohammad-Rahmdel/EBanking_database)/85 | Database for Electronic Banking in MySQL |
-| 1 | 1 | 0 | 22 days ago | [modelagemDeBancoDeDados](https://github.com/fvvsantana/modelagemDeBancoDeDados)/86 | Trabalho de faculdade. |
+| 1 | 0 | 0 | 1 year, 27 days ago | [EBanking_database](https://github.com/Mohammad-Rahmdel/EBanking_database)/85 | Database for Electronic Banking in MySQL |
+| 1 | 1 | 0 | 23 days ago | [modelagemDeBancoDeDados](https://github.com/fvvsantana/modelagemDeBancoDeDados)/86 | Trabalho de faculdade. |
 | 1 | 0 | 0 | 6 years ago | [ansible-zabbix-server-old](https://github.com/hakamine/ansible-zabbix-server-old)/87 | None |
 | 1 | 0 | 0 | 6 years ago | [nfp_hipster](https://github.com/StoneCypher/nfp_hipster)/88 | My hipstery netflix prize tools.  I play NFP for fun a lot, years after it's over, and have to restart since a machine theft. |
 | 1 | 0 | 0 | 6 years ago | [xskeleton201405](https://github.com/kurokouji/xskeleton201405)/89 | None |
@@ -109,18 +109,18 @@
 | 1 | 1 | 0 | 6 years ago | [demoset_db_umra](https://github.com/arnoutvandervorst/demoset_db_umra)/106 | UMRA demoset database SQL script |
 | 1 | 0 | 0 | 4 months ago | [Basic-Database-SQL](https://github.com/GentianGashi/Basic-Database-SQL)/107 | Useful reminder on how to create tables and queries. |
 | 1 | 1 | 0 | 6 years ago | [dean](https://github.com/jacqueline-homan/dean)/108 | existing site requiring some minor php code changes and a modificed htaccess file |
-| 1 | 0 | 0 | 10 days ago | [hr_schema](https://github.com/gdsotirov/hr_schema)/109 | An example HR database for management of company's organization, employees, etc. |
+| 1 | 0 | 0 | 11 days ago | [hr_schema](https://github.com/gdsotirov/hr_schema)/109 | An example HR database for management of company's organization, employees, etc. |
 | 1 | 0 | 0 | 6 years ago | [projekt_SQL](https://github.com/mziolkowski/projekt_SQL)/110 | Projekt SQL do szkoły |
 | 1 | 0 | 0 | 3 months ago | [Davie-s-Burgers-Subway-Ad](https://github.com/makozi/Davie-s-Burgers-Subway-Ad)/111 | Analysing Davie's Burgers Subway Ad data Using SQL |
 | 1 | 0 | 0 | 2 months ago | [User-Engagement-Data](https://github.com/ARay2/User-Engagement-Data)/112 | None |
-| 1 | 0 | 0 | 26 days ago | [BDAD](https://github.com/Educorreia932/BDAD)/113 | MIEIC 2019/2020 - 2º ano / 2º semestre 🗄🗃 |
+| 1 | 0 | 0 | 27 days ago | [BDAD](https://github.com/Educorreia932/BDAD)/113 | MIEIC 2019/2020 - 2º ano / 2º semestre 🗄🗃 |
 | 1 | 7 | 13 | 6 years ago | [CalZone](https://github.com/CalZoneVUB/CalZone)/114 | activation |
 | 1 | 2 | 0 | 6 years ago | [puppet-hive](https://github.com/viirya/puppet-hive)/115 | Puppet module for installing Apache Hive |
 | 1 | 0 | 1 | 6 years ago | [DotaBest](https://github.com/oroshnivskyy/DotaBest)/116 | None |
 | 1 | 0 | 0 | 1 year, 9 months ago | [learning-sql](https://github.com/rajadavidh/learning-sql)/117 | Code examples from Udacity course for learning SQL for Data Analysis |
-| 1 | 0 | 0 | 5 months ago | [NYSE-Stock-Trading](https://github.com/Amitj96/NYSE-Stock-Trading)/118 | Created a database management system to simplify searching, buying and managing of stocks through individual user portfolio. |
-| 1 | 0 | 0 | 2 months ago | [Installs](https://github.com/ARay2/Installs)/119 | None |
-| 1 | 0 | 0 | 15 days ago | [lemans24](https://github.com/gdsotirov/lemans24)/120 | A small schema for statistics on 24 Hours of Le Mans endurance race. |
+| 1 | 0 | 0 | 16 days ago | [lemans24](https://github.com/gdsotirov/lemans24)/118 | A small schema for statistics on 24 Hours of Le Mans endurance race. |
+| 1 | 0 | 0 | 5 months ago | [NYSE-Stock-Trading](https://github.com/Amitj96/NYSE-Stock-Trading)/119 | Created a database management system to simplify searching, buying and managing of stocks through individual user portfolio. |
+| 1 | 0 | 0 | 2 months ago | [Installs](https://github.com/ARay2/Installs)/120 | None |
 | 1 | 0 | 0 | 6 years ago | [RE-Source-database](https://github.com/Guiltygate/RE-Source-database)/121 | Repo for all queries/php files regarding creation of the RE:Source database. |
 | 1 | 1 | 0 | 6 years ago | [meruplaybook](https://github.com/euank/meruplaybook)/122 | A playbook for setting up email on a server; Work in Progress |
 | 1 | 0 | 0 | 6 years ago | [Magento_Clean](https://github.com/absent1706/Magento_Clean)/123 | Clean installed Magento with db dump; installations of magento |
@@ -145,12 +145,12 @@
 | 0 | 1 | 1 | 6 years ago | [deals](https://github.com/hbuser1/deals)/142 | Ncr Deals |
 | 0 | 0 | 0 | 2 years ago | [BD_ej](https://github.com/yuriyfpmislata/BD_ej)/143 | None |
 | 0 | 0 | 0 | 1 year, 8 months ago | [lunmap](https://github.com/wyericso/lunmap)/144 | LUN Map Tool for Quick LUN Mapping |
-| 0 | 0 | 0 | 1 year, 1 month ago | [playground-sql](https://github.com/d630/playground-sql)/145 | gist files |
+| 0 | 0 | 0 | 1 year, 2 months ago | [playground-sql](https://github.com/d630/playground-sql)/145 | gist files |
 | 0 | 0 | 4 | 8 months ago | [sqlflow](https://github.com/iteg-hq/sqlflow)/146 | A flow manager for SQL Server |
 | 0 | 0 | 0 | 1 year, 9 months ago | [DataTypes-DatesFomattingSQL](https://github.com/TestardR/DataTypes-DatesFomattingSQL)/147 | Using SQL on MySQL, we show data types and Dates formatting. |
 | 0 | 0 | 0 | 6 years ago | [datainfo](https://github.com/Djekkoo/datainfo)/148 | None |
 | 0 | 0 | 0 | 2 months ago | [Airbnb-Database](https://github.com/PanagiotisNtymenos/Airbnb-Database)/149 | None |
-| 0 | 0 | 0 | 29 days ago | [lib-service-sql](https://github.com/softask-app/lib-service-sql)/150 | None |
+| 0 | 0 | 0 | 30 days ago | [lib-service-sql](https://github.com/softask-app/lib-service-sql)/150 | None |
 | 0 | 0 | 0 | 6 years ago | [datainfo](https://github.com/Jannyboy11/datainfo)/151 | no description available |
 | 0 | 3 | 1 | 6 years ago | [MRF_Platynereis_2014](https://github.com/jbogp/MRF_Platynereis_2014)/152 | Data and scripts attached to the paper "Identifying cell types from spatially referenced single-cell expression datasets" |
 | 0 | 0 | 0 | 6 years ago | [weishuku](https://github.com/jerry-sjtu/weishuku)/153 | weishuku |
@@ -198,7 +198,7 @@
 | 0 | 1 | 0 | 6 years ago | [vagrant-lamp](https://github.com/Classroom-Clicker/vagrant-lamp)/195 | None |
 | 0 | 0 | 0 | 6 years ago | [gib-bern](https://github.com/fujexo/gib-bern)/196 | None |
 | 0 | 0 | 0 | 6 years ago | [myproject](https://github.com/deepak010789/myproject)/197 | Script to fetch data from http://vimoe.com and to store it in the database. And a front-end is also there to check the functionality. |
-| 0 | 0 | 0 | a year ago | [SQL-Server-Library-Database](https://github.com/bubblypatrick/SQL-Server-Library-Database)/198 | A self-populating relational database that represents a library network. This consists of 9 tables, and includes connections between books, branches, borrowers, authors, and how they are related. |
+| 0 | 0 | 0 | 1 year, 1 day ago | [SQL-Server-Library-Database](https://github.com/bubblypatrick/SQL-Server-Library-Database)/198 | A self-populating relational database that represents a library network. This consists of 9 tables, and includes connections between books, branches, borrowers, authors, and how they are related. |
 | 0 | 0 | 0 | 1 year, 1 month ago | [SE-223](https://github.com/yuetsin/SE-223)/199 | Some database toys. |
 | 0 | 0 | 0 | 1 year, 4 months ago | [Databases-course](https://github.com/lukaszszy/Databases-course)/200 | Exercises from Databases course. |
 | 0 | 0 | 0 | 1 year, 5 months ago | [Learn-SQL](https://github.com/lloydhardy/Learn-SQL)/201 | Language Reference for MySQL/MariaDB SQL |
@@ -206,7 +206,7 @@
 | 0 | 0 | 0 | 4 months ago | [SQL-Database-With-Fictional-Patients](https://github.com/NeilBickle/SQL-Database-With-Fictional-Patients)/203 | This Database Makes Use Of The Create Database Command, Create Table Command, Select Command And Insert Into Command. |
 | 0 | 0 | 0 | 5 months ago | [Pewlett-Hackard-Employee-Database](https://github.com/teomotun/Pewlett-Hackard-Employee-Database)/204 | Hewlett Packard corporation employees research project  from the 1980s to 1990s |
 | 0 | 0 | 0 | a month ago | [service-ddl](https://github.com/softask-app/service-ddl)/205 | None |
-| 0 | 0 | 0 | a month ago | [sqlzoo-solutions](https://github.com/ritakalach/sqlzoo-solutions)/206 | SQL practice problems and solutions. |
+| 0 | 0 | 0 | 2 months ago | [sqlzoo-solutions](https://github.com/ritakalach/sqlzoo-solutions)/206 | SQL practice problems and solutions. |
 | 0 | 0 | 0 | 6 years ago | [di-session5](https://github.com/niomaster/di-session5)/207 | None |
 | 0 | 0 | 0 | 6 years ago | [moscow-streets-mysql](https://github.com/Eternity-Yarr/moscow-streets-mysql)/208 | MySQL таблица улиц Москвы и окрестностей с индексами (КЛАДР от 26.05.2014) |
 | 0 | 10 | 0 | 5 years ago | [Scripts](https://github.com/SoulBlaker/Scripts)/209 | Npcs Desenvolvido para emuladores de Ragnarok. Ex: Cronus-Emulator, rAthena, eAthena... |
@@ -235,9 +235,9 @@
 | 0 | 0 | 0 | 6 years ago | [sabreHCode](https://github.com/CarreraPHP/sabreHCode)/232 | LMS mirror of extjs-lms-app |
 | 0 | 0 | 0 | 6 years ago | [lexkarate](https://github.com/algosuna/lexkarate)/233 | WP based site for Lex Shotokan Karate Do |
 | 0 | 0 | 0 | 1 year, 8 months ago | [sql-templates](https://github.com/icsantos/sql-templates)/234 | None |
-| 0 | 0 | 0 | 1 year, 6 months ago | [sakila_database](https://github.com/ranpanguchicago/sakila_database)/235 | None |
+| 0 | 0 | 0 | 1 year, 7 months ago | [sakila_database](https://github.com/ranpanguchicago/sakila_database)/235 | None |
 | 0 | 0 | 0 | 4 months ago | [aeatDB](https://github.com/AlbertGoma/aeatDB)/236 | Quick and dirty invoice database with stored procedures to fill in Spanish tax forms. |
-| 0 | 0 | 0 | 6 days ago | [sql_basics](https://github.com/jenniferp1/sql_basics)/237 | Basic SQL scripts to get you started |
+| 0 | 0 | 0 | 7 days ago | [sql_basics](https://github.com/jenniferp1/sql_basics)/237 | Basic SQL scripts to get you started |
 | 0 | 0 | 0 | 7 days ago | [Aireem_Database](https://github.com/a-alto/Aireem_Database)/238 | Database for Aireem project |
 | 0 | 0 | 0 | 5 years ago | [DW-DataAnalyse](https://github.com/xiamenysy/DW-DataAnalyse)/239 | Data Analyse  |
 | 0 | 1 | 0 | 6 years ago | [SJLS-DB](https://github.com/wotashu/SJLS-DB)/240 | Seattle Japanese Language School Database |
@@ -292,11 +292,11 @@
 | 0 | 0 | 0 | 6 years ago | [Talk.Simple.Data](https://github.com/Timothep/Talk.Simple.Data)/289 | None |
 | 0 | 0 | 0 | 6 years ago | [vatirk](https://github.com/tiankonguse/vatirk)/290 | my acm team. it's name is vatirk.  |
 | 0 | 0 | 0 | 1 year, 2 months ago | [BankApp](https://github.com/MarceloMariduena/BankApp)/291 | A simple SQL bank application project. MySQL Workbench. |
-| 0 | 0 | 0 | 1 year, 4 months ago | [SQLite_Yelp](https://github.com/nguyendoanbb/SQLite_Yelp)/292 | Import Yelp's customer data by using SQLite |
+| 0 | 0 | 0 | 1 year, 5 months ago | [SQLite_Yelp](https://github.com/nguyendoanbb/SQLite_Yelp)/292 | Import Yelp's customer data by using SQLite |
 | 0 | 0 | 0 | 4 months ago | [Fictional-Patient-Table-For-SQL-Database](https://github.com/NeilBickle/Fictional-Patient-Table-For-SQL-Database)/293 | SQLite Database For Fictional Hospital Patients |
 | 0 | 0 | 0 | 3 months ago | [SQL_MOVIES_SCHEMA](https://github.com/borkowskiba/SQL_MOVIES_SCHEMA)/294 | None |
 | 0 | 0 | 0 | a month ago | [mode-sql-solutions](https://github.com/ritakalach/mode-sql-solutions)/295 | SQL practice problems and solutions. |
-| 0 | 0 | 0 | 2 days ago | [sql-Command-Repository](https://github.com/Emon-ProCoder7/sql-Command-Repository)/296 | Some of my sql projects with sqlite. |
+| 0 | 0 | 0 | 3 days ago | [sql-Command-Repository](https://github.com/Emon-ProCoder7/sql-Command-Repository)/296 | Some of my sql projects with sqlite. |
 | 0 | 0 | 0 | 6 years ago | [GravimonAnalisis](https://github.com/betmare/GravimonAnalisis)/297 | Descripcion y Analisis del Proyecto Gravimon |
 | 0 | 1 | 0 | 6 years ago | [UPASystem](https://github.com/obeddiaz/UPASystem)/298 | None |
 | 0 | 0 | 0 | 6 years ago | [GSB_fini](https://github.com/mlorf/GSB_fini)/299 | None |
@@ -327,7 +327,7 @@
 | 0 | 0 | 1 | 1 year, 3 months ago | [QuailKit.sql](https://github.com/avl-ttu/QuailKit.sql)/324 | None |
 | 0 | 0 | 0 | 1 year, 9 months ago | [OneToManySQL](https://github.com/TestardR/OneToManySQL)/325 | Using SQL in MySQL, we show the pratice of one to many tables (join, left join, right join, delete cascade, etc...) |
 | 0 | 0 | 0 | 1 year, 9 months ago | [SQL-CRUD-Requests](https://github.com/TestardR/SQL-CRUD-Requests)/326 | Fundamentals of CRUD requests on SQL, using MySQL |
-| 0 | 1 | 0 | 1 year, 28 days ago | [sql-hands-on](https://github.com/ybg345/sql-hands-on)/327 | This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc. |
+| 0 | 1 | 0 | 1 year, 29 days ago | [sql-hands-on](https://github.com/ybg345/sql-hands-on)/327 | This repository contains SQL queries from various popular online learning resources e.g. Vertabelo Academy, SQLZoo etc. |
 | 0 | 0 | 0 | 3 months ago | [MSSQL_LibraryDB](https://github.com/piotrbalon/MSSQL_LibraryDB)/328 | Simple T-SQL database |
 | 0 | 0 | 0 | a month ago | [An-Introduction-to-SQL](https://github.com/cnguyen-uk/An-Introduction-to-SQL)/329 | A compact introduction to using SQL. |
 | 0 | 0 | 0 | 6 years ago | [Excilys-base](https://github.com/pffiat/Excilys-base)/330 | None |
@@ -376,8 +376,8 @@
 | 0 | 0 | 0 | 6 years ago | [turnos-core](https://github.com/iriber/turnos-core)/373 | Sistema de turnos. Core de negocio utilizando Cose |
 | 0 | 1 | 0 | 6 years ago | [nlp-rest-client](https://github.com/tristaneuan/nlp-rest-client)/374 | A Flask-based rest client for delivering data from Stanford CoreNLP parses |
 | 0 | 0 | 0 | 1 year, 1 month ago | [DB_exercise](https://github.com/Yuan-Zhuo/DB_exercise)/375 | Recording the answer for Database System Concepts 6th. |
-| 0 | 0 | 0 | a month ago | [ufc_scraping](https://github.com/evbarnett/ufc_scraping)/376 | Scrapes ufcstats and creates a sqlite database |
-| 0 | 0 | 0 | a month ago | [TP_SQL_Balneo](https://github.com/remysterio/TP_SQL_Balneo)/377 | Study project - SQL Database for a Seaside Resort |
+| 0 | 0 | 0 | a month ago | [TP_SQL_Balneo](https://github.com/remysterio/TP_SQL_Balneo)/376 | Study project - SQL Database for a Seaside Resort |
+| 0 | 0 | 0 | a month ago | [ufc_scraping](https://github.com/evbarnett/ufc_scraping)/377 | Scrapes ufcstats and creates a sqlite database |
 | 0 | 1 | 0 | 6 years ago | [solactive](https://github.com/Catalyz/solactive)/378 | None |
 | 0 | 0 | 0 | 6 years ago | [SL-SLIP](https://github.com/epaull/SL-SLIP)/379 | Soft Logic Synthetic Lethal Interaction Prediction |
 | 0 | 0 | 0 | 6 years ago | [datainfo](https://github.com/Kurocon/datainfo)/380 | Datainfo |
@@ -430,7 +430,7 @@
 | 0 | 0 | 0 | 1 year, 1 month ago | [free_enterprise_db](https://github.com/Antidale/free_enterprise_db)/427 | None |
 | 0 | 0 | 0 | 1 year, 1 month ago | [db-fmi-2019](https://github.com/DianaGeorgievaa/db-fmi-2019)/428 | Learning repository for Database course at FMI summer semester |
 | 0 | 0 | 0 | 1 year, 6 months ago | [SQL](https://github.com/chrisdunne/SQL)/429 | General purpose SQL Scripts |
-| 0 | 0 | 0 | 1 year, 8 months ago | [InstagramDatabaseCloneSQL](https://github.com/TestardR/InstagramDatabaseCloneSQL)/430 | Using MySQL, we show queries we could do on Instagram Database |
+| 0 | 0 | 0 | 1 year, 9 months ago | [InstagramDatabaseCloneSQL](https://github.com/TestardR/InstagramDatabaseCloneSQL)/430 | Using MySQL, we show queries we could do on Instagram Database |
 | 0 | 0 | 0 | 1 year, 9 months ago | [AggregateFunctionsSQL](https://github.com/TestardR/AggregateFunctionsSQL)/431 | Using SQL in MySQL, we show the use of aggregate functions (count(), Min(), Max(), sum(), avg(), group by, ...) |
 | 0 | 0 | 0 | 1 year, 9 months ago | [RefiningSelectionsSQL](https://github.com/TestardR/RefiningSelectionsSQL)/432 | Using SQL on MySQL, we show how to refine searchs (distinct, like, order_by, limit, ...). |
 | 0 | 0 | 0 | 6 years ago | [tMap](https://github.com/RenchuSong/tMap)/433 | Indoor digital map project |
@@ -466,12 +466,12 @@
 | 0 | 0 | 0 | 2 years ago | [sakila](https://github.com/Jayleh/sakila)/463 | Writing MySQL queries for the sakila database! |
 | 0 | 0 | 0 | 1 year, 3 months ago | [CareerKit.sql](https://github.com/Hanif-Tiznobake/CareerKit.sql)/464 | Data Management on SQL Server for CareerKit Project |
 | 0 | 0 | 0 | 1 year, 23 days ago | [databases-fmi](https://github.com/nurxx/databases-fmi)/465 | Learning Databases with SQLite & MS SQL |
-| 0 | 0 | 0 | 1 year, 13 days ago | [sqlzoo](https://github.com/danimal141/sqlzoo)/466 | My solutions to https://sqlzoo.net/ |
+| 0 | 0 | 0 | 1 year, 14 days ago | [sqlzoo](https://github.com/danimal141/sqlzoo)/466 | My solutions to https://sqlzoo.net/ |
 | 0 | 0 | 0 | 10 months ago | [dog-daycare-database](https://github.com/laurakoco/dog-daycare-database)/467 | Database for Dog Daycare |
 | 0 | 0 | 0 | 7 months ago | [sql_queries](https://github.com/aarhusstadsarkiv/sql_queries)/468 | Repository of sql-files used to query databases from the public administration |
 | 0 | 1 | 0 | 4 months ago | [SQL-Server-Replication-Monitoring](https://github.com/wetory/SQL-Server-Replication-Monitoring)/469 | Simple solution for monitoring replication subscribers health state. |
-| 0 | 0 | 0 | 6 years ago | [HomeGallery](https://github.com/harshabonthu/HomeGallery)/470 | None |
-| 0 | 0 | 0 | 2 months ago | [SQLQueries](https://github.com/PVCSD/SQLQueries)/471 | A set of queries used on infinite campus to aid in reporting |
+| 0 | 0 | 0 | 2 months ago | [SQLQueries](https://github.com/PVCSD/SQLQueries)/470 | A set of queries used on infinite campus to aid in reporting |
+| 0 | 0 | 0 | 6 years ago | [HomeGallery](https://github.com/harshabonthu/HomeGallery)/471 | None |
 | 0 | 0 | 0 | 2 months ago | [cecs-323-classics-books-database](https://github.com/sergiovasquez122/cecs-323-classics-books-database)/472 | My solutions to Mimi Opkin's practice SQL based on her books Models database |
 | 0 | 0 | 0 | 2 months ago | [cecs-323-classics-database](https://github.com/sergiovasquez122/cecs-323-classics-database)/473 | My solutions to Mimi Opkin's practice SQL based on her Classic's Models database |
 | 0 | 0 | 0 | 2 months ago | [NCHU-Introduction-to-Database-Management-System](https://github.com/tomy0000000/NCHU-Introduction-to-Database-Management-System)/474 | 🏛📚Programming Assignments of Introduction to Database Management System |
@@ -502,11 +502,11 @@
 | 0 | 0 | 0 | 11 months ago | [mySQL](https://github.com/jcarachu/mySQL)/499 | None |
 | 0 | 0 | 0 | 6 years ago | [InvestNetworkOld](https://github.com/IlnazSalimov/InvestNetworkOld)/500 | None |
 | 0 | 0 | 0 | 3 months ago | [SQL](https://github.com/iamdeepaka/SQL)/501 | SQL Queries and Information |
-| 0 | 0 | 0 | 2 months ago | [SQL](https://github.com/benji1123/SQL)/502 | None |
+| 0 | 0 | 0 | 3 months ago | [SQL](https://github.com/benji1123/SQL)/502 | None |
 | 0 | 0 | 0 | 2 months ago | [postgresql-automatizando-tarefas](https://github.com/andersonheinz/postgresql-automatizando-tarefas)/503 | Utilizando funções para automatizar tarefas variadas |
 | 0 | 0 | 0 | 2 months ago | [rehTherapy](https://github.com/rehtsira/rehTherapy)/504 | Mock physical therapy SQL Database for Database Design and Management. |
 | 1 | 0 | 0 | 2 months ago | [Payment-Funnels](https://github.com/ARay2/Payment-Funnels)/505 | None |
-| 0 | 0 | 0 | 6 days ago | [data_warehousing_BI](https://github.com/jenniferp1/data_warehousing_BI)/506 | Data Warehousing for Business Intelligence |
+| 0 | 0 | 0 | 19 hours ago | [data_warehousing_BI](https://github.com/jenniferp1/data_warehousing_BI)/506 | Data Warehousing for Business Intelligence |
 | 0 | 0 | 0 | 6 years ago | [freiestheater](https://github.com/manniR/freiestheater)/507 | None |
 | 0 | 0 | 0 | 6 years ago | [CMPT308](https://github.com/ckincart/CMPT308)/508 | Database Systems Class |
 | 0 | 0 | 0 | 6 years ago | [tpbd](https://github.com/miparnisari/tpbd)/509 | TP de Bases de Datos del 1er cuatri de 2014 |
@@ -557,44 +557,43 @@
 | 0 | 0 | 18 | 6 years ago | [hesf](https://github.com/hrbesd/hesf)/554 | None |
 | 0 | 0 | 0 | 1 year, 4 months ago | [Cinema-database](https://github.com/lukaszszy/Cinema-database)/555 | The basic purpose of the database is cinema tickets management. Script creates a database and contains 5 reports in views. |
 | 0 | 0 | 0 | 6 years ago | [wp-playbox](https://github.com/deletosh/wp-playbox)/556 | my wordpress playbox -- dele |
-| 0 | 0 | 0 | 10 months ago | [colostate-business-database-sys](https://github.com/pthuff/colostate-business-database-sys)/557 | Queries, triggers, and stored procedures created for a business database systems course. |
-| 0 | 0 | 0 | 1 year, 9 months ago | [BasicFunctionSQL](https://github.com/TestardR/BasicFunctionSQL)/558 | Using SQL through MySQL, we show the use of basic functions (replace(), concat(), reverse(), upper(), lower(), ...)  |
-| 0 | 0 | 0 | 29 days ago | [online-courses](https://github.com/rdolor/online-courses)/559 | Contains exercises and resources from online courses |
-| 0 | 0 | 0 | 5 months ago | [unitn-db](https://github.com/mfranzil/unitn-db)/560 | 🗃 Study material for the "Basi di dati" exam - UniTN  |
-| 0 | 0 | 0 | 9 days ago | [demo](https://github.com/raghunath1986/demo)/561 | None |
-| 0 | 0 | 0 | 6 years ago | [BD1](https://github.com/daniel-iwaniec/BD1)/562 | BD1 LAB |
-| 0 | 0 | 0 | 6 years ago | [prof1983.info](https://github.com/prof1983/prof1983.info)/563 | Web site prof1983.info |
-| 0 | 0 | 0 | 6 years ago | [Ferromex-AdminProyectosContratos](https://github.com/Ferromex/Ferromex-AdminProyectosContratos)/564 | Sistema de Administración de Contratos de Proyectos |
-| 0 | 0 | 0 | 6 years ago | [datainfo](https://github.com/Pietvergiet/datainfo)/565 | module 4 |
-| 0 | 0 | 0 | 6 years ago | [datainfo](https://github.com/Tim108/datainfo)/566 | nee |
-| 0 | 0 | 0 | 6 years ago | [datainfo](https://github.com/StephanMB/datainfo)/567 | None |
-| 0 | 0 | 0 | 6 years ago | [bsi-bd2-trabalho](https://github.com/possatti/bsi-bd2-trabalho)/568 | Repositório para o trabalho da disciplina de Banco de Dados 2 |
-| 0 | 0 | 0 | 6 years ago | [question-hub](https://github.com/alebruck/question-hub)/569 | None |
-| 0 | 0 | 0 | 6 years ago | [ApacheCraft](https://github.com/ArcherCraftStore/ApacheCraft)/570 | None |
-| 0 | 0 | 0 | 6 years ago | [Database1-LinkedIn-Like-DB](https://github.com/Lindan-Code-Home/Database1-LinkedIn-Like-DB)/571 | Designed and built a LinkedIn-Like DBMS on Oracle 11g r2, built several queries on it |
-| 0 | 0 | 0 | 6 years ago | [Database2-JDBC_based_Spatial_DB](https://github.com/Lindan-Code-Home/Database2-JDBC_based_Spatial_DB)/572 | Created a JDBC based Spatial DBMS for finding the firefighters to find the firehydrants and firebuilidngs |
-| 0 | 0 | 0 | 6 years ago | [meh](https://github.com/jartek/meh)/573 | None |
-| 0 | 0 | 0 | 6 years ago | [CodingDojo](https://github.com/therezajs/CodingDojo)/574 | Code I wrote during the 9 week programming bootcamp. |
-| 0 | 0 | 0 | 6 years ago | [geo-enem-pg-gs-backend](https://github.com/leandrocosta/geo-enem-pg-gs-backend)/575 | None |
-| 0 | 0 | 0 | 6 years ago | [cse135project2](https://github.com/Nobel5/cse135project2)/576 | None |
-| 0 | 0 | 0 | 6 years ago | [sik-hb](https://github.com/aseproniirawan/sik-hb)/577 | Aplikasi Rekam Medis yang dibuat oleh ASEP RONI IRAWAN untuk memenuhi tugas skripsi di STMIK LPKIA tahun 2014 dengan studi kasus PT Isdaka Mitra untuk proyek pengembangan Sistem Informasi Kesehatan di Rumah Sakit Kebidanan Ibu dan Anak Harapan Bunda |
-| 0 | 0 | 0 | 6 years ago | [zoo](https://github.com/artemzalescky/zoo)/578 | zoo |
-| 0 | 1 | 0 | 6 years ago | [MySQL-Snippets](https://github.com/komica2/MySQL-Snippets)/579 | None |
-| 0 | 1 | 0 | 6 years ago | [Live](https://github.com/matkuc/Live)/580 | None |
-| 0 | 0 | 0 | 6 years ago | [tuto-iOS-ws-php-mysql](https://github.com/wholraj/tuto-iOS-ws-php-mysql)/581 | None |
-| 0 | 0 | 0 | 6 years ago | [own](https://github.com/lucky88/own)/582 | None |
-| 0 | 0 | 0 | 6 years ago | [TP-E-Commerce](https://github.com/k2r79/TP-E-Commerce)/583 | TP de gestion de site de E-Commerce avec Oracle |
-| 0 | 0 | 0 | 6 years ago | [china-seo-front](https://github.com/liumingzhij26/china-seo-front)/584 | china-seo-front |
-| 0 | 0 | 0 | 6 years ago | [postgis-demo](https://github.com/mmkay/postgis-demo)/585 | PostGIS demo for classes |
-| 0 | 0 | 0 | 1 year, 29 days ago | [SQLServerProgrammability](https://github.com/LPulle/SQLServerProgrammability)/586 | Stored Procedures and Functions for Microsoft SQL Server |
-| 0 | 0 | 0 | 1 year, 4 months ago | [my-fridge-ichack19](https://github.com/azhara-a/my-fridge-ichack19)/587 | A food sharing website for college students; developed at IC Hack 19, Imperial College London |
-| 0 | 0 | 0 | 1 year, 2 months ago | [DatabaseProject](https://github.com/Svaard/DatabaseProject)/588 | mySQL Database Project for CECS323 |
-| 0 | 0 | 0 | 1 year, 5 months ago | [SQLStuffs](https://github.com/victormete/SQLStuffs)/589 | None |
-| 0 | 0 | 0 | 1 year, 9 months ago | [ManyToManySQL](https://github.com/TestardR/ManyToManySQL)/590 | Using SQL in MySQL, we show the practice of connecting many tables between one another. |
-| 0 | 0 | 0 | 4 months ago | [Dating-App-DataBase](https://github.com/ChispasHK/Dating-App-DataBase)/591 | Entity diagram Dating App DataBase MariaDB |
-| 0 | 0 | 0 | 6 years ago | [Adwords](https://github.com/nidhi7/Adwords)/592 | Advertising on the web |
-| 0 | 0 | 0 | 3 months ago | [hive-exploration](https://github.com/phoenixSP/hive-exploration)/593 | Analysis of Airport and Flight data using HiveQL after ingestion in Hive database |
-| 0 | 0 | 0 | a month ago | [Bibliographic-Database](https://github.com/PanagiotisNtymenos/Bibliographic-Database)/594 | None |
-| 0 | 0 | 0 | 2 months ago | [evaluacion-oracle-sql](https://github.com/katramlar/evaluacion-oracle-sql)/595 | Evaluación de módulo bases de datos con Oracle SQL |
-| 0 | 0 | 0 | 2 months ago | [CECS-323-term-project](https://github.com/sergiovasquez122/CECS-323-term-project)/596 | None |
-| 0 | 1 | 0 | 2 months ago | [Hotel-chain-database](https://github.com/rameziophobia/Hotel-chain-database)/597 | EER Diagram and SQL code for an hotel chain database system |
+| 0 | 0 | 0 | 1 year, 9 months ago | [BasicFunctionSQL](https://github.com/TestardR/BasicFunctionSQL)/557 | Using SQL through MySQL, we show the use of basic functions (replace(), concat(), reverse(), upper(), lower(), ...)  |
+| 0 | 0 | 0 | 10 months ago | [colostate-business-database-sys](https://github.com/pthuff/colostate-business-database-sys)/558 | Queries, triggers, and stored procedures created for a business database systems course. |
+| 0 | 0 | 0 | 5 months ago | [unitn-db](https://github.com/mfranzil/unitn-db)/559 | 🗃 Study material for the "Basi di dati" exam - UniTN  |
+| 0 | 0 | 0 | 10 days ago | [demo](https://github.com/raghunath1986/demo)/560 | None |
+| 0 | 0 | 0 | 6 years ago | [BD1](https://github.com/daniel-iwaniec/BD1)/561 | BD1 LAB |
+| 0 | 0 | 0 | 6 years ago | [prof1983.info](https://github.com/prof1983/prof1983.info)/562 | Web site prof1983.info |
+| 0 | 0 | 0 | 6 years ago | [Ferromex-AdminProyectosContratos](https://github.com/Ferromex/Ferromex-AdminProyectosContratos)/563 | Sistema de Administración de Contratos de Proyectos |
+| 0 | 0 | 0 | 6 years ago | [datainfo](https://github.com/Pietvergiet/datainfo)/564 | module 4 |
+| 0 | 0 | 0 | 6 years ago | [datainfo](https://github.com/Tim108/datainfo)/565 | nee |
+| 0 | 0 | 0 | 6 years ago | [datainfo](https://github.com/StephanMB/datainfo)/566 | None |
+| 0 | 0 | 0 | 6 years ago | [bsi-bd2-trabalho](https://github.com/possatti/bsi-bd2-trabalho)/567 | Repositório para o trabalho da disciplina de Banco de Dados 2 |
+| 0 | 0 | 0 | 6 years ago | [question-hub](https://github.com/alebruck/question-hub)/568 | None |
+| 0 | 0 | 0 | 6 years ago | [ApacheCraft](https://github.com/ArcherCraftStore/ApacheCraft)/569 | None |
+| 0 | 0 | 0 | 6 years ago | [Database1-LinkedIn-Like-DB](https://github.com/Lindan-Code-Home/Database1-LinkedIn-Like-DB)/570 | Designed and built a LinkedIn-Like DBMS on Oracle 11g r2, built several queries on it |
+| 0 | 0 | 0 | 6 years ago | [Database2-JDBC_based_Spatial_DB](https://github.com/Lindan-Code-Home/Database2-JDBC_based_Spatial_DB)/571 | Created a JDBC based Spatial DBMS for finding the firefighters to find the firehydrants and firebuilidngs |
+| 0 | 0 | 0 | 6 years ago | [meh](https://github.com/jartek/meh)/572 | None |
+| 0 | 0 | 0 | 6 years ago | [CodingDojo](https://github.com/therezajs/CodingDojo)/573 | Code I wrote during the 9 week programming bootcamp. |
+| 0 | 0 | 0 | 6 years ago | [geo-enem-pg-gs-backend](https://github.com/leandrocosta/geo-enem-pg-gs-backend)/574 | None |
+| 0 | 0 | 0 | 6 years ago | [cse135project2](https://github.com/Nobel5/cse135project2)/575 | None |
+| 0 | 0 | 0 | 6 years ago | [sik-hb](https://github.com/aseproniirawan/sik-hb)/576 | Aplikasi Rekam Medis yang dibuat oleh ASEP RONI IRAWAN untuk memenuhi tugas skripsi di STMIK LPKIA tahun 2014 dengan studi kasus PT Isdaka Mitra untuk proyek pengembangan Sistem Informasi Kesehatan di Rumah Sakit Kebidanan Ibu dan Anak Harapan Bunda |
+| 0 | 0 | 0 | 6 years ago | [zoo](https://github.com/artemzalescky/zoo)/577 | zoo |
+| 0 | 1 | 0 | 6 years ago | [MySQL-Snippets](https://github.com/komica2/MySQL-Snippets)/578 | None |
+| 0 | 1 | 0 | 6 years ago | [Live](https://github.com/matkuc/Live)/579 | None |
+| 0 | 0 | 0 | 6 years ago | [tuto-iOS-ws-php-mysql](https://github.com/wholraj/tuto-iOS-ws-php-mysql)/580 | None |
+| 0 | 0 | 0 | 6 years ago | [own](https://github.com/lucky88/own)/581 | None |
+| 0 | 0 | 0 | 6 years ago | [TP-E-Commerce](https://github.com/k2r79/TP-E-Commerce)/582 | TP de gestion de site de E-Commerce avec Oracle |
+| 0 | 0 | 0 | 6 years ago | [china-seo-front](https://github.com/liumingzhij26/china-seo-front)/583 | china-seo-front |
+| 0 | 0 | 0 | 6 years ago | [postgis-demo](https://github.com/mmkay/postgis-demo)/584 | PostGIS demo for classes |
+| 0 | 0 | 0 | 1 year, 30 days ago | [SQLServerProgrammability](https://github.com/LPulle/SQLServerProgrammability)/585 | Stored Procedures and Functions for Microsoft SQL Server |
+| 0 | 0 | 0 | 1 year, 4 months ago | [my-fridge-ichack19](https://github.com/azhara-a/my-fridge-ichack19)/586 | A food sharing website for college students; developed at IC Hack 19, Imperial College London |
+| 0 | 0 | 0 | 1 year, 2 months ago | [DatabaseProject](https://github.com/Svaard/DatabaseProject)/587 | mySQL Database Project for CECS323 |
+| 0 | 0 | 0 | 1 year, 5 months ago | [SQLStuffs](https://github.com/victormete/SQLStuffs)/588 | None |
+| 0 | 0 | 0 | a month ago | [Bibliographic-Database](https://github.com/PanagiotisNtymenos/Bibliographic-Database)/589 | None |
+| 0 | 0 | 0 | 3 months ago | [hive-exploration](https://github.com/phoenixSP/hive-exploration)/590 | Analysis of Airport and Flight data using HiveQL after ingestion in Hive database |
+| 0 | 1 | 0 | 2 months ago | [Hotel-chain-database](https://github.com/rameziophobia/Hotel-chain-database)/591 | EER Diagram and SQL code for an hotel chain database system |
+| 0 | 0 | 0 | 2 months ago | [evaluacion-oracle-sql](https://github.com/katramlar/evaluacion-oracle-sql)/592 | Evaluación de módulo bases de datos con Oracle SQL |
+| 0 | 0 | 0 | 2 months ago | [CECS-323-term-project](https://github.com/sergiovasquez122/CECS-323-term-project)/593 | None |
+| 0 | 0 | 0 | 1 year, 9 months ago | [ManyToManySQL](https://github.com/TestardR/ManyToManySQL)/594 | Using SQL in MySQL, we show the practice of connecting many tables between one another. |
+| 0 | 0 | 0 | 6 years ago | [Adwords](https://github.com/nidhi7/Adwords)/595 | Advertising on the web |
+| 0 | 0 | 0 | 4 months ago | [Dating-App-DataBase](https://github.com/ChispasHK/Dating-App-DataBase)/596 | Entity diagram Dating App DataBase MariaDB |
