@@ -29,7 +29,7 @@
 | 146 | 12 | 5 | 2 years ago | [elm-to-purescript-cheatsheet](https://github.com/alpacaaa/elm-to-purescript-cheatsheet)/26 | Purescript for Elm devs. 🚀 |
 | 142 | 24 | 6 | 6 months ago | [purescript-presto](https://github.com/juspay/purescript-presto)/27 | Write Apps like Mathematical Equations! |
 | 135 | 7 | 3 | 2 years ago | [purescript-spork](https://github.com/natefaubion/purescript-spork)/28 | Elm-like for PureScript |
-| 131 | 22 | 21 | 20 hours ago | [vscode-ide-purescript](https://github.com/nwolverson/vscode-ide-purescript)/29 | PureScript IDE support for VS Code |
+| 131 | 22 | 21 | 19 hours ago | [vscode-ide-purescript](https://github.com/nwolverson/vscode-ide-purescript)/29 | PureScript IDE support for VS Code |
 | 130 | 18 | 2 | a month ago | [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks)/30 | An implementation of React hooks on top of purescript-react-basic |
 | 122 | 13 | 6 | 1 year, 15 days ago | [purescript-behaviors](https://github.com/paf31/purescript-behaviors)/31 | A simple push-pull FRP implementation |
 | 121 | 14 | 2 | 3 months ago | [pscid](https://github.com/kritzcreek/pscid)/32 | A lightweight, fast and unintrusive PureScript file-watcher |
@@ -62,7 +62,7 @@
 | 84 | 4 | 1 | 2 years ago | [purescript-react-explore](https://github.com/paf31/purescript-react-explore)/59 | Experiments with comonads for modelling React UIs |
 | 83 | 23 | 4 | a month ago | [purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless)/60 | Painless forms for Halogen |
 | 82 | 21 | 6 | 2 years ago | [purescript-d3](https://github.com/pelotom/purescript-d3)/61 | PureScript bindings for D3 |
-| 81 | 16 | 19 | 20 hours ago | [purescript-language-server](https://github.com/nwolverson/purescript-language-server)/62 | None |
+| 81 | 16 | 19 | 19 hours ago | [purescript-language-server](https://github.com/nwolverson/purescript-language-server)/62 | None |
 | 80 | 35 | 40 | 5 months ago | [purescript-css](https://github.com/purescript-contrib/purescript-css)/63 | A clean, type-safe library for describing, manipulating and rendering CSS |
 | 79 | 35 | 33 | 27 days ago | [trypurescript](https://github.com/purescript/trypurescript)/64 | PureScript in the browser |
 | 75 | 7 | 2 | 2 years ago | [purescript-incremental-functions](https://github.com/paf31/purescript-incremental-functions)/65 | Incremental lambda calculus |
@@ -164,43 +164,43 @@
 | 32 | 0 | 0 | 3 years ago | [purescript-dsl-example](https://github.com/coot/purescript-dsl-example)/161 | A simple CRUD DSL example with an asynchronious interpreter written as Cofree |
 | 32 | 7 | 0 | 1 year, 9 months ago | [purescript-reactnative-example](https://github.com/doolse/purescript-reactnative-example)/162 | Example purescript-reactnative Movie app |
 | 32 | 3 | 0 | a month ago | [purescript-freedom](https://github.com/purescript-freedom/purescript-freedom)/163 | A practical type-safe UI library for PureScript. |
-| 32 | 3 | 4 | 4 years ago | [purescript-rest](https://github.com/paf31/purescript-rest)/164 | A toolkit for creating REST services with Node and PureScript |
-| 32 | 1 | 0 | 1 year, 10 months ago | [purescript-pop](https://github.com/lettier/purescript-pop)/165 |  :smiley: A functional reactive programming (FRP) demo created with PureScript events and behaviors. |
-| 32 | 9 | 0 | 2 years ago | [purescript-rnx](https://github.com/atomicits/purescript-rnx)/166 | A PureScript interface to React Native |
-| 31 | 14 | 7 | 5 days ago | [purescript-string-parsers](https://github.com/purescript-contrib/purescript-string-parsers)/167 | A parsing library specialized to handling strings |
-| 31 | 6 | 4 | 1 year, 3 days ago | [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch)/168 | A functional and reactive UI framework based on Rx and VirtualDom |
-| 31 | 9 | 3 | 8 months ago | [purescript-milkis](https://github.com/justinwoo/purescript-milkis)/169 | A Purescript library for working with fetch for HTTP requests |
-| 31 | 3 | 1 | 1 year, 6 months ago | [purescript-emmet](https://github.com/kritzcreek/purescript-emmet)/170 | Quick scaffolding for Halogen's HTML DSL |
-| 31 | 18 | 12 | 28 days ago | [purescript-formatters](https://github.com/purescript-contrib/purescript-formatters)/171 | Formatting and printing for numeric and date/time/interval values |
-| 31 | 9 | 1 | 1 year, 8 months ago | [purescript-three](https://github.com/anthonyquizon/purescript-three)/172 | Purescript bindings for Threejs |
-| 31 | 7 | 1 | 1 year, 10 months ago | [purescript-easy-ffi](https://github.com/pelotom/purescript-easy-ffi)/173 | Easy FFI for PureScript |
-| 31 | 5 | 1 | 3 years ago | [intro-to-ps](https://github.com/jdegoes/intro-to-ps)/174 | Introduction to PureScript materials. |
-| 31 | 17 | 11 | 3 months ago | [purescript-postgresql-client](https://github.com/rightfold/purescript-postgresql-client)/175 | None |
-| 31 | 6 | 2 | 2 years ago | [purescript-smash](https://github.com/paf31/purescript-smash)/176 | An "extensible coeffect" system built out of comonads and Day convolution. |
-| 31 | 2 | 2 | 9 months ago | [purescript-typelevel-eval](https://github.com/natefaubion/purescript-typelevel-eval)/177 | Higher order functional programming in PureScript's type system |
-| 30 | 20 | 0 | 9 days ago | [purescript-argonaut-core](https://github.com/purescript-contrib/purescript-argonaut-core)/178 | A fast, native representation for JSON, with serialization and folding |
-| 30 | 9 | 2 | 1 year, 14 days ago | [purescript-typelevel](https://github.com/bodil/purescript-typelevel)/179 | Type level natural numbers and booleans |
-| 30 | 3 | 2 | 2 years ago | [purescript-lenses](https://github.com/marick/purescript-lenses)/180 | Supporting code for the book /Lenses for the Mere Mortal: PureScript Edition/ |
-| 30 | 15 | 1 | 3 months ago | [purescript-tailrec](https://github.com/purescript/purescript-tailrec)/181 | A type class which captures stack-safe monadic tail recursion |
-| 30 | 7 | 6 | 5 years ago | [purescript-virtual-dom](https://github.com/garyb/purescript-virtual-dom)/182 | Low level virtual-dom bindings for PureScript |
-| 30 | 8 | 3 | 2 months ago | [purescript-coroutines](https://github.com/purescript-contrib/purescript-coroutines)/183 | None |
-| 29 | 27 | 8 | 5 months ago | [purescript-jquery](https://github.com/paf31/purescript-jquery)/184 | Type declarations for jQuery |
-| 29 | 5 | 0 | 3 years ago | [purescript-batteries](https://github.com/tfausak/purescript-batteries)/185 | :battery: A PureScript prelude with more features. |
-| 29 | 1 | 1 | 2 years ago | [core](https://github.com/pselm/core)/186 | A Purescript implementation of Elm's `core` library |
-| 29 | 6 | 4 | 6 months ago | [purescript-colors](https://github.com/sharkdp/purescript-colors)/187 | Convert, manipulate, analyze, blend, color scales, color schemes |
-| 30 | 6 | 6 | 6 days ago | [purescript-option](https://github.com/joneshf/purescript-option)/188 | None |
-| 29 | 9 | 3 | 2 years ago | [purescript-localstorage](https://github.com/eskimor/purescript-localstorage)/189 | Access JS webstorage (local & session) in a typesafe and convenient way |
-| 29 | 5 | 1 | 1 year, 3 months ago | [purescript-optlicative](https://github.com/Thimoteus/purescript-optlicative)/190 | applicative opt parsing for node |
-| 28 | 4 | 1 | 6 months ago | [purescript-halogen-storybook](https://github.com/rnons/purescript-halogen-storybook)/191 | A library to assemble examples or develop components separately. |
-| 28 | 9 | 0 | 3 years ago | [purescript-react-native-todomvc](https://github.com/hoodunit/purescript-react-native-todomvc)/192 | PureScript React Native TodoMVC example app |
-| 28 | 5 | 1 | 5 years ago | [star-dodge-clone](https://github.com/paf31/star-dodge-clone)/193 | A partial clone of 2D Star Dodge |
-| 28 | 3 | 1 | 1 year, 8 months ago | [halogen-form](https://github.com/fpco/halogen-form)/194 | Formlets for halogen |
-| 28 | 3 | 6 | 11 months ago | [purescript-remotedata](https://github.com/krisajenkins/purescript-remotedata)/195 | None |
-| 28 | 2 | 5 | 3 years ago | [purescript-recompose-todomvc](https://github.com/ecliptic/purescript-recompose-todomvc)/196 | TodoMVC <<< React <<< Recompose <<< Redux $ PureScript |
-| 27 | 2 | 1 | 4 years ago | [lrs](https://github.com/MaiaVictor/lrs)/197 | Linkable Ring Signatures on JavaScript and PureScript. |
-| 27 | 3 | 4 | 3 years ago | [psc-pane](https://github.com/anttih/psc-pane)/198 | Auto reloading PureScript compiler |
-| 27 | 11 | 1 | 6 months ago | [purescript-node-postgres](https://github.com/epost/purescript-node-postgres)/199 | PureScript bindings for node-postgres. |
-| 26 | 18 | 18 | 3 months ago | [purescript-ordered-collections](https://github.com/purescript/purescript-ordered-collections)/200 | None |
+| 32 | 3 | 4 | Unknown | [purescript-rest](https://github.com/paf31/purescript-rest)/164 | A toolkit for creating REST services with Node and PureScript |
+| 32 | 1 | 0 | Unknown | [purescript-pop](https://github.com/lettier/purescript-pop)/165 |  :smiley: A functional reactive programming (FRP) demo created with PureScript events and behaviors. |
+| 32 | 9 | 0 | Unknown | [purescript-rnx](https://github.com/atomicits/purescript-rnx)/166 | A PureScript interface to React Native |
+| 31 | 14 | 7 | Unknown | [purescript-string-parsers](https://github.com/purescript-contrib/purescript-string-parsers)/167 | A parsing library specialized to handling strings |
+| 31 | 6 | 4 | Unknown | [purescript-outwatch](https://github.com/OutWatch/purescript-outwatch)/168 | A functional and reactive UI framework based on Rx and VirtualDom |
+| 31 | 9 | 3 | Unknown | [purescript-milkis](https://github.com/justinwoo/purescript-milkis)/169 | A Purescript library for working with fetch for HTTP requests |
+| 31 | 3 | 1 | Unknown | [purescript-emmet](https://github.com/kritzcreek/purescript-emmet)/170 | Quick scaffolding for Halogen's HTML DSL |
+| 31 | 18 | 12 | Unknown | [purescript-formatters](https://github.com/purescript-contrib/purescript-formatters)/171 | Formatting and printing for numeric and date/time/interval values |
+| 31 | 9 | 1 | Unknown | [purescript-three](https://github.com/anthonyquizon/purescript-three)/172 | Purescript bindings for Threejs |
+| 31 | 7 | 1 | Unknown | [purescript-easy-ffi](https://github.com/pelotom/purescript-easy-ffi)/173 | Easy FFI for PureScript |
+| 31 | 5 | 1 | Unknown | [intro-to-ps](https://github.com/jdegoes/intro-to-ps)/174 | Introduction to PureScript materials. |
+| 31 | 17 | 11 | Unknown | [purescript-postgresql-client](https://github.com/rightfold/purescript-postgresql-client)/175 | None |
+| 31 | 6 | 2 | Unknown | [purescript-smash](https://github.com/paf31/purescript-smash)/176 | An "extensible coeffect" system built out of comonads and Day convolution. |
+| 31 | 2 | 2 | Unknown | [purescript-typelevel-eval](https://github.com/natefaubion/purescript-typelevel-eval)/177 | Higher order functional programming in PureScript's type system |
+| 30 | 20 | 0 | Unknown | [purescript-argonaut-core](https://github.com/purescript-contrib/purescript-argonaut-core)/178 | A fast, native representation for JSON, with serialization and folding |
+| 30 | 9 | 2 | Unknown | [purescript-typelevel](https://github.com/bodil/purescript-typelevel)/179 | Type level natural numbers and booleans |
+| 30 | 3 | 2 | Unknown | [purescript-lenses](https://github.com/marick/purescript-lenses)/180 | Supporting code for the book /Lenses for the Mere Mortal: PureScript Edition/ |
+| 30 | 15 | 1 | Unknown | [purescript-tailrec](https://github.com/purescript/purescript-tailrec)/181 | A type class which captures stack-safe monadic tail recursion |
+| 30 | 7 | 6 | Unknown | [purescript-virtual-dom](https://github.com/garyb/purescript-virtual-dom)/182 | Low level virtual-dom bindings for PureScript |
+| 30 | 8 | 3 | Unknown | [purescript-coroutines](https://github.com/purescript-contrib/purescript-coroutines)/183 | None |
+| 29 | 27 | 8 | Unknown | [purescript-jquery](https://github.com/paf31/purescript-jquery)/184 | Type declarations for jQuery |
+| 29 | 5 | 0 | Unknown | [purescript-batteries](https://github.com/tfausak/purescript-batteries)/185 | :battery: A PureScript prelude with more features. |
+| 29 | 1 | 1 | Unknown | [core](https://github.com/pselm/core)/186 | A Purescript implementation of Elm's `core` library |
+| 29 | 6 | 4 | Unknown | [purescript-colors](https://github.com/sharkdp/purescript-colors)/187 | Convert, manipulate, analyze, blend, color scales, color schemes |
+| 30 | 6 | 6 | Unknown | [purescript-option](https://github.com/joneshf/purescript-option)/188 | None |
+| 29 | 9 | 3 | Unknown | [purescript-localstorage](https://github.com/eskimor/purescript-localstorage)/189 | Access JS webstorage (local & session) in a typesafe and convenient way |
+| 29 | 5 | 1 | Unknown | [purescript-optlicative](https://github.com/Thimoteus/purescript-optlicative)/190 | applicative opt parsing for node |
+| 28 | 4 | 1 | Unknown | [purescript-halogen-storybook](https://github.com/rnons/purescript-halogen-storybook)/191 | A library to assemble examples or develop components separately. |
+| 28 | 9 | 0 | Unknown | [purescript-react-native-todomvc](https://github.com/hoodunit/purescript-react-native-todomvc)/192 | PureScript React Native TodoMVC example app |
+| 28 | 5 | 1 | Unknown | [star-dodge-clone](https://github.com/paf31/star-dodge-clone)/193 | A partial clone of 2D Star Dodge |
+| 28 | 3 | 1 | Unknown | [halogen-form](https://github.com/fpco/halogen-form)/194 | Formlets for halogen |
+| 28 | 3 | 6 | Unknown | [purescript-remotedata](https://github.com/krisajenkins/purescript-remotedata)/195 | None |
+| 28 | 2 | 5 | Unknown | [purescript-recompose-todomvc](https://github.com/ecliptic/purescript-recompose-todomvc)/196 | TodoMVC <<< React <<< Recompose <<< Redux $ PureScript |
+| 27 | 2 | 1 | Unknown | [lrs](https://github.com/MaiaVictor/lrs)/197 | Linkable Ring Signatures on JavaScript and PureScript. |
+| 27 | 3 | 4 | Unknown | [psc-pane](https://github.com/anttih/psc-pane)/198 | Auto reloading PureScript compiler |
+| 27 | 11 | 1 | Unknown | [purescript-node-postgres](https://github.com/epost/purescript-node-postgres)/199 | PureScript bindings for node-postgres. |
+| 26 | 18 | 18 | Unknown | [purescript-ordered-collections](https://github.com/purescript/purescript-ordered-collections)/200 | None |
 | 26 | 19 | 14 | 4 months ago | [purescript](https://github.com/exercism/purescript)/201 | Exercism exercises in PureScript. |
 | 26 | 1 | 0 | 3 years ago | [purescript-observable](https://github.com/bodil/purescript-observable)/202 | ES7 Observables for PureScript |
 | 26 | 16 | 4 | 1 year, 22 days ago | [purescript-websocket-simple](https://github.com/zudov/purescript-websocket-simple)/203 | Simple Bindings to Websocket API for Purescript |
@@ -298,8 +298,8 @@
 | 17 | 12 | 0 | 2 months ago | [purescript-sized-vectors](https://github.com/bodil/purescript-sized-vectors)/295 | Idris style sized vectors in PureScript |
 | 17 | 12 | 2 | 2 years ago | [purescript-halogen-css](https://github.com/purescript-halogen/purescript-halogen-css)/296 | An adapter between the purescript-halogen and purescript-css libraries. |
 | 17 | 3 | 2 | 1 year, 4 months ago | [purescript-promises](https://github.com/Thimoteus/purescript-promises)/297 | An alternative effect monad for PureScript. |
-| 17 | 8 | 1 | 5 months ago | [purescript-aff-coroutines](https://github.com/purescript-contrib/purescript-aff-coroutines)/298 | Helper functions for creating coroutines with the Aff monad |
-| 17 | 10 | 7 | 2 years ago | [purescript-debug](https://github.com/garyb/purescript-debug)/299 | Console based debugging functions |
+| 17 | 10 | 7 | 2 years ago | [purescript-debug](https://github.com/garyb/purescript-debug)/298 | Console based debugging functions |
+| 17 | 8 | 1 | 5 months ago | [purescript-aff-coroutines](https://github.com/purescript-contrib/purescript-aff-coroutines)/299 | Helper functions for creating coroutines with the Aff monad |
 | 17 | 0 | 0 | 3 days ago | [purescript-grain](https://github.com/purescript-grain/purescript-grain)/300 | A UI library with easy and flexible state management inspired by Recoil.js and React Hooks. |
 | 17 | 4 | 2 | 1 year, 3 months ago | [purescript-suggest](https://github.com/nwolverson/purescript-suggest)/301 | Apply PureScript compiler suggestions to fix warnings |
 | 17 | 1 | 1 | 13 days ago | [purescript-querydsl](https://github.com/Dretch/purescript-querydsl)/302 | None |
@@ -347,9 +347,9 @@
 | 15 | 1 | 1 | a month ago | [purescript-elmish](https://github.com/collegevine/purescript-elmish)/344 | A PureScript implementation of The Elm Architecture |
 | 15 | 4 | 4 | 4 years ago | [ql-purs](https://github.com/parsonsmatt/ql-purs)/345 | QuickLift frontend in PureScript |
 | 15 | 4 | 3 | 2 years ago | [purescript-rxjs](https://github.com/jasonzoladz/purescript-rxjs)/346 | An un-opinionated PureScript wrapper for RxJS v5.* |
-| 15 | 0 | 1 | 1 year, 2 months ago | [purescript-servant](https://github.com/f-o-a-m/purescript-servant)/347 | a servant like DSL for templating requests |
-| 15 | 9 | 3 | 3 months ago | [purescript-functions](https://github.com/purescript/purescript-functions)/348 | Function combinators and types for multi-argument functions |
-| 15 | 3 | 2 | 11 months ago | [purescript-typedenv](https://github.com/nsaunders/purescript-typedenv)/349 | Parse environment variables according to a type-level specification. |
+| 15 | 9 | 3 | 3 months ago | [purescript-functions](https://github.com/purescript/purescript-functions)/347 | Function combinators and types for multi-argument functions |
+| 15 | 3 | 2 | 11 months ago | [purescript-typedenv](https://github.com/nsaunders/purescript-typedenv)/348 | Parse environment variables according to a type-level specification. |
+| 15 | 0 | 1 | 1 year, 2 months ago | [purescript-servant](https://github.com/f-o-a-m/purescript-servant)/349 | a servant like DSL for templating requests |
 | 15 | 2 | 2 | 12 days ago | [purescript-reactix](https://github.com/poorscript/purescript-reactix)/350 | (beta) React hooks library |
 | 14 | 11 | 1 | 2 years ago | [purescript-jtable](https://github.com/slamdata/purescript-jtable)/351 | A Purescript table renderer capable of displaying multidimensional, heterogeneous JSON data |
 | 14 | 16 | 3 | 1 year, 1 month ago | [purescript-node-streams](https://github.com/purescript-node/purescript-node-streams)/352 | A wrapper for Node's Stream API |
@@ -375,8 +375,8 @@
 | 14 | 0 | 0 | 3 years ago | [purescript-bundaegi](https://github.com/justinwoo/purescript-bundaegi)/372 | because nobody really wants to eat boiled silkworms |
 | 14 | 6 | 2 | 8 months ago | [purescript-errors](https://github.com/passy/purescript-errors)/373 | Handy error handling combinators for PureScript |
 | 13 | 0 | 1 | 4 years ago | [purescript-react-native](https://github.com/arthurxavierx/purescript-react-native)/374 | Low-level React Native bindings for PureScript |
-| 13 | 2 | 2 | 15 days ago | [purescript-erl-pinto](https://github.com/id3as/purescript-erl-pinto)/375 | An opinionated OTP framework wrapper |
-| 13 | 0 | 0 | 8 months ago | [purescript-interpolate](https://github.com/JordanMartinez/purescript-interpolate)/376 | Enable string interpolation for PureScript |
+| 13 | 0 | 0 | 8 months ago | [purescript-interpolate](https://github.com/JordanMartinez/purescript-interpolate)/375 | Enable string interpolation for PureScript |
+| 13 | 2 | 2 | 15 days ago | [purescript-erl-pinto](https://github.com/id3as/purescript-erl-pinto)/376 | An opinionated OTP framework wrapper |
 | 13 | 1 | 1 | 1 year, 11 months ago | [purescript-data-algebrae](https://github.com/i-am-tom/purescript-data-algebrae)/377 | Reified operations for several common data structures. |
 | 13 | 2 | 0 | 2 years ago | [purescript-run-streaming](https://github.com/natefaubion/purescript-run-streaming)/378 | Streaming effects for PureScript |
 | 13 | 1 | 2 | 2 years ago | [purescript-lists-fast](https://github.com/paf31/purescript-lists-fast)/379 | Fast replacements for some common functions on linked lists |
@@ -386,8 +386,8 @@
 | 13 | 18 | 5 | 3 months ago | [purescript-nonempty](https://github.com/purescript/purescript-nonempty)/383 | A generic non-empty data structure |
 | 13 | 1 | 0 | 2 years ago | [purescript-kubernetes](https://github.com/hoodunit/purescript-kubernetes)/384 | PureScript client library for the Kubernetes API |
 | 13 | 0 | 0 | 10 days ago | [purescript-halogen-nextjs](https://github.com/srghma/purescript-halogen-nextjs)/385 | None |
-| 13 | 1 | 10 | 18 days ago | [html2purescript](https://github.com/maackle/html2purescript)/386 | Very basic parser/renderer to convert raw HTML into valid PureScript Halogen syntax |
-| 13 | 3 | 1 | 1 year, 8 months ago | [purescript-mote](https://github.com/garyb/purescript-mote)/387 | Just a little spec(k). |
+| 13 | 3 | 1 | 1 year, 8 months ago | [purescript-mote](https://github.com/garyb/purescript-mote)/386 | Just a little spec(k). |
+| 13 | 1 | 10 | 18 days ago | [html2purescript](https://github.com/maackle/html2purescript)/387 | Very basic parser/renderer to convert raw HTML into valid PureScript Halogen syntax |
 | 13 | 4 | 3 | 3 years ago | [purescript-pux-smolder-dom](https://github.com/bodil/purescript-pux-smolder-dom)/388 | A drop-in replacement for Pux's React based renderer which needs no foreign dependencies. |
 | 13 | 2 | 1 | 3 years ago | [purescript-hyperdrive](https://github.com/purescript-hyper/purescript-hyperdrive)/389 | A simpler request/response abstraction on top of Hyper |
 | 13 | 8 | 4 | 5 months ago | [purescript-aff-bus](https://github.com/purescript-contrib/purescript-aff-bus)/390 | Many-to-many broadcasting |
@@ -447,8 +447,8 @@
 | 11 | 6 | 0 | 4 years ago | [polyglot-twitter-bot](https://github.com/joelgrus/polyglot-twitter-bot)/444 | code for writing twitter bots in several languages |
 | 11 | 14 | 1 | 3 months ago | [purescript-globals](https://github.com/purescript/purescript-globals)/445 | Typed definitions for standard Javascript globals |
 | 11 | 0 | 3 | 5 months ago | [purescript-concur-ui](https://github.com/purescript-concur/purescript-concur-ui)/446 | A Port of Elm-UI to Purescript-Concur |
-| 11 | 4 | 0 | 2 years ago | [purescript-halogen-zuruzuru](https://github.com/MonoidMusician/purescript-halogen-zuruzuru)/447 | A list reordering component for Halogen. Named by @justinwoo. (GitHub suggested "verbose-chainsaw".) |
-| 11 | 0 | 2 | a month ago | [purescript-deck-gl](https://github.com/f-o-a-m/purescript-deck-gl)/448 | purescript wrapper for Uber's deck.gl library |
+| 11 | 0 | 2 | a month ago | [purescript-deck-gl](https://github.com/f-o-a-m/purescript-deck-gl)/447 | purescript wrapper for Uber's deck.gl library |
+| 11 | 4 | 0 | 2 years ago | [purescript-halogen-zuruzuru](https://github.com/MonoidMusician/purescript-halogen-zuruzuru)/448 | A list reordering component for Halogen. Named by @justinwoo. (GitHub suggested "verbose-chainsaw".) |
 | 11 | 7 | 3 | 2 months ago | [purescript-unordered-collections](https://github.com/fehrenbach/purescript-unordered-collections)/449 | Fast, hash-based, immutable collections. |
 | 11 | 1 | 2 | a month ago | [lunarbox](https://github.com/lunarcast/lunarbox)/450 | Tool for beginners to learn functional programming |
 | 11 | 4 | 2 | 4 years ago | [space-invaders-ps](https://github.com/quephird/space-invaders-ps)/451 | An attempt at porting my space invaders game, originally written in Clojure, to PureScript |
@@ -472,7 +472,7 @@
 | 10 | 2 | 2 | 6 months ago | [purescript-html-parser-halogen](https://github.com/rnons/purescript-html-parser-halogen)/469 | A library to render HTML string into Halogen views |
 | 10 | 4 | 1 | 1 year, 6 months ago | [purescript-aff-retry](https://github.com/Unisay/purescript-aff-retry)/470 | Retry combinators for monadic Aff actions that may fail |
 | 10 | 2 | 2 | 1 year, 2 months ago | [purescript-react-mui](https://github.com/doolse/purescript-react-mui)/471 | Purescript bindings for https://material-ui.com/ |
-| 10 | 1 | 4 | 23 hours ago | [purescript-graphql-client](https://github.com/purescript-graphql-client/purescript-graphql-client)/472 | None |
+| 10 | 1 | 4 | 22 hours ago | [purescript-graphql-client](https://github.com/purescript-graphql-client/purescript-graphql-client)/472 | None |
 | 10 | 1 | 0 | 1 year, 9 months ago | [purescript-cycle-run](https://github.com/justinwoo/purescript-cycle-run)/473 | A Purescript interface to Cycle.js using xstream |
 | 10 | 1 | 2 | 4 months ago | [purescript-safe-coerce](https://github.com/purescript/purescript-safe-coerce)/474 | Library support for the compiler-builtin Coercible type class. |
 | 10 | 4 | 1 | 2 years ago | [purescript-halogen-mdl](https://github.com/andywhite37/purescript-halogen-mdl)/475 | Experimental Material Design Lite (MDL) components for purescript-halogen |
@@ -482,29 +482,29 @@
 | 10 | 3 | 0 | a month ago | [purescript-erl-cowboy](https://github.com/purerl/purescript-erl-cowboy)/479 | Bindings to Cowboy server |
 | 10 | 2 | 4 | 5 days ago | [purescript-warp](https://github.com/Woody88/purescript-warp)/480 | None |
 | 10 | 4 | 3 | 4 years ago | [purescript-optic](https://github.com/joneshf/purescript-optic)/481 | None |
-| 10 | 2 | 0 | Unknown | [purescript-trello](https://github.com/dvdsgl/purescript-trello)/482 | Trello Client for PureScript |
-| 10 | 1 | 0 | Unknown | [purescript-cycle-etch-sketch](https://github.com/justinwoo/purescript-cycle-etch-sketch)/483 | a purescript-cycle and halogen etch sketch demo |
+| 10 | 2 | 0 | 4 years ago | [purescript-trello](https://github.com/dvdsgl/purescript-trello)/482 | Trello Client for PureScript |
+| 10 | 1 | 0 | 3 years ago | [purescript-cycle-etch-sketch](https://github.com/justinwoo/purescript-cycle-etch-sketch)/483 | a purescript-cycle and halogen etch sketch demo |
 | 10 | 0 | 0 | 2 years ago | [running-with-purescript](https://github.com/joneshf/running-with-purescript)/484 | Presentation about Row Polymorphism |
-| 10 | 0 | 0 | Unknown | [purescript-leibniz-proof](https://github.com/garyb/purescript-leibniz-proof)/485 | None |
+| 10 | 0 | 0 | 4 years ago | [purescript-leibniz-proof](https://github.com/garyb/purescript-leibniz-proof)/485 | None |
 | 10 | 3 | 0 | 5 years ago | [purescript-spidermonkey-ast](https://github.com/michaelficarra/purescript-spidermonkey-ast)/486 | :monkey: PureScript bindings for Mozilla's SpiderMonkey AST format |
 | 10 | 6 | 4 | 1 year, 8 months ago | [purescript-halogen-datepicker](https://github.com/slamdata/purescript-halogen-datepicker)/487 | None |
 | 10 | 0 | 0 | 3 days ago | [purescript-js-ast](https://github.com/purescript-codegen/purescript-js-ast)/488 | JavaScript `AST` module ripped from `purescript/purescript-in-purescript` |
 | 10 | 0 | 0 | 2 years ago | [purescript-affjax-errors](https://github.com/vladciobanu/purescript-affjax-errors)/489 | Getting around Affjax's HTTP error limitations |
-| 10 | 3 | 1 | Unknown | [purescript-day](https://github.com/paf31/purescript-day)/490 | Day Convolution |
-| 10 | 3 | 1 | Unknown | [flare-example](https://github.com/sharkdp/flare-example)/491 | Quick start project for purescript-flare |
-| 10 | 5 | 13 | 6 months ago | [cardano-sl-explorer](https://github.com/input-output-hk/cardano-sl-explorer)/492 | Explorer of cardano-sl |
+| 10 | 3 | 1 | 1 year, 8 months ago | [purescript-day](https://github.com/paf31/purescript-day)/490 | Day Convolution |
+| 10 | 5 | 13 | 6 months ago | [cardano-sl-explorer](https://github.com/input-output-hk/cardano-sl-explorer)/491 | Explorer of cardano-sl |
+| 10 | 3 | 1 | 2 years ago | [flare-example](https://github.com/sharkdp/flare-example)/492 | Quick start project for purescript-flare |
 | 9 | 0 | 1 | 2 years ago | [purescript-howto-foreign-generic](https://github.com/justinwoo/purescript-howto-foreign-generic)/493 | A tutorial for how to use Purescript's Foreign Generics library |
-| 9 | 0 | 0 | Unknown | [ps-simple-rest-service](https://github.com/abhin4v/ps-simple-rest-service)/494 | None |
-| 9 | 1 | 1 | Unknown | [pureGoL](https://github.com/EugeneN/pureGoL)/495 | A Game of Life written in Purescript using Rx and React/canvas/console UIs. |
-| 9 | 1 | 5 | 4 months ago | [purescript-firestore](https://github.com/statebox/purescript-firestore)/496 | A Purescript library to interact with Google Cloud Firestore |
-| 9 | 3 | 7 | 1 year, 11 months ago | [purescript-sodium](https://github.com/SodiumFRP/purescript-sodium)/497 | None |
-| 9 | 1 | 0 | Unknown | [purescript-proact](https://github.com/alvart/purescript-proact)/498 | Proact is a core library for web frameworks that use Free DSLs and Cofree interpreters |
+| 9 | 0 | 0 | 2 years ago | [ps-simple-rest-service](https://github.com/abhin4v/ps-simple-rest-service)/494 | None |
+| 9 | 1 | 1 | 3 years ago | [pureGoL](https://github.com/EugeneN/pureGoL)/495 | A Game of Life written in Purescript using Rx and React/canvas/console UIs. |
+| 9 | 3 | 7 | 1 year, 11 months ago | [purescript-sodium](https://github.com/SodiumFRP/purescript-sodium)/496 | None |
+| 9 | 1 | 5 | 4 months ago | [purescript-firestore](https://github.com/statebox/purescript-firestore)/497 | A Purescript library to interact with Google Cloud Firestore |
+| 9 | 1 | 0 | 3 days ago | [purescript-proact](https://github.com/alvart/purescript-proact)/498 | Proact is a core library for web frameworks that use Free DSLs and Cofree interpreters |
 | 9 | 1 | 0 | 4 years ago | [purescript-aws-lambda](https://github.com/kofno/purescript-aws-lambda)/499 | Write your AWS Lambda in PureScript! |
 | 9 | 2 | 0 | 5 years ago | [purescript-chrome-api](https://github.com/bodil/purescript-chrome-api)/500 | PureScript bindings for the Chrome Platform APIs |
 | 9 | 1 | 0 | 28 days ago | [purescript-super-circles](https://github.com/i-am-tom/purescript-super-circles)/501 | A simplified Super Hexagon clone written in PureScript. |
 | 9 | 0 | 0 | 3 years ago | [category-theory-by-example](https://github.com/Risto-Stevcev/category-theory-by-example)/502 | Explaining category theory by example |
 | 9 | 0 | 0 | 2 years ago | [websockets-example](https://github.com/jonathanlking/websockets-example)/503 | Minimal Haskell+Purescript WebSockets example |
-| 9 | 0 | 0 | Unknown | [purescript-blessed](https://github.com/kritzcreek/purescript-blessed)/504 | [WIP!] PureScript bindings to the blessed library |
+| 9 | 0 | 0 | 4 years ago | [purescript-blessed](https://github.com/kritzcreek/purescript-blessed)/504 | [WIP!] PureScript bindings to the blessed library |
 | 9 | 1 | 1 | 4 years ago | [purescript-gbemu](https://github.com/talw/purescript-gbemu)/505 | A Game Boy emulator, written in PureScript. |
 | 9 | 2 | 2 | 2 months ago | [purescript-formatting](https://github.com/krisajenkins/purescript-formatting)/506 | A type-safe, composable, printf-alternative for PureScript. |
 | 9 | 10 | 1 | 3 months ago | [purescript-random](https://github.com/purescript/purescript-random)/507 | Random number generation |
@@ -514,7 +514,7 @@
 | 9 | 1 | 0 | 1 year, 10 months ago | [purescript-node-coroutines](https://github.com/paf31/purescript-node-coroutines)/511 | Coroutines for working with Node streams |
 | 9 | 0 | 0 | 2 years ago | [purescript-kushiyaki](https://github.com/justinwoo/purescript-kushiyaki)/512 | A library for PureScript 0.12 using Record-Format to parse urls with a template. |
 | 9 | 3 | 0 | 3 months ago | [purescript-const](https://github.com/purescript/purescript-const)/513 | Const data type and typeclass instances |
-| 9 | 0 | 0 | Unknown | [cookiecutter-purescript-frontend](https://github.com/naglalakk/cookiecutter-purescript-frontend)/514 | Purescript frontend scaffolder |
+| 9 | 0 | 0 | 11 days ago | [cookiecutter-purescript-frontend](https://github.com/naglalakk/cookiecutter-purescript-frontend)/514 | Purescript frontend scaffolder |
 | 9 | 2 | 0 | 4 years ago | [purescript-electron-quickstart](https://github.com/bamboo/purescript-electron-quickstart)/515 | Quick start for a purely PureScript based Electron project  |
 | 9 | 5 | 1 | 3 months ago | [purescript-bifunctors](https://github.com/purescript/purescript-bifunctors)/516 | Bifunctors and biapplicatives |
 | 9 | 3 | 11 | 10 months ago | [gen](https://github.com/purescript-aws-sdk/gen)/517 | Generates the purescript-aws-sdk modules from the AWS SDK JS |
@@ -526,7 +526,7 @@
 | 9 | 1 | 0 | 2 years ago | [purescript-typelevel-sql](https://github.com/joneshf/purescript-typelevel-sql)/523 | None |
 | 9 | 3 | 1 | 2 months ago | [m](https://github.com/m-language/m)/524 | A minimal language inspired by Lisp and Haskell |
 | 9 | 0 | 0 | 1 year, 2 months ago | [purescript-tagged-sum](https://github.com/lumihq/purescript-tagged-sum)/525 | A variant data type made for compatibility with Aeson |
-| 9 | 5 | 3 | Unknown | [purescript-indexedDB](https://github.com/truqu/purescript-indexedDB)/526 | An API wrapper around indexedDB |
+| 9 | 5 | 3 | 2 years ago | [purescript-indexedDB](https://github.com/truqu/purescript-indexedDB)/526 | An API wrapper around indexedDB |
 | 9 | 1 | 3 | 7 days ago | [purescript-undefined-is-not-a-problem](https://github.com/paluh/purescript-undefined-is-not-a-problem)/527 | Handling optional record fields through `undefined | a` values and typesafe zero cost coercion |
 | 9 | 2 | 4 | 2 years ago | [purescript-infinite-lists](https://github.com/Thimoteus/purescript-infinite-lists)/528 | Strictly infinite (but lazy) lists |
 | 9 | 3 | 0 | 2 months ago | [purescript-halogen-hooks-extra](https://github.com/JordanMartinez/purescript-halogen-hooks-extra)/529 | None |
@@ -537,21 +537,21 @@
 | 9 | 12 | 1 | 5 months ago | [purescript-js-date](https://github.com/purescript-contrib/purescript-js-date)/534 | JavaScript's native date type and corresponding functions. |
 | 9 | 0 | 0 | 3 years ago | [purescript-graphql](https://github.com/throughnothing/purescript-graphql)/535 | Purescript GraphQL Library |
 | 9 | 1 | 0 | 5 years ago | [presentable](https://github.com/CapillarySoftware/presentable)/536 | A minimal PureScript rendering agnostic UI framework |
-| 10 | 0 | 1 | Unknown | [purescript-d3-tagless](https://github.com/afcondon/purescript-d3-tagless)/537 | Applying the "finally tagless, partially evaluated" style to a D3 eDSL |
-| 8 | 3 | 0 | Unknown | [purescript-simplecrypto](https://github.com/alpacaaa/purescript-simplecrypto)/538 | A set of useful cryptographic utilities for blockchain development. |
+| 10 | 0 | 1 | 11 months ago | [purescript-d3-tagless](https://github.com/afcondon/purescript-d3-tagless)/537 | Applying the "finally tagless, partially evaluated" style to a D3 eDSL |
+| 8 | 3 | 0 | 2 years ago | [purescript-simplecrypto](https://github.com/alpacaaa/purescript-simplecrypto)/538 | A set of useful cryptographic utilities for blockchain development. |
 | 8 | 9 | 1 | 2 years ago | [purescript-yarn](https://github.com/Thimoteus/purescript-yarn)/539 | miscellaneous functions on strings |
-| 8 | 8 | 1 | Unknown | [purescript-fixed-points](https://github.com/purescript-contrib/purescript-fixed-points)/540 | Types for the least and greatest fixed points of functors. |
+| 8 | 8 | 1 | 5 months ago | [purescript-fixed-points](https://github.com/purescript-contrib/purescript-fixed-points)/540 | Types for the least and greatest fixed points of functors. |
 | 8 | 5 | 0 | 2 years ago | [purescript-any-db](https://github.com/epost/purescript-any-db)/541 | PureScript Bindings for the node-any-db library. |
 | 8 | 0 | 0 | 2 years ago | [purescript-biang](https://github.com/justinwoo/purescript-biang)/542 | A library for converting generic reps of Sum and Product to row types, for whatever convenient usage needs at the type level. |
-| 8 | 7 | 7 | Unknown | [purescript-intmaps](https://github.com/tel/purescript-intmaps)/543 | Big-endian Patricia tree IntMap implementation in Purescript.  |
+| 8 | 7 | 7 | 3 years ago | [purescript-intmaps](https://github.com/tel/purescript-intmaps)/543 | Big-endian Patricia tree IntMap implementation in Purescript.  |
 | 8 | 2 | 2 | 3 years ago | [lambdacube-editor](https://github.com/lambdacube3d/lambdacube-editor)/544 | None |
 | 8 | 0 | 0 | 1 year, 7 months ago | [purescript-scoped-labels](https://github.com/paf31/purescript-scoped-labels)/545 | A little implementation of records with duplicate labels |
-| 8 | 1 | 0 | Unknown | [pux-elm-architecture](https://github.com/stratospark/pux-elm-architecture)/546 | porting over elm-architecture examples to pux |
+| 8 | 1 | 0 | 4 years ago | [pux-elm-architecture](https://github.com/stratospark/pux-elm-architecture)/546 | porting over elm-architecture examples to pux |
 | 8 | 0 | 0 | 2 months ago | [vt](https://github.com/justinwoo/vt)/547 | This is vidtracker but with a Rust backend. PureScript frontend. |
-| 8 | 0 | 4 | Unknown | [purescript-fixed-precision](https://github.com/lumihq/purescript-fixed-precision)/548 | Fixed precision arithmetic tracked in the types |
-| 8 | 2 | 0 | Unknown | [ssb-igo](https://github.com/maackle/ssb-igo)/549 | Go client for SSB written in PureScript |
+| 8 | 0 | 4 | 6 months ago | [purescript-fixed-precision](https://github.com/lumihq/purescript-fixed-precision)/548 | Fixed precision arithmetic tracked in the types |
+| 8 | 2 | 0 | 2 years ago | [ssb-igo](https://github.com/maackle/ssb-igo)/549 | Go client for SSB written in PureScript |
 | 8 | 2 | 2 | 2 years ago | [purescript-react-spaces](https://github.com/coot/purescript-react-spaces)/550 | Combinator library for generating React markup. |
-| 8 | 0 | 1 | Unknown | [team-tavern](https://github.com/bklaric/team-tavern)/551 | Code repository for teamtavern.net |
+| 8 | 0 | 1 | a month ago | [team-tavern](https://github.com/bklaric/team-tavern)/551 | Code repository for teamtavern.net |
 | 8 | 5 | 1 | 19 days ago | [purescript-codec](https://github.com/garyb/purescript-codec)/552 | General purpose bi-directional codecs |
 | 8 | 0 | 0 | 3 years ago | [purslasher](https://github.com/kritzcreek/purslasher)/553 | A Beat 'em Up in PureScript |
 | 8 | 2 | 1 | 9 months ago | [purescript-nodetrout](https://github.com/nsaunders/purescript-nodetrout)/554 | Build a Node HTTP server with Trout. |
@@ -653,10 +653,10 @@
 | 7 | 1 | 0 | 4 months ago | [purescript-monad-control](https://github.com/athanclark/purescript-monad-control)/650 | A clone of monad-control in purescript |
 | 7 | 1 | 2 | 1 year, 5 months ago | [svgen](https://github.com/nonbili/svgen)/651 | Generate an icons module in purescript halogen from svg files |
 | 7 | 4 | 3 | 4 years ago | [purescript-leaflet](https://github.com/dysinger/purescript-leaflet)/652 | Purescript Leaflet Wrapper Library |
-| 7 | 5 | 1 | 2 years ago | [purescript-csv](https://github.com/nwolverson/purescript-csv)/653 | Simple PureScript CSV parser |
-| 7 | 7 | 0 | 3 months ago | [purescript-identity](https://github.com/purescript/purescript-identity)/654 | Identity value |
-| 7 | 6 | 1 | 4 months ago | [purescript-stringutils](https://github.com/menelaos/purescript-stringutils)/655 | String Utility Functions |
-| 7 | 1 | 1 | 1 year, 8 months ago | [purescript-stacksafe-function](https://github.com/safareli/purescript-stacksafe-function)/656 | A newtype over normal function (->), which guarantees stack safety |
+| 7 | 6 | 1 | 4 months ago | [purescript-stringutils](https://github.com/menelaos/purescript-stringutils)/653 | String Utility Functions |
+| 7 | 1 | 1 | 1 year, 8 months ago | [purescript-stacksafe-function](https://github.com/safareli/purescript-stacksafe-function)/654 | A newtype over normal function (->), which guarantees stack safety |
+| 7 | 5 | 1 | 2 years ago | [purescript-csv](https://github.com/nwolverson/purescript-csv)/655 | Simple PureScript CSV parser |
+| 7 | 7 | 0 | 3 months ago | [purescript-identity](https://github.com/purescript/purescript-identity)/656 | Identity value |
 | 7 | 2 | 0 | 1 year, 9 months ago | [purescript-modular-arithmetic](https://github.com/hdgarrood/purescript-modular-arithmetic)/657 | Modular arithmetic in PureScript |
 | 7 | 2 | 0 | 2 years ago | [purescript-google-appsscript](https://github.com/kika/purescript-google-appsscript)/658 | None |
 | 7 | 5 | 5 | 1 year, 5 months ago | [purescript-simple-moment](https://github.com/passy/purescript-simple-moment)/659 | A minimal PureScript wrapper around moment.js |
@@ -664,16 +664,16 @@
 | 7 | 6 | 2 | 5 months ago | [purescript-decimals](https://github.com/sharkdp/purescript-decimals)/661 | Arbitrary precision numbers for PureScript |
 | 7 | 7 | 3 | 1 year, 9 months ago | [purescript-mmorph](https://github.com/Thimoteus/purescript-mmorph)/662 | A port of Haskell's mmorph |
 | 7 | 0 | 1 | 2 years ago | [purescript-ethereum-client](https://github.com/Unisay/purescript-ethereum-client)/663 | Ethereum RPC protocol client  |
-| 7 | 5 | 3 | 3 months ago | [purescript-contravariant](https://github.com/purescript/purescript-contravariant)/664 | Contravariant functors |
+| 7 | 1 | 0 | 3 years ago | [purescript-flaredoc](https://github.com/sharkdp/purescript-flaredoc)/664 | Interactive documentation with Flare |
 | 7 | 0 | 0 | 1 year, 3 months ago | [purescript-halogen-free-html](https://github.com/utatti/purescript-halogen-free-html)/665 | Free monad for Halogen HTML |
-| 7 | 1 | 0 | 3 years ago | [purescript-flaredoc](https://github.com/sharkdp/purescript-flaredoc)/666 | Interactive documentation with Flare |
+| 7 | 5 | 3 | 3 months ago | [purescript-contravariant](https://github.com/purescript/purescript-contravariant)/666 | Contravariant functors |
 | 7 | 1 | 0 | 1 year, 10 months ago | [purescript-spirographs](https://github.com/i-am-tom/purescript-spirographs)/667 | CodeMesh 2018 - An introduction to PureScript canvas rendering and the Behaviors library. |
 | 6 | 3 | 0 | 1 year, 3 months ago | [purescript-crypt-nacl](https://github.com/throughnothing/purescript-crypt-nacl)/668 | TweetNaCL Wrapper for Purescript |
 | 6 | 1 | 0 | 11 months ago | [purescript-pseudo-random](https://github.com/opyapeus/purescript-pseudo-random)/669 |  A pseudo random value generator like System.Random in Haskell. |
-| 6 | 0 | 2 | 9 months ago | [purescript-httpure-middleware](https://github.com/joneshf/purescript-httpure-middleware)/670 | None |
-| 6 | 1 | 0 | a month ago | [knowwhat](https://github.com/rskew/knowwhat)/671 | graph soup editor |
-| 6 | 0 | 0 | a month ago | [purlin](https://github.com/maxdeviant/purlin)/672 | A common foundation for your PureScript projects |
-| 6 | 2 | 8 | 1 year, 10 months ago | [purescript-xml](https://github.com/voteliquid/purescript-xml)/673 | XML parsing, and type classes and combinators for encoding and decoding values to and from XML. |
+| 6 | 1 | 0 | a month ago | [knowwhat](https://github.com/rskew/knowwhat)/670 | graph soup editor |
+| 6 | 0 | 2 | 9 months ago | [purescript-httpure-middleware](https://github.com/joneshf/purescript-httpure-middleware)/671 | None |
+| 6 | 2 | 8 | 1 year, 10 months ago | [purescript-xml](https://github.com/voteliquid/purescript-xml)/672 | XML parsing, and type classes and combinators for encoding and decoding values to and from XML. |
+| 6 | 0 | 0 | a month ago | [purlin](https://github.com/maxdeviant/purlin)/673 | A common foundation for your PureScript projects |
 | 6 | 3 | 4 | 1 year, 4 days ago | [purescript-googlemaps](https://github.com/relrod/purescript-googlemaps)/674 | Google Maps FFI binding for PureScript |
 | 6 | 1 | 0 | 3 years ago | [codemesh2016](https://github.com/paf31/codemesh2016)/675 | Code Mesh 2016 slides |
 | 6 | 0 | 0 | 1 year, 11 months ago | [purescript-ochadzuke](https://github.com/justinwoo/purescript-ochadzuke)/676 | A library that combines Simple-JSON, Milkis (Fetch), and Chirashi (Error subtypes). |
@@ -685,9 +685,9 @@
 | 6 | 1 | 1 | 5 months ago | [purescript-concurrent-queues](https://github.com/purescript-contrib/purescript-concurrent-queues)/682 | None |
 | 6 | 5 | 0 | 6 years ago | [purescript-react-example](https://github.com/fujimura/purescript-react-example)/683 | PureScript + React.js example, based on https://github.com/purescript-contrib/purescript-react. |
 | 6 | 0 | 0 | 24 days ago | [purescript-road-to-react](https://github.com/cdepillabout/purescript-road-to-react)/684 | PureScript translation of example JavaScript React app from https://www.roadtoreact.com/ |
-| 6 | 5 | 8 | a month ago | [purescript-avar](https://github.com/purescript-contrib/purescript-avar)/685 | Low-level interface for asynchronous variables |
-| 6 | 0 | 9 | 10 days ago | [3tier](https://github.com/markfarrell/3tier)/686 | [Transition-Out] A prototype 3-tier web application written in PureScript. |
-| 6 | 0 | 0 | 1 year, 6 months ago | [purescript-functor1](https://github.com/garyb/purescript-functor1)/687 | None |
+| 6 | 0 | 0 | 1 year, 6 months ago | [purescript-functor1](https://github.com/garyb/purescript-functor1)/685 | None |
+| 6 | 5 | 8 | a month ago | [purescript-avar](https://github.com/purescript-contrib/purescript-avar)/686 | Low-level interface for asynchronous variables |
+| 6 | 0 | 9 | 10 days ago | [3tier](https://github.com/markfarrell/3tier)/687 | [Transition-Out] A prototype 3-tier web application written in PureScript. |
 | 6 | 3 | 2 | 1 year, 3 months ago | [purescript-dom-parser](https://github.com/toastal/purescript-dom-parser)/688 | DOMParser wrapper for integration with PureScript DOM |
 | 6 | 3 | 0 | 1 year, 1 month ago | [purescript-lunapark](https://github.com/slamdata/purescript-lunapark)/689 | None |
 | 6 | 3 | 1 | 4 years ago | [purescript-list-zipper](https://github.com/DavidHarrison/purescript-list-zipper)/690 | List Zipper in PureScript |
@@ -696,8 +696,8 @@
 | 6 | 5 | 2 | 1 year, 11 months ago | [purescript-smolder-dom](https://github.com/bodil/purescript-smolder-dom)/693 | None |
 | 6 | 0 | 0 | 3 years ago | [3D-object-rendering-in-purescript](https://github.com/jsteinar7/3D-object-rendering-in-purescript)/694 | Developed a cube with rotation feature in less than 16 hours of learning Purescript for Juspay's Hackathon (Purescript - A functional programming language) |
 | 6 | 0 | 0 | 4 years ago | [purescript-cache](https://github.com/bkase/purescript-cache)/695 | Algebraic caches for purescript |
-| 6 | 1 | 6 | 3 days ago | [governance](https://github.com/purescript-contrib/governance)/696 | Guidelines and resources for the PureScript Contributors organization |
-| 6 | 0 | 9 | a day ago | [purescript-audio-behaviors](https://github.com/mikesol/purescript-audio-behaviors)/697 | DSP in the browser using the behavior pattern. |
+| 6 | 0 | 9 | a day ago | [purescript-audio-behaviors](https://github.com/mikesol/purescript-audio-behaviors)/696 | DSP in the browser using the behavior pattern. |
+| 6 | 1 | 6 | 3 days ago | [governance](https://github.com/purescript-contrib/governance)/697 | Guidelines and resources for the PureScript Contributors organization |
 | 6 | 0 | 0 | 2 years ago | [purescript-tropical](https://github.com/paf31/purescript-tropical)/698 | Tropical Semirings |
 | 6 | 2 | 0 | 2 years ago | [halogen-boilerplate](https://github.com/jimmyhuco/halogen-boilerplate)/699 | Bootstrap Halogen Project |
 | 6 | 0 | 0 | 1 year, 2 months ago | [purescript-textcursor](https://github.com/MonoidMusician/purescript-textcursor)/700 | An isomorphic TextCursor type for selections in DOM elements (<input> and <textarea>). Provides shared DOM methods and TextCursor manipulations. |
@@ -715,92 +715,92 @@
 | 6 | 1 | 0 | 3 years ago | [purescript-smolder-vdom](https://github.com/bodil/purescript-smolder-vdom)/712 | A Smolder renderer for purescript-vdom |
 | 6 | 0 | 0 | 2 years ago | [purescript-book-store](https://github.com/rjregenold/purescript-book-store)/713 | A book store written in Purescript using Halogen and Redox |
 | 6 | 2 | 0 | 2 years ago | [purescript-foreign-callbacks](https://github.com/fluffynukeit/purescript-foreign-callbacks)/714 | Helper functions that make writing callbacks for JS libraries in purescript easier. |
-| 6 | 0 | 0 | 1 year, 1 month ago | [purescript-canvas-geometry](https://github.com/Ebmtranceboy/purescript-canvas-geometry)/715 | None |
-| 6 | 1 | 1 | 10 months ago | [purescript-boomerang](https://github.com/paluh/purescript-boomerang)/716 | Invertible parsers + useful combinators - clone of haskell boomerang library |
-| 6 | 0 | 0 | 2 years ago | [purescript-tanghulu](https://github.com/justinwoo/purescript-tanghulu)/717 | A library for working with unlimited type-level naturals using an encoding of . in Symbol. |
-| 6 | 0 | 0 | 1 year, 5 months ago | [purescript-concur-realworld](https://github.com/ajnsit/purescript-concur-realworld)/718 | RealWorld example for Purescript-Concur |
-| 6 | 1 | 2 | 2 months ago | [purescript-literals](https://github.com/jvliwanag/purescript-literals)/719 | A Symbol Proxy having a runtime value equal to the reflected symbol |
-| 6 | 6 | 1 | 9 days ago | [purescript-psc-ide](https://github.com/kritzcreek/purescript-psc-ide)/720 | PureScript client for psc-ide |
-| 6 | 0 | 0 | 2 years ago | [purescript-playground](https://github.com/maciejsmolinski/purescript-playground)/721 | PureScript Language Playground |
-| 6 | 0 | 0 | 3 years ago | [MAVIS](https://github.com/wubss/MAVIS)/722 | What's for lunch? |
-| 6 | 2 | 0 | 2 years ago | [purescript-sphynx](https://github.com/LukaJCB/purescript-sphynx)/723 | A small library for optimizing final tagless programs |
-| 6 | 1 | 0 | 6 months ago | [purescript-tagless-final-examples](https://github.com/afcondon/purescript-tagless-final-examples)/724 | Direct port of Phil Freeman's Haskell example to Purescript (see README for link) |
-| 6 | 0 | 0 | 11 months ago | [purescript-profunctor-lenses-extra](https://github.com/xgrommx/purescript-profunctor-lenses-extra)/725 | None |
-| 6 | 1 | 5 | 2 months ago | [purescript-grasp](https://github.com/epost/purescript-grasp)/726 | Graph specification processor language in PureScript |
-| 6 | 0 | 0 | 10 months ago | [purescript-graphql-example](https://github.com/hendrikniemann/purescript-graphql-example)/727 | None |
-| 6 | 5 | 2 | 2 years ago | [purescript-phoenix](https://github.com/brandonhamilton/purescript-phoenix)/728 | Phoenix Framework bindings for PureScript |
-| 6 | 0 | 0 | 2 years ago | [Gasper](https://github.com/Despair/Gasper)/729 | A guy who smokes weed and is always broke cuz of that |
-| 6 | 3 | 6 | 1 year, 5 months ago | [purescript-web-events](https://github.com/purescript-web/purescript-web-events)/730 | Type definitions and low level interface implementations for Event, CustomEvent, and EventTarget |
-| 6 | 3 | 1 | 3 months ago | [purescript-psci-support](https://github.com/purescript/purescript-psci-support)/731 | Support module for the PSCI interactive mode |
-| 6 | 0 | 2 | 2 years ago | [purescript-styled-system](https://github.com/paulyoung/purescript-styled-system)/732 | Design system utilities for purescript-styled-components and other packages |
-| 6 | 0 | 4 | a month ago | [purescript-react-map-gl](https://github.com/f-o-a-m/purescript-react-map-gl)/733 | purescript-react wrappers for map gl |
-| 6 | 0 | 1 | 4 months ago | [purescript-react-basic-hooks-router](https://github.com/robertdp/purescript-react-basic-hooks-router)/734 | None |
-| 6 | 4 | 2 | 5 months ago | [purescript-unsafe-reference](https://github.com/purescript-contrib/purescript-unsafe-reference)/735 | None |
-| 6 | 9 | 4 | 2 years ago | [purescript-webstorage](https://github.com/joneshf/purescript-webstorage)/736 | None |
-| 6 | 7 | 26 | 1 year, 4 months ago | [lemmingpants](https://github.com/Rembane/lemmingpants)/737 | A system to handle the speakerlist on Datateknologsektionens meetings. |
-| 6 | 0 | 0 | 2 years ago | [purescript-polynomials](https://github.com/hdgarrood/purescript-polynomials)/738 | None |
-| 6 | 2 | 1 | 2 years ago | [purescript-dispatcher-react](https://github.com/doolse/purescript-dispatcher-react)/739 | A simple action dispatcher for purescript-react |
-| 6 | 0 | 0 | 2 years ago | [react-basic-thing](https://github.com/justinwoo/react-basic-thing)/740 | None |
-| 6 | 0 | 6 | 7 months ago | [it-is-the-purescript-egg](https://github.com/danieljharvey/it-is-the-purescript-egg)/741 | Remaking the same goddamn thing AGAIN |
-| 6 | 0 | 2 | 1 year, 1 month ago | [purescript-midi](https://github.com/newlandsvalley/purescript-midi)/742 | MIDI and Web MIDI support |
-| 6 | 10 | 0 | 6 months ago | [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer)/743 | None |
-| 6 | 0 | 0 | 2 years ago | [secretword](https://github.com/twitchard/secretword)/744 | Alexa skill word game (based on 'jotto') written in purescript. |
-| 6 | 2 | 0 | 3 years ago | [purescript-http-types](https://github.com/chrisdotcode/purescript-http-types)/745 | Data types for dealing with HTTP. |
-| 6 | 1 | 0 | 4 months ago | [purescript-prettier](https://github.com/epicallan/purescript-prettier)/746 | PureScript bindings for prettier |
-| 6 | 0 | 0 | a month ago | [lambda-purescript-starter](https://github.com/mbbx6spp/lambda-purescript-starter)/747 | Starter template project for building AWS Lambdas with PureScript |
-| 6 | 2 | 2 | 13 days ago | [purescript-ps-cst](https://github.com/purescript-codegen/purescript-ps-cst)/748 | Purescript code printer, inspired by official purescript-cst types https://hackage.haskell.org/package/purescript/docs/Language-PureScript-CST-Types.html |
-| 6 | 0 | 0 | 1 year, 4 months ago | [simple-rpc-telegram-bot](https://github.com/justinwoo/simple-rpc-telegram-bot)/749 | really terrible telegram chatbot for kicking off my torscraper |
-| 6 | 1 | 0 | 4 years ago | [clicker-builder](https://github.com/Thimoteus/clicker-builder)/750 | click to build, build to click |
-| 6 | 3 | 4 | 3 years ago | [purescript-react-material-ui](https://github.com/nwolverson/purescript-react-material-ui)/751 | purescript-react bindings for material-ui |
-| 6 | 1 | 0 | 2 years ago | [purescript-distributions](https://github.com/paf31/purescript-distributions)/752 | A monad which generalizes the probability monad to an arbitrary Semiring of probabilities  |
-| 6 | 4 | 0 | 2 years ago | [purs-medellin-workshop](https://github.com/arecvlohe/purs-medellin-workshop)/753 | PureScript and Pux Workshop for JSConf Medellin |
-| 6 | 0 | 0 | 2 years ago | [purescript-symmetric-groups](https://github.com/hdgarrood/purescript-symmetric-groups)/754 | Finitary permutations in PureScript |
-| 6 | 1 | 1 | 1 year, 11 months ago | [purescript-tscompat](https://github.com/doolse/purescript-tscompat)/755 | Purescript types and classes for interop with Typescript |
-| 6 | 0 | 0 | 4 years ago | [purescript-proofs](https://github.com/matthieubulte/purescript-proofs)/756 | (Ab)using PureScript's type system for simple proofs verification |
-| 6 | 0 | 6 | 1 year, 4 months ago | [functional-programming-for-problem-solvers](https://github.com/Sir4ur0n/functional-programming-for-problem-solvers)/757 | An attempt at showcasing how Engineers can use Functional Programming to solve real world problems |
-| 6 | 1 | 0 | 10 months ago | [purescript-record-prefix](https://github.com/dariooddenino/purescript-record-prefix)/758 | A blazing fast library to add a prefix to a record's labels |
-| 6 | 1 | 1 | 13 days ago | [purescript-ffi-simple](https://github.com/poorscript/purescript-ffi-simple)/759 | We're sure you have your reasons |
-| 5 | 0 | 0 | 5 years ago | [sucks-rocks](https://github.com/matthieubulte/sucks-rocks)/760 | a web application for gathering feedback on small snippets of code |
-| 5 | 2 | 0 | 1 year, 10 months ago | [functional-programming-concepts-in-purescript](https://github.com/eggheadio-projects/functional-programming-concepts-in-purescript)/761 | None |
-| 5 | 0 | 0 | 1 year, 4 months ago | [purescript-resource](https://github.com/joneshf/purescript-resource)/762 | Safe resource handling |
-| 5 | 1 | 0 | a month ago | [purescript-apexcharts](https://github.com/timdeputter/purescript-apexcharts)/763 | Purescript bindings for apexcharts.js (https://apexcharts.com) |
-| 5 | 2 | 1 | 3 years ago | [purescript-handsontable](https://github.com/themoritz/purescript-handsontable)/764 | None |
-| 5 | 1 | 0 | 1 year, 7 months ago | [purescript-type-isequal](https://github.com/justinwoo/purescript-type-isequal)/765 | Type equality check returning a Boolean kind. Useful for type-level programming. |
-| 5 | 0 | 0 | 1 year, 10 months ago | [purescript-typelevel-intro](https://github.com/justinwoo/purescript-typelevel-intro)/766 | Material for a small introduction including multiple parameter type classes, non-type kinds, and instance chains |
-| 5 | 1 | 2 | 3 months ago | [purescript-ps-past](https://github.com/purescript-codegen/purescript-ps-past)/767 | An opinionated and incomplete PS AST. Please check purescript-cst for a complete solution. |
-| 5 | 0 | 0 | 3 months ago | [Yodaka](https://github.com/moxuse/Yodaka)/768 | None |
-| 5 | 1 | 0 | 3 years ago | [purescript-totally](https://github.com/joneshf/purescript-totally)/769 | Exhaustivity checker for sum types using prisms. |
-| 5 | 6 | 6 | 4 years ago | [purescript-trees](https://github.com/parsonsmatt/purescript-trees)/770 | Rose trees |
-| 5 | 1 | 0 | 3 years ago | [pux-css](https://github.com/alexmingoia/pux-css)/771 | Render purescript-css to a Pux attribute. |
-| 5 | 2 | 2 | 4 years ago | [purescript-pux-todomvc](https://github.com/arthurxavierx/purescript-pux-todomvc)/772 | TodoMVC implementation using PureScript and the Pux package |
-| 5 | 1 | 4 | 3 years ago | [purescript-sexp](https://github.com/rightfold/purescript-sexp)/773 | S-expressions. |
-| 5 | 0 | 0 | 3 years ago | [purescript-halogen-startapp](https://github.com/natefaubion/purescript-halogen-startapp)/774 | None |
-| 5 | 0 | 0 | 8 months ago | [purescript-template-literals](https://github.com/nonbili/purescript-template-literals)/775 | ES2015 template literals in PureScript |
-| 5 | 0 | 1 | 5 months ago | [purescript-console-extra](https://github.com/jvliwanag/purescript-console-extra)/776 | Unconstrained Access to Javascript Console |
-| 5 | 0 | 0 | 24 days ago | [purescript-react-store](https://github.com/robertdp/purescript-react-store)/777 | None |
-| 5 | 0 | 0 | 5 years ago | [purescript-immutable](https://github.com/andreypopp/purescript-immutable)/778 | PureScript bindings to Immutable.js library |
-| 5 | 0 | 1 | 2 years ago | [purescript-styled-components](https://github.com/paulyoung/purescript-styled-components)/779 | A PureScript implementation of styled-components |
-| 5 | 1 | 0 | 2 years ago | [purescript-halogen-tooltip](https://github.com/MonoidMusician/purescript-halogen-tooltip)/780 | None |
-| 5 | 1 | 0 | 2 years ago | [purescript-partial-isomorphisms](https://github.com/paulyoung/purescript-partial-isomorphisms)/781 | A PureScript implementation of partial isomorphisms, from the paper Invertible Syntax Descriptions: Unifying Parsing and Pretty Printing (Rendel and Ostermann 2010) |
-| 5 | 0 | 11 | 1 year, 2 months ago | [monadic-party-edsl](https://github.com/arthurxavierx/monadic-party-edsl)/782 | Examples and slides for the Type-safe Embedded Domain-Specific Languages workshop at Monadic Party 2019 (will be updated as workshop happens) |
-| 5 | 2 | 1 | 2 years ago | [purescript-pairing](https://github.com/paf31/purescript-pairing)/783 | Pairings of functors |
-| 5 | 7 | 1 | 2 years ago | [purescript-ace-halogen](https://github.com/purescript-halogen/purescript-ace-halogen)/784 | A Halogen component for the Ace editor. |
-| 5 | 7 | 0 | 4 months ago | [purescript-uint](https://github.com/zaquest/purescript-uint)/785 | 32-bit unsigned integer type for PureScript |
-| 5 | 5 | 0 | 1 year, 7 months ago | [purescript-var](https://github.com/zudov/purescript-var)/786 | Vars -- references that can be read/written from the Eff monad  |
-| 5 | 4 | 2 | 2 years ago | [purescript-ansi](https://github.com/hdgarrood/purescript-ansi)/787 | A PureScript library for dealing with ANSI escape codes. |
-| 5 | 2 | 1 | 1 year, 3 months ago | [purescript-boomboom](https://github.com/paluh/purescript-boomboom)/788 | Never hard code your urls again. Boomboom them all! |
-| 5 | 0 | 0 | 2 years ago | [purescript-logoot-core](https://github.com/juspay/purescript-logoot-core)/789 | A library for creating a collaborative real-time editor using commutative replicated data types |
-| 5 | 1 | 0 | 1 year, 10 months ago | [purescript-comonad-ui-react](https://github.com/arthurxavierx/purescript-comonad-ui-react)/790 | [WIP] purescript-react renderer for comonadic UIs |
-| 5 | 0 | 0 | 2 years ago | [purescript-halogen-connect-experiment](https://github.com/natefaubion/purescript-halogen-connect-experiment)/791 | None |
-| 5 | 7 | 5 | 5 months ago | [purescript-unicode](https://github.com/purescript-contrib/purescript-unicode)/792 | None |
-| 5 | 0 | 0 | 5 months ago | [purescript-windrose-router](https://github.com/blankhart/purescript-windrose-router)/793 | A Servant-style router for Purescript. |
-| 5 | 0 | 0 | 5 years ago | [chess-purescript](https://github.com/grzegorzbalcerek/chess-purescript)/794 | None |
-| 5 | 3 | 0 | 2 years ago | [purescript-reflection](https://github.com/paf31/purescript-reflection)/795 | Reflecting values at the type level |
-| 5 | 2 | 3 | 5 years ago | [purescript-node-redis](https://github.com/SimonRichardson/purescript-node-redis)/796 | Purescript Aff bindings for node-redis |
-| 5 | 0 | 1 | 8 months ago | [purescript-bonjiri](https://github.com/justinwoo/purescript-bonjiri)/797 | An implementation for working with JS Promises via specifications. For when you want to make use of existing mechanisms in JS libs and debugging tools. |
-| 5 | 4 | 0 | 8 months ago | [purescript-node-telegram-bot-api](https://github.com/justinwoo/purescript-node-telegram-bot-api)/798 | A subset of the node telegram bot API in Purescript |
-| 5 | 0 | 0 | 2 years ago | [purescript-experiments](https://github.com/xgrommx/purescript-experiments)/799 | None |
-| 5 | 1 | 1 | 5 years ago | [purescript-node-webkit](https://github.com/joneshf/purescript-node-webkit)/800 | None |
+| 6 | 0 | 0 | Unknown | [purescript-canvas-geometry](https://github.com/Ebmtranceboy/purescript-canvas-geometry)/715 | None |
+| 6 | 1 | 1 | Unknown | [purescript-boomerang](https://github.com/paluh/purescript-boomerang)/716 | Invertible parsers + useful combinators - clone of haskell boomerang library |
+| 6 | 0 | 0 | Unknown | [purescript-tanghulu](https://github.com/justinwoo/purescript-tanghulu)/717 | A library for working with unlimited type-level naturals using an encoding of . in Symbol. |
+| 6 | 0 | 0 | Unknown | [purescript-concur-realworld](https://github.com/ajnsit/purescript-concur-realworld)/718 | RealWorld example for Purescript-Concur |
+| 6 | 6 | 1 | Unknown | [purescript-psc-ide](https://github.com/kritzcreek/purescript-psc-ide)/719 | PureScript client for psc-ide |
+| 6 | 1 | 2 | Unknown | [purescript-literals](https://github.com/jvliwanag/purescript-literals)/720 | A Symbol Proxy having a runtime value equal to the reflected symbol |
+| 6 | 0 | 0 | Unknown | [purescript-playground](https://github.com/maciejsmolinski/purescript-playground)/721 | PureScript Language Playground |
+| 6 | 0 | 0 | Unknown | [MAVIS](https://github.com/wubss/MAVIS)/722 | What's for lunch? |
+| 6 | 2 | 0 | Unknown | [purescript-sphynx](https://github.com/LukaJCB/purescript-sphynx)/723 | A small library for optimizing final tagless programs |
+| 6 | 1 | 0 | Unknown | [purescript-tagless-final-examples](https://github.com/afcondon/purescript-tagless-final-examples)/724 | Direct port of Phil Freeman's Haskell example to Purescript (see README for link) |
+| 6 | 0 | 0 | Unknown | [purescript-profunctor-lenses-extra](https://github.com/xgrommx/purescript-profunctor-lenses-extra)/725 | None |
+| 6 | 1 | 5 | Unknown | [purescript-grasp](https://github.com/epost/purescript-grasp)/726 | Graph specification processor language in PureScript |
+| 6 | 0 | 0 | Unknown | [purescript-graphql-example](https://github.com/hendrikniemann/purescript-graphql-example)/727 | None |
+| 6 | 5 | 2 | Unknown | [purescript-phoenix](https://github.com/brandonhamilton/purescript-phoenix)/728 | Phoenix Framework bindings for PureScript |
+| 6 | 0 | 0 | Unknown | [Gasper](https://github.com/Despair/Gasper)/729 | A guy who smokes weed and is always broke cuz of that |
+| 6 | 3 | 6 | Unknown | [purescript-web-events](https://github.com/purescript-web/purescript-web-events)/730 | Type definitions and low level interface implementations for Event, CustomEvent, and EventTarget |
+| 6 | 3 | 1 | Unknown | [purescript-psci-support](https://github.com/purescript/purescript-psci-support)/731 | Support module for the PSCI interactive mode |
+| 6 | 0 | 2 | Unknown | [purescript-styled-system](https://github.com/paulyoung/purescript-styled-system)/732 | Design system utilities for purescript-styled-components and other packages |
+| 6 | 0 | 4 | Unknown | [purescript-react-map-gl](https://github.com/f-o-a-m/purescript-react-map-gl)/733 | purescript-react wrappers for map gl |
+| 6 | 0 | 1 | Unknown | [purescript-react-basic-hooks-router](https://github.com/robertdp/purescript-react-basic-hooks-router)/734 | None |
+| 6 | 4 | 2 | Unknown | [purescript-unsafe-reference](https://github.com/purescript-contrib/purescript-unsafe-reference)/735 | None |
+| 6 | 9 | 4 | Unknown | [purescript-webstorage](https://github.com/joneshf/purescript-webstorage)/736 | None |
+| 6 | 7 | 26 | Unknown | [lemmingpants](https://github.com/Rembane/lemmingpants)/737 | A system to handle the speakerlist on Datateknologsektionens meetings. |
+| 6 | 0 | 0 | Unknown | [purescript-polynomials](https://github.com/hdgarrood/purescript-polynomials)/738 | None |
+| 6 | 2 | 1 | Unknown | [purescript-dispatcher-react](https://github.com/doolse/purescript-dispatcher-react)/739 | A simple action dispatcher for purescript-react |
+| 6 | 0 | 0 | Unknown | [react-basic-thing](https://github.com/justinwoo/react-basic-thing)/740 | None |
+| 6 | 0 | 6 | Unknown | [it-is-the-purescript-egg](https://github.com/danieljharvey/it-is-the-purescript-egg)/741 | Remaking the same goddamn thing AGAIN |
+| 6 | 10 | 0 | Unknown | [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer)/742 | None |
+| 6 | 0 | 2 | Unknown | [purescript-midi](https://github.com/newlandsvalley/purescript-midi)/743 | MIDI and Web MIDI support |
+| 6 | 0 | 0 | Unknown | [secretword](https://github.com/twitchard/secretword)/744 | Alexa skill word game (based on 'jotto') written in purescript. |
+| 6 | 1 | 0 | Unknown | [purescript-prettier](https://github.com/epicallan/purescript-prettier)/745 | PureScript bindings for prettier |
+| 6 | 2 | 0 | Unknown | [purescript-http-types](https://github.com/chrisdotcode/purescript-http-types)/746 | Data types for dealing with HTTP. |
+| 6 | 2 | 2 | Unknown | [purescript-ps-cst](https://github.com/purescript-codegen/purescript-ps-cst)/747 | Purescript code printer, inspired by official purescript-cst types https://hackage.haskell.org/package/purescript/docs/Language-PureScript-CST-Types.html |
+| 6 | 0 | 0 | Unknown | [lambda-purescript-starter](https://github.com/mbbx6spp/lambda-purescript-starter)/748 | Starter template project for building AWS Lambdas with PureScript |
+| 6 | 0 | 0 | Unknown | [simple-rpc-telegram-bot](https://github.com/justinwoo/simple-rpc-telegram-bot)/749 | really terrible telegram chatbot for kicking off my torscraper |
+| 6 | 1 | 0 | Unknown | [clicker-builder](https://github.com/Thimoteus/clicker-builder)/750 | click to build, build to click |
+| 6 | 3 | 4 | Unknown | [purescript-react-material-ui](https://github.com/nwolverson/purescript-react-material-ui)/751 | purescript-react bindings for material-ui |
+| 6 | 1 | 0 | Unknown | [purescript-distributions](https://github.com/paf31/purescript-distributions)/752 | A monad which generalizes the probability monad to an arbitrary Semiring of probabilities  |
+| 6 | 4 | 0 | Unknown | [purs-medellin-workshop](https://github.com/arecvlohe/purs-medellin-workshop)/753 | PureScript and Pux Workshop for JSConf Medellin |
+| 6 | 0 | 0 | Unknown | [purescript-symmetric-groups](https://github.com/hdgarrood/purescript-symmetric-groups)/754 | Finitary permutations in PureScript |
+| 6 | 1 | 1 | Unknown | [purescript-tscompat](https://github.com/doolse/purescript-tscompat)/755 | Purescript types and classes for interop with Typescript |
+| 6 | 0 | 0 | Unknown | [purescript-proofs](https://github.com/matthieubulte/purescript-proofs)/756 | (Ab)using PureScript's type system for simple proofs verification |
+| 6 | 0 | 6 | Unknown | [functional-programming-for-problem-solvers](https://github.com/Sir4ur0n/functional-programming-for-problem-solvers)/757 | An attempt at showcasing how Engineers can use Functional Programming to solve real world problems |
+| 6 | 1 | 0 | Unknown | [purescript-record-prefix](https://github.com/dariooddenino/purescript-record-prefix)/758 | A blazing fast library to add a prefix to a record's labels |
+| 6 | 1 | 1 | Unknown | [purescript-ffi-simple](https://github.com/poorscript/purescript-ffi-simple)/759 | We're sure you have your reasons |
+| 5 | 0 | 0 | Unknown | [sucks-rocks](https://github.com/matthieubulte/sucks-rocks)/760 | a web application for gathering feedback on small snippets of code |
+| 5 | 2 | 0 | Unknown | [functional-programming-concepts-in-purescript](https://github.com/eggheadio-projects/functional-programming-concepts-in-purescript)/761 | None |
+| 5 | 0 | 0 | Unknown | [purescript-resource](https://github.com/joneshf/purescript-resource)/762 | Safe resource handling |
+| 5 | 1 | 0 | Unknown | [purescript-apexcharts](https://github.com/timdeputter/purescript-apexcharts)/763 | Purescript bindings for apexcharts.js (https://apexcharts.com) |
+| 5 | 2 | 1 | Unknown | [purescript-handsontable](https://github.com/themoritz/purescript-handsontable)/764 | None |
+| 5 | 1 | 0 | Unknown | [purescript-type-isequal](https://github.com/justinwoo/purescript-type-isequal)/765 | Type equality check returning a Boolean kind. Useful for type-level programming. |
+| 5 | 0 | 0 | Unknown | [purescript-typelevel-intro](https://github.com/justinwoo/purescript-typelevel-intro)/766 | Material for a small introduction including multiple parameter type classes, non-type kinds, and instance chains |
+| 5 | 0 | 0 | Unknown | [Yodaka](https://github.com/moxuse/Yodaka)/767 | None |
+| 5 | 1 | 2 | Unknown | [purescript-ps-past](https://github.com/purescript-codegen/purescript-ps-past)/768 | An opinionated and incomplete PS AST. Please check purescript-cst for a complete solution. |
+| 5 | 1 | 0 | Unknown | [purescript-totally](https://github.com/joneshf/purescript-totally)/769 | Exhaustivity checker for sum types using prisms. |
+| 5 | 6 | 6 | Unknown | [purescript-trees](https://github.com/parsonsmatt/purescript-trees)/770 | Rose trees |
+| 5 | 1 | 0 | Unknown | [pux-css](https://github.com/alexmingoia/pux-css)/771 | Render purescript-css to a Pux attribute. |
+| 5 | 2 | 2 | Unknown | [purescript-pux-todomvc](https://github.com/arthurxavierx/purescript-pux-todomvc)/772 | TodoMVC implementation using PureScript and the Pux package |
+| 5 | 1 | 4 | Unknown | [purescript-sexp](https://github.com/rightfold/purescript-sexp)/773 | S-expressions. |
+| 5 | 0 | 0 | Unknown | [purescript-halogen-startapp](https://github.com/natefaubion/purescript-halogen-startapp)/774 | None |
+| 5 | 0 | 0 | Unknown | [purescript-template-literals](https://github.com/nonbili/purescript-template-literals)/775 | ES2015 template literals in PureScript |
+| 5 | 0 | 1 | Unknown | [purescript-console-extra](https://github.com/jvliwanag/purescript-console-extra)/776 | Unconstrained Access to Javascript Console |
+| 5 | 0 | 0 | Unknown | [purescript-react-store](https://github.com/robertdp/purescript-react-store)/777 | None |
+| 5 | 0 | 0 | Unknown | [purescript-immutable](https://github.com/andreypopp/purescript-immutable)/778 | PureScript bindings to Immutable.js library |
+| 5 | 0 | 1 | Unknown | [purescript-styled-components](https://github.com/paulyoung/purescript-styled-components)/779 | A PureScript implementation of styled-components |
+| 5 | 1 | 0 | Unknown | [purescript-halogen-tooltip](https://github.com/MonoidMusician/purescript-halogen-tooltip)/780 | None |
+| 5 | 1 | 0 | Unknown | [purescript-partial-isomorphisms](https://github.com/paulyoung/purescript-partial-isomorphisms)/781 | A PureScript implementation of partial isomorphisms, from the paper Invertible Syntax Descriptions: Unifying Parsing and Pretty Printing (Rendel and Ostermann 2010) |
+| 5 | 0 | 11 | Unknown | [monadic-party-edsl](https://github.com/arthurxavierx/monadic-party-edsl)/782 | Examples and slides for the Type-safe Embedded Domain-Specific Languages workshop at Monadic Party 2019 (will be updated as workshop happens) |
+| 5 | 2 | 1 | Unknown | [purescript-pairing](https://github.com/paf31/purescript-pairing)/783 | Pairings of functors |
+| 5 | 7 | 1 | Unknown | [purescript-ace-halogen](https://github.com/purescript-halogen/purescript-ace-halogen)/784 | A Halogen component for the Ace editor. |
+| 5 | 7 | 0 | Unknown | [purescript-uint](https://github.com/zaquest/purescript-uint)/785 | 32-bit unsigned integer type for PureScript |
+| 5 | 5 | 0 | Unknown | [purescript-var](https://github.com/zudov/purescript-var)/786 | Vars -- references that can be read/written from the Eff monad  |
+| 5 | 4 | 2 | Unknown | [purescript-ansi](https://github.com/hdgarrood/purescript-ansi)/787 | A PureScript library for dealing with ANSI escape codes. |
+| 5 | 2 | 1 | Unknown | [purescript-boomboom](https://github.com/paluh/purescript-boomboom)/788 | Never hard code your urls again. Boomboom them all! |
+| 5 | 0 | 0 | Unknown | [purescript-logoot-core](https://github.com/juspay/purescript-logoot-core)/789 | A library for creating a collaborative real-time editor using commutative replicated data types |
+| 5 | 1 | 0 | Unknown | [purescript-comonad-ui-react](https://github.com/arthurxavierx/purescript-comonad-ui-react)/790 | [WIP] purescript-react renderer for comonadic UIs |
+| 5 | 0 | 0 | Unknown | [purescript-halogen-connect-experiment](https://github.com/natefaubion/purescript-halogen-connect-experiment)/791 | None |
+| 5 | 7 | 5 | Unknown | [purescript-unicode](https://github.com/purescript-contrib/purescript-unicode)/792 | None |
+| 5 | 0 | 0 | Unknown | [purescript-windrose-router](https://github.com/blankhart/purescript-windrose-router)/793 | A Servant-style router for Purescript. |
+| 5 | 0 | 0 | Unknown | [chess-purescript](https://github.com/grzegorzbalcerek/chess-purescript)/794 | None |
+| 5 | 3 | 0 | Unknown | [purescript-reflection](https://github.com/paf31/purescript-reflection)/795 | Reflecting values at the type level |
+| 5 | 2 | 3 | Unknown | [purescript-node-redis](https://github.com/SimonRichardson/purescript-node-redis)/796 | Purescript Aff bindings for node-redis |
+| 5 | 0 | 1 | Unknown | [purescript-bonjiri](https://github.com/justinwoo/purescript-bonjiri)/797 | An implementation for working with JS Promises via specifications. For when you want to make use of existing mechanisms in JS libs and debugging tools. |
+| 5 | 4 | 0 | Unknown | [purescript-node-telegram-bot-api](https://github.com/justinwoo/purescript-node-telegram-bot-api)/798 | A subset of the node telegram bot API in Purescript |
+| 5 | 0 | 0 | Unknown | [purescript-experiments](https://github.com/xgrommx/purescript-experiments)/799 | None |
+| 5 | 1 | 1 | Unknown | [purescript-node-webkit](https://github.com/joneshf/purescript-node-webkit)/800 | None |
 | 5 | 2 | 1 | 1 year, 11 months ago | [purescript-difflists](https://github.com/Thimoteus/purescript-difflists)/801 | A data type for quickly appending. |
 | 5 | 1 | 1 | 2 years ago | [purescript-birds](https://github.com/awkure/purescript-birds)/802 | A collection of bird combinators ported to purescript |
 | 5 | 2 | 3 | 3 years ago | [purescript-benchmark](https://github.com/cyrbon/purescript-benchmark)/803 | Simple to use, cross-platform benchmarking library based on benchmark.js |
@@ -813,11 +813,11 @@
 | 5 | 2 | 0 | 1 year, 8 months ago | [purescript-strongcheck-laws](https://github.com/garyb/purescript-strongcheck-laws)/810 | StrongCheck powered law tests for PureScript's core typeclasses. |
 | 5 | 0 | 0 | 1 year, 4 months ago | [purescript-tortellini](https://github.com/justinwoo/purescript-tortellini)/811 | An easy ini library for PureScript |
 | 5 | 5 | 1 | 1 year, 6 months ago | [purescript-dom-filereader](https://github.com/nwolverson/purescript-dom-filereader)/812 | Aff-based wrappers for FileReader API based on top of purescript-web-dom |
-| 5 | 6 | 5 | 3 years ago | [purescript-money](https://github.com/TinkerTravel/purescript-money)/813 | Types and operations on monetary amounts. |
-| 5 | 4 | 3 | 2 months ago | [purescript-tolerant-argonaut](https://github.com/matthew-hilty/purescript-tolerant-argonaut)/814 | Facilities for decoding JSON records with Argonaut |
-| 5 | 0 | 0 | 2 years ago | [purescript-halogen-elm-etch-sketch](https://github.com/justinwoo/purescript-halogen-elm-etch-sketch)/815 | an elm etch sketch view embedded in a halogen app |
-| 5 | 0 | 0 | 4 months ago | [purescript-zeta](https://github.com/athanclark/purescript-zeta)/816 | Signals from outer space |
-| 5 | 0 | 0 | 7 months ago | [purescript-halogen-custom-element](https://github.com/nonbili/purescript-halogen-custom-element)/817 | A library to convert Halogen components to custom elements. |
+| 5 | 0 | 0 | 2 years ago | [purescript-halogen-elm-etch-sketch](https://github.com/justinwoo/purescript-halogen-elm-etch-sketch)/813 | an elm etch sketch view embedded in a halogen app |
+| 5 | 0 | 0 | 4 months ago | [purescript-zeta](https://github.com/athanclark/purescript-zeta)/814 | Signals from outer space |
+| 5 | 6 | 5 | 3 years ago | [purescript-money](https://github.com/TinkerTravel/purescript-money)/815 | Types and operations on monetary amounts. |
+| 5 | 0 | 0 | 7 months ago | [purescript-halogen-custom-element](https://github.com/nonbili/purescript-halogen-custom-element)/816 | A library to convert Halogen components to custom elements. |
+| 5 | 4 | 3 | 2 months ago | [purescript-tolerant-argonaut](https://github.com/matthew-hilty/purescript-tolerant-argonaut)/817 | Facilities for decoding JSON records with Argonaut |
 | 5 | 0 | 0 | 2 years ago | [purescript-gomtang-basic](https://github.com/justinwoo/purescript-gomtang-basic)/818 | Another wrapper for ECharts using Union to take records of subsets of allowed fields. Based off of the ideas in React-Basic. |
 | 5 | 0 | 0 | 5 months ago | [purescript-ws](https://github.com/purescript-node-contrib/purescript-ws)/819 | Bindings for ws (Websocket)   |
 | 5 | 0 | 0 | 3 months ago | [purescript-pha](https://github.com/gbagan/purescript-pha)/820 | None |
@@ -842,12 +842,12 @@
 | 5 | 0 | 2 | 1 year, 7 months ago | [create-purescript-react-basic](https://github.com/bouzuya/create-purescript-react-basic)/839 | An npm initializer for purescript-react-basic project |
 | 5 | 3 | 0 | 2 years ago | [purescript-phantom](https://github.com/purescripters/purescript-phantom)/840 | Purescript bindings for phantomjs |
 | 5 | 0 | 1 | 3 months ago | [purescript-audiograph](https://github.com/newlandsvalley/purescript-audiograph)/841 | A declarative interface into web-audio |
-| 5 | 1 | 0 | 2 months ago | [fifth-element](https://github.com/friedbrice/fifth-element)/842 | [WIP] Web Implementation of D&D 5th Edition (and a framework for writing it). |
-| 5 | 0 | 1 | 1 year, 6 months ago | [purescript-calculator-example](https://github.com/kevinbarabash/purescript-calculator-example)/843 | React calculator built using PureScript |
+| 5 | 0 | 1 | 1 year, 6 months ago | [purescript-calculator-example](https://github.com/kevinbarabash/purescript-calculator-example)/842 | React calculator built using PureScript |
+| 5 | 1 | 0 | 2 months ago | [fifth-element](https://github.com/friedbrice/fifth-element)/843 | [WIP] Web Implementation of D&D 5th Edition (and a framework for writing it). |
 | 5 | 0 | 0 | 1 year, 6 months ago | [purescript-cherry](https://github.com/oreshinya/purescript-cherry)/844 | No longer maintenance |
 | 5 | 1 | 0 | 1 year, 9 months ago | [purescript-little-selda](https://github.com/paluh/purescript-little-selda)/845 | Please, don't waste your time here and go directly to `Kamirus/purescript-selda` |
-| 5 | 1 | 0 | 1 year, 3 months ago | [purescript-halogen-transition](https://github.com/nonbili/purescript-halogen-transition)/846 | A component that toggles enter/leave class when visibility changes |
-| 5 | 6 | 1 | 5 months ago | [purescript-halogen-vdom-string-renderer](https://github.com/purescript-halogen/purescript-halogen-vdom-string-renderer)/847 | String rendering for halogen-vdom |
+| 5 | 6 | 1 | 5 months ago | [purescript-halogen-vdom-string-renderer](https://github.com/purescript-halogen/purescript-halogen-vdom-string-renderer)/846 | String rendering for halogen-vdom |
+| 5 | 1 | 0 | 1 year, 3 months ago | [purescript-halogen-transition](https://github.com/nonbili/purescript-halogen-transition)/847 | A component that toggles enter/leave class when visibility changes |
 | 5 | 4 | 0 | 3 months ago | [purescript-proxy](https://github.com/purescript/purescript-proxy)/848 | Value proxy for type inputs |
 | 5 | 0 | 0 | 2 years ago | [jaunt](https://github.com/ChrisPenner/jaunt)/849 | a jq clone in purescript |
 | 5 | 0 | 0 | 5 years ago | [purescript-enchantjs](https://github.com/algas/purescript-enchantjs)/850 | PureScript interface for Enchant.js |
@@ -855,8 +855,8 @@
 | 5 | 1 | 3 | 3 years ago | [purescript-learn](https://github.com/carldata/purescript-learn)/852 | Learning algorithms for PureScript |
 | 5 | 0 | 0 | 3 years ago | [pureflowy](https://github.com/parsonsmatt/pureflowy)/853 | A workflow management tool written in Haskell and PureScript |
 | 5 | 4 | 1 | 3 years ago | [purescript-redis](https://github.com/TinkerTravel/purescript-redis)/854 | Purescript Redis bindings |
-| 5 | 1 | 1 | 1 year, 3 months ago | [purescript-node-net](https://github.com/purescript-node/purescript-node-net)/855 | PureScript bindings to the Node.js 'net' API. |
-| 5 | 1 | 1 | 3 months ago | [purescript-halogen-onetimepad](https://github.com/snoyberg/purescript-halogen-onetimepad)/856 | Work with one time pads from a web page, mostly to teach me PureScript/Halogen |
+| 5 | 1 | 1 | 3 months ago | [purescript-halogen-onetimepad](https://github.com/snoyberg/purescript-halogen-onetimepad)/855 | Work with one time pads from a web page, mostly to teach me PureScript/Halogen |
+| 5 | 1 | 1 | 1 year, 3 months ago | [purescript-node-net](https://github.com/purescript-node/purescript-node-net)/856 | PureScript bindings to the Node.js 'net' API. |
 | 5 | 0 | 0 | 3 years ago | [purescript-schema](https://github.com/nuttycom/purescript-schema)/857 | FreeAp-based schema for sums-of-products data types in PureScript |
 | 5 | 1 | 1 | 1 year, 8 months ago | [learning_purescript](https://github.com/prasannals/learning_purescript)/858 | None |
 | 5 | 1 | 0 | 3 years ago | [matrix-inverse-calculator](https://github.com/lettier/matrix-inverse-calculator)/859 | Input a square matrix and calculate its inverse if possible. |
@@ -899,7 +899,7 @@
 | 4 | 1 | 0 | 4 years ago | [purescript-simple-chat-client](https://github.com/nathanic/purescript-simple-chat-client)/896 | A simple WebSocket chat client program using PureScript and Halogen. |
 | 4 | 0 | 2 | a month ago | [react-basic-rock-paper-scissors](https://github.com/spicydonuts/react-basic-rock-paper-scissors)/897 | A small example game using react-basic |
 | 4 | 2 | 1 | 5 days ago | [purescript-identy](https://github.com/oreshinya/purescript-identy)/898 | An opinionated UI state management utilities. |
-| 4 | 0 | 0 | 17 hours ago | [purescript-protobuf](https://github.com/zero-deps/purescript-protobuf)/899 | Protobuf encoding/decoding functions for PureScript |
+| 4 | 0 | 0 | 18 hours ago | [purescript-protobuf](https://github.com/zero-deps/purescript-protobuf)/899 | Protobuf encoding/decoding functions for PureScript |
 | 4 | 0 | 1 | 5 years ago | [todomvc-purescript-react](https://github.com/passy/todomvc-purescript-react)/900 | Nothing to see here, move along! |
 | 4 | 5 | 1 | 3 years ago | [purescript-strongcheck-generics](https://github.com/zudov/purescript-strongcheck-generics)/901 | Generics for purescript-strongcheck |
 | 4 | 0 | 0 | 3 years ago | [shapecheck](https://github.com/json-blueprint/shapecheck)/902 | None |
@@ -974,18 +974,18 @@
 | 4 | 0 | 0 | 2 years ago | [purescript-tagged](https://github.com/LiamGoodacre/purescript-tagged)/971 | Phantom tags |
 | 4 | 2 | 0 | 1 year, 3 months ago | [purescript-mote-runner](https://github.com/slamdata/purescript-mote-runner)/972 | None |
 | 5 | 4 | 1 | 6 months ago | [purescript-versions](https://github.com/hdgarrood/purescript-versions)/973 | A small library defining a Version data type and operations. |
-| 4 | 3 | 1 | 3 months ago | [purescript-invariant](https://github.com/purescript/purescript-invariant)/974 | Invariant functors |
-| 4 | 1 | 1 | 1 year, 4 months ago | [purescript-examples](https://github.com/bouzuya/purescript-examples)/975 | None |
+| 4 | 1 | 1 | 1 year, 4 months ago | [purescript-examples](https://github.com/bouzuya/purescript-examples)/974 | None |
+| 4 | 3 | 1 | 3 months ago | [purescript-invariant](https://github.com/purescript/purescript-invariant)/975 | Invariant functors |
 | 4 | 5 | 3 | 5 days ago | [purescript-gen](https://github.com/purescript/purescript-gen)/976 | A type class for random generator implementations. |
 | 4 | 2 | 1 | 6 years ago | [purescript-chalk](https://github.com/joneshf/purescript-chalk)/977 | None |
 | 4 | 0 | 0 | 3 years ago | [purescript-foreign-generic-example](https://github.com/kozak/purescript-foreign-generic-example)/978 | Example of purescript foreign generic  |
 | 4 | 0 | 0 | 2 years ago | [ptolemy](https://github.com/emilhaugberg/ptolemy)/979 | Visualisation showing the ptolemy's theorem regarding an equilateral triangle inscribed in a circle |
 | 4 | 1 | 0 | 1 year, 1 month ago | [purescript-web-cssom](https://github.com/purescript-web/purescript-web-cssom)/980 | Type definitions and low level interface implementations for the CSS Object Model |
 | 4 | 0 | 1 | 1 year, 6 months ago | [node-hatena-fotolife-cli](https://github.com/bouzuya/node-hatena-fotolife-cli)/981 | Hatena::Fotolife command line interface (unofficial) |
-| 4 | 1 | 1 | 4 years ago | [purescript-http-headers](https://github.com/garyb/purescript-http-headers)/982 | None |
-| 4 | 10 | 7 | 1 year, 6 months ago | [purescript-dom-indexed](https://github.com/purescript-halogen/purescript-dom-indexed)/983 | Typed DOM attributes and properties |
-| 4 | 1 | 0 | 4 years ago | [purescript-stackless-cont](https://github.com/clinuxrulz/purescript-stackless-cont)/984 | Stackless Continuations for PureScript |
-| 4 | 0 | 0 | 5 months ago | [purescript-apiary-server](https://github.com/robertdp/purescript-apiary-server)/985 | None |
+| 4 | 10 | 7 | 1 year, 6 months ago | [purescript-dom-indexed](https://github.com/purescript-halogen/purescript-dom-indexed)/982 | Typed DOM attributes and properties |
+| 4 | 0 | 0 | 5 months ago | [purescript-apiary-server](https://github.com/robertdp/purescript-apiary-server)/983 | None |
+| 4 | 1 | 1 | 4 years ago | [purescript-http-headers](https://github.com/garyb/purescript-http-headers)/984 | None |
+| 4 | 1 | 0 | 4 years ago | [purescript-stackless-cont](https://github.com/clinuxrulz/purescript-stackless-cont)/985 | Stackless Continuations for PureScript |
 | 4 | 0 | 0 | 14 days ago | [purescript-halogen-vdom-independent](https://github.com/ajnsit/purescript-halogen-vdom-independent)/986 | Halogen-vdom, liberated from the web |
 | 4 | 10 | 2 | 2 years ago | [purescript-cookies](https://github.com/dbushenko/purescript-cookies)/987 | None |
 | 4 | 1 | 1 | 4 years ago | [purescript-pixi](https://github.com/Fresheyeball/purescript-pixi)/988 | Pixi.js bindings for Purescript |
