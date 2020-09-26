@@ -1,23 +1,23 @@
 ## This is a most popular repository list for Lua sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 26944 | 3480 | 408 | 10 days ago | [kong](https://github.com/Kong/kong)/1 | 🦍 The Cloud-Native API Gateway  |
+| 26945 | 3481 | 408 | 11 days ago | [kong](https://github.com/Kong/kong)/1 | 🦍 The Cloud-Native API Gateway  |
 | 19381 | 2188 | 114 | 3 months ago | [waifu2x](https://github.com/nagadomi/waifu2x)/2 | Image Super-Resolution for Anime-Style Art |
-| 17672 | 2727 | 321 | 3 years ago | [neural-style](https://github.com/jcjohnson/neural-style)/3 | Torch implementation of neural style algorithm |
+| 17671 | 2727 | 321 | 3 years ago | [neural-style](https://github.com/jcjohnson/neural-style)/3 | Torch implementation of neural style algorithm |
 | 13602 | 3439 | 0 | 11 months ago | [openface](https://github.com/cmusatyalab/openface)/4 | Face recognition with deep neural networks. |
 | 10340 | 2430 | 109 | 4 years ago | [char-rnn](https://github.com/karpathy/char-rnn)/5 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch |
-| 9972 | 1685 | 38 | a month ago | [CycleGAN](https://github.com/junyanz/CycleGAN)/6 | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. |
+| 9973 | 1685 | 38 | a month ago | [CycleGAN](https://github.com/junyanz/CycleGAN)/6 | Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more. |
 | 7912 | 1407 | 72 | a month ago | [pix2pix](https://github.com/phillipi/pix2pix)/7 | Image-to-image translation with conditional adversarial nets |
-| 6980 | 786 | 332 | 52 minutes ago | [koreader](https://github.com/koreader/koreader)/8 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices |
+| 6981 | 786 | 332 | 4 hours ago | [koreader](https://github.com/koreader/koreader)/8 | An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices |
 | 5963 | 348 | 17 | 2 years ago | [dockercraft](https://github.com/docker/dockercraft)/9 | Docker + Minecraft = Dockercraft |
 | 5459 | 884 | 105 | 10 months ago | [VeryNginx](https://github.com/alexazhou/VeryNginx)/10 |  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.  |
-| 4193 | 391 | 121 | 2 years ago | [lsyncd](https://github.com/axkibe/lsyncd)/11 | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets |
+| 4193 | 392 | 122 | 2 years ago | [lsyncd](https://github.com/axkibe/lsyncd)/11 | Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets |
 | 4084 | 963 | 28 | 9 months ago | [DenseNet](https://github.com/liuzhuang13/DenseNet)/12 | Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award). |
 | 3643 | 744 | 135 | 3 years ago | [fast-neural-style](https://github.com/jcjohnson/fast-neural-style)/13 | Feedforward style transfer |
-| 3634 | 151 | 46 | 20 days ago | [lite](https://github.com/rxi/lite)/14 | A lightweight text editor written in Lua |
+| 3635 | 151 | 46 | 20 days ago | [lite](https://github.com/rxi/lite)/14 | A lightweight text editor written in Lua |
 | 3632 | 627 | 14 | 5 months ago | [fairseq](https://github.com/facebookresearch/fairseq)/15 | Facebook AI Research Sequence-to-Sequence Toolkit |
-| 3490 | 443 | 199 | 2 hours ago | [ntopng](https://github.com/ntop/ntopng)/16 | Web-based Traffic and Security Network Traffic Monitoring |
-| 3420 | 409 | 389 | 5 days ago | [awesome](https://github.com/awesomeWM/awesome)/17 | awesome window manager |
+| 3490 | 443 | 199 | 6 hours ago | [ntopng](https://github.com/ntop/ntopng)/16 | Web-based Traffic and Security Network Traffic Monitoring |
+| 3420 | 409 | 389 | 6 days ago | [awesome](https://github.com/awesomeWM/awesome)/17 | awesome window manager |
 | 3392 | 648 | 317 | a day ago | [apisix](https://github.com/apache/apisix)/18 | The Cloud-Native API Gateway |
 | 3227 | 336 | 64 | 4 months ago | [luvit](https://github.com/luvit/luvit)/19 | Lua + libUV + jIT = pure awesomesauce |
 | 3134 | 1271 | 77 | 4 years ago | [ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf)/20 | ngx_lua_waf是一个基于lua-nginx-module(openresty)的web应用防火墙 |
@@ -26,34 +26,34 @@
 | 2909 | 756 | 3 | a month ago | [articles](https://github.com/Wscats/articles)/23 | 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆 |
 | 2679 | 299 | 224 | 10 months ago | [snabb](https://github.com/snabbco/snabb)/24 | Snabb: Simple and fast packet networking |
 | 2465 | 166 | 173 | 4 months ago | [moonscript](https://github.com/leafo/moonscript)/25 | :crescent_moon: A language that compiles to Lua |
-| 2437 | 243 | 1155 | 19 minutes ago | [tarantool](https://github.com/tarantool/tarantool)/26 | Get your data in RAM. Get compute close to data. Enjoy the performance. |
+| 2437 | 243 | 1155 | 4 hours ago | [tarantool](https://github.com/tarantool/tarantool)/26 | Get your data in RAM. Get compute close to data. Enjoy the performance. |
 | 2367 | 355 | 6 | 3 years ago | [neuralart](https://github.com/kaishengtai/neuralart)/27 | An implementation of the paper 'A Neural Algorithm of Artistic Style'. |
 | 2303 | 468 | 48 | 7 months ago | [OpenNMT](https://github.com/OpenNMT/OpenNMT)/28 | Open Source Neural Machine Translation in Torch (deprecated) |
 | 2300 | 505 | 111 | 3 years ago | [torch-rnn](https://github.com/jcjohnson/torch-rnn)/29 | Efficient, reusable RNNs and LSTMs for torch |
 | 2264 | 268 | 227 | a day ago | [CorsixTH](https://github.com/CorsixTH/CorsixTH)/30 | Open source clone of Theme Hospital |
 | 2146 | 355 | 9 | 4 months ago | [nmap-vulners](https://github.com/vulnersCom/nmap-vulners)/31 | NSE script based on Vulners.com API |
 | 2090 | 513 | 12 | 1 year, 2 months ago | [Algorithm-Implementations](https://github.com/kennyledet/Algorithm-Implementations)/32 | Share, discuss and learn about algorithm implementations! |
-| 2084 | 440 | 4 | 3 months ago | [awesome-copycats](https://github.com/lcpz/awesome-copycats)/33 | Awesome WM themes |
-| 2084 | 1386 | 868 | 3 months ago | [PathOfBuilding](https://github.com/Openarl/PathOfBuilding)/34 | Offline build planner for Path of Exile. |
+| 2085 | 440 | 4 | 3 months ago | [awesome-copycats](https://github.com/lcpz/awesome-copycats)/33 | Awesome WM themes |
+| 2084 | 1388 | 869 | 3 months ago | [PathOfBuilding](https://github.com/Openarl/PathOfBuilding)/34 | Offline build planner for Path of Exile. |
 | 2080 | 298 | 13 | 3 years ago | [siggraph2016_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization)/35 | Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.  |
 | 2061 | 532 | 73 | 4 months ago | [orange](https://github.com/orlabs/orange)/36 | OpenResty/Nginx Gateway for API Monitoring and Management. |
-| 2033 | 465 | 77 | 9 days ago | [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)/37 | Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux |
-| 1990 | 648 | 61 | Unknown | [fb.resnet.torch](https://github.com/facebookarchive/fb.resnet.torch)/38 | Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts |
-| 1884 | 337 | 189 | 19 minutes ago | [luarocks](https://github.com/luarocks/luarocks)/39 | LuaRocks is the package manager for the Lua programming language. |
-| 1859 | 731 | 221 | a month ago | [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet)/40 | Jitsi Meet on Docker |
+| 2034 | 465 | 77 | 9 days ago | [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)/37 | Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer; supports Lua 5.1, 5.2, 5.3, 5.4, LuaJIT and other Lua interpreters on Windows, macOS, and Linux |
+| 1990 | 648 | 61 | 10 months ago | [fb.resnet.torch](https://github.com/facebookarchive/fb.resnet.torch)/38 | Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts |
+| 1883 | 337 | 189 | 3 hours ago | [luarocks](https://github.com/luarocks/luarocks)/39 | LuaRocks is the package manager for the Lua programming language. |
+| 1861 | 732 | 221 | a month ago | [docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet)/40 | Jitsi Meet on Docker |
 | 1790 | 547 | 23 | 2 years ago | [DeepMind-Atari-Deep-Q-Learner](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)/41 | The original code from the DeepMind article + my tweaks |
 | 1748 | 502 | 87 | 2 years ago | [crnn](https://github.com/bgshih/crnn)/42 | Convolutional Recurrent Neural Network (CRNN) for image-based sequence recognition. |
-| 1735 | 80 | 31 | Unknown | [z.lua](https://github.com/skywind3000/z.lua)/43 | :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具) |
+| 1735 | 80 | 31 | a month ago | [z.lua](https://github.com/skywind3000/z.lua)/43 | :zap: A new cd command that helps you navigate faster by learning your habits  (带学习功能的快速路径切换工具) |
 | 1708 | 286 | 9 | 8 months ago | [ResNeXt](https://github.com/facebookresearch/ResNeXt)/44 | Implementation of a classification framework from the paper Aggregated Residual Transformations for Deep Neural Networks |
 | 1706 | 386 | 13 | a month ago | [MemNN](https://github.com/facebook/MemNN)/45 | Memory Networks implementations |
-| 1694 | 421 | 5 | Unknown | [vulscan](https://github.com/scipag/vulscan)/46 | Advanced vulnerability scanning with Nmap NSE |
+| 1694 | 421 | 5 | 4 months ago | [vulscan](https://github.com/scipag/vulscan)/46 | Advanced vulnerability scanning with Nmap NSE |
 | 1663 | 291 | 14 | 1 year, 8 months ago | [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN)/47 | Modified implementation of DCGAN focused on generative art. Includes pre-trained models for landscapes, nude-portraits, and others. |
-| 1633 | 135 | 83 | Unknown | [lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl)/48 | On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt. |
+| 1633 | 135 | 83 | 2 months ago | [lua-resty-auto-ssl](https://github.com/auto-ssl/lua-resty-auto-ssl)/48 | On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt. |
 | 1566 | 710 | 17 | 11 months ago | [qipai_algorithm](https://github.com/yuanfengyun/qipai_algorithm)/49 | 棋牌的胡牌算法，包括麻将、跑胡子、扑克。实现 lua 、c++ 、c# 、golang 、js 、java 、python 版本。( Mahjong  algorithm ) |
 | 1531 | 45 | 4 | 3 years ago | [Anycomplete](https://github.com/nathancahill/Anycomplete)/50 | The magic of Google Autocomplete while you're typing. Anywhere. |
-| 1494 | 89 | 27 | Unknown | [luafun](https://github.com/luafun/luafun)/51 | Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind. |
+| 1494 | 89 | 27 | 3 years ago | [luafun](https://github.com/luafun/luafun)/51 | Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind. |
 | 1491 | 388 | 64 | a month ago | [lua-resty-redis](https://github.com/openresty/lua-resty-redis)/52 | Lua redis client driver for the ngx_lua based on the cosocket API |
-| 1446 | 228 | 159 | a day ago | [luakit](https://github.com/luakit/luakit)/53 | Fast, small, webkit based browser framework extensible by Lua. |
+| 1446 | 228 | 159 | 2 days ago | [luakit](https://github.com/luakit/luakit)/53 | Fast, small, webkit based browser framework extensible by Lua. |
 | 1422 | 484 | 33 | 5 months ago | [lua-resty-http](https://github.com/ledgetech/lua-resty-http)/54 | Lua HTTP client cosocket driver for OpenResty / ngx_lua. |
 | 1365 | 292 | 23 | 1 year, 6 months ago | [multipathnet](https://github.com/facebookresearch/multipathnet)/55 | A Torch implementation of the object detection network from "A MultiPath Network for Object Detection" (https://arxiv.org/abs/1604.02135) |
 | 1353 | 153 | 5 | 6 months ago | [keyboard](https://github.com/jasonrudolph/keyboard)/56 | ⌨ Toward a more useful keyboard |
@@ -63,8 +63,8 @@
 | 1238 | 385 | 42 | 1 year, 9 months ago | [dcgan.torch](https://github.com/soumith/dcgan.torch)/60 | A torch implementation of http://arxiv.org/abs/1511.06434 |
 | 1218 | 215 | 11 | 2 years ago | [Faster-High-Res-Neural-Inpainting](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)/61 | High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis |
 | 1196 | 36 | 39 | 2 months ago | [nProbe](https://github.com/ntop/nProbe)/62 | Open source components and extensions for nProbe |
-| 1179 | 196 | 25 | 8 hours ago | [Penlight](https://github.com/lunarmodules/Penlight)/63 | A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries. |
-| 1170 | 89 | 2 | 9 hours ago | [the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles)/64 | A glorified personal dot files |
+| 1179 | 196 | 27 | 12 hours ago | [Penlight](https://github.com/lunarmodules/Penlight)/63 | A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries. |
+| 1170 | 89 | 2 | 13 hours ago | [the-glorious-dotfiles](https://github.com/manilarome/the-glorious-dotfiles)/64 | A glorified personal dot files |
 | 1169 | 337 | 88 | 3 years ago | [vlsub](https://github.com/exebetche/vlsub)/65 | VLC extension to download subtitles from opensubtitles.org |
 | 1154 | 285 | 14 | 3 years ago | [seq2seq-attn](https://github.com/harvardnlp/seq2seq-attn)/66 | Sequence-to-sequence model with LSTM encoder/decoders and attention |
 | 1132 | 220 | 41 | 2 years ago | [texture_nets](https://github.com/DmitryUlyanov/texture_nets)/67 | Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images" paper. |
@@ -73,15 +73,15 @@
 | 1107 | 264 | 26 | 1 year, 1 month ago | [wide-residual-networks](https://github.com/szagoruyko/wide-residual-networks)/70 | 3.8% and 18.3% on CIFAR-10 and CIFAR-100 |
 | 1083 | 59 | 3 | a month ago | [BYTEPATH](https://github.com/a327ex/BYTEPATH)/71 | A replayable arcade shooter with a focus on build theorycrafting made using Lua and LÖVE. |
 | 1072 | 262 | 38 | 3 years ago | [fbcunn](https://github.com/facebookarchive/fbcunn)/72 | Facebook's extensions to torch/cunn. |
-| 1017 | 459 | 64 | a day ago | [minetest_game](https://github.com/minetest/minetest_game)/73 | Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/] |
+| 1017 | 459 | 65 | 2 days ago | [minetest_game](https://github.com/minetest/minetest_game)/73 | Minetest Game - The default game for the Minetest engine [https://github.com/minetest/minetest/] |
 | 994 | 201 | 3 | 2 years ago | [torchnet](https://github.com/facebookarchive/torchnet)/74 | Torch on steroids |
 | 974 | 125 | 60 | 18 days ago | [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)/75 | Quickstart configurations for the Nvim LSP client |
-| 971 | 156 | 14 | 3 years ago | [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style)/76 | Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization |
-| 967 | 67 | 251 | 8 hours ago | [sile](https://github.com/sile-typesetter/sile)/77 | Simon’s Improved Layout Engine |
+| 972 | 156 | 14 | 3 years ago | [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style)/76 | Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization |
+| 967 | 67 | 251 | 12 hours ago | [sile](https://github.com/sile-typesetter/sile)/77 | Simon’s Improved Layout Engine |
 | 948 | 30 | 0 | 1 year, 5 months ago | [lsofgraph](https://github.com/zevv/lsofgraph)/78 | lsof to graphviz |
 | 933 | 146 | 54 | 25 days ago | [busted](https://github.com/Olivine-Labs/busted)/79 | Elegant Lua unit testing. |
-| 923 | 318 | 79 | 2 years ago | [rnn](https://github.com/Element-Research/rnn)/80 | Recurrent Neural Network library for Torch7's nn |
-| 922 | 827 | 28 | 13 days ago | [helloworld](https://github.com/fw876/helloworld)/81 | None |
+| 923 | 828 | 28 | 13 days ago | [helloworld](https://github.com/fw876/helloworld)/80 | None |
+| 923 | 318 | 79 | 2 years ago | [rnn](https://github.com/Element-Research/rnn)/81 | Recurrent Neural Network library for Torch7's nn |
 | 919 | 402 | 36 | 1 year, 11 months ago | [hawkthorne-journey](https://github.com/hawkthorne/hawkthorne-journey)/82 | Digital Estate Planning: The Game |
 | 907 | 171 | 14 | 7 months ago | [lor](https://github.com/sumory/lor)/83 | a fast, minimalist web framework for lua based on OpenResty |
 | 882 | 117 | 20 | 2 years ago | [doomrl](https://github.com/chaosforgeorg/doomrl)/84 | D**m, the Roguelike |
@@ -90,7 +90,7 @@
 | 873 | 224 | 12 | 5 days ago | [lua-protobuf](https://github.com/starwing/lua-protobuf)/87 | A Lua module to work with Google protobuf |
 | 872 | 140 | 3 | 20 days ago | [nginx-lua-prometheus](https://github.com/knyar/nginx-lua-prometheus)/88 | Prometheus metric library for Nginx written in Lua |
 | 871 | 256 | 19 | 2 years ago | [NAMAS](https://github.com/facebookarchive/NAMAS)/89 | Neural Attention Model for Abstractive Summarization |
-| 871 | 206 | 67 | 14 hours ago | [QuestieDev](https://github.com/AeroScripts/QuestieDev)/90 | Questie: the vanilla quest helper |
+| 871 | 207 | 67 | 18 hours ago | [QuestieDev](https://github.com/AeroScripts/QuestieDev)/90 | Questie: the vanilla quest helper |
 | 867 | 125 | 47 | 1 year, 2 months ago | [sailor](https://github.com/sailorproject/sailor)/91 | A Lua MVC Web Framework. |
 | 839 | 522 | 116 | 3 years ago | [telegram-bot](https://github.com/yagop/telegram-bot)/92 | UNMAINTAINED - A Telegram Bot based on plugins |
 | 832 | 234 | 2 | 1 year, 2 months ago | [Crepe](https://github.com/zhangxiangxiao/Crepe)/93 | Character-level Convolutional Networks for Text Classification |
@@ -101,7 +101,7 @@
 | 814 | 224 | 15 | 3 years ago | [Neural-Dialogue-Generation](https://github.com/jiweil/Neural-Dialogue-Generation)/98 | None |
 | 814 | 228 | 14 | 4 years ago | [lstm-char-cnn](https://github.com/yoonkim/lstm-char-cnn)/99 | LSTM language model with CNN over characters |
 | 812 | 151 | 10 | 2 years ago | [inspect.lua](https://github.com/kikito/inspect.lua)/100 | Human-readable representation of Lua tables |
-| 811 | 204 | 8 | 3 months ago | [json.lua](https://github.com/rxi/json.lua)/101 | A lightweight JSON library for Lua |
+| 812 | 205 | 8 | 3 months ago | [json.lua](https://github.com/rxi/json.lua)/101 | A lightweight JSON library for Lua |
 | 806 | 236 | 9 | 3 years ago | [treelstm](https://github.com/stanfordnlp/treelstm)/102 | Tree-structured Long Short-Term Memory networks (http://arxiv.org/abs/1503.00075) |
 | 786 | 356 | 11 | a month ago | [waf](https://github.com/unixhot/waf)/103 | 使用Nginx+Lua实现的WAF（版本v1.0） |
 | 784 | 186 | 46 | a month ago | [MoonGen](https://github.com/emmericp/MoonGen)/104 | MoonGen is a fully scriptable high-speed packet generator built on DPDK and LuaJIT. It can saturate a 10 Gbit/s connection with 64 byte packets on a single CPU core while executing user-provided Lua scripts for each packet. Multi-core support allows for even higher rates. It also features precise and accurate timestamping and rate control. |
@@ -124,13 +124,13 @@
 | 665 | 137 | 9 | 2 years ago | [videogan](https://github.com/cvondrick/videogan)/121 | Generating Videos with Scene Dynamics. NIPS 2016. |
 | 659 | 176 | 140 | 1 year, 4 months ago | [ComputerCraft](https://github.com/dan200/ComputerCraft)/122 | Programmable Computers for Minecraft |
 | 657 | 193 | 10 | 5 months ago | [UnityMMO](https://github.com/liuhaopen/UnityMMO)/123 | an unity mmo demo, base on ecs(game play), xlua(ui) |
-| 656 | 658 | 217 | 2 days ago | [garrysmod](https://github.com/Facepunch/garrysmod)/124 | Sandbox mod for the Source Engine |
+| 656 | 658 | 218 | 2 days ago | [garrysmod](https://github.com/Facepunch/garrysmod)/124 | Sandbox mod for the Source Engine |
 | 642 | 219 | 41 | 3 months ago | [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka)/125 | Lua kafka client driver for the Openresty based on the cosocket API |
 | 640 | 161 | 13 | 3 years ago | [DeepStack-Leduc](https://github.com/lifrordi/DeepStack-Leduc)/126 | Example implementation of the DeepStack algorithm for no-limit Leduc poker |
-| 635 | 52 | 6 | 2 years ago | [NeuralKart](https://github.com/rameshvarun/NeuralKart)/127 | A Real-time Mario Kart AI using CNNs, Offline Search, and DAGGER |
-| 635 | 119 | 44 | 3 days ago | [awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets)/128 | Widgets for Awesome Window Manager |
+| 636 | 119 | 44 | 3 days ago | [awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets)/127 | Widgets for Awesome Window Manager |
+| 635 | 52 | 6 | 2 years ago | [NeuralKart](https://github.com/rameshvarun/NeuralKart)/128 | A Real-time Mario Kart AI using CNNs, Offline Search, and DAGGER |
 | 630 | 217 | 28 | 5 years ago | [redis-lua](https://github.com/nrk/redis-lua)/129 | A Lua client library for the redis key value storage system. |
-| 627 | 137 | 11 | 2 months ago | [MobDebug](https://github.com/pkulchenko/MobDebug)/130 | Remote debugger for Lua. |
+| 628 | 137 | 11 | 2 months ago | [MobDebug](https://github.com/pkulchenko/MobDebug)/130 | Remote debugger for Lua. |
 | 627 | 70 | 11 | 2 years ago | [bump.lua](https://github.com/kikito/bump.lua)/131 | A collision detection library for Lua |
 | 623 | 288 | 11 | 5 years ago | [lstm](https://github.com/wojzaremba/lstm)/132 | None |
 | 619 | 135 | 25 | 2 months ago | [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic)/133 | Lua library for limiting and controlling traffic in OpenResty/ngx_lua |
@@ -142,20 +142,20 @@
 | 591 | 63 | 1 | 2 months ago | [grid-sdk](https://github.com/Planimeter/grid-sdk)/139 | The Grid SDK - Game engine for Lua |
 | 581 | 207 | 48 | a month ago | [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql)/140 | Nonblocking Lua MySQL driver library for ngx_lua or OpenResty |
 | 577 | 202 | 60 | a month ago | [lua-resty-core](https://github.com/openresty/lua-resty-core)/141 | New FFI-based API for lua-nginx-module |
-| 574 | 239 | 17 | 2 months ago | [material-awesome](https://github.com/material-shell/material-awesome)/142 | Material and Mouse driven config for AwesomeWM 4.3 |
+| 574 | 240 | 17 | 2 months ago | [material-awesome](https://github.com/material-shell/material-awesome)/142 | Material and Mouse driven config for AwesomeWM 4.3 |
 | 569 | 318 | 38 | 6 years ago | [protoc-gen-lua](https://github.com/sean-lin/protoc-gen-lua)/143 | Google's Protocol Buffers project, ported to Lua |
 | 567 | 202 | 57 | 11 months ago | [SCNN](https://github.com/XingangPan/SCNN)/144 | Spatial CNN for traffic lane detection (AAAI2018) |
 | 563 | 128 | 2 | 4 years ago | [mario-ai](https://github.com/aleju/mario-ai)/145 | Playing Mario with Deep Reinforcement Learning |
-| 560 | 136 | 28 | 2 years ago | [cmder-powerline-prompt](https://github.com/AmrEldib/cmder-powerline-prompt)/146 | Custom prompt for Cmder on Windows |
-| 559 | 36 | 0 | 8 hours ago | [dotfiles](https://github.com/szorfein/dotfiles)/147 | Dotfiles for unix, managed by GNU stow. |
+| 560 | 135 | 28 | 2 years ago | [cmder-powerline-prompt](https://github.com/AmrEldib/cmder-powerline-prompt)/146 | Custom prompt for Cmder on Windows |
+| 559 | 36 | 0 | 12 hours ago | [dotfiles](https://github.com/szorfein/dotfiles)/147 | Dotfiles for unix, managed by GNU stow. |
 | 557 | 164 | 39 | 15 days ago | [lua-resty-openidc](https://github.com/zmartzone/lua-resty-openidc)/148 | OpenID Connect Relying Party and OAuth 2.0 Resource Server implementation in Lua for NGINX / OpenResty |
-| 555 | 95 | 0 | 2 months ago | [awesome-config](https://github.com/worron/awesome-config)/149 | Awesome WM config |
+| 556 | 96 | 0 | 2 months ago | [awesome-config](https://github.com/worron/awesome-config)/149 | Awesome WM config |
 | 551 | 53 | 2 | 10 months ago | [1808](https://github.com/Cocos-BCX/1808)/150 | None |
-| 547 | 110 | 32 | 3 years ago | [torch-autograd](https://github.com/twitter/torch-autograd)/151 | Autograd automatically differentiates native Torch code |
-| 546 | 370 | 26 | 26 days ago | [luci-app-vssr](https://github.com/jerrykuku/luci-app-vssr)/152 | a new SSR SS V2ray luci app |
-| 543 | 83 | 22 | 14 days ago | [Simple-Tiled-Implementation](https://github.com/karai17/Simple-Tiled-Implementation)/153 | Tiled library for LÖVE |
-| 529 | 232 | 0 | 1 year, 8 months ago | [icsmaster](https://github.com/w3h/icsmaster)/154 | ICS/SCADA Security Resource（整合工控安全相关资源） |
-| 530 | 119 | 8 | 2 years ago | [NTIRE2017](https://github.com/limbee/NTIRE2017)/155 | Torch implementation of "Enhanced Deep Residual Networks for Single Image Super-Resolution" |
+| 547 | 370 | 26 | 26 days ago | [luci-app-vssr](https://github.com/jerrykuku/luci-app-vssr)/151 | a new SSR SS V2ray luci app |
+| 547 | 110 | 32 | 3 years ago | [torch-autograd](https://github.com/twitter/torch-autograd)/152 | Autograd automatically differentiates native Torch code |
+| 543 | 83 | 22 | 15 days ago | [Simple-Tiled-Implementation](https://github.com/karai17/Simple-Tiled-Implementation)/153 | Tiled library for LÖVE |
+| 530 | 119 | 8 | 2 years ago | [NTIRE2017](https://github.com/limbee/NTIRE2017)/154 | Torch implementation of "Enhanced Deep Residual Networks for Single Image Super-Resolution" |
+| 529 | 232 | 0 | 1 year, 8 months ago | [icsmaster](https://github.com/w3h/icsmaster)/155 | ICS/SCADA Security Resource（整合工控安全相关资源） |
 | 528 | 88 | 0 | 3 years ago | [torch-Video-Tutorials](https://github.com/Atcold/torch-Video-Tutorials)/156 | Light your way in Deep Learning with Torch 🔦 |
 | 524 | 50 | 13 | 7 months ago | [lume](https://github.com/rxi/lume)/157 | Lua functions geared towards gamedev |
 | 520 | 102 | 32 | 11 months ago | [Jumper](https://github.com/Yonaba/Jumper)/158 | Fast, lightweight and easy-to-use pathfinding library for grid-based games |
@@ -175,7 +175,7 @@
 | 477 | 199 | 2 | 2 years ago | [x-waf](https://github.com/xsec-lab/x-waf)/172 | 适用于中小企业的云waf |
 | 475 | 19 | 4 | 2 months ago | [luastatic](https://github.com/ers35/luastatic)/173 | Build a standalone executable from a Lua program. |
 | 472 | 114 | 19 | 2 years ago | [word-rnn](https://github.com/larspars/word-rnn)/174 | Recurrent Neural Network that predicts word-by-word |
-| 469 | 81 | 31 | 1 year, 21 days ago | [turbo](https://github.com/kernelsauce/turbo)/175 | Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications. It uses a event-driven, non-blocking, no thread design to deliver excellent performance and minimal footprint to high-load applications while also providing excellent support for embedded uses.  |
+| 469 | 81 | 30 | 1 year, 21 days ago | [turbo](https://github.com/kernelsauce/turbo)/175 | Turbo is a framework built for LuaJIT 2 to simplify the task of building fast and scalable network applications. It uses a event-driven, non-blocking, no thread design to deliver excellent performance and minimal footprint to high-load applications while also providing excellent support for embedded uses.  |
 | 465 | 23 | 0 | 3 years ago | [micro-auth](https://github.com/hypebeast/micro-auth)/176 | A microservice that makes adding authentication with Google and Github to your application easy. |
 | 463 | 96 | 4 | a month ago | [prosody](https://github.com/bjc/prosody)/177 | Clone of Prosody's Mercurial Repository, please do not file PRs or bug reports here, but go to the official website instead. |
 | 462 | 53 | 26 | 6 months ago | [typedlua](https://github.com/andremm/typedlua)/178 | An Optional Type System for Lua |
@@ -194,7 +194,7 @@
 | 421 | 44 | 4 | 3 years ago | [anim8](https://github.com/kikito/anim8)/191 | An animation library for LÖVE |
 | 419 | 41 | 2 | 1 year, 3 months ago | [termtris](https://github.com/tylerneylon/termtris)/192 | A text-based game inspired by tetris. |
 | 417 | 114 | 2 | a month ago | [Soldier76](https://github.com/kiccer/Soldier76)/193 | PUBG - 罗技鼠标宏 | 兴趣使然的项目，完虐收费宏！点个Star支持一下作者！[PUBG - Logitech mouse macro | Support 12 kinds of guns without recoil!] |
-| 414 | 134 | 4 | 3 years ago | [dqn](https://github.com/deepmind/dqn)/194 | Lua/Torch implementation of DQN (Nature, 2015) |
+| 415 | 134 | 4 | 3 years ago | [dqn](https://github.com/deepmind/dqn)/194 | Lua/Torch implementation of DQN (Nature, 2015) |
 | 414 | 96 | 15 | 5 months ago | [nginx-google-oauth](https://github.com/cloudflare/nginx-google-oauth)/195 | Lua module to add Google OAuth to nginx |
 | 409 | 125 | 13 | 3 years ago | [sent-conv-torch](https://github.com/harvardnlp/sent-conv-torch)/196 | Text classification using a convolutional neural network. |
 | 408 | 87 | 12 | 2 years ago | [soundnet](https://github.com/cvondrick/soundnet)/197 | SoundNet: Learning Sound Representations from Unlabeled Video. NIPS 2016 |
@@ -207,11 +207,11 @@
 | 405 | 147 | 5 | 2 months ago | [Activity-Recognition-with-CNN-and-RNN](https://github.com/chihyaoma/Activity-Recognition-with-CNN-and-RNN)/204 | Temporal Segments LSTM and Temporal-Inception for Activity Recognition |
 | 405 | 53 | 76 | 2 years ago | [ljsyscall](https://github.com/justincormack/ljsyscall)/205 | LuaJIT Unix syscall FFI |
 | 405 | 87 | 17 | 1 year, 1 month ago | [surreal](https://github.com/gulvarol/surreal)/206 | Learning from Synthetic Humans, CVPR 2017 |
-| 403 | 28 | 22 | 14 hours ago | [completion-nvim](https://github.com/nvim-lua/completion-nvim)/207 | A async completion framework aims to provide completion to neovim's built in LSP written in Lua |
+| 403 | 28 | 22 | 18 hours ago | [completion-nvim](https://github.com/nvim-lua/completion-nvim)/207 | A async completion framework aims to provide completion to neovim's built in LSP written in Lua |
 | 402 | 104 | 39 | 8 months ago | [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck)/208 | Health Checker for Nginx Upstream Servers in Pure Lua |
 | 402 | 45 | 93 | a day ago | [lua-language-server](https://github.com/sumneko/lua-language-server)/209 | Lua Language Server coded by Lua |
 | 392 | 65 | 10 | a month ago | [debugger.lua](https://github.com/slembcke/debugger.lua)/210 | A simple, embedabble CLI debugger for Lua. |
-| 389 | 568 | 43 | 26 days ago | [pong](https://github.com/games50/pong)/211 | Atari's 1972 classic, implemented in Lua with LÖVE |
+| 389 | 568 | 43 | 27 days ago | [pong](https://github.com/games50/pong)/211 | Atari's 1972 classic, implemented in Lua with LÖVE |
 | 389 | 21 | 11 | 24 days ago | [love-release](https://github.com/MisterDA/love-release)/212 | :love_letter: Lua script that makes LÖVE game release easier |
 | 388 | 294 | 92 | 11 days ago | [wire](https://github.com/wiremod/wire)/213 | Garry's Mod add-on that allows users to wire up components in order to make more elaborate automatic and user-controlled contraptions. |
 | 386 | 143 | 2 | 2 months ago | [AfenarUI](https://github.com/Afenar/AfenarUI)/214 | World of Warcraft User Interface |
@@ -224,8 +224,8 @@
 | 379 | 265 | 77 | 3 months ago | [GroupButler](https://github.com/group-butler/GroupButler)/221 | This bot can help you in managing your group with rules, anti-flood, description, custom triggers, and much more! |
 | 377 | 41 | 38 | 12 days ago | [VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua)/222 | Lua IDE/Debugger Plugin for VSCode |
 | 374 | 84 | 12 | 1 year, 1 month ago | [RDN](https://github.com/yulunzhang/RDN)/223 | Torch code for our CVPR 2018 paper "Residual Dense Network for Image Super-Resolution" (Spotlight) |
-| 373 | 43 | 17 | 3 days ago | [openwisp-config](https://github.com/openwisp/openwisp-config)/224 | OpenWRT configuration agent for OpenWISP Controller |
-| 373 | 49 | 43 | a day ago | [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)/225 | Nvim Treesitter configurations and abstraction layer |
+| 374 | 49 | 44 | 2 days ago | [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)/224 | Nvim Treesitter configurations and abstraction layer |
+| 373 | 43 | 17 | 3 days ago | [openwisp-config](https://github.com/openwisp/openwisp-config)/225 | OpenWRT configuration agent for OpenWISP Controller |
 | 372 | 92 | 5 | 1 year, 10 months ago | [style-swap](https://github.com/rtqichen/style-swap)/226 | code for "Fast Patch-based Style Transfer of Arbitrary Style". |
 | 368 | 25 | 23 | 1 year, 8 months ago | [LuaGB](https://github.com/zeta0134/LuaGB)/227 | A gameboy emulator written in pure Lua. Work in progress. |
 | 367 | 57 | 14 | 8 months ago | [RxLua](https://github.com/bjornbytes/RxLua)/228 | Reactive Extensions for Lua |
@@ -245,15 +245,15 @@
 | 354 | 55 | 53 | 1 year, 2 months ago | [weechat-matrix-protocol-script](https://github.com/torhve/weechat-matrix-protocol-script)/242 | A WeeChat script in Lua that implements the matrix.org chat protocol |
 | 354 | 64 | 1 | 1 year, 7 months ago | [learning-to-communicate](https://github.com/iassael/learning-to-communicate)/243 | Learning to Communicate with Deep Multi-Agent Reinforcement Learning |
 | 353 | 143 | 741 | a day ago | [Zero-K](https://github.com/ZeroK-RTS/Zero-K)/244 | Open source RTS game running on the Spring engine |
-| 352 | 62 | 1 | 2 years ago | [cat-generator](https://github.com/aleju/cat-generator)/245 | Generate cat images with neural networks |
-| 351 | 63 | 21 | a month ago | [opm](https://github.com/openresty/opm)/246 | OpenResty Package Manager |
+| 352 | 63 | 21 | a month ago | [opm](https://github.com/openresty/opm)/245 | OpenResty Package Manager |
+| 352 | 62 | 1 | 2 years ago | [cat-generator](https://github.com/aleju/cat-generator)/246 | Generate cat images with neural networks |
 | 351 | 630 | 0 | 5 days ago | [DarkRP](https://github.com/FPtje/DarkRP)/247 | DarkRP, a non-serious roleplay gamemode for Garry's Mod. |
 | 351 | 143 | 14 | 4 years ago | [stnbhwd](https://github.com/qassemoquab/stnbhwd)/248 | Modules for spatial transformer networks (BHWD layout) |
 | 349 | 142 | 28 | 4 years ago | [dp](https://github.com/nicholas-leonard/dp)/249 | A deep learning library for streamlining research and development using the Torch7 distribution. |
 | 349 | 76 | 4 | 3 years ago | [BayesianRNN](https://github.com/yaringal/BayesianRNN)/250 | Code for the paper "A Theoretically Grounded Application of Dropout in Recurrent Neural Networks" |
 | 348 | 93 | 3 | 8 months ago | [hammerspoon-config](https://github.com/wangshub/hammerspoon-config)/251 | 🔨🥄 Laziness  constitute the primary productive force. |
 | 347 | 161 | 8 | a month ago | [stellaris_cn](https://github.com/cloudwu/stellaris_cn)/252 | Stellaris 群星 汉化 Mod |
-| 344 | 117 | 4 | 3 years ago | [trashnet](https://github.com/garythung/trashnet)/253 | Dataset of images of trash; Torch-based CNN for garbage image classification |
+| 346 | 117 | 4 | 3 years ago | [trashnet](https://github.com/garythung/trashnet)/253 | Dataset of images of trash; Torch-based CNN for garbage image classification |
 | 343 | 174 | 57 | 1 year, 7 months ago | [mtk-openwrt-feeds](https://github.com/Nossiac/mtk-openwrt-feeds)/254 | mtk-openwrt-feeds |
 | 342 | 18 | 1 | 3 years ago | [intermission](https://github.com/basecamp/intermission)/255 | intermission helps you perform zero down time application maintenance |
 | 341 | 156 | 60 | 3 years ago | [cudnn.torch](https://github.com/soumith/cudnn.torch)/256 | Torch-7 FFI bindings for NVIDIA CuDNN |
@@ -266,43 +266,43 @@
 | 331 | 124 | 14 | 4 years ago | [VQA_LSTM_CNN](https://github.com/GT-Vision-Lab/VQA_LSTM_CNN)/263 | Train a deeper LSTM and normalized CNN Visual Question Answering model. This current code can get 58.16 on OpenEnded and 63.09 on Multiple-Choice on test-standard. |
 | 331 | 25 | 29 | 4 days ago | [vim-be-good](https://github.com/ThePrimeagen/vim-be-good)/264 | vim-be-good is a nvim plugin designed to make you better at Vim Movements.  |
 | 329 | 61 | 3 | 3 years ago | [nips2016](https://github.com/reedscot/nips2016)/265 | Learning What and Where to Draw |
-| 328 | 265 | 2 | 7 hours ago | [FrackinUniverse](https://github.com/sayterdarkwynd/FrackinUniverse)/266 | 1.4.4 SB release version of FrackinUniverse |
+| 328 | 265 | 2 | a minute ago | [FrackinUniverse](https://github.com/sayterdarkwynd/FrackinUniverse)/266 | 1.4.4 SB release version of FrackinUniverse |
 | 327 | 40 | 0 | 5 years ago | [pacpac](https://github.com/tylerneylon/pacpac)/267 | A lua-based Pac-Man clone. |
 | 327 | 100 | 19 | 2 years ago | [lua-resty-upload](https://github.com/openresty/lua-resty-upload)/268 | Streaming reader and parser for http file uploading based on ngx_lua cosocket |
 | 326 | 86 | 35 | 1 year, 11 months ago | [lua-websockets](https://github.com/lipp/lua-websockets)/269 | Websockets for Lua. |
 | 325 | 77 | 28 | 5 months ago | [magick](https://github.com/leafo/magick)/270 | Lua bindings to ImageMagick for LuaJIT using FFI |
 | 325 | 38 | 6 | 2 months ago | [apioak](https://github.com/apioak/apioak)/271 | Full Lifecycle Management API Gateway. |
 | 324 | 80 | 8 | 8 months ago | [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache)/272 | Lua-land LRU Cache based on LuaJIT FFI |
-| 322 | 134 | 68 | 4 months ago | [WolfHUD](https://github.com/Kamikaze94/WolfHUD)/273 | Payday 2 HUD |
-| 322 | 89 | 0 | 3 years ago | [MIXER](https://github.com/facebookarchive/MIXER)/274 | Mixed Incremental Cross-Entropy REINFORCE ICLR 2016 |
+| 322 | 89 | 0 | 3 years ago | [MIXER](https://github.com/facebookarchive/MIXER)/273 | Mixed Incremental Cross-Entropy REINFORCE ICLR 2016 |
+| 322 | 134 | 68 | 4 months ago | [WolfHUD](https://github.com/Kamikaze94/WolfHUD)/274 | Payday 2 HUD |
 | 322 | 51 | 3 | 1 year, 9 months ago | [mari0](https://github.com/Stabyourself/mari0)/275 | Mario + Portal platformer |
-| 319 | 484 | 43 | a day ago | [eggs](https://github.com/parkervcp/eggs)/276 | Service eggs for the pterodactyl panel |
+| 319 | 484 | 43 | 2 days ago | [eggs](https://github.com/parkervcp/eggs)/276 | Service eggs for the pterodactyl panel |
 | 319 | 110 | 11 | a month ago | [luaunit](https://github.com/bluebird75/luaunit)/277 | LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be used directly or work with Continuous Integration platforms (Jenkins, Maven, ...). |
 | 318 | 112 | 29 | 8 months ago | [lua-resty-string](https://github.com/openresty/lua-resty-string)/278 | String utilities and common hash functions for ngx_lua and LuaJIT |
 | 318 | 88 | 7 | 2 years ago | [sparse-to-dense](https://github.com/fangchangma/sparse-to-dense)/279 | ICRA 2018  "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (Torch Implementation) |
 | 317 | 113 | 193 | 2 days ago | [EmptyEpsilon](https://github.com/daid/EmptyEpsilon)/280 | Open source bridge simulator. Build with the SeriousProton engine. |
 | 316 | 279 | 3 | 15 days ago | [NanoPi-R2S](https://github.com/soffchen/NanoPi-R2S)/281 | 使用 Github Actions 在线编译内置 OpenClash 的 NanoPi-R2S 固件 |
 | 316 | 92 | 16 | 2 years ago | [pose-hg-demo](https://github.com/princeton-vl/pose-hg-demo)/282 | Code to test and use the model from "Stacked Hourglass Networks for Human Pose Estimation" |
-| 316 | 115 | 25 | 7 hours ago | [MineOS](https://github.com/IgorTimofeev/MineOS)/283 | Home of MineOS and it's software for OpenComputers mod |
+| 316 | 116 | 25 | 11 hours ago | [MineOS](https://github.com/IgorTimofeev/MineOS)/283 | Home of MineOS and it's software for OpenComputers mod |
 | 310 | 39 | 22 | 3 years ago | [pflua](https://github.com/Igalia/pflua)/284 | Packet filtering in Lua |
 | 307 | 646 | 6 | 4 years ago | [TeleSeed](https://github.com/Bambooir/TeleSeed)/285 | A Telegram-CLI Administration Telgram bot in Lua  |
-| 303 | 58 | 2 | 10 hours ago | [ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)/286 | 《明日方舟》游戏数据 |
+| 303 | 58 | 2 | 14 hours ago | [ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)/286 | 《明日方舟》游戏数据 |
 | 303 | 43 | 7 | 1 year, 11 months ago | [HC](https://github.com/vrld/HC)/287 | General purpose collision detection library for the use with LÖVE. |
 | 302 | 44 | 2 | 6 months ago | [chat-censorship](https://github.com/citizenlab/chat-censorship)/288 | Data related to investigation of chat client censorship |
 | 299 | 43 | 9 | 3 years ago | [30log](https://github.com/Yonaba/30log)/289 | 30 lines library for object orientation in Lua |
 | 296 | 20 | 27 | 8 months ago | [mpv_thumbnail_script](https://github.com/TheAMM/mpv_thumbnail_script)/290 | A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies |
-| 294 | 117 | 21 | 5 days ago | [betaflight-tx-lua-scripts](https://github.com/betaflight/betaflight-tx-lua-scripts)/291 | Collection of scripts to configure Betaflight from your TX (currently only supported in OpenTx) |
-| 294 | 52 | 16 | 6 years ago | [metalua](https://github.com/fab13n/metalua)/292 | The metalua programming language |
+| 295 | 52 | 16 | 6 years ago | [metalua](https://github.com/fab13n/metalua)/291 | The metalua programming language |
+| 294 | 117 | 21 | 5 days ago | [betaflight-tx-lua-scripts](https://github.com/betaflight/betaflight-tx-lua-scripts)/292 | Collection of scripts to configure Betaflight from your TX (currently only supported in OpenTx) |
 | 292 | 109 | 6 | 2 years ago | [LuaMemorySnapshotDump](https://github.com/yaukeywang/LuaMemorySnapshotDump)/293 | Lua memory snapshot dump utility, used for memory leak detection。 |
 | 292 | 57 | 13 | 2 years ago | [apigateway](https://github.com/adobe-apiplatform/apigateway)/294 | A Performant API Gateway based on NGINX and Openresty |
 | 290 | 93 | 28 | 3 years ago | [nngraph](https://github.com/torch/nngraph)/295 | Graph Computation for nn |
 | 289 | 15 | 4 | 2 years ago | [l2l](https://github.com/meric/l2l)/296 | Lisp is Lisp. Lua is Lua. Lisp and Lua as One. |
 | 287 | 16 | 1 | a month ago | [factorio-data](https://github.com/wube/factorio-data)/297 | Tracks changes of the lua prototype definitions in factorio inbetween releases. |
 | 287 | 92 | 9 | 4 years ago | [cvpr2016](https://github.com/reedscot/cvpr2016)/298 | Learning Deep Representations of Fine-grained Visual Descriptions |
-| 287 | 45 | 55 | a month ago | [lgi](https://github.com/pavouk/lgi)/299 | Dynamic Lua binding to GObject libraries using GObject-Introspection |
+| 287 | 46 | 56 | a month ago | [lgi](https://github.com/pavouk/lgi)/299 | Dynamic Lua binding to GObject libraries using GObject-Introspection |
 | 286 | 16 | 4 | 3 months ago | [nvimux](https://github.com/hkupty/nvimux)/300 | Neovim as a TMUX replacement |
 | 286 | 29 | 0 | 1 year, 11 months ago | [shake-shake](https://github.com/xgastaldi/shake-shake)/301 | 2.86% and 15.85% on CIFAR-10 and CIFAR-100 |
-| 284 | 116 | 4 | a day ago | [BlizzardInterfaceCode](https://github.com/tomrus88/BlizzardInterfaceCode)/302 | None |
+| 284 | 116 | 4 | 2 days ago | [BlizzardInterfaceCode](https://github.com/tomrus88/BlizzardInterfaceCode)/302 | None |
 | 283 | 116 | 6 | 4 years ago | [Redpoint](https://github.com/digitalbond/Redpoint)/303 | Digital Bond's ICS Enumeration Tools |
 | 283 | 85 | 21 | 20 days ago | [Discordia](https://github.com/SinisterRectus/Discordia)/304 | Discord API library written in Lua for the Luvit runtime environment |
 | 283 | 52 | 7 | 6 months ago | [lua-lockbox](https://github.com/somesocks/lua-lockbox)/305 | A collection of cryptographic primitives written in pure Lua |
@@ -315,10 +315,10 @@
 | 277 | 87 | 0 | 1 year, 4 months ago | [nse_vuln](https://github.com/Rvn0xsy/nse_vuln)/312 | Nmap扫描、漏洞利用脚本 |
 | 277 | 102 | 2 | 3 years ago | [meta-learning-lstm](https://github.com/twitter/meta-learning-lstm)/313 | This repo contains the source code accompanying a scientific paper with the same name. |
 | 276 | 68 | 3 | 3 years ago | [Mio](https://github.com/iresty/Mio)/314 |  API statistics/summary and health datas in NGINX based on OpenResty/ngx_lua, just like NGINX Plus |
-| 272 | 269 | 18 | 2 years ago | [logitech-pubg](https://github.com/liantian-cn/logitech-pubg)/315 | PUBG no recoil script for Logitech gaming mouse / 绝地求生 罗技 鼠标宏 |
-| 271 | 56 | 2 | 4 years ago | [torch-ntm](https://github.com/kaishengtai/torch-ntm)/316 | A Neural Turing Machine implementation in Torch. |
-| 271 | 83 | 18 | 2 days ago | [Lmod](https://github.com/TACC/Lmod)/317 | Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy |
-| 271 | 78 | 41 | 3 days ago | [norns](https://github.com/monome/norns)/318 | norns is many sound instruments. |
+| 272 | 78 | 41 | 3 days ago | [norns](https://github.com/monome/norns)/315 | norns is many sound instruments. |
+| 272 | 269 | 18 | 2 years ago | [logitech-pubg](https://github.com/liantian-cn/logitech-pubg)/316 | PUBG no recoil script for Logitech gaming mouse / 绝地求生 罗技 鼠标宏 |
+| 271 | 56 | 2 | 4 years ago | [torch-ntm](https://github.com/kaishengtai/torch-ntm)/317 | A Neural Turing Machine implementation in Torch. |
+| 271 | 83 | 18 | 3 days ago | [Lmod](https://github.com/TACC/Lmod)/318 | Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy |
 | 271 | 52 | 7 | 11 months ago | [MGANs](https://github.com/chuanli11/MGANs)/319 | Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks |
 | 271 | 63 | 15 | 9 days ago | [repo-base](https://github.com/aby-ui/repo-base)/320 | None |
 | 270 | 141 | 73 | 1 year, 3 months ago | [kong-oidc](https://github.com/nokia/kong-oidc)/321 | OIDC plugin for Kong |
@@ -350,7 +350,7 @@
 | 250 | 91 | 25 | 19 days ago | [LunaUnitFrames](https://github.com/Aviana/LunaUnitFrames)/347 | Unit Frames for WoW Classic |
 | 250 | 45 | 3 | 3 months ago | [NoobHub](https://github.com/Overtorment/NoobHub)/348 | 🌐🔥 Network multiplayer and messaging for CoronaSDK, Moai, Gideros, LÖVE & Defold |
 | 248 | 84 | 10 | 8 months ago | [lua-resty-dns](https://github.com/openresty/lua-resty-dns)/349 | DNS resolver for the nginx lua module |
-| 246 | 252 | 79 | a day ago | [otservbr-global](https://github.com/opentibiabr/otservbr-global)/350 | OTServBR-Global 12x for OpenTibia community. https://forums.otserv.com.br |
+| 246 | 252 | 78 | 8 minutes ago | [otservbr-global](https://github.com/opentibiabr/otservbr-global)/350 | OTServBR-Global 12x for OpenTibia community. https://forums.otserv.com.br |
 | 246 | 4 | 1 | 10 months ago | [croissant](https://github.com/giann/croissant)/351 | 🥐 A Lua REPL and debugger |
 | 246 | 25 | 1 | a month ago | [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player)/352 | MPV-EASY Player - A movie player based on mpv |
 | 245 | 64 | 7 | 8 months ago | [lua-resty-lock](https://github.com/openresty/lua-resty-lock)/353 | Simple nonblocking lock API for ngx_lua based on shared memory dictionaries |
@@ -386,8 +386,8 @@
 | 228 | 29 | 4 | 5 years ago | [bamboo](https://github.com/daogangtang/bamboo)/383 | Bamboo is the web framework of Lua based on Mongrel2, ZeroMQ and NoSQL database. |
 | 227 | 24 | 12 | 5 months ago | [miro-windows-manager](https://github.com/miromannino/miro-windows-manager)/384 | Intuitive and clever mechanism for moving windows using only arrows, even resizing windows by thirds or quarters! For OSX |
 | 226 | 36 | 0 | a month ago | [wow-ui-source](https://github.com/Gethe/wow-ui-source)/385 | git mirror of the user interface source code for World of Warcraft |
-| 225 | 51 | 4 | 4 years ago | [ggnn](https://github.com/yujiali/ggnn)/386 | Gated Graph Sequence Neural Networks |
-| 225 | 27 | 28 | 5 hours ago | [telescope.nvim](https://github.com/nvim-lua/telescope.nvim)/387 | Find, Filter, Preview, Pick. All lua, all the time. |
+| 226 | 27 | 28 | 3 hours ago | [telescope.nvim](https://github.com/nvim-lua/telescope.nvim)/386 | Find, Filter, Preview, Pick. All lua, all the time. |
+| 225 | 51 | 4 | 4 years ago | [ggnn](https://github.com/yujiali/ggnn)/387 | Gated Graph Sequence Neural Networks |
 | 224 | 46 | 10 | 2 years ago | [FSRNet](https://github.com/tyshiwo/FSRNet)/388 | Demo code for our CVPR'18 paper "FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors" (SPOTLIGHT Presentation) |
 | 224 | 34 | 5 | 5 years ago | [gin](https://github.com/ostinelli/gin)/389 | A LUA fast, low-latency, low-memory footprint, web JSON-API framework with Test Driven Development helpers and patterns. |
 | 223 | 44 | 1 | 10 months ago | [lua-state-machine](https://github.com/kyleconroy/lua-state-machine)/390 | A finite state machine lua micro framework |
@@ -405,7 +405,7 @@
 | 218 | 67 | 4 | a day ago | [rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)/402 | 86五笔极点码表 for Rime （鼠须管 - macOS）（小狼毫 - Windows）五笔输入法 |
 | 217 | 41 | 16 | 2 years ago | [lightroom-google-photo-plugin](https://github.com/stanaka/lightroom-google-photo-plugin)/403 | None |
 | 216 | 120 | 43 | 1 year, 6 months ago | [torch-hdf5](https://github.com/deepmind/torch-hdf5)/404 | Torch interface to HDF5 library |
-| 216 | 9 | 13 | 1 year, 7 months ago | [gifine](https://github.com/leafo/gifine)/405 | Quickly record and edit gifs and videos of your desktop |
+| 216 | 9 | 13 | 1 year, 8 months ago | [gifine](https://github.com/leafo/gifine)/405 | Quickly record and edit gifs and videos of your desktop |
 | 215 | 54 | 4 | 12 days ago | [vicious](https://github.com/vicious-widgets/vicious)/406 | Vicious is a modular widget library for the "awesome" window manager. |
 | 214 | 101 | 6 | 2 months ago | [luci-app-dockerman](https://github.com/lisaac/luci-app-dockerman)/407 | Docker Manager interface for LuCI |
 | 214 | 88 | 5 | a month ago | [Nmap-Tools](https://github.com/SpiderLabs/Nmap-Tools)/408 | SpiderLabs shared Nmap Tools |
@@ -419,70 +419,70 @@
 | 211 | 117 | 55 | 7 days ago | [APIcast](https://github.com/3scale/APIcast)/416 | 3scale API Gateway |
 | 210 | 58 | 2 | 4 years ago | [Visualizing-and-Understanding-Neural-Models-in-NLP](https://github.com/jiweil/Visualizing-and-Understanding-Neural-Models-in-NLP)/417 | None |
 | 209 | 80 | 5 | 2 years ago | [arc-robot-vision](https://github.com/andyzeng/arc-robot-vision)/418 | MIT-Princeton Vision Toolbox for Robotic Pick-and-Place at the Amazon Robotics Challenge 2017 - Robotic Grasping and One-shot Recognition of Novel Objects with Deep Learning. |
-| 208 | 47 | 3 | 3 years ago | [lsgan](https://github.com/guojunq/lsgan)/419 | This is the project for LS-GAN (Loss-Sensitive GAN) |
-| 208 | 86 | 12 | 4 months ago | [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS)/420 | A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserialization Using Components with Known Vulnerabilities Insufficient Logging & Monitoring Drupal WordPress Joomla Flash Magento PHP Plone WHMCS Atlassian Products malicious traffic Adult video script avs KVS Kernel Video Sharing Clip Bucket Tube sites Content Management Systems Social networks scripts backends proxy proxies PHP Python Porn sites xxx adult gaming networks servers sites forums vbulletin phpbb mybb smf simple machines forum xenforo web hosting video streaming buffering ldap upstream downstream download upload rtmp vod video over dl hls dash hds mss livestream drm mp4 mp3 swf css js html php python sex m3u zip rar archive compressed mitigation code source sourcecode chan 4chan 4chan.org 8chan.net 8ch 8ch.net infinite chan 8kun 8kun.net anonymous anon tor services .onion torproject.org nginx.org nginx.com openresty.org darknet dark net deepweb deep web darkweb dark web mirror vpn reddit reddit.com adobe flash hackthissite.org dreamhack hack hacked hacking hacker hackers hackerz hackz hacks code coding script scripting scripter source leaks leaked leaking cve vulnerability great firewall china america japan russia .gov government http1 http2 http3 quic q3 litespeedtech litespeed apache torrents torrent torrenting webtorrent bittorrent bitorrent bit-torrent cyberlocker cyberlockers cyber locker cyberbunker warez keygen key generator free irc internet relay chat peer-to-peer p2p cryptocurrency crypto bitcoin miner browser xmr monero coinhive coin hive coin-hive litecoin ethereum cpu cycles popads pop-ads advert advertisement networks banner ads protect ovh blazingfast.io amazon steampowered valve store.steampowered.com steamcommunity thepiratebay lulzsec antisec xhamster pornhub porn.com pornhub.com xhamster.com xvideos xvdideos.com xnxx xnxx.com popads popcash cpm ppc |
+| 209 | 86 | 12 | 4 months ago | [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS)/419 | A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every attack type All Layer 7 Attacks Mitigating Historic Attacks DoS DoS Implications DDoS All Brute Force Attacks Zero day exploits Social Engineering Rainbow Tables Password Cracking Tools Password Lists Dictionary Attacks Time Delay Any Hosting Provider Any CMS or Custom Website Unlimited Attempt Frequency Search Attacks HTTP Basic Authentication HTTP Digest Authentication HTML Form Based Authentication Mask Attacks Rule-Based Search Attacks Combinator Attacks Botnet Attacks Unauthorized IPs IP Whitelisting Bruter THC Hydra John the Ripper Brutus Ophcrack unauthorized logins Injection Broken Authentication and Session Management Sensitive Data Exposure XML External Entities (XXE) Broken Access Control Security Misconfiguration Cross-Site Scripting (XSS) Insecure Deserialization Using Components with Known Vulnerabilities Insufficient Logging & Monitoring Drupal WordPress Joomla Flash Magento PHP Plone WHMCS Atlassian Products malicious traffic Adult video script avs KVS Kernel Video Sharing Clip Bucket Tube sites Content Management Systems Social networks scripts backends proxy proxies PHP Python Porn sites xxx adult gaming networks servers sites forums vbulletin phpbb mybb smf simple machines forum xenforo web hosting video streaming buffering ldap upstream downstream download upload rtmp vod video over dl hls dash hds mss livestream drm mp4 mp3 swf css js html php python sex m3u zip rar archive compressed mitigation code source sourcecode chan 4chan 4chan.org 8chan.net 8ch 8ch.net infinite chan 8kun 8kun.net anonymous anon tor services .onion torproject.org nginx.org nginx.com openresty.org darknet dark net deepweb deep web darkweb dark web mirror vpn reddit reddit.com adobe flash hackthissite.org dreamhack hack hacked hacking hacker hackers hackerz hackz hacks code coding script scripting scripter source leaks leaked leaking cve vulnerability great firewall china america japan russia .gov government http1 http2 http3 quic q3 litespeedtech litespeed apache torrents torrent torrenting webtorrent bittorrent bitorrent bit-torrent cyberlocker cyberlockers cyber locker cyberbunker warez keygen key generator free irc internet relay chat peer-to-peer p2p cryptocurrency crypto bitcoin miner browser xmr monero coinhive coin hive coin-hive litecoin ethereum cpu cycles popads pop-ads advert advertisement networks banner ads protect ovh blazingfast.io amazon steampowered valve store.steampowered.com steamcommunity thepiratebay lulzsec antisec xhamster pornhub porn.com pornhub.com xhamster.com xvideos xvdideos.com xnxx xnxx.com popads popcash cpm ppc |
+| 208 | 47 | 3 | 3 years ago | [lsgan](https://github.com/guojunq/lsgan)/420 | This is the project for LS-GAN (Loss-Sensitive GAN) |
 | 207 | 49 | 45 | 2 years ago | [torch-opencv](https://github.com/VisionLabs/torch-opencv)/421 | OpenCV bindings for Torch. |
-| 206 | 22 | 32 | Unknown | [tex4ebook](https://github.com/michal-h21/tex4ebook)/422 | Convertor from LaTeX to ebook formats (epub, mobi). Using tex4ht and texlua scripts. |
+| 206 | 22 | 32 | 18 days ago | [tex4ebook](https://github.com/michal-h21/tex4ebook)/422 | Convertor from LaTeX to ebook formats (epub, mobi). Using tex4ht and texlua scripts. |
 | 206 | 96 | 19 | 1 year, 2 months ago | [FloorplanTransformation](https://github.com/art-programmer/FloorplanTransformation)/423 | Raster-to-Vector: Revisiting Floorplan Transformation |
 | 205 | 54 | 32 | 6 months ago | [clink-completions](https://github.com/vladimir-kotikov/clink-completions)/424 | Completion files to clink util |
-| 205 | 75 | 7 | Unknown | [binary-human-pose-estimation](https://github.com/1adrianb/binary-human-pose-estimation)/425 | This code implements a demo of the Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources paper by Adrian Bulat and Georgios Tzimiropoulos. |
-| 204 | 14 | 19 | Unknown | [mpv-webm](https://github.com/ekisu/mpv-webm)/426 | Simple WebM maker for mpv, with no external dependencies. |
-| 203 | 43 | 16 | Unknown | [captcha.irctc](https://github.com/arunpatala/captcha.irctc)/427 | Reading irctc captchas with 98% accuracy using deep learning |
-| 202 | 47 | 3 | Unknown | [torch-gan](https://github.com/skaae/torch-gan)/428 | None |
-| 202 | 69 | 46 | Unknown | [ElvUI](https://github.com/ElvUI-WotLK/ElvUI)/429 | ElvUI for World of Warcraft - Wrath of the Lich King (3.3.5a) |
+| 205 | 75 | 7 | 3 years ago | [binary-human-pose-estimation](https://github.com/1adrianb/binary-human-pose-estimation)/425 | This code implements a demo of the Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources paper by Adrian Bulat and Georgios Tzimiropoulos. |
+| 204 | 14 | 19 | a month ago | [mpv-webm](https://github.com/ekisu/mpv-webm)/426 | Simple WebM maker for mpv, with no external dependencies. |
+| 203 | 43 | 16 | 3 years ago | [captcha.irctc](https://github.com/arunpatala/captcha.irctc)/427 | Reading irctc captchas with 98% accuracy using deep learning |
+| 202 | 47 | 3 | 4 years ago | [torch-gan](https://github.com/skaae/torch-gan)/428 | None |
+| 202 | 69 | 46 | 3 days ago | [ElvUI](https://github.com/ElvUI-WotLK/ElvUI)/429 | ElvUI for World of Warcraft - Wrath of the Lich King (3.3.5a) |
 | 202 | 117 | 0 | 4 days ago | [ShestakUI](https://github.com/Shestak/ShestakUI)/430 | User Interface for World of Warcraft |
 | 201 | 55 | 5 | 2 years ago | [fastSceneUnderstanding](https://github.com/davyneven/fastSceneUnderstanding)/431 | segmentation, instance segmentation and single image depth |
 | 201 | 64 | 8 | 1 year, 3 months ago | [KPRN](https://github.com/eBay/KPRN)/432 | Reasoning Over Knowledge Graph Paths for Recommendation |
-| 200 | 39 | 36 | Unknown | [aux-addon](https://github.com/shirsig/aux-addon)/433 | Auction House addOn for Classic (1.13) IMPORTANT: The folder name must be "aux-addon" IMPORTANT: The Vanilla (1.12) version moved here https://github.com/shirsig/aux-addon-vanilla |
-| 200 | 31 | 6 | Unknown | [torch-rnnlib](https://github.com/facebookarchive/torch-rnnlib)/434 | This library provides utilities for creating and manipulating RNNs to model sequential data. |
-| 199 | 65 | 5 | Unknown | [log.lua](https://github.com/rxi/log.lua)/435 | A tiny logging module for Lua |
-| 197 | 62 | 3 | Unknown | [tdengine](https://github.com/tickbh/tdengine)/436 | game server for Rust + Lua |
-| 196 | 65 | 13 | Unknown | [Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)/437 | Torch Implementation of "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network" |
-| 195 | 23 | 7 | Unknown | [lurker](https://github.com/rxi/lurker)/438 | Auto-swaps changed Lua files in a running LÖVE project |
+| 200 | 39 | 36 | 2 months ago | [aux-addon](https://github.com/shirsig/aux-addon)/433 | Auction House addOn for Classic (1.13) IMPORTANT: The folder name must be "aux-addon" IMPORTANT: The Vanilla (1.12) version moved here https://github.com/shirsig/aux-addon-vanilla |
+| 200 | 31 | 6 | 3 years ago | [torch-rnnlib](https://github.com/facebookarchive/torch-rnnlib)/434 | This library provides utilities for creating and manipulating RNNs to model sequential data. |
+| 199 | 65 | 5 | 4 years ago | [log.lua](https://github.com/rxi/log.lua)/435 | A tiny logging module for Lua |
+| 197 | 62 | 3 | 2 years ago | [tdengine](https://github.com/tickbh/tdengine)/436 | game server for Rust + Lua |
+| 196 | 65 | 13 | 3 years ago | [Photo-Realistic-Super-Resoluton](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)/437 | Torch Implementation of "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network" |
+| 195 | 23 | 7 | 3 months ago | [lurker](https://github.com/rxi/lurker)/438 | Auto-swaps changed Lua files in a running LÖVE project |
 | 195 | 21 | 13 | 1 year, 16 days ago | [light_world.lua](https://github.com/tanema/light_world.lua)/439 | A lighting model made for love 2d |
-| 195 | 236 | 80 | Unknown | [oaa](https://github.com/OpenAngelArena/oaa)/440 | A really great Dota 2 game mode. |
-| 194 | 46 | 84 | Unknown | [tch-nginx-gui](https://github.com/Ansuel/tch-nginx-gui)/441 | Modified file to apply to a stock technicolor GUI  |
-| 194 | 64 | 13 | Unknown | [lua-filters](https://github.com/pandoc/lua-filters)/442 | A collection of lua filters for pandoc |
-| 194 | 69 | 7 | Unknown | [lua-resty-rsa](https://github.com/spacewander/lua-resty-rsa)/443 | RSA encrypt/decrypt & sign/verify for OpenResty/LuaJIT |
-| 193 | 25 | 4 | Unknown | [awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles)/444 | Dotfiles for awesome people using the awesomewm linux environment |
-| 193 | 50 | 12 | Unknown | [wifidog-ng](https://github.com/zhaojh329/wifidog-ng)/445 | Next generation WifiDog implemented in Lua. |
-| 192 | 33 | 16 | Unknown | [love-api](https://github.com/love2d-community/love-api)/446 | The whole LÖVE wiki in a Lua table. |
-| 191 | 149 | 31 | Unknown | [optim](https://github.com/torch/optim)/447 | A numeric optimization package for Torch. |
-| 191 | 36 | 0 | Unknown | [OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion)/448 | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4C, 3Gv2, 4Q, miWifi 3C... |
-| 191 | 11 | 5 | Unknown | [tulip](https://github.com/tulip-lang/tulip)/449 | None |
+| 195 | 236 | 80 | 15 days ago | [oaa](https://github.com/OpenAngelArena/oaa)/440 | A really great Dota 2 game mode. |
+| 194 | 46 | 84 | 14 days ago | [tch-nginx-gui](https://github.com/Ansuel/tch-nginx-gui)/441 | Modified file to apply to a stock technicolor GUI  |
+| 194 | 69 | 7 | a month ago | [lua-resty-rsa](https://github.com/spacewander/lua-resty-rsa)/442 | RSA encrypt/decrypt & sign/verify for OpenResty/LuaJIT |
+| 194 | 64 | 13 | a month ago | [lua-filters](https://github.com/pandoc/lua-filters)/443 | A collection of lua filters for pandoc |
+| 193 | 25 | 4 | a month ago | [awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles)/444 | Dotfiles for awesome people using the awesomewm linux environment |
+| 193 | 50 | 12 | 5 months ago | [wifidog-ng](https://github.com/zhaojh329/wifidog-ng)/445 | Next generation WifiDog implemented in Lua. |
+| 192 | 33 | 16 | 2 months ago | [love-api](https://github.com/love2d-community/love-api)/446 | The whole LÖVE wiki in a Lua table. |
+| 191 | 149 | 31 | 2 years ago | [optim](https://github.com/torch/optim)/447 | A numeric optimization package for Torch. |
+| 191 | 36 | 0 | 14 days ago | [OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion)/448 | Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4C, 3Gv2, 4Q, miWifi 3C... |
+| 191 | 11 | 5 | 4 years ago | [tulip](https://github.com/tulip-lang/tulip)/449 | None |
 | 191 | 33 | 6 | 1 year, 7 months ago | [LuaMinify](https://github.com/stravant/LuaMinify)/450 | Lua source code minifier. |
-| 190 | 17 | 15 | Unknown | [shine](https://github.com/richardhundt/shine)/451 | A Shiny Lua Dialect |
+| 190 | 17 | 15 | 2 years ago | [shine](https://github.com/richardhundt/shine)/451 | A Shiny Lua Dialect |
 | 190 | 37 | 4 | 2 years ago | [pose-hg-3d](https://github.com/xingyizhou/pose-hg-3d)/452 | Code repository for Towards 3D Human Pose Estimation in the Wild: a Weakly-supervised Approach |
 | 190 | 64 | 6 | 1 year, 6 months ago | [LoRaWanGateway](https://github.com/JaapBraam/LoRaWanGateway)/453 | A LoRaWan Gateway in LUA |
-| 190 | 28 | 6 | Unknown | [LuLPeg](https://github.com/pygy/LuLPeg)/454 | A port of LPeg 100% written in Lua. |
-| 190 | 13 | 4 | Unknown | [STALKER-X](https://github.com/a327ex/STALKER-X)/455 | Camera module for LÖVE |
-| 189 | 83 | 16 | Unknown | [dpnn](https://github.com/Element-Research/dpnn)/456 | deep extensions to nn |
-| 189 | 57 | 3 | Unknown | [CommNet](https://github.com/facebookarchive/CommNet)/457 | Neural network model, suitable for multi-agent learning. https://arxiv.org/abs/1605.07736 |
-| 189 | 112 | 10 | Unknown | [barebones](https://github.com/bmddota/barebones)/458 | :meat_on_bone: A starter Dota 2 custom game with useful hooks, settings, and libraries. |
-| 189 | 82 | 2 | Unknown | [char-rnn-chinese](https://github.com/zhangzibin/char-rnn-chinese)/459 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch. Based on code of https://github.com/karpathy/char-rnn.  Support Chinese and other things. |
-| 189 | 69 | 9 | Unknown | [3dcnn.torch](https://github.com/charlesq34/3dcnn.torch)/460 | Volumetric CNN for feature extraction and object classification on 3D data. |
-| 188 | 17 | 17 | Unknown | [diagnostic-nvim](https://github.com/nvim-lua/diagnostic-nvim)/461 | A wrapper for neovim built in LSP diagnosis config |
-| 188 | 29 | 1 | Unknown | [yarntown](https://github.com/MaxMraz/yarntown)/462 | yarntown game |
-| 188 | 71 | 74 | Unknown | [lime-packages](https://github.com/libremesh/lime-packages)/463 | OpenWrt packages composing LibreMesh meta-firmware for wireless mesh networking |
-| 187 | 53 | 42 | Unknown | [rapanui](https://github.com/ymobe/rapanui)/464 | High level API for MOAI framework |
-| 187 | 14 | 1 | Unknown | [mpv-stats](https://github.com/Argon-/mpv-stats)/465 | Display file statistics in mpv. Please read "Requirements" to find out which version you need! |
-| 186 | 55 | 5 | Unknown | [dota2ai](https://github.com/adamqqqplay/dota2ai)/466 | This project is a improved Dota2 Bot script based on Valve's default AI. Relase on steam workshop as Ranked Matchmaking AI. This script has more than 1 million current subscribers on Steam Workshop. |
-| 186 | 40 | 4 | Unknown | [algorithm-learning](https://github.com/wojzaremba/algorithm-learning)/467 | None |
-| 185 | 43 | 2 | Unknown | [grid-lstm](https://github.com/coreylynch/grid-lstm)/468 | Torch7 implementation of Grid LSTM as described here: http://arxiv.org/pdf/1507.01526v2.pdf |
-| 185 | 74 | 2 | Unknown | [17moncn](https://github.com/ilsanbao/17moncn)/469 | IP地址归属地查询多语言版 |
-| 185 | 45 | 0 | Unknown | [awesome-wm-config](https://github.com/pw4ever/awesome-wm-config)/470 | awesome window manager config with persistent dynamic tagging |
-| 185 | 76 | 12 | Unknown | [lua-resty-http](https://github.com/liseen/lua-resty-http)/471 | Lua http client driver for the ngx_lua based on the cosocket API |
-| 184 | 134 | 5 | Unknown | [Luat_2G_RDA_8955](https://github.com/openLuat/Luat_2G_RDA_8955)/472 | Luat 2G开源项目，适用于Air202、Air800、Air201等，持续维护 |
-| 184 | 43 | 18 | Unknown | [luacov](https://github.com/keplerproject/luacov)/473 | LuaCov is a simple coverage analyzer for Lua code. |
-| 184 | 13 | 1 | Unknown | [luajit-libuv](https://github.com/pguillory/luajit-libuv)/474 | LuaJIT FFI binding for libuv |
-| 183 | 21 | 6 | Unknown | [rotLove](https://github.com/paulofmandown/rotLove)/475 | Roguelike Toolkit in Love. A Love2D/lua port of rot.js |
-| 183 | 33 | 3 | Unknown | [GAN-weight-norm](https://github.com/stormraiser/GAN-weight-norm)/476 | Code for "On the Effects of Batch and Weight Normalization in Generative Adversarial Networks" |
-| 183 | 36 | 5 | Unknown | [online-neural-doodle](https://github.com/DmitryUlyanov/online-neural-doodle)/477 | Feedforward neural doodle |
-| 183 | 25 | 2 | Unknown | [DDLC-LOVE](https://github.com/LukeZGD/DDLC-LOVE)/478 | An unofficial cross-platform Doki Doki Literature Club port to Lua for different game consoles |
-| 183 | 53 | 8 | Unknown | [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached)/479 | Lua memcached client driver for the ngx_lua based on the cosocket API |
-| 183 | 47 | 7 | Unknown | [router.lua](https://github.com/APItools/router.lua)/480 | A barebones router for Lua. It matches urls and executes lua functions. |
-| 183 | 10 | 4 | Unknown | [wssdl](https://github.com/Snaipe/wssdl)/481 | Wireshark-Specific Dissector Language |
-| 182 | 137 | 29 | Unknown | [es_extended](https://github.com/esx-framework/es_extended)/482 | An FiveM RPG framework |
+| 190 | 28 | 6 | 1 year, 10 months ago | [LuLPeg](https://github.com/pygy/LuLPeg)/454 | A port of LPeg 100% written in Lua. |
+| 190 | 13 | 4 | 1 year, 25 days ago | [STALKER-X](https://github.com/a327ex/STALKER-X)/455 | Camera module for LÖVE |
+| 189 | 83 | 16 | 3 years ago | [dpnn](https://github.com/Element-Research/dpnn)/456 | deep extensions to nn |
+| 189 | 57 | 3 | 3 years ago | [CommNet](https://github.com/facebookarchive/CommNet)/457 | Neural network model, suitable for multi-agent learning. https://arxiv.org/abs/1605.07736 |
+| 189 | 112 | 10 | 3 years ago | [barebones](https://github.com/bmddota/barebones)/458 | :meat_on_bone: A starter Dota 2 custom game with useful hooks, settings, and libraries. |
+| 189 | 82 | 2 | 3 years ago | [char-rnn-chinese](https://github.com/zhangzibin/char-rnn-chinese)/459 | Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch. Based on code of https://github.com/karpathy/char-rnn.  Support Chinese and other things. |
+| 189 | 69 | 9 | 3 years ago | [3dcnn.torch](https://github.com/charlesq34/3dcnn.torch)/460 | Volumetric CNN for feature extraction and object classification on 3D data. |
+| 188 | 17 | 17 | 9 days ago | [diagnostic-nvim](https://github.com/nvim-lua/diagnostic-nvim)/461 | A wrapper for neovim built in LSP diagnosis config |
+| 188 | 29 | 1 | 27 days ago | [yarntown](https://github.com/MaxMraz/yarntown)/462 | yarntown game |
+| 188 | 71 | 74 | 2 days ago | [lime-packages](https://github.com/libremesh/lime-packages)/463 | OpenWrt packages composing LibreMesh meta-firmware for wireless mesh networking |
+| 187 | 53 | 42 | 7 years ago | [rapanui](https://github.com/ymobe/rapanui)/464 | High level API for MOAI framework |
+| 187 | 14 | 1 | 1 year, 9 months ago | [mpv-stats](https://github.com/Argon-/mpv-stats)/465 | Display file statistics in mpv. Please read "Requirements" to find out which version you need! |
+| 186 | 55 | 5 | 7 months ago | [dota2ai](https://github.com/adamqqqplay/dota2ai)/466 | This project is a improved Dota2 Bot script based on Valve's default AI. Relase on steam workshop as Ranked Matchmaking AI. This script has more than 1 million current subscribers on Steam Workshop. |
+| 186 | 40 | 4 | 4 years ago | [algorithm-learning](https://github.com/wojzaremba/algorithm-learning)/467 | None |
+| 185 | 43 | 2 | 4 years ago | [grid-lstm](https://github.com/coreylynch/grid-lstm)/468 | Torch7 implementation of Grid LSTM as described here: http://arxiv.org/pdf/1507.01526v2.pdf |
+| 185 | 74 | 2 | 3 years ago | [17moncn](https://github.com/ilsanbao/17moncn)/469 | IP地址归属地查询多语言版 |
+| 185 | 45 | 0 | 2 months ago | [awesome-wm-config](https://github.com/pw4ever/awesome-wm-config)/470 | awesome window manager config with persistent dynamic tagging |
+| 185 | 76 | 12 | 3 years ago | [lua-resty-http](https://github.com/liseen/lua-resty-http)/471 | Lua http client driver for the ngx_lua based on the cosocket API |
+| 184 | 134 | 5 | a month ago | [Luat_2G_RDA_8955](https://github.com/openLuat/Luat_2G_RDA_8955)/472 | Luat 2G开源项目，适用于Air202、Air800、Air201等，持续维护 |
+| 184 | 43 | 18 | a month ago | [luacov](https://github.com/keplerproject/luacov)/473 | LuaCov is a simple coverage analyzer for Lua code. |
+| 184 | 13 | 1 | 6 years ago | [luajit-libuv](https://github.com/pguillory/luajit-libuv)/474 | LuaJIT FFI binding for libuv |
+| 183 | 21 | 6 | 2 years ago | [rotLove](https://github.com/paulofmandown/rotLove)/475 | Roguelike Toolkit in Love. A Love2D/lua port of rot.js |
+| 183 | 33 | 3 | 2 years ago | [GAN-weight-norm](https://github.com/stormraiser/GAN-weight-norm)/476 | Code for "On the Effects of Batch and Weight Normalization in Generative Adversarial Networks" |
+| 183 | 36 | 5 | 3 years ago | [online-neural-doodle](https://github.com/DmitryUlyanov/online-neural-doodle)/477 | Feedforward neural doodle |
+| 183 | 25 | 2 | 3 months ago | [DDLC-LOVE](https://github.com/LukeZGD/DDLC-LOVE)/478 | An unofficial cross-platform Doki Doki Literature Club port to Lua for different game consoles |
+| 183 | 53 | 8 | 4 months ago | [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached)/479 | Lua memcached client driver for the ngx_lua based on the cosocket API |
+| 183 | 47 | 7 | 2 years ago | [router.lua](https://github.com/APItools/router.lua)/480 | A barebones router for Lua. It matches urls and executes lua functions. |
+| 183 | 10 | 4 | 3 years ago | [wssdl](https://github.com/Snaipe/wssdl)/481 | Wireshark-Specific Dissector Language |
+| 182 | 137 | 29 | a month ago | [es_extended](https://github.com/esx-framework/es_extended)/482 | An FiveM RPG framework |
 | 182 | 36 | 27 | 22 days ago | [queue](https://github.com/tarantool/queue)/483 | Create task queues, add and take jobs, monitor failed tasks |
 | 182 | 50 | 3 | 6 years ago | [LuaAssemblyTools](https://github.com/efrederickson/LuaAssemblyTools)/484 | Lua Assembly/Bytecode Tools. Has functions for virtually all aspects of LASM, including reading/writing, verifying, stripping debug info, LASM decompilation, and LASM parsing. |
 | 181 | 57 | 4 | 2 months ago | [levent](https://github.com/xjdrew/levent)/485 | lua concurrency library based on libev, similar with gevent |
@@ -539,7 +539,7 @@
 | 166 | 40 | 1 | 5 years ago | [cloudfire](https://github.com/coinkite/cloudfire)/536 | CloudFIRE – Decentralized Open-Source Replacement for Cloudflare + Pubnub |
 | 166 | 27 | 0 | 5 years ago | [Lust](https://github.com/weshoke/Lust)/537 | Lua String Templates |
 | 164 | 36 | 0 | 1 year, 4 months ago | [awesome-themes](https://github.com/serialoverflow/awesome-themes)/538 | themes for the current version of awesome-wm |
-| 165 | 52 | 53 | 2 months ago | [roact](https://github.com/Roblox/roact)/539 | A view management library for Roblox Lua similar to React |
+| 165 | 53 | 53 | 2 months ago | [roact](https://github.com/Roblox/roact)/539 | A view management library for Roblox Lua similar to React |
 | 165 | 21 | 2 | 1 year, 3 months ago | [hydrogenApp](https://github.com/hanks-zyh/hydrogenApp)/540 | hydrogen is a pluggable android app |
 | 165 | 33 | 1 | 3 years ago | [SnapshotEnsemble](https://github.com/gaohuang/SnapshotEnsemble)/541 | Snapshot Ensembles in Torch (Snapshot Ensembles: Train 1, Get M for Free) |
 | 164 | 16 | 9 | 18 days ago | [VimMode.spoon](https://github.com/dbalatero/VimMode.spoon)/542 | Adds vim keybindings to all OS X inputs |
@@ -567,7 +567,7 @@
 | 159 | 107 | 1 | 1 year, 5 months ago | [otouto](https://github.com/topkecleon/otouto)/564 | A Lua-based Telegram bot with plugins. |
 | 159 | 18 | 5 | 3 years ago | [lua-resty-repl](https://github.com/saks/lua-resty-repl)/565 | Interactive console (REPL) for Openresty and luajit code |
 | 158 | 48 | 5 | 7 months ago | [copas](https://github.com/keplerproject/copas)/566 | Copas is a dispatcher based on coroutines that can be used by TCP/IP servers. |
-| 158 | 20 | 5 | 2 months ago | [AdrenalineBubbleManager](https://github.com/ONElua/AdrenalineBubbleManager)/567 | Create and organize your direct adrenaline bubbles. |
+| 158 | 20 | 4 | 2 months ago | [AdrenalineBubbleManager](https://github.com/ONElua/AdrenalineBubbleManager)/567 | Create and organize your direct adrenaline bubbles. |
 | 158 | 41 | 53 | 4 months ago | [lit](https://github.com/luvit/lit)/568 | Toolkit for developing, sharing, and running luvit/lua programs and libraries. |
 | 157 | 46 | 5 | 3 years ago | [pose-attention](https://github.com/bearpaw/pose-attention)/569 | Code for "Multi-Context Attention for Human Pose Estimation " (CVPR 2017) |
 | 157 | 61 | 2 | 2 years ago | [mj_ai](https://github.com/yuanfengyun/mj_ai)/570 | 麻将AI算法（包含全概率估算、局部概率估算、深度学习版本） |
@@ -575,7 +575,7 @@
 | 157 | 39 | 3 | 2 years ago | [xavante](https://github.com/keplerproject/xavante)/572 | Xavante is a Lua HTTP 1.1 Web server that uses a modular architecture based on URI mapped handlers. |
 | 156 | 66 | 9 | 4 years ago | [DeepKnowledgeTracing](https://github.com/chrispiech/DeepKnowledgeTracing)/573 | source code for the paper Deep Knowledge Tracing |
 | 155 | 24 | 12 | 2 days ago | [Wyrmsun](https://github.com/Andrettin/Wyrmsun)/574 | Strategy game based on history, mythology and fiction |
-| 154 | 19 | 3 | 3 months ago | [PhotoStation-Upload-Lr-Plugin](https://github.com/flingo64/PhotoStation-Upload-Lr-Plugin)/575 | Photo StatLr (aka PhotoStation Upload) is a Lightroom Publish and Export Service Plugin that enables the export /publishing of photos and videos from Lr to a Synology Photo Station. It uploads the photos/videos and all required thumbnails. It can download comments and ratings and do a real two-way synch of various metadata (tags, ratings, labels). |
+| 154 | 19 | 3 | 4 months ago | [PhotoStation-Upload-Lr-Plugin](https://github.com/flingo64/PhotoStation-Upload-Lr-Plugin)/575 | Photo StatLr (aka PhotoStation Upload) is a Lightroom Publish and Export Service Plugin that enables the export /publishing of photos and videos from Lr to a Synology Photo Station. It uploads the photos/videos and all required thumbnails. It can download comments and ratings and do a real two-way synch of various metadata (tags, ratings, labels). |
 | 154 | 32 | 2 | a month ago | [dot-hammerspoon](https://github.com/zzamboni/dot-hammerspoon)/576 | My personal Hammerspoon configuration - mirrored from GitLab |
 | 154 | 13 | 0 | 8 years ago | [concurrentlua](https://github.com/lefcha/concurrentlua)/577 | Concurrency oriented programming in Lua |
 | 154 | 51 | 7 | 2 years ago | [VideoPredictionICLR2016](https://github.com/coupriec/VideoPredictionICLR2016)/578 | None |
@@ -587,12 +587,12 @@
 | 152 | 32 | 11 | 2 years ago | [api-gateway-aws](https://github.com/adobe-apiplatform/api-gateway-aws)/584 | AWS SDK for NGINX with Lua |
 | 152 | 34 | 2 | 4 years ago | [net2net.torch](https://github.com/soumith/net2net.torch)/585 | Implementation of http://arxiv.org/abs/1511.05641 that lets one build a larger net starting from a smaller one. |
 | 152 | 62 | 2 | 4 years ago | [moochine-demo](https://github.com/appwilldev/moochine-demo)/586 | OpenResty(ngx_lua, http://openresty.org )+Moochine 完整实例  |
-| 152 | 144 | 44 | 30 days ago | [vRP](https://github.com/ImagicTheCat/vRP)/587 | FiveM (http://fivem.net) RP addon/framework |
+| 152 | 144 | 44 | a month ago | [vRP](https://github.com/ImagicTheCat/vRP)/587 | FiveM (http://fivem.net) RP addon/framework |
 | 152 | 14 | 11 | 4 years ago | [lua-inspect](https://github.com/davidm/lua-inspect)/588 | Lua code analysis, with plugins for HTML and SciTE |
 | 151 | 30 | 0 | 2 years ago | [MSG-Net](https://github.com/StacyYang/MSG-Net)/589 | Multi-style Generative Network for Real-time Transfer |
 | 151 | 29 | 2 | 3 years ago | [deep-smile-warp](https://github.com/ddtm/deep-smile-warp)/590 | DeepWarp for Facial Expression Manipulation |
 | 151 | 8 | 3 | 2 years ago | [love3d](https://github.com/excessive/love3d)/591 | A 3D extension for LÖVE 0.10 |
-| 150 | 15 | 1 | 12 hours ago | [awesome_config](https://github.com/actionless/awesome_config)/592 | config for AwesomeWM |
+| 150 | 15 | 1 | 15 hours ago | [awesome_config](https://github.com/actionless/awesome_config)/592 | config for AwesomeWM |
 | 150 | 74 | 2 | 5 months ago | [lua](https://github.com/zrong/lua)/593 | A lua library by zengrong.net |
 | 150 | 12 | 13 | 13 days ago | [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua)/594 | A simple tree for neovim written in lua |
 | 150 | 29 | 23 | 1 year, 30 days ago | [xrnx](https://github.com/renoise/xrnx)/595 | The official Renoise Lua Scripting repository |
@@ -606,7 +606,7 @@
 | 147 | 31 | 7 | 3 years ago | [mnmlUI](https://github.com/khanhas/mnmlUI)/603 | A date and clock collection |
 | 146 | 29 | 0 | 3 years ago | [drc](https://github.com/shubhtuls/drc)/604 | Code release for "Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency" (CVPR 2017) |
 | 145 | 35 | 2 | 4 months ago | [docker-dst-server](https://github.com/Jamesits/docker-dst-server)/605 | Don't Starve Together dedicated server in Docker! |
-| 145 | 26 | 0 | 18 hours ago | [PLoop](https://github.com/kurapica/PLoop)/606 | Prototype Lua object-oriented program system, with many modern features like attribute, overload, etc. For Lua 5.1 or above, include luajit |
+| 145 | 26 | 0 | 21 hours ago | [PLoop](https://github.com/kurapica/PLoop)/606 | Prototype Lua object-oriented program system, with many modern features like attribute, overload, etc. For Lua 5.1 or above, include luajit |
 | 144 | 34 | 27 | 4 years ago | [trAInsported](https://github.com/Germanunkol/trAInsported)/607 | Löve2D Game |
 | 144 | 12 | 0 | 10 years ago | [tokyo-recipes](https://github.com/igrigorik/tokyo-recipes)/608 | Lean & mean Tokyo Cabinet recipes (with Lua) |
 | 144 | 46 | 6 | 2 years ago | [binary-face-alignment](https://github.com/1adrianb/binary-face-alignment)/609 | Real time face alignment  |
@@ -622,7 +622,7 @@
 | 141 | 24 | 4 | 3 years ago | [SampleRNN_torch](https://github.com/richardassar/SampleRNN_torch)/619 | Torch implementation of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model |
 | 142 | 221 | 10 | 1 year, 7 months ago | [BDReborn](https://github.com/BeyondTeam/BDReborn)/620 | An administration bot based on ➣ https://valtman.name/telegram-cli :) |
 | 140 | 58 | 0 | 2 months ago | [awesome-config](https://github.com/superhj1987/awesome-config)/621 | a common useful server config,including nginx,mysql,tomcat,redis |
-| 140 | 310 | 73 | 6 days ago | [Lua](https://github.com/Windower/Lua)/622 | Lua Addons and Scripts |
+| 140 | 310 | 73 | 7 days ago | [Lua](https://github.com/Windower/Lua)/622 | Lua Addons and Scripts |
 | 140 | 42 | 2 | 4 years ago | [rlntm](https://github.com/ilyasu123/rlntm)/623 | An implementation of the RL-NTM from http://arxiv.org/abs/1505.00521 |
 | 140 | 11 | 6 | 9 days ago | [acid.nvim](https://github.com/clojure-vim/acid.nvim)/624 | Asynchronous Clojure Interactive Development |
 | 140 | 89 | 37 | 14 days ago | [BigWigs](https://github.com/BigWigsMods/BigWigs)/625 | Modular, lightweight, non-intrusive approach to boss encounter warnings. |
@@ -636,7 +636,7 @@
 | 137 | 63 | 46 | 3 days ago | [RedMew](https://github.com/Refactorio/RedMew)/633 | The RedMew scenario code for Factorio. |
 | 137 | 61 | 13 | 6 years ago | [lualogging](https://github.com/Neopallium/lualogging)/634 | LuaLogging provides a simple API to use logging features in Lua. Its design was based on log4j. |
 | 135 | 6 | 0 | 8 years ago | [tamale](https://github.com/silentbicycle/tamale)/635 | TAble MAtching Lua Extension - An Erlang-style pattern-matching library for Lua |
-| 135 | 31 | 2 | 22 hours ago | [lua-resty-worker-events](https://github.com/Kong/lua-resty-worker-events)/636 | Cross Worker Events for Nginx in Pure Lua |
+| 135 | 31 | 2 | a day ago | [lua-resty-worker-events](https://github.com/Kong/lua-resty-worker-events)/636 | Cross Worker Events for Nginx in Pure Lua |
 | 135 | 100 | 0 | 6 years ago | [LoveClear](https://github.com/crosslife/LoveClear)/637 | 天天爱消除demo |
 | 135 | 12 | 5 | 3 years ago | [loom](https://github.com/cloudflare/loom)/638 | Easier to read LuaJIT dumps |
 | 135 | 49 | 6 | 5 years ago | [XiaomiMiBand](https://github.com/KashaMalaga/XiaomiMiBand)/639 | Patches for Xiaomi Mi Band Android App (Smali Project) |
@@ -652,14 +652,14 @@
 | 133 | 94 | 58 | a month ago | [Remotes](https://github.com/unifiedremote/Remotes)/649 | None |
 | 133 | 28 | 10 | 1 year, 9 months ago | [BOOSTreveng](https://github.com/JorgePe/BOOSTreveng)/650 | Reverse engineering the LEGO BOOST Hub |
 | 133 | 15 | 2 | 3 years ago | [stateful.lua](https://github.com/kikito/stateful.lua)/651 | Stateful classes for Lua |
-| 132 | 41 | 10 | 4 years ago | [openresty](https://github.com/ficusio/openresty)/652 | Lightweight OpenResty Docker image |
-| 132 | 45 | 0 | 2 years ago | [SentenceSim](https://github.com/fssqawj/SentenceSim)/653 |  中文短文句相似读 |
+| 132 | 45 | 0 | 2 years ago | [SentenceSim](https://github.com/fssqawj/SentenceSim)/652 |  中文短文句相似读 |
+| 132 | 41 | 10 | 4 years ago | [openresty](https://github.com/ficusio/openresty)/653 | Lightweight OpenResty Docker image |
 | 132 | 24 | 14 | 2 years ago | [boipushy](https://github.com/a327ex/boipushy)/654 | Input module for LÖVE |
 | 132 | 68 | 7 | 2 years ago | [skynet_websocket](https://github.com/Skycrab/skynet_websocket)/655 | skynet websocket(lua) |
 | 132 | 10 | 14 | 7 months ago | [mpv-youtube-quality](https://github.com/jgreco/mpv-youtube-quality)/656 | A userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly |
 | 131 | 18 | 5 | 4 years ago | [lua2go](https://github.com/theganyo/lua2go)/657 | Easy access to your Go (Golang) modules from Lua and NGINX! |
 | 131 | 7 | 2 | 7 years ago | [lua-channels](https://github.com/majek/lua-channels)/658 | Go style channels in pure Lua |
-| 131 | 5 | 1 | 21 hours ago | [dotfiles](https://github.com/JavaCafe01/dotfiles)/659 | Welcome to my rice repo 🍚 |
+| 131 | 5 | 1 | a day ago | [dotfiles](https://github.com/JavaCafe01/dotfiles)/659 | Welcome to my rice repo 🍚 |
 | 131 | 33 | 4 | 4 years ago | [draw](https://github.com/vivanov879/draw)/660 | Torch implementation of DRAW: A Recurrent Neural Network For Image Generation |
 | 131 | 23 | 4 | 4 years ago | [Variational-LSTM-Autoencoder](https://github.com/cheng6076/Variational-LSTM-Autoencoder)/661 | Variational Seq2Seq model |
 | 130 | 36 | 0 | 4 years ago | [shodan-hq-nse](https://github.com/glennzw/shodan-hq-nse)/662 | Shodan HQ nmap plugin - passively scan targets |
@@ -700,7 +700,7 @@
 | 124 | 34 | 4 | 4 years ago | [lua-resty-shell](https://github.com/juce/lua-resty-shell)/697 | tiny subprocess/shell library to use with OpenResty application server |
 | 124 | 57 | 5 | 8 years ago | [ipam-tutorials](https://github.com/clementfarabet/ipam-tutorials)/698 | IPAM Tutorials on Theano/Torch |
 | 124 | 36 | 5 | 1 year, 4 months ago | [data2text](https://github.com/harvardnlp/data2text)/699 | None |
-| 124 | 49 | 21 | 23 days ago | [MOOSE](https://github.com/FlightControl-Master/MOOSE)/700 | Mission Object Oriented Scripting Environment (MOOSE) for lua mission scripting design in DCS World |
+| 124 | 49 | 21 | 24 days ago | [MOOSE](https://github.com/FlightControl-Master/MOOSE)/700 | Mission Object Oriented Scripting Environment (MOOSE) for lua mission scripting design in DCS World |
 | 123 | 92 | 7 | 2 years ago | [cartographer_turtlebot](https://github.com/cartographer-project/cartographer_turtlebot)/701 | Provides TurtleBot integration for Cartographer. |
 | 123 | 45 | 12 | 1 year, 6 months ago | [kong-middleman-plugin](https://github.com/pantsel/kong-middleman-plugin)/702 | A Kong plugin that enables you to make an extra HTTP POST request before calling an API. |
 | 123 | 24 | 0 | 4 years ago | [static-tools](https://github.com/ZephrFish/static-tools)/703 | Static compiled binaries + scripts ready to use on systems |
@@ -709,30 +709,30 @@
 | 123 | 12 | 2 | 1 year, 5 months ago | [binser](https://github.com/bakpakin/binser)/706 | Customizable Lua Serializer |
 | 123 | 53 | 0 | 5 months ago | [luci-app-diskman](https://github.com/lisaac/luci-app-diskman)/707 | Disk Manager for LuCI |
 | 123 | 36 | 0 | 4 years ago | [easyStyle](https://github.com/Teaonly/easyStyle)/708 | All kinds of neural style transformer |
-| 123 | 14 | 4 | 4 years ago | [clnn](https://github.com/hughperkins/clnn)/709 | OpenCL backend for Torch nn neural networks library |
-| 123 | 21 | 1 | 6 years ago | [cron.lua](https://github.com/kikito/cron.lua)/710 | Time-related functions for Lua, inspired in javascript's setTimeout and setInterval |
-| 122 | 10 | 0 | 10 months ago | [ctfs](https://github.com/0ops/ctfs)/711 | All ctf challs and scripts (and writeup, maybe) from 0ops. |
-| 122 | 36 | 3 | 1 year, 3 months ago | [PiL3](https://github.com/xfbs/PiL3)/712 | My solutions to the exercises from the book "Programming in Lua 3" by Roberto Ierusalimschy |
-| 122 | 40 | 62 | 3 months ago | [rackspace-monitoring-agent](https://github.com/virgo-agent-toolkit/rackspace-monitoring-agent)/713 | Rackspace Cloud Monitoring Agent |
-| 122 | 42 | 8 | 24 days ago | [AeroGameFramework](https://github.com/Sleitnick/AeroGameFramework)/714 | AeroGameFramework is a Roblox game framework that makes development easy and fun. The framework is designed to simplify the communication between modules and seamlessly bridge the gap between the server and client. |
-| 122 | 3 | 3 | 10 days ago | [nvim-dap](https://github.com/mfussenegger/nvim-dap)/715 | Debug Adapter Protocol client implementation for Neovim (>= 0.5) |
+| 123 | 3 | 3 | 11 days ago | [nvim-dap](https://github.com/mfussenegger/nvim-dap)/709 | Debug Adapter Protocol client implementation for Neovim (>= 0.5) |
+| 123 | 14 | 4 | 4 years ago | [clnn](https://github.com/hughperkins/clnn)/710 | OpenCL backend for Torch nn neural networks library |
+| 123 | 21 | 1 | 6 years ago | [cron.lua](https://github.com/kikito/cron.lua)/711 | Time-related functions for Lua, inspired in javascript's setTimeout and setInterval |
+| 122 | 10 | 0 | 10 months ago | [ctfs](https://github.com/0ops/ctfs)/712 | All ctf challs and scripts (and writeup, maybe) from 0ops. |
+| 122 | 36 | 3 | 1 year, 3 months ago | [PiL3](https://github.com/xfbs/PiL3)/713 | My solutions to the exercises from the book "Programming in Lua 3" by Roberto Ierusalimschy |
+| 122 | 40 | 62 | 3 months ago | [rackspace-monitoring-agent](https://github.com/virgo-agent-toolkit/rackspace-monitoring-agent)/714 | Rackspace Cloud Monitoring Agent |
+| 122 | 42 | 8 | 24 days ago | [AeroGameFramework](https://github.com/Sleitnick/AeroGameFramework)/715 | AeroGameFramework is a Roblox game framework that makes development easy and fun. The framework is designed to simplify the communication between modules and seamlessly bridge the gap between the server and client. |
 | 122 | 38 | 0 | 2 years ago | [PyramidNet](https://github.com/jhkim89/PyramidNet)/716 | Torch implementation of the paper "Deep Pyramidal Residual Networks" (https://arxiv.org/abs/1610.02915). |
 | 121 | 58 | 0 | 1 year, 8 months ago | [kuanli_server](https://github.com/ZhouWeikuan/kuanli_server)/717 | 基于skynet实现的宽立游戏服务器，支持斗地主等棋牌游戏和贪吃蛇大作战等休闲游戏 |
 | 121 | 14 | 40 | 1 year, 10 months ago | [lua-repl](https://github.com/hoelzro/lua-repl)/718 | A Lua REPL implemented in Lua for embedding in other programs |
 | 121 | 27 | 8 | 3 years ago | [manifold](https://github.com/clementfarabet/manifold)/719 | A package to manipulate manifolds. |
 | 120 | 47 | 0 | 7 years ago | [Belial](https://github.com/nixuehan/Belial)/720 | 基于nginx lua module 的一个 waf . |
 | 120 | 17 | 4 | 3 years ago | [geo.lua](https://github.com/RedisLabs/geo.lua)/721 | A helper library for Redis geospatial indices |
-| 120 | 34 | 2 | 16 hours ago | [OPQ](https://github.com/OPQBOT/OPQ)/722 | OPQ RST UVW XYZ |
+| 120 | 34 | 2 | 19 hours ago | [OPQ](https://github.com/OPQBOT/OPQ)/722 | OPQ RST UVW XYZ |
 | 119 | 63 | 0 | 2 months ago | [kong-plugin](https://github.com/Kong/kong-plugin)/723 | Simple template to get started with custom Kong plugins |
 | 119 | 95 | 46 | 2 years ago | [postapoc](https://github.com/Ofaloaf/postapoc)/724 | After the End is a post-apocalypse total conversion mod for Crusader Kings II |
 | 119 | 55 | 4 | 1 year, 20 days ago | [RillServer](https://github.com/cloudfreexiao/RillServer)/725 | skynet game server |
 | 119 | 3 | 7 | 1 year, 7 months ago | [dls-schematics](https://github.com/jdryg/dls-schematics)/726 | Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.itch.io/dls |
-| 119 | 5 | 4 | a day ago | [durden](https://github.com/letoram/durden)/727 | Desktop Environment for Arcan |
-| 119 | 55 | 35 | 24 days ago | [VehicleControlAddon](https://github.com/Mogli12/VehicleControlAddon)/728 | Farming Simulator 2019: Smoother steering with the key board and more... |
+| 119 | 5 | 4 | 2 days ago | [durden](https://github.com/letoram/durden)/727 | Desktop Environment for Arcan |
+| 119 | 55 | 35 | 25 days ago | [VehicleControlAddon](https://github.com/Mogli12/VehicleControlAddon)/728 | Farming Simulator 2019: Smoother steering with the key board and more... |
 | 119 | 37 | 11 | a day ago | [Factorio-Stdlib](https://github.com/Afforess/Factorio-Stdlib)/729 | Factorio Standard Library Project |
 | 119 | 65 | 2 | 1 year, 5 months ago | [nginx-zuul-dynamic-lb](https://github.com/SpringCloud/nginx-zuul-dynamic-lb)/730 | :maple_leaf: 基于Lua的Spring Cloud网关高可用通用Ngnix插件 |
 | 117 | 26 | 58 | a month ago | [spring1944](https://github.com/spring1944/spring1944)/731 | WWII RTS game using the Spring engine |
-| 117 | 19 | 3 | 16 days ago | [ONEMenu-for-PSVita](https://github.com/ONElua/ONEMenu-for-PSVita)/732 | OneMenu for PSVita is a simple to use UI which separates the installed games and apps into categories, Onemenu comes with a built in file explorer |
+| 117 | 19 | 3 | 17 days ago | [ONEMenu-for-PSVita](https://github.com/ONElua/ONEMenu-for-PSVita)/732 | OneMenu for PSVita is a simple to use UI which separates the installed games and apps into categories, Onemenu comes with a built in file explorer |
 | 118 | 51 | 6 | 1 year, 29 days ago | [h264extractor](https://github.com/volvet/h264extractor)/733 | wireshark plugin to extract h264 or opus stream from rtp packets |
 | 117 | 44 | 9 | 2 years ago | [face-alignment-training](https://github.com/1adrianb/face-alignment-training)/734 | Training code for the networks described in "How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)" paper. |
 | 117 | 46 | 30 | 10 days ago | [NevermoreEngine](https://github.com/Quenty/NevermoreEngine)/735 | ModuleScript loader with reusable and easy unified server-client modules for faster game development on Roblox |
@@ -757,7 +757,7 @@
 | 114 | 36 | 17 | 2 years ago | [dress](https://github.com/XingxingZhang/dress)/754 | DRESS simplification model (EMNLP 2017) described in http://aclweb.org/anthology/D/D17/D17-1062.pdf |
 | 112 | 19 | 0 | 1 year, 6 months ago | [yue-sample-apps](https://github.com/yue/yue-sample-apps)/755 | Sample apps of Yue |
 | 113 | 30 | 8 | 6 months ago | [lua-aws](https://github.com/umegaya/lua-aws)/756 | pure-lua implementation of aws REST APIs |
-| 113 | 24 | 5 | 15 days ago | [redx](https://github.com/rstudio/redx)/757 | dynamic nginx configuration |
+| 113 | 24 | 5 | 16 days ago | [redx](https://github.com/rstudio/redx)/757 | dynamic nginx configuration |
 | 113 | 50 | 213 | 2 days ago | [Bagnon](https://github.com/tullamods/Bagnon)/758 | Single window displays for you items |
 | 113 | 137 | 66 | 6 days ago | [technic](https://github.com/minetest-mods/technic)/759 | Technic mod for Minetest |
 | 113 | 26 | 5 | 3 years ago | [kaiwa-server](https://github.com/getkaiwa/kaiwa-server)/760 | Kaiwa XMPP Server |
@@ -777,17 +777,17 @@
 | 110 | 6 | 4 | 4 months ago | [VitaGrafixConfigurator](https://github.com/Kirezar/VitaGrafixConfigurator)/774 | A GUI Configurator for the VitaGrafix plugin |
 | 110 | 33 | 0 | 5 days ago | [Evolution-RTS](https://github.com/EvolutionRTS/Evolution-RTS)/775 | Evolution RTS is a free an Open Source RTS game designed using the Spring Engine. |
 | 110 | 28 | 39 | 3 years ago | [DotaCraft](https://github.com/MNoya/DotaCraft)/776 | Bringing back the legendary RTS game from which Dota was created |
-| 109 | 21 | 20 | 1 year, 9 months ago | [awesome-configs](https://github.com/Elv13/awesome-configs)/777 | My AwesomeWM configuration |
-| 109 | 13 | 1 | 2 years ago | [mvcSnP](https://github.com/shubhtuls/mvcSnP)/778 | Code release for "Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction" |
+| 109 | 13 | 1 | 2 years ago | [mvcSnP](https://github.com/shubhtuls/mvcSnP)/777 | Code release for "Multi-view Consistency as Supervisory Signal for Learning Shape and Pose Prediction" |
+| 109 | 21 | 20 | 1 year, 9 months ago | [awesome-configs](https://github.com/Elv13/awesome-configs)/778 | My AwesomeWM configuration |
 | 109 | 142 | 2 | 5 days ago | [BadRotations](https://github.com/CuteOne/BadRotations)/779 | None |
 | 109 | 60 | 6 | 1 year, 10 months ago | [NodeMCU-HTTP-Server](https://github.com/wangzexi/NodeMCU-HTTP-Server)/780 | A lightweight HTTP server for NodeMCU. |
 | 109 | 4 | 0 | 9 months ago | [EdgeNormals](https://github.com/securas/EdgeNormals)/781 | An aseprite script to compute fake normal maps at the edges of sprites. |
 | 108 | 26 | 1 | 1 year, 10 months ago | [vgg-memoji](https://github.com/patniemeyer/vgg-memoji)/782 | Generating Memoji from Photos |
-| 108 | 5 | 3 | 5 hours ago | [nvimpager](https://github.com/lucc/nvimpager)/783 | Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting |
+| 108 | 5 | 3 | 8 hours ago | [nvimpager](https://github.com/lucc/nvimpager)/783 | Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting |
 | 108 | 56 | 0 | 2 years ago | [Deep-Android-Malware-Detection](https://github.com/niallmcl/Deep-Android-Malware-Detection)/784 | Code for Deep Android Malware Detection paper |
 | 108 | 19 | 26 | 2 years ago | [lua-fmt](https://github.com/trixnz/lua-fmt)/785 | lua-fmt is pretty-printer for Lua code |
 | 108 | 36 | 33 | 11 months ago | [ShestakUI_Classic](https://github.com/EsreverWoW/ShestakUI_Classic)/786 | ShestakUI for WoW Classic (1.13.2) |
-| 107 | 164 | 464 | 15 hours ago | [topaz](https://github.com/project-topaz/topaz)/787 | Server emulator for FFXI |
+| 107 | 164 | 464 | 18 hours ago | [topaz](https://github.com/project-topaz/topaz)/787 | Server emulator for FFXI |
 | 107 | 68 | 4 | 2 days ago | [ReaScripts](https://github.com/ReaTeam/ReaScripts)/788 | Community-maintained collection of scripts for REAPER |
 | 107 | 30 | 3 | 2 years ago | [Dont-Starve-Together-Docker-Cluster](https://github.com/Thoxvi/Dont-Starve-Together-Docker-Cluster)/789 | 根据配置文件快速建立饥荒联机版(DST)Docker集群 |
 | 107 | 36 | 1 | 7 years ago | [squish](https://github.com/LuaDist/squish)/790 | Squish Lua libraries and apps into a single compact file. |
@@ -827,8 +827,8 @@
 | 102 | 6 | 2 | 3 years ago | [torch-decisiontree](https://github.com/twitter/torch-decisiontree)/824 | This project implements random forests and gradient boosted decision trees (GBDT). The latter uses gradient tree boosting. Both use ensemble learning to produce ensembles of decision trees (that is, forests). |
 | 102 | 6 | 1 | a month ago | [lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim)/825 | Utility functions for getting diagnostic status and progress messages from LSP servers, for use in the Neovim statusline |
 | 102 | 42 | 5 | 3 years ago | [ImageNet-Training](https://github.com/eladhoffer/ImageNet-Training)/826 | ImageNet training using torch |
-| 102 | 130 | 348 | 11 days ago | [fa](https://github.com/FAForever/fa)/827 | Lua code for FAF |
-| 102 | 13 | 3 | 1 year, 6 months ago | [baton](https://github.com/tesselode/baton)/828 | An input library for LÖVE. |
+| 102 | 130 | 348 | 12 days ago | [fa](https://github.com/FAForever/fa)/827 | Lua code for FAF |
+| 102 | 13 | 3 | 1 year, 7 months ago | [baton](https://github.com/tesselode/baton)/828 | An input library for LÖVE. |
 | 101 | 19 | 4 | 2 years ago | [Arcade](https://github.com/naman14/Arcade)/829 | Neural style in Android |
 | 101 | 2 | 1 | 4 years ago | [dotfiles](https://github.com/onodera-punpun/dotfiles)/830 | My dotfiles and themes. |
 | 101 | 18 | 0 | 6 months ago | [lua_live_coding](https://github.com/Unity-Technologies/lua_live_coding)/831 | None |
@@ -873,8 +873,8 @@
 | 96 | 84 | 19 | 2 years ago | [NutScript](https://github.com/Chessnut/NutScript)/870 | A free role-play framework for Garry's Mod. |
 | 96 | 7 | 4 | 4 years ago | [LPegLJ](https://github.com/sacek/LPegLJ)/871 | LPeg version 1.0 Parser in pure LuaJIT |
 | 96 | 29 | 1 | 3 years ago | [MaTaDoR](https://github.com/MaTaDoRTeaM/MaTaDoR)/872 | None |
-| 96 | 29 | 0 | 2 years ago | [ngx-lua-zuul](https://github.com/tietang/ngx-lua-zuul)/873 | 基于Nginx&Lua 和Netflix Eureka的微服务网关。请看看：https://github.com/tietang/zebra |
-| 96 | 44 | 12 | 7 years ago | [lua-matrix](https://github.com/davidm/lua-matrix)/874 | Matrices and vectors of are real, complex, and symbolic elements, implemented as Lua tables. |
+| 96 | 44 | 12 | 7 years ago | [lua-matrix](https://github.com/davidm/lua-matrix)/873 | Matrices and vectors of are real, complex, and symbolic elements, implemented as Lua tables. |
+| 96 | 29 | 0 | 2 years ago | [ngx-lua-zuul](https://github.com/tietang/ngx-lua-zuul)/874 | 基于Nginx&Lua 和Netflix Eureka的微服务网关。请看看：https://github.com/tietang/zebra |
 | 95 | 8 | 12 | 3 years ago | [FA](https://github.com/Bulat-Ziganshin/FA)/875 | FreeArc'Next |
 | 95 | 37 | 6 | 1 year, 10 months ago | [lbcnn.torch](https://github.com/juefeix/lbcnn.torch)/876 | Torch implementation of CVPR'17 - Local Binary Convolutional Neural Networks http://xujuefei.com/lbcnn.html |
 | 95 | 14 | 7 | 1 year, 3 months ago | [graftorio](https://github.com/afex/graftorio)/877 | visualize metrics from your factorio game in grafana |
@@ -885,8 +885,8 @@
 | 94 | 313 | 2 | 5 months ago | [FiveM-Scripts](https://github.com/Sighmir/FiveM-Scripts)/882 | All my FiveM Scripts in one Project. |
 | 94 | 16 | 1 | 4 years ago | [torch-Developer-Guide](https://github.com/Atcold/torch-Developer-Guide)/883 | Some advanced tricks with Torch7 explained easily |
 | 94 | 15 | 4 | 4 years ago | [lua---parallel](https://github.com/clementfarabet/lua---parallel)/884 | A (simple) parallel computing framework for Lua |
-| 94 | 1 | 9 | 2 months ago | [digestif](https://github.com/astoff/digestif)/885 | A language server for LaTeX |
-| 94 | 9 | 2 | 1 year, 3 months ago | [dynasm](https://github.com/luapower/dynasm)/886 | DynASM with Lua mode |
+| 94 | 9 | 2 | 1 year, 3 months ago | [dynasm](https://github.com/luapower/dynasm)/885 | DynASM with Lua mode |
+| 94 | 1 | 9 | 2 months ago | [digestif](https://github.com/astoff/digestif)/886 | A language server for LaTeX |
 | 93 | 23 | 16 | 4 years ago | [CHMM2](https://github.com/Rinnegatamante/CHMM2)/887 | Theme Manager for 3DS |
 | 93 | 24 | 5 | 10 days ago | [lua-resty-moongoo](https://github.com/isage/lua-resty-moongoo)/888 | MongoDB library for OpenResty |
 | 93 | 22 | 3 | 3 years ago | [rlenvs](https://github.com/Kaixhin/rlenvs)/889 | Reinforcement learning environments for Torch7 |
@@ -911,8 +911,8 @@
 | 91 | 47 | 97 | 2 years ago | [HFM](https://github.com/SighPie/HFM)/908 | # Historical Flavour Mod |
 | 91 | 45 | 33 | 3 years ago | [Dota2-FullOverwrite](https://github.com/Nostrademous/Dota2-FullOverwrite)/909 | Work in progress for a full-overwrite Dota 2 bot framework |
 | 91 | 7 | 0 | 7 years ago | [api-aggregator](https://github.com/solso/api-aggregator)/910 | Aggregate REST API calls easily on a sandboxed Nginx+Lua env |
-| 90 | 47 | 20 | 5 days ago | [GnomeSequencer-Enhanced](https://github.com/TimothyLuke/GnomeSequencer-Enhanced)/911 | GSE is an alternative advanced macro editor and engine for World of Warcraft.  It uses Travis for UnitTests, Coveralls to report on test coverage and the Curse packager to build and publish GSE. |
-| 90 | 32 | 25 | 3 days ago | [TTT2](https://github.com/TTT-2/TTT2)/912 | Trouble in Terrorist Town 2 (Advanced Update) for Garry's Mod (gmod) |
+| 90 | 47 | 20 | 6 days ago | [GnomeSequencer-Enhanced](https://github.com/TimothyLuke/GnomeSequencer-Enhanced)/911 | GSE is an alternative advanced macro editor and engine for World of Warcraft.  It uses Travis for UnitTests, Coveralls to report on test coverage and the Curse packager to build and publish GSE. |
+| 90 | 32 | 25 | 4 days ago | [TTT2](https://github.com/TTT-2/TTT2)/912 | Trouble in Terrorist Town 2 (Advanced Update) for Garry's Mod (gmod) |
 | 90 | 8 | 5 | 6 years ago | [vim-lua-inspect](https://github.com/xolox/vim-lua-inspect)/913 | Semantic highlighting for Lua in Vim |
 | 89 | 29 | 3 | 4 years ago | [frameglimpses](https://github.com/syyeung/frameglimpses)/914 | None |
 | 90 | 48 | 0 | 2 years ago | [Recurrent-Convolutional-Video-ReID](https://github.com/niallmcl/Recurrent-Convolutional-Video-ReID)/915 | Implementation of our paper - Recurrent Convolutional Network for Video-based Person Re-Identification |
@@ -920,36 +920,36 @@
 | 90 | 25 | 3 | 1 year, 6 months ago | [behaviourtree.lua](https://github.com/tanema/behaviourtree.lua)/917 | a simple behaviour tree library for lua ported from javascript |
 | 89 | 9 | 0 | 3 years ago | [astray](https://github.com/SiENcE/astray)/918 | Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and rougelike video games |
 | 90 | 12 | 5 | a month ago | [Concord](https://github.com/Tjakka5/Concord)/919 | A feature-complete ECS library |
-| 90 | 36 | 0 | 6 years ago | [ldebug](https://github.com/cloudwu/ldebug)/920 | A Lua Remote Debugger |
-| 90 | 42 | 1 | 10 months ago | [rothui](https://github.com/zorker/rothui)/921 | Just a bunch of stuff I wrote for World of Warcraft |
-| 90 | 51 | 1 | 6 years ago | [nmap-scada](https://github.com/jpalanco/nmap-scada)/922 | nse scripts for scada identification |
-| 90 | 45 | 8 | 5 months ago | [NeavUI](https://github.com/lithammer/NeavUI)/923 | Development branch of Neav UI |
-| 90 | 26 | 2 | 4 years ago | [DSR](https://github.com/Ardavans/DSR)/924 | None |
-| 90 | 39 | 2 | 6 years ago | [nginx-lua-image-module](https://github.com/hopesoft/nginx-lua-image-module)/925 | A nginx module to resize, crop images |
-| 89 | 31 | 12 | a year ago | [lua-cassandra](https://github.com/thibaultcha/lua-cassandra)/926 | Pure Lua driver for Apache Cassandra |
-| 89 | 29 | 9 | 6 months ago | [ngr](https://github.com/gogo-easy/ngr)/927 | A high-performance &  enterprise-class edge gateway middleware |
-| 89 | 11 | 2 | 2 years ago | [luatz](https://github.com/daurnimator/luatz)/928 | Time, Date and Timezone library for lua |
-| 89 | 20 | 1 | 4 days ago | [esoui](https://github.com/esoui/esoui)/929 | ESOUI is the Lua source code of the ZenimaxOnline's MMORPG "The Elder Scrolls Online" |
-| 89 | 25 | 5 | 3 years ago | [sandbox.lua](https://github.com/APItools/sandbox.lua)/930 | A lua sandbox for executing non-trusted code |
-| 89 | 41 | 5 | 2 years ago | [deep-soli](https://github.com/simonwsw/deep-soli)/931 | Gesture Recognition Using Neural Networks with Google's Project Soli Sensor |
-| 89 | 3 | 6 | 2 days ago | [ki](https://github.com/andweeb/ki)/932 | ⌘ Work in macOS like you work in vim |
-| 89 | 11 | 8 | a month ago | [vstruct](https://github.com/ToxicFrog/vstruct)/933 | A Lua library for packing and unpacking binary data, supporting arbitrary (byte-aligned) widths, named fields, and repetition. |
-| 89 | 40 | 11 | 29 days ago | [raven-lua](https://github.com/cloudflare/raven-lua)/934 | A Lua interface to Sentry |
+| 90 | 40 | 11 | 30 days ago | [raven-lua](https://github.com/cloudflare/raven-lua)/920 | A Lua interface to Sentry |
+| 90 | 36 | 0 | 6 years ago | [ldebug](https://github.com/cloudwu/ldebug)/921 | A Lua Remote Debugger |
+| 90 | 42 | 1 | 10 months ago | [rothui](https://github.com/zorker/rothui)/922 | Just a bunch of stuff I wrote for World of Warcraft |
+| 90 | 51 | 1 | 6 years ago | [nmap-scada](https://github.com/jpalanco/nmap-scada)/923 | nse scripts for scada identification |
+| 90 | 45 | 8 | 5 months ago | [NeavUI](https://github.com/lithammer/NeavUI)/924 | Development branch of Neav UI |
+| 90 | 26 | 2 | 4 years ago | [DSR](https://github.com/Ardavans/DSR)/925 | None |
+| 90 | 39 | 2 | 6 years ago | [nginx-lua-image-module](https://github.com/hopesoft/nginx-lua-image-module)/926 | A nginx module to resize, crop images |
+| 89 | 31 | 12 | a year ago | [lua-cassandra](https://github.com/thibaultcha/lua-cassandra)/927 | Pure Lua driver for Apache Cassandra |
+| 89 | 29 | 9 | 6 months ago | [ngr](https://github.com/gogo-easy/ngr)/928 | A high-performance &  enterprise-class edge gateway middleware |
+| 89 | 11 | 2 | 2 years ago | [luatz](https://github.com/daurnimator/luatz)/929 | Time, Date and Timezone library for lua |
+| 89 | 20 | 1 | 4 days ago | [esoui](https://github.com/esoui/esoui)/930 | ESOUI is the Lua source code of the ZenimaxOnline's MMORPG "The Elder Scrolls Online" |
+| 89 | 25 | 5 | 3 years ago | [sandbox.lua](https://github.com/APItools/sandbox.lua)/931 | A lua sandbox for executing non-trusted code |
+| 89 | 41 | 5 | 2 years ago | [deep-soli](https://github.com/simonwsw/deep-soli)/932 | Gesture Recognition Using Neural Networks with Google's Project Soli Sensor |
+| 89 | 3 | 6 | 2 days ago | [ki](https://github.com/andweeb/ki)/933 | ⌘ Work in macOS like you work in vim |
+| 89 | 11 | 8 | a month ago | [vstruct](https://github.com/ToxicFrog/vstruct)/934 | A Lua library for packing and unpacking binary data, supporting arbitrary (byte-aligned) widths, named fields, and repetition. |
 | 89 | 5 | 1 | 2 months ago | [completion-treesitter](https://github.com/nvim-treesitter/completion-treesitter)/935 | Treesitter source for completion-nvim and more |
-| 89 | 38 | 36 | a month ago | [ulx](https://github.com/TeamUlysses/ulx)/936 | ULX: A powerful administration addon for Garry's Mod |
-| 89 | 45 | 8 | a month ago | [kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus)/937 | Prometheus plugin for Kong |
-| 89 | 34 | 1 | 1 year, 7 months ago | [eccv16_attr2img](https://github.com/xcyan/eccv16_attr2img)/938 | Torch Implemention of ECCV'16 paper: Attribute2Image |
-| 89 | 21 | 1 | a month ago | [haproxy-auth-request](https://github.com/TimWolla/haproxy-auth-request)/939 | auth-request allows you to add access control to your HTTP services based on a subrequest to a configured HAProxy backend. |
-| 89 | 55 | 4 | 2 months ago | [Tabchi](https://github.com/TeleSudo/Tabchi)/940 | Tabchi Based On TeleSeed |
-| 89 | 15 | 2 | 4 years ago | [torch-visbox](https://github.com/Aysegul/torch-visbox)/941 | visualizing what ConvNets learn with camera |
-| 88 | 18 | 5 | 29 days ago | [lua-struct](https://github.com/iryont/lua-struct)/942 | Implementation of binary packing/unpacking in pure lua |
-| 88 | 48 | 3 | 4 years ago | [ddz_skynet](https://github.com/donnki/ddz_skynet)/943 | simple implemetation of doudizhu(斗地主), based on skynet |
-| 88 | 14 | 7 | 22 days ago | [grpc-lua](https://github.com/jinq0123/grpc-lua)/944 | The Lua gRPC binding. HTTP/2 based RPC http://grpc.io |
-| 88 | 30 | 2 | 1 year, 8 months ago | [FaceAlignment-FHR](https://github.com/TencentYoutuResearch/FaceAlignment-FHR)/945 | None |
-| 88 | 8 | 2 | a year ago | [sfxrlua](https://github.com/nucular/sfxrlua)/946 | A port of the sfxr sound effect synthesizer to Lua |
-| 88 | 42 | 8 | 4 years ago | [lowrankcnn](https://github.com/chengtaipu/lowrankcnn)/947 | Low-rank convolutional neural networks |
-| 88 | 33 | 8 | 8 months ago | [luci-access-control](https://github.com/k-szuster/luci-access-control)/948 | OpenWrt internet access scheduler |
-| 88 | 4 | 20 | 4 days ago | [packer.nvim](https://github.com/wbthomason/packer.nvim)/949 | A use-package inspired plugin manager for Neovim. Uses native packages, written in Lua, allows for expressive config |
+| 89 | 4 | 20 | 4 days ago | [packer.nvim](https://github.com/wbthomason/packer.nvim)/936 | A use-package inspired plugin manager for Neovim. Uses native packages, written in Lua, allows for expressive config |
+| 89 | 38 | 36 | a month ago | [ulx](https://github.com/TeamUlysses/ulx)/937 | ULX: A powerful administration addon for Garry's Mod |
+| 89 | 45 | 8 | a month ago | [kong-plugin-prometheus](https://github.com/Kong/kong-plugin-prometheus)/938 | Prometheus plugin for Kong |
+| 89 | 34 | 1 | 1 year, 7 months ago | [eccv16_attr2img](https://github.com/xcyan/eccv16_attr2img)/939 | Torch Implemention of ECCV'16 paper: Attribute2Image |
+| 89 | 21 | 1 | a month ago | [haproxy-auth-request](https://github.com/TimWolla/haproxy-auth-request)/940 | auth-request allows you to add access control to your HTTP services based on a subrequest to a configured HAProxy backend. |
+| 89 | 55 | 4 | 2 months ago | [Tabchi](https://github.com/TeleSudo/Tabchi)/941 | Tabchi Based On TeleSeed |
+| 89 | 15 | 2 | 4 years ago | [torch-visbox](https://github.com/Aysegul/torch-visbox)/942 | visualizing what ConvNets learn with camera |
+| 88 | 18 | 5 | 29 days ago | [lua-struct](https://github.com/iryont/lua-struct)/943 | Implementation of binary packing/unpacking in pure lua |
+| 88 | 48 | 3 | 4 years ago | [ddz_skynet](https://github.com/donnki/ddz_skynet)/944 | simple implemetation of doudizhu(斗地主), based on skynet |
+| 88 | 14 | 7 | 22 days ago | [grpc-lua](https://github.com/jinq0123/grpc-lua)/945 | The Lua gRPC binding. HTTP/2 based RPC http://grpc.io |
+| 88 | 30 | 2 | 1 year, 8 months ago | [FaceAlignment-FHR](https://github.com/TencentYoutuResearch/FaceAlignment-FHR)/946 | None |
+| 88 | 8 | 2 | 1 year, 1 day ago | [sfxrlua](https://github.com/nucular/sfxrlua)/947 | A port of the sfxr sound effect synthesizer to Lua |
+| 88 | 42 | 8 | 4 years ago | [lowrankcnn](https://github.com/chengtaipu/lowrankcnn)/948 | Low-rank convolutional neural networks |
+| 88 | 33 | 8 | 8 months ago | [luci-access-control](https://github.com/k-szuster/luci-access-control)/949 | OpenWrt internet access scheduler |
 | 87 | 16 | 11 | 11 days ago | [lunajson](https://github.com/grafi-tt/lunajson)/950 | A strict and fast JSON parser/decoder/encoder written in pure Lua. |
 | 87 | 67 | 89 | 3 years ago | [server](https://github.com/orts/server)/951 | A real map datapack based on TFS 1.2 engine |
 | 87 | 26 | 3 | 3 years ago | [i3wm-config](https://github.com/giacomos/i3wm-config)/952 | None |
@@ -981,7 +981,7 @@
 | 84 | 8 | 3 | 5 days ago | [LuaJIT-ImGui](https://github.com/sonoro1234/LuaJIT-ImGui)/978 | LuaJIT ffi binding for imgui and implementations |
 | 84 | 5 | 3 | 10 months ago | [lovekit](https://github.com/leafo/lovekit)/979 | Miscellaneous code for making games in LOVE with MoonScript |
 | 84 | 59 | 1 | 5 months ago | [heroku-kong](https://github.com/heroku/heroku-kong)/980 | 🐒 Kong API gateway as a Heroku app |
-| 84 | 25 | 7 | 19 hours ago | [DeadlyBossMods](https://github.com/DeadlyBossMods/DeadlyBossMods)/981 | The ultimate encounter helper (for Retail) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it. |
+| 84 | 25 | 9 | 22 hours ago | [DeadlyBossMods](https://github.com/DeadlyBossMods/DeadlyBossMods)/981 | The ultimate encounter helper (for Retail) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it. |
 | 84 | 36 | 10 | 4 years ago | [unsup](https://github.com/koraykv/unsup)/982 | Some unsupervised learning modules using Torch |
 | 84 | 31 | 1 | 5 years ago | [lua-csv](https://github.com/geoffleyland/lua-csv)/983 | None |
 | 83 | 26 | 7 | 7 days ago | [Logistic-Train-Network](https://github.com/Yousei9/Logistic-Train-Network)/984 | Factorio mod adding logistic network for trains. |
@@ -989,7 +989,7 @@
 | 83 | 22 | 3 | a month ago | [QiskitBlocks](https://github.com/JavaFXpert/QiskitBlocks)/986 | Game that teaches quantum computing using Qiskit (http://qiskit.org) in a Minetest (http://minetest.net) block world. Works on Windows, macOS, GNU/Linux, FreeBSD, OpenBSD, DragonFly BSD, and Android. QiskitBlocks are leveraged in the Quantum Computing Workshop with QiskitBlocks (web-based slides https://slides.com/javafxpert/qiskitblocks) |
 | 83 | 16 | 21 | 11 months ago | [stargus](https://github.com/Wargus/stargus)/987 | Importer and scripts for Starcraft |
 | 83 | 8 | 4 | 4 years ago | [dub](https://github.com/lubyk/dub)/988 | A Lua bindings generator that uses Doxygen to parse C/C++ headers. |
-| 82 | 11 | 21 | 15 hours ago | [OCEmu](https://github.com/gamax92/OCEmu)/989 | OpenComputers Emulator in Lua. Depreciated |
+| 82 | 11 | 21 | 18 hours ago | [OCEmu](https://github.com/gamax92/OCEmu)/989 | OpenComputers Emulator in Lua. Depreciated |
 | 82 | 18 | 1 | 4 years ago | [delaunay](https://github.com/Yonaba/delaunay)/990 | Delaunay triangulation for convex polygon |
 | 82 | 26 | 5 | 5 years ago | [mwan](https://github.com/Adze1502/mwan)/991 | Simple policy routing for multiple WANs in OpenWrt |
 | 82 | 34 | 11 | 3 years ago | [lua-resty-smtp](https://github.com/duhoobo/lua-resty-smtp)/992 | I must be crazy trying to send mail with Nginx.  |
