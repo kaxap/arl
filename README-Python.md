@@ -1,1003 +1,1003 @@
 ## This is a most popular repository list for Python sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 107552 | 19371 | 155 | a month ago | [system-design-primer](https://github.com/donnemartin/system-design-primer)/1 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
-| 96758 | 11728 | 217 | 2 months ago | [public-apis](https://github.com/public-apis/public-apis)/2 | A collective list of free APIs for use in software and web development. |
-| 86999 | 17093 | 77 | a day ago | [awesome-python](https://github.com/vinta/awesome-python)/3 | A curated list of awesome Python frameworks, libraries, software and resources |
-| 85979 | 25141 | 36 | 3 hours ago | [Python](https://github.com/TheAlgorithms/Python)/4 | All Algorithms implemented in Python |
-| 71036 | 12442 | 3904 | a day ago | [youtube-dl](https://github.com/ytdl-org/youtube-dl)/5 | Command-line program to download videos from YouTube.com and other video sites |
-| 66277 | 42303 | 941 | 6 hours ago | [models](https://github.com/tensorflow/models)/6 | Models and examples built with TensorFlow |
-| 55595 | 2739 | 247 | 2 months ago | [thefuck](https://github.com/nvbn/thefuck)/7 | Magnificent app which corrects your previous console command. |
-| 52099 | 13780 | 29 | 8 days ago | [flask](https://github.com/pallets/flask)/8 | The Python micro framework for building web applications. |
-| 52093 | 22581 | 184 | 11 hours ago | [django](https://github.com/django/django)/9 | The Web framework for perfectionists with deadlines. |
-| 49813 | 18602 | 3178 | 2 months ago | [keras](https://github.com/keras-team/keras)/10 | Deep Learning for humans |
-| 48147 | 3092 | 129 | 3 days ago | [httpie](https://github.com/httpie/httpie)/11 | As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/clihttp |
-| 46721 | 11716 | 1 | 2 days ago | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)/12 | A curated list of awesome Machine Learning frameworks, libraries and software. |
-| 44840 | 19633 | 2066 | 16 hours ago | [ansible](https://github.com/ansible/ansible)/13 | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
-| 43543 | 7913 | 298 | 12 days ago | [requests](https://github.com/psf/requests)/14 | A simple, yet elegant HTTP library. |
-| 42373 | 20364 | 2278 | 10 hours ago | [scikit-learn](https://github.com/scikit-learn/scikit-learn)/15 | scikit-learn: machine learning in Python |
-| 38326 | 8800 | 749 | 2 days ago | [scrapy](https://github.com/scrapy/scrapy)/16 | Scrapy, a fast high-level web crawling & scraping framework for Python. |
-| 37990 | 1682 | 72 | 3 months ago | [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)/17 | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. |
-| 36356 | 10173 | 547 | 7 months ago | [face_recognition](https://github.com/ageitgey/face_recognition)/18 | The world's simplest facial recognition api for Python and the command line |
-| 35584 | 11549 | 1279 | 3 hours ago | [core](https://github.com/home-assistant/core)/19 | :house_with_garden: Open source home automation that puts local control and privacy first |
-| 35056 | 7034 | 340 | 3 days ago | [you-get](https://github.com/soimort/you-get)/20 | :arrow_double_down: Dumb downloader that scrapes the web |
-| 34061 | 8165 | 620 | an hour ago | [transformers](https://github.com/huggingface/transformers)/21 | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. |
-| 33662 | 5028 | 21 | a day ago | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)/22 | :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目 |
-| 33641 | 16143 | 1364 | an hour ago | [cpython](https://github.com/python/cpython)/23 | The Python programming language |
-| 32777 | 19690 | 449 | 5 years ago | [shadowsocks](https://github.com/shadowsocks/shadowsocks)/24 | None |
-| 32441 | 10131 | 23 | 17 days ago | [faceswap](https://github.com/deepfakes/faceswap)/25 | Deepfakes Software For All |
-| 30339 | 7873 | 7617 | 21 days ago | [XX-Net](https://github.com/XX-net/XX-Net)/26 | A proxy tool to bypass GFW. |
-| 30167 | 6257 | 350 | 33 minutes ago | [incubator-superset](https://github.com/apache/incubator-superset)/27 | Apache Superset is a Data Visualization and Data Exploration Platform |
-| 28711 | 9092 | 244 | 8 months ago | [12306](https://github.com/testerSunshine/12306)/28 | 12306智能刷票，订票 |
-| 28550 | 3802 | 158 | 34 minutes ago | [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)/29 | The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ |
-| 28368 | 6271 | 77 | 2 years ago | [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)/30 | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! |
-| 27196 | 2969 | 538 | 5 hours ago | [certbot](https://github.com/certbot/certbot)/31 | Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. |
-| 27004 | 9242 | 35 | 3 days ago | [AiLearning](https://github.com/apachecn/AiLearning)/32 | AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP |
-| 26638 | 10967 | 3599 | 10 hours ago | [pandas](https://github.com/pandas-dev/pandas)/33 | Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more |
-| 26515 | 2025 | 256 | 7 hours ago | [localstack](https://github.com/localstack/localstack)/34 | 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! |
-| 26125 | 2952 | 1191 | 12 minutes ago | [sentry](https://github.com/getsentry/sentry)/35 | Sentry is cross-platform application monitoring, with a focus on error reporting. |
-| 25901 | 5437 | 11 | a month ago | [python-patterns](https://github.com/faif/python-patterns)/36 | A collection of design patterns/idioms in Python |
-| 25514 | 3271 | 343 | 2 months ago | [manim](https://github.com/3b1b/manim)/37 | Animation engine for explanatory math videos |
-| 24951 | 7032 | 738 | 6 months ago | [bert](https://github.com/google-research/bert)/38 | TensorFlow code and pre-trained models for BERT |
-| 24652 | 7364 | 9 | 2 months ago | [funNLP](https://github.com/fighting41love/funNLP)/39 | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者 PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具 、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库 qingyun 训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr: 中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase 知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast 加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP 0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs. BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI - 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目、brat rapid annotation tool: 序列标注工具、大规模中文知识图谱数据：1.4亿实体、数据增强在机器翻译及其他nlp任务中的应用及效果、allennlp阅读理解:支持多种数据和模型、PDF表格数据提取工具 、 Graphbrain：AI开源软件库和科研工具，目的是促进自动意义提取和文本理解以及知识的探索和推断、简历自动筛选系统、基于命名实体识别的简历自动摘要、中文语言理解测评基准，包括代表性的数据集&基准模型&语料库&排行榜、树洞 OCR 文字识别 、从包含表格的扫描图片中识别表格和文字、语声迁移、Python口语自然语言处理工具集(英文)、 similarity：相似度计算工具包，java编写、海量中文预训练ALBERT模型 、Transformers 2.0 、基于大规模音频数据集Audioset的音频增强 、Poplar：网页版自然语言标注工具、图片文字去除，可用于漫画翻译 、186种语言的数字叫法库、Amazon发布基于知识的人-人开放领域对话数据集 、中文文本纠错模块代码、繁简体转换 、 Python实现的多种文本可读性评价指标、类似于人名/地名/组织机构名的命名体识别数据集 、东南大学《知识图谱》研究生课程(资料)、. 英文拼写检查库 、 wwsearch是企业微信后台自研的全文检索引擎、CHAMELEON：深度学习新闻推荐系统元架构 、 8篇论文梳理BERT相关模型进展与反思、DocSearch：免费文档搜索引擎、 LIDA：轻量交互式对话标注工具 、aili - the fastest in-memory index in the East 东半球最快并发索引 、知识图谱车音工作项目、自然语言生成资源大全 、中日韩分词库mecab的Python接口库、中文文本摘要/关键词提取、汉字字符特征提取器 (featurizer)，提取汉字的特征（发音特征、字形特征）用做深度学习的特征、中文生成任务基准测评 、中文缩写数据集、中文任务基准测评 - 代表性的数据集-基准(预训练)模型-语料库-baseline-工具包-排行榜、PySS3：面向可解释AI的SS3文本分类器机器可视化工具 、中文NLP数据集列表、COPE - 格律诗编辑程序、doccano：基于网页的开源协同多语言文本标注工具 、PreNLP：自然语言预处理库、简单的简历解析器，用来从简历中提取关键信息、用于中文闲聊的GPT2模型：GPT2-chitchat、基于检索聊天机器人多轮响应选择相关资源列表(Leaderboards、Datasets、Papers)、(Colab)抽象文本摘要实现集锦(教程 、词语拼音数据、高效模糊搜索工具、NLP数据增广资源集、微软对话机器人框架 、 GitHub Typo Corpus：大规模GitHub多语言拼写错误/语法错误数据集、TextCluster：短文本聚类预处理模块 Short text cluster、面向语音识别的中文文本规范化、BLINK：最先进的实体链接库、BertPunc：基于BERT的最先进标点修复模型、Tokenizer：快速、可定制的文本词条化库、中文语言理解测评基准，包括代表性的数据集、基准(预训练)模型、语料库、排行榜、spaCy 医学文本挖掘与信息提取 、 NLP任务示例项目代码集、 python拼写检查库、chatbot-list - 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍、语音质量评价指标(MOSNet, BSSEval, STOI, PESQ, SRMR)、 用138GB语料训练的法文RoBERTa预训练语言模型 、BERT-NER-Pytorch：三种不同模式的BERT中文NER实验、无道词典 - 有道词典的命令行版本，支持英汉互查和在线查询、2019年NLP亮点回顾、 Chinese medical dialogue data 中文医疗对话数据集 、最好的汉字数字(中文数字)-阿拉伯数字转换工具、 基于百科知识库的中文词语多词义/义项获取与特定句子词语语义消歧、awesome-nlp-sentiment-analysis - 情感分析、情绪原因识别、评价对象和评价词抽取、LineFlow：面向所有深度学习框架的NLP数据高效加载器、中文医学NLP公开资源整理 、MedQuAD：(英文)医学问答数据集、将自然语言数字串解析转换为整数和浮点数、Transfer Learning in Natural Language Processing (NLP) 、面向语音识别的中文/英文发音辞典、Tokenizers：注重性能与多功能性的最先进分词器、CLUENER 细粒度命名实体识别 Fine Grained Named Entity Recognition、 基于BERT的中文命名实体识别、中文谣言数据库、NLP数据集/基准任务大列表、nlp相关的一些论文及代码, 包括主题模型、词向量(Word Embedding)、命名实体识别(NER)、文本分类(Text Classificatin)、文本生成(Text Generation)、文本相似性(Text Similarity)计算等，涉及到各种与nlp相关的算法，基于keras和tensorflow 、Python文本挖掘/NLP实战示例、 Blackstone：面向非结构化法律文本的spaCy pipeline和NLP模型通过同义词替换实现文本“变脸” 、中文 预训练 ELECTREA 模型: 基于对抗学习 pretrain Chinese Model 、albert-chinese-ner - 用预训练语言模型ALBERT做中文NER 、基于GPT2的特定主题文本生成/文本增广、开源预训练语言模型合集、多语言句向量包、编码、标记和实现：一种可控高效的文本生成方法、 英文脏话大列表 、attnvis：GPT2、BERT等transformer语言模型注意力交互可视化、CoVoST：Facebook发布的多语种语音-文本翻译语料库，包括11种语言(法语、德语、荷兰语、俄语、西班牙语、意大利语、土耳其语、波斯语、瑞典语、蒙古语和中文)的语音、文字转录及英文译文、Jiagu自然语言处理工具 - 以BiLSTM等模型为基础，提供知识图谱关系抽取 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要 文本聚类等功能、用unet实现对文档表格的自动检测，表格重建、NLP事件提取文献资源列表 、 金融领域自然语言处理研究资源大列表、CLUEDatasetSearch - 中英文NLP数据集：搜索所有中文NLP数据集，附常用英文NLP数据集 、medical_NER - 中文医学知识图谱命名实体识别 、(哈佛)讲因果推理的免费书、知识图谱相关学习资料/数据集/工具资源大列表、Forte：灵活强大的自然语言处理pipeline工具集 、Python字符串相似性算法库、PyLaia：面向手写文档分析的深度学习工具包、TextFooler：针对文本分类/推理的对抗文本生成模块、Haystack：灵活、强大的可扩展问答(QA)框架、中文关键短语抽取工具 |
-| 24174 | 5907 | 574 | 7 months ago | [jieba](https://github.com/fxsjy/jieba)/40 | 结巴中文分词 |
-| 23674 | 5230 | 313 | 2 months ago | [Detectron](https://github.com/facebookresearch/Detectron)/41 | FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet. |
-| 22196 | 6288 | 168 | 2 days ago | [gym](https://github.com/openai/gym)/42 | A toolkit for developing and comparing reinforcement learning algorithms. |
-| 21848 | 2533 | 24 | 3 days ago | [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe)/43 | A code-completion engine for Vim |
-| 21749 | 2450 | 40 | 11 days ago | [linux-insides](https://github.com/0xAX/linux-insides)/44 | A little bit about a linux kernel |
-| 21587 | 1964 | 36 | 6 days ago | [wtfpython](https://github.com/satwikkansal/wtfpython)/45 | What the f*ck Python? |
-| 21227 | 1431 | 438 | 25 days ago | [fastapi](https://github.com/tiangolo/fastapi)/46 | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
-| 20982 | 1545 | 459 | 13 days ago | [pipenv](https://github.com/pypa/pipenv)/47 |  Python Development Workflow for Humans. |
-| 20823 | 4874 | 227 | 1 year, 11 months ago | [ItChat](https://github.com/littlecodersh/ItChat)/48 | A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。 |
-| 20784 | 5655 | 12 | 20 days ago | [HanLP](https://github.com/hankcs/HanLP)/49 | Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification |
-| 20733 | 3388 | 456 | 6 months ago | [compose](https://github.com/docker/compose)/50 | Define and run multi-container applications with Docker |
-| 19966 | 2608 | 288 | 15 days ago | [mitmproxy](https://github.com/mitmproxy/mitmproxy)/51 | An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. |
-| 19883 | 4659 | 167 | 8 days ago | [DeepFaceLab](https://github.com/iperov/DeepFaceLab)/52 | DeepFaceLab is the leading software for creating deepfakes. |
-| 19549 | 3811 | 41 | 20 days ago | [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)/53 | Clone a voice in 5 seconds to generate arbitrary speech in real-time |
-| 19520 | 6174 | 12 | 1 year, 7 months ago | [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)/54 | Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. |
-| 19437 | 5242 | 200 | 3 days ago | [tornado](https://github.com/tornadoweb/tornado)/55 | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. |
-| 19352 | 956 | 73 | 15 hours ago | [cheat.sh](https://github.com/chubin/cheat.sh)/56 | the only cheat sheet you need |
-| 19242 | 1644 | 75 | 19 days ago | [algo](https://github.com/trailofbits/algo)/57 | Set up a personal VPN in the cloud |
-| 18846 | 5317 | 308 | Unknown | [django-rest-framework](https://github.com/encode/django-rest-framework)/58 | Web APIs for Django. 🎸 |
-| 18728 | 4826 | 3 | Unknown | [d2l-zh](https://github.com/d2l-ai/d2l-zh)/59 | 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。 |
-| 18716 | 8764 | 151 | Unknown | [Python](https://github.com/geekcomputers/Python)/60 | My Python Examples |
-| 18323 | 7124 | 810 | an hour ago | [airflow](https://github.com/apache/airflow)/61 | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
-| 18217 | 3954 | 47 | 9 hours ago | [sqlmap](https://github.com/sqlmapproject/sqlmap)/62 | Automatic SQL injection and database takeover tool |
-| 18144 | 8680 | 1545 | 1 year, 6 months ago | [Mask_RCNN](https://github.com/matterport/Mask_RCNN)/63 | Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow |
-| 17933 | 1108 | 330 | 4 days ago | [black](https://github.com/psf/black)/64 | The uncompromising Python code formatter |
-| 17885 | 3631 | 132 | Unknown | [algorithms](https://github.com/keon/algorithms)/65 | Minimal examples of data structures and algorithms in Python |
-| 17721 | 1089 | 84 | 2 months ago | [python-fire](https://github.com/google/python-fire)/66 | Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. |
-| 17387 | 5356 | 8 | Unknown | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)/67 | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
-| 17250 | 1214 | 6 | Unknown | [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)/68 | Guide to securing and improving privacy on macOS |
-| 17240 | 3099 | 191 | 11 hours ago | [spaCy](https://github.com/explosion/spaCy)/69 | 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython |
-| 16847 | 1100 | 190 | 9 days ago | [glances](https://github.com/nicolargo/glances)/70 | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. |
-| 16750 | 2876 | 28 | 14 hours ago | [NLP-progress](https://github.com/sebastianruder/NLP-progress)/71 | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. |
-| 16561 | 5317 | 115 | 7 months ago | [algo](https://github.com/wangzheng0822/algo)/72 | 数据结构和算法必知必会的50个代码实现 |
-| 16123 | 1458 | 36 | Unknown | [hosts](https://github.com/StevenBlack/hosts)/73 | Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories. |
-| 15872 | 822 | 259 | Unknown | [tqdm](https://github.com/tqdm/tqdm)/74 | A Fast, Extensible Progress Bar for Python and CLI |
-| 15829 | 3821 | 448 | Unknown | [celery](https://github.com/celery/celery)/75 | Distributed Task Queue (development branch) |
-| 15653 | 3185 | 271 | Unknown | [magenta](https://github.com/magenta/magenta)/76 | Magenta: Music and Art Generation with Machine Intelligence |
-| 15486 | 3000 | 11 | Unknown | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)/77 | Comprehensive Python Cheatsheet |
-| 15476 | 2844 | 304 | Unknown | [reddit](https://github.com/reddit-archive/reddit)/78 | historical code from reddit.com |
-| 14944 | 4864 | 2172 | 8 hours ago | [numpy](https://github.com/numpy/numpy)/79 | The fundamental package for scientific computing with Python. |
-| 14886 | 3025 | 0 | Unknown | [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course)/80 | Simple and ready-to-use tutorials for TensorFlow  |
-| 14827 | 1535 | 33 | Unknown | [sherlock](https://github.com/sherlock-project/sherlock)/81 | 🔎 Hunt down social media accounts by username across social networks |
-| 14587 | 3528 | 273 | Unknown | [pyspider](https://github.com/binux/pyspider)/82 | A Powerful Spider(Web Crawler) System in Python. |
-| 14254 | 1481 | 21 | Unknown | [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)/83 | A list of awesome applications, software, tools and other materials for Linux distros.  |
-| 14193 | 708 | 32 | Unknown | [toml](https://github.com/toml-lang/toml)/84 | Tom's Obvious, Minimal Language |
-| 14162 | 6639 | 270 | Unknown | [examples](https://github.com/pytorch/examples)/85 | A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc. |
-| 14162 | 1392 | 97 | Unknown | [spleeter](https://github.com/deezer/spleeter)/86 | Deezer source separation library including pretrained models. |
-| 14002 | 4010 | 50 | Unknown | [bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)/87 | Mastering Bitcoin 2nd Edition - Programming the Open Blockchain |
-| 13995 | 3500 | 576 | Unknown | [bokeh](https://github.com/bokeh/bokeh)/88 | Interactive Data Visualization in the browser, from  Python |
-| 13893 | 4572 | 30 | Unknown | [wechat_jump_game](https://github.com/wangshub/wechat_jump_game)/89 | 微信《跳一跳》Python 辅助 |
-| 13842 | 1929 | 35 | Unknown | [locust](https://github.com/locustio/locust)/90 | Scalable user load testing tool written in Python |
-| 13769 | 2487 | 641 | Unknown | [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy)/91 | Automated nginx proxy for Docker containers using docker-gen |
-| 13748 | 2172 | 52 | Unknown | [luigi](https://github.com/spotify/luigi)/92 | Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  |
-| 13668 | 1991 | 40 | Unknown | [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)/93 | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. |
-| 13556 | 394 | 40 | Unknown | [cascadia-code](https://github.com/microsoft/cascadia-code)/94 | This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. |
-| 13214 | 3286 | 114 | Unknown | [gpt-2](https://github.com/openai/gpt-2)/95 | Code for the paper "Language Models are Unsupervised Multitask Learners" |
-| 13205 | 2046 | 1381 | Unknown | [ray](https://github.com/ray-project/ray)/96 | An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. |
-| 13033 | 3886 | 260 | Unknown | [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)/97 | Image-to-Image Translation in PyTorch |
-| 12911 | 1318 | 361 | Unknown | [dash](https://github.com/plotly/dash)/98 | Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required. |
-| 12907 | 3210 | 1940 | Unknown | [Paddle](https://github.com/PaddlePaddle/Paddle)/99 | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） |
-| 12877 | 1340 | 172 | Unknown | [cookiecutter](https://github.com/cookiecutter/cookiecutter)/100 | A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects. |
-| 9049 | 2486 | 30 | 2 years ago | [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo)/101 | An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html. |
-| 8980 | 667 | 22 | 4 years ago | [sshuttle](https://github.com/apenwarr/sshuttle)/102 | Wrong project!  You should head over to http://github.com/sshuttle/sshuttle |
-| 8963 | 353 | 12 | 3 months ago | [termtosvg](https://github.com/nbedos/termtosvg)/103 | Record terminal sessions as SVG animations |
-| 8958 | 1478 | 540 | 6 hours ago | [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)/104 | Geometric Deep Learning Extension Library for PyTorch |
-| 8948 | 412 | 120 | 9 days ago | [pgcli](https://github.com/dbcli/pgcli)/105 | Postgres CLI with autocompletion and syntax highlighting |
-| 8941 | 2543 | 18 | a month ago | [numpy-ml](https://github.com/ddbourgin/numpy-ml)/106 | Machine learning, in numpy |
-| 8539 | 544 | 119 | 1 year, 7 months ago | [explainshell](https://github.com/idank/explainshell)/107 | match command-line arguments to their help text |
-| 8460 | 5043 | 13 | 2 years ago | [tutorials](https://github.com/MorvanZhou/tutorials)/108 | 机器学习相关教程 |
-| 8455 | 770 | 17 | 10 days ago | [howdoi](https://github.com/gleitz/howdoi)/109 | instant coding answers via the command line |
-| 8436 | 713 | 101 | 5 months ago | [asciinema](https://github.com/asciinema/asciinema)/110 | Terminal session recorder 📹 |
-| 8404 | 595 | 563 | a month ago | [ranger](https://github.com/ranger/ranger)/111 | A VIM-inspired filemanager for the console |
-| 8339 | 1346 | 2 | 11 hours ago | [calibre](https://github.com/kovidgoyal/calibre)/112 | The official source code repository for the calibre ebook manager |
-| 8325 | 754 | 35 | a month ago | [chisel](https://github.com/facebook/chisel)/113 | Chisel is a collection of LLDB commands to assist debugging iOS apps. |
-| 8259 | 456 | 94 | 5 days ago | [diagrams](https://github.com/mingrammer/diagrams)/114 | :art: Diagram as Code for prototyping cloud system architectures |
-| 8243 | 721 | 410 | 3 months ago | [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools)/115 | DeDRM tools for ebooks |
-| 8238 | 1972 | 24 | 4 months ago | [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)/116 | A MNIST-like fashion product database. Benchmark :point_right:  |
-| 8216 | 999 | 382 | 28 days ago | [Mailpile](https://github.com/mailpile/Mailpile)/117 | A free & open modern, fast email client with user-friendly encryption and privacy features |
-| 8095 | 1975 | 142 | 7 months ago | [coursera-dl](https://github.com/coursera-dl/coursera-dl)/118 | Script for downloading Coursera.org videos and naming them. |
-| 7935 | 2074 | 230 | 13 days ago | [networkx](https://github.com/networkx/networkx)/119 | Network Analysis in Python |
-| 7870 | 2269 | 478 | 10 months ago | [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)/120 | Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. |
-| 7821 | 1237 | 1 | 5 hours ago | [peewee](https://github.com/coleifer/peewee)/121 | a small, expressive orm -- supports postgresql, mysql and sqlite |
-| 7642 | 1829 | 16 | 8 months ago | [EverydayWechat](https://github.com/sfyc23/EverydayWechat)/122 | 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等） |
-| 7620 | 956 | 85 | 4 months ago | [visdom](https://github.com/facebookresearch/visdom)/123 | A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy. |
-| 7559 | 1779 | 27 | an hour ago | [d2l-en](https://github.com/d2l-ai/d2l-en)/124 | Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. |
-| 7506 | 1311 | 181 | 2 months ago | [tpot](https://github.com/EpistasisLab/tpot)/125 | A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. |
-| 7480 | 1080 | 94 | 1 year, 2 months ago | [vid2vid](https://github.com/NVIDIA/vid2vid)/126 | Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation. |
-| 7474 | 2651 | 607 | 5 days ago | [insightface](https://github.com/deepinsight/insightface)/127 | Face Analysis Project on MXNet |
-| 7434 | 1218 | 58 | 9 days ago | [autokeras](https://github.com/keras-team/autokeras)/128 | AutoML library for deep learning |
-| 7386 | 2139 | 73 | 1 year, 1 month ago | [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)/129 | PyTorch implementations of Generative Adversarial Networks. |
-| 7365 | 1699 | 15 | 1 year, 8 months ago | [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)/130 | :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。 |
-| 7316 | 780 | 75 | 7 months ago | [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)/131 | Fuzzy String Matching in Python |
-| 7272 | 1334 | 68 | 9 days ago | [jinja](https://github.com/pallets/jinja)/132 | A very fast and expressive template engine. |
-| 7262 | 968 | 78 | 3 months ago | [TextBlob](https://github.com/sloria/TextBlob)/133 | Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. |
-| 7230 | 717 | 254 | 2 days ago | [chalice](https://github.com/aws/chalice)/134 | Python Serverless Microframework for AWS |
-| 7211 | 1920 | 124 | 11 hours ago | [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)/135 | Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly. |
-| 7209 | 1126 | 14 | a day ago | [anki](https://github.com/ankitects/anki)/136 | Anki for desktop computers |
-| 7193 | 1523 | 485 | a day ago | [pyinstaller](https://github.com/pyinstaller/pyinstaller)/137 | Freeze (package) Python programs into stand-alone executables |
-| 7184 | 408 | 5 | 1 year, 9 months ago | [TrumpScript](https://github.com/samshadwell/TrumpScript)/138 | Make Python great again |
-| 7173 | 538 | 246 | 2 years ago | [docopt](https://github.com/docopt/docopt)/139 | Pythonic command line arguments parser, that will make you smile |
-| 7173 | 1532 | 54 | 4 months ago | [Douyin-Bot](https://github.com/wangshub/Douyin-Bot)/140 | 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？  |
-| 7159 | 1342 | 270 | 9 hours ago | [gunicorn](https://github.com/benoitc/gunicorn)/141 | gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications. |
-| 7105 | 981 | 198 | 7 days ago | [twint](https://github.com/twintproject/twint)/142 | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations. |
-| 7043 | 1282 | 102 | 4 days ago | [pwntools](https://github.com/Gallopsled/pwntools)/143 | CTF framework and exploit development library |
-| 7020 | 4020 | 668 | 2 years ago | [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)/144 | Faster R-CNN (Python implementation) -- see https://github.com/ShaoqingRen/faster_rcnn for the official MATLAB version |
-| 6915 | 953 | 31 | 9 months ago | [Photon](https://github.com/s0md3v/Photon)/145 | Incredibly fast crawler designed for OSINT. |
-| 6876 | 1660 | 15 | a month ago | [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)/146 | Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋 |
-| 6865 | 529 | 8 | a month ago | [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)/147 | Modular visual interface for GDB in Python |
-| 6841 | 2926 | 2562 | 12 hours ago | [erpnext](https://github.com/frappe/erpnext)/148 | Open Source Alternative to SAP |
-| 6763 | 1960 | 193 | 1 year, 2 months ago | [WeixinBot](https://github.com/Urinx/WeixinBot)/149 | 网页版微信API，包含终端版微信及微信机器人 |
-| 6732 | 1820 | 9 | a day ago | [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)/150 | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
-| 6720 | 149 | 74 | 2 years ago | [monoid](https://github.com/larsenwork/monoid)/151 | Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/ |
-| 6662 | 914 | 2 | 8 days ago | [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)/152 | Short Python code snippets for all your development needs |
-| 6616 | 1038 | 237 | 2 days ago | [psutil](https://github.com/giampaolo/psutil)/153 | Cross-platform lib for process and system monitoring in Python |
-| 6519 | 499 | 350 | 5 hours ago | [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)/154 | Library for building powerful interactive command line applications in Python |
-| 6514 | 1511 | 590 | 9 hours ago | [pytest](https://github.com/pytest-dev/pytest)/155 | The pytest framework makes it easy to write small tests, yet scales to support complex functional testing |
-| 6510 | 994 | 96 | 6 days ago | [binwalk](https://github.com/ReFirmLabs/binwalk)/156 | Firmware Analysis Tool |
-| 6507 | 2385 | 43 | 9 months ago | [text_classification](https://github.com/brightmart/text_classification)/157 | all kinds of text classification models and more with deep learning |
-| 6497 | 1171 | 0 | 5 months ago | [machine-learning-course](https://github.com/instillai/machine-learning-course)/158 | :speech_balloon: Machine Learning Course with Python:  |
-| 6495 | 330 | 3 | a month ago | [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator)/159 | A Blender script to procedurally generate 3D spaceships |
-| 6476 | 771 | 129 | 8 hours ago | [pyro](https://github.com/pyro-ppl/pyro)/160 | Deep universal probabilistic programming with Python and PyTorch |
-| 6444 | 2313 | 1178 | 1 year, 5 months ago | [boto](https://github.com/boto/boto)/161 | For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services |
-| 6387 | 526 | 51 | 1 year, 1 month ago | [records](https://github.com/kennethreitz-archive/records)/162 | SQL for Humans™ |
-| 6374 | 354 | 22 | 4 months ago | [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound)/163 | Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite: |
-| 6370 | 1062 | 132 | a month ago | [supervisor](https://github.com/Supervisor/supervisor)/164 | Supervisor process control system for UNIX |
-| 6290 | 882 | 11 | 9 days ago | [pysheeet](https://github.com/crazyguitar/pysheeet)/165 | Python Cheat Sheet |
-| 6275 | 534 | 43 | 4 days ago | [arrow](https://github.com/arrow-py/arrow)/166 | Better dates & times for Python |
-| 6246 | 1946 | 18 | 2 years ago | [generative-models](https://github.com/wiseodd/generative-models)/167 | Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow. |
-| 6218 | 3111 | 482 | 2 years ago | [keras-yolo3](https://github.com/qqwweee/keras-yolo3)/168 | A Keras implementation of YOLOv3 (Tensorflow backend) |
-| 6191 | 719 | 33 | 4 days ago | [eve](https://github.com/pyeve/eve)/169 | REST API framework designed for human beings |
-| 6191 | 1736 | 50 | 11 days ago | [theZoo](https://github.com/ytisf/theZoo)/170 | A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. |
-| 6154 | 1337 | 224 | 9 days ago | [python-for-android](https://github.com/kivy/python-for-android)/171 | Turn your Python application into an Android APK |
-| 6128 | 1583 | 455 | 11 months ago | [nupic](https://github.com/numenta/nupic)/172 | Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. |
-| 6124 | 798 | 134 | 6 days ago | [albumentations](https://github.com/albumentations-team/albumentations)/173 | Fast image augmentation library and easy to use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about library: https://www.mdpi.com/2078-2489/11/2/125 |
-| 6115 | 747 | 477 | 16 days ago | [ajenti](https://github.com/ajenti/ajenti)/174 | Ajenti Core and stock plugins |
-| 6114 | 885 | 104 | a day ago | [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar)/175 | A configurable set of panels that display various debug information about the current request/response. |
-| 6040 | 3223 | 300 | 6 hours ago | [readthedocs.org](https://github.com/readthedocs/readthedocs.org)/176 | The source code that powers readthedocs.org |
-| 6028 | 1415 | 16 | 4 months ago | [fsociety](https://github.com/Manisso/fsociety)/177 | fsociety Hacking Tools Pack – A Penetration Testing Framework |
-| 6027 | 635 | 57 | a day ago | [graphene](https://github.com/graphql-python/graphene)/178 | GraphQL framework for Python |
-| 6011 | 681 | 27 | 2 years ago | [gitfiti](https://github.com/gelstudios/gitfiti)/179 | abusing github commit history for the lulz |
-| 5992 | 748 | 129 | 12 minutes ago | [pytext](https://github.com/facebookresearch/pytext)/180 | A natural language modeling framework based on PyTorch |
-| 5949 | 1100 | 24 | 1 year, 10 months ago | [BossSensor](https://github.com/Hironsan/BossSensor)/181 | Hide screen when boss is approaching. |
-| 5924 | 652 | 77 | Unknown | [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns)/182 | A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications). |
-| 5912 | 1887 | 524 | Unknown | [nginx-book](https://github.com/taobao/nginx-book)/183 | Nginx开发从入门到精通 |
-| 5885 | 2160 | 6 | Unknown | [transferlearning](https://github.com/jindongwang/transferlearning)/184 | Everything about Transfer Learning and Domain Adaptation--迁移学习 |
-| 5837 | 400 | 87 | Unknown | [sshuttle](https://github.com/sshuttle/sshuttle)/185 | Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling. |
-| 5834 | 1448 | 399 | Unknown | [jupyterhub](https://github.com/jupyterhub/jupyterhub)/186 | Multi-user server for Jupyter notebooks |
-| 5832 | 2062 | 342 | Unknown | [django-allauth](https://github.com/pennersr/django-allauth)/187 | Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. |
-| 5808 | 774 | 810 | Unknown | [qutebrowser](https://github.com/qutebrowser/qutebrowser)/188 | A keyboard-driven, vim-like browser based on PyQt5. |
-| 5800 | 1511 | 149 | Unknown | [pupy](https://github.com/n1nj4sec/pupy)/189 | Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python |
-| 5784 | 1237 | 294 | Unknown | [boto3](https://github.com/boto/boto3)/190 | AWS SDK for Python |
-| 5781 | 2125 | 45 | Unknown | [yolov3](https://github.com/ultralytics/yolov3)/191 | YOLOv3 in PyTorch > ONNX > CoreML > iOS |
-| 5767 | 620 | 335 | Unknown | [sanitizers](https://github.com/google/sanitizers)/192 | AddressSanitizer, ThreadSanitizer, MemorySanitizer |
-| 5757 | 1538 | 14 | Unknown | [LaZagne](https://github.com/AlessandroZ/LaZagne)/193 | Credentials recovery project |
-| 5746 | 716 | 12 | Unknown | [deepo](https://github.com/ufoym/deepo)/194 | Set up deep learning environment in a single command line. |
-| 5740 | 1652 | 168 | Unknown | [incubator-tvm](https://github.com/apache/incubator-tvm)/195 | Open deep learning compiler stack for cpu, gpu and specialized accelerators |
-| 5735 | 899 | 112 | Unknown | [flask-restful](https://github.com/flask-restful/flask-restful)/196 | Simple framework for creating REST APIs |
-| 5734 | 1797 | 110 | Unknown | [social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)/197 | The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. |
-| 5716 | 1706 | 7 | Unknown | [tensorpack](https://github.com/tensorpack/tensorpack)/198 | A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility |
-| 5675 | 1952 | 359 | Unknown | [faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch)/199 | A faster pytorch implementation of faster r-cnn |
-| 5649 | 225 | 9 | Unknown | [legit](https://github.com/frostming/legit)/200 | Git for Humans, Inspired by GitHub for Mac™. |
-| 5675 | 1952 | 359 | 3 months ago | [faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch)/201 | A faster pytorch implementation of faster r-cnn |
-| 5649 | 225 | 9 | 6 months ago | [legit](https://github.com/frostming/legit)/202 | Git for Humans, Inspired by GitHub for Mac™. |
-| 5642 | 365 | 51 | 14 hours ago | [httpx](https://github.com/encode/httpx)/203 | A next generation HTTP client for Python. 🦋 |
-| 5608 | 1288 | 50 | 7 hours ago | [scapy](https://github.com/secdev/scapy)/204 | Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3. |
-| 5604 | 590 | 77 | 15 days ago | [ultisnips](https://github.com/SirVer/ultisnips)/205 | UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! |
-| 5595 | 1528 | 58 | a month ago | [wait-for-it](https://github.com/vishnubob/wait-for-it)/206 | Pure bash script to test and wait on the availability of a TCP host and port |
-| 5546 | 2057 | 1959 | 2 days ago | [statsmodels](https://github.com/statsmodels/statsmodels)/207 | Statsmodels: statistical modeling and econometrics in Python |
-| 5545 | 601 | 87 | 11 months ago | [chinese-dos-games](https://github.com/rwv/chinese-dos-games)/208 | 🎮 Chinese DOS games in browser. |
-| 5520 | 3309 | 53 | 4 years ago | [shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr)/209 | Python port of ShadowsocksR |
-| 5506 | 1633 | 169 | 13 hours ago | [discord.py](https://github.com/Rapptz/discord.py)/210 | An API wrapper for Discord written in Python. |
-| 5494 | 1623 | 147 | 2 days ago | [impacket](https://github.com/SecureAuthCorp/impacket)/211 | Impacket is a collection of Python classes for working with network protocols. |
-| 5485 | 1274 | 10 | 1 year, 11 months ago | [interpy-zh](https://github.com/eastlakeside/interpy-zh)/212 | 📘《Python进阶》（Intermediate Python 中文版） |
-| 5473 | 4946 | 51 | 6 days ago | [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)/213 | A collection of machine learning examples and tutorials. |
-| 5458 | 1368 | 16 | a month ago | [chainer](https://github.com/chainer/chainer)/214 | A flexible framework of neural networks for deep learning |
-| 5454 | 1073 | 891 | a day ago | [cython](https://github.com/cython/cython)/215 | The most widely used Python to C compiler |
-| 5435 | 1675 | 67 | a month ago | [labelme](https://github.com/wkentaro/labelme)/216 | Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation). |
-| 5434 | 1069 | 175 | 9 months ago | [xlnet](https://github.com/zihangdai/xlnet)/217 | XLNet: Generalized Autoregressive Pretraining for Language Understanding |
-| 5424 | 439 | 126 | 4 years ago | [Flashlight](https://github.com/nate-parrott/Flashlight)/218 | The missing Spotlight plugin system |
-| 5407 | 2649 | 18 | a month ago | [practical-python](https://github.com/dabeaz-course/practical-python)/219 | Practical Python Programming (course by @dabeaz) |
-| 5398 | 281 | 88 | 11 months ago | [opensnitch](https://github.com/evilsocket/opensnitch)/220 | OpenSnitch is a GNU/Linux port of the Little Snitch application firewall |
-| 5387 | 1048 | 212 | a month ago | [taiga-back](https://github.com/taigaio/taiga-back)/221 | Agile project management platform. Built on top of Django and AngularJS |
-| 5386 | 860 | 3 | 1 year, 1 month ago | [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)/222 | :beers: awesome cheatsheet |
-| 5378 | 717 | 105 | 2 years ago | [powerline-shell](https://github.com/b-ryan/powerline-shell)/223 | A beautiful and useful prompt for your shell |
-| 5326 | 1037 | 41 | 1 year, 10 months ago | [open_nsfw](https://github.com/yahoo/open_nsfw)/224 | Not Suitable for Work (NSFW) classification using deep neural network Caffe models. |
-| 5293 | 1269 | 191 | 3 years ago | [seq2seq](https://github.com/google/seq2seq)/225 | A general-purpose encoder-decoder framework for Tensorflow |
-| 5287 | 1025 | 10 | 2 years ago | [progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans)/226 | Progressive Growing of GANs for Improved Quality, Stability, and Variation |
-| 5287 | 1197 | 72 | 5 months ago | [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)/227 |  💎1MB lightweight face detection model  (1MB轻量级人脸检测模型) |
-| 5285 | 527 | 195 | 3 days ago | [meshroom](https://github.com/alicevision/meshroom)/228 | 3D Reconstruction Software |
-| 5282 | 363 | 355 | 9 hours ago | [modin](https://github.com/modin-project/modin)/229 | Modin: Speed up your Pandas workflows by changing a single line of code |
-| 5265 | 1156 | 131 | 7 months ago | [spinningup](https://github.com/openai/spinningup)/230 | An educational resource to help anyone learn deep reinforcement learning. |
-| 5245 | 1569 | 3 | 2 months ago | [data-science-blogs](https://github.com/rushter/data-science-blogs)/231 | A curated list of data science blogs |
-| 5244 | 280 | 38 | 16 days ago | [boltons](https://github.com/mahmoud/boltons)/232 | 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton. |
-| 5241 | 528 | 15 | 3 days ago | [urh](https://github.com/jopohl/urh)/233 | Universal Radio Hacker: Investigate Wireless Protocols Like A Boss |
-| 5221 | 2868 | 239 | 5 hours ago | [edx-platform](https://github.com/edx/edx-platform)/234 | The Open edX platform, the software that powers edX! |
-| 5218 | 351 | 70 | 3 months ago | [voltron](https://github.com/snare/voltron)/235 | A hacky debugger UI for hackers |
-| 5175 | 1306 | 136 | a month ago | [Sublist3r](https://github.com/aboul3la/Sublist3r)/236 | Fast subdomains enumeration tool for penetration testers |
-| 5162 | 461 | 12 | 4 months ago | [eht-imaging](https://github.com/achael/eht-imaging)/237 | Imaging, analysis, and simulation software for radio interferometry |
-| 5155 | 666 | 22 | 3 years ago | [srez](https://github.com/david-gpu/srez)/238 | Image super-resolution through deep learning |
-| 5150 | 600 | 96 | a day ago | [streamlink](https://github.com/streamlink/streamlink)/239 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
-| 5148 | 1350 | 28 | 4 years ago | [neuraltalk](https://github.com/karpathy/neuraltalk)/240 | NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. |
-| 5127 | 1205 | 79 | 3 months ago | [dejavu](https://github.com/worldveil/dejavu)/241 | Audio fingerprinting and recognition in Python |
-| 5095 | 1174 | 0 | 15 days ago | [python-small-examples](https://github.com/jackzhenguo/python-small-examples)/242 | 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。 |
-| 5093 | 956 | 145 | a month ago | [trape](https://github.com/jofpin/trape)/243 | People tracker on the Internet: OSINT analysis and research tool by Jose Pino |
-| 5080 | 383 | 232 | 2 days ago | [vaex](https://github.com/vaexio/vaex)/244 |  Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀 |
-| 5044 | 817 | 326 | 9 days ago | [hyperopt](https://github.com/hyperopt/hyperopt)/245 | Distributed Asynchronous Hyperparameter Optimization in Python |
-| 5030 | 1976 | 8 | 2 years ago | [PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes)/246 | Python入门网络爬虫之精华版 |
-| 5019 | 1078 | 18 | 2 months ago | [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)/247 | A list of popular github projects related to deep learning |
-| 5015 | 382 | 192 | 26 minutes ago | [prefect](https://github.com/PrefectHQ/prefect)/248 | The easiest way to automate your data |
-| 4995 | 980 | 84 | 6 days ago | [django-extensions](https://github.com/django-extensions/django-extensions)/249 | This is a repository for collecting global custom management extensions for the Django Framework.  |
-| 4985 | 991 | 38 | 14 days ago | [byob](https://github.com/malwaredllc/byob)/250 | An open-source post-exploitation framework for students, researchers and developers. |
-| 4959 | 930 | 304 | a month ago | [MMdnn](https://github.com/microsoft/MMdnn)/251 | MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML. |
-| 4946 | 752 | 145 | 15 days ago | [gspread](https://github.com/burnash/gspread)/252 | Google Sheets Python API |
-| 4930 | 711 | 161 | 10 months ago | [autograd](https://github.com/HIPS/autograd)/253 | Efficiently computes derivatives of numpy code. |
-| 4914 | 423 | 29 | 3 hours ago | [trax](https://github.com/google/trax)/254 | Trax — Deep Learning with Clear Code and Speed |
-| 4874 | 1653 | 51 | 4 years ago | [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends)/255 | 查看被删的微信好友 |
-| 4865 | 537 | 6 | 1 year, 4 months ago | [have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)/256 | An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks |
-| 4864 | 332 | 70 | 1 year, 3 months ago | [grip](https://github.com/joeyespo/grip)/257 | Preview GitHub README.md files locally before committing them. |
-| 4856 | 375 | 29 | 6 hours ago | [pre-commit](https://github.com/pre-commit/pre-commit)/258 | A framework for managing and maintaining multi-language pre-commit hooks. |
-| 4826 | 141 | 45 | 6 months ago | [Hasklig](https://github.com/i-tu/Hasklig)/259 | Hasklig - a code font with monospaced ligatures |
-| 4796 | 1270 | 39 | 10 months ago | [keras-rl](https://github.com/keras-rl/keras-rl)/260 | Deep Reinforcement Learning for Keras. |
-| 4788 | 999 | 144 | 1 year, 3 months ago | [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)/261 | Synthesizing and manipulating 2048x1024 images with conditional GANs |
-| 4759 | 1559 | 30 | 8 months ago | [ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse)/262 | 自己动手做聊天机器人教程 |
-| 4756 | 1195 | 74 | 3 months ago | [iScript](https://github.com/PeterDing/iScript)/263 | 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip |
-| 4755 | 667 | 15 | 52 minutes ago | [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)/264 | PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more |
-| 4755 | 457 | 2 | 1 year, 8 months ago | [uncaptcha2](https://github.com/ecthros/uncaptcha2)/265 | defeating the latest version of ReCaptcha with 91% accuracy |
-| 4733 | 1173 | 73 | 2 months ago | [cleverhans](https://github.com/tensorflow/cleverhans)/266 | An adversarial example library for constructing attacks, building defenses, and benchmarking both |
-| 4719 | 374 | 274 | a month ago | [lbry-sdk](https://github.com/lbryio/lbry-sdk)/267 | The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps. |
-| 4709 | 1479 | 64 | 5 months ago | [WechatSogou](https://github.com/chyroc/WechatSogou)/268 | 基于搜狗微信搜索的微信公众号爬虫接口 |
-| 4700 | 1297 | 335 | 15 hours ago | [OctoPrint](https://github.com/OctoPrint/OctoPrint)/269 | OctoPrint is the snappy web interface for your 3D printer! |
-| 4667 | 1494 | 12 | 2 months ago | [backtrader](https://github.com/mementum/backtrader)/270 | Python Backtesting library for trading strategies |
-| 4664 | 1480 | 56 | 2 days ago | [scrapy-redis](https://github.com/rmax/scrapy-redis)/271 | Redis-based components for Scrapy. |
-| 4664 | 866 | 56 | 4 months ago | [stargan](https://github.com/yunjey/stargan)/272 | StarGAN - Official PyTorch Implementation (CVPR 2018) |
-| 4638 | 836 | 55 | 14 days ago | [DeepPavlov](https://github.com/deepmipt/DeepPavlov)/273 | An open source library for deep learning end-to-end dialog systems and chatbots. |
-| 4634 | 1302 | 290 | 3 months ago | [CenterNet](https://github.com/xingyizhou/CenterNet)/274 | Object detection, 3D detection, and pose estimation using center point detection:  |
-| 4587 | 266 | 18 | 9 months ago | [dumb-init](https://github.com/Yelp/dumb-init)/275 | A minimal init system for Linux containers |
-| 4583 | 359 | 160 | 12 days ago | [starlette](https://github.com/encode/starlette)/276 | The little ASGI framework that shines. 🌟 |
-| 4571 | 847 | 31 | 1 year, 2 months ago | [haipproxy](https://github.com/SpiderClub/haipproxy)/277 | :sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis |
-| 4570 | 685 | 10 | 26 days ago | [graph_nets](https://github.com/deepmind/graph_nets)/278 | Build Graph Nets in Tensorflow |
-| 4570 | 1008 | 124 | a day ago | [mycroft-core](https://github.com/MycroftAI/mycroft-core)/279 | Mycroft Core, the Mycroft Artificial Intelligence platform.  |
-| 4569 | 1702 | 110 | 2 days ago | [django-oscar](https://github.com/django-oscar/django-oscar)/280 | Domain-driven e-commerce for Django |
-| 4555 | 919 | 25 | 2 years ago | [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet)/281 | Play couplet with seq2seq model. 用深度学习对对联。 |
-| 4538 | 606 | 399 | 8 days ago | [apex](https://github.com/NVIDIA/apex)/282 | A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch |
-| 4531 | 168 | 33 | 21 hours ago | [ffsubsync](https://github.com/smacke/ffsubsync)/283 | Automagically synchronize subtitles with video. |
-| 4501 | 428 | 2 | 5 months ago | [TensorFlow-World](https://github.com/astorfi/TensorFlow-World)/284 | :earth_americas: Simple and ready-to-use tutorials for TensorFlow |
-| 4495 | 261 | 103 | 6 months ago | [rtv](https://github.com/michael-lazar/rtv)/285 | Browse Reddit from your terminal |
-| 4490 | 182 | 62 | 2 days ago | [pywal](https://github.com/dylanaraps/pywal)/286 | 🎨 Generate and change color-schemes on the fly. |
-| 4480 | 4566 | 60 | 6 minutes ago | [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples)/287 | Code samples used on cloud.google.com |
-| 4457 | 1382 | 381 | 1 year, 5 months ago | [xadmin](https://github.com/sshwsfc/xadmin)/288 | Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap. |
-| 4451 | 607 | 125 | 27 days ago | [knowledge-repo](https://github.com/airbnb/knowledge-repo)/289 | A next-generation curated knowledge sharing platform for data scientists and other technical professions. |
-| 4446 | 1185 | 75 | 2 days ago | [dirsearch](https://github.com/maurosoria/dirsearch)/290 | Web path scanner |
-| 4443 | 1668 | 83 | 20 days ago | [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)/291 | Open Source Neural Machine Translation in PyTorch |
-| 4443 | 1102 | 11 | 1 year, 8 months ago | [ipv6-hosts](https://github.com/lennylxx/ipv6-hosts)/292 | Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation |
-| 4442 | 1731 | 13 | 3 years ago | [lihang_book_algorithm](https://github.com/WenDesi/lihang_book_algorithm)/293 | 致力于将李航博士《统计学习方法》一书中所有算法实现一遍 |
-| 4441 | 1491 | 647 | 2 days ago | [buildbot](https://github.com/buildbot/buildbot)/294 | Python-based continuous integration testing framework; your pull requests are more than welcome! |
-| 4436 | 413 | 70 | 12 days ago | [jrnl](https://github.com/jrnl-org/jrnl)/295 | Collect your thoughts and notes without leaving the command line. |
-| 4435 | 292 | 8 | 30 days ago | [httpstat](https://github.com/reorx/httpstat)/296 | curl statistics made simple |
-| 4425 | 769 | 39 | a month ago | [flower](https://github.com/mher/flower)/297 | Real-time monitor and web admin for Celery distributed task queue |
-| 4417 | 244 | 128 | a day ago | [asyncpg](https://github.com/MagicStack/asyncpg)/298 | A fast PostgreSQL Database Client Library for Python/asyncio. |
-| 4406 | 1263 | 337 | a day ago | [flask-admin](https://github.com/flask-admin/flask-admin)/299 | Simple and extensible administrative interface framework for Flask |
-| 4404 | 1660 | 251 | 9 hours ago | [hue](https://github.com/cloudera/hue)/300 | Hue Editor: Open source SQL Query Assistant for Databases/Warehouses |
-| 4857 | 375 | 30 | 6 hours ago | [pre-commit](https://github.com/pre-commit/pre-commit)/301 | A framework for managing and maintaining multi-language pre-commit hooks. |
-| 4850 | 751 | 59 | 5 months ago | [Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark)/302 | Learning to See in the Dark. CVPR 2018 |
-| 4826 | 936 | 88 | 28 days ago | [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)/303 | A PyTorch implementation of EfficientNet |
-| 4826 | 141 | 45 | 6 months ago | [Hasklig](https://github.com/i-tu/Hasklig)/304 | Hasklig - a code font with monospaced ligatures |
-| 4796 | 1270 | 39 | 10 months ago | [keras-rl](https://github.com/keras-rl/keras-rl)/305 | Deep Reinforcement Learning for Keras. |
-| 4788 | 999 | 144 | 1 year, 3 months ago | [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)/306 | Synthesizing and manipulating 2048x1024 images with conditional GANs |
-| 4756 | 1195 | 74 | 3 months ago | [iScript](https://github.com/PeterDing/iScript)/307 | 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip |
-| 4755 | 667 | 15 | 52 minutes ago | [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)/308 | PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more |
-| 4755 | 457 | 2 | 1 year, 8 months ago | [uncaptcha2](https://github.com/ecthros/uncaptcha2)/309 | defeating the latest version of ReCaptcha with 91% accuracy |
-| 4733 | 1173 | 73 | 2 months ago | [cleverhans](https://github.com/tensorflow/cleverhans)/310 | An adversarial example library for constructing attacks, building defenses, and benchmarking both |
-| 4719 | 374 | 274 | a month ago | [lbry-sdk](https://github.com/lbryio/lbry-sdk)/311 | The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps. |
-| 4709 | 1479 | 64 | 5 months ago | [WechatSogou](https://github.com/chyroc/WechatSogou)/312 | 基于搜狗微信搜索的微信公众号爬虫接口 |
-| 4700 | 1297 | 335 | 15 hours ago | [OctoPrint](https://github.com/OctoPrint/OctoPrint)/313 | OctoPrint is the snappy web interface for your 3D printer! |
-| 4667 | 1494 | 12 | 2 months ago | [backtrader](https://github.com/mementum/backtrader)/314 | Python Backtesting library for trading strategies |
-| 4664 | 1480 | 56 | 2 days ago | [scrapy-redis](https://github.com/rmax/scrapy-redis)/315 | Redis-based components for Scrapy. |
-| 4664 | 866 | 56 | 4 months ago | [stargan](https://github.com/yunjey/stargan)/316 | StarGAN - Official PyTorch Implementation (CVPR 2018) |
-| 4651 | 723 | 50 | 2 days ago | [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)/317 | This repository holds the device support files for the iOS, and I will update it regularly. |
-| 4638 | 836 | 55 | 14 days ago | [DeepPavlov](https://github.com/deepmipt/DeepPavlov)/318 | An open source library for deep learning end-to-end dialog systems and chatbots. |
-| 4587 | 266 | 18 | 9 months ago | [dumb-init](https://github.com/Yelp/dumb-init)/319 | A minimal init system for Linux containers |
-| 4587 | 248 | 37 | 23 hours ago | [saws](https://github.com/donnemartin/saws)/320 | A supercharged AWS command line interface (CLI). |
-| 4584 | 359 | 160 | 12 days ago | [starlette](https://github.com/encode/starlette)/321 | The little ASGI framework that shines. 🌟 |
-| 4570 | 685 | 10 | 26 days ago | [graph_nets](https://github.com/deepmind/graph_nets)/322 | Build Graph Nets in Tensorflow |
-| 4570 | 1008 | 124 | a day ago | [mycroft-core](https://github.com/MycroftAI/mycroft-core)/323 | Mycroft Core, the Mycroft Artificial Intelligence platform.  |
-| 4569 | 1702 | 110 | 2 days ago | [django-oscar](https://github.com/django-oscar/django-oscar)/324 | Domain-driven e-commerce for Django |
-| 4557 | 631 | 99 | 5 days ago | [channels](https://github.com/django/channels)/325 | Developer-friendly asynchrony for Django |
-| 4555 | 919 | 25 | 2 years ago | [seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet)/326 | Play couplet with seq2seq model. 用深度学习对对联。 |
-| 4495 | 261 | 103 | 6 months ago | [rtv](https://github.com/michael-lazar/rtv)/327 | Browse Reddit from your terminal |
-| 4490 | 182 | 62 | 2 days ago | [pywal](https://github.com/dylanaraps/pywal)/328 | 🎨 Generate and change color-schemes on the fly. |
-| 4489 | 1005 | 39 | 2 months ago | [BayesianOptimization](https://github.com/fmfn/BayesianOptimization)/329 | A Python implementation of global optimization with gaussian processes. |
-| 4480 | 4566 | 59 | 12 seconds ago | [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples)/330 | Code samples used on cloud.google.com |
-| 4468 | 515 | 48 | 4 months ago | [flashtext](https://github.com/vi3k6i5/flashtext)/331 | Extract Keywords from sentence or Replace keywords in sentences. |
-| 4463 | 146 | 11 | 3 months ago | [opendrop](https://github.com/seemoo-lab/opendrop)/332 | An open Apple AirDrop implementation written in Python |
-| 4457 | 1382 | 381 | 1 year, 5 months ago | [xadmin](https://github.com/sshwsfc/xadmin)/333 | Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap. |
-| 4451 | 607 | 125 | 27 days ago | [knowledge-repo](https://github.com/airbnb/knowledge-repo)/334 | A next-generation curated knowledge sharing platform for data scientists and other technical professions. |
-| 4447 | 1185 | 75 | 2 days ago | [dirsearch](https://github.com/maurosoria/dirsearch)/335 | Web path scanner |
-| 4442 | 1102 | 11 | 1 year, 8 months ago | [ipv6-hosts](https://github.com/lennylxx/ipv6-hosts)/336 | Fork of https://code.google.com/archive/p/ipv6-hosts/, focusing on automation |
-| 4441 | 1491 | 647 | 2 days ago | [buildbot](https://github.com/buildbot/buildbot)/337 | Python-based continuous integration testing framework; your pull requests are more than welcome! |
-| 4436 | 413 | 70 | 12 days ago | [jrnl](https://github.com/jrnl-org/jrnl)/338 | Collect your thoughts and notes without leaving the command line. |
-| 4435 | 292 | 8 | Unknown | [httpstat](https://github.com/reorx/httpstat)/339 | curl statistics made simple |
-| 4425 | 769 | 39 | a month ago | [flower](https://github.com/mher/flower)/340 | Real-time monitor and web admin for Celery distributed task queue |
-| 4422 | 226 | 59 | a day ago | [Ciphey](https://github.com/Ciphey/Ciphey)/341 | ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡ |
-| 4417 | 244 | 128 | a day ago | [asyncpg](https://github.com/MagicStack/asyncpg)/342 | A fast PostgreSQL Database Client Library for Python/asyncio. |
-| 4406 | 1263 | 337 | Unknown | [flask-admin](https://github.com/flask-admin/flask-admin)/343 | Simple and extensible administrative interface framework for Flask |
-| 4404 | 1660 | 251 | 9 hours ago | [hue](https://github.com/cloudera/hue)/344 | Hue Editor: Open source SQL Query Assistant for Databases/Warehouses |
-| 4402 | 112 | 167 | Unknown | [edgedb](https://github.com/edgedb/edgedb)/345 | The next generation relational database. |
-| 4381 | 547 | 69 | Unknown | [Stream-Framework](https://github.com/tschellenbach/Stream-Framework)/346 | Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology: |
-| 4376 | 545 | 125 | Unknown | [platformio-core](https://github.com/platformio/platformio-core)/347 | PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in! |
-| 4356 | 535 | 56 | a month ago | [csvkit](https://github.com/wireservice/csvkit)/348 | A suite of utilities for converting to and working with CSV, the king of tabular file formats. |
-| 4354 | 1012 | 220 | 8 months ago | [pdfminer](https://github.com/euske/pdfminer)/349 | Python PDF Parser (Not actively maintained). Check out pdfminer.six. |
-| 4353 | 507 | 212 | 6 months ago | [persepolis](https://github.com/persepolisdm/persepolis)/350 | Persepolis Download Manager is a GUI for aria2. |
-| 4345 | 1195 | 80 | Unknown | [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)/351 | Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System |
-| 4321 | 245 | 10 | Unknown | [tiler](https://github.com/nuno-faria/tiler)/352 | 👷 Build images with images |
-| 4320 | 1120 | 42 | 3 months ago | [attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)/353 | A PyTorch implementation of the Transformer model in "Attention is All You Need". |
-| 4312 | 574 | 21 | 2 years ago | [sketch-code](https://github.com/ashnkumar/sketch-code)/354 | Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images. |
-| 4306 | 562 | 1451 | Unknown | [conan](https://github.com/conan-io/conan)/355 | Conan - The open-source C/C++ package manager |
-| 4305 | 582 | 126 | Unknown | [spotify-downloader](https://github.com/ritiek/spotify-downloader)/356 | Download Spotify playlists from YouTube with albumart and metadata |
-| 4290 | 599 | 269 | Unknown | [pyautogui](https://github.com/asweigart/pyautogui)/357 | A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard. |
-| 4283 | 953 | 41 | Unknown | [face-alignment](https://github.com/1adrianb/face-alignment)/358 | :fire: 2D and 3D Face alignment library build using pytorch  |
-| 4234 | 456 | 55 | 2 months ago | [pidcat](https://github.com/JakeWharton/pidcat)/359 | Colored logcat script which only shows log entries for a specific application package. |
-| 4231 | 697 | 56 | Unknown | [peda](https://github.com/longld/peda)/360 | PEDA - Python Exploit Development Assistance for GDB |
-| 4218 | 980 | 339 | Unknown | [gluon-cv](https://github.com/dmlc/gluon-cv)/361 | Gluon CV Toolkit |
-| 4201 | 697 | 28 | Unknown | [snorkel](https://github.com/snorkel-team/snorkel)/362 | A system for quickly generating training data with weak supervision |
-| 4186 | 371 | 288 | Unknown | [pydantic](https://github.com/samuelcolvin/pydantic)/363 | Data parsing and validation using Python type hints |
-| 4182 | 275 | 199 | Unknown | [pyodide](https://github.com/iodide-project/pyodide)/364 | The Python scientific stack, compiled to WebAssembly |
-| 4170 | 725 | 208 | Unknown | [Airtest](https://github.com/AirtestProject/Airtest)/365 | UI Automation Framework for Games and Apps |
-| 4170 | 2476 | 16 | Unknown | [python_koans](https://github.com/gregmalcolm/python_koans)/366 | Python Koans - Learn Python through TDD |
-| 4154 | 1750 | 52 | Unknown | [multi-v2ray](https://github.com/Jrohy/multi-v2ray)/367 | v2ray多用户管理部署程序 |
-| 4147 | 693 | 56 | Unknown | [serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor)/368 | 🕵 Artificial Intelligence for social control of public administration |
-| 4142 | 436 | 179 | Unknown | [umap](https://github.com/lmcinnes/umap)/369 | Uniform Manifold Approximation and Projection |
-| 4130 | 1495 | 78 | Unknown | [mezzanine](https://github.com/stephenmcd/mezzanine)/370 | CMS framework for Django |
-| 4129 | 2150 | 797 | Unknown | [electrum](https://github.com/spesmilo/electrum)/371 | Electrum Bitcoin Wallet |
-| 4116 | 374 | 173 | Unknown | [isso](https://github.com/posativ/isso)/372 | a Disqus alternative |
-| 4110 | 393 | 64 | Unknown | [xmltodict](https://github.com/martinblech/xmltodict)/373 | Python module that makes working with XML feel like you are working with JSON |
-| 4083 | 492 | 111 | Unknown | [onionshare](https://github.com/micahflee/onionshare)/374 | Securely and anonymously share files, host websites, and chat with friends using the Tor network |
-| 4082 | 1736 | 144 | Unknown | [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS)/375 | QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案 |
-| 4049 | 477 | 2 | Unknown | [pygorithm](https://github.com/OmkarPathak/pygorithm)/376 | A Python module for learning all major algorithms |
-| 4035 | 259 | 23 | Unknown | [uds](https://github.com/stewartmcgown/uds)/377 | Unlimited Drive Storage by splitting binary files into base64 |
-| 4032 | 913 | 105 | Unknown | [ta-lib](https://github.com/mrjbq7/ta-lib)/378 | Python wrapper for TA-Lib (http://ta-lib.org/). |
-| 4028 | 635 | 105 | Unknown | [textgenrnn](https://github.com/minimaxir/textgenrnn)/379 | Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code. |
-| 4006 | 1709 | 43 | Unknown | [Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples)/380 | 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码 |
-| 3995 | 384 | 86 | Unknown | [kinto](https://github.com/Kinto/kinto)/381 | A generic JSON document store with sharing and synchronisation capabilities. |
-| 3982 | 702 | 8 | Unknown | [discover-flask](https://github.com/realpython/discover-flask)/382 | Full Stack Web Development with Flask. |
-| 3982 | 1174 | 77 | Unknown | [arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver)/383 | Web interface for browsing, search and filtering recent arxiv submissions |
-| 3972 | 1819 | 48 | Unknown | [keras-retinanet](https://github.com/fizyr/keras-retinanet)/384 | Keras implementation of RetinaNet object detection. |
-| 3962 | 518 | 438 | Unknown | [st2](https://github.com/StackStorm/st2)/385 | StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/. |
-| 3962 | 970 | 201 | Unknown | [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)/386 | The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights. |
-| 3960 | 597 | 66 | Unknown | [Telethon](https://github.com/LonamiWebs/Telethon)/387 | Pure Python 3 MTProto API Telegram client library, for bots too! |
-| 3935 | 1241 | 104 | Unknown | [DeepCTR](https://github.com/shenweichen/DeepCTR)/388 | Easy-to-use,Modular and Extendible package of deep-learning based CTR models for search and recommendation. |
-| 3931 | 382 | 306 | Unknown | [microk8s](https://github.com/ubuntu/microk8s)/389 | MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. |
-| 3919 | 2134 | 8 | Unknown | [DeepLearning.ai-Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)/390 | This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too. |
-| 3899 | 649 | 51 | Unknown | [librosa](https://github.com/librosa/librosa)/391 | Python library for audio and music analysis |
-| 3896 | 726 | 44 | Unknown | [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)/392 | Socket.IO integration for Flask applications. |
-| 3895 | 1352 | 27 | Unknown | [rqalpha](https://github.com/ricequant/rqalpha)/393 | A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities |
-| 3894 | 218 | 2 | Unknown | [buku](https://github.com/jarun/buku)/394 | :bookmark: Browser-independent bookmark manager |
-| 3882 | 231 | 12 | Unknown | [GitGutter](https://github.com/jisaacks/GitGutter)/395 | A Sublime Text 2/3 plugin to see git diff in gutter |
-| 3877 | 2826 | 21 | Unknown | [MachineLearning](https://github.com/wepe/MachineLearning)/396 | Basic Machine Learning and Deep Learning |
-| 3869 | 828 | 42 | Unknown | [DrQA](https://github.com/facebookresearch/DrQA)/397 | Reading Wikipedia to Answer Open-Domain Questions |
-| 3862 | 283 | 9 | Unknown | [rockstar](https://github.com/avinassh/rockstar)/398 | Makes you a Rockstar C++ Programmer in 2 minutes |
-| 3850 | 543 | 65 | Unknown | [mmf](https://github.com/facebookresearch/mmf)/399 | A modular framework for vision & language multimodal research from Facebook AI Research (FAIR) |
-| 3842 | 430 | 396 | Unknown | [xonsh](https://github.com/xonsh/xonsh)/400 | Python-powered, cross-platform, Unix-gazing shell |
-| 5569 | 1855 | 265 | 1 year, 7 months ago | [nmt](https://github.com/tensorflow/nmt)/401 | TensorFlow Neural Machine Translation Tutorial |
-| 5546 | 2057 | 1959 | 2 days ago | [statsmodels](https://github.com/statsmodels/statsmodels)/402 | Statsmodels: statistical modeling and econometrics in Python |
-| 5545 | 601 | 87 | 11 months ago | [chinese-dos-games](https://github.com/rwv/chinese-dos-games)/403 | 🎮 Chinese DOS games in browser. |
-| 5537 | 939 | 38 | 8 months ago | [UGATIT](https://github.com/taki0112/UGATIT)/404 | Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020) |
-| 5520 | 3309 | 53 | 4 years ago | [shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr)/405 | Python port of ShadowsocksR |
-| 5506 | 1633 | 170 | 14 hours ago | [discord.py](https://github.com/Rapptz/discord.py)/406 | An API wrapper for Discord written in Python. |
-| 5496 | 1623 | 147 | 2 days ago | [impacket](https://github.com/SecureAuthCorp/impacket)/407 | Impacket is a collection of Python classes for working with network protocols. |
-| 5485 | 433 | 29 | 7 months ago | [apistar](https://github.com/encode/apistar)/408 | The Web API toolkit. 🛠 |
-| 5485 | 1274 | 10 | 1 year, 11 months ago | [interpy-zh](https://github.com/eastlakeside/interpy-zh)/409 | 📘《Python进阶》（Intermediate Python 中文版） |
-| 5475 | 4946 | 51 | 6 days ago | [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)/410 | A collection of machine learning examples and tutorials. |
-| 5459 | 1169 | 62 | 2 months ago | [bypy](https://github.com/houtianze/bypy)/411 | Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端 |
-| 5458 | 1368 | 16 | a month ago | [chainer](https://github.com/chainer/chainer)/412 | A flexible framework of neural networks for deep learning |
-| 5454 | 1073 | 891 | a day ago | [cython](https://github.com/cython/cython)/413 | The most widely used Python to C compiler |
-| 5449 | 1308 | 28 | 12 days ago | [webpy](https://github.com/webpy/webpy)/414 | web.py is a web framework for python that is as simple as it is powerful.  |
-| 5446 | 1475 | 57 | 9 days ago | [werkzeug](https://github.com/pallets/werkzeug)/415 | The comprehensive WSGI web application library. |
-| 5435 | 1675 | 67 | a month ago | [labelme](https://github.com/wkentaro/labelme)/416 | Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation). |
-| 5434 | 1069 | 175 | 9 months ago | [xlnet](https://github.com/zihangdai/xlnet)/417 | XLNet: Generalized Autoregressive Pretraining for Language Understanding |
-| 5431 | 429 | 10 | 19 days ago | [sh](https://github.com/amoffat/sh)/418 | Python process launching |
-| 5424 | 439 | 126 | 4 years ago | [Flashlight](https://github.com/nate-parrott/Flashlight)/419 | The missing Spotlight plugin system |
-| 5423 | 147 | 23 | 7 months ago | [SASM](https://github.com/Dman95/SASM)/420 | SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages |
-| 5407 | 2649 | 18 | a month ago | [practical-python](https://github.com/dabeaz-course/practical-python)/421 | Practical Python Programming (course by @dabeaz) |
-| 5398 | 281 | 88 | 11 months ago | [opensnitch](https://github.com/evilsocket/opensnitch)/422 | OpenSnitch is a GNU/Linux port of the Little Snitch application firewall |
-| 5392 | 385 | 2 | 6 days ago | [programming-talks](https://github.com/hellerve/programming-talks)/423 | Awesome & interesting talks about programming |
-| 5387 | 1048 | 212 | a month ago | [taiga-back](https://github.com/taigaio/taiga-back)/424 | Agile project management platform. Built on top of Django and AngularJS |
-| 5387 | 860 | 3 | 1 year, 1 month ago | [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)/425 | :beers: awesome cheatsheet |
-| 5378 | 717 | 105 | 2 years ago | [powerline-shell](https://github.com/b-ryan/powerline-shell)/426 | A beautiful and useful prompt for your shell |
-| 5371 | 911 | 111 | 8 days ago | [wav2letter](https://github.com/facebookresearch/wav2letter)/427 | Facebook AI Research's Automatic Speech Recognition Toolkit  |
-| 5370 | 2148 | 76 | 4 days ago | [docker-stacks](https://github.com/jupyter/docker-stacks)/428 | Ready-to-run Docker images containing Jupyter applications |
-| 5360 | 881 | 175 | 8 hours ago | [fail2ban](https://github.com/fail2ban/fail2ban)/429 | Daemon to ban hosts that cause multiple authentication errors |
-| 5331 | 3163 | 60 | 17 days ago | [data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)/430 | code for Data Science From Scratch book |
-| 5326 | 1037 | 41 | 1 year, 10 months ago | [open_nsfw](https://github.com/yahoo/open_nsfw)/431 | Not Suitable for Work (NSFW) classification using deep neural network Caffe models. |
-| 5325 | 406 | 20 | 4 days ago | [codeface](https://github.com/chrissimpkins/codeface)/432 | Typefaces for source code beautification |
-| 5298 | 552 | 44 | 3 months ago | [DAIN](https://github.com/baowenbo/DAIN)/433 | Depth-Aware Video Frame Interpolation (CVPR 2019) |
-| 5295 | 1521 | 178 | 8 months ago | [ImageAI](https://github.com/OlafenwaMoses/ImageAI)/434 | A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities |
-| 5293 | 1269 | 191 | 3 years ago | [seq2seq](https://github.com/google/seq2seq)/435 | A general-purpose encoder-decoder framework for Tensorflow |
-| 5287 | 877 | 50 | a day ago | [gevent](https://github.com/gevent/gevent)/436 | Coroutine-based concurrency library for Python |
-| 5287 | 1025 | 10 | 2 years ago | [progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans)/437 | Progressive Growing of GANs for Improved Quality, Stability, and Variation |
-| 5287 | 1197 | 72 | 5 months ago | [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)/438 |  💎1MB lightweight face detection model  (1MB轻量级人脸检测模型) |
-| 5285 | 527 | 195 | 3 days ago | [meshroom](https://github.com/alicevision/meshroom)/439 | 3D Reconstruction Software |
-| 5284 | 285 | 5 | 11 days ago | [deoplete.nvim](https://github.com/Shougo/deoplete.nvim)/440 | :stars: Dark powered asynchronous completion framework for neovim/Vim8 |
-| 5283 | 2691 | 110 | 2 years ago | [cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)/441 | Convolutional Neural Network for Text Classification in Tensorflow |
-| 5282 | 363 | 355 | 10 hours ago | [modin](https://github.com/modin-project/modin)/442 | Modin: Speed up your Pandas workflows by changing a single line of code |
-| 5271 | 1276 | 136 | 2 days ago | [pymc3](https://github.com/pymc-devs/pymc3)/443 | Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano |
-| 5265 | 1156 | 131 | 7 months ago | [spinningup](https://github.com/openai/spinningup)/444 | An educational resource to help anyone learn deep reinforcement learning. |
-| 5263 | 1163 | 28 | 9 hours ago | [Dshell](https://github.com/USArmyResearchLab/Dshell)/445 | Dshell is a network forensic analysis framework. |
-| 5245 | 1569 | 3 | 2 months ago | [data-science-blogs](https://github.com/rushter/data-science-blogs)/446 | A curated list of data science blogs |
-| 5244 | 280 | 38 | 16 days ago | [boltons](https://github.com/mahmoud/boltons)/447 | 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton. |
-| 5242 | 1506 | 1 | 3 months ago | [neural-style](https://github.com/anishathalye/neural-style)/448 | Neural style in TensorFlow! 🎨 |
-| 5241 | 528 | 15 | 3 days ago | [urh](https://github.com/jopohl/urh)/449 | Universal Radio Hacker: Investigate Wireless Protocols Like A Boss |
-| 5221 | 815 | 326 | 56 minutes ago | [aws-sam-cli](https://github.com/aws/aws-sam-cli)/450 | CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM |
-| 5221 | 2867 | 239 | 6 hours ago | [edx-platform](https://github.com/edx/edx-platform)/451 | The Open edX platform, the software that powers edX! |
-| 5218 | 351 | 70 | 3 months ago | [voltron](https://github.com/snare/voltron)/452 | A hacky debugger UI for hackers |
-| 5185 | 1330 | 4 | 3 years ago | [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)/453 | 中文 iOS/Mac 开发博客列表 |
-| 5176 | 708 | 50 | 4 months ago | [nlp-recipes](https://github.com/microsoft/nlp-recipes)/454 | Natural Language Processing Best Practices & Examples |
-| 5175 | 1306 | 136 | a month ago | [Sublist3r](https://github.com/aboul3la/Sublist3r)/455 | Fast subdomains enumeration tool for penetration testers |
-| 5162 | 461 | 12 | 4 months ago | [eht-imaging](https://github.com/achael/eht-imaging)/456 | Imaging, analysis, and simulation software for radio interferometry |
-| 5155 | 666 | 22 | 3 years ago | [srez](https://github.com/david-gpu/srez)/457 | Image super-resolution through deep learning |
-| 5150 | 2422 | 856 | 5 days ago | [models](https://github.com/PaddlePaddle/models)/458 | Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型） |
-| 5150 | 600 | 96 | a day ago | [streamlink](https://github.com/streamlink/streamlink)/459 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
-| 5148 | 1350 | 28 | 4 years ago | [neuraltalk](https://github.com/karpathy/neuraltalk)/460 | NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. |
-| 5130 | 1030 | 33 | 1 year, 5 months ago | [dev-setup](https://github.com/donnemartin/dev-setup)/461 | macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults. |
-| 5127 | 1205 | 79 | 3 months ago | [dejavu](https://github.com/worldveil/dejavu)/462 | Audio fingerprinting and recognition in Python |
-| 5118 | 2033 | 345 | 1 year, 4 months ago | [PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)/463 | Minimal PyTorch implementation of YOLOv3 |
-| 5111 | 906 | 0 | 2 months ago | [learn-python](https://github.com/trekhleb/learn-python)/464 | 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations. |
-| 5108 | 1658 | 115 | 3 years ago | [wxBot](https://github.com/liuwons/wxBot)/465 | Python网页微信API |
-| 5102 | 664 | 89 | a day ago | [featuretools](https://github.com/FeatureLabs/featuretools)/466 | An open source python library for automated feature engineering |
-| 5100 | 690 | 112 | 7 months ago | [truffleHog](https://github.com/dxa4481/truffleHog)/467 | Searches through git repositories for high entropy strings and secrets, digging deep into commit history |
-| 5098 | 117 | 50 | 2 months ago | [fantasque-sans](https://github.com/belluzj/fantasque-sans)/468 | A font family with a great monospaced variant for programmers. |
-| 5095 | 1174 | 0 | 15 days ago | [python-small-examples](https://github.com/jackzhenguo/python-small-examples)/469 | 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。 |
-| 5093 | 1760 | 179 | 1 year, 2 months ago | [speech_recognition](https://github.com/Uberi/speech_recognition)/470 | Speech recognition module for Python, supporting several engines and APIs, online and offline. |
-| 5093 | 956 | 145 | a month ago | [trape](https://github.com/jofpin/trape)/471 | People tracker on the Internet: OSINT analysis and research tool by Jose Pino |
-| 5080 | 383 | 232 | 2 days ago | [vaex](https://github.com/vaexio/vaex)/472 |  Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀 |
-| 5050 | 801 | 92 | 3 months ago | [pkuseg-python](https://github.com/lancopku/pkuseg-python)/473 | pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation |
-| 5044 | 817 | 326 | 9 days ago | [hyperopt](https://github.com/hyperopt/hyperopt)/474 | Distributed Asynchronous Hyperparameter Optimization in Python |
-| 5043 | 556 | 348 | 11 months ago | [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)/475 | 💡 Full-featured code intelligence and smart autocomplete for Sublime Text |
-| 5041 | 1442 | 191 | 9 hours ago | [yolov5](https://github.com/ultralytics/yolov5)/476 | YOLOv5 in PyTorch > ONNX > CoreML > iOS |
-| 5039 | 1491 | 184 | 6 days ago | [robotframework](https://github.com/robotframework/robotframework)/477 | Generic automation framework for acceptance testing and RPA |
-| 5030 | 1976 | 8 | 2 years ago | [PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes)/478 | Python入门网络爬虫之精华版 |
-| 5024 | 347 | 25 | 1 year, 4 months ago | [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking)/479 | Uses some known methods that attempt to minimize tracking in Windows 10 |
-| 5019 | 1078 | 18 | 2 months ago | [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)/480 | A list of popular github projects related to deep learning |
-| 5016 | 382 | 190 | an hour ago | [prefect](https://github.com/PrefectHQ/prefect)/481 | The easiest way to automate your data |
-| 4997 | 530 | 102 | 18 hours ago | [marshmallow](https://github.com/marshmallow-code/marshmallow)/482 | A lightweight library for converting complex objects to and from simple Python datatypes. |
-| 4996 | 980 | 84 | 6 days ago | [django-extensions](https://github.com/django-extensions/django-extensions)/483 | This is a repository for collecting global custom management extensions for the Django Framework.  |
-| 4985 | 991 | 38 | 14 days ago | [byob](https://github.com/malwaredllc/byob)/484 | An open-source post-exploitation framework for students, researchers and developers. |
-| 4959 | 930 | 304 | a month ago | [MMdnn](https://github.com/microsoft/MMdnn)/485 | MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML. |
-| 4958 | 1539 | 102 | 6 months ago | [gcn](https://github.com/tkipf/gcn)/486 | Implementation of Graph Convolutional Networks in TensorFlow |
-| 4954 | 1206 | 33 | 8 months ago | [snownlp](https://github.com/isnowfy/snownlp)/487 | Python library for processing Chinese text |
-| 4953 | 1489 | 46 | 1 year, 4 months ago | [face_classification](https://github.com/oarriaga/face_classification)/488 | Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV. |
-| 4946 | 752 | 145 | 15 days ago | [gspread](https://github.com/burnash/gspread)/489 | Google Sheets Python API |
-| 4940 | 1253 | 164 | 2 years ago | [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)/490 | A TensorFlow implementation of DeepMind's WaveNet paper |
-| 4930 | 711 | 161 | 10 months ago | [autograd](https://github.com/HIPS/autograd)/491 | Efficiently computes derivatives of numpy code. |
-| 4917 | 738 | 147 | 1 year, 11 months ago | [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui)/492 | A cross platform front-end GUI of the popular youtube-dl written in wxPython. |
-| 4914 | 423 | 29 | 4 hours ago | [trax](https://github.com/google/trax)/493 | Trax — Deep Learning with Clear Code and Speed |
-| 4908 | 1422 | 368 | 6 days ago | [docker-py](https://github.com/docker/docker-py)/494 | A Python library for the Docker Engine API |
-| 4903 | 1805 | 127 | 28 days ago | [folium](https://github.com/python-visualization/folium)/495 | Python Data. Leaflet.js Maps.  |
-| 4895 | 401 | 200 | a day ago | [faust](https://github.com/robinhood/faust)/496 | Python Stream Processing |
-| 4874 | 1653 | 51 | Unknown | [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends)/497 | 查看被删的微信好友 |
-| 4865 | 537 | 6 | Unknown | [have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)/498 | An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks |
-| 4864 | 332 | 70 | Unknown | [grip](https://github.com/joeyespo/grip)/499 | Preview GitHub README.md files locally before committing them. |
-| 4864 | 927 | 116 | Unknown | [auto-sklearn](https://github.com/automl/auto-sklearn)/500 | Automated Machine Learning with scikit-learn |
-| 2926 | 1044 | 75 | 2 years ago | [python-oauth2](https://github.com/joestump/python-oauth2)/501 | A fully tested, abstract interface to creating OAuth clients and servers. |
-| 2921 | 1452 | 16 | 2 years ago | [python-cookbook](https://github.com/dabeaz/python-cookbook)/502 | Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013.  |
-| 2921 | 443 | 74 | 18 days ago | [jsonschema](https://github.com/Julian/jsonschema)/503 | An(other) implementation of JSON Schema for Python |
-| 2919 | 430 | 66 | 2 months ago | [apscheduler](https://github.com/agronholm/apscheduler)/504 | Task scheduling library for Python |
-| 2918 | 280 | 21 | 3 months ago | [PyBoy](https://github.com/Baekalfen/PyBoy)/505 | Game Boy emulator written in Python |
-| 2914 | 116 | 4 | 11 months ago | [Crunch](https://github.com/chrissimpkins/Crunch)/506 | Insane(ly slow but wicked good) PNG image optimization |
-| 2914 | 605 | 48 | 2 years ago | [chnroutes](https://github.com/fivesheep/chnroutes)/507 | scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn |
-| 2906 | 159 | 109 | 31 minutes ago | [pytype](https://github.com/google/pytype)/508 | A static type analyzer for Python code |
-| 2905 | 677 | 5 | 8 days ago | [social_mapper](https://github.com/Greenwolf/social_mapper)/509 | A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) |
-| 2900 | 314 | 72 | 3 months ago | [golem](https://github.com/golemfactory/golem)/510 | Golem is creating a global market for computing power. |
-| 2899 | 291 | 60 | 11 months ago | [camelot](https://github.com/atlanhq/camelot)/511 | Camelot: PDF Table Extraction for Humans |
-| 2897 | 943 | 20 | a month ago | [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)/512 | PyTorch implementation of the U-Net for image semantic segmentation with high quality images |
-| 2897 | 679 | 35 | 4 hours ago | [python-slackclient](https://github.com/slackapi/python-slackclient)/513 | Slack Developer Kit for Python |
-| 2896 | 375 | 262 | 1 year, 1 month ago | [blaze](https://github.com/blaze/blaze)/514 | NumPy and Pandas interface to Big Data |
-| 2888 | 294 | 112 | 2 days ago | [kornia](https://github.com/kornia/kornia)/515 | Open Source Differentiable Computer Vision Library for PyTorch |
-| 2882 | 836 | 1522 | a day ago | [meson](https://github.com/mesonbuild/meson)/516 | The Meson Build System |
-| 2879 | 501 | 88 | a day ago | [molecule](https://github.com/ansible-community/molecule)/517 | Molecule aids in the development and testing of Ansible roles |
-| 2875 | 996 | 12 | a month ago | [google-maps-services-python](https://github.com/googlemaps/google-maps-services-python)/518 | Python client library for Google Maps API Web Services |
-| 2874 | 722 | 7 | 2 years ago | [algorithms](https://github.com/nryoung/algorithms)/519 | This repository is not maintained |
-| 2867 | 1129 | 16 | 2 years ago | [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)/520 | 算法/数据结构/Python/剑指offer/机器学习/leetcode |
-| 2866 | 907 | 190 | 5 years ago | [docker-registry](https://github.com/docker-archive/docker-registry)/521 | This is **DEPRECATED**! Please go to https://github.com/docker/distribution |
-| 2865 | 530 | 35 | 4 years ago | [neural-storyteller](https://github.com/ryankiros/neural-storyteller)/522 | A recurrent neural network for generating little stories about images |
-| 2864 | 984 | 22 | 2 years ago | [algorithm](https://github.com/qiwsir/algorithm)/523 | None |
-| 2863 | 863 | 86 | 2 days ago | [espnet](https://github.com/espnet/espnet)/524 | End-to-End Speech Processing Toolkit |
-| 2859 | 221 | 59 | 9 hours ago | [hydra](https://github.com/facebookresearch/hydra)/525 | Hydra is a framework for elegantly configuring complex applications |
-| 2855 | 1098 | 8 | 3 months ago | [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)/526 | Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅 |
-| 2852 | 458 | 27 | a month ago | [python-pinyin](https://github.com/mozillazg/python-pinyin)/527 | 汉字转拼音(pypinyin) |
-| 2846 | 1075 | 138 | 1 year, 5 days ago | [pointnet](https://github.com/charlesq34/pointnet)/528 | PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation |
-| 2843 | 348 | 32 | a day ago | [mindsdb](https://github.com/mindsdb/mindsdb)/529 | Predictive AI layer for existing databases. |
-| 2842 | 91 | 12 | 17 days ago | [doitlive](https://github.com/sloria/doitlive)/530 | Because sometimes you need to do it live |
-| 2838 | 596 | 62 | 4 years ago | [lda2vec](https://github.com/cemoody/lda2vec)/531 | None |
-| 2835 | 481 | 8 | 10 months ago | [PyTricks](https://github.com/brennerm/PyTricks)/532 | Collection of less popular features and tricks for the Python programming language |
-| 2835 | 563 | 74 | 5 months ago | [albert_zh](https://github.com/brightmart/albert_zh)/533 | A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型 |
-| 2820 | 1189 | 66 | 10 months ago | [xunfeng](https://github.com/ysrc/xunfeng)/534 | 巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。 |
-| 2820 | 492 | 1 | 7 months ago | [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)/535 | Simple Tensorflow Cookbook for easy-to-use |
-| 2818 | 737 | 113 | 1 year, 6 months ago | [pytorch-semseg](https://github.com/meetshah1995/pytorch-semseg)/536 | Semantic Segmentation Architectures Implemented in PyTorch |
-| 2812 | 807 | 6 | 20 days ago | [ltp](https://github.com/HIT-SCIR/ltp)/537 | Language Technology Platform |
-| 2809 | 903 | 26 | 8 days ago | [weiboSpider](https://github.com/dataabc/weiboSpider)/538 | 新浪微博爬虫，用python爬取新浪微博数据 |
-| 2807 | 1600 | 68 | 2 years ago | [RocketMap](https://github.com/RocketMap/RocketMap)/539 | 🌏 Live visualization of all the pokemon in your area... and more! |
-| 2806 | 425 | 12 | a day ago | [pritunl](https://github.com/pritunl/pritunl)/540 | Enterprise VPN server |
-| 2797 | 339 | 12 | 20 hours ago | [cheatsheets](https://github.com/matplotlib/cheatsheets)/541 | Official Matplotlib cheat sheets |
-| 2796 | 181 | 4 | 3 months ago | [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks)/542 | Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab. |
-| 2776 | 1142 | 118 | 2 years ago | [python-instagram](https://github.com/facebookarchive/python-instagram)/543 | Python Client for Instagram API |
-| 2763 | 430 | 165 | 45 minutes ago | [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)/544 | The Database Toolkit for Python |
-| 2762 | 98 | 12 | 2 months ago | [python-ftfy](https://github.com/LuminosoInsight/python-ftfy)/545 | Fixes mojibake and other glitches in Unicode text, after the fact. |
-| 2759 | 542 | 46 | 1 year, 1 month ago | [TecoGAN](https://github.com/thunil/TecoGAN)/546 | This repo will contain source code and materials for the TecoGAN project, i.e. code for a TEmporally COherent GAN |
-| 2758 | 471 | 6 | 7 hours ago | [tensorforce](https://github.com/tensorforce/tensorforce)/547 | Tensorforce: a TensorFlow library for applied reinforcement learning |
-| 2756 | 404 | 48 | 18 days ago | [dedupe](https://github.com/dedupeio/dedupe)/548 | :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution. |
-| 2748 | 474 | 39 | a month ago | [simpledet](https://github.com/TuSimple/simpledet)/549 | A Simple and Versatile Framework for Object Detection and Instance Recognition |
-| 2747 | 493 | 97 | a month ago | [django-guardian](https://github.com/django-guardian/django-guardian)/550 | Per object permissions for Django |
-| 2740 | 906 | 1 | 6 months ago | [Ad-papers](https://github.com/wzhe06/Ad-papers)/551 | Papers on Computational Advertising |
-| 2739 | 471 | 156 | 4 days ago | [vyper](https://github.com/vyperlang/vyper)/552 | Pythonic Smart Contract Language for the EVM |
-| 2734 | 817 | 3 | 9 days ago | [OpenNRE](https://github.com/thunlp/OpenNRE)/553 |  An Open-Source Package for Neural Relation Extraction (NRE) |
-| 2733 | 1174 | 95 | 2 years ago | [DeepQA](https://github.com/Conchylicultor/DeepQA)/554 | My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot |
-| 2733 | 470 | 42 | 8 months ago | [tencent-ml-images](https://github.com/Tencent/tencent-ml-images)/555 | Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet |
-| 2727 | 234 | 42 | 3 months ago | [chartify](https://github.com/spotify/chartify)/556 | Python library that makes it easy for data scientists to create charts. |
-| 2713 | 593 | 21 | 7 days ago | [spotipy](https://github.com/plamere/spotipy)/557 | A light weight Python library for the Spotify Web API |
-| 2705 | 1110 | 202 | 3 years ago | [pylearn2](https://github.com/lisa-lab/pylearn2)/558 | Warning: This project does not have any current developer. See bellow. |
-| 2704 | 590 | 148 | 6 months ago | [curator](https://github.com/elastic/curator)/559 | Curator: Tending your Elasticsearch indices |
-| 2699 | 1296 | 81 | 20 days ago | [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)/560 | Cookiecutter template for a Python package. |
-| 2694 | 565 | 111 | 5 months ago | [keras-vis](https://github.com/raghakot/keras-vis)/561 | Neural network visualization toolkit for keras |
-| 2684 | 1316 | 46 | 6 months ago | [AutoRCCar](https://github.com/hamuchiwa/AutoRCCar)/562 | OpenCV Python Neural Network Autonomous RC Car |
-| 2683 | 732 | 58 | 2 years ago | [neural-style-tf](https://github.com/cysmith/neural-style-tf)/563 | TensorFlow (Python API) implementation of Neural Style |
-| 2682 | 355 | 48 | 3 months ago | [zerorpc-python](https://github.com/0rpc/zerorpc-python)/564 | zerorpc for python |
-| 2670 | 937 | 62 | 3 years ago | [wechat-spider](https://github.com/bowenpay/wechat-spider)/565 | 微信公众号爬虫 |
-| 2669 | 296 | 110 | 7 hours ago | [great_expectations](https://github.com/great-expectations/great_expectations)/566 | Always know what to expect from your data. |
-| 2667 | 330 | 0 | 2 years ago | [uncaptcha](https://github.com/ecthros/uncaptcha)/567 | Defeating Google's audio reCaptcha with 85% accuracy.  |
-| 2665 | 269 | 157 | 4 months ago | [bandit](https://github.com/PyCQA/bandit)/568 | Bandit is a tool designed to find common security issues in Python code. |
-| 2664 | 487 | 12 | 20 days ago | [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)/569 | A python wrapper for Alpha Vantage API for financial data. |
-| 2662 | 231 | 15 | 10 months ago | [formspree](https://github.com/formspree/formspree)/570 | Easy HTML form without PHP or JavaScript |
-| 2653 | 2364 | 0 | 4 hours ago | [nova](https://github.com/openstack/nova)/571 | OpenStack Compute (Nova). Mirror of code maintained at opendev.org. |
-| 2648 | 202 | 3 | 14 hours ago | [libinput-gestures](https://github.com/bulletmark/libinput-gestures)/572 | Actions gestures on your touchpad using libinput |
-| 2643 | 1240 | 59 | 2 months ago | [adminset](https://github.com/guhongze/adminset)/573 | 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理 |
-| 2639 | 547 | 41 | a month ago | [fanhaodaquan](https://github.com/imfht/fanhaodaquan)/574 |  番号大全。 |
-| 2637 | 357 | 14 | 23 hours ago | [ReAgent](https://github.com/facebookresearch/ReAgent)/575 | A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.) |
-| 2637 | 146 | 14 | 1 year, 1 month ago | [gif-for-cli](https://github.com/google/gif-for-cli)/576 | None |
-| 2636 | 579 | 75 | 1 year, 5 months ago | [transformer-xl](https://github.com/kimiyoung/transformer-xl)/577 | None |
-| 2634 | 576 | 37 | 3 years ago | [convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)/578 | Easy benchmarking of all publicly accessible implementations of convnets |
-| 2632 | 246 | 28 | 3 years ago | [ssh-audit](https://github.com/arthepsy/ssh-audit)/579 | SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) |
-| 2615 | 639 | 28 | 21 days ago | [wechatpy](https://github.com/wechatpy/wechatpy)/580 | WeChat SDK for Python |
-| 2615 | 590 | 39 | a month ago | [flask-login](https://github.com/maxcountryman/flask-login)/581 | Flask user session management. |
-| 2614 | 554 | 0 | 1 year, 8 months ago | [dpark](https://github.com/douban/dpark)/582 | Python clone of Spark,  a MapReduce alike framework in Python |
-| 2610 | 316 | 100 | a month ago | [pytorch-summary](https://github.com/sksq96/pytorch-summary)/583 | Model summary in PyTorch similar to `model.summary()` in Keras |
-| 2602 | 511 | 57 | a day ago | [Osmedeus](https://github.com/j3ssie/Osmedeus)/584 | Fully automated offensive security framework for reconnaissance and vulnerability scanning |
-| 2595 | 465 | 63 | 1 year, 5 months ago | [MUSE](https://github.com/facebookresearch/MUSE)/585 | A library for Multilingual Unsupervised or Supervised word Embeddings |
-| 2588 | 537 | 158 | 9 days ago | [pyzmq](https://github.com/zeromq/pyzmq)/586 | PyZMQ:  Python bindings for zeromq |
-| 2583 | 842 | 16 | 1 year, 13 days ago | [PyTorch_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial)/587 | 《Pytorch模型训练实用教程》中配套代码 |
-| 2581 | 251 | 168 | 9 hours ago | [polyaxon](https://github.com/polyaxon/polyaxon)/588 | Machine Learning Platform for Kubernetes |
-| 2579 | 712 | 0 | 2 months ago | [the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory)/589 | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors |
-| 2575 | 421 | 112 | 6 months ago | [SNIPER](https://github.com/mahyarnajibi/SNIPER)/590 | SNIPER / AutoFocus is an efficient multi-scale object detection training / inference algorithm |
-| 2575 | 450 | 76 | 24 days ago | [SinGAN](https://github.com/tamarott/SinGAN)/591 | Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image" |
-| 2572 | 164 | 10 | 10 hours ago | [handcalcs](https://github.com/connorferster/handcalcs)/592 | Python library for converting Python calculations into rendered latex. |
-| 2571 | 239 | 95 | 4 years ago | [my_first_calculator.py](https://github.com/AceLewis/my_first_calculator.py)/593 | my_first_calculator.py |
-| 2569 | 310 | 43 | 5 months ago | [LASER](https://github.com/facebookresearch/LASER)/594 | Language-Agnostic SEntence Representations |
-| 2568 | 785 | 4 | 5 years ago | [django-social-auth](https://github.com/omab/django-social-auth)/595 | Django social authentication made simple |
-| 2562 | 183 | 67 | 3 years ago | [glue](https://github.com/jorgebastida/glue)/596 | Glue is a simple command line tool to generate CSS sprites |
-| 2561 | 752 | 27 | 13 days ago | [pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh)/597 | Pytorch 中文文档 |
-| 2556 | 454 | 18 | 2 years ago | [pinax](https://github.com/pinax/pinax)/598 | a Django-based platform for rapidly developing websites |
-| 2553 | 303 | 6 | a month ago | [markovify](https://github.com/jsvine/markovify)/599 | A simple, extensible Markov chain generator. |
-| 2546 | 934 | 27 | a month ago | [facebook-sdk](https://github.com/mobolic/facebook-sdk)/600 | Python SDK for Facebook's Graph API |
-| 3041 | 1346 | 848 | 1 year, 2 months ago | [coala](https://github.com/coala/coala)/601 | coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use. |
-| 3037 | 1222 | 569 | a month ago | [django-haystack](https://github.com/django-haystack/django-haystack)/602 | Modular search for Django |
-| 3037 | 977 | 137 | 2 years ago | [MITMf](https://github.com/byt3bl33d3r/MITMf)/603 | Framework for Man-In-The-Middle attacks |
-| 3031 | 367 | 3 | 5 months ago | [trfl](https://github.com/deepmind/trfl)/604 | TensorFlow Reinforcement Learning |
-| 3026 | 376 | 37 | 11 days ago | [scylla](https://github.com/imWildCat/scylla)/605 | Intelligent proxy pool for Humans™ (Maintainer needed) |
-| 3026 | 1120 | 144 | 3 years ago | [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)/606 | Mask RCNN in TensorFlow  |
-| 3024 | 555 | 0 | 28 days ago | [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)/607 | 🔥 Everything awesome about web-application firewalls (WAF). |
-| 3022 | 862 | 103 | 2 years ago | [seq2seq](https://github.com/farizrahman4u/seq2seq)/608 | Sequence to Sequence Learning with Keras |
-| 3007 | 628 | 630 | 10 hours ago | [pylint](https://github.com/PyCQA/pylint)/609 | It's not just a linter that annoys you! |
-| 3006 | 1690 | 141 | 4 years ago | [Sick-Beard](https://github.com/midgetspy/Sick-Beard)/610 | PVR & episode guide that downloads and manages all your TV shows  |
-| 3006 | 640 | 78 | 1 year, 11 months ago | [darts](https://github.com/quark0/darts)/611 | Differentiable architecture search for convolutional and recurrent networks |
-| 3005 | 512 | 21 | 10 days ago | [geopy](https://github.com/geopy/geopy)/612 | Geocoding library for Python. |
-| 3003 | 119 | 17 | a month ago | [profiling](https://github.com/what-studio/profiling)/613 | Was an interactive continuous Python profiler. |
-| 3000 | 1157 | 40 | 2 years ago | [pyalgotrade](https://github.com/gbeced/pyalgotrade)/614 | Python Algorithmic Trading Library |
-| 2992 | 1292 | 283 | 1 year, 7 months ago | [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)/615 | text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network |
-| 2988 | 2204 | 2 | 2 years ago | [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary)/616 | 爆破字典 |
-| 2987 | 86 | 12 | 2 days ago | [apprise](https://github.com/caronc/apprise)/617 | Apprise - Push Notifications that work with just about every platform! |
-| 2984 | 262 | 302 | 7 months ago | [invoke](https://github.com/pyinvoke/invoke)/618 | Pythonic task management & command execution. |
-| 2982 | 774 | 33 | a month ago | [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)/619 | Chinese version of GPT2 training code, using BERT tokenizer. |
-| 2982 | 930 | 87 | a day ago | [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder)/620 | Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/ |
-| 2974 | 597 | 3 | 2 years ago | [learn_math_fast](https://github.com/llSourcell/learn_math_fast)/621 | This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube |
-| 2971 | 506 | 135 | 4 years ago | [iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework)/622 | An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone. |
-| 2971 | 292 | 17 | 1 year, 5 months ago | [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)/623 | Awesome React Native UI components updated weekly |
-| 2969 | 581 | 110 | 1 year, 9 months ago | [P4wnP1](https://github.com/RoganDawes/P4wnP1)/624 | P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W. |
-| 2956 | 853 | 7 | 2 years ago | [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version)/625 | Chinese Translation for Machine Learning Infographics |
-| 2952 | 185 | 84 | 4 months ago | [pipreqs](https://github.com/bndr/pipreqs)/626 | pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward. |
-| 2949 | 625 | 2 | 21 days ago | [awesome-iot](https://github.com/phodal/awesome-iot)/627 | Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform |
-| 2949 | 146 | 37 | 1 year, 2 months ago | [percol](https://github.com/mooz/percol)/628 | adds flavor of interactive filtering to the traditional pipe concept of UNIX shell |
-| 2948 | 742 | 42 | 1 year, 6 months ago | [pygcn](https://github.com/tkipf/pygcn)/629 | Graph Convolutional Networks in PyTorch |
-| 2947 | 631 | 506 | 3 months ago | [headphones](https://github.com/rembo10/headphones)/630 | Automatic music downloader for SABnzbd |
-| 2944 | 1087 | 141 | a day ago | [CTFd](https://github.com/CTFd/CTFd)/631 | CTFs as you need them |
-| 2944 | 341 | 62 | a month ago | [websockets](https://github.com/aaugustin/websockets)/632 | Library for building WebSocket servers and clients in Python |
-| 2940 | 123 | 29 | a month ago | [pipfile](https://github.com/pypa/pipfile)/633 | None |
-| 2938 | 530 | 108 | 2 days ago | [SlowFast](https://github.com/facebookresearch/SlowFast)/634 | PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models. |
-| 2930 | 558 | 73 | 24 days ago | [ESRGAN](https://github.com/xinntao/ESRGAN)/635 | ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR. |
-| 2928 | 459 | 81 | 25 days ago | [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)/636 | Visual analysis and diagnostic tools to facilitate machine learning model selection. |
-| 2926 | 430 | 60 | 2 days ago | [objection](https://github.com/sensepost/objection)/637 | 📱 objection - runtime mobile exploration |
-| 2926 | 1044 | 75 | 2 years ago | [python-oauth2](https://github.com/joestump/python-oauth2)/638 | A fully tested, abstract interface to creating OAuth clients and servers. |
-| 2924 | 884 | 110 | 1 year, 7 months ago | [autosub](https://github.com/agermanidis/autosub)/639 | [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file |
-| 2922 | 734 | 39 | 5 months ago | [WiFi-Pumpkin-deprecated](https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated)/640 | DEPRECATED, wifipumpkin3 -> https://github.com/P0cL4bs/wifipumpkin3 |
-| 2921 | 1452 | 16 | 2 years ago | [python-cookbook](https://github.com/dabeaz/python-cookbook)/641 | Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013.  |
-| 2921 | 443 | 74 | 18 days ago | [jsonschema](https://github.com/Julian/jsonschema)/642 | An(other) implementation of JSON Schema for Python |
-| 2919 | 430 | 66 | Unknown | [apscheduler](https://github.com/agronholm/apscheduler)/643 | Task scheduling library for Python |
-| 2918 | 280 | 21 | 3 months ago | [PyBoy](https://github.com/Baekalfen/PyBoy)/644 | Game Boy emulator written in Python |
-| 2914 | 116 | 4 | Unknown | [Crunch](https://github.com/chrissimpkins/Crunch)/645 | Insane(ly slow but wicked good) PNG image optimization |
-| 2914 | 605 | 48 | Unknown | [chnroutes](https://github.com/fivesheep/chnroutes)/646 | scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn |
-| 2907 | 159 | 108 | Unknown | [pytype](https://github.com/google/pytype)/647 | A static type analyzer for Python code |
-| 2905 | 677 | 5 | 8 days ago | [social_mapper](https://github.com/Greenwolf/social_mapper)/648 | A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) |
-| 2899 | 291 | 60 | Unknown | [camelot](https://github.com/atlanhq/camelot)/649 | Camelot: PDF Table Extraction for Humans |
-| 2897 | 944 | 20 | Unknown | [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)/650 | PyTorch implementation of the U-Net for image semantic segmentation with high quality images |
-| 2897 | 679 | 36 | Unknown | [python-slackclient](https://github.com/slackapi/python-slackclient)/651 | Slack Developer Kit for Python |
-| 2896 | 375 | 262 | Unknown | [blaze](https://github.com/blaze/blaze)/652 | NumPy and Pandas interface to Big Data |
-| 2895 | 128 | 37 | 30 days ago | [fbs](https://github.com/mherrmann/fbs)/653 | Create Python GUIs with Qt in minutes |
-| 2893 | 962 | 103 | 2 years ago | [pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3)/654 | A PyTorch implementation of the YOLO v3 object detection algorithm |
-| 2888 | 294 | 112 | Unknown | [kornia](https://github.com/kornia/kornia)/655 | Open Source Differentiable Computer Vision Library for PyTorch |
-| 2882 | 836 | 1522 | a day ago | [meson](https://github.com/mesonbuild/meson)/656 | The Meson Build System |
-| 2881 | 494 | 41 | 3 years ago | [webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector)/657 | A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time. |
-| 2879 | 501 | 88 | Unknown | [molecule](https://github.com/ansible-community/molecule)/658 | Molecule aids in the development and testing of Ansible roles |
-| 2877 | 302 | 12 | 1 year, 6 months ago | [plasma](https://github.com/plasma-disassembler/plasma)/659 | Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax. |
-| 2875 | 996 | 12 | Unknown | [google-maps-services-python](https://github.com/googlemaps/google-maps-services-python)/660 | Python client library for Google Maps API Web Services |
-| 2874 | 722 | 7 | Unknown | [algorithms](https://github.com/nryoung/algorithms)/661 | This repository is not maintained |
-| 2870 | 1369 | 0 | Unknown | [fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)/662 | Fully Convolutional Networks for Semantic Segmentation by Jonathan Long*, Evan Shelhamer*, and Trevor Darrell. CVPR 2015 and PAMI 2016. |
-| 2866 | 907 | 190 | Unknown | [docker-registry](https://github.com/docker-archive/docker-registry)/663 | This is **DEPRECATED**! Please go to https://github.com/docker/distribution |
-| 2865 | 530 | 35 | Unknown | [neural-storyteller](https://github.com/ryankiros/neural-storyteller)/664 | A recurrent neural network for generating little stories about images |
-| 2864 | 690 | 23 | a month ago | [Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics)/665 | Most popular metrics used to evaluate object detection algorithms. |
-| 2864 | 630 | 270 | Unknown | [django-jet](https://github.com/geex-arts/django-jet)/666 | Modern responsive template for the Django admin interface with improved functionality. We are proud to announce completely new Jet. Please check out Live Demo |
-| 2864 | 984 | 22 | 2 years ago | [algorithm](https://github.com/qiwsir/algorithm)/667 | None |
-| 2859 | 221 | 59 | Unknown | [hydra](https://github.com/facebookresearch/hydra)/668 | Hydra is a framework for elegantly configuring complex applications |
-| 2856 | 637 | 101 | 2 years ago | [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)/669 | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. |
-| 2856 | 770 | 108 | 8 days ago | [sigma](https://github.com/Neo23x0/sigma)/670 | Generic Signature Format for SIEM Systems |
-| 2855 | 1098 | 8 | 3 months ago | [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)/671 | Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅 |
-| 2854 | 458 | 27 | Unknown | [python-pinyin](https://github.com/mozillazg/python-pinyin)/672 | 汉字转拼音(pypinyin) |
-| 2851 | 987 | 14 | Unknown | [deepfakes_faceswap](https://github.com/joshua-wu/deepfakes_faceswap)/673 | from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/ |
-| 2850 | 659 | 118 | Unknown | [GitPython](https://github.com/gitpython-developers/GitPython)/674 | GitPython is a python library used to interact with Git repositories. |
-| 2846 | 1075 | 138 | Unknown | [pointnet](https://github.com/charlesq34/pointnet)/675 | PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation |
-| 2843 | 348 | 32 | Unknown | [mindsdb](https://github.com/mindsdb/mindsdb)/676 | Predictive AI layer for existing databases. |
-| 2842 | 91 | 12 | 17 days ago | [doitlive](https://github.com/sloria/doitlive)/677 | Because sometimes you need to do it live |
-| 2838 | 596 | 62 | 4 years ago | [lda2vec](https://github.com/cemoody/lda2vec)/678 | None |
-| 2838 | 714 | 123 | 1 year, 3 months ago | [SiamMask](https://github.com/foolwood/SiamMask)/679 | [CVPR2019] Fast Online Object Tracking and Segmentation: A Unifying Approach |
-| 2836 | 564 | 74 | Unknown | [albert_zh](https://github.com/brightmart/albert_zh)/680 | A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS, 海量中文预训练ALBERT模型 |
-| 2824 | 372 | 24 | Unknown | [text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)/681 | Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer" |
-| 2820 | 1189 | 66 | Unknown | [xunfeng](https://github.com/ysrc/xunfeng)/682 | 巡风是一款适用于企业内网的漏洞快速应急，巡航扫描系统。 |
-| 2820 | 492 | 1 | Unknown | [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)/683 | Simple Tensorflow Cookbook for easy-to-use |
-| 2818 | 737 | 113 | Unknown | [pytorch-semseg](https://github.com/meetshah1995/pytorch-semseg)/684 | Semantic Segmentation Architectures Implemented in PyTorch |
-| 2816 | 1035 | 119 | Unknown | [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow)/685 | Caffe models in TensorFlow |
-| 2810 | 694 | 6 | Unknown | [netflix-proxy](https://github.com/ab77/netflix-proxy)/686 | Smart DNS proxy to watch Netflix |
-| 2809 | 903 | 26 | Unknown | [weiboSpider](https://github.com/dataabc/weiboSpider)/687 | 新浪微博爬虫，用python爬取新浪微博数据 |
-| 2809 | 733 | 51 | Unknown | [ODM](https://github.com/OpenDroneMap/ODM)/688 | A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷 |
-| 2807 | 1600 | 68 | 2 years ago | [RocketMap](https://github.com/RocketMap/RocketMap)/689 | 🌏 Live visualization of all the pokemon in your area... and more! |
-| 2806 | 425 | 12 | a day ago | [pritunl](https://github.com/pritunl/pritunl)/690 | Enterprise VPN server |
-| 2797 | 339 | 12 | 20 hours ago | [cheatsheets](https://github.com/matplotlib/cheatsheets)/691 | Official Matplotlib cheat sheets |
-| 2796 | 181 | 4 | 3 months ago | [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks)/692 | Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab. |
-| 2793 | 790 | 1 | a month ago | [leetcode](https://github.com/qiyuangong/leetcode)/693 | Python & JAVA Solutions for Leetcode |
-| 2788 | 316 | 15 | 1 year, 6 months ago | [AdaBound](https://github.com/Luolc/AdaBound)/694 | An optimizer that trains as fast as Adam and as good as SGD. |
-| 2776 | 1142 | 118 | 2 years ago | [python-instagram](https://github.com/facebookarchive/python-instagram)/695 | Python Client for Instagram API |
-| 2763 | 430 | 164 | 46 minutes ago | [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)/696 | The Database Toolkit for Python |
-| 2763 | 103 | 18 | 3 years ago | [tqdm](https://github.com/noamraph/tqdm)/697 | Add a progress meter to your loops in a second |
-| 2762 | 98 | 12 | 2 months ago | [python-ftfy](https://github.com/LuminosoInsight/python-ftfy)/698 | Fixes mojibake and other glitches in Unicode text, after the fact. |
-| 2762 | 1468 | 418 | a day ago | [ckan](https://github.com/ckan/ckan)/699 | CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, europeandataportal.eu/data, data.humdata.org among many other sites. |
-| 2760 | 807 | 151 | 2 years ago | [pybrain](https://github.com/pybrain/pybrain)/700 | None |
-| 2747 | 493 | 97 | a month ago | [django-guardian](https://github.com/django-guardian/django-guardian)/701 | Per object permissions for Django |
-| 2744 | 566 | 120 | 1 year, 4 months ago | [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch)/702 | A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available. |
-| 2740 | 906 | 1 | 6 months ago | [Ad-papers](https://github.com/wzhe06/Ad-papers)/703 | Papers on Computational Advertising |
-| 2739 | 471 | 156 | 4 days ago | [vyper](https://github.com/vyperlang/vyper)/704 | Pythonic Smart Contract Language for the EVM |
-| 2734 | 817 | 3 | 9 days ago | [OpenNRE](https://github.com/thunlp/OpenNRE)/705 |  An Open-Source Package for Neural Relation Extraction (NRE) |
-| 2733 | 1174 | 95 | 2 years ago | [DeepQA](https://github.com/Conchylicultor/DeepQA)/706 | My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot |
-| 2733 | 470 | 42 | 8 months ago | [tencent-ml-images](https://github.com/Tencent/tencent-ml-images)/707 | Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet |
-| 2727 | 234 | 42 | 3 months ago | [chartify](https://github.com/spotify/chartify)/708 | Python library that makes it easy for data scientists to create charts. |
-| 2713 | 593 | 21 | 7 days ago | [spotipy](https://github.com/plamere/spotipy)/709 | A light weight Python library for the Spotify Web API |
-| 2705 | 1110 | 202 | 3 years ago | [pylearn2](https://github.com/lisa-lab/pylearn2)/710 | Warning: This project does not have any current developer. See bellow. |
-| 2704 | 590 | 148 | 6 months ago | [curator](https://github.com/elastic/curator)/711 | Curator: Tending your Elasticsearch indices |
-| 2699 | 1296 | 81 | 20 days ago | [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)/712 | Cookiecutter template for a Python package. |
-| 2694 | 565 | 111 | 5 months ago | [keras-vis](https://github.com/raghakot/keras-vis)/713 | Neural network visualization toolkit for keras |
-| 2692 | 709 | 163 | 2 days ago | [uiautomator2](https://github.com/openatx/uiautomator2)/714 | Android Uiautomator2 Python Wrapper |
-| 2687 | 542 | 73 | 11 months ago | [Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition)/715 | End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow  |
-| 2685 | 466 | 27 | 2 days ago | [FeelUOwn](https://github.com/feeluown/FeelUOwn)/716 | trying to be a user-friendly and hackable music player |
-| 2684 | 1316 | 46 | 6 months ago | [AutoRCCar](https://github.com/hamuchiwa/AutoRCCar)/717 | OpenCV Python Neural Network Autonomous RC Car |
-| 2683 | 732 | 58 | 2 years ago | [neural-style-tf](https://github.com/cysmith/neural-style-tf)/718 | TensorFlow (Python API) implementation of Neural Style |
-| 2682 | 355 | 48 | 3 months ago | [zerorpc-python](https://github.com/0rpc/zerorpc-python)/719 | zerorpc for python |
-| 2670 | 937 | 62 | 3 years ago | [wechat-spider](https://github.com/bowenpay/wechat-spider)/720 | 微信公众号爬虫 |
-| 2669 | 296 | 110 | 7 hours ago | [great_expectations](https://github.com/great-expectations/great_expectations)/721 | Always know what to expect from your data. |
-| 2667 | 330 | 0 | 2 years ago | [uncaptcha](https://github.com/ecthros/uncaptcha)/722 | Defeating Google's audio reCaptcha with 85% accuracy.  |
-| 2665 | 269 | 157 | 4 months ago | [bandit](https://github.com/PyCQA/bandit)/723 | Bandit is a tool designed to find common security issues in Python code. |
-| 2664 | 488 | 12 | 20 days ago | [alpha_vantage](https://github.com/RomelTorres/alpha_vantage)/724 | A python wrapper for Alpha Vantage API for financial data. |
-| 2662 | 231 | 15 | 10 months ago | [formspree](https://github.com/formspree/formspree)/725 | Easy HTML form without PHP or JavaScript |
-| 2653 | 2364 | 0 | 4 hours ago | [nova](https://github.com/openstack/nova)/726 | OpenStack Compute (Nova). Mirror of code maintained at opendev.org. |
-| 2648 | 202 | 3 | 14 hours ago | [libinput-gestures](https://github.com/bulletmark/libinput-gestures)/727 | Actions gestures on your touchpad using libinput |
-| 2647 | 340 | 123 | 7 hours ago | [autogluon](https://github.com/awslabs/autogluon)/728 | AutoGluon: AutoML Toolkit for Deep Learning |
-| 2644 | 1240 | 59 | 2 months ago | [adminset](https://github.com/guhongze/adminset)/729 | 自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理 |
-| 2639 | 547 | 41 | a month ago | [fanhaodaquan](https://github.com/imfht/fanhaodaquan)/730 |  番号大全。 |
-| 2637 | 357 | 14 | 23 hours ago | [ReAgent](https://github.com/facebookresearch/ReAgent)/731 | A platform for Reasoning systems (Reinforcement Learning, Contextual Bandits, etc.) |
-| 2637 | 146 | 14 | 1 year, 1 month ago | [gif-for-cli](https://github.com/google/gif-for-cli)/732 | None |
-| 2636 | 579 | 75 | 1 year, 5 months ago | [transformer-xl](https://github.com/kimiyoung/transformer-xl)/733 | None |
-| 2634 | 576 | 37 | 3 years ago | [convnet-benchmarks](https://github.com/soumith/convnet-benchmarks)/734 | Easy benchmarking of all publicly accessible implementations of convnets |
-| 2632 | 246 | 28 | 3 years ago | [ssh-audit](https://github.com/arthepsy/ssh-audit)/735 | SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) |
-| 2632 | 396 | 32 | 8 months ago | [nogotofail](https://github.com/google/nogotofail)/736 | An on-path blackbox network traffic security testing tool |
-| 2616 | 457 | 32 | 11 months ago | [tweets_analyzer](https://github.com/x0rz/tweets_analyzer)/737 | Tweets metadata scraper & activity analyzer |
-| 2615 | 639 | 28 | 21 days ago | [wechatpy](https://github.com/wechatpy/wechatpy)/738 | WeChat SDK for Python |
-| 2615 | 590 | 39 | a month ago | [flask-login](https://github.com/maxcountryman/flask-login)/739 | Flask user session management. |
-| 2614 | 554 | 0 | 1 year, 8 months ago | [dpark](https://github.com/douban/dpark)/740 | Python clone of Spark,  a MapReduce alike framework in Python |
-| 2610 | 316 | 100 | a month ago | [pytorch-summary](https://github.com/sksq96/pytorch-summary)/741 | Model summary in PyTorch similar to `model.summary()` in Keras |
-| 2602 | 511 | 57 | a day ago | [Osmedeus](https://github.com/j3ssie/Osmedeus)/742 | Fully automated offensive security framework for reconnaissance and vulnerability scanning |
-| 2600 | 1023 | 0 | 4 months ago | [fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)/743 | Web Pentesting Fuzz 字典,一个就够了。 |
-| 2595 | 465 | 63 | 1 year, 5 months ago | [MUSE](https://github.com/facebookresearch/MUSE)/744 | A library for Multilingual Unsupervised or Supervised word Embeddings |
-| 2588 | 537 | 158 | 9 days ago | [pyzmq](https://github.com/zeromq/pyzmq)/745 | PyZMQ:  Python bindings for zeromq |
-| 2583 | 842 | 16 | 1 year, 13 days ago | [PyTorch_Tutorial](https://github.com/TingsongYu/PyTorch_Tutorial)/746 | 《Pytorch模型训练实用教程》中配套代码 |
-| 2581 | 251 | 168 | 9 hours ago | [polyaxon](https://github.com/polyaxon/polyaxon)/747 | Machine Learning Platform for Kubernetes |
-| 2579 | 712 | 0 | 2 months ago | [the-backdoor-factory](https://github.com/secretsquirrel/the-backdoor-factory)/748 | Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors |
-| 2575 | 421 | 112 | 6 months ago | [SNIPER](https://github.com/mahyarnajibi/SNIPER)/749 | SNIPER / AutoFocus is an efficient multi-scale object detection training / inference algorithm |
-| 2575 | 451 | 76 | 24 days ago | [SinGAN](https://github.com/tamarott/SinGAN)/750 | Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image" |
-| 2573 | 164 | 10 | 10 hours ago | [handcalcs](https://github.com/connorferster/handcalcs)/751 | Python library for converting Python calculations into rendered latex. |
-| 2571 | 239 | 95 | 4 years ago | [my_first_calculator.py](https://github.com/AceLewis/my_first_calculator.py)/752 | my_first_calculator.py |
-| 2569 | 310 | 43 | 5 months ago | [LASER](https://github.com/facebookresearch/LASER)/753 | Language-Agnostic SEntence Representations |
-| 2568 | 785 | 4 | 5 years ago | [django-social-auth](https://github.com/omab/django-social-auth)/754 | Django social authentication made simple |
-| 2562 | 183 | 67 | 3 years ago | [glue](https://github.com/jorgebastida/glue)/755 | Glue is a simple command line tool to generate CSS sprites |
-| 2562 | 752 | 27 | 13 days ago | [pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh)/756 | Pytorch 中文文档 |
-| 2556 | 454 | 18 | 2 years ago | [pinax](https://github.com/pinax/pinax)/757 | a Django-based platform for rapidly developing websites |
-| 2553 | 303 | 6 | a month ago | [markovify](https://github.com/jsvine/markovify)/758 | A simple, extensible Markov chain generator. |
-| 2546 | 934 | 27 | a month ago | [facebook-sdk](https://github.com/mobolic/facebook-sdk)/759 | Python SDK for Facebook's Graph API |
-| 2539 | 470 | 14 | 7 days ago | [dnstwist](https://github.com/elceef/dnstwist)/760 | Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation |
-| 2537 | 314 | 3 | 4 days ago | [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers)/761 | Python port of Google's libphonenumber |
-| 2537 | 675 | 3 | 2 months ago | [unicorn](https://github.com/trustedsec/unicorn)/762 | Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18. |
-| 2536 | 487 | 8 | 3 years ago | [enjarify](https://github.com/google/enjarify)/763 | None |
-| 2531 | 543 | 31 | 22 days ago | [websockify](https://github.com/novnc/websockify)/764 | Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby. |
-| 2529 | 546 | 223 | 3 months ago | [PyBitmessage](https://github.com/Bitmessage/PyBitmessage)/765 | Reference client for Bitmessage: a P2P encrypted decentralised communication protocol: |
-| 2526 | 2613 | 0 | 11 hours ago | [platform_development](https://github.com/aosp-mirror/platform_development)/766 | None |
-| 2523 | 640 | 7 | 3 months ago | [easy12306](https://github.com/zhaipro/easy12306)/767 | 使用机器学习算法完成对12306验证码的自动识别 |
-| 2522 | 287 | 80 | 24 days ago | [memory_profiler](https://github.com/pythonprofilers/memory_profiler)/768 | Monitor Memory usage of Python code |
-| 2514 | 684 | 26 | 3 months ago | [pika](https://github.com/pika/pika)/769 | Pure Python RabbitMQ/AMQP 0-9-1 client library |
-| 2510 | 397 | 147 | 4 years ago | [mobile-chrome-apps](https://github.com/MobileChromeApps/mobile-chrome-apps)/770 | Chrome apps on Android and iOS |
-| 2507 | 587 | 199 | 6 days ago | [mrjob](https://github.com/Yelp/mrjob)/771 | Run MapReduce jobs on Hadoop or Amazon Web Services |
-| 2503 | 133 | 13 | 3 months ago | [termgraph](https://github.com/mkaz/termgraph)/772 | a python command-line tool which draws basic graphs in the terminal |
-| 2502 | 602 | 165 | 1 year, 3 months ago | [django-rest-swagger](https://github.com/marcgibbons/django-rest-swagger)/773 | Swagger Documentation Generator for Django REST Framework: deprecated |
-| 2501 | 427 | 38 | 2 months ago | [twitter-scraper](https://github.com/bisguzar/twitter-scraper)/774 | Scrape the Twitter Frontend API without authentication. |
-| 2500 | 555 | 34 | 3 years ago | [subbrute](https://github.com/TheRook/subbrute)/775 | A DNS meta-query spider that enumerates DNS records, and subdomains. |
-| 2494 | 622 | 6 | a month ago | [learn-python3](https://github.com/jerry-git/learn-python3)/776 | Jupyter notebooks for teaching/learning Python 3 |
-| 2494 | 386 | 12 | 7 days ago | [nlp-architect](https://github.com/NervanaSystems/nlp-architect)/777 | A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks |
-| 2485 | 729 | 350 | 2 days ago | [warehouse](https://github.com/pypa/warehouse)/778 | The Python Package Index |
-| 2482 | 2074 | 85 | a month ago | [aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates)/779 | A collection of useful CloudFormation templates  |
-| 2476 | 558 | 239 | 2 days ago | [text](https://github.com/pytorch/text)/780 | Data loaders and abstractions for text and NLP |
-| 2475 | 1052 | 24 | 21 days ago | [scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes)/781 | Tutorial material on the scientific Python ecosystem |
-| 2474 | 204 | 13 | 30 days ago | [bless](https://github.com/Netflix/bless)/782 | Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function |
-| 2472 | 435 | 26 | 21 days ago | [django-reversion](https://github.com/etianen/django-reversion)/783 | django-reversion is an extension to the Django web framework that provides version control for model instances. |
-| 2472 | 274 | 83 | 8 hours ago | [remi](https://github.com/dddomodossola/remi)/784 | Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet. |
-| 2470 | 238 | 25 | 3 years ago | [Chaos](https://github.com/Chaosthebot/Chaos)/785 | A social coding experiment that updates its own code democratically. |
-| 2470 | 743 | 115 | 1 year, 11 months ago | [rllab](https://github.com/rll/rllab)/786 | rllab is a framework for developing and evaluating reinforcement learning algorithms, fully compatible with OpenAI Gym. |
-| 2465 | 157 | 1 | 3 years ago | [NakedTensor](https://github.com/jostmey/NakedTensor)/787 | Bare bone examples of machine learning in TensorFlow |
-| 2464 | 194 | 41 | 3 years ago | [pyrasite](https://github.com/lmacken/pyrasite)/788 | Inject code into running Python processes |
-| 2464 | 989 | 90 | 3 years ago | [CtCI-6th-Edition-Python](https://github.com/careercup/CtCI-6th-Edition-Python)/789 | Cracking the Coding Interview 6th Ed. Python Solutions |
-| 2458 | 550 | 5 | 7 months ago | [TCN](https://github.com/locuslab/TCN)/790 | Sequence modeling benchmarks and temporal convolutional networks |
-| 2457 | 331 | 22 | 2 months ago | [PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph)/791 | Generate embeddings from large-scale graph-structured data. |
-| 2452 | 438 | 117 | 3 days ago | [toga](https://github.com/beeware/toga)/792 | A Python native, OS native GUI toolkit. |
-| 2452 | 1340 | 49 | 19 days ago | [OpsManage](https://github.com/welliamcao/OpsManage)/793 | 自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核|回滚、任务调度、站内WIKI |
-| 2452 | 763 | 112 | 1 year, 5 months ago | [deep_sort](https://github.com/nwojke/deep_sort)/794 | Simple Online Realtime Tracking with a Deep Association Metric |
-| 2443 | 824 | 123 | 3 years ago | [YAD2K](https://github.com/allanzelener/YAD2K)/795 | YAD2K: Yet Another Darknet 2 Keras |
-| 2441 | 318 | 15 | 4 days ago | [missingno](https://github.com/ResidentMario/missingno)/796 | Missing data visualization module for Python. |
-| 2436 | 1192 | 399 | 13 hours ago | [biopython](https://github.com/biopython/biopython)/797 | Official git repository for Biopython (originally converted from CVS) |
-| 2435 | 479 | 7 | 2 months ago | [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)/798 | This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.  |
-| 2431 | 668 | 109 | 4 months ago | [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch)/799 | 3D ResNets for Action Recognition (CVPR 2018) |
-| 2431 | 338 | 43 | 19 days ago | [kube-hunter](https://github.com/aquasecurity/kube-hunter)/800 | Hunt for security weaknesses in Kubernetes clusters |
-| 3183 | 205 | 14 | 4 months ago | [maya](https://github.com/timofurrer/maya)/801 | Datetimes for Humans™ |
-| 3179 | 259 | 125 | 9 months ago | [rainbowstream](https://github.com/orakaro/rainbowstream)/802 | A smart and nice Twitter client on terminal written in Python. |
-| 3178 | 531 | 15 | 3 months ago | [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData)/803 | 史上最大规模1.4亿中文知识图谱开源下载 |
-| 3175 | 511 | 81 | 3 months ago | [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)/804 | Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more. |
-| 3173 | 210 | 5 | 1 year, 2 months ago | [instantbox](https://github.com/instantbox/instantbox)/805 | Get a clean, ready-to-go Linux box in seconds. |
-| 3171 | 284 | 0 | 30 days ago | [huey](https://github.com/coleifer/huey)/806 | a little task queue for python |
-| 3170 | 51 | 11 | 4 years ago | [mkcast](https://github.com/tckmn/mkcast)/807 | [OBSOLETE - see readme] A tool for creating GIF screencasts of a terminal, with key presses overlaid. |
-| 3168 | 255 | 19 | 8 months ago | [imagededup](https://github.com/idealo/imagededup)/808 | 😎 Finding duplicate images made easy! |
-| 3168 | 793 | 200 | an hour ago | [yolact](https://github.com/dbolya/yolact)/809 | A simple, fully convolutional model for real-time instance segmentation. |
-| 3168 | 297 | 80 | 1 year, 4 months ago | [PlainTasks](https://github.com/aziz/PlainTasks)/810 | An opinionated todo-list plugin for Sublime Text editor (version 2 and 3) |
-| 3167 | 905 | 963 | 9 hours ago | [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)/811 | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources |
-| 3165 | 399 | 11 | 7 days ago | [transitions](https://github.com/pytransitions/transitions)/812 | A lightweight, object-oriented finite state machine implementation in Python with many extensions |
-| 3163 | 403 | 66 | 2 days ago | [healthchecks](https://github.com/healthchecks/healthchecks)/813 | A Cron Monitoring Tool written in Python & Django |
-| 3162 | 877 | 23 | 7 days ago | [tensorflow_poems](https://github.com/jinfagang/tensorflow_poems)/814 | 中文古诗自动作诗机器人，屌炸天，基于tensorflow1.10 api，正在积极维护升级中，快star，保持更新！ |
-| 3158 | 216 | 24 | 6 months ago | [flan](https://github.com/cloudflare/flan)/815 | A pretty sweet vulnerability scanner |
-| 3156 | 482 | 8 | a day ago | [pytesseract](https://github.com/madmaze/pytesseract)/816 | A Python wrapper for Google Tesseract |
-| 3154 | 624 | 79 | 16 hours ago | [django-filter](https://github.com/carltongibson/django-filter)/817 | A generic system for filtering Django QuerySets based on user selections |
-| 3147 | 307 | 91 | 7 months ago | [wal-e](https://github.com/wal-e/wal-e)/818 | Continuous Archiving for Postgres |
-| 3138 | 561 | 89 | 27 days ago | [graphene-django](https://github.com/graphql-python/graphene-django)/819 | Integrate GraphQL into your Django project. |
-| 3135 | 455 | 27 | 5 days ago | [gef](https://github.com/hugsy/gef)/820 | GEF - GDB Enhanced Features for exploit devs & reversers |
-| 3135 | 118 | 10 | 3 years ago | [stack-overflow-import](https://github.com/drathier/stack-overflow-import)/821 | Import arbitrary code from Stack Overflow as Python modules. |
-| 3133 | 298 | 153 | 5 years ago | [sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs)/822 | Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++ |
-| 3130 | 223 | 424 | 13 days ago | [telepresence](https://github.com/telepresenceio/telepresence)/823 | Local development against a remote Kubernetes or OpenShift cluster |
-| 3122 | 788 | 43 | 19 hours ago | [wfuzz](https://github.com/xmendez/wfuzz)/824 | Web application fuzzer |
-| 3121 | 668 | 97 | 9 days ago | [mlxtend](https://github.com/rasbt/mlxtend)/825 | A library of extension and helper modules for Python's data analysis and machine learning libraries. |
-| 3118 | 534 | 15 | 7 days ago | [torchdiffeq](https://github.com/rtqichen/torchdiffeq)/826 | Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation. |
-| 3112 | 329 | 4 | 5 days ago | [pifuhd](https://github.com/facebookresearch/pifuhd)/827 | High-Resolution 3D Human Digitization from A Single Image. |
-| 3112 | 958 | 4 | a day ago | [mongo-python-driver](https://github.com/mongodb/mongo-python-driver)/828 | PyMongo - the Python driver for MongoDB |
-| 3103 | 808 | 236 | a day ago | [yfinance](https://github.com/ranaroussi/yfinance)/829 | Yahoo! Finance market data downloader (+faster Pandas Datareader) |
-| 3100 | 278 | 49 | 1 year, 5 months ago | [flask_jsondash](https://github.com/christabor/flask_jsondash)/830 | :snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go. |
-| 3096 | 631 | 8 | 3 days ago | [intermediatePython](https://github.com/yasoob/intermediatePython)/831 | None |
-| 3096 | 326 | 52 | 1 year, 3 months ago | [listen1](https://github.com/listen1/listen1)/832 | one for all free music in china (origin edition) |
-| 3094 | 693 | 36 | 9 months ago | [wifijammer](https://github.com/DanMcInerney/wifijammer)/833 | Continuously jam all wifi clients/routers |
-| 3093 | 422 | 316 | 15 days ago | [splash](https://github.com/scrapinghub/splash)/834 | Lightweight, scriptable browser as a service with an HTTP API |
-| 3089 | 117 | 31 | 2 months ago | [MonkeyType](https://github.com/Instagram/MonkeyType)/835 | A system for Python that generates static type annotations by collecting runtime types |
-| 3087 | 310 | 1 | 5 months ago | [Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap)/836 | :satellite: Organized Resources for Deep Learning Researchers and Developers |
-| 3081 | 858 | 0 | 2 months ago | [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap)/837 | Toturial coming with "data science roadmap" graphe. |
-| 3078 | 222 | 6 | 5 years ago | [osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer)/838 | GCC Installer for OSX! Without Xcode! |
-| 3068 | 228 | 114 | 26 days ago | [uvicorn](https://github.com/encode/uvicorn)/839 | The lightning-fast ASGI server. 🦄 |
-| 3067 | 1267 | 452 | 2 days ago | [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3)/840 | 🔥 Pure tensorflow Implement of YOLOv3 with support to train your own dataset  |
-| 3064 | 313 | 94 | 2 months ago | [sacred](https://github.com/IDSIA/sacred)/841 | Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA. |
-| 3063 | 445 | 172 | 2 years ago | [mantl](https://github.com/mantl/mantl)/842 | Mantl is a modern platform for rapidly deploying globally distributed services |
-| 3053 | 379 | 97 | 15 hours ago | [ignite](https://github.com/pytorch/ignite)/843 | High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently. |
-| 3050 | 487 | 29 | 10 months ago | [SC-FEGAN](https://github.com/run-youngjoo/SC-FEGAN)/844 | SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019) |
-| 3050 | 214 | 8 | 2 years ago | [toapi](https://github.com/gaojiuli/toapi)/845 | Every web site provides APIs. |
-| 3046 | 1805 | 98 | 28 minutes ago | [python](https://github.com/kubernetes-client/python)/846 | Official Python client library for kubernetes |
-| 3044 | 1522 | 59 | 3 years ago | [SinaSpider](https://github.com/LiuXingMing/SinaSpider)/847 | 新浪微博爬虫（Scrapy、Redis） |
-| 3041 | 1346 | 848 | 1 year, 2 months ago | [coala](https://github.com/coala/coala)/848 | coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use. |
-| 3039 | 463 | 109 | 2 days ago | [pwndbg](https://github.com/pwndbg/pwndbg)/849 | Exploit Development and Reverse Engineering with GDB Made Easy |
-| 3037 | 1222 | 569 | a month ago | [django-haystack](https://github.com/django-haystack/django-haystack)/850 | Modular search for Django |
-| 3037 | 977 | 137 | 2 years ago | [MITMf](https://github.com/byt3bl33d3r/MITMf)/851 | Framework for Man-In-The-Middle attacks |
-| 3037 | 932 | 86 | 4 months ago | [python-twitter](https://github.com/bear/python-twitter)/852 | A Python wrapper around the Twitter API. |
-| 3034 | 190 | 29 | 5 years ago | [fn.py](https://github.com/kachayev/fn.py)/853 | Functional programming in Python: implementation of missing features to enjoy FP |
-| 3031 | 367 | 3 | 5 months ago | [trfl](https://github.com/deepmind/trfl)/854 | TensorFlow Reinforcement Learning |
-| 3026 | 376 | 37 | 11 days ago | [scylla](https://github.com/imWildCat/scylla)/855 | Intelligent proxy pool for Humans™ (Maintainer needed) |
-| 3026 | 1120 | 144 | 3 years ago | [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)/856 | Mask RCNN in TensorFlow  |
-| 3024 | 555 | 0 | 28 days ago | [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)/857 | 🔥 Everything awesome about web-application firewalls (WAF). |
-| 3022 | 862 | 103 | 2 years ago | [seq2seq](https://github.com/farizrahman4u/seq2seq)/858 | Sequence to Sequence Learning with Keras |
-| 3015 | 99 | 72 | 8 months ago | [coconut](https://github.com/evhub/coconut)/859 | Simple, elegant, Pythonic functional programming. |
-| 3014 | 545 | 164 | 1 year, 1 month ago | [django-rest-framework-jwt](https://github.com/jpadilla/django-rest-framework-jwt)/860 | JSON Web Token Authentication support for Django REST Framework |
-| 3011 | 647 | 91 | 6 days ago | [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py)/861 | High level Python client for Elasticsearch |
-| 3007 | 628 | 630 | 10 hours ago | [pylint](https://github.com/PyCQA/pylint)/862 | It's not just a linter that annoys you! |
-| 3006 | 1690 | 141 | 4 years ago | [Sick-Beard](https://github.com/midgetspy/Sick-Beard)/863 | PVR & episode guide that downloads and manages all your TV shows  |
-| 3006 | 253 | 9 | 16 days ago | [mimesis](https://github.com/lk-geimfari/mimesis)/864 | Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages. |
-| 3006 | 640 | 78 | 1 year, 11 months ago | [darts](https://github.com/quark0/darts)/865 | Differentiable architecture search for convolutional and recurrent networks |
-| 3005 | 512 | 21 | 10 days ago | [geopy](https://github.com/geopy/geopy)/866 | Geocoding library for Python. |
-| 3003 | 119 | 17 | a month ago | [profiling](https://github.com/what-studio/profiling)/867 | Was an interactive continuous Python profiler. |
-| 2995 | 93 | 25 | 10 days ago | [bullet](https://github.com/bchao1/bullet)/868 | 🚅 Interactive prompts made simple. Build a prompt like stacking blocks. |
-| 2994 | 169 | 5 | 4 years ago | [Legofy](https://github.com/JuanPotato/Legofy)/869 | Make images look as if they are made out of 1x1 LEGO blocks |
-| 2992 | 1292 | 283 | 1 year, 7 months ago | [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)/870 | text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network |
-| 2988 | 2204 | 2 | 2 years ago | [Blasting_dictionary](https://github.com/rootphantomer/Blasting_dictionary)/871 | 爆破字典 |
-| 2987 | 86 | 12 | 2 days ago | [apprise](https://github.com/caronc/apprise)/872 | Apprise - Push Notifications that work with just about every platform! |
-| 2984 | 262 | 302 | 7 months ago | [invoke](https://github.com/pyinvoke/invoke)/873 | Pythonic task management & command execution. |
-| 2982 | 557 | 183 | 2 days ago | [sentence-transformers](https://github.com/UKPLab/sentence-transformers)/874 | Sentence Embeddings with BERT & XLNet |
-| 2982 | 774 | 33 | a month ago | [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)/875 | Chinese version of GPT2 training code, using BERT tokenizer. |
-| 2982 | 930 | 87 | a day ago | [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder)/876 | Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/ |
-| 2974 | 597 | 3 | 2 years ago | [learn_math_fast](https://github.com/llSourcell/learn_math_fast)/877 | This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube |
-| 2971 | 506 | 135 | 4 years ago | [iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework)/878 | An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone. |
-| 2971 | 292 | 17 | 1 year, 5 months ago | [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)/879 | Awesome React Native UI components updated weekly |
-| 2959 | 451 | 141 | 6 days ago | [ambassador](https://github.com/datawire/ambassador)/880 | open source Kubernetes-native API gateway for microservices built on the Envoy Proxy |
-| 2956 | 853 | 7 | 2 years ago | [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version)/881 | Chinese Translation for Machine Learning Infographics |
-| 2953 | 111 | 16 | 10 days ago | [visidata](https://github.com/saulpw/visidata)/882 | A terminal spreadsheet multitool for discovering and arranging data |
-| 2952 | 185 | 84 | 4 months ago | [pipreqs](https://github.com/bndr/pipreqs)/883 | pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward. |
-| 2949 | 625 | 2 | 21 days ago | [awesome-iot](https://github.com/phodal/awesome-iot)/884 | Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform |
-| 2949 | 146 | 37 | 1 year, 2 months ago | [percol](https://github.com/mooz/percol)/885 | adds flavor of interactive filtering to the traditional pipe concept of UNIX shell |
-| 2948 | 742 | 42 | 1 year, 6 months ago | [pygcn](https://github.com/tkipf/pygcn)/886 | Graph Convolutional Networks in PyTorch |
-| 2948 | 169 | 9 | 1 year, 1 month ago | [sistine](https://github.com/bijection/sistine)/887 | Turn a MacBook into a Touchscreen with $1 of Hardware |
-| 2947 | 631 | 506 | 3 months ago | [headphones](https://github.com/rembo10/headphones)/888 | Automatic music downloader for SABnzbd |
-| 2944 | 1087 | 141 | a day ago | [CTFd](https://github.com/CTFd/CTFd)/889 | CTFs as you need them |
-| 2944 | 341 | 62 | a month ago | [websockets](https://github.com/aaugustin/websockets)/890 | Library for building WebSocket servers and clients in Python |
-| 2941 | 937 | 70 | 2 days ago | [elasticsearch-py](https://github.com/elastic/elasticsearch-py)/891 | Official Python low-level client for Elasticsearch |
-| 2938 | 530 | 108 | 2 days ago | [SlowFast](https://github.com/facebookresearch/SlowFast)/892 | PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models. |
-| 2937 | 317 | 69 | 14 hours ago | [kedro](https://github.com/quantumblacklabs/kedro)/893 | A Python library that implements software engineering best-practice for data and ML pipelines. |
-| 2930 | 243 | 72 | 15 days ago | [responses](https://github.com/getsentry/responses)/894 | A utility for mocking out the Python Requests library. |
-| 2930 | 558 | 73 | 24 days ago | [ESRGAN](https://github.com/xinntao/ESRGAN)/895 | ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR. |
-| 2929 | 594 | 508 | an hour ago | [securedrop](https://github.com/freedomofpress/securedrop)/896 | GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here! |
-| 2928 | 459 | 81 | 25 days ago | [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)/897 | Visual analysis and diagnostic tools to facilitate machine learning model selection. |
-| 2926 | 430 | 60 | 2 days ago | [objection](https://github.com/sensepost/objection)/898 | 📱 objection - runtime mobile exploration |
-| 2926 | 1044 | 75 | 2 years ago | [python-oauth2](https://github.com/joestump/python-oauth2)/899 | A fully tested, abstract interface to creating OAuth clients and servers. |
-| 2924 | 884 | 110 | 1 year, 7 months ago | [autosub](https://github.com/agermanidis/autosub)/900 | [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file |
-| 1427 | 387 | 63 | 5 days ago | [ralph](https://github.com/allegro/ralph)/901 | Ralph is the CMDB / Asset Management system for data center and back office hardware. |
-| 1427 | 438 | 214 | 14 hours ago | [PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)/902 | Object detection and instance segmentation toolkit based on PaddlePaddle. |
-| 1427 | 203 | 6 | a month ago | [moco](https://github.com/facebookresearch/moco)/903 | PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722 |
-| 1427 | 310 | 60 | a day ago | [unilm](https://github.com/microsoft/unilm)/904 | UniLM - Unified Language Model Pre-training / Pre-training for NLP and Beyond |
-| 1426 | 292 | 72 | 2 years ago | [THULAC-Python](https://github.com/thunlp/THULAC-Python)/905 | An Efficient Lexical Analyzer for Chinese |
-| 1425 | 329 | 85 | 11 hours ago | [mythril](https://github.com/ConsenSys/mythril)/906 | Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. |
-| 1422 | 431 | 107 | 4 months ago | [sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail)/907 | Thumbnails for Django |
-| 1421 | 368 | 36 | 2 years ago | [scrapy-proxies](https://github.com/aivarsk/scrapy-proxies)/908 | Random proxy middleware for Scrapy  |
-| 1421 | 538 | 46 | a month ago | [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)/909 | A synthetic data generator for text recognition |
-| 1419 | 316 | 206 | 2 days ago | [gluon-ts](https://github.com/awslabs/gluon-ts)/910 | Probabilistic time series modeling in Python |
-| 1419 | 526 | 13 | 1 year, 6 months ago | [Interview-code-practice-python](https://github.com/leeguandong/Interview-code-practice-python)/911 | 面试题 |
-| 1416 | 98 | 28 | 9 days ago | [pyrsistent](https://github.com/tobgu/pyrsistent)/912 | Persistent/Immutable/Functional data structures for Python |
-| 1415 | 218 | 66 | 9 months ago | [streamparse](https://github.com/Parsely/streamparse)/913 | Run Python in Apache Storm topologies. Pythonic API, CLI tooling, and a topology DSL. |
-| 1411 | 222 | 4 | 1 year, 3 months ago | [getsploit](https://github.com/vulnersCom/getsploit)/914 | Command line utility for searching and downloading exploits |
-| 1411 | 167 | 172 | 14 hours ago | [gallery-dl](https://github.com/mikf/gallery-dl)/915 | Command-line program to download image-galleries and -collections from several image hosting sites |
-| 1410 | 220 | 51 | 7 months ago | [uda](https://github.com/google-research/uda)/916 | Unsupervised Data Augmentation (UDA) |
-| 1409 | 312 | 14 | a month ago | [HUNT](https://github.com/bugcrowd/HUNT)/917 | None |
-| 1408 | 310 | 144 | 2 days ago | [emsdk](https://github.com/emscripten-core/emsdk)/918 | Emscripten SDK |
-| 1408 | 444 | 30 | 3 months ago | [effectivepython](https://github.com/bslatkin/effectivepython)/919 | Effective Python: Second Edition — Source Code and Errata for the Book |
-| 1408 | 568 | 3 | 6 days ago | [ros](https://github.com/ros/ros)/920 | Core ROS packages |
-| 1406 | 72 | 11 | 6 days ago | [python-nubia](https://github.com/facebookincubator/python-nubia)/921 | A command-line and interactive shell framework. |
-| 1406 | 712 | 121 | 1 year, 11 months ago | [MTCNN-Tensorflow](https://github.com/AITTSMD/MTCNN-Tensorflow)/922 |  Reproduce MTCNN using Tensorflow |
-| 1401 | 139 | 29 | 11 months ago | [btlejack](https://github.com/virtualabs/btlejack)/923 | Bluetooth Low Energy Swiss-army knife |
-| 1399 | 406 | 177 | 2 months ago | [django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light)/924 | A fresh approach to autocomplete implementations, specially for Django. Status: v3 stable, 2.x.x stable, 1.x.x deprecated. Please DO regularely ping us with your link at #yourlabs IRC channel |
-| 1399 | 283 | 7 | 6 months ago | [explore-python](https://github.com/ethan-funny/explore-python)/925 | :green_book: The Beauty of Python Programming. |
-| 1397 | 206 | 23 | 2 years ago | [tinfoleak](https://github.com/vaguileradiaz/tinfoleak)/926 | The most complete open-source tool for Twitter intelligence analysis |
-| 1396 | 119 | 1 | 4 days ago | [arl](https://github.com/kaxap/arl)/927 | lists of most popular repositories for most favoured programming languages (according to StackOverflow) |
-| 1394 | 334 | 249 | 26 days ago | [dateutil](https://github.com/dateutil/dateutil)/928 | Useful extensions to the standard Python datetime features |
-| 1393 | 218 | 12 | 1 year, 8 months ago | [JsFormat](https://github.com/jdavisclark/JsFormat)/929 | Javascript formatting for Sublime Text 2 & 3 |
-| 1392 | 189 | 25 | 5 months ago | [webkit2png](https://github.com/paulhammond/webkit2png)/930 | png screenshots of webpages |
-| 1392 | 419 | 6 | 4 months ago | [deepgaze](https://github.com/mpatacchiola/deepgaze)/931 | Computer Vision library for human-computer interaction. It implements Head Pose and Gaze Direction Estimation Using Convolutional Neural Networks, Skin Detection through Backprojection, Motion Detection and Tracking, Saliency Map. |
-| 1391 | 185 | 22 | 2 years ago | [inception](https://github.com/carmaa/inception)/932 | Inception is a physical memory manipulation and hacking tool exploiting PCI-based DMA. The tool can attack over FireWire, Thunderbolt, ExpressCard, PC Card and any other PCI/PCIe interfaces. |
-| 1391 | 472 | 119 | 3 months ago | [influxdb-python](https://github.com/influxdata/influxdb-python)/933 | Python client for InfluxDB |
-| 1389 | 481 | 6 | 6 days ago | [carbon](https://github.com/graphite-project/carbon)/934 | Carbon is one of the components of Graphite, and is responsible for receiving metrics over the network and writing them down to disk using a storage backend. |
-| 1389 | 444 | 71 | 16 days ago | [flask-oauthlib](https://github.com/lepture/flask-oauthlib)/935 | YOU SHOULD USE https://github.com/lepture/authlib |
-| 1388 | 155 | 22 | 2 months ago | [dh-virtualenv](https://github.com/spotify/dh-virtualenv)/936 | Python virtualenvs in Debian packages |
-| 1387 | 102 | 125 | a month ago | [mitogen](https://github.com/dw/mitogen)/937 | Distributed self-replicating programs in Python |
-| 1386 | 820 | 73 | 3 years ago | [tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot)/938 | Tensorflow chatbot demo by @Sirajology on Youtube |
-| 1386 | 252 | 30 | 1 year, 3 months ago | [UnsupervisedMT](https://github.com/facebookresearch/UnsupervisedMT)/939 | Phrase-Based & Neural Unsupervised Machine Translation |
-| 1384 | 189 | 4 | 4 years ago | [leapcast](https://github.com/dz0ny/leapcast)/940 | ChromeCast emulation app for any device |
-| 1383 | 119 | 13 | 11 months ago | [CommonRegex](https://github.com/madisonmay/CommonRegex)/941 | A collection of common regular expressions bundled with an easy to use interface. |
-| 1383 | 185 | 49 | 3 months ago | [lightning](https://github.com/scikit-learn-contrib/lightning)/942 | Large-scale linear classification, regression and ranking in Python |
-| 1382 | 592 | 15 | 3 months ago | [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework)/943 | A python chatbot framework with Natural Language Understanding and Artificial Intelligence. |
-| 1381 | 68 | 3 | 9 months ago | [huepy](https://github.com/s0md3v/huepy)/944 | Print awesomely in terminals. |
-| 1381 | 722 | 158 | 14 hours ago | [shuup](https://github.com/shuup/shuup)/945 | E-Commerce Platform |
-| 1379 | 227 | 13 | 5 days ago | [himawaripy](https://github.com/boramalper/himawaripy)/946 | Set near-realtime picture of Earth as your desktop background |
-| 1379 | 64 | 28 | a month ago | [twtxt](https://github.com/buckket/twtxt)/947 | Decentralised, minimalist microblogging service for hackers. |
-| 1379 | 127 | 67 | 22 days ago | [flowblade](https://github.com/jliljebl/flowblade)/948 | Video Editor for Linux |
-| 1375 | 543 | 14 | 6 months ago | [cola](https://github.com/qinxuye/cola)/949 | A high-level distributed crawling framework. |
-| 1375 | 259 | 97 | 5 hours ago | [lemur](https://github.com/Netflix/lemur)/950 | Repository for the Lemur Certificate Manager |
-| 1374 | 200 | 12 | 11 days ago | [loss-landscape](https://github.com/tomgoldstein/loss-landscape)/951 | Code for visualizing the loss landscape of neural nets |
-| 1373 | 650 | 6 | 5 years ago | [textfilter](https://github.com/observerss/textfilter)/952 | 敏感词过滤的几种实现+某1w词敏感词库 |
-| 1372 | 344 | 143 | a month ago | [django-pipeline](https://github.com/jazzband/django-pipeline)/953 | Pipeline is an asset packaging library for Django. |
-| 1372 | 148 | 25 | 29 days ago | [spektral](https://github.com/danielegrattarola/spektral)/954 | Graph Neural Networks with Keras and Tensorflow 2. |
-| 1372 | 216 | 33 | 7 months ago | [meilix](https://github.com/fossasia/meilix)/955 | Beautiful Linux System https://meilix.org | APT Repo: http://meilix.fossasia.org |
-| 1372 | 163 | 49 | 6 months ago | [wrapt](https://github.com/GrahamDumpleton/wrapt)/956 | A Python module for decorators, wrappers and monkey patching. |
-| 1372 | 375 | 349 | 29 minutes ago | [pants](https://github.com/pantsbuild/pants)/957 | The Pants Build System |
-| 1371 | 123 | 27 | 6 months ago | [honcho](https://github.com/nickstenning/honcho)/958 | Honcho: a python clone of Foreman. For managing Procfile-based applications. |
-| 1371 | 294 | 75 | 1 year, 5 months ago | [Spearmint](https://github.com/HIPS/Spearmint)/959 | Spearmint Bayesian optimization codebase |
-| 1370 | 179 | 111 | 3 years ago | [acd_cli](https://github.com/yadayada/acd_cli)/960 | An unmaintained command line interface and FUSE filesystem for Amazon (Cloud) Drive |
-| 1369 | 45 | 5 | 4 months ago | [bass](https://github.com/edc/bass)/961 | Make Bash utilities usable in Fish shell |
-| 1367 | 580 | 15 | 8 months ago | [free-python-games](https://github.com/grantjenks/free-python-games)/962 | Free Python Games |
-| 1367 | 193 | 10 | 4 years ago | [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge)/963 | So You Think You Can Program An Elevator |
-| 1363 | 191 | 65 | 10 months ago | [chardet](https://github.com/chardet/chardet)/964 | Python 2/3 compatible character encoding detector. |
-| 1363 | 424 | 180 | 2 months ago | [GPy](https://github.com/SheffieldML/GPy)/965 | Gaussian processes framework in python  |
-| 1362 | 340 | 8 | 4 months ago | [mazesolving](https://github.com/mikepound/mazesolving)/966 | A variety of algorithms to solve mazes from an input image |
-| 1362 | 110 | 14 | 3 years ago | [xUnique](https://github.com/truebit/xUnique)/967 | merge Xcode project file is so easy |
-| 1361 | 526 | 0 | 2 months ago | [Python3-Spider](https://github.com/wkunzhi/Python3-Spider)/968 | Python爬虫实战 - 模拟登陆各大网站 包含但不限于：滑块验证、拼多多、美团、百度、bilibili、大众点评、淘宝，如果喜欢请start ❤️ |
-| 1354 | 796 | 6 | 5 months ago | [cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples)/969 | Cloud ML Engine is now a part of AI Platform |
-| 1353 | 407 | 3 | a month ago | [pocsuite3](https://github.com/knownsec/pocsuite3)/970 | pocsuite3 is an open-sourced remote vulnerability testing framework developed by the Knownsec 404 Team. |
-| 1351 | 176 | 20 | 3 months ago | [poincare-embeddings](https://github.com/facebookresearch/poincare-embeddings)/971 | PyTorch implementation of the NIPS-17 paper "Poincaré Embeddings for Learning Hierarchical Representations" |
-| 1350 | 182 | 17 | 5 days ago | [aleph](https://github.com/alephdata/aleph)/972 | Search and browse documents and data; find the people and companies you look for. |
-| 1349 | 407 | 58 | 2 months ago | [owtf](https://github.com/owtf/owtf)/973 | Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp |
-| 1349 | 196 | 27 | a month ago | [kalliope](https://github.com/kalliope-project/kalliope)/974 | Kalliope is a framework that will help you to create your own personal assistant. |
-| 1349 | 175 | 38 | 5 months ago | [daphne](https://github.com/django/daphne)/975 | Django Channels HTTP/WebSocket server |
-| 1348 | 355 | 41 | 11 months ago | [anago](https://github.com/Hironsan/anago)/976 | Bidirectional LSTM-CRF and ELMo for Named-Entity Recognition, Part-of-Speech Tagging and so on. |
-| 1347 | 102 | 7 | 4 months ago | [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions)/977 | Python regular expressions made easy |
-| 1345 | 48 | 35 | a day ago | [returns](https://github.com/dry-python/returns)/978 | Make your functions return something meaningful, typed, and safe! |
-| 1345 | 356 | 57 | 2 months ago | [viper](https://github.com/viper-framework/viper)/979 | Binary analysis and management framework |
-| 1340 | 486 | 45 | a month ago | [django-wiki](https://github.com/django-wiki/django-wiki)/980 | A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. |
-| 1340 | 430 | 10 | 1 year, 1 month ago | [OpenNE](https://github.com/thunlp/OpenNE)/981 | An Open-Source Package for Network Embedding (NE) |
-| 1339 | 552 | 112 | 1 year, 2 months ago | [YOLOv3_TensorFlow](https://github.com/wizyoung/YOLOv3_TensorFlow)/982 | Complete YOLO v3 TensorFlow implementation. Support training on your own dataset. |
-| 1339 | 75 | 292 | 6 hours ago | [oil](https://github.com/oilshell/oil)/983 | A new Unix shell.  Our upgrade path from bash to a better language. |
-| 1339 | 253 | 111 | 3 months ago | [social-app-django](https://github.com/python-social-auth/social-app-django)/984 | Python Social Auth - Application - Django |
-| 1338 | 123 | 38 | 13 days ago | [structlog](https://github.com/hynek/structlog)/985 | Structured Logging for Python |
-| 1339 | 146 | 93 | 9 months ago | [bumpversion](https://github.com/peritus/bumpversion)/986 | Version-bump your software with a single command |
-| 1337 | 2114 | 31 | 7 months ago | [case-212](https://github.com/developers-against-repressions/case-212)/987 | Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела» |
-| 1336 | 193 | 15 | 6 months ago | [datasketch](https://github.com/ekzhu/datasketch)/988 | MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++, LSH Ensemble |
-| 1336 | 310 | 35 | 3 years ago | [itchatmp](https://github.com/littlecodersh/itchatmp)/989 | A complete and graceful API for wechat mp. 完备优雅的微信公众号接口，原生支持同步、协程使用。  |
-| 1335 | 1119 | 238 | 22 minutes ago | [CSrankings](https://github.com/emeryberger/CSrankings)/990 | A web app for ranking computer science departments according to their research output in selective venues. |
-| 1334 | 184 | 24 | 3 months ago | [RPA-Python](https://github.com/tebelorg/RPA-Python)/991 | Python package for RPA (robotic process automation) |
-| 1330 | 111 | 108 | 7 days ago | [tortoise-orm](https://github.com/tortoise/tortoise-orm)/992 | Familiar asyncio ORM for python, built with relations in mind |
-| 1328 | 334 | 47 | 4 years ago | [spearmint](https://github.com/JasperSnoek/spearmint)/993 | Spearmint is a package to perform Bayesian optimization according to the algorithms outlined in the paper:  Practical Bayesian Optimization of Machine Learning Algorithms. Jasper Snoek, Hugo Larochelle and Ryan P. Adams.  Advances in Neural Information Processing Systems, 2012  |
-| 1327 | 96 | 25 | 2 months ago | [magnitude](https://github.com/plasticityai/magnitude)/994 | A fast, efficient universal vector embedding utility package. |
-| 1327 | 366 | 130 | 8 days ago | [rasterio](https://github.com/mapbox/rasterio)/995 | Rasterio reads and writes geospatial raster datasets |
-| 1327 | 84 | 1 | 6 months ago | [shortuuid](https://github.com/skorokithakis/shortuuid)/996 | A generator library for concise, unambiguous and URL-safe UUIDs. |
-| 1327 | 312 | 21 | 4 years ago | [deeppy](https://github.com/andersbll/deeppy)/997 | Deep learning in Python |
-| 1324 | 181 | 6 | a month ago | [msgpack-python](https://github.com/msgpack/msgpack-python)/998 | MessagePack serializer implementation for Python msgpack.org[Python] |
-| 1324 | 80 | 36 | 1 year, 8 months ago | [pymux](https://github.com/prompt-toolkit/pymux)/999 | A terminal multiplexer (like tmux) in Python |
-| 1323 | 161 | 49 | 1 year, 9 months ago | [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader)/1000 | 🎷  Downloads Music From The Web  |
+| 86248 | 25227 | 33 | 3 minutes ago | [Python](https://github.com/TheAlgorithms/Python)/1 | All Algorithms implemented in Python |
+| 71410 | 12487 | 3941 | 6 days ago | [youtube-dl](https://github.com/ytdl-org/youtube-dl)/2 | Command-line program to download videos from YouTube.com and other video sites |
+| 66454 | 42382 | 949 | 9 hours ago | [models](https://github.com/tensorflow/models)/3 | Models and examples built with TensorFlow |
+| 52488 | 22625 | 182 | 7 months ago | [django](https://github.com/django/django)/4 | The Web framework for perfectionists with deadlines. |
+| 52222 | 13796 | 29 | 2 days ago | [flask](https://github.com/pallets/flask)/5 | The Python micro framework for building web applications. |
+| 49869 | 18620 | 3183 | 3 months ago | [keras](https://github.com/keras-team/keras)/6 | Deep Learning for humans |
+| 44922 | 19653 | 2049 | 47 minutes ago | [ansible](https://github.com/ansible/ansible)/7 | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
+| 43583 | 7928 | 303 | 23 hours ago | [requests](https://github.com/psf/requests)/8 | A simple, yet elegant HTTP library. |
+| 38009 | 1684 | 73 | 4 months ago | [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)/9 | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. |
+| 34379 | 8264 | 603 | an hour ago | [transformers](https://github.com/huggingface/transformers)/10 | 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. |
+| 33801 | 5046 | 7 | 2 days ago | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)/11 | :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目 |
+| 32782 | 19684 | 449 | 5 years ago | [shadowsocks](https://github.com/shadowsocks/shadowsocks)/12 | None |
+| 30255 | 6271 | 378 | 6 hours ago | [incubator-superset](https://github.com/apache/incubator-superset)/13 | Apache Superset is a Data Visualization and Data Exploration Platform |
+| 28992 | 7943 | 21 | 2 months ago | [interview_internal_reference](https://github.com/0voice/interview_internal_reference)/14 | 2020年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 |
+| 28401 | 6279 | 77 | 2 years ago | [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)/15 | Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! |
+| 27140 | 9269 | 35 | a day ago | [AiLearning](https://github.com/apachecn/AiLearning)/16 | AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP |
+| 26713 | 11011 | 3598 | an hour ago | [pandas](https://github.com/pandas-dev/pandas)/17 | Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more |
+| 26186 | 2959 | 963 | 14 hours ago | [sentry](https://github.com/getsentry/sentry)/18 | Sentry is cross-platform application monitoring, with a focus on error reporting. |
+| 24228 | 5917 | 575 | 7 months ago | [jieba](https://github.com/fxsjy/jieba)/19 | 结巴中文分词 |
+| 21781 | 2455 | 41 | 18 days ago | [linux-insides](https://github.com/0xAX/linux-insides)/20 | A little bit about a linux kernel |
+| 21627 | 1970 | 36 | 13 days ago | [wtfpython](https://github.com/satwikkansal/wtfpython)/21 | What the f*ck Python? |
+| 21004 | 1549 | 469 | 2 days ago | [pipenv](https://github.com/pypa/pipenv)/22 |  Python Development Workflow for Humans. |
+| 20902 | 3290 | 56 | a month ago | [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)/23 | 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards. |
+| 18880 | 5328 | 313 | an hour ago | [django-rest-framework](https://github.com/encode/django-rest-framework)/24 | Web APIs for Django. 🎸 |
+| 18787 | 4844 | 3 | 20 days ago | [d2l-zh](https://github.com/d2l-ai/d2l-zh)/25 | 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。 |
+| 18401 | 7162 | 837 | an hour ago | [airflow](https://github.com/apache/airflow)/26 | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
+| 18190 | 5805 | 68 | 2 months ago | [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)/27 | PyTorch Tutorial for Deep Learning Researchers |
+| 18003 | 1114 | 320 | a day ago | [black](https://github.com/psf/black)/28 | The uncompromising Python code formatter |
+| 17924 | 3639 | 132 | 2 days ago | [algorithms](https://github.com/keon/algorithms)/29 | Minimal examples of data structures and algorithms in Python |
+| 17754 | 1094 | 87 | 2 months ago | [python-fire](https://github.com/google/python-fire)/30 | Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. |
+| 17280 | 3104 | 188 | 3 hours ago | [spaCy](https://github.com/explosion/spaCy)/31 | 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython |
+| 17272 | 1214 | 6 | 30 days ago | [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)/32 | Guide to securing and improving privacy on macOS |
+| 16894 | 1104 | 191 | 16 days ago | [glances](https://github.com/nicolargo/glances)/33 | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. |
+| 16835 | 3340 | 32 | 11 months ago | [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)/34 | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. |
+| 16807 | 2885 | 28 | 7 days ago | [NLP-progress](https://github.com/sebastianruder/NLP-progress)/35 | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. |
+| 16613 | 5348 | 116 | 8 months ago | [algo](https://github.com/wangzheng0822/algo)/36 | 数据结构和算法必知必会的50个代码实现 |
+| 15871 | 3829 | 454 | an hour ago | [celery](https://github.com/celery/celery)/37 | Distributed Task Queue (development branch) |
+| 15697 | 3192 | 271 | 4 days ago | [magenta](https://github.com/magenta/magenta)/38 | Magenta: Music and Art Generation with Machine Intelligence |
+| 15512 | 3013 | 11 | 8 hours ago | [python-cheatsheet](https://github.com/gto76/python-cheatsheet)/39 | Comprehensive Python Cheatsheet |
+| 14997 | 4892 | 2177 | 3 hours ago | [numpy](https://github.com/numpy/numpy)/40 | The fundamental package for scientific computing with Python. |
+| 14918 | 3037 | 0 | 2 months ago | [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course)/41 | Simple and ready-to-use tutorials for TensorFlow  |
+| 14620 | 1308 | 1 | 13 days ago | [professional-programming](https://github.com/charlax/professional-programming)/42 | A collection of full-stack resources for programmers. |
+| 14601 | 3529 | 273 | a month ago | [pyspider](https://github.com/binux/pyspider)/43 | A Powerful Spider(Web Crawler) System in Python. |
+| 14401 | 4044 | 1384 | 10 days ago | [ipython](https://github.com/ipython/ipython)/44 | Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc. |
+| 14268 | 1482 | 21 | 11 days ago | [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)/45 | A list of awesome applications, software, tools and other materials for Linux distros.  |
+| 14225 | 1394 | 100 | 6 days ago | [spleeter](https://github.com/deezer/spleeter)/46 | Deezer source separation library including pretrained models. |
+| 14139 | 1292 | 61 | 13 minutes ago | [sanic](https://github.com/huge-success/sanic)/47 | Async Python 3.6+ web server/framework | Build fast. Run fast. |
+| 13893 | 4568 | 30 | 2 years ago | [wechat_jump_game](https://github.com/wangshub/wechat_jump_game)/48 | 微信《跳一跳》Python 辅助 |
+| 13889 | 1931 | 31 | 3 hours ago | [locust](https://github.com/locustio/locust)/49 | Scalable user load testing tool written in Python |
+| 13790 | 863 | 15 | 16 days ago | [PySnooper](https://github.com/cool-RR/PySnooper)/50 | Never use print for debugging again |
+| 13766 | 2172 | 52 | 5 days ago | [luigi](https://github.com/spotify/luigi)/51 | Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  |
+| 13717 | 2007 | 40 | 13 days ago | [CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries)/52 | The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. |
+| 13247 | 3310 | 115 | 8 months ago | [gpt-2](https://github.com/openai/gpt-2)/53 | Code for the paper "Language Models are Unsupervised Multitask Learners" |
+| 13089 | 3903 | 260 | 17 days ago | [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)/54 | Image-to-Image Translation in PyTorch |
+| 12976 | 3227 | 1938 | 14 minutes ago | [Paddle](https://github.com/PaddlePaddle/Paddle)/55 | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） |
+| 12833 | 655 | 133 | 7 days ago | [wttr.in](https://github.com/chubin/wttr.in)/56 | :partly_sunny: The right way to check the weather |
+| 12628 | 348 | 12 | 3 days ago | [rich](https://github.com/willmcgugan/rich)/57 | Rich is a Python library for rich text and beautiful formatting in the terminal. |
+| 12493 | 1810 | 425 | 8 months ago | [fabric](https://github.com/fabric/fabric)/58 | Simple, Pythonic remote execution and deployment. |
+| 12439 | 2171 | 302 | 3 years ago | [wxpy](https://github.com/youfou/wxpy)/59 | 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ |
+| 12340 | 2678 | 49 | a month ago | [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model)/60 | 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 |
+| 12244 | 5366 | 1595 | 18 hours ago | [matplotlib](https://github.com/matplotlib/matplotlib)/61 | matplotlib: plotting with Python |
+| 11991 | 3437 | 314 | 8 days ago | [zipline](https://github.com/quantopian/zipline)/62 | Zipline, a Pythonic Algorithmic Trading Library |
+| 11892 | 4048 | 385 | 6 hours ago | [mmdetection](https://github.com/open-mmlab/mmdetection)/63 | OpenMMLab Detection Toolbox and Benchmark |
+| 11515 | 3242 | 82 | 26 days ago | [prophet](https://github.com/facebook/prophet)/64 | Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. |
+| 11368 | 4531 | 0 | 5 days ago | [python-spider](https://github.com/Jack-Cherish/python-spider)/65 | :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等 |
+| 11270 | 4940 | 2391 | 2 hours ago | [salt](https://github.com/saltstack/salt)/66 | Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:  |
+| 11209 | 3822 | 347 | 6 hours ago | [gensim](https://github.com/RaRe-Technologies/gensim)/67 | Topic Modelling for Humans |
+| 11191 | 738 | 121 | 4 months ago | [requests-html](https://github.com/psf/requests-html)/68 | Pythonic HTML Parsing for Humans™ |
+| 11153 | 420 | 123 | 4 months ago | [magic-wormhole](https://github.com/warner/magic-wormhole)/69 | get things from one computer to another, safely |
+| 11105 | 951 | 438 | 9 hours ago | [streamlit](https://github.com/streamlit/streamlit)/70 | Streamlit — The fastest way to build data apps in Python |
+| 11092 | 1200 | 670 | 2 months ago | [Zappa](https://github.com/Miserlou/Zappa)/71 | Serverless Python |
+| 11079 | 796 | 3 | 2 months ago | [material-theme](https://github.com/equinusocio/material-theme)/72 | Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino |
+| 11077 | 4453 | 500 | 2 years ago | [facenet](https://github.com/davidsandberg/facenet)/73 | Face recognition using Tensorflow |
+| 11070 | 756 | 292 | 7 days ago | [yapf](https://github.com/google/yapf)/74 | A formatter for Python files |
+| 11020 | 2794 | 176 | 8 days ago | [jupyter](https://github.com/jupyter/jupyter)/75 | Jupyter metapackage for installation, docs and chat |
+| 10813 | 1580 | 179 | 4 months ago | [mkdocs](https://github.com/mkdocs/mkdocs)/76 | Project documentation with Markdown. |
+| 10571 | 3627 | 441 | 7 months ago | [baselines](https://github.com/openai/baselines)/77 | OpenAI Baselines: high-quality implementations of reinforcement learning algorithms |
+| 10438 | 2663 | 534 | a day ago | [tensor2tensor](https://github.com/tensorflow/tensor2tensor)/78 | Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. |
+| 10380 | 1102 | 51 | 1 year, 7 months ago | [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)/79 | Style transfer, deep learning, feature transform |
+| 10375 | 3545 | 175 | a month ago | [ChatterBot](https://github.com/gunthercox/ChatterBot)/80 | ChatterBot is a machine learning, conversational dialog engine for creating chat bots |
+| 10207 | 1674 | 412 | 28 days ago | [newspaper](https://github.com/codelucas/newspaper)/81 | News, full-text, and article metadata extraction in Python 3. Advanced docs: |
+| 9961 | 1894 | 199 | 3 months ago | [imgaug](https://github.com/aleju/imgaug)/82 | Image augmentation for machine learning experiments. |
+| 9933 | 3811 | 352 | 6 months ago | [tushare](https://github.com/waditu/tushare)/83 | TuShare is a utility for crawling historical data of China stocks |
+| 9801 | 3035 | 458 | 52 minutes ago | [rasa](https://github.com/RasaHQ/rasa)/84 | 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants |
+| 9777 | 827 | 621 | Unknown | [jax](https://github.com/google/jax)/85 | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
+| 9488 | 1458 | 59 | Unknown | [Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)/86 | 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。 |
+| 9485 | 1024 | 327 | Unknown | [mailinabox](https://github.com/mail-in-a-box/mailinabox)/87 | Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. |
+| 9273 | 2396 | 249 | Unknown | [nltk](https://github.com/nltk/nltk)/88 | NLTK Source |
+| 9249 | 2002 | 856 | Unknown | [wagtail](https://github.com/wagtail/wagtail)/89 | A Django content management system focused on flexibility and user experience |
+| 9233 | 2115 | 189 | Unknown | [wifiphisher](https://github.com/wifiphisher/wifiphisher)/90 | The Rogue Access Point Framework |
+| 9197 | 1931 | 24 | Unknown | [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)/91 | A list of all named GANs! |
+| 9169 | 3218 | 179 | Unknown | [saleor](https://github.com/mirumee/saleor)/92 | A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS. |
+| 9162 | 1462 | 1451 | Unknown | [mypy](https://github.com/python/mypy)/93 | Optional static typing for Python 3 and 2 (PEP 484) |
+| 9116 | 1238 | 85 | Unknown | [avatarify](https://github.com/alievk/avatarify)/94 | Avatars for Zoom, Skype and other video-conferencing apps. |
+| 9102 | 2760 | 11 | Unknown | [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers)/95 | 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. ) |
+| 9079 | 2319 | 453 | Unknown | [fairseq](https://github.com/pytorch/fairseq)/96 | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
+| 9065 | 557 | 151 | Unknown | [mycli](https://github.com/dbcli/mycli)/97 | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. |
+| 9047 | 2485 | 30 | Unknown | [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo)/98 | An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html. |
+| 8979 | 667 | 22 | Unknown | [sshuttle](https://github.com/apenwarr/sshuttle)/99 | Wrong project!  You should head over to http://github.com/sshuttle/sshuttle |
+| 8966 | 353 | 12 | Unknown | [termtosvg](https://github.com/nbedos/termtosvg)/100 | Record terminal sessions as SVG animations |
+| 11992 | 3437 | 314 | 8 days ago | [zipline](https://github.com/quantopian/zipline)/101 | Zipline, a Pythonic Algorithmic Trading Library |
+| 11990 | 911 | 179 | 4 days ago | [powerline](https://github.com/powerline/powerline)/102 | Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. |
+| 11892 | 4048 | 385 | 2 minutes ago | [mmdetection](https://github.com/open-mmlab/mmdetection)/103 | OpenMMLab Detection Toolbox and Benchmark |
+| 11890 | 2515 | 807 | 18 hours ago | [kivy](https://github.com/kivy/kivy)/104 | Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS |
+| 11832 | 2508 | 28 | 3 days ago | [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)/105 | We have made you a wrapper you can't refuse |
+| 11706 | 564 | 167 | 2 years ago | [autojump](https://github.com/wting/autojump)/106 | A cd command that learns - easily navigate directories from the command line |
+| 11661 | 5457 | 5 | 2 years ago | [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)/107 | Code samples for my book "Neural Networks and Deep Learning" |
+| 11567 | 2965 | 123 | 4 days ago | [InstaPy](https://github.com/timgrossmann/InstaPy)/108 | 📷 Instagram Bot - Tool for automated Instagram interactions |
+| 11516 | 3242 | 82 | 26 days ago | [prophet](https://github.com/facebook/prophet)/109 | Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth. |
+| 11498 | 1444 | 19 | 1 year, 8 months ago | [game-programmer](https://github.com/miloyip/game-programmer)/110 | A Study Path for Game Programmer |
+| 11381 | 253 | 48 | a month ago | [inter](https://github.com/rsms/inter)/111 | The Inter font family |
+| 11368 | 4531 | 0 | 5 days ago | [python-spider](https://github.com/Jack-Cherish/python-spider)/112 | :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等 |
+| 11270 | 4940 | 2392 | 3 hours ago | [salt](https://github.com/saltstack/salt)/113 | Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:  |
+| 11209 | 3822 | 347 | 7 hours ago | [gensim](https://github.com/RaRe-Technologies/gensim)/114 | Topic Modelling for Humans |
+| 11191 | 738 | 121 | 4 months ago | [requests-html](https://github.com/psf/requests-html)/115 | Pythonic HTML Parsing for Humans™ |
+| 11153 | 420 | 123 | 4 months ago | [magic-wormhole](https://github.com/warner/magic-wormhole)/116 | get things from one computer to another, safely |
+| 11105 | 951 | 438 | 18 minutes ago | [streamlit](https://github.com/streamlit/streamlit)/117 | Streamlit — The fastest way to build data apps in Python |
+| 11093 | 1200 | 670 | 2 months ago | [Zappa](https://github.com/Miserlou/Zappa)/118 | Serverless Python |
+| 11079 | 796 | 3 | 2 months ago | [material-theme](https://github.com/equinusocio/material-theme)/119 | Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino |
+| 11077 | 4453 | 500 | 2 years ago | [facenet](https://github.com/davidsandberg/facenet)/120 | Face recognition using Tensorflow |
+| 11070 | 756 | 292 | 7 days ago | [yapf](https://github.com/google/yapf)/121 | A formatter for Python files |
+| 11020 | 2794 | 176 | 8 days ago | [jupyter](https://github.com/jupyter/jupyter)/122 | Jupyter metapackage for installation, docs and chat |
+| 11002 | 1237 | 2 | 2 years ago | [pix2code](https://github.com/tonybeltramelli/pix2code)/123 | pix2code: Generating Code from a Graphical User Interface Screenshot |
+| 10813 | 1580 | 179 | 4 months ago | [mkdocs](https://github.com/mkdocs/mkdocs)/124 | Project documentation with Markdown. |
+| 10778 | 3049 | 217 | 28 days ago | [proxy_pool](https://github.com/jhao104/proxy_pool)/125 | Python爬虫代理IP池(proxy pool) |
+| 10716 | 1931 | 4 | 10 months ago | [wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)/126 | wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译 |
+| 10602 | 1257 | 121 | a day ago | [faker](https://github.com/joke2k/faker)/127 | Faker is a Python package that generates fake data for you. |
+| 10571 | 3627 | 441 | 7 months ago | [baselines](https://github.com/openai/baselines)/128 | OpenAI Baselines: high-quality implementations of reinforcement learning algorithms |
+| 10438 | 2663 | 534 | a day ago | [tensor2tensor](https://github.com/tensorflow/tensor2tensor)/129 | Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. |
+| 10393 | 2541 | 352 | a month ago | [walle-web](https://github.com/meolu/walle-web)/130 | walle - 瓦力 Devops开源项目代码部署平台 |
+| 10386 | 610 | 68 | a month ago | [Gooey](https://github.com/chriskiehl/Gooey)/131 | Turn (almost) any Python command line program into a full GUI application with one line |
+| 10380 | 1102 | 51 | 1 year, 7 months ago | [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle)/132 | Style transfer, deep learning, feature transform |
+| 10375 | 3545 | 175 | a month ago | [ChatterBot](https://github.com/gunthercox/ChatterBot)/133 | ChatterBot is a machine learning, conversational dialog engine for creating chat bots |
+| 10281 | 1477 | 458 | a day ago | [aiohttp](https://github.com/aio-libs/aiohttp)/134 | Asynchronous HTTP client/server framework for asyncio and Python |
+| 10207 | 1674 | 412 | 28 days ago | [newspaper](https://github.com/codelucas/newspaper)/135 | News, full-text, and article metadata extraction in Python 3. Advanced docs: |
+| 10145 | 2388 | 736 | 21 hours ago | [aws-cli](https://github.com/aws/aws-cli)/136 | Universal Command Line Interface for Amazon Web Services |
+| 10092 | 2286 | 9 | 9 months ago | [stylegan](https://github.com/NVlabs/stylegan)/137 | StyleGAN - Official TensorFlow Implementation |
+| 10055 | 1428 | 47 | 1 year, 1 month ago | [speedtest-cli](https://github.com/sivel/speedtest-cli)/138 | Command line interface for testing internet bandwidth using speedtest.net |
+| 10047 | 1615 | 710 | a day ago | [horovod](https://github.com/horovod/horovod)/139 | Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. |
+| 10017 | 1122 | 37 | 5 months ago | [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)/140 | Decensoring Hentai with Deep Neural Networks |
+| 9985 | 436 | 115 | 2 days ago | [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)/141 | Google Chromium, sans integration with Google |
+| 9961 | 1894 | 199 | 3 months ago | [imgaug](https://github.com/aleju/imgaug)/142 | Image augmentation for machine learning experiments. |
+| 9943 | 953 | 242 | 4 days ago | [openage](https://github.com/SFTtech/openage)/143 | Free (as in freedom) open source clone of the Age of Empires II engine :rocket: |
+| 9933 | 3811 | 352 | 6 months ago | [tushare](https://github.com/waditu/tushare)/144 | TuShare is a utility for crawling historical data of China stocks |
+| 9825 | 987 | 111 | 16 days ago | [click](https://github.com/pallets/click)/145 | Python composable command line interface toolkit |
+| 9809 | 826 | 104 | 5 months ago | [sovereign](https://github.com/sovereign/sovereign)/146 | A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more. |
+| 9802 | 2230 | 24 | 29 days ago | [pyecharts](https://github.com/pyecharts/pyecharts)/147 | 🎨 Python Echarts Plotting Library |
+| 9801 | 3035 | 458 | an hour ago | [rasa](https://github.com/RasaHQ/rasa)/148 | 💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants |
+| 9777 | 827 | 621 | 19 hours ago | [jax](https://github.com/google/jax)/149 | Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more |
+| 9692 | 4345 | 85 | 2 years ago | [stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)/150 | This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research.  |
+| 9636 | 472 | 28 | 2 days ago | [kitty](https://github.com/kovidgoyal/kitty)/151 | A cross-platform, fast, feature full, GPU based terminal emulator |
+| 9613 | 1609 | 535 | 20 hours ago | [beets](https://github.com/beetbox/beets)/152 | music library manager and MusicBrainz tagger |
+| 9488 | 1458 | 59 | a day ago | [Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)/153 | 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。 |
+| 9485 | 1024 | 327 | 3 days ago | [mailinabox](https://github.com/mail-in-a-box/mailinabox)/154 | Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. |
+| 9453 | 862 | 50 | 4 years ago | [neural-doodle](https://github.com/alexjc/neural-doodle)/155 | Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.) |
+| 9452 | 2411 | 573 | 1 year, 8 months ago | [tflearn](https://github.com/tflearn/tflearn)/156 | Deep learning library featuring a higher-level API for TensorFlow. |
+| 9400 | 2398 | 89 | 4 months ago | [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)/157 | TensorFlow CNN for fast style transfer ⚡🖥🎨🖼 |
+| 9387 | 1311 | 112 | 3 days ago | [flair](https://github.com/flairNLP/flair)/158 | A very simple framework for state-of-the-art Natural Language Processing (NLP) |
+| 9341 | 474 | 103 | a day ago | [diagrams](https://github.com/mingrammer/diagrams)/159 | :art: Diagram as Code for prototyping cloud system architectures |
+| 9273 | 2396 | 249 | 6 days ago | [nltk](https://github.com/nltk/nltk)/160 | NLTK Source |
+| 9249 | 2002 | 855 | 14 minutes ago | [wagtail](https://github.com/wagtail/wagtail)/161 | A Django content management system focused on flexibility and user experience |
+| 9236 | 1354 | 122 | 1 year, 10 months ago | [httpbin](https://github.com/postmanlabs/httpbin)/162 | HTTP Request & Response Service, written in Python + Flask. |
+| 9233 | 2115 | 189 | 3 months ago | [wifiphisher](https://github.com/wifiphisher/wifiphisher)/163 | The Rogue Access Point Framework |
+| 9227 | 2516 | 672 | 25 days ago | [Theano](https://github.com/Theano/Theano)/164 | Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation. |
+| 9197 | 1931 | 24 | 2 years ago | [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)/165 | A list of all named GANs! |
+| 9169 | 3218 | 179 | 3 hours ago | [saleor](https://github.com/mirumee/saleor)/166 | A modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS. |
+| 9162 | 1462 | 1451 | 2 hours ago | [mypy](https://github.com/python/mypy)/167 | Optional static typing for Python 3 and 2 (PEP 484) |
+| 9116 | 1238 | 85 | 17 days ago | [avatarify](https://github.com/alievk/avatarify)/168 | Avatars for Zoom, Skype and other video-conferencing apps. |
+| 9102 | 2760 | 11 | 5 months ago | [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers)/169 | 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. ) |
+| 9079 | 2319 | 453 | 14 hours ago | [fairseq](https://github.com/pytorch/fairseq)/170 | Facebook AI Research Sequence-to-Sequence Toolkit written in Python. |
+| 9065 | 557 | 151 | a month ago | [mycli](https://github.com/dbcli/mycli)/171 | A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. |
+| 9047 | 2485 | 30 | 2 years ago | [RocAlphaGo](https://github.com/Rochester-NRT/RocAlphaGo)/172 | An independent, student-led replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html. |
+| 9023 | 1488 | 550 | 4 hours ago | [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)/173 | Geometric Deep Learning Extension Library for PyTorch |
+| 8979 | 667 | 22 | 4 years ago | [sshuttle](https://github.com/apenwarr/sshuttle)/174 | Wrong project!  You should head over to http://github.com/sshuttle/sshuttle |
+| 8966 | 353 | 12 | 3 months ago | [termtosvg](https://github.com/nbedos/termtosvg)/175 | Record terminal sessions as SVG animations |
+| 8958 | 2550 | 18 | 2 months ago | [numpy-ml](https://github.com/ddbourgin/numpy-ml)/176 | Machine learning, in numpy |
+| 8958 | 412 | 120 | 16 days ago | [pgcli](https://github.com/dbcli/pgcli)/177 | Postgres CLI with autocompletion and syntax highlighting |
+| 8572 | 1528 | 200 | 12 days ago | [musicbox](https://github.com/darknessomi/musicbox)/178 | 网易云音乐命令行版本 |
+| 8557 | 546 | 119 | 1 year, 7 months ago | [explainshell](https://github.com/idank/explainshell)/179 | match command-line arguments to their help text |
+| 8531 | 1235 | 17 | 2 days ago | [sonnet](https://github.com/deepmind/sonnet)/180 | TensorFlow-based neural network library |
+| 8487 | 5051 | 13 | 2 years ago | [tutorials](https://github.com/MorvanZhou/tutorials)/181 | 机器学习相关教程 |
+| 8465 | 771 | 17 | 16 days ago | [howdoi](https://github.com/gleitz/howdoi)/182 | instant coding answers via the command line |
+| 8453 | 712 | 101 | 5 months ago | [asciinema](https://github.com/asciinema/asciinema)/183 | Terminal session recorder 📹 |
+| 8438 | 1350 | 2 | a day ago | [calibre](https://github.com/kovidgoyal/calibre)/184 | The official source code repository for the calibre ebook manager |
+| 8435 | 595 | 564 | a month ago | [ranger](https://github.com/ranger/ranger)/185 | A VIM-inspired filemanager for the console |
+| 8409 | 734 | 421 | 3 hours ago | [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools)/186 | DeDRM tools for ebooks |
+| 8396 | 1194 | 53 | 9 months ago | [XSStrike](https://github.com/s0md3v/XSStrike)/187 | Most advanced XSS scanner. |
+| 8368 | 1849 | 81 | 3 months ago | [routersploit](https://github.com/threat9/routersploit)/188 | Exploitation Framework for Embedded Devices |
+| 8357 | 742 | 42 | 5 days ago | [EasyOCR](https://github.com/JaidedAI/EasyOCR)/189 | Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai |
+| 8337 | 752 | 36 | a month ago | [chisel](https://github.com/facebook/chisel)/190 | Chisel is a collection of LLDB commands to assist debugging iOS apps. |
+| 8307 | 1669 | 220 | a month ago | [bert-as-service](https://github.com/hanxiao/bert-as-service)/191 | Mapping a variable-length sentence to a fixed-length vector using BERT model |
+| 8286 | 1983 | 24 | 4 months ago | [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)/192 | A MNIST-like fashion product database. Benchmark :point_right:  |
+| 8225 | 1001 | 382 | a month ago | [Mailpile](https://github.com/mailpile/Mailpile)/193 | A free & open modern, fast email client with user-friendly encryption and privacy features |
+| 8176 | 1462 | 6 | 16 days ago | [MLAlgorithms](https://github.com/rushter/MLAlgorithms)/194 | Minimal and clean examples of machine learning algorithms implementations |
+| 8105 | 1980 | 143 | 7 months ago | [coursera-dl](https://github.com/coursera-dl/coursera-dl)/195 | Script for downloading Coursera.org videos and naming them. |
+| 8011 | 805 | 200 | 13 days ago | [falcon](https://github.com/falconry/falcon)/196 | The no-nonsense, minimalist web services and app backend framework for Python developers, with a focus on reliability, correctness, and performance at scale. |
+| 7966 | 688 | 113 | 2 months ago | [thumbor](https://github.com/thumbor/thumbor)/197 | thumbor is an open-source photo thumbnail service by globo.com |
+| 7949 | 2080 | 234 | a day ago | [networkx](https://github.com/networkx/networkx)/198 | Network Analysis in Python |
+| 7929 | 301 | 36 | a month ago | [http-prompt](https://github.com/httpie/http-prompt)/199 | An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/clihttp |
+| 7907 | 1276 | 114 | 1 year, 2 months ago | [portia](https://github.com/scrapinghub/portia)/200 | Visual scraping for Scrapy |
+| 7682 | 1314 | 86 | Unknown | [seaborn](https://github.com/mwaskom/seaborn)/201 | Statistical data visualization using matplotlib |
+| 7670 | 1835 | 16 | 8 months ago | [EverydayWechat](https://github.com/sfyc23/EverydayWechat)/202 | 微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等） |
+| 7658 | 1250 | 49 | 3 years ago | [qrcode](https://github.com/sylnsfar/qrcode)/203 | artistic QR Code in Python （Animated GIF qr code）- Python 艺术二维码生成器 （GIF动态二维码、图片二维码） |
+| 7647 | 1171 | 5 | Unknown | [awesome-scala](https://github.com/lauris/awesome-scala)/204 | A community driven list of useful Scala libraries, frameworks and software. |
+| 7639 | 960 | 86 | Unknown | [visdom](https://github.com/facebookresearch/visdom)/205 | A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy. |
+| 7630 | 1793 | 28 | 11 hours ago | [d2l-en](https://github.com/d2l-ai/d2l-en)/206 | Interactive deep learning book with code, math, and discussions. Available in multi-frameworks. |
+| 7617 | 1179 | 458 | 7 hours ago | [searx](https://github.com/searx/searx)/207 | Privacy-respecting metasearch engine |
+| 7603 | 1503 | 159 | 5 months ago | [pattern](https://github.com/clips/pattern)/208 | Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. |
+| 7561 | 1813 | 0 | 27 days ago | [w3-goto-world](https://github.com/hoochanlon/w3-goto-world)/209 | 🍅Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 知识储备库 |
+| 7538 | 1002 | 204 | 14 days ago | [twint](https://github.com/twintproject/twint)/210 | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations. |
+| 7523 | 2671 | 614 | a day ago | [insightface](https://github.com/deepinsight/insightface)/211 | Face Analysis Project on MXNet |
+| 7521 | 3417 | 1574 | 22 hours ago | [scipy](https://github.com/scipy/scipy)/212 | Scipy library main repository |
+| 7521 | 1317 | 183 | 2 months ago | [tpot](https://github.com/EpistasisLab/tpot)/213 | A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. |
+| 7489 | 1079 | 95 | 1 year, 2 months ago | [vid2vid](https://github.com/NVIDIA/vid2vid)/214 | Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation. |
+| 7488 | 1960 | 87 | 5 days ago | [word_cloud](https://github.com/amueller/word_cloud)/215 | A little word cloud generator in Python |
+| 7481 | 2699 | 118 | 1 year, 1 month ago | [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)/216 | Keras implementations of Generative Adversarial Networks. |
+| 7463 | 1220 | 48 | Unknown | [autokeras](https://github.com/keras-team/autokeras)/217 | AutoML library for deep learning |
+| 7454 | 2153 | 75 | 1 year, 1 month ago | [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)/218 | PyTorch implementations of Generative Adversarial Networks. |
+| 7443 | 1680 | 523 | Unknown | [mlflow](https://github.com/mlflow/mlflow)/219 | Open source platform for the machine learning lifecycle |
+| 7417 | 1891 | 291 | 11 days ago | [serverless-application-model](https://github.com/aws/serverless-application-model)/220 | AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications |
+| 7415 | 1916 | 236 | Unknown | [zhao](https://github.com/programthink/zhao)/221 | 【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵 |
+| 7379 | 1703 | 15 | 1 year, 8 months ago | [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)/222 | :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。 |
+| 7345 | 1715 | 14 | 2 days ago | [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)/223 | Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋 |
+| 7334 | 782 | 78 | 7 months ago | [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)/224 | Fuzzy String Matching in Python |
+| 7297 | 1201 | 0 | 4 hours ago | [h4cker](https://github.com/The-Art-of-Hacking/h4cker)/225 | This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. |
+| 7285 | 1165 | 145 | Unknown | [rq](https://github.com/rq/rq)/226 | Simple job queues for Python |
+| 7278 | 1334 | 68 | 16 days ago | [jinja](https://github.com/pallets/jinja)/227 | A very fast and expressive template engine. |
+| 7270 | 970 | 79 | 3 months ago | [TextBlob](https://github.com/sloria/TextBlob)/228 | Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. |
+| 7267 | 1162 | 643 | 9 minutes ago | [dask](https://github.com/dask/dask)/229 | Parallel computing with task scheduling |
+| 7257 | 1130 | 13 | 15 hours ago | [anki](https://github.com/ankitects/anki)/230 | Anki for desktop computers |
+| 7248 | 724 | 254 | 2 days ago | [chalice](https://github.com/aws/chalice)/231 | Python Serverless Microframework for AWS |
+| 7243 | 1558 | 84 | Unknown | [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch)/232 | Pretrained ConvNets for pytorch: NASNet, ResNeXt, ResNet, InceptionV4, InceptionResnetV2, Xception, DPN, etc. |
+| 7238 | 438 | 56 | Unknown | [ArchiveBox](https://github.com/pirate/ArchiveBox)/233 | 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... |
+| 7236 | 1848 | 31 | Unknown | [faceai](https://github.com/vipstone/faceai)/234 | 一款入门级的人脸、视频、文字检测以及识别的项目. |
+| 7235 | 1929 | 133 | Unknown | [cookiecutter-django](https://github.com/pydanny/cookiecutter-django)/235 | Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly. |
+| 7215 | 1525 | 478 | Unknown | [pyinstaller](https://github.com/pyinstaller/pyinstaller)/236 | Freeze (package) Python programs into stand-alone executables |
+| 7202 | 887 | 0 | Unknown | [universe](https://github.com/openai/universe)/237 | Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications. |
+| 7195 | 4742 | 3 | Unknown | [mlcourse.ai](https://github.com/Yorko/mlcourse.ai)/238 | Open Machine Learning Course |
+| 7186 | 409 | 5 | Unknown | [TrumpScript](https://github.com/samshadwell/TrumpScript)/239 | Make Python great again |
+| 7176 | 1536 | 54 | Unknown | [Douyin-Bot](https://github.com/wangshub/Douyin-Bot)/240 | 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？  |
+| 7169 | 1342 | 273 | Unknown | [gunicorn](https://github.com/benoitc/gunicorn)/241 | gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications. |
+| 7152 | 3238 | 139 | a month ago | [tweepy](https://github.com/tweepy/tweepy)/242 | Twitter for Python! |
+| 7063 | 1286 | 102 | 4 days ago | [pwntools](https://github.com/Gallopsled/pwntools)/243 | CTF framework and exploit development library |
+| 7045 | 323 | 21 | Unknown | [loguru](https://github.com/Delgan/loguru)/244 | Python logging made (stupidly) simple |
+| 7033 | 1591 | 1295 | Unknown | [elastalert](https://github.com/Yelp/elastalert)/245 | Easy & Flexible Alerting With ElasticSearch |
+| 7021 | 1074 | 52 | 1 year, 4 days ago | [pysc2](https://github.com/deepmind/pysc2)/246 | StarCraft II Learning Environment |
+| 7009 | 852 | 83 | 13 hours ago | [ludwig](https://github.com/uber/ludwig)/247 | Ludwig is a toolbox that allows to train and evaluate deep learning models without the need to write code. |
+| 6981 | 1340 | 294 | Unknown | [bottle](https://github.com/bottlepy/bottle)/248 | bottle.py is a fast and simple micro-framework for python web-applications. |
+| 6953 | 1334 | 114 | Unknown | [netbox](https://github.com/netbox-community/netbox)/249 | IP address management (IPAM) and data center infrastructure management (DCIM) tool. |
+| 6928 | 952 | 31 | Unknown | [Photon](https://github.com/s0md3v/Photon)/250 | Incredibly fast crawler designed for OSINT. |
+| 6889 | 390 | 42 | Unknown | [gitsome](https://github.com/donnemartin/gitsome)/251 | A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools |
+| 6882 | 982 | 334 | Unknown | [moviepy](https://github.com/Zulko/moviepy)/252 | Video editing with Python |
+| 6880 | 531 | 9 | a month ago | [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)/253 | Modular visual interface for GDB in Python |
+| 6872 | 2937 | 2572 | 2 hours ago | [erpnext](https://github.com/frappe/erpnext)/254 | Open Source Alternative to SAP |
+| 6841 | 1259 | 64 | 21 days ago | [node-gyp](https://github.com/nodejs/node-gyp)/255 | Node.js native addon build tool |
+| 6839 | 299 | 14 | 2 months ago | [EasyFN](https://github.com/LupusLeaks/EasyFN)/256 | With EasyFNBot you can easily create you own Fortnite Lobby Bot in less than 5 minutes which will be online forever! |
+| 6833 | 2540 | 1 | 1 year, 3 months ago | [abu](https://github.com/bbfamily/abu)/257 | 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构 |
+| 6789 | 3613 | 17 | 3 years ago | [flasky](https://github.com/miguelgrinberg/flasky)/258 | Companion code to my O'Reilly book "Flask Web Development", second edition. |
+| 6765 | 1830 | 8 | a day ago | [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)/259 | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
+| 6764 | 1961 | 193 | 1 year, 3 months ago | [WeixinBot](https://github.com/Urinx/WeixinBot)/260 | 网页版微信API，包含终端版微信及微信机器人 |
+| 6726 | 149 | 74 | 2 years ago | [monoid](https://github.com/larsenwork/monoid)/261 | Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/ |
+| 6692 | 642 | 179 | 10 days ago | [mopidy](https://github.com/mopidy/mopidy)/262 | Mopidy is an extensible music server written in Python |
+| 6687 | 1181 | 1062 | 2 minutes ago | [synapse](https://github.com/matrix-org/synapse)/263 | Synapse: Matrix reference homeserver |
+| 6670 | 918 | 3 | 5 days ago | [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)/264 | Short Python code snippets for all your development needs |
+| 6635 | 1357 | 112 | 12 hours ago | [ParlAI](https://github.com/facebookresearch/ParlAI)/265 | A framework for training and evaluating AI models on a variety of openly available dialogue datasets. |
+| 6627 | 1042 | 241 | 3 days ago | [psutil](https://github.com/giampaolo/psutil)/266 | Cross-platform lib for process and system monitoring in Python |
+| 6564 | 2092 | 828 | 10 hours ago | [pip](https://github.com/pypa/pip)/267 | The Python package installer |
+| 6559 | 750 | 69 | 2 months ago | [tensorboardX](https://github.com/lanpa/tensorboardX)/268 | tensorboard for pytorch (and chainer, mxnet, numpy, ...) |
+| 6541 | 1514 | 590 | 5 hours ago | [pytest](https://github.com/pytest-dev/pytest)/269 | The pytest framework makes it easy to write small tests, yet scales to support complex functional testing |
+| 6526 | 503 | 357 | 6 days ago | [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)/270 | Library for building powerful interactive command line applications in Python |
+| 6519 | 2391 | 43 | 9 months ago | [text_classification](https://github.com/brightmart/text_classification)/271 | all kinds of text classification models and more with deep learning |
+| 6517 | 1590 | 789 | 18 days ago | [paramiko](https://github.com/paramiko/paramiko)/272 | The leading native Python SSHv2 protocol library. |
+| 6510 | 310 | 33 | 8 months ago | [gixy](https://github.com/yandex/gixy)/273 | Nginx configuration static analyzer |
+| 6501 | 1173 | 0 | 5 months ago | [machine-learning-course](https://github.com/instillai/machine-learning-course)/274 | :speech_balloon: Machine Learning Course with Python:  |
+| 6496 | 331 | 3 | 2 months ago | [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator)/275 | A Blender script to procedurally generate 3D spaceships |
+| 6494 | 771 | 130 | a day ago | [pyro](https://github.com/pyro-ppl/pyro)/276 | Deep universal probabilistic programming with Python and PyTorch |
+| 6444 | 2315 | 1178 | 1 year, 6 months ago | [boto](https://github.com/boto/boto)/277 | For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services |
+| 6438 | 2145 | 20 | 3 months ago | [Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider)/278 | 越来越多的网站具有反爬虫特性，有的用图片隐藏关键数据，有的使用反人类的验证码，建立反反爬虫的代码仓库，通过与不同特性的网站做斗争（无恶意）提高技术。（欢迎提交难以采集的网站）（因工作原因，项目暂停）  |
+| 6419 | 178 | 18 | 3 years ago | [maybe](https://github.com/p-e-w/maybe)/279 |  :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED) |
+| 6392 | 526 | 51 | 1 year, 1 month ago | [records](https://github.com/kennethreitz-archive/records)/280 | SQL for Humans™ |
+| 6382 | 1065 | 133 | a month ago | [supervisor](https://github.com/Supervisor/supervisor)/281 | Supervisor process control system for UNIX |
+| 6379 | 356 | 22 | 4 months ago | [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound)/282 | Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite: |
+| 6371 | 534 | 295 | 5 days ago | [mps-youtube](https://github.com/mps-youtube/mps-youtube)/283 | Terminal based YouTube player and downloader |
+| 6370 | 566 | 499 | 13 hours ago | [dvc](https://github.com/iterative/dvc)/284 | 🦉Data Version Control | Git for Data & Models |
+| 6336 | 379 | 16 | 9 days ago | [bup](https://github.com/bup/bup)/285 | Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below). |
+| 6322 | 358 | 144 | a month ago | [hug](https://github.com/hugapi/hug)/286 | Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler. |
+| 6303 | 2158 | 333 | 1 year, 26 days ago | [yowsup](https://github.com/tgalal/yowsup)/287 | The WhatsApp lib |
+| 6295 | 1418 | 46 | 24 days ago | [tensorlayer](https://github.com/tensorlayer/tensorlayer)/288 | Deep Learning and Reinforcement Learning Library for Scientists and Engineers 🔥 |
+| 6294 | 883 | 11 | a day ago | [pysheeet](https://github.com/crazyguitar/pysheeet)/289 | Python Cheat Sheet |
+| 6290 | 535 | 44 | 3 days ago | [arrow](https://github.com/arrow-py/arrow)/290 | Better dates & times for Python |
+| 6258 | 1951 | 18 | 2 years ago | [generative-models](https://github.com/wiseodd/generative-models)/291 | Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow. |
+| 6243 | 3121 | 481 | 2 years ago | [keras-yolo3](https://github.com/qqwweee/keras-yolo3)/292 | A Keras implementation of YOLOv3 (Tensorflow backend) |
+| 6232 | 1422 | 470 | an hour ago | [PySyft](https://github.com/OpenMined/PySyft)/293 | A library for answering questions using data you cannot see |
+| 6216 | 1736 | 50 | 18 days ago | [theZoo](https://github.com/ytisf/theZoo)/294 | A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. |
+| 6193 | 720 | 32 | 11 days ago | [eve](https://github.com/pyeve/eve)/295 | REST API framework designed for human beings |
+| 6190 | 1876 | 6 | 2 months ago | [Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)/296 | 手写实现李航《统计学习方法》书中全部算法 |
+| 6169 | 805 | 133 | 12 days ago | [albumentations](https://github.com/albumentations-team/albumentations)/297 | Fast image augmentation library and easy to use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about library: https://www.mdpi.com/2078-2489/11/2/125 |
+| 6159 | 1337 | 229 | 16 days ago | [python-for-android](https://github.com/kivy/python-for-android)/298 | Turn your Python application into an Android APK |
+| 6148 | 1581 | 455 | 11 months ago | [nupic](https://github.com/numenta/nupic)/299 | Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex. |
+| 6143 | 1237 | 19 | 20 days ago | [PyMySQL](https://github.com/PyMySQL/PyMySQL)/300 | Pure Python MySQL Client |
+| 5687 | 1957 | 359 | 4 months ago | [faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch)/301 | A faster pytorch implementation of faster r-cnn |
+| 5666 | 1250 | 12 | 6 days ago | [stylegan2](https://github.com/NVlabs/stylegan2)/302 | StyleGAN2 - Official TensorFlow Implementation |
+| 5660 | 702 | 1253 | 20 hours ago | [numba](https://github.com/numba/numba)/303 | NumPy aware dynamic Python compiler using LLVM |
+| 5649 | 225 | 9 | 6 months ago | [legit](https://github.com/frostming/legit)/304 | Git for Humans, Inspired by GitHub for Mac™. |
+| 5630 | 1292 | 48 | a month ago | [scapy](https://github.com/secdev/scapy)/305 | Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3. |
+| 5625 | 591 | 76 | 22 days ago | [ultisnips](https://github.com/SirVer/ultisnips)/306 | UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips! |
+| 5621 | 315 | 149 | 1 year, 7 months ago | [vibora](https://github.com/vibora-io/vibora)/307 | Fast, asynchronous and elegant Python web framework. |
+| 5617 | 1544 | 58 | a month ago | [wait-for-it](https://github.com/vishnubob/wait-for-it)/308 | Pure bash script to test and wait on the availability of a TCP host and port |
+| 5613 | 3723 | 40 | a month ago | [Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)/309 | Simple Reinforcement learning tutorials |
+| 5604 | 1649 | 173 | a day ago | [discord.py](https://github.com/Rapptz/discord.py)/310 | An API wrapper for Discord written in Python. |
+| 5600 | 805 | 28 | 3 months ago | [trump2cash](https://github.com/maxbbraun/trump2cash)/311 | A stock trading bot powered by Trump tweets |
+| 5575 | 1857 | 265 | 1 year, 7 months ago | [nmt](https://github.com/tensorflow/nmt)/312 | TensorFlow Neural Machine Translation Tutorial |
+| 5567 | 2065 | 1968 | a day ago | [statsmodels](https://github.com/statsmodels/statsmodels)/313 | Statsmodels: statistical modeling and econometrics in Python |
+| 5553 | 603 | 88 | 11 months ago | [chinese-dos-games](https://github.com/rwv/chinese-dos-games)/314 | 🎮 Chinese DOS games in browser. |
+| 5538 | 1635 | 132 | 21 hours ago | [impacket](https://github.com/SecureAuthCorp/impacket)/315 | Impacket is a collection of Python classes for working with network protocols. |
+| 5523 | 3310 | 53 | 4 years ago | [shadowsocksr](https://github.com/shadowsocksr-backup/shadowsocksr)/316 | Python port of ShadowsocksR |
+| 5497 | 4963 | 53 | 12 days ago | [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)/317 | A collection of machine learning examples and tutorials. |
+| 5491 | 1276 | 10 | 1 year, 11 months ago | [interpy-zh](https://github.com/eastlakeside/interpy-zh)/318 | 📘《Python进阶》（Intermediate Python 中文版） |
+| 5484 | 433 | 29 | 7 months ago | [apistar](https://github.com/encode/apistar)/319 | The Web API toolkit. 🛠 |
+| 5480 | 1077 | 892 | 4 minutes ago | [cython](https://github.com/cython/cython)/320 | The most widely used Python to C compiler |
+| 5467 | 1173 | 64 | 3 months ago | [bypy](https://github.com/houtianze/bypy)/321 | Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端 |
+| 5462 | 1683 | 69 | a day ago | [labelme](https://github.com/wkentaro/labelme)/322 | Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation). |
+| 5458 | 1367 | 16 | a month ago | [chainer](https://github.com/chainer/chainer)/323 | A flexible framework of neural networks for deep learning |
+| 5454 | 1477 | 57 | 16 days ago | [werkzeug](https://github.com/pallets/werkzeug)/324 | The comprehensive WSGI web application library. |
+| 5450 | 1304 | 28 | 19 days ago | [webpy](https://github.com/webpy/webpy)/325 | web.py is a web framework for python that is as simple as it is powerful.  |
+| 5435 | 1072 | 176 | 9 months ago | [xlnet](https://github.com/zihangdai/xlnet)/326 | XLNet: Generalized Autoregressive Pretraining for Language Understanding |
+| 5433 | 566 | 45 | 3 months ago | [DAIN](https://github.com/baowenbo/DAIN)/327 | Depth-Aware Video Frame Interpolation (CVPR 2019) |
+| 5428 | 2673 | 18 | a month ago | [practical-python](https://github.com/dabeaz-course/practical-python)/328 | Practical Python Programming (course by @dabeaz) |
+| 5425 | 439 | 126 | 4 years ago | [Flashlight](https://github.com/nate-parrott/Flashlight)/329 | The missing Spotlight plugin system |
+| 5424 | 146 | 23 | 7 months ago | [SASM](https://github.com/Dman95/SASM)/330 | SASM - simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages |
+| 5401 | 282 | 87 | 11 months ago | [opensnitch](https://github.com/evilsocket/opensnitch)/331 | OpenSnitch is a GNU/Linux port of the Little Snitch application firewall |
+| 5397 | 385 | 2 | 13 days ago | [programming-talks](https://github.com/hellerve/programming-talks)/332 | Awesome & interesting talks about programming |
+| 5394 | 1047 | 214 | a month ago | [taiga-back](https://github.com/taigaio/taiga-back)/333 | Agile project management platform. Built on top of Django and AngularJS |
+| 5393 | 863 | 3 | 1 year, 1 month ago | [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)/334 | :beers: awesome cheatsheet |
+| 5391 | 882 | 176 | 6 days ago | [fail2ban](https://github.com/fail2ban/fail2ban)/335 | Daemon to ban hosts that cause multiple authentication errors |
+| 5388 | 716 | 106 | 2 years ago | [powerline-shell](https://github.com/b-ryan/powerline-shell)/336 | A beautiful and useful prompt for your shell |
+| 5380 | 913 | 114 | 15 hours ago | [wav2letter](https://github.com/facebookresearch/wav2letter)/337 | Facebook AI Research's Automatic Speech Recognition Toolkit  |
+| 5377 | 2155 | 68 | a day ago | [docker-stacks](https://github.com/jupyter/docker-stacks)/338 | Ready-to-run Docker images containing Jupyter applications |
+| 5347 | 1204 | 75 | 5 months ago | [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)/339 |  💎1MB lightweight face detection model  (1MB轻量级人脸检测模型) |
+| 5329 | 1038 | 41 | 1 year, 10 months ago | [open_nsfw](https://github.com/yahoo/open_nsfw)/340 | Not Suitable for Work (NSFW) classification using deep neural network Caffe models. |
+| 5329 | 408 | 20 | 10 days ago | [codeface](https://github.com/chrissimpkins/codeface)/341 | Typefaces for source code beautification |
+| 5309 | 363 | 344 | 17 hours ago | [modin](https://github.com/modin-project/modin)/342 | Modin: Speed up your Pandas workflows by changing a single line of code |
+| 5301 | 531 | 195 | a day ago | [meshroom](https://github.com/alicevision/meshroom)/343 | 3D Reconstruction Software |
+| 5299 | 878 | 51 | 7 days ago | [gevent](https://github.com/gevent/gevent)/344 | Coroutine-based concurrency library for Python |
+| 5293 | 1271 | 192 | 3 years ago | [seq2seq](https://github.com/google/seq2seq)/345 | A general-purpose encoder-decoder framework for Tensorflow |
+| 5290 | 1025 | 10 | 2 years ago | [progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans)/346 | Progressive Growing of GANs for Improved Quality, Stability, and Variation |
+| 5285 | 2695 | 110 | 2 years ago | [cnn-text-classification-tf](https://github.com/dennybritz/cnn-text-classification-tf)/347 | Convolutional Neural Network for Text Classification in Tensorflow |
+| 5276 | 1163 | 133 | 7 months ago | [spinningup](https://github.com/openai/spinningup)/348 | An educational resource to help anyone learn deep reinforcement learning. |
+| 5263 | 1163 | 30 | 5 days ago | [Dshell](https://github.com/USArmyResearchLab/Dshell)/349 | Dshell is a network forensic analysis framework. |
+| 5252 | 528 | 15 | 10 days ago | [urh](https://github.com/jopohl/urh)/350 | Universal Radio Hacker: Investigate Wireless Protocols Like A Boss |
+| 5252 | 280 | 38 | 23 days ago | [boltons](https://github.com/mahmoud/boltons)/351 | 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton. |
+| 5251 | 1570 | 3 | 2 months ago | [data-science-blogs](https://github.com/rushter/data-science-blogs)/352 | A curated list of data science blogs |
+| 5225 | 815 | 313 | 5 days ago | [aws-sam-cli](https://github.com/aws/aws-sam-cli)/353 | CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM |
+| 5224 | 2872 | 248 | 20 hours ago | [edx-platform](https://github.com/edx/edx-platform)/354 | The Open edX platform, the software that powers edX! |
+| 5218 | 353 | 70 | 4 months ago | [voltron](https://github.com/snare/voltron)/355 | A hacky debugger UI for hackers |
+| 5193 | 1314 | 138 | 2 months ago | [Sublist3r](https://github.com/aboul3la/Sublist3r)/356 | Fast subdomains enumeration tool for penetration testers |
+| 5192 | 601 | 95 | 15 hours ago | [streamlink](https://github.com/streamlink/streamlink)/357 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
+| 5186 | 1332 | 4 | 3 years ago | [iOSBlogCN](https://github.com/tangqiaoboy/iOSBlogCN)/358 | 中文 iOS/Mac 开发博客列表 |
+| 5181 | 447 | 11 | 22 hours ago | [gitpitch](https://github.com/gitpitch/gitpitch)/359 | Markdown Presentations for Tech Conferences, Training, Developer Advocates, and Educators. |
+| 5162 | 461 | 12 | 4 months ago | [eht-imaging](https://github.com/achael/eht-imaging)/360 | Imaging, analysis, and simulation software for radio interferometry |
+| 5159 | 667 | 22 | 3 years ago | [srez](https://github.com/david-gpu/srez)/361 | Image super-resolution through deep learning |
+| 5149 | 1349 | 28 | 4 years ago | [neuraltalk](https://github.com/karpathy/neuraltalk)/362 | NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences. |
+| 5139 | 1208 | 79 | 3 months ago | [dejavu](https://github.com/worldveil/dejavu)/363 | Audio fingerprinting and recognition in Python |
+| 5117 | 386 | 231 | 7 months ago | [vaex](https://github.com/vaexio/vaex)/364 |  Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀 |
+| 5112 | 690 | 113 | 7 months ago | [truffleHog](https://github.com/dxa4481/truffleHog)/365 | Searches through git repositories for high entropy strings and secrets, digging deep into commit history |
+| 5107 | 1659 | 115 | 3 years ago | [wxBot](https://github.com/liuwons/wxBot)/366 | Python网页微信API |
+| 5106 | 1180 | 0 | 22 days ago | [python-small-examples](https://github.com/jackzhenguo/python-small-examples)/367 | 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。 |
+| 5103 | 1769 | 180 | 1 year, 2 months ago | [speech_recognition](https://github.com/Uberi/speech_recognition)/368 | Speech recognition module for Python, supporting several engines and APIs, online and offline. |
+| 5103 | 959 | 149 | a month ago | [trape](https://github.com/jofpin/trape)/369 | People tracker on the Internet: OSINT analysis and research tool by Jose Pino |
+| 5067 | 386 | 196 | 16 hours ago | [prefect](https://github.com/PrefectHQ/prefect)/370 | The easiest way to automate your data |
+| 5061 | 819 | 328 | 16 days ago | [hyperopt](https://github.com/hyperopt/hyperopt)/371 | Distributed Asynchronous Hyperparameter Optimization in Python |
+| 5059 | 1496 | 185 | 20 hours ago | [robotframework](https://github.com/robotframework/robotframework)/372 | Generic automation framework for acceptance testing and RPA |
+| 5041 | 556 | 348 | 11 months ago | [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)/373 | 💡 Full-featured code intelligence and smart autocomplete for Sublime Text |
+| 5034 | 1979 | 8 | 2 years ago | [PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes)/374 | Python入门网络爬虫之精华版 |
+| 5032 | 1077 | 18 | 2 months ago | [TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning)/375 | A list of popular github projects related to deep learning |
+| 5010 | 530 | 104 | 2 days ago | [marshmallow](https://github.com/marshmallow-code/marshmallow)/376 | A lightweight library for converting complex objects to and from simple Python datatypes. |
+| 5002 | 982 | 86 | 12 days ago | [django-extensions](https://github.com/django-extensions/django-extensions)/377 | This is a repository for collecting global custom management extensions for the Django Framework.  |
+| 4993 | 1555 | 101 | 3 days ago | [gcn](https://github.com/tkipf/gcn)/378 | Implementation of Graph Convolutional Networks in TensorFlow |
+| 4991 | 995 | 40 | 20 days ago | [byob](https://github.com/malwaredllc/byob)/379 | An open-source post-exploitation framework for students, researchers and developers. |
+| 4966 | 929 | 304 | a month ago | [MMdnn](https://github.com/microsoft/MMdnn)/380 | MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML. |
+| 4962 | 434 | 29 | 18 hours ago | [trax](https://github.com/google/trax)/381 | Trax — Deep Learning with Clear Code and Speed |
+| 4959 | 753 | 146 | 5 days ago | [gspread](https://github.com/burnash/gspread)/382 | Google Sheets Python API |
+| 4939 | 716 | 161 | 10 months ago | [autograd](https://github.com/HIPS/autograd)/383 | Efficiently computes derivatives of numpy code. |
+| 4916 | 1421 | 367 | 2 days ago | [docker-py](https://github.com/docker/docker-py)/384 | A Python library for the Docker Engine API |
+| 4915 | 1808 | 128 | a month ago | [folium](https://github.com/python-visualization/folium)/385 | Python Data. Leaflet.js Maps.  |
+| 4888 | 378 | 27 | 2 days ago | [pre-commit](https://github.com/pre-commit/pre-commit)/386 | A framework for managing and maintaining multi-language pre-commit hooks. |
+| 4874 | 333 | 70 | 1 year, 3 months ago | [grip](https://github.com/joeyespo/grip)/387 | Preview GitHub README.md files locally before committing them. |
+| 4874 | 1651 | 51 | 4 years ago | [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends)/388 | 查看被删的微信好友 |
+| 4866 | 539 | 6 | 1 year, 5 months ago | [have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)/389 | An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks |
+| 4856 | 756 | 59 | 5 months ago | [Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark)/390 | Learning to See in the Dark. CVPR 2018 |
+| 4834 | 141 | 45 | 7 months ago | [Hasklig](https://github.com/i-tu/Hasklig)/391 | Hasklig - a code font with monospaced ligatures |
+| 4811 | 681 | 15 | 4 days ago | [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)/392 | PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more |
+| 4806 | 1274 | 39 | 10 months ago | [keras-rl](https://github.com/keras-rl/keras-rl)/393 | Deep Reinforcement Learning for Keras. |
+| 4803 | 1001 | 147 | 1 year, 3 months ago | [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)/394 | Synthesizing and manipulating 2048x1024 images with conditional GANs |
+| 4771 | 1420 | 23 | a month ago | [learn_python3_spider](https://github.com/wistbean/learn_python3_spider)/395 | python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等 |
+| 4770 | 1562 | 30 | 8 months ago | [ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse)/396 | 自己动手做聊天机器人教程 |
+| 4755 | 459 | 2 | 1 year, 8 months ago | [uncaptcha2](https://github.com/ecthros/uncaptcha2)/397 | defeating the latest version of ReCaptcha with 91% accuracy |
+| 4753 | 1199 | 74 | 3 months ago | [iScript](https://github.com/PeterDing/iScript)/398 | 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip |
+| 4743 | 1178 | 73 | 2 months ago | [cleverhans](https://github.com/tensorflow/cleverhans)/399 | An adversarial example library for constructing attacks, building defenses, and benchmarking both |
+| 4741 | 1022 | 39 | 9 days ago | [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)/400 |  A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning |
+| 4428 | 244 | 128 | 4 days ago | [asyncpg](https://github.com/MagicStack/asyncpg)/401 | A fast PostgreSQL Database Client Library for Python/asyncio. |
+| 4418 | 1268 | 339 | a day ago | [flask-admin](https://github.com/flask-admin/flask-admin)/402 | Simple and extensible administrative interface framework for Flask |
+| 4413 | 113 | 180 | 10 hours ago | [edgedb](https://github.com/edgedb/edgedb)/403 | The next generation relational database. |
+| 4391 | 547 | 131 | 3 days ago | [platformio-core](https://github.com/platformio/platformio-core)/404 | PlatformIO is a professional collaborative platform for embedded development :alien: A place where Developers and Teams have true Freedom! No more vendor lock-in! |
+| 4382 | 547 | 69 | 2 months ago | [Stream-Framework](https://github.com/tschellenbach/Stream-Framework)/405 | Stream Framework is a Python library, which allows you to build news feed, activity streams and notification systems using Cassandra and/or Redis. The authors of Stream-Framework also provide a cloud service for feed technology: |
+| 4374 | 1001 | 46 | 1 year, 7 months ago | [Minecraft](https://github.com/fogleman/Minecraft)/406 | Simple Minecraft-inspired program using Python and Pyglet |
+| 4370 | 1202 | 82 | 13 days ago | [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)/407 | Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System |
+| 4363 | 537 | 56 | a month ago | [csvkit](https://github.com/wireservice/csvkit)/408 | A suite of utilities for converting to and working with CSV, the king of tabular file formats. |
+| 4360 | 1010 | 220 | 8 months ago | [pdfminer](https://github.com/euske/pdfminer)/409 | Python PDF Parser (Not actively maintained). Check out pdfminer.six. |
+| 4354 | 509 | 214 | 6 months ago | [persepolis](https://github.com/persepolisdm/persepolis)/410 | Persepolis Download Manager is a GUI for aria2. |
+| 4347 | 1822 | 18 | 6 days ago | [easytrader](https://github.com/shidenggui/easytrader)/411 | 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件 |
+| 4345 | 2710 | 123 | 7 days ago | [bips](https://github.com/bitcoin/bips)/412 | Bitcoin Improvement Proposals |
+| 4343 | 1126 | 43 | 3 months ago | [attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch)/413 | A PyTorch implementation of the Transformer model in "Attention is All You Need". |
+| 4341 | 587 | 132 | 7 hours ago | [spotify-downloader](https://github.com/spotDL/spotify-downloader)/414 | Download Spotify playlists from YouTube with albumart and metadata |
+| 4341 | 391 | 130 | 16 hours ago | [clusterfuzz](https://github.com/google/clusterfuzz)/415 | Scalable fuzzing infrastructure. |
+| 4335 | 563 | 1457 | an hour ago | [conan](https://github.com/conan-io/conan)/416 | Conan - The open-source C/C++ package manager |
+| 4327 | 245 | 10 | 1 year, 19 days ago | [tiler](https://github.com/nuno-faria/tiler)/417 | 👷 Build images with images |
+| 4316 | 577 | 22 | 2 years ago | [sketch-code](https://github.com/ashnkumar/sketch-code)/418 | Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images. |
+| 4307 | 956 | 42 | 18 days ago | [face-alignment](https://github.com/1adrianb/face-alignment)/419 | :fire: 2D and 3D Face alignment library build using pytorch  |
+| 4305 | 603 | 271 | 5 months ago | [pyautogui](https://github.com/asweigart/pyautogui)/420 | A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard. |
+| 4282 | 1733 | 30 | 6 months ago | [example-code](https://github.com/fluentpython/example-code)/421 | Example code for the book Fluent Python |
+| 4265 | 1136 | 14 | 3 days ago | [theHarvester](https://github.com/laramies/theHarvester)/422 | E-mails, subdomains and names Harvester - OSINT  |
+| 4242 | 596 | 36 | 3 years ago | [augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control)/423 | Augmented Traffic Control: A tool to simulate network conditions |
+| 4238 | 455 | 55 | 2 months ago | [pidcat](https://github.com/JakeWharton/pidcat)/424 | Colored logcat script which only shows log entries for a specific application package. |
+| 4237 | 985 | 345 | 19 hours ago | [gluon-cv](https://github.com/dmlc/gluon-cv)/425 | Gluon CV Toolkit |
+| 4236 | 697 | 56 | 8 months ago | [peda](https://github.com/longld/peda)/426 | PEDA - Python Exploit Development Assistance for GDB |
+| 4226 | 376 | 296 | 20 days ago | [pydantic](https://github.com/samuelcolvin/pydantic)/427 | Data parsing and validation using Python type hints |
+| 4222 | 425 | 202 | 9 months ago | [ffmpeg-python](https://github.com/kkroening/ffmpeg-python)/428 | Python bindings for FFmpeg - with complex filtering support |
+| 4213 | 698 | 28 | 24 days ago | [snorkel](https://github.com/snorkel-team/snorkel)/429 | A system for quickly generating training data with weak supervision |
+| 4200 | 278 | 203 | 7 hours ago | [pyodide](https://github.com/iodide-project/pyodide)/430 | The Python scientific stack, compiled to WebAssembly |
+| 4189 | 726 | 206 | 14 days ago | [Airtest](https://github.com/AirtestProject/Airtest)/431 | UI Automation Framework for Games and Apps |
+| 4181 | 1766 | 44 | a month ago | [multi-v2ray](https://github.com/Jrohy/multi-v2ray)/432 | v2ray多用户管理部署程序 |
+| 4170 | 2477 | 16 | 1 year, 3 months ago | [python_koans](https://github.com/gregmalcolm/python_koans)/433 | Python Koans - Learn Python through TDD |
+| 4160 | 440 | 181 | a month ago | [umap](https://github.com/lmcinnes/umap)/434 | Uniform Manifold Approximation and Projection |
+| 4155 | 692 | 56 | 2 months ago | [serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor)/435 | 🕵 Artificial Intelligence for social control of public administration |
+| 4137 | 2151 | 804 | an hour ago | [electrum](https://github.com/spesmilo/electrum)/436 | Electrum Bitcoin Wallet |
+| 4131 | 1496 | 78 | 20 days ago | [mezzanine](https://github.com/stephenmcd/mezzanine)/437 | CMS framework for Django |
+| 4120 | 374 | 173 | 16 days ago | [isso](https://github.com/posativ/isso)/438 | a Disqus alternative |
+| 4115 | 396 | 64 | 5 months ago | [xmltodict](https://github.com/martinblech/xmltodict)/439 | Python module that makes working with XML feel like you are working with JSON |
+| 4108 | 231 | 158 | 2 months ago | [pendulum](https://github.com/sdispater/pendulum)/440 | Python datetimes made easy |
+| 4103 | 492 | 111 | 2 days ago | [onionshare](https://github.com/micahflee/onionshare)/441 | Securely and anonymously share files, host websites, and chat with friends using the Tor network |
+| 4102 | 305 | 42 | 5 years ago | [huxley](https://github.com/facebookarchive/huxley)/442 | A testing system for catching visual regressions in Web applications. |
+| 4094 | 1742 | 144 | 26 days ago | [QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS)/443 | QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权/港股/虚拟货币  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案 |
+| 4090 | 918 | 106 | a day ago | [ta-lib](https://github.com/mrjbq7/ta-lib)/444 | Python wrapper for TA-Lib (http://ta-lib.org/). |
+| 4057 | 475 | 2 | 12 days ago | [pygorithm](https://github.com/OmkarPathak/pygorithm)/445 | A Python module for learning all major algorithms |
+| 4044 | 639 | 105 | 2 months ago | [textgenrnn](https://github.com/minimaxir/textgenrnn)/446 | Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code. |
+| 4038 | 782 | 85 | 20 days ago | [security_monkey](https://github.com/Netflix/security_monkey)/447 | Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time. |
+| 4037 | 260 | 23 | 5 months ago | [uds](https://github.com/stewartmcgown/uds)/448 | Unlimited Drive Storage by splitting binary files into base64 |
+| 4016 | 1711 | 43 | 1 year, 6 months ago | [Deep-Learning-21-Examples](https://github.com/hzy46/Deep-Learning-21-Examples)/449 | 《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码 |
+| 3999 | 384 | 85 | 4 hours ago | [kinto](https://github.com/Kinto/kinto)/450 | A generic JSON document store with sharing and synchronisation capabilities. |
+| 3995 | 978 | 202 | a month ago | [Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)/451 | The pytorch re-implement of the official efficientdet with SOTA performance in real time and pretrained weights. |
+| 3990 | 1176 | 79 | 1 year, 5 months ago | [arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver)/452 | Web interface for browsing, search and filtering recent arxiv submissions |
+| 3987 | 703 | 8 | 3 years ago | [discover-flask](https://github.com/realpython/discover-flask)/453 | Full Stack Web Development with Flask. |
+| 3985 | 599 | 67 | 20 hours ago | [Telethon](https://github.com/LonamiWebs/Telethon)/454 | Pure Python 3 MTProto API Telegram client library, for bots too! |
+| 3985 | 1828 | 48 | 5 days ago | [keras-retinanet](https://github.com/fizyr/keras-retinanet)/455 | Keras implementation of RetinaNet object detection. |
+| 3971 | 520 | 436 | 19 hours ago | [st2](https://github.com/StackStorm/st2)/456 | StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html. Questions? https://forum.stackstorm.com/. |
+| 3963 | 1653 | 636 | 19 hours ago | [scikit-image](https://github.com/scikit-image/scikit-image)/457 | Image processing in Python |
+| 3962 | 1250 | 104 | 4 days ago | [DeepCTR](https://github.com/shenweichen/DeepCTR)/458 | Easy-to-use,Modular and Extendible package of deep-learning based CTR models for search and recommendation. |
+| 3956 | 386 | 315 | 3 hours ago | [microk8s](https://github.com/ubuntu/microk8s)/459 | MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. |
+| 3936 | 2142 | 8 | 7 months ago | [DeepLearning.ai-Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)/460 | This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too. |
+| 3918 | 1157 | 33 | 3 years ago | [research](https://github.com/commaai/research)/461 | dataset and code for 2016 paper "Learning a Driving Simulator" |
+| 3905 | 1354 | 22 | a month ago | [rqalpha](https://github.com/ricequant/rqalpha)/462 | A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities |
+| 3904 | 218 | 1 | 3 days ago | [buku](https://github.com/jarun/buku)/463 | :bookmark: Browser-independent bookmark manager |
+| 3903 | 728 | 45 | 2 months ago | [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)/464 | Socket.IO integration for Flask applications. |
+| 3894 | 682 | 1 | 7 days ago | [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)/465 | Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型） |
+| 3884 | 2829 | 22 | 3 years ago | [MachineLearning](https://github.com/wepe/MachineLearning)/466 | Basic Machine Learning and Deep Learning |
+| 3881 | 231 | 12 | 2 months ago | [GitGutter](https://github.com/jisaacks/GitGutter)/467 | A Sublime Text 2/3 plugin to see git diff in gutter |
+| 3869 | 830 | 42 | 6 days ago | [DrQA](https://github.com/facebookresearch/DrQA)/468 | Reading Wikipedia to Answer Open-Domain Questions |
+| 3863 | 283 | 9 | 3 months ago | [rockstar](https://github.com/avinassh/rockstar)/469 | Makes you a Rockstar C++ Programmer in 2 minutes |
+| 3861 | 550 | 73 | 22 hours ago | [mmf](https://github.com/facebookresearch/mmf)/470 | A modular framework for vision & language multimodal research from Facebook AI Research (FAIR) |
+| 3859 | 599 | 1 | 5 months ago | [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap)/471 | :satellite: All You Need to Know About Deep Learning - A kick-starter |
+| 3855 | 1832 | 7 | a month ago | [Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)/472 | Tensorflow tutorial from basic to hard |
+| 3853 | 812 | 167 | a month ago | [deap](https://github.com/DEAP/deap)/473 | Distributed Evolutionary Algorithms in Python |
+| 3850 | 361 | 74 | a month ago | [Eel](https://github.com/samuelhwilliams/Eel)/474 | A little Python library for making simple Electron-like HTML/JS GUI apps |
+| 3848 | 350 | 0 | 2 hours ago | [pywonderland](https://github.com/neozhaoliang/pywonderland)/475 | A tour in the wonderland of math with python. |
+| 3847 | 430 | 404 | 15 hours ago | [xonsh](https://github.com/xonsh/xonsh)/476 | Python-powered, cross-platform, Unix-gazing shell |
+| 3842 | 584 | 68 | 3 months ago | [redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools)/477 | Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON |
+| 3836 | 148 | 6 | 1 year, 8 months ago | [fuckitpy](https://github.com/ajalt/fuckitpy)/478 | The Python error steamroller. |
+| 3833 | 579 | 31 | 2 years ago | [dataset](https://github.com/openimages/dataset)/479 | The Open Images dataset |
+| 3833 | 238 | 48 | 17 hours ago | [jupytext](https://github.com/mwouts/jupytext)/480 | Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts |
+| 3832 | 434 | 159 | a day ago | [WeasyPrint](https://github.com/Kozea/WeasyPrint)/481 | The awesome document factory |
+| 3832 | 448 | 11 | 4 days ago | [django-cors-headers](https://github.com/adamchainz/django-cors-headers)/482 | Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS) |
+| 3827 | 1270 | 56 | 2 years ago | [IPProxyPool](https://github.com/qiyeboy/IPProxyPool)/483 | IPProxyPool代理池项目，提供代理ip |
+| 3823 | 959 | 1708 | 28 minutes ago | [conda](https://github.com/conda/conda)/484 | OS-agnostic, system-level binary package manager and ecosystem |
+| 3812 | 1278 | 35 | 4 months ago | [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)/485 | A logical, reasonably standardized, but flexible project structure for doing and sharing data science work. |
+| 3798 | 825 | 70 | 2 years ago | [dl-docker](https://github.com/floydhub/dl-docker)/486 | An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.) |
+| 3783 | 1199 | 91 | 28 days ago | [PyGithub](https://github.com/PyGithub/PyGithub)/487 | Typed interactions with the GitHub API v3 |
+| 3782 | 1192 | 13 | 5 months ago | [Lihang](https://github.com/SmirkCao/Lihang)/488 | Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang] |
+| 3771 | 611 | 666 | 4 years ago | [livestreamer](https://github.com/chrippa/livestreamer)/489 | Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead. |
+| 3770 | 551 | 36 | a month ago | [tablib](https://github.com/jazzband/tablib)/490 | Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c. |
+| 3768 | 210 | 170 | 5 days ago | [ptpython](https://github.com/prompt-toolkit/ptpython)/491 | A better Python REPL |
+| 3759 | 416 | 49 | 23 hours ago | [pytorch3d](https://github.com/facebookresearch/pytorch3d)/492 | PyTorch3D is FAIR's library of reusable components for deep learning with 3D data |
+| 3745 | 622 | 0 | a month ago | [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification)/493 | A collection of important graph embedding, classification and representation learning papers with implementations. |
+| 3743 | 571 | 212 | 23 hours ago | [calibre-web](https://github.com/janeczku/calibre-web)/494 | :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database |
+| 3736 | 836 | 7 | 1 year, 2 months ago | [pytorch-examples](https://github.com/jcjohnson/pytorch-examples)/495 | Simple examples to introduce PyTorch |
+| 3729 | 710 | 72 | an hour ago | [maltrail](https://github.com/stamparm/maltrail)/496 | Malicious traffic detection system |
+| 3722 | 347 | 17 | 21 days ago | [tinydb](https://github.com/msiemens/tinydb)/497 | TinyDB is a lightweight document oriented database optimized for your happiness :) |
+| 3713 | 168 | 24 | 2 years ago | [storm](https://github.com/emre/storm)/498 | Manage your SSH like a boss. |
+| 3711 | 178 | 33 | 8 months ago | [statuspage](https://github.com/jayfk/statuspage)/499 | A statuspage generator that lets you host your statuspage for free on Github. |
+| 3698 | 581 | 14 | a month ago | [iGAN](https://github.com/junyanz/iGAN)/500 | Interactive Image Generation via Generative Adversarial Networks |
+| 3963 | 1653 | 636 | 19 hours ago | [scikit-image](https://github.com/scikit-image/scikit-image)/501 | Image processing in Python |
+| 3962 | 1250 | 104 | 4 days ago | [DeepCTR](https://github.com/shenweichen/DeepCTR)/502 | Easy-to-use,Modular and Extendible package of deep-learning based CTR models for search and recommendation. |
+| 3956 | 1221 | 312 | 11 minutes ago | [moto](https://github.com/spulec/moto)/503 | A library that allows you to easily mock out tests based on AWS infrastructure. |
+| 3956 | 386 | 315 | 3 hours ago | [microk8s](https://github.com/ubuntu/microk8s)/504 | MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. |
+| 3936 | 2142 | 8 | 7 months ago | [DeepLearning.ai-Summary](https://github.com/mbadry1/DeepLearning.ai-Summary)/505 | This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too. |
+| 3933 | 2155 | 22 | 2 years ago | [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials)/506 | Deep Learning Tutorial notes and code. See the wiki for more info. |
+| 3930 | 1478 | 315 | 1 year, 6 months ago | [ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)/507 | A PyTorch Implementation of Single Shot MultiBox Detector |
+| 3911 | 652 | 51 | 19 days ago | [librosa](https://github.com/librosa/librosa)/508 | Python library for audio and music analysis |
+| 3904 | 218 | 1 | 3 days ago | [buku](https://github.com/jarun/buku)/509 | :bookmark: Browser-independent bookmark manager |
+| 3903 | 728 | 45 | 2 months ago | [Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO)/510 | Socket.IO integration for Flask applications. |
+| 3894 | 682 | 1 | 7 days ago | [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)/511 | Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型） |
+| 3894 | 250 | 14 | 29 days ago | [dataset](https://github.com/pudo/dataset)/512 | Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions. |
+| 3884 | 2829 | 22 | 3 years ago | [MachineLearning](https://github.com/wepe/MachineLearning)/513 | Basic Machine Learning and Deep Learning |
+| 3881 | 231 | 12 | 2 months ago | [GitGutter](https://github.com/jisaacks/GitGutter)/514 | A Sublime Text 2/3 plugin to see git diff in gutter |
+| 3871 | 591 | 3 | 12 days ago | [awesome-math](https://github.com/rossant/awesome-math)/515 | A curated list of awesome mathematics resources |
+| 3869 | 830 | 42 | 6 days ago | [DrQA](https://github.com/facebookresearch/DrQA)/516 | Reading Wikipedia to Answer Open-Domain Questions |
+| 3863 | 283 | 9 | 3 months ago | [rockstar](https://github.com/avinassh/rockstar)/517 | Makes you a Rockstar C++ Programmer in 2 minutes |
+| 3861 | 550 | 73 | 22 hours ago | [mmf](https://github.com/facebookresearch/mmf)/518 | A modular framework for vision & language multimodal research from Facebook AI Research (FAIR) |
+| 3859 | 599 | 1 | 5 months ago | [deep-learning-roadmap](https://github.com/instillai/deep-learning-roadmap)/519 | :satellite: All You Need to Know About Deep Learning - A kick-starter |
+| 3853 | 812 | 167 | a month ago | [deap](https://github.com/DEAP/deap)/520 | Distributed Evolutionary Algorithms in Python |
+| 3850 | 361 | 74 | a month ago | [Eel](https://github.com/samuelhwilliams/Eel)/521 | A little Python library for making simple Electron-like HTML/JS GUI apps |
+| 3848 | 350 | 0 | 2 hours ago | [pywonderland](https://github.com/neozhaoliang/pywonderland)/522 | A tour in the wonderland of math with python. |
+| 3848 | 360 | 271 | 27 days ago | [lutris](https://github.com/lutris/lutris)/523 | Lutris client - Open Source gaming platform for GNU/Linux |
+| 3847 | 430 | 404 | 15 hours ago | [xonsh](https://github.com/xonsh/xonsh)/524 | Python-powered, cross-platform, Unix-gazing shell |
+| 3844 | 842 | 90 | 1 year, 4 months ago | [neon](https://github.com/NervanaSystems/neon)/525 | Intel® Nervana™ reference deep learning framework committed to best performance on all hardware |
+| 3843 | 208 | 195 | 20 hours ago | [datasette](https://github.com/simonw/datasette)/526 | An open source multi-tool for exploring and publishing data |
+| 3842 | 584 | 68 | 3 months ago | [redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools)/527 | Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON |
+| 3836 | 148 | 6 | 1 year, 8 months ago | [fuckitpy](https://github.com/ajalt/fuckitpy)/528 | The Python error steamroller. |
+| 3833 | 579 | 31 | 2 years ago | [dataset](https://github.com/openimages/dataset)/529 | The Open Images dataset |
+| 3833 | 238 | 48 | 17 hours ago | [jupytext](https://github.com/mwouts/jupytext)/530 | Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts |
+| 3832 | 434 | 159 | a day ago | [WeasyPrint](https://github.com/Kozea/WeasyPrint)/531 | The awesome document factory |
+| 3832 | 448 | 11 | 4 days ago | [django-cors-headers](https://github.com/adamchainz/django-cors-headers)/532 | Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS) |
+| 3827 | 1270 | 56 | 2 years ago | [IPProxyPool](https://github.com/qiyeboy/IPProxyPool)/533 | IPProxyPool代理池项目，提供代理ip |
+| 3823 | 959 | 1708 | 28 minutes ago | [conda](https://github.com/conda/conda)/534 | OS-agnostic, system-level binary package manager and ecosystem |
+| 3812 | 1278 | 35 | 4 months ago | [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)/535 | A logical, reasonably standardized, but flexible project structure for doing and sharing data science work. |
+| 3806 | 176 | 66 | 9 days ago | [ntfy](https://github.com/dschep/ntfy)/536 | 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish. |
+| 3804 | 588 | 9 | 17 days ago | [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork)/537 | 🔥🔥AidLearning builds a linux environment supporting GUI, deep learning and visual programming on Android devices. Now  support VSCode,Jupyter, pyToApk! One-click install.🚀 |
+| 3798 | 825 | 70 | 2 years ago | [dl-docker](https://github.com/floydhub/dl-docker)/538 | An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.) |
+| 3783 | 1199 | 91 | 28 days ago | [PyGithub](https://github.com/PyGithub/PyGithub)/539 | Typed interactions with the GitHub API v3 |
+| 3782 | 1192 | 13 | 5 months ago | [Lihang](https://github.com/SmirkCao/Lihang)/540 | Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang] |
+| 3771 | 611 | 666 | 4 years ago | [livestreamer](https://github.com/chrippa/livestreamer)/541 | Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead. |
+| 3768 | 210 | 170 | 5 days ago | [ptpython](https://github.com/prompt-toolkit/ptpython)/542 | A better Python REPL |
+| 3748 | 977 | 141 | 10 months ago | [Lasagne](https://github.com/Lasagne/Lasagne)/543 | Lightweight library to build and train neural networks in Theano |
+| 3745 | 622 | 0 | a month ago | [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification)/544 | A collection of important graph embedding, classification and representation learning papers with implementations. |
+| 3743 | 571 | 212 | 23 hours ago | [calibre-web](https://github.com/janeczku/calibre-web)/545 | :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database |
+| 3737 | 193 | 29 | 1 year, 3 days ago | [better-exceptions](https://github.com/Qix-/better-exceptions)/546 | Pretty and useful exceptions in Python, automatically. |
+| 3736 | 836 | 7 | 1 year, 2 months ago | [pytorch-examples](https://github.com/jcjohnson/pytorch-examples)/547 | Simple examples to introduce PyTorch |
+| 3735 | 846 | 45 | 1 year, 11 months ago | [BERT-pytorch](https://github.com/codertimo/BERT-pytorch)/548 | Google AI 2018 BERT pytorch implementation |
+| 3732 | 1313 | 1307 | 7 months ago | [CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer)/549 | Automatic Movie Downloading via NZBs & Torrents |
+| 3729 | 710 | 72 | an hour ago | [maltrail](https://github.com/stamparm/maltrail)/550 | Malicious traffic detection system |
+| 3713 | 168 | 24 | 2 years ago | [storm](https://github.com/emre/storm)/551 | Manage your SSH like a boss. |
+| 3711 | 178 | 33 | 8 months ago | [statuspage](https://github.com/jayfk/statuspage)/552 | A statuspage generator that lets you host your statuspage for free on Github. |
+| 3707 | 194 | 79 | an hour ago | [activitywatch](https://github.com/ActivityWatch/activitywatch)/553 | The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. |
+| 3698 | 581 | 14 | a month ago | [iGAN](https://github.com/junyanz/iGAN)/554 | Interactive Image Generation via Generative Adversarial Networks |
+| 3698 | 490 | 29 | 4 months ago | [Background-Matting](https://github.com/senguptaumd/Background-Matting)/555 | Background Matting: The World is Your Green Screen |
+| 3688 | 859 | 41 | 8 hours ago | [virtualenv](https://github.com/pypa/virtualenv)/556 | Virtual Python Environment builder |
+| 3686 | 1191 | 35 | 2 months ago | [igbot](https://github.com/ohld/igbot)/557 | 🐙 Free scripts, bots and Python API wrapper. Get free followers with our auto like, auto follow and other scripts! |
+| 3677 | 112 | 31 | 2 years ago | [stellar](https://github.com/fastmonkeys/stellar)/558 | Fast database snapshot and restore tool for development |
+| 3677 | 1460 | 1 | 13 minutes ago | [openstack](https://github.com/openstack/openstack)/559 | Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org. |
+| 3675 | 169 | 23 | 5 months ago | [vprof](https://github.com/nvdv/vprof)/560 | Visual profiler for Python |
+| 3660 | 270 | 114 | 2 months ago | [awslogs](https://github.com/jorgebastida/awslogs)/561 | AWS CloudWatch logs for Humans™ |
+| 3660 | 158 | 19 | 5 months ago | [icdiff](https://github.com/jeffkaufman/icdiff)/562 | improved colored diff |
+| 3659 | 860 | 28 | 6 days ago | [ERNIE](https://github.com/PaddlePaddle/ERNIE)/563 | An Implementation of ERNIE For Language Understanding (including Pre-training models and Fine-tuning tools) |
+| 3656 | 360 | 83 | 16 days ago | [nameko](https://github.com/nameko/nameko)/564 | Python framework for building microservices |
+| 3651 | 742 | 81 | 10 days ago | [pyod](https://github.com/yzhao062/pyod)/565 | A Python Toolbox for Scalable Outlier Detection (Anomaly Detection) |
+| 3651 | 851 | 22 | 2 years ago | [tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)/566 | Collection of generative models in Tensorflow |
+| 3641 | 293 | 59 | 6 days ago | [RxPY](https://github.com/ReactiveX/RxPY)/567 | Reactive Extensions for Python, https://rxpy.rtfd.io |
+| 3629 | 1157 | 85 | a day ago | [freqtrade](https://github.com/freqtrade/freqtrade)/568 | Free, open source crypto trading bot |
+| 3623 | 781 | 107 | a day ago | [doccano](https://github.com/doccano/doccano)/569 | Open source text annotation tool for machine learning practitioner. |
+| 3619 | 658 | 60 | 1 year, 2 months ago | [diff-match-patch](https://github.com/google/diff-match-patch)/570 | Diff Match Patch is a high-performance library in multiple languages that manipulates plain text. |
+| 3612 | 919 | 38 | a month ago | [qqbot](https://github.com/pandolia/qqbot)/571 | QQBot: A conversation robot base on Tencent's SmartQQ |
+| 3611 | 279 | 81 | 6 days ago | [papermill](https://github.com/nteract/papermill)/572 | 📚 Parameterize, execute, and analyze notebooks |
+| 3605 | 328 | 157 | a month ago | [hy](https://github.com/hylang/hy)/573 | A dialect of Lisp that's embedded in Python |
+| 3602 | 105 | 10 | 3 years ago | [mimic](https://github.com/reinderien/mimic)/574 | [ab]using Unicode to create tragedy |
+| 3599 | 113 | 37 | 21 days ago | [present](https://github.com/vinayak-mehta/present)/575 | A terminal-based presentation tool with colors and effects. |
+| 3594 | 914 | 96 | 3 years ago | [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)/576 | DeepVis Toolbox |
+| 3594 | 752 | 35 | 3 months ago | [pulse](https://github.com/adamian98/pulse)/577 | PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models |
+| 3593 | 297 | 88 | a day ago | [metaflow](https://github.com/Netflix/metaflow)/578 | Build and manage real-life data science projects with ease. |
+| 3592 | 654 | 121 | 5 hours ago | [grr](https://github.com/google/grr)/579 | GRR Rapid Response: remote live forensics for incident response |
+| 3576 | 582 | 199 | 3 years ago | [ggpy](https://github.com/yhat/ggpy)/580 | ggplot port for python |
+| 3576 | 921 | 4 | 2 months ago | [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)/581 | TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters. |
+| 3570 | 1476 | 336 | 1 year, 2 months ago | [tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)/582 | Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference. |
+| 3567 | 224 | 83 | a month ago | [autopep8](https://github.com/hhatto/autopep8)/583 | A tool that automatically formats Python code to conform to the PEP 8 style guide. |
+| 3564 | 1430 | 303 | 5 months ago | [mininet](https://github.com/mininet/mininet)/584 | Emulator for rapid prototyping of Software Defined Networks |
+| 3548 | 522 | 71 | 23 days ago | [Tautulli](https://github.com/Tautulli/Tautulli)/585 | A Python based monitoring and tracking tool for Plex Media Server. |
+| 3546 | 763 | 35 | 7 days ago | [cryptography](https://github.com/pyca/cryptography)/586 | cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. |
+| 3541 | 160 | 370 | 2 years ago | [proselint](https://github.com/amperser/proselint)/587 | A linter for prose. |
+| 3535 | 732 | 153 | 26 days ago | [kaggle-api](https://github.com/Kaggle/kaggle-api)/588 | Official Kaggle API |
+| 3533 | 1592 | 92 | 6 hours ago | [documentation](https://github.com/raspberrypi/documentation)/589 | Official documentation for the Raspberry Pi |
+| 3533 | 314 | 9 | 5 months ago | [grequests](https://github.com/spyoungtech/grequests)/590 | Requests + Gevent = <3 |
+| 3526 | 315 | 143 | 3 years ago | [roboto](https://github.com/googlefonts/roboto)/591 | The Roboto family of fonts |
+| 3524 | 1354 | 808 | a day ago | [sphinx](https://github.com/sphinx-doc/sphinx)/592 | Main repository for the Sphinx documentation builder |
+| 3517 | 264 | 48 | 11 days ago | [skorch](https://github.com/skorch-dev/skorch)/593 | A scikit-learn compatible neural network library that wraps PyTorch |
+| 3516 | 589 | 9 | a day ago | [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)/594 | Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes. |
+| 3508 | 211 | 46 | a month ago | [responder](https://github.com/taoufik07/responder)/595 | A familiar HTTP Service Framework for Python. |
+| 3508 | 722 | 141 | 14 days ago | [bigchaindb](https://github.com/bigchaindb/bigchaindb)/596 | Meet BigchainDB. The blockchain database. |
+| 3500 | 370 | 69 | 3 years ago | [sync-engine](https://github.com/nylas/sync-engine)/597 | :incoming_envelope: IMAP/SMTP sync system with modern APIs |
+| 3485 | 242 | 71 | 1 year, 5 months ago | [line_profiler](https://github.com/rkern/line_profiler)/598 | (OLD REPO) Line-by-line profiling for Python - Current repo -> |
+| 3485 | 323 | 57 | 5 years ago | [robobrowser](https://github.com/jmcarp/robobrowser)/599 | None |
+| 3475 | 1507 | 0 | 2 months ago | [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)/600 | DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementation). DeepNude的算法以及通用生成对抗网络（GAN,Generative Adversarial Network）图像生成的理论与实践研究。 |
+| 3599 | 113 | 37 | 21 days ago | [present](https://github.com/vinayak-mehta/present)/601 | A terminal-based presentation tool with colors and effects. |
+| 3594 | 914 | 96 | 3 years ago | [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)/602 | DeepVis Toolbox |
+| 3594 | 752 | 35 | 3 months ago | [pulse](https://github.com/adamian98/pulse)/603 | PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models |
+| 3593 | 297 | 88 | a day ago | [metaflow](https://github.com/Netflix/metaflow)/604 | Build and manage real-life data science projects with ease. |
+| 3592 | 654 | 121 | 5 hours ago | [grr](https://github.com/google/grr)/605 | GRR Rapid Response: remote live forensics for incident response |
+| 3576 | 582 | 199 | 3 years ago | [ggpy](https://github.com/yhat/ggpy)/606 | ggplot port for python |
+| 3576 | 921 | 4 | 2 months ago | [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)/607 | TensorFlowOnSpark brings TensorFlow programs to Apache Spark clusters. |
+| 3572 | 318 | 31 | a month ago | [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup)/608 | A Python library for automating interaction with websites. |
+| 3571 | 177 | 21 | 11 months ago | [codemod](https://github.com/facebook/codemod)/609 | Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source. |
+| 3564 | 1430 | 303 | 5 months ago | [mininet](https://github.com/mininet/mininet)/610 | Emulator for rapid prototyping of Software Defined Networks |
+| 3546 | 763 | 35 | 7 days ago | [cryptography](https://github.com/pyca/cryptography)/611 | cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. |
+| 3541 | 160 | 370 | 2 years ago | [proselint](https://github.com/amperser/proselint)/612 | A linter for prose. |
+| 3536 | 326 | 15 | 4 years ago | [colornet](https://github.com/pavelgonchar/colornet)/613 | Neural Network to colorize grayscale images |
+| 3533 | 314 | 9 | 5 months ago | [grequests](https://github.com/spyoungtech/grequests)/614 | Requests + Gevent = <3 |
+| 3526 | 315 | 143 | 3 years ago | [roboto](https://github.com/googlefonts/roboto)/615 | The Roboto family of fonts |
+| 3524 | 1354 | 808 | a day ago | [sphinx](https://github.com/sphinx-doc/sphinx)/616 | Main repository for the Sphinx documentation builder |
+| 3521 | 186 | 30 | a month ago | [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal)/617 | Pokemon terminal themes. |
+| 3516 | 589 | 9 | a day ago | [dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)/618 | Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes. |
+| 3514 | 419 | 52 | 9 hours ago | [patroni](https://github.com/zalando/patroni)/619 | A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes |
+| 3500 | 370 | 69 | 3 years ago | [sync-engine](https://github.com/nylas/sync-engine)/620 | :incoming_envelope: IMAP/SMTP sync system with modern APIs |
+| 3491 | 140 | 12 | 3 months ago | [nginx-ui](https://github.com/schenkd/nginx-ui)/621 | Nginx UI allows you to access and modify the nginx configurations files without cli.  |
+| 3485 | 242 | 71 | 1 year, 5 months ago | [line_profiler](https://github.com/rkern/line_profiler)/622 | (OLD REPO) Line-by-line profiling for Python - Current repo -> |
+| 3485 | 323 | 57 | 5 years ago | [robobrowser](https://github.com/jmcarp/robobrowser)/623 | None |
+| 3484 | 883 | 93 | 28 days ago | [pytube](https://github.com/nficano/pytube)/624 | A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos. |
+| 3475 | 302 | 54 | 18 hours ago | [DeepSpeed](https://github.com/microsoft/DeepSpeed)/625 | DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective. |
+| 3471 | 786 | 48 | a month ago | [semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)/626 | Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset |
+| 3469 | 1622 | 210 | 2 years ago | [tf-faster-rcnn](https://github.com/endernewton/tf-faster-rcnn)/627 | Tensorflow Faster RCNN for Object Detection |
+| 3459 | 224 | 5 | a month ago | [curio](https://github.com/dabeaz/curio)/628 | Curio - "It's the Sauce!" |
+| 3458 | 635 | 5 | 3 days ago | [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask)/629 | A flask template with Bootstrap 4, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter. |
+| 3453 | 1209 | 389 | 2 months ago | [chineseocr](https://github.com/chineseocr/chineseocr)/630 | yolo3+ocr |
+| 3451 | 449 | 81 | 5 days ago | [pyjwt](https://github.com/jpadilla/pyjwt)/631 | JSON Web Token implementation in Python |
+| 3449 | 169 | 17 | a month ago | [dotbot](https://github.com/anishathalye/dotbot)/632 | A tool that bootstraps your dotfiles ⚡️ |
+| 3445 | 294 | 23 | 3 years ago | [image-analogies](https://github.com/awentzonline/image-analogies)/633 | Generate image analogies using neural matching and blending. |
+| 3441 | 860 | 69 | a day ago | [pyramid](https://github.com/Pylons/pyramid)/634 | Pyramid - A Python web framework |
+| 3434 | 197 | 257 | a day ago | [trio](https://github.com/python-trio/trio)/635 | Trio – a friendly Python library for async concurrency and I/O |
+| 3433 | 794 | 247 | 29 days ago | [s3cmd](https://github.com/s3tools/s3cmd)/636 | Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services |
+| 3428 | 218 | 176 | 1 year, 11 months ago | [me_cleaner](https://github.com/corna/me_cleaner)/637 | Tool for partial deblobbing of Intel ME/TXE firmware images |
+| 3427 | 1354 | 27 | a day ago | [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops)/638 | Ansible for DevOps examples. |
+| 3422 | 915 | 157 | 18 hours ago | [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)/639 | Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications |
+| 3421 | 848 | 3 | 6 days ago | [udemy-dl](https://github.com/r0oth3x49/udemy-dl)/640 | A cross-platform python based utility to download courses from udemy for personal offline use. |
+| 3417 | 892 | 0 | an hour ago | [sqlalchemy](https://github.com/zzzeek/sqlalchemy)/641 | THIS IS NOT THE OFFICIAL REPO - PLEASE SUBMIT PRs ETC AT: http://github.com/sqlalchemy/sqlalchemy |
+| 3408 | 466 | 119 | 4 hours ago | [monkey](https://github.com/guardicore/monkey)/642 | Infection Monkey - An automated pentest tool |
+| 3393 | 271 | 73 | 7 hours ago | [datasets](https://github.com/huggingface/datasets)/643 | 🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas |
+| 3384 | 922 | 63 | 2 months ago | [OnlineJudge](https://github.com/QingdaoU/OnlineJudge)/644 | open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com |
+| 3369 | 458 | 47 | 7 months ago | [snips-nlu](https://github.com/snipsco/snips-nlu)/645 | Snips Python library to extract meaning from text |
+| 3369 | 901 | 88 | 14 days ago | [esptool](https://github.com/espressif/esptool)/646 | ESP8266 and ESP32 serial bootloader utility |
+| 3368 | 1119 | 77 | 5 hours ago | [ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)/647 | A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统 |
+| 3365 | 387 | 308 | a day ago | [tribler](https://github.com/Tribler/tribler)/648 | Privacy enhanced BitTorrent client with P2P content discovery |
+| 3358 | 236 | 190 | 10 days ago | [Nuitka](https://github.com/Nuitka/Nuitka)/649 | Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, and 3.8.  You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.  |
+| 3358 | 315 | 102 | 3 years ago | [Cactus](https://github.com/eudicots/Cactus)/650 | Static site generator for designers. Uses Python and Django templates. |
+| 3355 | 749 | 85 | 2 years ago | [pygta5](https://github.com/Sentdex/pygta5)/651 | Explorations of Using Python to play Grand Theft Auto 5. |
+| 3336 | 1105 | 31 | 3 months ago | [PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)/652 | Simple PyTorch Tutorials Zero to ALL! |
+| 3336 | 268 | 230 | a month ago | [lektor](https://github.com/lektor/lektor)/653 | The lektor static file content management system |
+| 3330 | 1022 | 1811 | 3 months ago | [w3af](https://github.com/andresriancho/w3af)/654 | w3af: web application attack and audit framework, the open source web vulnerability scanner. |
+| 3322 | 344 | 22 | 11 hours ago | [isort](https://github.com/PyCQA/isort)/655 | A Python utility / library to sort imports. |
+| 3319 | 897 | 9 | 3 days ago | [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources)/656 | Anomaly detection related books, papers, videos, and toolboxes |
+| 3315 | 386 | 73 | 3 months ago | [s2client-proto](https://github.com/Blizzard/s2client-proto)/657 | StarCraft II Client - protocol definitions used to communicate with StarCraft II. |
+| 3312 | 820 | 121 | 1 year, 1 month ago | [imutils](https://github.com/jrosebr1/imutils)/658 | A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python. |
+| 3309 | 549 | 119 | a month ago | [lightfm](https://github.com/lyst/lightfm)/659 | A Python implementation of LightFM, a hybrid recommendation algorithm. |
+| 3307 | 756 | 88 | 1 year, 2 months ago | [deep-voice-conversion](https://github.com/andabi/deep-voice-conversion)/660 | Deep neural networks for voice conversion (voice style transfer) in Tensorflow |
+| 3298 | 1150 | 46 | 1 year, 22 days ago | [Responder](https://github.com/SpiderLabs/Responder)/661 | Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.  |
+| 3294 | 1502 | 31 | 1 year, 5 months ago | [LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)/662 | LSTM built using Keras Python package to predict time series steps and sequences. Includes sin wave and stock market data |
+| 3294 | 1614 | 12 | 14 days ago | [DjangoBlog](https://github.com/liangliangyy/DjangoBlog)/663 | 🍺基于Django的博客系统 |
+| 3292 | 254 | 125 | 4 years ago | [gmvault](https://github.com/gaubert/gmvault)/664 | gmail backup software |
+| 3291 | 614 | 68 | 2 days ago | [cowrie](https://github.com/cowrie/cowrie)/665 | Cowrie SSH/Telnet Honeypot http://cowrie.readthedocs.io |
+| 3284 | 1574 | 3 | 1 year, 10 months ago | [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python)/666 | 机器学习算法python实现 |
+| 3283 | 565 | 0 | a month ago | [FreePAC](https://github.com/xiaoming2028/FreePAC)/667 | 科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程  |
+| 3282 | 763 | 4 | 1 year, 10 months ago | [Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template)/668 | A best practice for tensorflow project template architecture.  |
+| 3279 | 299 | 84 | 3 years ago | [flocker](https://github.com/ClusterHQ/flocker)/669 | Container data volume manager for your Dockerized application |
+| 3279 | 793 | 48 | 16 days ago | [flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy)/670 | Adds SQLAlchemy support to Flask |
+| 3277 | 377 | 147 | a day ago | [optuna](https://github.com/optuna/optuna)/671 | A hyperparameter optimization framework |
+| 3274 | 294 | 35 | 1 year, 7 months ago | [rebound](https://github.com/shobrook/rebound)/672 | Command-line tool that instantly fetches Stack Overflow results when an exception is thrown |
+| 3272 | 899 | 154 | 1 year, 5 months ago | [Deformable-ConvNets](https://github.com/msracver/Deformable-ConvNets)/673 | Deformable Convolutional Networks |
+| 3269 | 1112 | 342 | a month ago | [mongoengine](https://github.com/MongoEngine/mongoengine)/674 | A Python Object-Document-Mapper for working with MongoDB |
+| 3263 | 110 | 24 | 1 year, 2 months ago | [pampy](https://github.com/santinic/pampy)/675 | Pampy: The Pattern Matching for Python you always dreamed of. |
+| 3251 | 1158 | 20 | 2 years ago | [microblog](https://github.com/miguelgrinberg/microblog)/676 | A microblogging web application written in Python and Flask that I developed as part of my Flask Mega-Tutorial series. |
+| 3246 | 205 | 284 | 24 minutes ago | [posthog](https://github.com/PostHog/posthog)/677 | 🦔 PostHog is developer-friendly, open-source product analytics. |
+| 3246 | 324 | 20 | 12 hours ago | [fawkes](https://github.com/Shawn-Shan/fawkes)/678 | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes |
+| 3238 | 685 | 29 | 4 years ago | [dcgan_code](https://github.com/Newmu/dcgan_code)/679 | Deep Convolutional Generative Adversarial Networks |
+| 3236 | 377 | 84 | a day ago | [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)/680 | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched |
+| 3235 | 223 | 95 | 2 days ago | [attrs](https://github.com/python-attrs/attrs)/681 | Python Classes Without Boilerplate |
+| 3226 | 1273 | 73 | 4 months ago | [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)/682 | 95.16% on CIFAR10 with PyTorch |
+| 3225 | 518 | 83 | 3 months ago | [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)/683 | Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more. |
+| 3222 | 950 | 7 | 16 days ago | [OUCML](https://github.com/OUCMachineLearning/OUCML)/684 | None |
+| 3210 | 673 | 35 | 6 days ago | [Synonyms](https://github.com/chatopera/Synonyms)/685 | :herb: 中文近义词：聊天机器人，智能问答工具包 |
+| 3208 | 1111 | 125 | 1 year, 7 days ago | [transformer](https://github.com/Kyubyong/transformer)/686 | A TensorFlow Implementation of the Transformer: Attention Is All You Need |
+| 3203 | 584 | 9 | 4 months ago | [Python-crawler-tutorial-starts-from-zero](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero)/687 | python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架 |
+| 3203 | 855 | 22 | 11 months ago | [MatchZoo](https://github.com/NTMC-Community/MatchZoo)/688 | Facilitating the design, comparison and sharing of deep text matching models. |
+| 3203 | 1630 | 26 | 7 years ago | [distribute_crawler](https://github.com/gnemoug/distribute_crawler)/689 | 使用scrapy,redis, mongodb,graphite实现的一个分布式网络爬虫,底层存储mongodb集群,分布式使用redis实现,爬虫状态显示使用graphite实现 |
+| 3194 | 1198 | 9 | 3 months ago | [sampleproject](https://github.com/pypa/sampleproject)/690 | A sample project that exists for PyPUG's "Tutorial on Packaging and Distributing Projects" |
+| 3190 | 798 | 204 | 6 days ago | [yolact](https://github.com/dbolya/yolact)/691 | A simple, fully convolutional model for real-time instance segmentation. |
+| 3189 | 532 | 15 | 4 months ago | [KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData)/692 | 史上最大规模1.4亿中文知识图谱开源下载 |
+| 3185 | 1304 | 17 | 1 year, 4 months ago | [text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)/693 | CNN-RNN中文文本分类，基于TensorFlow |
+| 3185 | 205 | 14 | 4 months ago | [maya](https://github.com/timofurrer/maya)/694 | Datetimes for Humans™ |
+| 3184 | 259 | 125 | 10 months ago | [rainbowstream](https://github.com/orakaro/rainbowstream)/695 | A smart and nice Twitter client on terminal written in Python. |
+| 3181 | 402 | 8 | a day ago | [transitions](https://github.com/pytransitions/transitions)/696 | A lightweight, object-oriented finite state machine implementation in Python with many extensions |
+| 3181 | 407 | 71 | 9 days ago | [healthchecks](https://github.com/healthchecks/healthchecks)/697 | A Cron Monitoring Tool written in Python & Django |
+| 3180 | 210 | 5 | 1 year, 2 months ago | [instantbox](https://github.com/instantbox/instantbox)/698 | Get a clean, ready-to-go Linux box in seconds. |
+| 3175 | 907 | 981 | a day ago | [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)/699 | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources |
+| 3170 | 51 | 11 | 4 years ago | [mkcast](https://github.com/tckmn/mkcast)/700 | [OBSOLETE - see readme] A tool for creating GIF screencasts of a terminal, with key presses overlaid. |
+| 3175 | 907 | 981 | a day ago | [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian)/701 | Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources |
+| 3170 | 51 | 11 | 4 years ago | [mkcast](https://github.com/tckmn/mkcast)/702 | [OBSOLETE - see readme] A tool for creating GIF screencasts of a terminal, with key presses overlaid. |
+| 3170 | 878 | 23 | 14 days ago | [tensorflow_poems](https://github.com/jinfagang/tensorflow_poems)/703 | 中文古诗自动作诗机器人，屌炸天，基于tensorflow1.10 api，正在积极维护升级中，快star，保持更新！ |
+| 3168 | 297 | 80 | 1 year, 4 months ago | [PlainTasks](https://github.com/aziz/PlainTasks)/704 | An opinionated todo-list plugin for Sublime Text editor (version 2 and 3) |
+| 3167 | 483 | 8 | 5 days ago | [pytesseract](https://github.com/madmaze/pytesseract)/705 | A Python wrapper for Google Tesseract |
+| 3153 | 563 | 89 | a month ago | [graphene-django](https://github.com/graphql-python/graphene-django)/706 | Integrate GraphQL into your Django project. |
+| 3149 | 456 | 28 | 11 days ago | [gef](https://github.com/hugsy/gef)/707 | GEF - GDB Enhanced Features for exploit devs & reversers |
+| 3148 | 308 | 91 | 7 months ago | [wal-e](https://github.com/wal-e/wal-e)/708 | Continuous Archiving for Postgres |
+| 3143 | 820 | 233 | 5 days ago | [yfinance](https://github.com/ranaroussi/yfinance)/709 | Yahoo! Finance market data downloader (+faster Pandas Datareader) |
+| 3140 | 226 | 422 | 20 days ago | [telepresence](https://github.com/telepresenceio/telepresence)/710 | Local development against a remote Kubernetes or OpenShift cluster |
+| 3138 | 794 | 44 | a day ago | [wfuzz](https://github.com/xmendez/wfuzz)/711 | Web application fuzzer |
+| 3138 | 333 | 5 | 11 days ago | [pifuhd](https://github.com/facebookresearch/pifuhd)/712 | High-Resolution 3D Human Digitization from A Single Image. |
+| 3135 | 118 | 10 | 3 years ago | [stack-overflow-import](https://github.com/drathier/stack-overflow-import)/713 | Import arbitrary code from Stack Overflow as Python modules. |
+| 3134 | 298 | 153 | 5 years ago | [sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs)/714 | Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++ |
+| 3131 | 669 | 97 | 22 hours ago | [mlxtend](https://github.com/rasbt/mlxtend)/715 | A library of extension and helper modules for Python's data analysis and machine learning libraries. |
+| 3127 | 536 | 15 | 13 days ago | [torchdiffeq](https://github.com/rtqichen/torchdiffeq)/716 | Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation. |
+| 3120 | 868 | 1 | 2 months ago | [data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap)/717 | Toturial coming with "data science roadmap" graphe. |
+| 3114 | 959 | 6 | a day ago | [mongo-python-driver](https://github.com/mongodb/mongo-python-driver)/718 | PyMongo - the Python driver for MongoDB |
+| 3106 | 421 | 316 | 22 days ago | [splash](https://github.com/scrapinghub/splash)/719 | Lightweight, scriptable browser as a service with an HTTP API |
+| 3102 | 633 | 10 | 9 days ago | [intermediatePython](https://github.com/yasoob/intermediatePython)/720 | None |
+| 3100 | 278 | 49 | 1 year, 5 months ago | [flask_jsondash](https://github.com/christabor/flask_jsondash)/721 | :snake: :bar_chart: :chart_with_upwards_trend: Build complex dashboards without any front-end code. Use your own endpoints. JSON config only. Ready to go. |
+| 3099 | 120 | 31 | 2 months ago | [MonkeyType](https://github.com/Instagram/MonkeyType)/722 | A system for Python that generates static type annotations by collecting runtime types |
+| 3098 | 695 | 36 | 9 months ago | [wifijammer](https://github.com/DanMcInerney/wifijammer)/723 | Continuously jam all wifi clients/routers |
+| 3093 | 230 | 95 | 2 hours ago | [uvicorn](https://github.com/encode/uvicorn)/724 | The lightning-fast ASGI server. 🦄 |
+| 3086 | 311 | 1 | 5 months ago | [Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap)/725 | :satellite: Organized Resources for Deep Learning Researchers and Developers |
+| 3082 | 1269 | 453 | 8 days ago | [tensorflow-yolov3](https://github.com/YunYang1994/tensorflow-yolov3)/726 | 🔥 Pure tensorflow Implement of YOLOv3 with support to train your own dataset  |
+| 3078 | 222 | 6 | 5 years ago | [osx-gcc-installer](https://github.com/not-kennethreitz/osx-gcc-installer)/727 | GCC Installer for OSX! Without Xcode! |
+| 3073 | 312 | 88 | 5 days ago | [sacred](https://github.com/IDSIA/sacred)/728 | Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA. |
+| 3072 | 1813 | 93 | 16 hours ago | [python](https://github.com/kubernetes-client/python)/729 | Official Python client library for kubernetes |
+| 3063 | 445 | 172 | 2 years ago | [mantl](https://github.com/mantl/mantl)/730 | Mantl is a modern platform for rapidly deploying globally distributed services |
+| 3058 | 383 | 97 | 2 days ago | [ignite](https://github.com/pytorch/ignite)/731 | High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently. |
+| 3047 | 1346 | 848 | 1 year, 2 months ago | [coala](https://github.com/coala/coala)/732 | coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use. |
+| 3046 | 1522 | 59 | 3 years ago | [SinaSpider](https://github.com/LiuXingMing/SinaSpider)/733 | 新浪微博爬虫（Scrapy、Redis） |
+| 3046 | 561 | 0 | a month ago | [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)/734 | 🔥 Everything awesome about web-application firewalls (WAF). |
+| 3045 | 466 | 110 | 9 days ago | [pwndbg](https://github.com/pwndbg/pwndbg)/735 | Exploit Development and Reverse Engineering with GDB Made Easy |
+| 3043 | 932 | 88 | 4 months ago | [python-twitter](https://github.com/bear/python-twitter)/736 | A Python wrapper around the Twitter API. |
+| 3042 | 978 | 137 | 2 years ago | [MITMf](https://github.com/byt3bl33d3r/MITMf)/737 | Framework for Man-In-The-Middle attacks |
+| 3036 | 189 | 29 | 5 years ago | [fn.py](https://github.com/kachayev/fn.py)/738 | Functional programming in Python: implementation of missing features to enjoy FP |
+| 3034 | 567 | 191 | 18 hours ago | [sentence-transformers](https://github.com/UKPLab/sentence-transformers)/739 | Sentence Embeddings with BERT & XLNet |
+| 3032 | 367 | 3 | 5 months ago | [trfl](https://github.com/deepmind/trfl)/740 | TensorFlow Reinforcement Learning |
+| 3030 | 377 | 38 | 18 days ago | [scylla](https://github.com/imWildCat/scylla)/741 | Intelligent proxy pool for Humans™ (Maintainer needed) |
+| 3026 | 1120 | 144 | 3 years ago | [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)/742 | Mask RCNN in TensorFlow  |
+| 3025 | 647 | 90 | 13 days ago | [elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py)/743 | High level Python client for Elasticsearch |
+| 3023 | 863 | 103 | 2 years ago | [seq2seq](https://github.com/farizrahman4u/seq2seq)/744 | Sequence to Sequence Learning with Keras |
+| 3018 | 99 | 72 | 8 months ago | [coconut](https://github.com/evhub/coconut)/745 | Simple, elegant, Pythonic functional programming. |
+| 3018 | 642 | 78 | 1 year, 11 months ago | [darts](https://github.com/quark0/darts)/746 | Differentiable architecture search for convolutional and recurrent networks |
+| 3016 | 513 | 21 | 16 days ago | [geopy](https://github.com/geopy/geopy)/747 | Geocoding library for Python. |
+| 3013 | 254 | 10 | 23 days ago | [mimesis](https://github.com/lk-geimfari/mimesis)/748 | Mimesis is a high-performance fake data generator for Python, which provides data for a variety of purposes in a variety of languages. |
+| 3006 | 1690 | 141 | 4 years ago | [Sick-Beard](https://github.com/midgetspy/Sick-Beard)/749 | PVR & episode guide that downloads and manages all your TV shows  |
+| 3005 | 778 | 34 | a month ago | [GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)/750 | Chinese version of GPT2 training code, using BERT tokenizer. |
+| 3003 | 119 | 17 | a month ago | [profiling](https://github.com/what-studio/profiling)/751 | Was an interactive continuous Python profiler. |
+| 3002 | 1293 | 283 | 1 year, 7 months ago | [text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)/752 | text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network |
+| 3002 | 94 | 25 | 17 days ago | [bullet](https://github.com/bchao1/bullet)/753 | 🚅 Interactive prompts made simple. Build a prompt like stacking blocks. |
+| 2993 | 169 | 5 | 4 years ago | [Legofy](https://github.com/JuanPotato/Legofy)/754 | Make images look as if they are made out of 1x1 LEGO blocks |
+| 2993 | 86 | 11 | 14 hours ago | [apprise](https://github.com/caronc/apprise)/755 | Apprise - Push Notifications that work with just about every platform! |
+| 2990 | 934 | 86 | 7 days ago | [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder)/756 | Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/ |
+| 2989 | 262 | 302 | 8 months ago | [invoke](https://github.com/pyinvoke/invoke)/757 | Pythonic task management & command execution. |
+| 2974 | 294 | 17 | 1 year, 6 months ago | [awesome-reactnative-ui](https://github.com/madhavanmalolan/awesome-reactnative-ui)/758 | Awesome React Native UI components updated weekly |
+| 2974 | 598 | 3 | 2 years ago | [learn_math_fast](https://github.com/llSourcell/learn_math_fast)/759 | This is the Curriculum for "How to Learn Mathematics Fast" By Siraj Raval on Youtube |
+| 2968 | 508 | 135 | 4 years ago | [iOS-Universal-Framework](https://github.com/kstenerud/iOS-Universal-Framework)/760 | An XCode project template to build universal frameworks (arm7, arm7s, and simulator) for iOS / iPhone. |
+| 2966 | 453 | 144 | a day ago | [ambassador](https://github.com/datawire/ambassador)/761 | open source Kubernetes-native API gateway for microservices built on the Envoy Proxy |
+| 2963 | 627 | 2 | 28 days ago | [awesome-iot](https://github.com/phodal/awesome-iot)/762 | Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform |
+| 2958 | 111 | 15 | 16 days ago | [visidata](https://github.com/saulpw/visidata)/763 | A terminal spreadsheet multitool for discovering and arranging data |
+| 2958 | 854 | 7 | 2 years ago | [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version)/764 | Chinese Translation for Machine Learning Infographics |
+| 2953 | 570 | 73 | a month ago | [ESRGAN](https://github.com/xinntao/ESRGAN)/765 | ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. The training codes are in BasicSR. |
+| 2949 | 146 | 37 | 1 year, 2 months ago | [percol](https://github.com/mooz/percol)/766 | adds flavor of interactive filtering to the traditional pipe concept of UNIX shell |
+| 2949 | 340 | 63 | 2 months ago | [websockets](https://github.com/aaugustin/websockets)/767 | Library for building WebSocket servers and clients in Python |
+| 2949 | 630 | 505 | 4 months ago | [headphones](https://github.com/rembo10/headphones)/768 | Automatic music downloader for SABnzbd |
+| 2940 | 461 | 81 | a month ago | [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)/769 | Visual analysis and diagnostic tools to facilitate machine learning model selection. |
+| 2936 | 243 | 71 | 4 days ago | [responses](https://github.com/getsentry/responses)/770 | A utility for mocking out the Python Requests library. |
+| 2935 | 470 | 68 | 23 days ago | [BlenderGIS](https://github.com/domlysz/BlenderGIS)/771 | Blender addons to make the bridge between Blender and geographic data |
+| 2931 | 895 | 110 | 1 year, 7 months ago | [autosub](https://github.com/agermanidis/autosub)/772 | [NO LONGER MAINTAINED] Command-line utility for auto-generating subtitles for any video file |
+| 2930 | 208 | 94 | 6 days ago | [toolz](https://github.com/pytoolz/toolz)/773 | A functional standard library for Python. |
+| 2926 | 161 | 106 | 19 hours ago | [pytype](https://github.com/google/pytype)/774 | A static type analyzer for Python code |
+| 2926 | 296 | 115 | 8 days ago | [kornia](https://github.com/kornia/kornia)/775 | Open Source Differentiable Computer Vision Library for PyTorch |
+| 2926 | 596 | 513 | 16 hours ago | [securedrop](https://github.com/freedomofpress/securedrop)/776 | GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here! |
+| 2926 | 1044 | 75 | 2 years ago | [python-oauth2](https://github.com/joestump/python-oauth2)/777 | A fully tested, abstract interface to creating OAuth clients and servers. |
+| 2926 | 444 | 75 | 25 days ago | [jsonschema](https://github.com/Julian/jsonschema)/778 | An(other) implementation of JSON Schema for Python |
+| 2924 | 280 | 20 | 8 hours ago | [PyBoy](https://github.com/Baekalfen/PyBoy)/779 | Game Boy emulator written in Python |
+| 2923 | 959 | 20 | 4 hours ago | [Pytorch-UNet](https://github.com/milesial/Pytorch-UNet)/780 | PyTorch implementation of the U-Net for image semantic segmentation with high quality images |
+| 2923 | 730 | 0 | 2 months ago | [DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)/781 | A distributed visual search and visual data analytics platform. |
+| 2915 | 606 | 48 | 2 years ago | [chnroutes](https://github.com/fivesheep/chnroutes)/782 | scripts help chinese netizen, who uses vpn to combat censorship, by modifying the route table so as routing only the censored ip to the vpn |
+| 2913 | 678 | 5 | 14 days ago | [social_mapper](https://github.com/Greenwolf/social_mapper)/783 | A Social Media Enumeration & Correlation Tool by Jacob Wilkin(Greenwolf) |
+| 2909 | 944 | 7 | 2 years ago | [adversarial](https://github.com/goodfeli/adversarial)/784 | Code and hyperparameters for the paper "Generative Adversarial Networks" |
+| 2903 | 315 | 71 | 3 months ago | [golem](https://github.com/golemfactory/golem)/785 | Golem is creating a global market for computing power. |
+| 2902 | 681 | 36 | 6 days ago | [python-slackclient](https://github.com/slackapi/python-slackclient)/786 | Slack Developer Kit for Python |
+| 2902 | 129 | 37 | a month ago | [fbs](https://github.com/mherrmann/fbs)/787 | Create Python GUIs with Qt in minutes |
+| 2901 | 294 | 61 | 11 months ago | [camelot](https://github.com/atlanhq/camelot)/788 | Camelot: PDF Table Extraction for Humans |
+| 2898 | 961 | 103 | 2 years ago | [pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3)/789 | A PyTorch implementation of the YOLO v3 object detection algorithm |
+| 2895 | 375 | 262 | 1 year, 1 month ago | [blaze](https://github.com/blaze/blaze)/790 | NumPy and Pandas interface to Big Data |
+| 2890 | 841 | 1529 | 17 hours ago | [meson](https://github.com/mesonbuild/meson)/791 | The Meson Build System |
+| 2888 | 881 | 88 | 5 hours ago | [espnet](https://github.com/espnet/espnet)/792 | End-to-End Speech Processing Toolkit |
+| 2887 | 1000 | 13 | 2 months ago | [google-maps-services-python](https://github.com/googlemaps/google-maps-services-python)/793 | Python client library for Google Maps API Web Services |
+| 2885 | 699 | 24 | 5 days ago | [Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics)/794 | Most popular metrics used to evaluate object detection algorithms. |
+| 2882 | 495 | 41 | 3 years ago | [webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector)/795 | A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time. |
+| 2881 | 226 | 60 | a day ago | [hydra](https://github.com/facebookresearch/hydra)/796 | Hydra is a framework for elegantly configuring complex applications |
+| 2879 | 302 | 12 | 1 year, 6 months ago | [plasma](https://github.com/plasma-disassembler/plasma)/797 | Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax. |
+| 2875 | 1135 | 16 | 2 years ago | [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)/798 | 算法/数据结构/Python/剑指offer/机器学习/leetcode |
+| 2874 | 1373 | 0 | 2 years ago | [fcn.berkeleyvision.org](https://github.com/shelhamer/fcn.berkeleyvision.org)/799 | Fully Convolutional Networks for Semantic Segmentation by Jonathan Long*, Evan Shelhamer*, and Trevor Darrell. CVPR 2015 and PAMI 2016. |
+| 2874 | 722 | 7 | 2 years ago | [algorithms](https://github.com/nryoung/algorithms)/800 | This repository is not maintained |
+| 2413 | 285 | 50 | 4 months ago | [gts](https://github.com/AppScale/gts)/801 | AppScale is an easy-to-manage serverless platform for building and running scalable web and mobile applications on any infrastructure. |
+| 2413 | 592 | 31 | 19 days ago | [colorization](https://github.com/richzhang/colorization)/802 | Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016. |
+| 2410 | 406 | 7 | 5 years ago | [Iconic](https://github.com/somerandomdude/Iconic)/803 | A minimal set of icons in raster, vector and font formats — free for public use. |
+| 2410 | 2101 | 5 | 16 days ago | [deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch)/804 | 『ゼロから作る Deep Learning』(O'Reilly Japan, 2016) |
+| 2409 | 162 | 11 | 4 months ago | [fluxgui](https://github.com/xflux-gui/fluxgui)/805 | Better lighting for Linux. Open source GUI for xflux |
+| 2403 | 472 | 13 | 2 years ago | [AlfredWorkflow.com](https://github.com/hzlzh/AlfredWorkflow.com)/806 | A public Collection of Alfred Workflows. |
+| 2403 | 1149 | 44 | a month ago | [Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph)/807 | 农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策 |
+| 2403 | 327 | 0 | 2 years ago | [AppleDNS](https://github.com/gongjianhui/AppleDNS)/808 | Apple 网络服务加速配置。[已停止更新，请慎用。] |
+| 2402 | 179 | 22 | 7 days ago | [asciimatics](https://github.com/peterbrittain/asciimatics)/809 | A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations |
+| 2400 | 440 | 6 | 2 years ago | [dnc](https://github.com/deepmind/dnc)/810 | A TensorFlow implementation of the Differentiable Neural Computer. |
+| 2398 | 553 | 12 | 2 days ago | [commix](https://github.com/commixproject/commix)/811 | Automated All-in-One OS command injection and exploitation tool. |
+| 2394 | 621 | 7 | 13 days ago | [KindleEar](https://github.com/cdhigh/KindleEar)/812 | A website application running in Google app engine, deliver rss news to your kindle. generate mobi using python, multilanguages supported. |
+| 2393 | 329 | 64 | 2 days ago | [byteps](https://github.com/bytedance/byteps)/813 | A high performance and generic framework for distributed DNN training |
+| 2383 | 493 | 375 | 8 months ago | [flask-restplus](https://github.com/noirbizarre/flask-restplus)/814 | Fully featured framework for fast, easy and documented API development with Flask |
+| 2383 | 1321 | 8 | 2 months ago | [Games](https://github.com/CharlesPikachu/Games)/815 | Some games created by python code. |
+| 2381 | 525 | 19 | 2 months ago | [NeteaseCloudMusicFlac](https://github.com/YongHaoWu/NeteaseCloudMusicFlac)/816 | 根据网易云音乐的歌单, 下载flac无损音乐到本地. Download the FLAC music from Internet according to your NeteaseCloudMusic playlist. |
+| 2380 | 385 | 8 | 15 days ago | [InfoSpider](https://github.com/kangvcar/InfoSpider)/817 | INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。 |
+| 2378 | 161 | 140 | 2 years ago | [paperwork](https://github.com/openpaperwork/paperwork)/818 | Personal document manager (Linux/Windows) -- Moved to Gnome's Gitlab |
+| 2378 | 403 | 80 | 2 months ago | [albert](https://github.com/google-research/albert)/819 | ALBERT: A Lite BERT for Self-supervised Learning of Language Representations |
+| 2374 | 391 | 5 | 3 months ago | [flask-base](https://github.com/hack4impact/flask-base)/820 | A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more. |
+| 2373 | 429 | 10 | 27 days ago | [sumy](https://github.com/miso-belica/sumy)/821 | Module for automatic summarization of text documents and HTML pages. |
+| 2373 | 662 | 12 | 4 months ago | [CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras)/822 | A Keras implementation of CapsNet in NIPS2017 paper "Dynamic Routing Between Capsules". Now test error ＝ 0.34%.  |
+| 2372 | 287 | 113 | 1 year, 9 months ago | [schematics](https://github.com/schematics/schematics)/823 | Python Data Structures for Humans™. |
+| 2372 | 697 | 23 | 16 days ago | [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid)/824 | Torchreid: Deep learning person re-identification in PyTorch. |
+| 2371 | 261 | 133 | 5 months ago | [qgrid](https://github.com/quantopian/qgrid)/825 | An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks |
+| 2369 | 557 | 106 | a month ago | [django-compressor](https://github.com/django-compressor/django-compressor)/826 | Compresses linked and inline javascript or CSS into a single cached file. |
+| 2367 | 294 | 87 | a month ago | [streamalert](https://github.com/airbnb/streamalert)/827 | StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define. |
+| 2366 | 375 | 54 | 2 years ago | [scrapy-splash](https://github.com/scrapy-plugins/scrapy-splash)/828 | Scrapy+Splash for JavaScript integration |
+| 2366 | 691 | 80 | 2 months ago | [wikiextractor](https://github.com/attardi/wikiextractor)/829 | A tool for extracting plain text from Wikipedia dumps |
+| 2366 | 1588 | 152 | an hour ago | [open-event-server](https://github.com/fossasia/open-event-server)/830 | The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com |
+| 2365 | 408 | 102 | 23 days ago | [django-mptt](https://github.com/django-mptt/django-mptt)/831 | Utilities for implementing a modified pre-order traversal tree in django. |
+| 2364 | 117 | 3 | 4 days ago | [funcy](https://github.com/Suor/funcy)/832 | A fancy and practical functional tools |
+| 2361 | 367 | 1 | 2 years ago | [sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview)/833 | markdown preview and build plugin for sublime text 2/3 |
+| 2353 | 140 | 31 | 9 months ago | [flamescope](https://github.com/Netflix/flamescope)/834 | FlameScope is a visualization tool for exploring different time ranges as Flame Graphs. |
+| 2350 | 489 | 8 | 3 days ago | [XlsxWriter](https://github.com/jmcnamara/XlsxWriter)/835 | A Python module for creating Excel XLSX files. |
+| 2346 | 665 | 114 | 7 months ago | [srgan](https://github.com/tensorlayer/srgan)/836 | Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network |
+| 2345 | 145 | 48 | 4 months ago | [rumps](https://github.com/jaredks/rumps)/837 | Ridiculously Uncomplicated macOS Python Statusbar apps |
+| 2338 | 705 | 41 | a month ago | [opendevops](https://github.com/opendevops-cn/opendevops)/838 | CODO是一款为用户提供企业多混合云、一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台 |
+| 2332 | 239 | 5 | 12 days ago | [ehForwarderBot](https://github.com/blueset/ehForwarderBot)/839 | An extensible message tunneling chat bot framework. Delivers messages to and from multiple platforms and remotely control your accounts. |
+| 2331 | 507 | 103 | 2 days ago | [errbot](https://github.com/errbotio/errbot)/840 | Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation. |
+| 2327 | 590 | 53 | 3 months ago | [FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD)/841 | 腾讯优图高精度双分支人脸检测器 |
+| 2327 | 181 | 38 | 2 years ago | [sandman](https://github.com/jeffknupp/sandman)/842 | Sandman "makes things REST". |
+| 2326 | 301 | 142 | 18 days ago | [datashader](https://github.com/holoviz/datashader)/843 | Quickly and accurately render even the largest data. |
+| 2323 | 158 | 78 | 6 months ago | [pyvim](https://github.com/prompt-toolkit/pyvim)/844 | Pure Python Vim clone. |
+| 2321 | 471 | 140 | 2 months ago | [FCOS](https://github.com/tianzhi0549/FCOS)/845 | FCOS: Fully Convolutional One-Stage Object Detection (ICCV'19) |
+| 2317 | 407 | 18 | a month ago | [finmarketpy](https://github.com/cuemacro/finmarketpy)/846 | Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians) |
+| 2312 | 178 | 236 | 3 months ago | [pony](https://github.com/ponyorm/pony)/847 | Pony Object Relational Mapper |
+| 2312 | 261 | 87 | 14 days ago | [graphics](https://github.com/tensorflow/graphics)/848 | TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow |
+| 2307 | 604 | 11 | 3 months ago | [Veil](https://github.com/Veil-Framework/Veil)/849 | Veil 3.1.X (Check version info in Veil at runtime) |
+| 2305 | 106 | 34 | a month ago | [halo](https://github.com/manrajgrover/halo)/850 | 💫 Beautiful spinners for terminal, IPython and Jupyter |
+| 2305 | 1155 | 269 | 3 years ago | [Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF)/851 | Faster-RCNN in Tensorflow |
+| 2304 | 62 | 5 | 45 minutes ago | [kb](https://github.com/gnebbia/kb)/852 | A minimalist command line knowledge base manager |
+| 2304 | 346 | 69 | 2 months ago | [ScoutSuite](https://github.com/nccgroup/ScoutSuite)/853 | Multi-Cloud Security Auditing Tool |
+| 2304 | 357 | 20 | 3 months ago | [ResNeSt](https://github.com/zhanghang1989/ResNeSt)/854 | ResNeSt: Split-Attention Networks |
+| 2300 | 648 | 216 | 3 days ago | [FATE](https://github.com/FederatedAI/FATE)/855 | An Industrial Grade Federated Learning Framework |
+| 2300 | 99 | 27 | a month ago | [s-tui](https://github.com/amanusk/s-tui)/856 | Terminal-based CPU stress and monitoring utility |
+| 2296 | 520 | 4 | 4 days ago | [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook)/857 | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns. |
+| 2295 | 1063 | 0 | 1 year, 4 months ago | [rasa_core](https://github.com/RasaHQ/rasa_core)/858 | Rasa Core is now part of the Rasa repo: An open source machine learning framework to automate text-and voice-based conversations |
+| 2293 | 480 | 91 | a day ago | [splinter](https://github.com/cobrateam/splinter)/859 | splinter - python test framework for web applications  |
+| 2289 | 779 | 14 | 8 days ago | [pentest-wiki](https://github.com/nixawk/pentest-wiki)/860 | PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others. |
+| 2287 | 671 | 25 | a day ago | [football](https://github.com/google-research/football)/861 | Check out the new game server: |
+| 2285 | 158 | 7 | 4 months ago | [newscatcher](https://github.com/kotartemiy/newscatcher)/862 | Programmatically collect normalized news from (almost) any website. |
+| 2281 | 297 | 128 | 12 days ago | [factory_boy](https://github.com/FactoryBoy/factory_boy)/863 | A test fixtures replacement for Python |
+| 2281 | 334 | 21 | a month ago | [sslyze](https://github.com/nabla-c0d3/sslyze)/864 | Fast and powerful SSL/TLS scanning library. |
+| 2281 | 320 | 148 | a month ago | [flasgger](https://github.com/flasgger/flasgger)/865 | Easy OpenAPI specs and Swagger UI for your Flask API |
+| 2280 | 537 | 12 | 8 days ago | [markdown](https://github.com/Python-Markdown/markdown)/866 | A Python implementation of John Gruber’s Markdown with Extension support. |
+| 2277 | 621 | 17 | 4 months ago | [15-minute-apps](https://github.com/learnpyqt/15-minute-apps)/867 | 15 minute (small) desktop apps built with PyQt |
+| 2276 | 483 | 11 | 11 months ago | [weibo_terminater](https://github.com/jinfagang/weibo_terminater)/868 | Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator  |
+| 2275 | 245 | 133 | 3 months ago | [gcalcli](https://github.com/insanum/gcalcli)/869 | Google Calendar Command Line Interface |
+| 2274 | 447 | 0 | 7 hours ago | [akshare](https://github.com/jindaxiang/akshare)/870 | AkShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 |
+| 2265 | 356 | 5 | 18 days ago | [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN)/871 | A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images. |
+| 2264 | 301 | 8 | 2 days ago | [dowhy](https://github.com/microsoft/dowhy)/872 | DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.  |
+| 2263 | 426 | 200 | 1 year, 6 months ago | [ansible-container](https://github.com/ansible/ansible-container)/873 | DEPRECATED -- Ansible Container was a tool to build Docker images and orchestrate containers using only Ansible playbooks. |
+| 2260 | 622 | 18 | 2 months ago | [patator](https://github.com/lanjelot/patator)/874 | Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage. |
+| 2256 | 695 | 66 | a month ago | [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch)/875 | A tiny, friendly, strong pytorch implement of person re-identification baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial |
+| 2252 | 796 | 74 | 20 days ago | [open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo)/876 | Pre-trained Deep Learning models and demos (high quality and extremely fast) |
+| 2251 | 633 | 3 | 3 months ago | [aswan](https://github.com/momosecurity/aswan)/877 | 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。 |
+| 2249 | 399 | 24 | a month ago | [interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)/878 | Deep learning software for colorizing black and white images with a few clicks. |
+| 2235 | 409 | 60 | 6 months ago | [python-qrcode](https://github.com/lincolnloop/python-qrcode)/879 | Python QR Code image generator |
+| 2233 | 362 | 116 | 7 days ago | [miasm](https://github.com/cea-sec/miasm)/880 | Reverse engineering framework in Python |
+| 2227 | 381 | 50 | 9 days ago | [praw](https://github.com/praw-dev/praw)/881 | PRAW, an acronym for "Python Reddit API Wrapper", is a python package that allows for simple access to Reddit's API. |
+| 2226 | 343 | 142 | 2 days ago | [ansible-lint](https://github.com/ansible/ansible-lint)/882 | Best practices checker for Ansible |
+| 2222 | 815 | 124 | 7 months ago | [tacotron](https://github.com/keithito/tacotron)/883 | A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial) |
+| 2219 | 178 | 2 | 2 days ago | [autoscraper](https://github.com/alirezamika/autoscraper)/884 | A Smart, Automatic, Fast and Lightweight Web Scraper for Python |
+| 2218 | 550 | 80 | 1 year, 6 months ago | [ProxyBroker](https://github.com/constverum/ProxyBroker)/885 | Proxy [Finder | Checker | Server]. HTTP(S) & SOCKS :performing_arts: |
+| 2218 | 211 | 1 | 6 hours ago | [CPython-Internals](https://github.com/zpoint/CPython-Internals)/886 | Dive into CPython internals, trying to illustrate every detail of CPython implementation |
+| 2217 | 825 | 137 | 1 year, 2 months ago | [CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)/887 | [python3.6] 运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别 |
+| 2213 | 617 | 158 | 3 hours ago | [autobahn-python](https://github.com/crossbario/autobahn-python)/888 | WebSocket and WAMP in Python for Twisted and asyncio |
+| 2213 | 378 | 41 | 23 days ago | [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)/889 | Pandas integration with sklearn |
+| 2212 | 137 | 5 | 2 months ago | [waybackpack](https://github.com/jsvine/waybackpack)/890 | Download the entire Wayback Machine archive for a given URL. |
+| 2210 | 146 | 17 | 6 hours ago | [dramatiq](https://github.com/Bogdanp/dramatiq)/891 | A fast and reliable background task processing library for Python 3. |
+| 2209 | 444 | 122 | 5 months ago | [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)/892 | Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts |
+| 2207 | 817 | 78 | 1 year, 6 months ago | [Semantic-Segmentation-Suite](https://github.com/GeorgeSeif/Semantic-Segmentation-Suite)/893 | Semantic Segmentation Suite in TensorFlow. Implement, train, and test new Semantic Segmentation models easily! |
+| 2205 | 213 | 2 | 4 months ago | [Kosmos](https://github.com/AtlasNX/Kosmos)/894 |  All-in-One CFW Package for the Nintendo Switch - previously SDFilesSwitch |
+| 2204 | 166 | 14 | 1 year, 4 months ago | [trackerjacker](https://github.com/calebmadrigal/trackerjacker)/895 | Like nmap for mapping wifi networks you're not connected to, plus device tracking |
+| 2203 | 850 | 288 | 2 months ago | [httprunner](https://github.com/httprunner/httprunner)/896 | One-stop solution for HTTP(S) testing. |
+| 2203 | 242 | 17 | 23 hours ago | [catalyst](https://github.com/catalyst-team/catalyst)/897 | Accelerated deep learning R&D |
+| 2202 | 59 | 20 | 3 years ago | [vigil](https://github.com/munificent/vigil)/898 | Vigil, the eternal morally vigilant programming language |
+| 2202 | 987 | 259 | 11 months ago | [chinese_ocr](https://github.com/YCG09/chinese_ocr)/899 | CTPN + DenseNet + CTC based end-to-end Chinese OCR implemented using tensorflow and keras |
+| 2201 | 694 | 4 | 2 months ago | [django-bootstrap3](https://github.com/zostera/django-bootstrap3)/900 | Bootstrap 3 integration with Django. |
+| 2058 | 350 | 78 | 5 years ago | [pyinotify](https://github.com/seb-m/pyinotify)/901 | Monitoring filesystems events with inotify on Linux. |
+| 2058 | 359 | 19 | a month ago | [dm_control](https://github.com/deepmind/dm_control)/902 | DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo. |
+| 2054 | 338 | 25 | 1 year, 2 months ago | [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)/903 | The author's officially unofficial PyTorch BigGAN implementation. |
+| 2053 | 606 | 64 | 18 days ago | [hmmlearn](https://github.com/hmmlearn/hmmlearn)/904 | Hidden Markov Models in Python, with scikit-learn like API |
+| 2049 | 127 | 9 | 8 months ago | [shutit](https://github.com/ianmiell/shutit)/905 | Automation framework for programmers |
+| 2045 | 363 | 41 | a day ago | [bert4keras](https://github.com/bojone/bert4keras)/906 | keras implement of transformers for humans |
+| 2043 | 419 | 80 | 26 days ago | [arctic](https://github.com/man-group/arctic)/907 | High performance datastore for time series and tick data  |
+| 2039 | 264 | 23 | 11 days ago | [pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter)/908 | Count the MACs / FLOPs of your PyTorch model. |
+| 2033 | 572 | 153 | 14 days ago | [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit)/909 | OAuth2 goodies for the Djangonauts! |
+| 2029 | 293 | 13 | 4 years ago | [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo)/910 | implementing deep dream on video |
+| 2029 | 230 | 63 | a day ago | [lark](https://github.com/lark-parser/lark)/911 | Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity. |
+| 2028 | 114 | 7 | 10 months ago | [fake2db](https://github.com/emirozer/fake2db)/912 | create custom test databases that are populated with fake data |
+| 2021 | 326 | 32 | 2 months ago | [texar](https://github.com/asyml/texar)/913 | Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow |
+| 2016 | 299 | 100 | 4 months ago | [subliminal](https://github.com/Diaoul/subliminal)/914 | Subliminal - Subtitles, faster than your thoughts |
+| 2013 | 262 | 130 | 3 days ago | [urwid](https://github.com/urwid/urwid)/915 | Console user interface library for Python (official repo) |
+| 2009 | 330 | 10 | 1 year, 10 months ago | [genpac](https://github.com/JinnLynn/genpac)/916 | PAC/Dnsmasq/Wingy file Generator,  working with gfwlist, support custom rules. |
+| 2009 | 546 | 57 | 3 months ago | [knock](https://github.com/guelfoweb/knock)/917 | Knock Subdomain Scan |
+| 2008 | 409 | 183 | 3 years ago | [xunlei-lixian](https://github.com/iambus/xunlei-lixian)/918 | 迅雷离线下载脚本 |
+| 2008 | 732 | 177 | 2 days ago | [kombu](https://github.com/celery/kombu)/919 | Messaging library for Python. |
+| 2002 | 172 | 18 | 4 months ago | [gpustat](https://github.com/wookayin/gpustat)/920 | 📊 A simple command-line utility for querying and monitoring GPU status |
+| 1999 | 561 | 235 | 9 days ago | [cobbler](https://github.com/cobbler/cobbler)/921 | Cobbler is a versatile Linux deployment server |
+| 1999 | 210 | 11 | 2 years ago | [person-blocker](https://github.com/minimaxir/person-blocker)/922 | Automatically "block" people in images (like Black Mirror) using a pretrained neural network. |
+| 1997 | 438 | 10 | 1 year, 1 month ago | [siamese-triplet](https://github.com/adambielski/siamese-triplet)/923 | Siamese and triplet networks with online pair/triplet mining in PyTorch |
+| 1993 | 835 | 166 | an hour ago | [netmiko](https://github.com/ktbyers/netmiko)/924 | Multi-vendor library to simplify Paramiko SSH connections to network devices |
+| 1992 | 580 | 169 | 2 months ago | [mhn](https://github.com/pwnlandia/mhn)/925 | Modern Honey Network |
+| 1992 | 227 | 114 | 2 months ago | [django-environ](https://github.com/joke2k/django-environ)/926 | Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. |
+| 1991 | 355 | 37 | a day ago | [instaloader](https://github.com/instaloader/instaloader)/927 | Download pictures (or videos) along with their captions and other metadata from Instagram. |
+| 1991 | 361 | 108 | 3 days ago | [Shapely](https://github.com/Toblerity/Shapely)/928 | Manipulation and analysis of geometric objects |
+| 1989 | 305 | 34 | 2 months ago | [stargan-v2](https://github.com/clovaai/stargan-v2)/929 | StarGAN v2 - Official PyTorch Implementation (CVPR 2020) |
+| 1986 | 775 | 47 | 1 year, 8 months ago | [bilibili-user](https://github.com/airingursb/bilibili-user)/930 | 🍥 Bilibili 用户爬虫 |
+| 1984 | 337 | 50 | 5 days ago | [linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat)/931 | The perfect emulation setup to study and develop the Linux kernel v5.4.3, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGDB just work. Powered by Buildroot and crosstool-NG. Highly automated. Thoroughly documented. Automated tests. "Tested" in an Ubuntu 19.10 host. |
+| 1984 | 550 | 1 | 1 year, 4 months ago | [Reco-papers](https://github.com/wzhe06/Reco-papers)/932 | Classic papers and resources on recommendation |
+| 1984 | 212 | 8 | 2 years ago | [gain](https://github.com/gaojiuli/gain)/933 | Web crawling framework  based on asyncio. |
+| 1981 | 308 | 20 | a month ago | [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization)/934 | Official tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations” |
+| 1981 | 215 | 40 | 12 days ago | [bleach](https://github.com/mozilla/bleach)/935 | Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes |
+| 1979 | 577 | 117 | 4 years ago | [bcloud](https://github.com/XuShaohua/bcloud)/936 | 百度网盘的linux桌面客户端 |
+| 1974 | 347 | 48 | a month ago | [python-socketio](https://github.com/miguelgrinberg/python-socketio)/937 | Python Socket.IO server and client |
+| 1973 | 580 | 37 | 1 year, 10 months ago | [improved-gan](https://github.com/openai/improved-gan)/938 | Code for the paper "Improved Techniques for Training GANs" |
+| 1971 | 613 | 163 | 16 days ago | [pyload](https://github.com/pyload/pyload)/939 | The free and open-source Download Manager written in pure Python |
+| 1968 | 423 | 68 | 4 months ago | [Misago](https://github.com/rafalp/Misago)/940 | Misago is fully featured modern forum application that is fast, scalable and responsive. |
+| 1967 | 372 | 45 | 2 years ago | [text-to-image](https://github.com/paarthneekhara/text-to-image)/941 | Text to image synthesis using thought vectors |
+| 1967 | 530 | 231 | 21 days ago | [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python)/942 | Confluent's Kafka Python Client |
+| 1964 | 110 | 1 | 20 days ago | [book](https://github.com/SystemsApproach/book)/943 | Meta-data and Makefile needed to build the book. Main starting point. |
+| 1962 | 289 | 13 | 3 years ago | [logster](https://github.com/etsy/logster)/944 | Parse log files, generate metrics for Graphite and Ganglia |
+| 1963 | 376 | 129 | 6 months ago | [unoconv](https://github.com/unoconv/unoconv)/945 | Universal Office Converter - Convert between any document format supported by LibreOffice/OpenOffice. |
+| 1961 | 192 | 8 | 3 years ago | [Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor)/946 | A simple interface for editing natural photos with generative neural networks. |
+| 1958 | 285 | 55 | a month ago | [aiortc](https://github.com/aiortc/aiortc)/947 | WebRTC and ORTC implementation for Python using asyncio |
+| 1958 | 383 | 29 | 4 months ago | [scrapydweb](https://github.com/my8100/scrapydweb)/948 | Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right: |
+| 1957 | 595 | 90 | 9 months ago | [pytorch-deeplab-xception](https://github.com/jfzhang95/pytorch-deeplab-xception)/949 | DeepLab v3+ model in PyTorch. Support different backbones. |
+| 1951 | 401 | 235 | 20 hours ago | [dbt](https://github.com/fishtown-analytics/dbt)/950 | dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications. |
+| 1950 | 651 | 122 | 2 months ago | [mmskeleton](https://github.com/open-mmlab/mmskeleton)/951 | A OpenMMLAB toolbox  for human pose estimation, skeleton-based action recognition, and action synthesis. |
+| 1948 | 2297 | 40 | 25 days ago | [openshift-ansible](https://github.com/openshift/openshift-ansible)/952 | Install and config an OpenShift 3.x cluster |
+| 1948 | 758 | 38 | a day ago | [Archery](https://github.com/hhyo/Archery)/953 | SQL 审核查询平台 |
+| 1947 | 120 | 6 | 18 days ago | [addict](https://github.com/mewwts/addict)/954 | (joke) The Python Dict that's better than heroin. |
+| 1944 | 725 | 15 | 9 months ago | [bitcoin-arbitrage](https://github.com/maxme/bitcoin-arbitrage)/955 | Bitcoin arbitrage - opportunity detector |
+| 1943 | 641 | 3 | 6 months ago | [lc-all-solutions](https://github.com/csujedihy/lc-all-solutions)/956 | My own leetcode solutions by python |
+| 1941 | 997 | 250 | 7 months ago | [python-binance](https://github.com/sammchardy/python-binance)/957 | Binance Exchange API python implementation for automated trading |
+| 1940 | 448 | 3054 | 1 year, 8 months ago | [write-ups-2017](https://github.com/ctfs/write-ups-2017)/958 | Wiki-like CTF write-ups repository, maintained by the community. 2017 |
+| 1937 | 237 | 22 | 2 years ago | [scikit-plot](https://github.com/reiinakano/scikit-plot)/959 | An intuitive library to add plotting functionality to scikit-learn objects. |
+| 1932 | 369 | 16 | 3 years ago | [wordvectors](https://github.com/Kyubyong/wordvectors)/960 | Pre-trained word vectors of 30+ languages |
+| 1931 | 997 | 39 | 16 days ago | [donkeycar](https://github.com/autorope/donkeycar)/961 | Open source hardware and software platform to build a small scale self driving car. |
+| 1926 | 369 | 166 | a day ago | [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize)/962 | Sequential model-based optimization with a  `scipy.optimize` interface |
+| 1925 | 343 | 44 | 24 days ago | [psycopg2](https://github.com/psycopg/psycopg2)/963 | PostgreSQL database adapter for the Python programming language |
+| 1925 | 367 | 22 | 3 months ago | [Arjun](https://github.com/s0md3v/Arjun)/964 | HTTP parameter discovery suite. |
+| 1923 | 259 | 2 | 6 months ago | [summer2020internships](https://github.com/elaine-zheng/summer2020internships)/965 | Keep track of internships for Summer 2020 for undergraduates interested in tech./SWE/related fields |
+| 1920 | 374 | 11 | 1 year, 1 month ago | [zhusuan](https://github.com/thu-ml/zhusuan)/966 | A probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow |
+| 1914 | 333 | 246 | 3 days ago | [Radicale](https://github.com/Kozea/Radicale)/967 | A simple CalDAV (calendar) and CardDAV (contact) server. |
+| 1914 | 229 | 62 | 2 months ago | [yandex-tank](https://github.com/yandex/yandex-tank)/968 | Load and performance benchmark tool |
+| 1913 | 106 | 0 | a month ago | [ddgr](https://github.com/jarun/ddgr)/969 | :duck: DuckDuckGo from the terminal |
+| 1913 | 298 | 87 | 11 days ago | [django-model-utils](https://github.com/jazzband/django-model-utils)/970 | Django model mixins and utilities. |
+| 1909 | 230 | 15 | 2 months ago | [Dango-Translator](https://github.com/PantsuDango/Dango-Translator)/971 | 团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器 |
+| 1909 | 447 | 1 | Unknown | [keras-bert](https://github.com/CyberZHG/keras-bert)/972 | Implementation of BERT that could load official pre-trained models for feature extraction and prediction |
+| 1905 | 843 | 42 | Unknown | [CNN_sentence](https://github.com/yoonkim/CNN_sentence)/973 | CNNs for sentence classification |
+| 1904 | 535 | 13 | Unknown | [ml-glossary](https://github.com/bfortuner/ml-glossary)/974 | Machine learning glossary |
+| 1904 | 425 | 71 | Unknown | [vmaf](https://github.com/Netflix/vmaf)/975 | Perceptual video quality assessment based on multi-method fusion. |
+| 1904 | 493 | 5 | Unknown | [exphub](https://github.com/zhzyker/exphub)/976 | Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-5902、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340 |
+| 1903 | 374 | 30 | Unknown | [UGATIT-pytorch](https://github.com/znxlwm/UGATIT-pytorch)/977 | Official PyTorch implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation |
+| 1900 | 111 | 44 | Unknown | [libra](https://github.com/Palashio/libra)/978 | Ergonomic machine learning for everyone. |
+| 1899 | 490 | 25 | Unknown | [ivre](https://github.com/cea-sec/ivre)/979 | Network recon framework. |
+| 1899 | 729 | 50 | Unknown | [binlog2sql](https://github.com/danfengcao/binlog2sql)/980 | Parse MySQL binlog to SQL you want |
+| 1899 | 467 | 13 | Unknown | [lianjia-beike-spider](https://github.com/jumper2014/lianjia-beike-spider)/981 | 链家网和贝壳网房价爬虫，采集北京上海广州深圳等21个中国主要城市的房价数据（小区，二手房，出租房，新房），稳定可靠快速！支持csv,MySQL, MongoDB,Excel, json存储，支持Python2和3，图表展示数据，注释丰富 🚁，点星支持 |
+| 1898 | 412 | 147 | Unknown | [pexpect](https://github.com/pexpect/pexpect)/982 | A Python module for controlling interactive programs in a pseudo-terminal |
+| 1897 | 291 | 9 | Unknown | [Raccoon](https://github.com/evyatarmeged/Raccoon)/983 | A high performance offensive security tool for reconnaissance and vulnerability scanning |
+| 1896 | 116 | 18 | Unknown | [stethoscope](https://github.com/Netflix-Skunkworks/stethoscope)/984 | Personalized, user-focused recommendations for employee information security. |
+| 1896 | 222 | 34 | Unknown | [python-uncompyle6](https://github.com/rocky/python-uncompyle6)/985 | A cross-version Python bytecode decompiler |
+| 1895 | 161 | 46 | Unknown | [pyquery](https://github.com/gawel/pyquery)/986 | A jquery-like library for python |
+| 1892 | 842 | 339 | Unknown | [web2py](https://github.com/web2py/web2py)/987 | Free and open source full-stack enterprise framework for agile development of secure database-driven web-based applications, written and programmable in Python. |
+| 1888 | 190 | 19 | Unknown | [data_hacks](https://github.com/bitly/data_hacks)/988 | Command line utilities for data analysis |
+| 1887 | 99 | 13 | Unknown | [handout](https://github.com/danijar/handout)/989 | Turn Python scripts into handouts with Markdown and figures |
+| 1884 | 297 | 3 | Unknown | [WinPwnage](https://github.com/rootm0s/WinPwnage)/990 | UAC bypass, Elevate, Persistence methods |
+| 1883 | 758 | 15 | Unknown | [ITArticles](https://github.com/qiwsir/ITArticles)/991 | None |
+| 1881 | 309 | 272 | Unknown | [coremltools](https://github.com/apple/coremltools)/992 | Core ML tools contain supporting tools for Core ML model conversion, editing, and validation. |
+| 1873 | 107 | 59 | Unknown | [yadm](https://github.com/TheLocehiliosan/yadm)/993 | Yet Another Dotfiles Manager |
+| 1872 | 340 | 19 | Unknown | [ranking](https://github.com/tensorflow/ranking)/994 | Learning to Rank in TensorFlow |
+| 1872 | 264 | 21 | Unknown | [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)/995 | The code linting framework for Sublime Text 3 |
+| 1871 | 116 | 15 | Unknown | [furl](https://github.com/gruns/furl)/996 | 🌐 URL parsing and manipulation made easy. |
+| 1870 | 418 | 7 | Unknown | [tplmap](https://github.com/epinna/tplmap)/997 | Server-Side Template Injection and Code Injection Detection and Exploitation Tool |
+| 1870 | 600 | 66 | Unknown | [sort](https://github.com/abewley/sort)/998 | Simple, online, and realtime tracking of multiple objects in a video sequence. |
+| 1870 | 1055 | 2 | Unknown | [redis-in-action](https://github.com/josiahcarlson/redis-in-action)/999 | Example code from the book |
+| 1869 | 252 | 56 | Unknown | [gitinspector](https://github.com/ejwa/gitinspector)/1000 | :bar_chart: The statistical analysis tool for git repositories |
