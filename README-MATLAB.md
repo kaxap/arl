@@ -1,1003 +1,1003 @@
 ## This is a most popular repository list for MATLAB sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 9691 | 1428 | 30 | 3 years ago | [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)/1 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511  |
-| 4873 | 1976 | 0 | 9 months ago | [PRMLT](https://github.com/PRML/PRMLT)/2 | Matlab code for machine learning algorithms in book PRML |
-| 4837 | 1549 | 229 | 2 months ago | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)/3 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. |
-| 3553 | 2263 | 83 | 5 years ago | [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox)/4 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started. |
-| 2612 | 737 | 2 | 2 months ago | [Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN)/5 | A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 |
-| 2505 | 991 | 45 | 3 years ago | [MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)/6 | Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks |
-| 2387 | 1201 | 139 | 2 years ago | [faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)/7 | Faster R-CNN |
-| 2094 | 942 | 55 | 3 years ago | [rcnn](https://github.com/rbgirshick/rcnn)/8 | R-CNN: Regions with Convolutional Neural Network Features |
-| 2072 | 1304 | 38 | 6 years ago | [OpenTLD](https://github.com/zk00006/OpenTLD)/9 | OpenTLD is an open source library for real-time 2D tracking of a single object in video. This repository is no longer under development. For latest version see: http://www.tldvision.com/tld2.html |
+| 9695 | 1429 | 30 | 3 years ago | [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)/1 | Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511  |
+| 4881 | 1978 | 0 | 9 months ago | [PRMLT](https://github.com/PRML/PRMLT)/2 | Matlab code for machine learning algorithms in book PRML |
+| 4854 | 1552 | 233 | 2 months ago | [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)/3 | OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation. |
+| 3553 | 2266 | 83 | 5 years ago | [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox)/4 | Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started. |
+| 2625 | 741 | 2 | 2 months ago | [Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN)/5 | A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 |
+| 2506 | 988 | 45 | 3 years ago | [MTCNN_face_detection_alignment](https://github.com/kpzhang93/MTCNN_face_detection_alignment)/6 | Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks |
+| 2390 | 1204 | 139 | 2 years ago | [faster_rcnn](https://github.com/ShaoqingRen/faster_rcnn)/7 | Faster R-CNN |
+| 2098 | 942 | 55 | 3 years ago | [rcnn](https://github.com/rbgirshick/rcnn)/8 | R-CNN: Regions with Convolutional Neural Network Features |
+| 2072 | 1303 | 38 | 6 years ago | [OpenTLD](https://github.com/zk00006/OpenTLD)/9 | OpenTLD is an open source library for real-time 2D tracking of a single object in video. This repository is no longer under development. For latest version see: http://www.tldvision.com/tld2.html |
 | 1956 | 430 | 15 | 2 years ago | [eviltransform](https://github.com/googollee/eviltransform)/10 | Transport coordinate between earth(WGS-84) and mars in china(GCJ-02). |
-| 1398 | 398 | 11 | 2 years ago | [CAM](https://github.com/zhoubolei/CAM)/11 | Class Activation Mapping |
-| 1383 | 181 | 0 | 6 months ago | [Coding-Guide](https://github.com/ecmadao/Coding-Guide)/12 | 自己随手记录的东西 |
-| 1321 | 476 | 48 | 1 year, 16 days ago | [crfasrnn](https://github.com/torrvision/crfasrnn)/13 | This repository contains the source code for the semantic image segmentation method described in the ICCV 2015 paper: Conditional Random Fields as Recurrent Neural Networks. http://crfasrnn.torr.vision/ |
+| 1403 | 401 | 12 | 2 years ago | [CAM](https://github.com/zhoubolei/CAM)/11 | Class Activation Mapping |
+| 1382 | 181 | 0 | 6 months ago | [Coding-Guide](https://github.com/ecmadao/Coding-Guide)/12 | 自己随手记录的东西 |
+| 1323 | 475 | 47 | 1 year, 23 days ago | [crfasrnn](https://github.com/torrvision/crfasrnn)/13 | This repository contains the source code for the semantic image segmentation method described in the ICCV 2015 paper: Conditional Random Fields as Recurrent Neural Networks. http://crfasrnn.torr.vision/ |
 | 1211 | 548 | 30 | 3 years ago | [R-FCN](https://github.com/daijifeng001/R-FCN)/14 | R-FCN: Object Detection via Region-based Fully Convolutional Networks |
-| 1089 | 946 | 6 | 6 years ago | [machine-learning-coursera-1](https://github.com/Borye/machine-learning-coursera-1)/15 | This repo is specially created for all the work done my me as a part of Coursera's Machine Learning Course. |
-| 1072 | 313 | 6 | 8 months ago | [tiny](https://github.com/peiyunh/tiny)/16 | Tiny Face Detector, CVPR 2017 |
-| 1018 | 249 | 229 | 3 months ago | [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)/17 | This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX. |
-| 957 | 305 | 1 | 1 year, 10 months ago | [omniglot](https://github.com/brendenlake/omniglot)/18 | Omniglot data set for one-shot learning |
-| 933 | 313 | 0 | 4 years ago | [BPL](https://github.com/brendenlake/BPL)/19 | Bayesian Program Learning model for one-shot learning |
-| 894 | 305 | 49 | 6 days ago | [export_fig](https://github.com/altmany/export_fig)/20 | A MATLAB toolbox for exporting publication quality figures |
-| 875 | 428 | 23 | 3 months ago | [DnCNN](https://github.com/cszn/DnCNN)/21 | Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017) |
-| 859 | 383 | 1 | 10 months ago | [Algorithms_MathModels](https://github.com/HuangCongQing/Algorithms_MathModels)/22 | 【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理） |
+| 1089 | 947 | 6 | 6 years ago | [machine-learning-coursera-1](https://github.com/Borye/machine-learning-coursera-1)/15 | This repo is specially created for all the work done my me as a part of Coursera's Machine Learning Course. |
+| 1074 | 313 | 6 | 9 months ago | [tiny](https://github.com/peiyunh/tiny)/16 | Tiny Face Detector, CVPR 2017 |
+| 1022 | 250 | 229 | 4 months ago | [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)/17 | This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX. |
+| 961 | 305 | 1 | 1 year, 10 months ago | [omniglot](https://github.com/brendenlake/omniglot)/18 | Omniglot data set for one-shot learning |
+| 935 | 313 | 0 | 4 years ago | [BPL](https://github.com/brendenlake/BPL)/19 | Bayesian Program Learning model for one-shot learning |
+| 897 | 310 | 49 | 13 days ago | [export_fig](https://github.com/altmany/export_fig)/20 | A MATLAB toolbox for exporting publication quality figures |
+| 877 | 432 | 24 | 3 months ago | [DnCNN](https://github.com/cszn/DnCNN)/21 | Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP, 2017) |
+| 861 | 385 | 1 | 2 days ago | [Algorithms_MathModels](https://github.com/HuangCongQing/Algorithms_MathModels)/22 | 【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理） |
 | 763 | 496 | 39 | 2 years ago | [toolbox](https://github.com/pdollar/toolbox)/23 | Piotr's Image & Video Matlab Toolbox |
-| 758 | 105 | 4 | 1 year, 10 months ago | [convnet-burden](https://github.com/albanie/convnet-burden)/24 | Memory consumption and FLOP count estimates for convnets |
-| 757 | 478 | 12 | 4 years ago | [Octave](https://github.com/schneems/Octave)/25 | my octave exercises for 2011 stanford machine learning class, posted after the due date of course |
-| 715 | 348 | 17 | 4 years ago | [edges](https://github.com/pdollar/edges)/26 | Structured Edge Detection Toolbox |
-| 713 | 602 | 4 | 4 months ago | [Coursera-Machine-Learning-Stanford](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford)/27 | Machine learning-Stanford University |
+| 760 | 480 | 12 | 4 years ago | [Octave](https://github.com/schneems/Octave)/24 | my octave exercises for 2011 stanford machine learning class, posted after the due date of course |
+| 760 | 105 | 4 | 1 year, 11 months ago | [convnet-burden](https://github.com/albanie/convnet-burden)/25 | Memory consumption and FLOP count estimates for convnets |
+| 717 | 349 | 17 | 4 years ago | [edges](https://github.com/pdollar/edges)/26 | Structured Edge Detection Toolbox |
+| 717 | 603 | 4 | 4 months ago | [Coursera-Machine-Learning-Stanford](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford)/27 | Machine learning-Stanford University |
 | 711 | 339 | 2 | 3 years ago | [face_verification_experiment](https://github.com/AlfredXiangWu/face_verification_experiment)/28 | Original Caffe Version for LightCNN-9. Highly recommend to use PyTorch Version (https://github.com/AlfredXiangWu/LightCNN)  |
-| 708 | 328 | 1 | 1 year, 3 months ago | [activityrecognition](https://github.com/jindongwang/activityrecognition)/29 | Resources about activity recognition-行为识别资料 |
-| 651 | 191 | 11 | 3 months ago | [matlab-schemer](https://github.com/scottclowe/matlab-schemer)/30 | Apply and save color schemes in MATLAB with ease. |
-| 646 | 346 | 19 | 3 years ago | [Gait-Tracking-With-x-IMU](https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU)/31 | None |
-| 617 | 193 | 0 | 5 months ago | [machine-learning-octave](https://github.com/trekhleb/machine-learning-octave)/32 | 🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained |
-| 608 | 326 | 2 | 7 months ago | [lrslibrary](https://github.com/andrewssobral/lrslibrary)/33 | Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos |
-| 598 | 186 | 29 | 1 year, 10 months ago | [VAD](https://github.com/jtkim-kaist/VAD)/34 | Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly recorded dataset. |
-| 596 | 233 | 1 | 1 year, 5 months ago | [CNN-for-Image-Retrieval](https://github.com/willard-yuan/CNN-for-Image-Retrieval)/35 | :sunrise:The code of post "Image retrieval using MatconvNet and pre-trained imageNet" |
-| 579 | 229 | 33 | 1 year, 7 months ago | [siamese-fc](https://github.com/bertinetto/siamese-fc)/36 | Arbitrary object tracking at 50-100 FPS with Fully Convolutional Siamese networks. |
-| 577 | 301 | 32 | 2 years ago | [mexopencv](https://github.com/kyamagu/mexopencv)/37 | Collection and a development kit of matlab mex functions for OpenCV library |
+| 709 | 328 | 1 | 1 year, 4 months ago | [activityrecognition](https://github.com/jindongwang/activityrecognition)/29 | Resources about activity recognition-行为识别资料 |
+| 655 | 191 | 11 | 4 months ago | [matlab-schemer](https://github.com/scottclowe/matlab-schemer)/30 | Apply and save color schemes in MATLAB with ease. |
+| 647 | 346 | 19 | 3 years ago | [Gait-Tracking-With-x-IMU](https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU)/31 | None |
+| 619 | 194 | 0 | 5 months ago | [machine-learning-octave](https://github.com/trekhleb/machine-learning-octave)/32 | 🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained |
+| 609 | 327 | 2 | 7 months ago | [lrslibrary](https://github.com/andrewssobral/lrslibrary)/33 | Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos |
+| 599 | 187 | 29 | 1 year, 10 months ago | [VAD](https://github.com/jtkim-kaist/VAD)/34 | Voice activity detection (VAD) toolkit including DNN, bDNN, LSTM and ACAM based VAD. We also provide our directly recorded dataset. |
+| 595 | 233 | 1 | 1 year, 5 months ago | [CNN-for-Image-Retrieval](https://github.com/willard-yuan/CNN-for-Image-Retrieval)/35 | :sunrise:The code of post "Image retrieval using MatconvNet and pre-trained imageNet" |
+| 580 | 229 | 33 | 1 year, 7 months ago | [siamese-fc](https://github.com/bertinetto/siamese-fc)/36 | Arbitrary object tracking at 50-100 FPS with Fully Convolutional Siamese networks. |
+| 577 | 302 | 32 | 2 years ago | [mexopencv](https://github.com/kyamagu/mexopencv)/37 | Collection and a development kit of matlab mex functions for OpenCV library |
 | 564 | 195 | 24 | 1 year, 3 months ago | [ICNet](https://github.com/hszhao/ICNet)/38 | ICNet for Real-Time Semantic Segmentation on High-Resolution Images, ECCV2018 |
-| 558 | 125 | 0 | 7 months ago | [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)/39 | Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind. |
+| 559 | 126 | 0 | 7 months ago | [Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)/39 | Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind. |
 | 556 | 316 | 18 | 3 years ago | [voc-dpm](https://github.com/rbgirshick/voc-dpm)/40 | Object detection system using deformable part models (DPMs) and latent SVM (voc-release5). You may want to use the latest tarball on my website. The github code may include code changes that have not been tested as thoroughly and will not necessarily reproduce the results on the website. |
-| 553 | 296 | 60 | 2 months ago | [robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab)/41 | Robotics Toolbox for MATLAB |
-| 533 | 156 | 0 | 1 year, 6 months ago | [refinenet](https://github.com/guosheng/refinenet)/42 |  RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation |
-| 523 | 233 | 12 | 1 year, 1 month ago | [ECO](https://github.com/martin-danelljan/ECO)/43 | Matlab implementation of the ECO tracker. |
-| 513 | 108 | 20 | 2 years ago | [Detect-Track](https://github.com/feichtenhofer/Detect-Track)/44 | Code release for "Detect to Track and Track to Detect", ICCV 2017 |
-| 510 | 364 | 1 | 8 years ago | [Stanford-Machine-Learning-Course](https://github.com/zhouxc/Stanford-Machine-Learning-Course)/45 | machine learning course programming exercise |
-| 508 | 243 | 4 | 1 year, 5 months ago | [hashing-baseline-for-image-retrieval](https://github.com/willard-yuan/hashing-baseline-for-image-retrieval)/46 | :octocat:Various hashing methods for image retrieval and serves as the baselines |
-| 508 | 155 | 25 | 2 years ago | [gramm](https://github.com/piermorel/gramm)/47 | Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library. |
-| 494 | 153 | 24 | 2 years ago | [cfnet](https://github.com/bertinetto/cfnet)/48 | [CVPR'17] Training a Correlation Filter end-to-end allows lightweight networks of 2 layers (600 kB) to high performance at fast speed.. |
-| 486 | 139 | 1 | 5 months ago | [MCM-ICM](https://github.com/dick20/MCM-ICM)/49 | 2004-2020美赛O奖论文 |
+| 556 | 296 | 60 | 2 months ago | [robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab)/41 | Robotics Toolbox for MATLAB |
+| 534 | 156 | 0 | 1 year, 6 months ago | [refinenet](https://github.com/guosheng/refinenet)/42 |  RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation |
+| 524 | 232 | 12 | 1 year, 1 month ago | [ECO](https://github.com/martin-danelljan/ECO)/43 | Matlab implementation of the ECO tracker. |
+| 514 | 108 | 20 | 2 years ago | [Detect-Track](https://github.com/feichtenhofer/Detect-Track)/44 | Code release for "Detect to Track and Track to Detect", ICCV 2017 |
+| 511 | 146 | 1 | 5 months ago | [MCM-ICM](https://github.com/dick20/MCM-ICM)/45 | 2004-2020美赛O奖论文 |
+| 510 | 365 | 1 | 9 years ago | [Stanford-Machine-Learning-Course](https://github.com/zhouxc/Stanford-Machine-Learning-Course)/46 | machine learning course programming exercise |
+| 510 | 156 | 25 | 2 years ago | [gramm](https://github.com/piermorel/gramm)/47 | Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library. |
+| 507 | 243 | 4 | 1 year, 5 months ago | [hashing-baseline-for-image-retrieval](https://github.com/willard-yuan/hashing-baseline-for-image-retrieval)/48 | :octocat:Various hashing methods for image retrieval and serves as the baselines |
+| 494 | 153 | 24 | 2 years ago | [cfnet](https://github.com/bertinetto/cfnet)/49 | [CVPR'17] Training a Correlation Filter end-to-end allows lightweight networks of 2 layers (600 kB) to high performance at fast speed.. |
 | 483 | 136 | 1 | 2 years ago | [SFD](https://github.com/sfzhang15/SFD)/50 | S³FD: Single Shot Scale-invariant Face Detector, ICCV, 2017 |
 | 459 | 245 | 5 | 4 years ago | [SelfExSR](https://github.com/jbhuang0604/SelfExSR)/51 | Single Image Super-Resolution from Transformed Self-Exemplars (CVPR 2015) |
-| 453 | 157 | 11 | 18 days ago | [IRCNN](https://github.com/cszn/IRCNN)/52 | Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab) |
-| 448 | 471 | 69 | a day ago | [fieldtrip](https://github.com/fieldtrip/fieldtrip)/53 | The MATLAB toolbox for MEG, EEG and iEEG analysis |
-| 437 | 129 | 6 | 2 years ago | [AMSoftmax](https://github.com/happynear/AMSoftmax)/54 | A simple yet effective loss function for face verification. |
+| 455 | 159 | 11 | 25 days ago | [IRCNN](https://github.com/cszn/IRCNN)/52 | Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab) |
+| 451 | 471 | 69 | 21 hours ago | [fieldtrip](https://github.com/fieldtrip/fieldtrip)/53 | The MATLAB toolbox for MEG, EEG and iEEG analysis |
+| 439 | 129 | 6 | 2 years ago | [AMSoftmax](https://github.com/happynear/AMSoftmax)/54 | A simple yet effective loss function for face verification. |
 | 435 | 238 | 55 | 2 years ago | [FaceVerification](https://github.com/happynear/FaceVerification)/55 | An Experimental Implementation of Face Verification, 96.8% on LFW. |
-| 429 | 51 | 0 | 3 months ago | [Image_Harmonization_Datasets](https://github.com/bcmi/Image_Harmonization_Datasets)/56 | Benchmark datasets and code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for Image harmonization, image composition/compositing, etc. |
-| 424 | 94 | 1 | 9 months ago | [vgg_face2](https://github.com/ox-vgg/vgg_face2)/57 | None |
-| 416 | 113 | 0 | 1 year, 9 days ago | [BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie)/58 | Betting Strategy to Beat the Bookies at Football Games |
-| 416 | 104 | 5 | 1 year, 9 months ago | [fashion-detection](https://github.com/liuziwei7/fashion-detection)/59 | Fashion Detection in the Wild (Deep Clothes Detector) |
-| 408 | 160 | 23 | 7 years ago | [exemplarsvm](https://github.com/quantombone/exemplarsvm)/60 | Ensemble of Exemplar-SVMs for Object Detection and Beyond |
-| 404 | 176 | 0 | 3 months ago | [Mathematics](https://github.com/Ewenwan/Mathematics)/61 | 数学知识点滴积累  矩阵 数值优化 神经网络反向传播 图优化 概率论 随机过程 卡尔曼滤波 粒子滤波 数学函数拟合 |
-| 394 | 212 | 15 | 12 days ago | [PlatEMO](https://github.com/BIMK/PlatEMO)/62 | Evolutionary multi-objective optimization platform |
-| 385 | 110 | 4 | 3 years ago | [LapSRN](https://github.com/phoenix104104/LapSRN)/63 | Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution (CVPR 2017) |
+| 432 | 51 | 0 | 6 days ago | [Image_Harmonization_Datasets](https://github.com/bcmi/Image_Harmonization_Datasets)/56 | Benchmark datasets and code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for Image harmonization, image composition/compositing, etc. |
+| 426 | 94 | 2 | 10 months ago | [vgg_face2](https://github.com/ox-vgg/vgg_face2)/57 | None |
+| 417 | 104 | 5 | 1 year, 9 months ago | [fashion-detection](https://github.com/liuziwei7/fashion-detection)/58 | Fashion Detection in the Wild (Deep Clothes Detector) |
+| 416 | 115 | 0 | 1 year, 16 days ago | [BeatTheBookie](https://github.com/Lisandro79/BeatTheBookie)/59 | Betting Strategy to Beat the Bookies at Football Games |
+| 408 | 159 | 23 | 7 years ago | [exemplarsvm](https://github.com/quantombone/exemplarsvm)/60 | Ensemble of Exemplar-SVMs for Object Detection and Beyond |
+| 406 | 175 | 0 | 3 months ago | [Mathematics](https://github.com/Ewenwan/Mathematics)/61 | 数学知识点滴积累  矩阵 数值优化 神经网络反向传播 图优化 概率论 随机过程 卡尔曼滤波 粒子滤波 数学函数拟合 |
+| 400 | 212 | 15 | 19 days ago | [PlatEMO](https://github.com/BIMK/PlatEMO)/62 | Evolutionary multi-objective optimization platform |
+| 387 | 110 | 4 | 3 years ago | [LapSRN](https://github.com/phoenix104104/LapSRN)/63 | Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution (CVPR 2017) |
 | 383 | 164 | 18 | 3 years ago | [MDP_Tracking](https://github.com/yuxng/MDP_Tracking)/64 | Learning to Track: Online Multi-Object Tracking by Decision Making |
-| 381 | 364 | 9 | 3 years ago | [ml-class-assignments](https://github.com/everpeace/ml-class-assignments)/65 | Programming Exercises on http://ml-class.org |
-| 380 | 101 | 24 | 6 months ago | [2DASL](https://github.com/XgTu/2DASL)/66 | The code (pytorch for testing & matlab for 3D plot and evaluation) for our project: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning （2DASL） |
-| 379 | 177 | 7 | 2 months ago | [hctsa](https://github.com/benfulcher/hctsa)/67 | Highly comparative time-series analysis |
-| 375 | 85 | 7 | 8 days ago | [ModelsGenesis](https://github.com/MrGiovanni/ModelsGenesis)/68 | Official Keras & PyTorch Implementation and Pre-trained Models for Models Genesis - MICCAI 2019 |
-| 367 | 124 | 39 | 14 days ago | [gptoolbox](https://github.com/alecjacobson/gptoolbox)/69 | Matlab toolbox for Geometry Processing. |
-| 365 | 335 | 8 | 4 years ago | [machine-learning-programming-assignments-coursera-andrew-ng](https://github.com/AvaisP/machine-learning-programming-assignments-coursera-andrew-ng)/70 | Solutions to Andrew NG's machine learning course on Coursera |
-| 364 | 101 | 148 | 14 days ago | [chebfun](https://github.com/chebfun/chebfun)/71 | Chebfun:  numerical computing with functions. |
-| 363 | 100 | 0 | 3 years ago | [netvlad](https://github.com/Relja/netvlad)/72 | NetVLAD: CNN architecture for weakly supervised place recognition |
+| 382 | 180 | 7 | 2 days ago | [hctsa](https://github.com/benfulcher/hctsa)/65 | Highly comparative time-series analysis |
+| 381 | 101 | 24 | 6 months ago | [2DASL](https://github.com/XgTu/2DASL)/66 | The code (pytorch for testing & matlab for 3D plot and evaluation) for our project: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning （2DASL） |
+| 381 | 365 | 9 | 3 years ago | [ml-class-assignments](https://github.com/everpeace/ml-class-assignments)/67 | Programming Exercises on http://ml-class.org |
+| 376 | 85 | 7 | 5 days ago | [ModelsGenesis](https://github.com/MrGiovanni/ModelsGenesis)/68 | Official Keras & PyTorch Implementation and Pre-trained Models for Models Genesis - MICCAI 2019 |
+| 369 | 336 | 8 | 4 years ago | [machine-learning-programming-assignments-coursera-andrew-ng](https://github.com/AvaisP/machine-learning-programming-assignments-coursera-andrew-ng)/69 | Solutions to Andrew NG's machine learning course on Coursera |
+| 369 | 124 | 39 | 21 days ago | [gptoolbox](https://github.com/alecjacobson/gptoolbox)/70 | Matlab toolbox for Geometry Processing. |
+| 366 | 101 | 148 | 21 days ago | [chebfun](https://github.com/chebfun/chebfun)/71 | Chebfun:  numerical computing with functions. |
+| 364 | 102 | 0 | 3 years ago | [netvlad](https://github.com/Relja/netvlad)/72 | NetVLAD: CNN architecture for weakly supervised place recognition |
 | 359 | 107 | 5 | 3 years ago | [NormFace](https://github.com/happynear/NormFace)/73 | NormFace: L2 HyperSphere Embedding for Face Verification, 99.21% on LFW |
-| 354 | 165 | 12 | 3 months ago | [IMUCalibration-Gesture](https://github.com/shenshikexmu/IMUCalibration-Gesture)/74 | calibration for Imu and show gesture |
-| 354 | 173 | 20 | a month ago | [vot-toolkit](https://github.com/votchallenge/vot-toolkit)/75 | Visual Object Tracking (VOT) challenge evaluation toolkit |
-| 352 | 236 | 19 | 4 years ago | [SPP_net](https://github.com/ShaoqingRen/SPP_net)/76 | SPP_net : Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition |
-| 351 | 123 | 11 | 10 months ago | [NTURGB-D](https://github.com/shahroudy/NTURGB-D)/77 | Info and sample codes for "NTU RGB+D Action Recognition Dataset" |
-| 350 | 102 | 2 | 1 year, 6 months ago | [clothing-co-parsing](https://github.com/bearpaw/clothing-co-parsing)/78 | CCP dataset from "Clothing Co-Parsing by Joint Image Segmentation and Labeling " (CVPR 2014) |
-| 350 | 221 | 66 | 1 year, 2 months ago | [bnt](https://github.com/bayesnet/bnt)/79 | Bayes Net Toolbox for Matlab |
+| 355 | 165 | 12 | 4 months ago | [IMUCalibration-Gesture](https://github.com/shenshikexmu/IMUCalibration-Gesture)/74 | calibration for Imu and show gesture |
+| 355 | 173 | 20 | a month ago | [vot-toolkit](https://github.com/votchallenge/vot-toolkit)/75 | Visual Object Tracking (VOT) challenge evaluation toolkit |
+| 353 | 123 | 11 | 10 months ago | [NTURGB-D](https://github.com/shahroudy/NTURGB-D)/76 | Info and sample codes for "NTU RGB+D Action Recognition Dataset" |
+| 352 | 236 | 19 | 4 years ago | [SPP_net](https://github.com/ShaoqingRen/SPP_net)/77 | SPP_net : Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition |
+| 350 | 102 | 2 | 1 year, 7 months ago | [clothing-co-parsing](https://github.com/bearpaw/clothing-co-parsing)/78 | CCP dataset from "Clothing Co-Parsing by Joint Image Segmentation and Labeling " (CVPR 2014) |
+| 350 | 221 | 66 | 1 year, 3 months ago | [bnt](https://github.com/bayesnet/bnt)/79 | Bayes Net Toolbox for Matlab |
 | 335 | 147 | 29 | a month ago | [rcnn-depth](https://github.com/s-gupta/rcnn-depth)/80 | Learning Rich Features from RGB-D Images for Object Detection and Segmentation |
-| 330 | 137 | 0 | 2 years ago | [cs229](https://github.com/econti/cs229)/81 | Stanford CS229 (Autumn 2017) |
-| 326 | 128 | 1 | 2 years ago | [deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation)/82 | Deep Recurrent Neural Networks for Source Separation |
-| 325 | 84 | 25 | 1 year, 2 months ago | [LayoutNet](https://github.com/zouchuhang/LayoutNet)/83 | Torch implementation for CVPR 18 paper: "LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image" |
-| 326 | 166 | 6 | 1 year, 10 months ago | [kalibr_allan](https://github.com/rpng/kalibr_allan)/84 | IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters. |
-| 320 | 195 | 31 | 3 years ago | [face-alignment](https://github.com/jwyang/face-alignment)/85 | Face alignment in 3000 FPS |
-| 320 | 100 | 6 | 3 years ago | [fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)/86 | Fashion Landmark Detection in the Wild |
-| 319 | 269 | 6 | 9 years ago | [ml-class](https://github.com/merwan/ml-class)/87 | Machine learning programming exercises |
-| 319 | 71 | 17 | 3 months ago | [SRMD](https://github.com/cszn/SRMD)/88 | Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab) |
-| 318 | 219 | 2 | 2 years ago | [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics)/89 | MATLAB sample codes for mobile robot navigation |
-| 316 | 150 | 10 | 5 years ago | [DeconvNet](https://github.com/HyeonwooNoh/DeconvNet)/90 | DeconvNet : Learning Deconvolution Network for Semantic Segmentation |
-| 315 | 119 | 10 | 2 years ago | [FaceDatasets](https://github.com/happynear/FaceDatasets)/91 | Some scripts to process face datasets. |
+| 330 | 138 | 0 | 2 years ago | [cs229](https://github.com/econti/cs229)/81 | Stanford CS229 (Autumn 2017) |
+| 328 | 129 | 1 | 2 years ago | [deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation)/82 | Deep Recurrent Neural Networks for Source Separation |
+| 328 | 84 | 25 | 1 year, 2 months ago | [LayoutNet](https://github.com/zouchuhang/LayoutNet)/83 | Torch implementation for CVPR 18 paper: "LayoutNet: Reconstructing the 3D Room Layout from a Single RGB Image" |
+| 325 | 72 | 18 | 3 months ago | [SRMD](https://github.com/cszn/SRMD)/84 | Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab) |
+| 326 | 166 | 6 | 1 year, 10 months ago | [kalibr_allan](https://github.com/rpng/kalibr_allan)/85 | IMU Allan standard deviation charts for use with Kalibr and inertial kalman filters. |
+| 320 | 195 | 31 | 3 years ago | [face-alignment](https://github.com/jwyang/face-alignment)/86 | Face alignment in 3000 FPS |
+| 320 | 100 | 6 | 3 years ago | [fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)/87 | Fashion Landmark Detection in the Wild |
+| 319 | 269 | 6 | 9 years ago | [ml-class](https://github.com/merwan/ml-class)/88 | Machine learning programming exercises |
+| 319 | 220 | 2 | 2 years ago | [MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics)/89 | MATLAB sample codes for mobile robot navigation |
+| 317 | 150 | 10 | 5 years ago | [DeconvNet](https://github.com/HyeonwooNoh/DeconvNet)/90 | DeconvNet : Learning Deconvolution Network for Semantic Segmentation |
+| 315 | 109 | 2 | 2 years ago | [OpenCE](https://github.com/baidut/OpenCE)/91 | Contrast Enhancement Techniques for low-light images  |
 | 314 | 189 | 2 | 2 years ago | [MatlabFunc](https://github.com/ZJULearning/MatlabFunc)/92 | Matlab codes for feature learning |
-| 312 | 108 | 2 | 2 years ago | [OpenCE](https://github.com/baidut/OpenCE)/93 | Contrast Enhancement Techniques for low-light images  |
-| 311 | 100 | 33 | 1 year, 9 months ago | [RankIQA](https://github.com/xialeiliu/RankIQA)/94 | The rep for the RankIQA paper in ICCV 2017  |
-| 305 | 163 | 8 | 3 months ago | [quadrotor](https://github.com/yrlu/quadrotor)/95 | Quadrotor control, path planning and trajectory optimization |
-| 302 | 120 | 3 | 1 year, 3 months ago | [Deep-Metric-Learning-CVPR16](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16)/96 | Main repository for Deep Metric Learning via Lifted Structured Feature Embedding |
-| 295 | 71 | 7 | 1 year, 1 month ago | [toflow](https://github.com/anchen1011/toflow)/97 | TOFlow: Video Enhancement with Task-Oriented Flow |
-| 291 | 52 | 0 | 2 months ago | [VeRidataset](https://github.com/JDAI-CV/VeRidataset)/98 | This is the project page for veri dataset which is a large scale image dataset for vehicle re-identification in urban traffic surveillance. |
-| 281 | 121 | 12 | 1 year, 11 months ago | [mvcnn](https://github.com/suhangpro/mvcnn)/99 | Multi-view CNN (MVCNN) for shape recognition |
-| 280 | 423 | 3 | 5 years ago | [coursera-machine-learning](https://github.com/vugsus/coursera-machine-learning)/100 | Coursera's Machine Learning by Andrew Ng |
-| 279 | 83 | 1 | 25 days ago | [DeepXi](https://github.com/anicolson/DeepXi)/101 | Deep Xi: A deep learning approach to a priori SNR estimation implemented in TensorFlow 2/Keras. For speech enhancement and robust ASR. |
+| 314 | 119 | 10 | 2 years ago | [FaceDatasets](https://github.com/happynear/FaceDatasets)/93 | Some scripts to process face datasets. |
+| 312 | 100 | 33 | 1 year, 10 months ago | [RankIQA](https://github.com/xialeiliu/RankIQA)/94 | The rep for the RankIQA paper in ICCV 2017  |
+| 306 | 164 | 8 | 3 months ago | [quadrotor](https://github.com/yrlu/quadrotor)/95 | Quadrotor control, path planning and trajectory optimization |
+| 303 | 120 | 3 | 1 year, 3 months ago | [Deep-Metric-Learning-CVPR16](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16)/96 | Main repository for Deep Metric Learning via Lifted Structured Feature Embedding |
+| 297 | 72 | 7 | 1 year, 1 month ago | [toflow](https://github.com/anchen1011/toflow)/97 | TOFlow: Video Enhancement with Task-Oriented Flow |
+| 291 | 53 | 0 | 3 months ago | [VeRidataset](https://github.com/JDAI-CV/VeRidataset)/98 | This is the project page for veri dataset which is a large scale image dataset for vehicle re-identification in urban traffic surveillance. |
+| 282 | 83 | 1 | a month ago | [DeepXi](https://github.com/anicolson/DeepXi)/99 | Deep Xi: A deep learning approach to a priori SNR estimation implemented in TensorFlow 2/Keras. For speech enhancement and robust ASR. |
+| 281 | 121 | 12 | 1 year, 11 months ago | [mvcnn](https://github.com/suhangpro/mvcnn)/100 | Multi-view CNN (MVCNN) for shape recognition |
+| 280 | 422 | 3 | 5 years ago | [coursera-machine-learning](https://github.com/vugsus/coursera-machine-learning)/101 | Coursera's Machine Learning by Andrew Ng |
 | 278 | 104 | 3 | 2 years ago | [BTCpredictor](https://github.com/panditanvita/BTCpredictor)/102 | Bitcoin price prediction algorithm using bayesian regression techniques |
-| 272 | 132 | 2 | 12 days ago | [NaveGo](https://github.com/rodralez/NaveGo)/103 | NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis. |
+| 276 | 134 | 3 | 5 days ago | [NaveGo](https://github.com/rodralez/NaveGo)/103 | NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis. |
 | 270 | 131 | 2 | 3 years ago | [caffe-vdsr](https://github.com/huangzehao/caffe-vdsr)/104 | A Caffe-based implementation of very deep convolution network for image super-resolution |
-| 266 | 103 | 0 | 5 years ago | [gyrophone](https://github.com/yueyuzhao/gyrophone)/105 | mirror repo cloned from bitbucket |
-| 266 | 128 | 7 | 3 years ago | [feature-extraction](https://github.com/adikhosla/feature-extraction)/106 | Computer vision feature extraction toolbox for image classification |
-| 266 | 63 | 16 | 1 year, 10 months ago | [VGGVox](https://github.com/a-nagrani/VGGVox)/107 | VGGVox models for Speaker Identification and Verification trained on the VoxCeleb (1 & 2) datasets  |
-| 264 | 100 | 16 | 11 months ago | [FFDNet](https://github.com/cszn/FFDNet)/108 | FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising (TIP, 2018)  |
-| 263 | 127 | 0 | 2 years ago | [AndrewNgMachineLearning](https://github.com/xjwhhh/AndrewNgMachineLearning)/109 | None |
-| 262 | 95 | 2 | 1 year, 3 months ago | [realtime-action-detection](https://github.com/gurkirt/realtime-action-detection)/110 | This repository  host the code for real-time action detection paper  |
-| 259 | 97 | 4 | 8 months ago | [openRobotics](https://github.com/wuhaoran996/openRobotics)/111 | Sharing the joy of robot programming in the spirit of open source |
-| 257 | 45 | 8 | a month ago | [RealSR](https://github.com/csjcai/RealSR)/112 | Toward Real-World Single Image Super-Resolution: A New Benchmark and A New Model (ICCV 2019) |
-| 257 | 40 | 4 | 2 years ago | [SIMS](https://github.com/xjqicuhk/SIMS)/113 | Semi-parametric Image Synthesis |
-| 256 | 59 | 4 | 8 months ago | [Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)/114 | Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-date with image class and object level annotations. |
+| 269 | 63 | 16 | 1 year, 10 months ago | [VGGVox](https://github.com/a-nagrani/VGGVox)/105 | VGGVox models for Speaker Identification and Verification trained on the VoxCeleb (1 & 2) datasets  |
+| 266 | 104 | 0 | 5 years ago | [gyrophone](https://github.com/yueyuzhao/gyrophone)/106 | mirror repo cloned from bitbucket |
+| 266 | 128 | 7 | 3 years ago | [feature-extraction](https://github.com/adikhosla/feature-extraction)/107 | Computer vision feature extraction toolbox for image classification |
+| 265 | 100 | 16 | 1 year, 5 days ago | [FFDNet](https://github.com/cszn/FFDNet)/108 | FFDNet: Toward a Fast and Flexible Solution for CNN based Image Denoising (TIP, 2018)  |
+| 264 | 126 | 0 | 2 years ago | [AndrewNgMachineLearning](https://github.com/xjwhhh/AndrewNgMachineLearning)/109 | None |
+| 263 | 95 | 2 | 1 year, 3 months ago | [realtime-action-detection](https://github.com/gurkirt/realtime-action-detection)/110 | This repository  host the code for real-time action detection paper  |
+| 260 | 98 | 4 | 8 months ago | [openRobotics](https://github.com/wuhaoran996/openRobotics)/111 | Sharing the joy of robot programming in the spirit of open source |
+| 258 | 45 | 8 | a month ago | [RealSR](https://github.com/csjcai/RealSR)/112 | Toward Real-World Single Image Super-Resolution: A New Benchmark and A New Model (ICCV 2019) |
+| 257 | 59 | 4 | 9 months ago | [Exclusively-Dark-Image-Dataset](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)/113 | Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images taken in very low-light environments to twilight (i.e 10 different conditions) to-date with image class and object level annotations. |
+| 257 | 40 | 4 | 2 years ago | [SIMS](https://github.com/xjqicuhk/SIMS)/114 | Semi-parametric Image Synthesis |
 | 256 | 138 | 5 | 3 years ago | [mcg](https://github.com/jponttuset/mcg)/115 | Multiscale Combinatorial Grouping - Object Proposals and Segmentation |
 | 252 | 106 | 3 | 2 years ago | [DeepFool](https://github.com/LTS4/DeepFool)/116 | A simple and accurate method to fool deep neural networks |
 | 250 | 77 | 16 | 1 year, 3 months ago | [JULE.torch](https://github.com/jwyang/JULE.torch)/117 | Torch code for our CVPR 2016 paper "Joint Unsupervised LEarning of Deep Representations and Image Clusters" |
-| 247 | 55 | 6 | 4 months ago | [DeepSqueak](https://github.com/DrCoffey/DeepSqueak)/118 | DeepSqueak: A Deep Learning Based System for Quantification of Ultrasonic Vocalizations |
-| 247 | 146 | 7 | 3 years ago | [HLx_Examples](https://github.com/Xilinx/HLx_Examples)/119 | Open Source HLx Examples |
-| 246 | 53 | 0 | 2 years ago | [cocostuff10k](https://github.com/nightrome/cocostuff10k)/120 | The official homepage of the (outdated) COCO-Stuff 10K dataset. |
-| 240 | 116 | 0 | 1 year, 7 months ago | [LightNet](https://github.com/yechengxi/LightNet)/121 | Efficient, transparent deep learning in hundreds of lines of code.  |
+| 249 | 146 | 7 | 3 years ago | [HLx_Examples](https://github.com/Xilinx/HLx_Examples)/118 | Open Source HLx Examples |
+| 247 | 55 | 6 | 4 months ago | [DeepSqueak](https://github.com/DrCoffey/DeepSqueak)/119 | DeepSqueak: A Deep Learning Based System for Quantification of Ultrasonic Vocalizations |
+| 247 | 53 | 0 | 2 years ago | [cocostuff10k](https://github.com/nightrome/cocostuff10k)/120 | The official homepage of the (outdated) COCO-Stuff 10K dataset. |
+| 241 | 117 | 0 | 1 year, 7 months ago | [LightNet](https://github.com/yechengxi/LightNet)/121 | Efficient, transparent deep learning in hundreds of lines of code.  |
 | 240 | 79 | 3 | 3 years ago | [RSA-for-object-detection](https://github.com/liuyuisanai/RSA-for-object-detection)/122 | Code and some data for 'Recurrent Scale Approximation for Object Detection in CNN' in ICCV 2017 |
-| 236 | 50 | 8 | 4 months ago | [SideWindowFilter](https://github.com/YuanhaoGong/SideWindowFilter)/123 | Side window is better than Full window |
-| 236 | 201 | 1 | 8 years ago | [MachineLearning](https://github.com/rieder91/MachineLearning)/124 | Exercises for the Stanford/Coursera Machine Learning Class |
-| 235 | 76 | 96 | 19 hours ago | [YALMIP](https://github.com/yalmip/YALMIP)/125 | MATLAB toolbox for optimization modeling |
+| 236 | 76 | 96 | 4 days ago | [YALMIP](https://github.com/yalmip/YALMIP)/123 | MATLAB toolbox for optimization modeling |
+| 236 | 50 | 8 | 4 months ago | [SideWindowFilter](https://github.com/YuanhaoGong/SideWindowFilter)/124 | Side window is better than Full window |
+| 236 | 201 | 1 | 8 years ago | [MachineLearning](https://github.com/rieder91/MachineLearning)/125 | Exercises for the Stanford/Coursera Machine Learning Class |
 | 233 | 141 | 55 | 10 months ago | [plotly-graphing-library-for-matlab](https://github.com/plotly/plotly-graphing-library-for-matlab)/126 | Plotly Graphing Library for MATLAB® |
-| 231 | 197 | 8 | 7 years ago | [machine-learning-coursera](https://github.com/yhyap/machine-learning-coursera)/127 | Programming assignments from Coursera's Machine Learning course taught by Andrew Ng. |
-| 230 | 150 | 11 | 1 year, 5 months ago | [Mask-RCNN](https://github.com/jasjeetIM/Mask-RCNN)/128 | Implementation of Mask-RCNN in Caffe https://arxiv.org/pdf/1703.06870.pdf |
-| 229 | 81 | 12 | 4 years ago | [RenderForCNN](https://github.com/ShapeNet/RenderForCNN)/129 | Render for CNN: Viewpoint Estimation in Images Using CNNs Trained with Rendered 3D Model Views |
-| 228 | 56 | 7 | 5 months ago | [Market-1501_Attribute](https://github.com/vana77/Market-1501_Attribute)/130 | 27 hand-annotated attributes of Market-1501 |
-| 226 | 95 | 2 | 5 years ago | [OLPS](https://github.com/OLPS/OLPS)/131 | Online Portfolio Selection toolbox |
-| 226 | 39 | 16 | 11 days ago | [MBeautifier](https://github.com/davidvarga/MBeautifier)/132 | MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable. |
-| 226 | 84 | 12 | 1 year, 9 months ago | [covarep](https://github.com/covarep/covarep)/133 | A Cooperative Voice Analysis Repository for Speech Technologies |
+| 231 | 196 | 8 | 7 years ago | [machine-learning-coursera](https://github.com/yhyap/machine-learning-coursera)/127 | Programming assignments from Coursera's Machine Learning course taught by Andrew Ng. |
+| 230 | 81 | 12 | 4 years ago | [RenderForCNN](https://github.com/ShapeNet/RenderForCNN)/128 | Render for CNN: Viewpoint Estimation in Images Using CNNs Trained with Rendered 3D Model Views |
+| 230 | 150 | 11 | 1 year, 6 months ago | [Mask-RCNN](https://github.com/jasjeetIM/Mask-RCNN)/129 | Implementation of Mask-RCNN in Caffe https://arxiv.org/pdf/1703.06870.pdf |
+| 230 | 56 | 7 | 5 months ago | [Market-1501_Attribute](https://github.com/vana77/Market-1501_Attribute)/130 | 27 hand-annotated attributes of Market-1501 |
+| 229 | 96 | 2 | 5 years ago | [OLPS](https://github.com/OLPS/OLPS)/131 | Online Portfolio Selection toolbox |
+| 229 | 85 | 12 | 1 year, 9 months ago | [covarep](https://github.com/covarep/covarep)/132 | A Cooperative Voice Analysis Repository for Speech Technologies |
+| 227 | 39 | 16 | 18 days ago | [MBeautifier](https://github.com/davidvarga/MBeautifier)/133 | MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable. |
 | 224 | 152 | 20 | 4 years ago | [flandmark](https://github.com/uricamic/flandmark)/134 | Open-source implementation of facial landmark detector |
 | 221 | 109 | 4 | 3 years ago | [staple](https://github.com/bertinetto/staple)/135 | [CVPR'16] Staple: Complementary Learners for Real-Time Tracking" |
-| 219 | 58 | 12 | 2 years ago | [dslam_open](https://github.com/uzh-rpg/dslam_open)/136 | Public code for "Data-Efficient Decentralized Visual SLAM" |
-| 218 | 110 | 22 | 2 months ago | [OptimTraj](https://github.com/MatthewPeterKelly/OptimTraj)/137 | A trajectory optimization library for Matlab |
+| 220 | 59 | 12 | 2 years ago | [dslam_open](https://github.com/uzh-rpg/dslam_open)/136 | Public code for "Data-Efficient Decentralized Visual SLAM" |
+| 219 | 110 | 23 | 2 months ago | [OptimTraj](https://github.com/MatthewPeterKelly/OptimTraj)/137 | A trajectory optimization library for Matlab |
 | 218 | 87 | 6 | 4 years ago | [TCDCN-face-alignment](https://github.com/zhzhanp/TCDCN-face-alignment)/138 | Matlab implementation of facial landmark detection by deep multi-task learning |
-| 218 | 105 | 1 | 29 days ago | [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)/139 | HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave |
-| 217 | 95 | 1 | 3 years ago | [IDE-baseline-Market-1501](https://github.com/zhunzhong07/IDE-baseline-Market-1501)/140 | ID-discriminative Embedding (IDE) for Person Re-identification |
-| 216 | 48 | 19 | 2 years ago | [deepImageAestheticsAnalysis](https://github.com/aimerykong/deepImageAestheticsAnalysis)/141 | analyzing photo aesthetics and explaining through photographic attributes. |
-| 215 | 122 | 2 | 1 year, 11 months ago | [slamtb](https://github.com/joansola/slamtb)/142 | SLAM Toolbox |
-| 215 | 69 | 10 | a month ago | [Image-Text-Embedding](https://github.com/layumi/Image-Text-Embedding)/143 | TOMM2020 Dual-Path Convolutional Image-Text Embedding    https://arxiv.org/abs/1711.05535 |
-| 214 | 33 | 4 | 7 months ago | [pix2vertex](https://github.com/matansel/pix2vertex)/144 | Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation |
-| 214 | 87 | 6 | 2 years ago | [DRRN_CVPR17](https://github.com/tyshiwo/DRRN_CVPR17)/145 | Code for our CVPR'17 paper "Image Super-Resolution via Deep Recursive Residual Network" |
+| 218 | 105 | 1 | a month ago | [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox)/139 | HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave |
+| 218 | 95 | 1 | 3 years ago | [IDE-baseline-Market-1501](https://github.com/zhunzhong07/IDE-baseline-Market-1501)/140 | ID-discriminative Embedding (IDE) for Person Re-identification |
+| 217 | 48 | 19 | 2 years ago | [deepImageAestheticsAnalysis](https://github.com/aimerykong/deepImageAestheticsAnalysis)/141 | analyzing photo aesthetics and explaining through photographic attributes. |
+| 216 | 68 | 10 | 2 months ago | [Image-Text-Embedding](https://github.com/layumi/Image-Text-Embedding)/142 | TOMM2020 Dual-Path Convolutional Image-Text Embedding    https://arxiv.org/abs/1711.05535 |
+| 215 | 122 | 2 | 1 year, 11 months ago | [slamtb](https://github.com/joansola/slamtb)/143 | SLAM Toolbox |
+| 215 | 87 | 6 | 2 years ago | [DRRN_CVPR17](https://github.com/tyshiwo/DRRN_CVPR17)/144 | Code for our CVPR'17 paper "Image Super-Resolution via Deep Recursive Residual Network" |
+| 214 | 33 | 4 | 7 months ago | [pix2vertex](https://github.com/matansel/pix2vertex)/145 | Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation |
 | 213 | 44 | 6 | 2 years ago | [3DMMasSTN](https://github.com/anilbas/3DMMasSTN)/146 | MatConvNet implementation for incorporating a 3D Morphable Model (3DMM) into a Spatial Transformer Network (STN) |
-| 211 | 40 | 4 | 2 months ago | [DIoU](https://github.com/Zzh-tju/DIoU)/147 | Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020) |
-| 209 | 109 | 7 | 3 years ago | [Oscillatory-Motion-Tracking-With-x-IMU](https://github.com/xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU)/148 | None |
-| 209 | 193 | 4 | 7 years ago | [matlab-toolboxes](https://github.com/gpeyre/matlab-toolboxes)/149 | Contains all my Matlab toolboxes. |
-| 208 | 59 | 0 | 9 years ago | [sparseFiltering](https://github.com/jngiam/sparseFiltering)/150 | Sparse Filtering |
-| 207 | 67 | 4 | 5 years ago | [Hierarchical-Neural-Autoencoder](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)/151 | None |
-| 207 | 117 | 44 | a day ago | [eeglab](https://github.com/sccn/eeglab)/152 | EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD |
+| 212 | 40 | 4 | 2 months ago | [DIoU](https://github.com/Zzh-tju/DIoU)/147 | Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression (AAAI 2020) |
+| 211 | 109 | 7 | 3 years ago | [Oscillatory-Motion-Tracking-With-x-IMU](https://github.com/xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU)/148 | None |
+| 210 | 194 | 4 | 7 years ago | [matlab-toolboxes](https://github.com/gpeyre/matlab-toolboxes)/149 | Contains all my Matlab toolboxes. |
+| 209 | 117 | 37 | 2 days ago | [eeglab](https://github.com/sccn/eeglab)/150 | EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD |
+| 208 | 59 | 0 | 9 years ago | [sparseFiltering](https://github.com/jngiam/sparseFiltering)/151 | Sparse Filtering |
+| 207 | 67 | 4 | 5 years ago | [Hierarchical-Neural-Autoencoder](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)/152 | None |
 | 204 | 118 | 2 | 2 years ago | [CF2](https://github.com/jbhuang0604/CF2)/153 | Hierarchical Convolutional Features for Visual Tracking (ICCV 2015) |
-| 202 | 62 | 2 | 1 year, 2 months ago | [optimaltransport.github.io](https://github.com/optimaltransport/optimaltransport.github.io)/154 | Web site of the Computational Optimal Transport book |
+| 204 | 62 | 2 | 1 year, 2 months ago | [optimaltransport.github.io](https://github.com/optimaltransport/optimaltransport.github.io)/154 | Web site of the Computational Optimal Transport book |
 | 201 | 65 | 12 | 3 years ago | [DCFNet](https://github.com/foolwood/DCFNet)/155 | DCFNet: Discriminant Correlation Filters Network for Visual Tracking |
-| 199 | 93 | 3 | 2 months ago | [jsonlab](https://github.com/fangq/jsonlab)/156 | JSONLab: a native JSON/UBJSON/MassagePack encoder/decoder for MATLAB/Octave |
-| 198 | 183 | 7 | 4 months ago | [CBIG](https://github.com/ThomasYeoLab/CBIG)/157 | None |
-| 197 | 100 | 31 | a day ago | [brainstorm3](https://github.com/brainstorm-tools/brainstorm3)/158 | Brainstorm software: MEG, EEG, fNIRS, ECoG, sEEG and electrophysiology |
-| 196 | 174 | 1 | 6 years ago | [Quad-Sim](https://github.com/dch33/Quad-Sim)/159 | A package of documentation and software supporting MATLAB/Simulink based dynamic modeling and simulation of quadcopter vehicles for control system design |
-| 195 | 46 | 1 | 1 year, 3 months ago | [Learning-via-Translation](https://github.com/Simon4Yan/Learning-via-Translation)/160 | Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification (https://arxiv.org/pdf/1711.07027.pdf). CVPR2018 |
+| 201 | 184 | 7 | 5 months ago | [CBIG](https://github.com/ThomasYeoLab/CBIG)/156 | None |
+| 199 | 95 | 3 | 2 months ago | [jsonlab](https://github.com/fangq/jsonlab)/157 | JSONLab: a native JSON/UBJSON/MassagePack encoder/decoder for MATLAB/Octave |
+| 198 | 102 | 30 | 2 days ago | [brainstorm3](https://github.com/brainstorm-tools/brainstorm3)/158 | Brainstorm software: MEG, EEG, fNIRS, ECoG, sEEG and electrophysiology |
+| 197 | 174 | 1 | 6 years ago | [Quad-Sim](https://github.com/dch33/Quad-Sim)/159 | A package of documentation and software supporting MATLAB/Simulink based dynamic modeling and simulation of quadcopter vehicles for control system design |
+| 197 | 45 | 1 | 1 year, 3 months ago | [Learning-via-Translation](https://github.com/Simon4Yan/Learning-via-Translation)/160 | Image-Image Domain Adaptation with Preserved Self-Similarity and Domain-Dissimilarity for Person Re-identification (https://arxiv.org/pdf/1711.07027.pdf). CVPR2018 |
 | 194 | 65 | 4 | 4 years ago | [nmt.hybrid](https://github.com/lmthang/nmt.hybrid)/161 | State-of-the-art Neural Machine Translation Codebase including Hybrid Word-character Models |
 | 190 | 77 | 10 | 4 years ago | [deepcut](https://github.com/eldar/deepcut)/162 | Multi Person Pose Estimation |
 | 190 | 49 | 4 | 3 years ago | [PixelNet](https://github.com/aayushbansal/PixelNet)/163 | The repository contains source code and models to use PixelNet architecture used for various pixel-level tasks. More details can be accessed at <http://www.cs.cmu.edu/~aayushb/pixelNet/>. |
 | 188 | 104 | 7 | 2 years ago | [mobile-id](https://github.com/liuziwei7/mobile-id)/164 | Deep Face Model Compression |
-| 187 | 75 | 2 | 4 years ago | [cnn_head_detection](https://github.com/aosokin/cnn_head_detection)/165 | Code for ICCV 2015 paper "Context-aware CNNs for person head detection" |
-| 187 | 99 | 10 | 4 days ago | [matpower](https://github.com/MATPOWER/matpower)/166 | MATPOWER – steady state power flow simulation and optimization for MATLAB and Octave |
-| 185 | 127 | 8 | 1 year, 3 months ago | [CaImAn-MATLAB](https://github.com/flatironinstitute/CaImAn-MATLAB)/167 | Complete Matlab pipeline for large scale calcium imaging data analysis |
-| 184 | 99 | 4 | 6 years ago | [deepmat](https://github.com/kyunghyuncho/deepmat)/168 | Matlab Code for Restricted/Deep Boltzmann Machines and Autoencoders |
+| 188 | 100 | 10 | 6 days ago | [matpower](https://github.com/MATPOWER/matpower)/165 | MATPOWER – steady state power flow simulation and optimization for MATLAB and Octave |
+| 187 | 75 | 2 | 4 years ago | [cnn_head_detection](https://github.com/aosokin/cnn_head_detection)/166 | Code for ICCV 2015 paper "Context-aware CNNs for person head detection" |
+| 184 | 100 | 4 | 6 years ago | [deepmat](https://github.com/kyunghyuncho/deepmat)/167 | Matlab Code for Restricted/Deep Boltzmann Machines and Autoencoders |
+| 184 | 127 | 8 | 1 year, 4 months ago | [CaImAn-MATLAB](https://github.com/flatironinstitute/CaImAn-MATLAB)/168 | Complete Matlab pipeline for large scale calcium imaging data analysis |
 | 183 | 49 | 8 | 6 months ago | [leap](https://github.com/talmo/leap)/169 | LEAP is now deprecated -- check out its successor SLEAP! |
-| 179 | 84 | 9 | 3 years ago | [Vehicle_Detection_Recognition](https://github.com/ChenJoya/Vehicle_Detection_Recognition)/170 | This is a Matlab lesson design for vehicle detection and recognition.  Using cifar-10Net to training a RCNN, and finetune AlexNet to classify. Thanks to Cars Dataset:http://ai.stanford.edu/~jkrause/cars/car_dataset.html |
-| 179 | 108 | 9 | 3 days ago | [goGPS_MATLAB](https://github.com/goGPS-Project/goGPS_MATLAB)/171 | goGPS MATLAB is an advanced GNSS observation processing software. |
-| 178 | 118 | 18 | 6 years ago | [selective_search_ijcv_with_python](https://github.com/sergeyk/selective_search_ijcv_with_python)/172 | Simple Python script to compute Selective Search proposals in Matlab. |
-| 176 | 50 | 6 | 3 years ago | [coco_loss](https://github.com/liuyuisanai/coco_loss)/173 | Implement for ``Learning Deep Features via Congenerous Cosine Loss for Person Recognition'' |
-| 175 | 124 | 51 | 4 years ago | [matconvnet-fcn](https://github.com/vlfeat/matconvnet-fcn)/174 | A MatConvNet-based implementation of the Fully-Convolutional Networks for image segmentation |
-| 175 | 82 | 4 | 1 year, 8 months ago | [Continuous-ConvOp](https://github.com/martin-danelljan/Continuous-ConvOp)/175 | The Continuous Convolution Operator Tracker (C-COT). |
-| 174 | 46 | 3 | a month ago | [interpretableCNN](https://github.com/zqs1022/interpretableCNN)/176 | None |
-| 172 | 77 | 16 | 17 days ago | [PlotPub](https://github.com/masumhabib/PlotPub)/177 | Publication quality plot in MATLAB.  |
-| 170 | 62 | 0 | 4 years ago | [pencil](https://github.com/fumin/pencil)/178 | implementation of http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/npar12_pencil.pdf |
-| 170 | 40 | 3 | 14 days ago | [Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement)/179 | A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s resources for speech enhancement and make them universally accessible and useful. |
-| 170 | 72 | 7 | 1 year, 2 months ago | [gerardus](https://github.com/vigente/gerardus)/180 | Computational biology and medical image processing scripts and programs |
-| 169 | 51 | 6 | 4 years ago | [Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)/181 | None |
-| 169 | 50 | 0 | 9 months ago | [matlabPlotCheatsheet](https://github.com/Pjer-zhang/matlabPlotCheatsheet)/182 | A cheatsheet for those who plot with MATLAB |
+| 180 | 84 | 9 | 3 years ago | [Vehicle_Detection_Recognition](https://github.com/ChenJoya/Vehicle_Detection_Recognition)/170 | This is a Matlab lesson design for vehicle detection and recognition.  Using cifar-10Net to training a RCNN, and finetune AlexNet to classify. Thanks to Cars Dataset:http://ai.stanford.edu/~jkrause/cars/car_dataset.html |
+| 180 | 43 | 3 | 21 days ago | [Awesome-Speech-Enhancement](https://github.com/nanahou/Awesome-Speech-Enhancement)/171 | A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s resources for speech enhancement and make them universally accessible and useful. |
+| 180 | 108 | 9 | 8 hours ago | [goGPS_MATLAB](https://github.com/goGPS-Project/goGPS_MATLAB)/172 | goGPS MATLAB is an advanced GNSS observation processing software. |
+| 178 | 118 | 18 | 6 years ago | [selective_search_ijcv_with_python](https://github.com/sergeyk/selective_search_ijcv_with_python)/173 | Simple Python script to compute Selective Search proposals in Matlab. |
+| 177 | 81 | 4 | 1 year, 8 months ago | [Continuous-ConvOp](https://github.com/martin-danelljan/Continuous-ConvOp)/174 | The Continuous Convolution Operator Tracker (C-COT). |
+| 176 | 50 | 6 | 3 years ago | [coco_loss](https://github.com/liuyuisanai/coco_loss)/175 | Implement for ``Learning Deep Features via Congenerous Cosine Loss for Person Recognition'' |
+| 175 | 124 | 51 | 4 years ago | [matconvnet-fcn](https://github.com/vlfeat/matconvnet-fcn)/176 | A MatConvNet-based implementation of the Fully-Convolutional Networks for image segmentation |
+| 174 | 46 | 3 | a month ago | [interpretableCNN](https://github.com/zqs1022/interpretableCNN)/177 | None |
+| 173 | 77 | 16 | 24 days ago | [PlotPub](https://github.com/masumhabib/PlotPub)/178 | Publication quality plot in MATLAB.  |
+| 171 | 50 | 0 | 9 months ago | [matlabPlotCheatsheet](https://github.com/Pjer-zhang/matlabPlotCheatsheet)/179 | A cheatsheet for those who plot with MATLAB |
+| 170 | 62 | 0 | 4 years ago | [pencil](https://github.com/fumin/pencil)/180 | implementation of http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/npar12_pencil.pdf |
+| 170 | 72 | 7 | 1 year, 2 months ago | [gerardus](https://github.com/vigente/gerardus)/181 | Computational biology and medical image processing scripts and programs |
+| 170 | 51 | 6 | 4 years ago | [Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)/182 | None |
 | 168 | 92 | 10 | 4 years ago | [LocNet](https://github.com/gidariss/LocNet)/183 | LocNet: Improving Localization Accuracy for Object Detection |
 | 168 | 43 | 17 | 6 months ago | [OpenOCL](https://github.com/OpenOCL/OpenOCL)/184 | Open Optimal Control Library for Matlab. Trajectory Optimization and non-linear Model Predictive Control (MPC)  toolbox. |
 | 167 | 83 | 0 | 4 years ago | [MachineLearningEx](https://github.com/lawlite19/MachineLearningEx)/185 | Coursera上斯坦福大学的机器学习编程作业——Andrew Ng |
 | 166 | 73 | 0 | 8 years ago | [weiyanmin](https://github.com/61--/weiyanmin)/186 | Automatically exported from code.google.com/p/weiyanmin |
-| 166 | 99 | 8 | 3 years ago | [object-proposals](https://github.com/Cloud-CV/object-proposals)/187 | Repository containing wrapper to obtain various object proposals easily |
-| 164 | 49 | 1 | 1 year, 5 months ago | [cnnimageretrieval](https://github.com/filipradenovic/cnnimageretrieval)/188 | CNN Image Retrieval in MatConvNet: Training and evaluating CNNs for Image Retrieval in MatConvNet |
-| 164 | 31 | 4 | 3 months ago | [PIRM2018](https://github.com/roimehrez/PIRM2018)/189 | Workshop and Challenge on  Perceptual Image Restoration  and Manipulation |
+| 166 | 98 | 8 | 3 years ago | [object-proposals](https://github.com/Cloud-CV/object-proposals)/187 | Repository containing wrapper to obtain various object proposals easily |
+| 165 | 31 | 4 | 3 months ago | [PIRM2018](https://github.com/roimehrez/PIRM2018)/188 | Workshop and Challenge on  Perceptual Image Restoration  and Manipulation |
+| 164 | 49 | 1 | 1 year, 5 months ago | [cnnimageretrieval](https://github.com/filipradenovic/cnnimageretrieval)/189 | CNN Image Retrieval in MatConvNet: Training and evaluating CNNs for Image Retrieval in MatConvNet |
 | 163 | 80 | 0 | 5 months ago | [neural-nets](https://github.com/khanhnamle1994/neural-nets)/190 | Programming Assignments and Lectures for Geoffrey Hinton's "Neural Networks for Machine Learning" Coursera course |
 | 163 | 53 | 20 | 1 year, 6 months ago | [Speech-enhancement](https://github.com/jtkim-kaist/Speech-enhancement)/191 | Deep neural network based speech enhancement toolkit |
 | 162 | 56 | 7 | 3 years ago | [st-resnet](https://github.com/feichtenhofer/st-resnet)/192 | Code release for "Spatiotemporal Residual Networks for Video Action Recognition", NIPS16 & "Spatiotemporal Multiplier Networks for Video Action Recognition", CVPR17. |
 | 162 | 80 | 0 | 2 months ago | [TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary)/193 | This is a collection of Matlab functions that are useful in the development of target tracking algorithms. |
 | 161 | 76 | 2 | 3 years ago | [deep-goggle](https://github.com/aravindhm/deep-goggle)/194 | Source code for "Understanding Deep Image Representations by Inverting Them", CVPR 2015 |
-| 161 | 53 | 85 | 9 days ago | [erplab](https://github.com/lucklab/erplab)/195 | ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data.  It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools for ERP processing, visualization, and analysis.  A graphical user interface makes it easy for beginners to learn, and Matlab scripting provides enormous power for intermediate and advanced users.   |
-| 161 | 67 | 11 | 25 days ago | [matGeom](https://github.com/mattools/matGeom)/196 | Matlab geometry toolbox for 2D/3D geometric computing |
-| 160 | 73 | 0 | 2 years ago | [LibADMM](https://github.com/canyilu/LibADMM)/197 | A Library of ADMM for Sparse and Low-rank Optimization |
-| 160 | 46 | 5 | 2 years ago | [MemNet](https://github.com/tyshiwo/MemNet)/198 | Code for our ICCV'17 paper "MemNet: A Persistent Memory Network for Image Restoration" (SPOTLIGHT Presentation) |
+| 161 | 53 | 85 | 16 days ago | [erplab](https://github.com/lucklab/erplab)/195 | ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data.  It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools for ERP processing, visualization, and analysis.  A graphical user interface makes it easy for beginners to learn, and Matlab scripting provides enormous power for intermediate and advanced users.   |
+| 161 | 46 | 5 | 2 years ago | [MemNet](https://github.com/tyshiwo/MemNet)/196 | Code for our ICCV'17 paper "MemNet: A Persistent Memory Network for Image Restoration" (SPOTLIGHT Presentation) |
+| 161 | 67 | 11 | a month ago | [matGeom](https://github.com/mattools/matGeom)/197 | Matlab geometry toolbox for 2D/3D geometric computing |
+| 160 | 73 | 0 | 2 years ago | [LibADMM](https://github.com/canyilu/LibADMM)/198 | A Library of ADMM for Sparse and Low-rank Optimization |
 | 160 | 29 | 1 | 1 year, 8 months ago | [Im2Pencil](https://github.com/Yijunmaverick/Im2Pencil)/199 | The source code of CVPR19 'Im2Pencil: Controllable Pencil Illustration from Photographs'. |
-| 159 | 70 | 5 | 2 years ago | [dynamic-image-nets](https://github.com/hbilen/dynamic-image-nets)/200 | Dynamic Image Networks for Action Recognition |
-| 159 | 83 | 9 | 3 years ago | [universal](https://github.com/LTS4/universal)/201 | None |
-| 159 | 79 | 1 | 6 years ago | [RANSAC-Toolbox](https://github.com/RANSAC/RANSAC-Toolbox)/202 | A toolbox to experiment with the RANSAC algorithm for Matlab and Octave |
+| 160 | 79 | 1 | 6 years ago | [RANSAC-Toolbox](https://github.com/RANSAC/RANSAC-Toolbox)/200 | A toolbox to experiment with the RANSAC algorithm for Matlab and Octave |
+| 159 | 69 | 5 | 2 years ago | [dynamic-image-nets](https://github.com/hbilen/dynamic-image-nets)/201 | Dynamic Image Networks for Action Recognition |
+| 159 | 83 | 9 | 3 years ago | [universal](https://github.com/LTS4/universal)/202 | None |
 | 158 | 43 | 0 | 3 years ago | [AffinityBasedMattingToolbox](https://github.com/yaksoy/AffinityBasedMattingToolbox)/203 | A collection of common affinity-based image matting and matte refinement algorithms. |
-| 157 | 62 | 10 | 9 months ago | [ecg-kit](https://github.com/marianux/ecg-kit)/204 | A Matlab toolbox for cardiovascular signal processing |
-| 155 | 28 | 2 | a month ago | [bads](https://github.com/lacerbi/bads)/205 | Bayesian Adaptive Direct Search (BADS) optimization algorithm for model fitting in MATLAB |
+| 157 | 62 | 10 | 10 months ago | [ecg-kit](https://github.com/marianux/ecg-kit)/204 | A Matlab toolbox for cardiovascular signal processing |
+| 157 | 96 | 7 | 2 months ago | [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)/205 | This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm. |
 | 155 | 126 | 5 | 2 years ago | [CVPR15-CFSS](https://github.com/zhusz/CVPR15-CFSS)/206 | Full version (training+testing) of implementation of Shizhan Zhu et al.'s CVPR-15 work Face Alignment by Coarse-to-Fine Shape Searching |
-| 155 | 96 | 7 | 2 months ago | [MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave)/207 | This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm. |
+| 155 | 55 | 11 | 3 years ago | [Video-Summarization-with-LSTM](https://github.com/kezhang-cs/Video-Summarization-with-LSTM)/207 | Implementation of our ECCV 2016 Paper (Video Summarization with Long Short-term Memory) |
 | 154 | 52 | 5 | 6 months ago | [OxyGEN](https://github.com/ProtofyTeam/OxyGEN)/208 | OxyGEN |
-| 154 | 122 | 0 | 2 days ago | [LSTM-MATLAB](https://github.com/huashiyiqike/LSTM-MATLAB)/209 | LSTM-MATLAB is Long Short-term Memory (LSTM) in MATLAB, which is meant to be succinct, illustrative and for research purpose only. It is accompanied with a paper for reference: Revisit Long Short-Term Memory: An Optimization Perspective, NIPS deep learning workshop, 2014. |
-| 154 | 55 | 11 | 3 years ago | [Video-Summarization-with-LSTM](https://github.com/kezhang-cs/Video-Summarization-with-LSTM)/210 | Implementation of our ECCV 2016 Paper (Video Summarization with Long Short-term Memory) |
-| 153 | 1 | 0 | 2 years ago | [ML](https://github.com/fewtime/ML)/211 | Some practice and collection of machine learning |
-| 152 | 109 | 0 | 1 year, 2 months ago | [MSCKF](https://github.com/yuzhou42/MSCKF)/212 | MSCKF 中文注释版 |
-| 152 | 40 | 0 | 7 months ago | [MOTBeyondPixels](https://github.com/JunaidCS032/MOTBeyondPixels)/213 | Monocular multi-object tracking using simple and complementary 3D and 2D cues (ICRA 2018) |
-| 152 | 115 | 0 | 4 years ago | [MachineLearning](https://github.com/llp1992/MachineLearning)/214 | None |
-| 152 | 68 | 2 | 23 hours ago | [Func-Opt](https://github.com/GaoBoYu599/Func-Opt)/215 | Various global and local optimization algorithms, as well as many practical cases.  Besides, this repository aslo uses common language and analogy to explain the thinking of various algorithms.  —— Still Updating!! |
-| 151 | 52 | 3 | 4 years ago | [Fall-Detection](https://github.com/harishrithish7/Fall-Detection)/216 | Human Fall Detection from CCTV camera feed |
-| 151 | 83 | 2 | 3 years ago | [openAlgo](https://github.com/mtompkins/openAlgo)/217 | :chart: openAlgo is a public repository for various work product relavant to algorithms and the high frequency low latency electronic trading space with a bias toward market microstructure as well as exchange traded futures and options. |
-| 150 | 46 | 5 | 2 years ago | [UntrimmedNet](https://github.com/wanglimin/UntrimmedNet)/218 | Weakly Supervised Action Recognition and Detection |
-| 150 | 65 | 2 | 4 years ago | [active-noise-cancellation](https://github.com/markostam/active-noise-cancellation)/219 | Active noise cancellation using various algorithms (FxLMS, FuLMS, NLMS) in Matlab, VST and C |
-| 150 | 67 | 0 | 1 year, 9 months ago | [BIMEF](https://github.com/baidut/BIMEF)/220 | Code and data for the research paper "A Bio-Inspired Multi-Exposure Fusion Framework for Low-light Image Enhancement" (Submitted to IEEE Transactions on Cybernetics) |
+| 154 | 28 | 2 | a month ago | [bads](https://github.com/lacerbi/bads)/209 | Bayesian Adaptive Direct Search (BADS) optimization algorithm for model fitting in MATLAB |
+| 154 | 83 | 2 | 3 years ago | [openAlgo](https://github.com/mtompkins/openAlgo)/210 | :chart: openAlgo is a public repository for various work product relavant to algorithms and the high frequency low latency electronic trading space with a bias toward market microstructure as well as exchange traded futures and options. |
+| 153 | 124 | 0 | 9 days ago | [LSTM-MATLAB](https://github.com/huashiyiqike/LSTM-MATLAB)/211 | LSTM-MATLAB is Long Short-term Memory (LSTM) in MATLAB, which is meant to be succinct, illustrative and for research purpose only. It is accompanied with a paper for reference: Revisit Long Short-Term Memory: An Optimization Perspective, NIPS deep learning workshop, 2014. |
+| 153 | 54 | 3 | 4 years ago | [Fall-Detection](https://github.com/harishrithish7/Fall-Detection)/212 | Human Fall Detection from CCTV camera feed |
+| 153 | 1 | 0 | 2 years ago | [ML](https://github.com/fewtime/ML)/213 | Some practice and collection of machine learning |
+| 152 | 109 | 0 | 1 year, 2 months ago | [MSCKF](https://github.com/yuzhou42/MSCKF)/214 | MSCKF 中文注释版 |
+| 152 | 40 | 0 | 7 months ago | [MOTBeyondPixels](https://github.com/JunaidCS032/MOTBeyondPixels)/215 | Monocular multi-object tracking using simple and complementary 3D and 2D cues (ICRA 2018) |
+| 152 | 115 | 0 | 4 years ago | [MachineLearning](https://github.com/llp1992/MachineLearning)/216 | None |
+| 152 | 68 | 2 | 7 days ago | [Func-Opt](https://github.com/GaoBoYu599/Func-Opt)/217 | Various global and local optimization algorithms, as well as many practical cases.  Besides, this repository aslo uses common language and analogy to explain the thinking of various algorithms.  —— Still Updating!! |
+| 151 | 45 | 5 | 2 years ago | [UntrimmedNet](https://github.com/wanglimin/UntrimmedNet)/218 | Weakly Supervised Action Recognition and Detection |
+| 151 | 65 | 2 | 4 years ago | [active-noise-cancellation](https://github.com/markostam/active-noise-cancellation)/219 | Active noise cancellation using various algorithms (FxLMS, FuLMS, NLMS) in Matlab, VST and C |
+| 151 | 69 | 0 | 1 year, 9 months ago | [BIMEF](https://github.com/baidut/BIMEF)/220 | Code and data for the research paper "A Bio-Inspired Multi-Exposure Fusion Framework for Low-light Image Enhancement" (Submitted to IEEE Transactions on Cybernetics) |
 | 150 | 53 | 4 | 1 year, 8 months ago | [DeepVideoDeblurring](https://github.com/shuochsu/DeepVideoDeblurring)/221 | S. Su, M. Delbracio, J. Wang, G. Sapiro, W. Heidrich, O. Wang. Deep Video Deblurring. CVPR 2017, Spotlight |
-| 149 | 61 | 2 | 8 years ago | [Optimal-LSH](https://github.com/YahooArchive/Optimal-LSH)/222 | This package provides an efficient implementation of locality-sensitve hashing (LSH) |
-| 149 | 102 | 0 | 9 years ago | [Video-Stabilization](https://github.com/alexgo1/Video-Stabilization)/223 | Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes |
-| 149 | 78 | 0 | 2 years ago | [ECG-ML-DL-Algorithm-Matlab](https://github.com/Aiwiscal/ECG-ML-DL-Algorithm-Matlab)/224 | Basic Algorithm For Beginners |
-| 149 | 69 | 28 | a month ago | [bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)/225 | Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets |
-| 147 | 76 | 19 | 3 years ago | [practical-cnn](https://github.com/vedaldi/practical-cnn)/226 | A VGG practical on convolutional neural networks |
-| 147 | 45 | 0 | 1 year, 22 days ago | [PencilDrawing](https://github.com/candycat1992/PencilDrawing)/227 | :pencil2: Pencil drawing production. |
-| 147 | 65 | 18 | 8 days ago | [robotcar-dataset-sdk](https://github.com/ori-mrg/robotcar-dataset-sdk)/228 | Software Development Kit for the Oxford Robotcar Dataset |
-| 147 | 229 | 51 | 20 days ago | [cobratoolbox](https://github.com/opencobra/cobratoolbox)/229 | The COnstraint-Based Reconstruction and Analysis Toolbox.              Documentation:  |
-| 145 | 22 | 0 | 2 years ago | [Weakly-Supervised-Panoptic-Segmentation](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)/230 | Weakly- and Semi-Supervised Panoptic Segmentation (ECCV18) |
-| 143 | 104 | 0 | 2 years ago | [MIMO_OFDM](https://github.com/LyricYang/MIMO_OFDM)/231 | 《MIMO-OFDM无线通信技术及MATLAB实现》随书源码 |
-| 142 | 108 | 0 | 1 year, 3 months ago | [CourseraMachineLearning](https://github.com/vkosuri/CourseraMachineLearning)/232 | Coursera Machine Learning By Prof. Andrew Ng |
-| 142 | 113 | 3 | 6 years ago | [Random-Forest-Matlab](https://github.com/karpathy/Random-Forest-Matlab)/233 | A Random Forest implementation for MATLAB. Supports arbitrary weak learners that you can define. |
-| 140 | 65 | 0 | 7 years ago | [proximal](https://github.com/cvxgrp/proximal)/234 | Sample implementations of proximal operators |
-| 140 | 87 | 13 | 4 years ago | [saliency](https://github.com/cvzoya/saliency)/235 | Code for http://saliency.mit.edu/ |
-| 140 | 45 | 1 | 2 years ago | [Stereo-Odometry-SOFT](https://github.com/Mayankm96/Stereo-Odometry-SOFT)/236 | MATLAB Implementation of Visual Odometry using SOFT algorithm |
-| 139 | 59 | 2 | 2 months ago | [NMFLibrary](https://github.com/hiroyuki-kasai/NMFLibrary)/237 | MATLAB library for non-negative matrix factorization (NMF): Version 1.8.1 |
+| 150 | 70 | 28 | a month ago | [bids-starter-kit](https://github.com/bids-standard/bids-starter-kit)/222 | Collection of tutorials, wikis, and templates to get you started with creating BIDS compliant datasets |
+| 149 | 61 | 2 | 8 years ago | [Optimal-LSH](https://github.com/YahooArchive/Optimal-LSH)/223 | This package provides an efficient implementation of locality-sensitve hashing (LSH) |
+| 149 | 102 | 0 | 9 years ago | [Video-Stabilization](https://github.com/alexgo1/Video-Stabilization)/224 | Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes |
+| 149 | 78 | 0 | 2 years ago | [ECG-ML-DL-Algorithm-Matlab](https://github.com/Aiwiscal/ECG-ML-DL-Algorithm-Matlab)/225 | Basic Algorithm For Beginners |
+| 149 | 66 | 18 | 15 days ago | [robotcar-dataset-sdk](https://github.com/ori-mrg/robotcar-dataset-sdk)/226 | Software Development Kit for the Oxford Robotcar Dataset |
+| 147 | 76 | 19 | 3 years ago | [practical-cnn](https://github.com/vedaldi/practical-cnn)/227 | A VGG practical on convolutional neural networks |
+| 147 | 105 | 0 | 2 years ago | [MIMO_OFDM](https://github.com/LyricYang/MIMO_OFDM)/228 | 《MIMO-OFDM无线通信技术及MATLAB实现》随书源码 |
+| 147 | 45 | 0 | 1 year, 29 days ago | [PencilDrawing](https://github.com/candycat1992/PencilDrawing)/229 | :pencil2: Pencil drawing production. |
+| 147 | 229 | 51 | 27 days ago | [cobratoolbox](https://github.com/opencobra/cobratoolbox)/230 | The COnstraint-Based Reconstruction and Analysis Toolbox.              Documentation:  |
+| 146 | 22 | 0 | 2 years ago | [Weakly-Supervised-Panoptic-Segmentation](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation)/231 | Weakly- and Semi-Supervised Panoptic Segmentation (ECCV18) |
+| 145 | 113 | 3 | 6 years ago | [Random-Forest-Matlab](https://github.com/karpathy/Random-Forest-Matlab)/232 | A Random Forest implementation for MATLAB. Supports arbitrary weak learners that you can define. |
+| 142 | 108 | 0 | 1 year, 3 months ago | [CourseraMachineLearning](https://github.com/vkosuri/CourseraMachineLearning)/233 | Coursera Machine Learning By Prof. Andrew Ng |
+| 141 | 58 | 2 | 2 months ago | [NMFLibrary](https://github.com/hiroyuki-kasai/NMFLibrary)/234 | MATLAB library for non-negative matrix factorization (NMF): Version 1.8.1 |
+| 141 | 65 | 0 | 7 years ago | [proximal](https://github.com/cvxgrp/proximal)/235 | Sample implementations of proximal operators |
+| 141 | 87 | 13 | 4 years ago | [saliency](https://github.com/cvzoya/saliency)/236 | Code for http://saliency.mit.edu/ |
+| 141 | 45 | 1 | 2 years ago | [Stereo-Odometry-SOFT](https://github.com/Mayankm96/Stereo-Odometry-SOFT)/237 | MATLAB Implementation of Visual Odometry using SOFT algorithm |
 | 139 | 49 | 13 | 2 years ago | [CREST-Release](https://github.com/ybsong00/CREST-Release)/238 | CREST: Convolutional Residual Learning for Visual Tracking |
-| 138 | 97 | 0 | 26 days ago | [OpenBMI](https://github.com/PatternRecognition/OpenBMI)/239 | An open software package dedicated for the development of Brain-Computer Interfaces with various advanced pattern recognition algorithms |
-| 138 | 32 | 2 | 3 years ago | [3DHumanPose](https://github.com/flyawaychase/3DHumanPose)/240 | None |
-| 138 | 51 | 3 | 1 year, 4 months ago | [WSDDN](https://github.com/hbilen/WSDDN)/241 | Weakly Supervised Deep Detection Networks (CVPR 2016) |
-| 137 | 24 | 5 | 2 years ago | [Recurrent-Pixel-Embedding-for-Instance-Grouping](https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping)/242 | embedding and grouping pixels into boundary, proposal, segment and object instance. |
-| 136 | 52 | 9 | 2 years ago | [gammatone](https://github.com/detly/gammatone)/243 | Gammatone-based spectrograms, using gammatone filterbanks or Fourier transform weightings. |
-| 136 | 66 | 6 | 3 years ago | [MARS-evaluation](https://github.com/liangzheng06/MARS-evaluation)/244 | This repository provides the evaluation codes for the MARS dataset |
-| 136 | 96 | 0 | 3 years ago | [Machine-Learning-Models](https://github.com/jayshah19949596/Machine-Learning-Models)/245 | Decision Trees, Random Forest, Dynamic Time Warping, Naive Bayes, KNN, Linear Regression, Logistic Regression, Mixture Of Gaussian, Neural Network, PCA, SVD, Gaussian Naive Bayes, Fitting Data to Gaussian, K-Means |
+| 138 | 97 | 0 | a month ago | [OpenBMI](https://github.com/PatternRecognition/OpenBMI)/239 | An open software package dedicated for the development of Brain-Computer Interfaces with various advanced pattern recognition algorithms |
+| 138 | 52 | 9 | 2 years ago | [gammatone](https://github.com/detly/gammatone)/240 | Gammatone-based spectrograms, using gammatone filterbanks or Fourier transform weightings. |
+| 138 | 32 | 2 | 4 years ago | [3DHumanPose](https://github.com/flyawaychase/3DHumanPose)/241 | None |
+| 137 | 97 | 0 | 3 years ago | [Machine-Learning-Models](https://github.com/jayshah19949596/Machine-Learning-Models)/242 | Decision Trees, Random Forest, Dynamic Time Warping, Naive Bayes, KNN, Linear Regression, Logistic Regression, Mixture Of Gaussian, Neural Network, PCA, SVD, Gaussian Naive Bayes, Fitting Data to Gaussian, K-Means |
+| 137 | 24 | 5 | 2 years ago | [Recurrent-Pixel-Embedding-for-Instance-Grouping](https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping)/243 | embedding and grouping pixels into boundary, proposal, segment and object instance. |
+| 137 | 51 | 3 | 1 year, 4 months ago | [WSDDN](https://github.com/hbilen/WSDDN)/244 | Weakly Supervised Deep Detection Networks (CVPR 2016) |
+| 136 | 66 | 6 | 3 years ago | [MARS-evaluation](https://github.com/liangzheng06/MARS-evaluation)/245 | This repository provides the evaluation codes for the MARS dataset |
 | 136 | 69 | 19 | 1 year, 4 months ago | [PRT](https://github.com/covartech/PRT)/246 | Pattern Recognition Toolbox for MATLAB |
-| 135 | 40 | 2 | 2 years ago | [SAE](https://github.com/Elyorcv/SAE)/247 | Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017 |
-| 134 | 63 | 2 | 4 years ago | [detection-proposals](https://github.com/hosang/detection-proposals)/248 | Evaluation of detection performance, recall, and repeatability of detection proposal algorithms |
-| 134 | 71 | 0 | 3 years ago | [FCNT](https://github.com/scott89/FCNT)/249 | None |
-| 134 | 42 | 2 | 2 years ago | [MRCNN-Scene-Recognition](https://github.com/wanglimin/MRCNN-Scene-Recognition)/250 | MR-CNNs for Large-Scale Scene Recognition |
-| 134 | 53 | 0 | 1 year, 6 months ago | [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms)/251 | A Library of Audio Steganography & Watermarking Algorithms |
-| 133 | 58 | 0 | 2 years ago | [RobustPCA](https://github.com/dlaptev/RobustPCA)/252 | Robust PCA implementation and examples (Matlab) |
-| 133 | 196 | 6 | 5 months ago | [Machine-Learning](https://github.com/anirudhjayaraman/Machine-Learning)/253 | Repo cataloging my coursework for Andrew Ng's ML MOOC |
-| 132 | 88 | 3 | 6 years ago | [rnn-speech-denoising](https://github.com/amaas/rnn-speech-denoising)/254 | Recurrent neural network training for noise reduction in robust automatic speech recognition |
-| 132 | 64 | 5 | 2 years ago | [panorama](https://github.com/yihui-he/panorama)/255 | Image alignment and stitching with MATLAB |
-| 132 | 36 | 2 | 1 year, 27 days ago | [Hand-Segmentation-in-the-Wild](https://github.com/aurooj/Hand-Segmentation-in-the-Wild)/256 | None |
-| 132 | 15 | 0 | 4 years ago | [nbsvm](https://github.com/sidaw/nbsvm)/257 | code for our paper Baselines and Bigrams: Simple, Good Sentiment and Topic Classification |
-| 131 | 69 | 0 | 2 years ago | [DICTOL](https://github.com/tiepvupsu/DICTOL)/258 | DICTOL - A Dictionary Learning Toolbox in Matlab and Python |
-| 131 | 14 | 0 | 7 days ago | [geometry-processing-csc2520](https://github.com/alecjacobson/geometry-processing-csc2520)/259 | Course Page for Geometry Processing |
-| 131 | 24 | 3 | 6 days ago | [UDT](https://github.com/594422814/UDT)/260 | None |
-| 130 | 22 | 23 | 2 months ago | [PIDtoolbox](https://github.com/bw1129/PIDtoolbox)/261 | PIDtoolbox is a set of graphical tools for analyzing blackbox log data |
-| 129 | 34 | 0 | 4 months ago | [extrinsic_lidar_camera_calibration](https://github.com/UMich-BipedLab/extrinsic_lidar_camera_calibration)/262 | This is a package for extrinsic calibration between a 3D LiDAR and a camera, described in paper: Improvements to Target-Based 3D LiDAR to Camera Calibration. This package is used for Cassie Blue's 3D LiDAR semantic mapping and automation. |
-| 129 | 34 | 5 | 2 years ago | [local-feature-evaluation](https://github.com/ahojnnes/local-feature-evaluation)/263 | Comparative Evaluation of Hand-Crafted and Learned Local Features |
-| 129 | 20 | 0 | 1 year, 6 months ago | [FishExplorer](https://github.com/xiuyechen/FishExplorer)/264 | interactive analysis of calcium imaging data from larval zebrafish |
-| 128 | 52 | 7 | 10 months ago | [CVX](https://github.com/cvxr/CVX)/265 | A MATLAB system for disciplined convex programming |
-| 128 | 87 | 0 | 7 months ago | [massivemimobook](https://github.com/emilbjornson/massivemimobook)/266 | Book PDF and simulation code for the monograph "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency" by Emil Björnson, Jakob Hoydis and Luca Sanguinetti, published in Foundations and Trends in Signal Processing, 2017. |
-| 127 | 38 | 15 | 1 year, 10 months ago | [rgbt-ped-detection](https://github.com/SoonminHwang/rgbt-ped-detection)/267 | KAIST Multispectral Pedestrian Detection Benchmark [CVPR '15] |
-| 127 | 36 | 1 | 3 years ago | [knn-matting](https://github.com/dingzeyuli/knn-matting)/268 | Source Code for  KNN Matting, CVPR 2012 / TPAMI 2013. MATLAB code ready to run. Simple and robust implementation under 40 lines. |
-| 127 | 61 | 8 | 11 months ago | [CFWCR](https://github.com/he010103/CFWCR)/269 | 5th visual object tracking(VOT) tracker CFWCR |
-| 126 | 73 | 1 | 3 years ago | [genetic-algorithm](https://github.com/Shuai-Xie/genetic-algorithm)/270 | 遗传算法 - Matlab |
-| 126 | 35 | 3 | 3 years ago | [TensorNet](https://github.com/Bihaqo/TensorNet)/271 | None |
-| 126 | 15 | 1 | 1 year, 7 months ago | [DeepCO3](https://github.com/KuangJuiHsu/DeepCO3)/272 | [CVPR19] DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency (Oral paper) |
-| 126 | 87 | 0 | 3 years ago | [LaserSLAM](https://github.com/meyiao/LaserSLAM)/273 | SLAM using 2D lidar |
-| 125 | 53 | 2 | 15 days ago | [manopt](https://github.com/NicolasBoumal/manopt)/274 | Manopt, a Matlab toolbox for optimization on manifolds |
-| 125 | 92 | 66 | a month ago | [Kilosort](https://github.com/MouseLand/Kilosort)/275 | Fast spike sorting with drift correction for up to a thousand channels |
-| 125 | 54 | 0 | 6 months ago | [imagefusion_deeplearning](https://github.com/hli1221/imagefusion_deeplearning)/276 | Infrared and visible image fusion using deep learning framework(ICPR 2018, Beijing) |
-| 125 | 39 | 11 | 1 year, 5 months ago | [Vital_release](https://github.com/ybsong00/Vital_release)/277 | VITAL: VIsual Tracking via Adversarial Learning |
-| 125 | 100 | 38 | 2 hours ago | [mtex](https://github.com/mtex-toolbox/mtex)/278 | MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage: |
-| 125 | 33 | 13 | 2 years ago | [STRCF](https://github.com/lifeng9472/STRCF)/279 | Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking (CVPR 2018) |
-| 124 | 88 | 13 | 6 years ago | [ImageTextRecognition](https://github.com/FraPochetti/ImageTextRecognition)/280 | None |
-| 124 | 28 | 3 | 1 year, 4 months ago | [PolyU-Real-World-Noisy-Images-Dataset](https://github.com/csjunxu/PolyU-Real-World-Noisy-Images-Dataset)/281 | Real-world Noisy Image Denoising: A New Benchmark |
-| 124 | 67 | 0 | a month ago | [Clustering](https://github.com/AaronX121/Clustering)/282 | Clustering / Subspace Clustering Algorithms on MATLAB |
-| 124 | 35 | 0 | 2 years ago | [legacy_STRAIGHT](https://github.com/HidekiKawahara/legacy_STRAIGHT)/283 | A vocoder framework which had been widely used in research community since 1999. |
+| 136 | 53 | 0 | 1 year, 6 months ago | [audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms)/247 | A Library of Audio Steganography & Watermarking Algorithms |
+| 135 | 40 | 2 | 2 years ago | [SAE](https://github.com/Elyorcv/SAE)/248 | Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017 |
+| 134 | 58 | 0 | 2 years ago | [RobustPCA](https://github.com/dlaptev/RobustPCA)/249 | Robust PCA implementation and examples (Matlab) |
+| 134 | 63 | 2 | 4 years ago | [detection-proposals](https://github.com/hosang/detection-proposals)/250 | Evaluation of detection performance, recall, and repeatability of detection proposal algorithms |
+| 134 | 71 | 0 | 3 years ago | [FCNT](https://github.com/scott89/FCNT)/251 | None |
+| 134 | 42 | 2 | 2 years ago | [MRCNN-Scene-Recognition](https://github.com/wanglimin/MRCNN-Scene-Recognition)/252 | MR-CNNs for Large-Scale Scene Recognition |
+| 133 | 36 | 2 | 1 year, 1 month ago | [Hand-Segmentation-in-the-Wild](https://github.com/aurooj/Hand-Segmentation-in-the-Wild)/253 | None |
+| 133 | 196 | 6 | 6 months ago | [Machine-Learning](https://github.com/anirudhjayaraman/Machine-Learning)/254 | Repo cataloging my coursework for Andrew Ng's ML MOOC |
+| 132 | 88 | 3 | 6 years ago | [rnn-speech-denoising](https://github.com/amaas/rnn-speech-denoising)/255 | Recurrent neural network training for noise reduction in robust automatic speech recognition |
+| 132 | 64 | 5 | 2 years ago | [panorama](https://github.com/yihui-he/panorama)/256 | Image alignment and stitching with MATLAB |
+| 132 | 51 | 7 | 11 months ago | [CVX](https://github.com/cvxr/CVX)/257 | A MATLAB system for disciplined convex programming |
+| 132 | 15 | 0 | 4 years ago | [nbsvm](https://github.com/sidaw/nbsvm)/258 | code for our paper Baselines and Bigrams: Simple, Good Sentiment and Topic Classification |
+| 131 | 69 | 0 | 2 years ago | [DICTOL](https://github.com/tiepvupsu/DICTOL)/259 | DICTOL - A Dictionary Learning Toolbox in Matlab and Python |
+| 131 | 14 | 0 | 14 days ago | [geometry-processing-csc2520](https://github.com/alecjacobson/geometry-processing-csc2520)/260 | Course Page for Geometry Processing |
+| 131 | 24 | 3 | 13 days ago | [UDT](https://github.com/594422814/UDT)/261 | None |
+| 131 | 34 | 0 | 4 months ago | [extrinsic_lidar_camera_calibration](https://github.com/UMich-BipedLab/extrinsic_lidar_camera_calibration)/262 | This is a package for extrinsic calibration between a 3D LiDAR and a camera, described in paper: Improvements to Target-Based 3D LiDAR to Camera Calibration. This package is used for Cassie Blue's 3D LiDAR semantic mapping and automation. |
+| 130 | 34 | 5 | 2 years ago | [local-feature-evaluation](https://github.com/ahojnnes/local-feature-evaluation)/263 | Comparative Evaluation of Hand-Crafted and Learned Local Features |
+| 130 | 88 | 0 | 7 months ago | [massivemimobook](https://github.com/emilbjornson/massivemimobook)/264 | Book PDF and simulation code for the monograph "Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency" by Emil Björnson, Jakob Hoydis and Luca Sanguinetti, published in Foundations and Trends in Signal Processing, 2017. |
+| 130 | 22 | 23 | 2 months ago | [PIDtoolbox](https://github.com/bw1129/PIDtoolbox)/265 | PIDtoolbox is a set of graphical tools for analyzing blackbox log data |
+| 129 | 20 | 0 | 1 year, 6 months ago | [FishExplorer](https://github.com/xiuyechen/FishExplorer)/266 | interactive analysis of calcium imaging data from larval zebrafish |
+| 128 | 39 | 15 | 1 year, 10 months ago | [rgbt-ped-detection](https://github.com/SoonminHwang/rgbt-ped-detection)/267 | KAIST Multispectral Pedestrian Detection Benchmark [CVPR '15] |
+| 127 | 53 | 2 | 22 days ago | [manopt](https://github.com/NicolasBoumal/manopt)/268 | Manopt, a Matlab toolbox for optimization on manifolds |
+| 127 | 73 | 1 | 3 years ago | [genetic-algorithm](https://github.com/Shuai-Xie/genetic-algorithm)/269 | 遗传算法 - Matlab |
+| 127 | 54 | 0 | 7 months ago | [imagefusion_deeplearning](https://github.com/hli1221/imagefusion_deeplearning)/270 | Infrared and visible image fusion using deep learning framework(ICPR 2018, Beijing) |
+| 127 | 36 | 1 | 3 years ago | [knn-matting](https://github.com/dingzeyuli/knn-matting)/271 | Source Code for  KNN Matting, CVPR 2012 / TPAMI 2013. MATLAB code ready to run. Simple and robust implementation under 40 lines. |
+| 127 | 100 | 42 | 5 days ago | [mtex](https://github.com/mtex-toolbox/mtex)/272 | MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage: |
+| 127 | 61 | 8 | a year ago | [CFWCR](https://github.com/he010103/CFWCR)/273 | 5th visual object tracking(VOT) tracker CFWCR |
+| 126 | 92 | 70 | a month ago | [Kilosort](https://github.com/MouseLand/Kilosort)/274 | Fast spike sorting with drift correction for up to a thousand channels |
+| 126 | 35 | 0 | 2 years ago | [legacy_STRAIGHT](https://github.com/HidekiKawahara/legacy_STRAIGHT)/275 | A vocoder framework which had been widely used in research community since 1999. |
+| 126 | 35 | 3 | 3 years ago | [TensorNet](https://github.com/Bihaqo/TensorNet)/276 | None |
+| 126 | 15 | 0 | 1 year, 7 months ago | [DeepCO3](https://github.com/KuangJuiHsu/DeepCO3)/277 | [CVPR19] DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency (Oral paper) |
+| 126 | 87 | 0 | 3 years ago | [LaserSLAM](https://github.com/meyiao/LaserSLAM)/278 | SLAM using 2D lidar |
+| 125 | 39 | 11 | 1 year, 5 months ago | [Vital_release](https://github.com/ybsong00/Vital_release)/279 | VITAL: VIsual Tracking via Adversarial Learning |
+| 125 | 33 | 13 | 2 years ago | [STRCF](https://github.com/lifeng9472/STRCF)/280 | Learning Spatial-Temporal Regularized Correlation Filters for Visual Tracking (CVPR 2018) |
+| 124 | 88 | 13 | 6 years ago | [ImageTextRecognition](https://github.com/FraPochetti/ImageTextRecognition)/281 | None |
+| 124 | 28 | 3 | 1 year, 5 months ago | [PolyU-Real-World-Noisy-Images-Dataset](https://github.com/csjunxu/PolyU-Real-World-Noisy-Images-Dataset)/282 | Real-world Noisy Image Denoising: A New Benchmark |
+| 124 | 66 | 0 | a month ago | [Clustering](https://github.com/AaronX121/Clustering)/283 | Clustering / Subspace Clustering Algorithms on MATLAB |
 | 123 | 33 | 0 | 2 years ago | [DGCNN](https://github.com/muhanzhang/DGCNN)/284 | Code for "M. Zhang, Z. Cui, M. Neumann, and Y. Chen, An End-to-End Deep Learning Architecture for Graph Classification, AAAI-18". |
-| 123 | 55 | 1 | 4 days ago | [MultiCamSelfCal](https://github.com/strawlab/MultiCamSelfCal)/285 | multiple camera self calibration Toolbox |
+| 123 | 56 | 1 | 11 days ago | [MultiCamSelfCal](https://github.com/strawlab/MultiCamSelfCal)/285 | multiple camera self calibration Toolbox |
 | 123 | 62 | 10 | 4 months ago | [TT-Toolbox](https://github.com/oseledets/TT-Toolbox)/286 | The git repository for the TT-Toolbox |
-| 122 | 74 | 4 | 3 years ago | [DeepPyramid](https://github.com/rbgirshick/DeepPyramid)/287 | Deep feature pyramids for various computer vision algorithms (DPMs, pyramid R-CNN, etc.)  |
-| 122 | 49 | 0 | 11 months ago | [Coursera-MachineLearning](https://github.com/loserChen/Coursera-MachineLearning)/288 | Homework about Machine Learning of Coursera taught by andrew ng |
-| 122 | 47 | 3 | 3 years ago | [3DMM_edges](https://github.com/waps101/3DMM_edges)/289 | Matlab implementation of algorithm for fitting 3D Morphable Model to images using edge features |
-| 122 | 76 | 14 | 1 year, 4 months ago | [machinevision-toolbox-matlab](https://github.com/petercorke/machinevision-toolbox-matlab)/290 | Machine Vision Toolbox for MATLAB |
-| 122 | 47 | 0 | 2 years ago | [sw-sift](https://github.com/sun11/sw-sift)/291 | Matlab implementation of sift(opensift) algorithm. |
-| 121 | 64 | 0 | 3 months ago | [ffcc](https://github.com/google/ffcc)/292 | Fast Fourier Color Constancy: an auto white balance solution with machine learning in Fourier space |
-| 121 | 58 | 3 | 3 years ago | [Deep-ADMM-Net](https://github.com/yangyan92/Deep-ADMM-Net)/293 | None |
-| 121 | 52 | 0 | a month ago | [Mathematical-Model-Implementation](https://github.com/hliangzhao/Mathematical-Model-Implementation)/294 | MATLAB code for classic mathematical modeling. |
-| 121 | 52 | 1 | 9 months ago | [FMG](https://github.com/HKUST-KnowComp/FMG)/295 | KDD17_FMG |
-| 120 | 57 | 1 | 4 years ago | [domain-adaptation-toolbox](https://github.com/viggin/domain-adaptation-toolbox)/296 | Wrappers and implementations of several domain adaptation / transfer learning / semi-supervised learning algorithms |
-| 120 | 78 | 5 | 2 years ago | [SignalGraph](https://github.com/singaxiong/SignalGraph)/297 | Matlab-based deep learning toolkit that supports arbitrary directed acyclic graphs (DAG). Support DNN, LSTM, CNN layers and many signal processing layers. Include recipes/examples of using the tool for various tasks. |
-| 120 | 35 | 0 | 2 months ago | [PN_GAN](https://github.com/naiq/PN_GAN)/298 | Pose-Normalized Image Generation for Person Re-identification |
-| 119 | 25 | 3 | 2 years ago | [sunrgbd-meta-data](https://github.com/ankurhanda/sunrgbd-meta-data)/299 | train test labels for sunrgbd |
-| 119 | 40 | 1 | 2 years ago | [nricp](https://github.com/charlienash/nricp)/300 | Matlab implementation of non-rigid iterative closest point |
-| 119 | 87 | 50 | 4 days ago | [CERR](https://github.com/cerr/CERR)/301 | Matlab based platform for Radiological Research |
-| 119 | 107 | 14 | 4 years ago | [Super-Resolution](https://github.com/wangxuewen99/Super-Resolution)/302 | 图像超分辨率算法的实现 |
-| 118 | 115 | 1 | 4 years ago | [vcnn_double-bladed](https://github.com/jimmy-ren/vcnn_double-bladed)/303 | Vectorized implementation of convolutional neural networks (CNN) in Matlab for both visual recognition and image processing. |
-| 118 | 37 | 6 | 4 months ago | [MWCNN](https://github.com/lpj0/MWCNN)/304 | Multi-level Wavelet-CNN for Image Restoration |
-| 118 | 49 | 19 | 8 months ago | [hpatches-benchmark](https://github.com/hpatches/hpatches-benchmark)/305 | Python & Matlab code for local feature descriptor evaluation with the HPatches dataset. |
-| 117 | 64 | 0 | 6 years ago | [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox)/306 | Deep learning made easy |
-| 117 | 45 | 3 | 3 years ago | [TADW](https://github.com/albertyang33/TADW)/307 | code for IJCAI2015 paper "Network Representation Learning with Rich Text Information" |
-| 117 | 76 | 0 | 11 months ago | [beamforming](https://github.com/jorgengrythe/beamforming)/308 | Matlab files for various types of beamforming |
-| 116 | 74 | 0 | 6 years ago | [coursera-ml](https://github.com/worldveil/coursera-ml)/309 | Andrew Ng's Coursera ML coding exercises and notes |
-| 115 | 21 | 0 | 3 days ago | [vbmc](https://github.com/lacerbi/vbmc)/310 | Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB |
-| 115 | 63 | 0 | 3 years ago | [msckf-swf-comparison](https://github.com/utiasSTARS/msckf-swf-comparison)/311 | MATLAB code and data for our CRV 2015 paper |
-| 115 | 66 | 0 | a month ago | [D-AMP_Toolbox](https://github.com/ricedsp/D-AMP_Toolbox)/312 | This package contains the code to run Learned D-AMP, D-AMP, D-VAMP, D-prGAMP, and DnCNN algorithms. It also includes code to train Learned D-AMP, DnCNN, and Deep Image Prior U-net using the SURE loss. |
-| 114 | 84 | 0 | 5 years ago | [face_recognize](https://github.com/David-Guo/face_recognize)/313 | Matlab PCA 人脸识别 |
-| 113 | 56 | 0 | 2 years ago | [Machine_Learning_AndrewNg](https://github.com/imLogM/Machine_Learning_AndrewNg)/314 | Homework of Andrew Ng's "Machine Learning" course in Coursera |
-| 112 | 39 | 2 | a month ago | [sap-voicebox](https://github.com/ImperialCollegeLondon/sap-voicebox)/315 | Speech Processing Toolbox for MATLAB |
-| 112 | 93 | 102 | 1 year, 1 month ago | [KiloSort](https://github.com/cortex-lab/KiloSort)/316 | GPU code for spike sorting  |
-| 112 | 37 | 3 | 1 year, 11 months ago | [FUSION2018](https://github.com/mbrossar/FUSION2018)/317 | Matlab code used for the paper " Invariant Kalman Filtering for Visual Inertial SLAM"  |
-| 112 | 53 | 1 | 1 year, 4 months ago | [machine-learning](https://github.com/JY-112553/machine-learning)/318 | Andrew Ng's machine learning  programming assignments on Coursera |
-| 112 | 61 | 1 | 6 months ago | [QuadrupedSim](https://github.com/paulyang1990/QuadrupedSim)/319 | A quadruped robot simulator in Matlab/Simulink |
-| 111 | 27 | 2 | 2 years ago | [MFT](https://github.com/ShuaiBai623/MFT)/320 | Multi-solution Fusion for Visual Tracking(MFT) |
-| 111 | 46 | 1 | 1 year, 8 months ago | [cvpr16_deblur_study](https://github.com/phoenix104104/cvpr16_deblur_study)/321 | A Comparative Study for Single Image Blind Deblurring (CVPR 2016) |
-| 111 | 40 | 0 | 1 year, 4 months ago | [seqNMF](https://github.com/FeeLab/seqNMF)/322 | An algorithm for unsupervised discovery of sequential structure |
-| 111 | 33 | 41 | 3 months ago | [tapas](https://github.com/translationalneuromodeling/tapas)/323 | TAPAS - Translational Algorithms for Psychiatry-Advancing Science |
-| 111 | 20 | 3 | 1 year, 5 months ago | [MenpoBenchmark](https://github.com/jiankangdeng/MenpoBenchmark)/324 | Multi-pose 2D and 3D Face Alignment & Tracking |
-| 111 | 93 | 4 | 6 years ago | [coursera-ml](https://github.com/gopaczewski/coursera-ml)/325 | Completed assignments from Coursera Machine Learning course - March 2014 |
-| 111 | 46 | 5 | 6 months ago | [ParNMPC](https://github.com/deng-haoyang/ParNMPC)/326 | A Parallel Optimization Toolkit for Nonlinear Model Predictive Control (NMPC) |
-| 110 | 58 | 3 | 4 months ago | [ImprovedOcamCalib](https://github.com/urbste/ImprovedOcamCalib)/327 | This is an add-on to the OCamCalib toolbox by Scaramuzza et al. |
-| 110 | 45 | 0 | a day ago | [featool-multiphysics](https://github.com/precise-simulation/featool-multiphysics)/328 | FEATool Multiphysics - "Physics Simulation Made Easy"   (Fully Integrated FEA, FEniCS, OpenFOAM, SU2 Solver GUI & Simulation Platform) |
-| 110 | 73 | 0 | 5 years ago | [Machine-Learning-Stanford-University-Coursera](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera)/329 | Contains the Course Material and Assignment Solutions for the Machine Learning Course at Stanford University on Coursera.  |
-| 109 | 82 | 4 | 1 year, 10 days ago | [ekfmonoslam](https://github.com/JzHuai0108/ekfmonoslam)/330 | SLAM using a monocular camera, optionally an IMU, and GPS |
-| 109 | 56 | 0 | 4 years ago | [Coursera_Machine_Learning_Exercises](https://github.com/zlotus/Coursera_Machine_Learning_Exercises)/331 | Machine Learning by Andrew Ng from Coursera |
-| 109 | 58 | 0 | 1 year, 1 month ago | [cinc-challenge2017](https://github.com/fernandoandreotti/cinc-challenge2017)/332 | ECG classification from short single lead segments (Computing in Cardiology Challenge 2017 entry) |
-| 109 | 56 | 3 | 4 years ago | [matlabPyrTools](https://github.com/LabForComputationalVision/matlabPyrTools)/333 | MatLab tools for multi-scale image processing, including Laplacian pyramids, Wavelets, and Steerable Pyramids |
-| 108 | 32 | 7 | 1 year, 2 months ago | [DSC](https://github.com/xw-hu/DSC)/334 | CVPR 2018 (Oral) & TPAMI 2019 |
-| 108 | 27 | 2 | 2 months ago | [Tutorial_Separation](https://github.com/gemengtju/Tutorial_Separation)/335 | This repo summarizes the tutorials, datasets, papers, codes and tools for speech separation and speaker extraction task. You are kindly invited to pull requests. |
-| 107 | 38 | 0 | 3 years ago | [machine-learning-exercises](https://github.com/zzlyw/machine-learning-exercises)/336 | The exercises about machine learning course. |
-| 107 | 73 | 0 | 4 years ago | [mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection)/337 | Object detection via a multi-region & semantic segmentation-aware CNN model |
-| 107 | 31 | 0 | 1 year, 2 months ago | [academic-drawing](https://github.com/xinychen/academic-drawing)/338 | Providing codes (including Matlab and Python) for visualizing numerical experiment results. |
-| 107 | 24 | 2 | 1 year, 6 months ago | [L1Stabilizer](https://github.com/ishit/L1Stabilizer)/339 | :movie_camera: Video stabilization using L1-norm optimal camera paths. |
-| 107 | 48 | 1 | 1 year, 2 months ago | [demo_for_kalmanFilter](https://github.com/gao-ouyang/demo_for_kalmanFilter)/340 | fusion algorithm(kf) with only ranging(UWB) and 6-axis imu sensor |
-| 106 | 29 | 1 | 7 months ago | [optimviz](https://github.com/lacerbi/optimviz)/341 | Visualize optimization algorithms in MATLAB. |
+| 123 | 47 | 0 | 2 years ago | [sw-sift](https://github.com/sun11/sw-sift)/287 | Matlab implementation of sift(opensift) algorithm. |
+| 122 | 74 | 4 | 3 years ago | [DeepPyramid](https://github.com/rbgirshick/DeepPyramid)/288 | Deep feature pyramids for various computer vision algorithms (DPMs, pyramid R-CNN, etc.)  |
+| 122 | 48 | 0 | 11 months ago | [Coursera-MachineLearning](https://github.com/loserChen/Coursera-MachineLearning)/289 | Homework about Machine Learning of Coursera taught by andrew ng |
+| 122 | 47 | 3 | 3 years ago | [3DMM_edges](https://github.com/waps101/3DMM_edges)/290 | Matlab implementation of algorithm for fitting 3D Morphable Model to images using edge features |
+| 122 | 76 | 14 | 1 year, 4 months ago | [machinevision-toolbox-matlab](https://github.com/petercorke/machinevision-toolbox-matlab)/291 | Machine Vision Toolbox for MATLAB |
+| 122 | 64 | 0 | 3 months ago | [ffcc](https://github.com/google/ffcc)/292 | Fast Fourier Color Constancy: an auto white balance solution with machine learning in Fourier space |
+| 122 | 58 | 3 | 3 years ago | [Deep-ADMM-Net](https://github.com/yangyan92/Deep-ADMM-Net)/293 | None |
+| 122 | 52 | 0 | a month ago | [Mathematical-Model-Implementation](https://github.com/hliangzhao/Mathematical-Model-Implementation)/294 | MATLAB code for classic mathematical modeling. |
+| 121 | 57 | 1 | 4 years ago | [domain-adaptation-toolbox](https://github.com/viggin/domain-adaptation-toolbox)/295 | Wrappers and implementations of several domain adaptation / transfer learning / semi-supervised learning algorithms |
+| 121 | 53 | 1 | 9 months ago | [FMG](https://github.com/HKUST-KnowComp/FMG)/296 | KDD17_FMG |
+| 120 | 25 | 3 | 2 years ago | [sunrgbd-meta-data](https://github.com/ankurhanda/sunrgbd-meta-data)/297 | train test labels for sunrgbd |
+| 120 | 37 | 6 | 4 months ago | [MWCNN](https://github.com/lpj0/MWCNN)/298 | Multi-level Wavelet-CNN for Image Restoration |
+| 120 | 35 | 0 | 2 months ago | [PN_GAN](https://github.com/naiq/PN_GAN)/299 | Pose-Normalized Image Generation for Person Re-identification |
+| 120 | 40 | 1 | 2 years ago | [nricp](https://github.com/charlienash/nricp)/300 | Matlab implementation of non-rigid iterative closest point |
+| 119 | 79 | 5 | 2 years ago | [SignalGraph](https://github.com/singaxiong/SignalGraph)/301 | Matlab-based deep learning toolkit that supports arbitrary directed acyclic graphs (DAG). Support DNN, LSTM, CNN layers and many signal processing layers. Include recipes/examples of using the tool for various tasks. |
+| 119 | 87 | 50 | 11 days ago | [CERR](https://github.com/cerr/CERR)/302 | Matlab based platform for Radiological Research |
+| 119 | 107 | 14 | 4 years ago | [Super-Resolution](https://github.com/wangxuewen99/Super-Resolution)/303 | 图像超分辨率算法的实现 |
+| 118 | 116 | 1 | 4 years ago | [vcnn_double-bladed](https://github.com/jimmy-ren/vcnn_double-bladed)/304 | Vectorized implementation of convolutional neural networks (CNN) in Matlab for both visual recognition and image processing. |
+| 118 | 45 | 3 | 3 years ago | [TADW](https://github.com/albertyang33/TADW)/305 | code for IJCAI2015 paper "Network Representation Learning with Rich Text Information" |
+| 118 | 49 | 19 | 8 months ago | [hpatches-benchmark](https://github.com/hpatches/hpatches-benchmark)/306 | Python & Matlab code for local feature descriptor evaluation with the HPatches dataset. |
+| 117 | 21 | 0 | 10 days ago | [vbmc](https://github.com/lacerbi/vbmc)/307 | Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB |
+| 117 | 64 | 0 | 6 years ago | [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox)/308 | Deep learning made easy |
+| 117 | 76 | 0 | 1 year, 3 days ago | [beamforming](https://github.com/jorgengrythe/beamforming)/309 | Matlab files for various types of beamforming |
+| 116 | 74 | 0 | 6 years ago | [coursera-ml](https://github.com/worldveil/coursera-ml)/310 | Andrew Ng's Coursera ML coding exercises and notes |
+| 116 | 66 | 0 | a month ago | [D-AMP_Toolbox](https://github.com/ricedsp/D-AMP_Toolbox)/311 | This package contains the code to run Learned D-AMP, D-AMP, D-VAMP, D-prGAMP, and DnCNN algorithms. It also includes code to train Learned D-AMP, DnCNN, and Deep Image Prior U-net using the SURE loss. |
+| 115 | 63 | 0 | 3 years ago | [msckf-swf-comparison](https://github.com/utiasSTARS/msckf-swf-comparison)/312 | MATLAB code and data for our CRV 2015 paper |
+| 114 | 56 | 0 | 2 years ago | [Machine_Learning_AndrewNg](https://github.com/imLogM/Machine_Learning_AndrewNg)/313 | Homework of Andrew Ng's "Machine Learning" course in Coursera |
+| 114 | 84 | 0 | 5 years ago | [face_recognize](https://github.com/David-Guo/face_recognize)/314 | Matlab PCA 人脸识别 |
+| 113 | 20 | 3 | 1 year, 5 months ago | [MenpoBenchmark](https://github.com/jiankangdeng/MenpoBenchmark)/315 | Multi-pose 2D and 3D Face Alignment & Tracking |
+| 113 | 93 | 102 | 1 year, 1 month ago | [KiloSort](https://github.com/cortex-lab/KiloSort)/316 | GPU code for spike sorting  |
+| 113 | 28 | 2 | 2 months ago | [Tutorial_Separation](https://github.com/gemengtju/Tutorial_Separation)/317 | This repo summarizes the tutorials, datasets, papers, codes and tools for speech separation and speaker extraction task. You are kindly invited to pull requests. |
+| 112 | 39 | 2 | a month ago | [sap-voicebox](https://github.com/ImperialCollegeLondon/sap-voicebox)/318 | Speech Processing Toolbox for MATLAB |
+| 112 | 38 | 3 | 1 year, 11 months ago | [FUSION2018](https://github.com/mbrossar/FUSION2018)/319 | Matlab code used for the paper " Invariant Kalman Filtering for Visual Inertial SLAM"  |
+| 112 | 53 | 1 | 1 year, 5 months ago | [machine-learning](https://github.com/JY-112553/machine-learning)/320 | Andrew Ng's machine learning  programming assignments on Coursera |
+| 112 | 61 | 1 | 6 months ago | [QuadrupedSim](https://github.com/paulyang1990/QuadrupedSim)/321 | A quadruped robot simulator in Matlab/Simulink |
+| 112 | 74 | 0 | 5 years ago | [Machine-Learning-Stanford-University-Coursera](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera)/322 | Contains the Course Material and Assignment Solutions for the Machine Learning Course at Stanford University on Coursera.  |
+| 111 | 27 | 2 | 2 years ago | [MFT](https://github.com/ShuaiBai623/MFT)/323 | Multi-solution Fusion for Visual Tracking(MFT) |
+| 111 | 46 | 1 | 1 year, 8 months ago | [cvpr16_deblur_study](https://github.com/phoenix104104/cvpr16_deblur_study)/324 | A Comparative Study for Single Image Blind Deblurring (CVPR 2016) |
+| 111 | 40 | 0 | 1 year, 4 months ago | [seqNMF](https://github.com/FeeLab/seqNMF)/325 | An algorithm for unsupervised discovery of sequential structure |
+| 111 | 33 | 41 | 3 months ago | [tapas](https://github.com/translationalneuromodeling/tapas)/326 | TAPAS - Translational Algorithms for Psychiatry-Advancing Science |
+| 111 | 45 | 0 | 7 days ago | [featool-multiphysics](https://github.com/precise-simulation/featool-multiphysics)/327 | FEATool Multiphysics - "Physics Simulation Made Easy"   (Fully Integrated FEA, FEniCS, OpenFOAM, SU2 Solver GUI & Simulation Platform) |
+| 111 | 46 | 5 | 7 months ago | [ParNMPC](https://github.com/deng-haoyang/ParNMPC)/328 | A Parallel Optimization Toolkit for Nonlinear Model Predictive Control (NMPC) |
+| 110 | 82 | 4 | 1 year, 17 days ago | [ekfmonoslam](https://github.com/JzHuai0108/ekfmonoslam)/329 | SLAM using a monocular camera, optionally an IMU, and GPS |
+| 110 | 58 | 3 | 4 months ago | [ImprovedOcamCalib](https://github.com/urbste/ImprovedOcamCalib)/330 | This is an add-on to the OCamCalib toolbox by Scaramuzza et al. |
+| 110 | 56 | 3 | 4 years ago | [matlabPyrTools](https://github.com/LabForComputationalVision/matlabPyrTools)/331 | MatLab tools for multi-scale image processing, including Laplacian pyramids, Wavelets, and Steerable Pyramids |
+| 110 | 93 | 4 | 6 years ago | [coursera-ml](https://github.com/gopaczewski/coursera-ml)/332 | Completed assignments from Coursera Machine Learning course - March 2014 |
+| 109 | 56 | 0 | 4 years ago | [Coursera_Machine_Learning_Exercises](https://github.com/zlotus/Coursera_Machine_Learning_Exercises)/333 | Machine Learning by Andrew Ng from Coursera |
+| 109 | 58 | 0 | 1 year, 1 month ago | [cinc-challenge2017](https://github.com/fernandoandreotti/cinc-challenge2017)/334 | ECG classification from short single lead segments (Computing in Cardiology Challenge 2017 entry) |
+| 108 | 32 | 7 | 1 year, 2 months ago | [DSC](https://github.com/xw-hu/DSC)/335 | CVPR 2018 (Oral) & TPAMI 2019 |
+| 108 | 31 | 0 | 1 year, 2 months ago | [academic-drawing](https://github.com/xinychen/academic-drawing)/336 | Providing codes (including Matlab and Python) for visualizing numerical experiment results. |
+| 107 | 38 | 0 | 3 years ago | [machine-learning-exercises](https://github.com/zzlyw/machine-learning-exercises)/337 | The exercises about machine learning course. |
+| 107 | 73 | 0 | 4 years ago | [mrcnn-object-detection](https://github.com/gidariss/mrcnn-object-detection)/338 | Object detection via a multi-region & semantic segmentation-aware CNN model |
+| 107 | 24 | 2 | 1 year, 7 months ago | [L1Stabilizer](https://github.com/ishit/L1Stabilizer)/339 | :movie_camera: Video stabilization using L1-norm optimal camera paths. |
+| 107 | 49 | 1 | 1 year, 3 months ago | [demo_for_kalmanFilter](https://github.com/gao-ouyang/demo_for_kalmanFilter)/340 | fusion algorithm(kf) with only ranging(UWB) and 6-axis imu sensor |
+| 106 | 29 | 1 | 8 months ago | [optimviz](https://github.com/lacerbi/optimviz)/341 | Visualize optimization algorithms in MATLAB. |
 | 106 | 55 | 3 | 10 months ago | [TFOCS](https://github.com/cvxr/TFOCS)/342 | A MATLAB toolbox for building first-order solvers for convex models. |
 | 106 | 69 | 1 | 3 years ago | [ml-coursera](https://github.com/zsiciarz/ml-coursera)/343 | My solutions for programming assignments from the Machine Learning course at coursera.org. |
 | 105 | 59 | 0 | 4 years ago | [ProfXkit](https://github.com/jianxiongxiao/ProfXkit)/344 | Professor X Toolkit (previously known as the Princeton Vision and Robotics Toolkit) |
 | 105 | 40 | 0 | 5 years ago | [WholeCell](https://github.com/CovertLab/WholeCell)/345 | Mycoplasma genitalium whole-cell model |
 | 104 | 27 | 0 | 1 year, 7 months ago | [IDN-Caffe](https://github.com/Zheng222/IDN-Caffe)/346 | Caffe implementation of "Fast and Accurate Single Image Super-Resolution via Information Distillation Network" (CVPR 2018) |
-| 103 | 48 | 0 | 2 years ago | [DeepVisualization](https://github.com/happynear/DeepVisualization)/347 | Visualizing Deep Neural Network by Alternately Image Blurring and Deblurring |
-| 102 | 50 | 5 | 4 months ago | [gpstuff](https://github.com/gpstuff-dev/gpstuff)/348 | GPstuff - Gaussian process models for Bayesian analysis |
-| 102 | 40 | 1 | 3 years ago | [CPSC540Project](https://github.com/gudbrandtandberg/CPSC540Project)/349 | Project on financial forecasting using ML. Made by Anson Wong, Juan Garcia & Gudbrand Tandberg |
-| 102 | 90 | 5 | 6 years ago | [medal](https://github.com/dustinstansbury/medal)/350 | Matlab Environment for Deep Architecture Learning |
-| 101 | 59 | 6 | 3 years ago | [MALSAR](https://github.com/jiayuzhou/MALSAR)/351 | Multi-task learning via Structural Regularization |
-| 101 | 44 | 5 | 1 year, 2 months ago | [Nowcasting](https://github.com/FRBNY-TimeSeriesAnalysis/Nowcasting)/352 | Nowcasting |
-| 101 | 84 | 2 | 3 years ago | [GPmat](https://github.com/SheffieldML/GPmat)/353 | Matlab implementations of Gaussian processes and other machine learning tools. |
-| 100 | 52 | 0 | 4 years ago | [nmt.matlab](https://github.com/lmthang/nmt.matlab)/354 | Code to train state-of-the-art Neural Machine Translation systems. |
-| 100 | 42 | 0 | 5 months ago | [blind_image_quality_toolbox](https://github.com/dsoellinger/blind_image_quality_toolbox)/355 | Collection of Blind Image Quality Metrics in Matlab |
-| 100 | 72 | 8 | 5 years ago | [sdm_face_alignment](https://github.com/tntrung/sdm_face_alignment)/356 | The Matlab implementation of Supervised Descent Method (SDM) for Face Alignment. |
-| 100 | 44 | 6 | 2 years ago | [HRVAS](https://github.com/jramshur/HRVAS)/357 | Heart Rate Variability Analysis Software |
-| 100 | 49 | 0 | 2 years ago | [Digital-Image-Processing](https://github.com/chengchengzi/Digital-Image-Processing)/358 | 冈萨雷斯《数字图像处理matlab版》第二版 |
-| 100 | 59 | 0 | 11 months ago | [dcm-imu](https://github.com/hhyyti/dcm-imu)/359 | The DCM-IMU algorithm is designed for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements. An extended Kalman filter is used to estimate attitude in direction cosine matrix (DCM) formation and gyroscope biases online. A variable measurement covariance method is implemented for acceleration measurements to ensure robustness against temporarily non-gravitational accelerations which usually induce errors to attitude estimate in ordinary IMU-algorithms.  The code and data will be added after related scientific work is published and open source publication is approved. |
-| 100 | 57 | 12 | 1 year, 3 months ago | [StaMPS](https://github.com/dbekaert/StaMPS)/360 | Stanford Method for Persistent Scatterers |
-| 100 | 39 | 8 | 4 months ago | [pglib-opf](https://github.com/power-grid-lib/pglib-opf)/361 | Benchmarks for the Optimal Power Flow Problem |
-| 100 | 133 | 71 | 23 days ago | [vistasoft](https://github.com/vistalab/vistasoft)/362 | VISTASOFT is the main software repository of the VISTA lab at Stanford University. |
+| 103 | 48 | 0 | 3 years ago | [DeepVisualization](https://github.com/happynear/DeepVisualization)/347 | Visualizing Deep Neural Network by Alternately Image Blurring and Deblurring |
+| 103 | 84 | 2 | 3 years ago | [GPmat](https://github.com/SheffieldML/GPmat)/348 | Matlab implementations of Gaussian processes and other machine learning tools. |
+| 102 | 43 | 6 | 2 years ago | [HRVAS](https://github.com/jramshur/HRVAS)/349 | Heart Rate Variability Analysis Software |
+| 102 | 49 | 0 | 2 years ago | [Digital-Image-Processing](https://github.com/chengchengzi/Digital-Image-Processing)/350 | 冈萨雷斯《数字图像处理matlab版》第二版 |
+| 102 | 49 | 5 | 4 months ago | [gpstuff](https://github.com/gpstuff-dev/gpstuff)/351 | GPstuff - Gaussian process models for Bayesian analysis |
+| 102 | 59 | 6 | 3 years ago | [MALSAR](https://github.com/jiayuzhou/MALSAR)/352 | Multi-task learning via Structural Regularization |
+| 102 | 39 | 8 | 4 months ago | [pglib-opf](https://github.com/power-grid-lib/pglib-opf)/353 | Benchmarks for the Optimal Power Flow Problem |
+| 102 | 40 | 1 | 3 years ago | [CPSC540Project](https://github.com/gudbrandtandberg/CPSC540Project)/354 | Project on financial forecasting using ML. Made by Anson Wong, Juan Garcia & Gudbrand Tandberg |
+| 102 | 91 | 5 | 6 years ago | [medal](https://github.com/dustinstansbury/medal)/355 | Matlab Environment for Deep Architecture Learning |
+| 101 | 44 | 5 | 1 year, 2 months ago | [Nowcasting](https://github.com/FRBNY-TimeSeriesAnalysis/Nowcasting)/356 | Nowcasting |
+| 100 | 52 | 0 | 4 years ago | [nmt.matlab](https://github.com/lmthang/nmt.matlab)/357 | Code to train state-of-the-art Neural Machine Translation systems. |
+| 100 | 42 | 0 | 5 months ago | [blind_image_quality_toolbox](https://github.com/dsoellinger/blind_image_quality_toolbox)/358 | Collection of Blind Image Quality Metrics in Matlab |
+| 100 | 72 | 8 | 5 years ago | [sdm_face_alignment](https://github.com/tntrung/sdm_face_alignment)/359 | The Matlab implementation of Supervised Descent Method (SDM) for Face Alignment. |
+| 100 | 59 | 0 | 11 months ago | [dcm-imu](https://github.com/hhyyti/dcm-imu)/360 | The DCM-IMU algorithm is designed for fusing low-cost triaxial MEMS gyroscope and accelerometer measurements. An extended Kalman filter is used to estimate attitude in direction cosine matrix (DCM) formation and gyroscope biases online. A variable measurement covariance method is implemented for acceleration measurements to ensure robustness against temporarily non-gravitational accelerations which usually induce errors to attitude estimate in ordinary IMU-algorithms.  The code and data will be added after related scientific work is published and open source publication is approved. |
+| 100 | 57 | 12 | 1 year, 3 months ago | [StaMPS](https://github.com/dbekaert/StaMPS)/361 | Stanford Method for Persistent Scatterers |
+| 100 | 133 | 71 | 30 days ago | [vistasoft](https://github.com/vistalab/vistasoft)/362 | VISTASOFT is the main software repository of the VISTA lab at Stanford University. |
 | 100 | 65 | 33 | 1 year, 8 months ago | [Suite2P](https://github.com/cortex-lab/Suite2P)/363 | Tools for processing 2P recordings |
-| 100 | 12 | 0 | 4 years ago | [CollaborativeFiltering](https://github.com/13952522076/CollaborativeFiltering)/364 | matlab, collaborative filtering, MovieLens dataset，The movie recommendation system |
-| 99 | 35 | 0 | 2 years ago | [Context-Aware-CF-Tracking](https://github.com/thias15/Context-Aware-CF-Tracking)/365 | None |
-| 99 | 84 | 7 | 8 years ago | [MatlabNLP](https://github.com/faridani/MatlabNLP)/366 | Natural Language Processing tools for MATLAB |
-| 98 | 31 | 3 | 3 years ago | [PRW-baseline](https://github.com/liangzheng06/PRW-baseline)/367 | This repository provides the baseline codes for the PRW (Person Re-identification in the Wild) dataset. |
-| 98 | 54 | 6 | 8 months ago | [shadedErrorBar](https://github.com/raacampbell/shadedErrorBar)/368 | Produce elegant shaded error bars in MATLAB |
+| 100 | 35 | 0 | 2 years ago | [Context-Aware-CF-Tracking](https://github.com/thias15/Context-Aware-CF-Tracking)/364 | None |
+| 100 | 12 | 0 | 4 years ago | [CollaborativeFiltering](https://github.com/13952522076/CollaborativeFiltering)/365 | matlab, collaborative filtering, MovieLens dataset，The movie recommendation system |
+| 99 | 55 | 6 | 8 months ago | [shadedErrorBar](https://github.com/raacampbell/shadedErrorBar)/366 | Produce elegant shaded error bars in MATLAB |
+| 99 | 84 | 7 | 8 years ago | [MatlabNLP](https://github.com/faridani/MatlabNLP)/367 | Natural Language Processing tools for MATLAB |
+| 98 | 31 | 3 | 3 years ago | [PRW-baseline](https://github.com/liangzheng06/PRW-baseline)/368 | This repository provides the baseline codes for the PRW (Person Re-identification in the Wild) dataset. |
 | 98 | 76 | 1 | 3 years ago | [TDD](https://github.com/wanglimin/TDD)/369 | Trajectory-pooled Deep-Convolutional Descriptors |
-| 98 | 42 | 3 | 3 years ago | [vad](https://github.com/mvansegbroeck-zz/vad)/370 | Voice Activity Detection system (Matlab-based implementation) |
-| 98 | 41 | 4 | 9 months ago | [rwt](https://github.com/ricedsp/rwt)/371 | The Rice Wavelet Toolbox (RWT) is a collection of Matlab M-files and C MEX-files for 1D and 2D wavelet and filter bank design, analysis, and processing. The toolbox provides tools for denoising and interfaces directly with our Matlab code for wavelet domain hidden Markov models and wavelet regularized deconvolution.  |
-| 98 | 25 | 3 | 1 year, 11 months ago | [vadam](https://github.com/emtiyaz/vadam)/372 | Code for ICML 2018 paper on "Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam" by Khan, Nielsen, Tangkaratt, Lin, Gal, and Srivastava |
-| 96 | 104 | 27 | 25 days ago | [matRad](https://github.com/e0404/matRad)/373 | An open source multi-modality radiation treatment planning sytem |
-| 96 | 71 | 0 | 5 years ago | [SensorFusion](https://github.com/simondlevy/SensorFusion)/374 | A simple Matlab example of sensor fusion using a Kalman filter |
-| 96 | 36 | 5 | 23 days ago | [sal_eval_toolbox](https://github.com/ArcherFMY/sal_eval_toolbox)/375 | evaluation toolbox for salient object detection |
+| 98 | 36 | 5 | 30 days ago | [sal_eval_toolbox](https://github.com/ArcherFMY/sal_eval_toolbox)/370 | evaluation toolbox for salient object detection |
+| 98 | 43 | 3 | 3 years ago | [vad](https://github.com/mvansegbroeck-zz/vad)/371 | Voice Activity Detection system (Matlab-based implementation) |
+| 98 | 41 | 4 | 9 months ago | [rwt](https://github.com/ricedsp/rwt)/372 | The Rice Wavelet Toolbox (RWT) is a collection of Matlab M-files and C MEX-files for 1D and 2D wavelet and filter bank design, analysis, and processing. The toolbox provides tools for denoising and interfaces directly with our Matlab code for wavelet domain hidden Markov models and wavelet regularized deconvolution.  |
+| 98 | 25 | 3 | 2 years ago | [vadam](https://github.com/emtiyaz/vadam)/373 | Code for ICML 2018 paper on "Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam" by Khan, Nielsen, Tangkaratt, Lin, Gal, and Srivastava |
+| 97 | 72 | 0 | 6 years ago | [SensorFusion](https://github.com/simondlevy/SensorFusion)/374 | A simple Matlab example of sensor fusion using a Kalman filter |
+| 96 | 104 | 26 | a month ago | [matRad](https://github.com/e0404/matRad)/375 | An open source multi-modality radiation treatment planning sytem |
 | 96 | 70 | 6 | 6 years ago | [LabelMeToolbox](https://github.com/CSAILVision/LabelMeToolbox)/376 | MATLAB Toolbox for the LabelMe Image Database |
-| 96 | 32 | 1 | 1 year, 9 months ago | [lightspeed](https://github.com/tminka/lightspeed)/377 | lightspeed matlab toolbox |
-| 95 | 118 | 143 | 2 years ago | [dynare](https://github.com/DynareTeam/dynare)/378 | This project has moved to https://git.dynare.org/Dynare/dynare |
-| 95 | 17 | 2 | 3 years ago | [3dinn](https://github.com/jiajunwu/3dinn)/379 | Single Image 3D Interpreter Network |
-| 95 | 216 | 0 | 7 years ago | [machine-learning-coursera](https://github.com/1094401996/machine-learning-coursera)/380 | Lecture notes and assignments for coursera machine learning class   |
-| 95 | 47 | 9 | 3 months ago | [iso2mesh](https://github.com/fangq/iso2mesh)/381 | Iso2Mesh - a 3D surface and volumetric mesh generator for MATLAB/Octave |
-| 94 | 24 | 1 | 2 years ago | [DAG](https://github.com/cihangxie/DAG)/382 | Adversarial Examples for Semantic Segmentation and Object Detection |
-| 94 | 163 | 2 | 7 years ago | [MATLAB](https://github.com/aludnam/MATLAB)/383 | None |
-| 94 | 55 | 3 | 11 days ago | [HMM-MAR](https://github.com/OHBA-analysis/HMM-MAR)/384 | Toolbox for segmentation and characterisation of transient connectivity  |
+| 96 | 32 | 1 | 1 year, 10 months ago | [lightspeed](https://github.com/tminka/lightspeed)/377 | lightspeed matlab toolbox |
+| 95 | 119 | 143 | 2 years ago | [dynare](https://github.com/DynareTeam/dynare)/378 | This project has moved to https://git.dynare.org/Dynare/dynare |
+| 95 | 55 | 3 | 10 hours ago | [HMM-MAR](https://github.com/OHBA-analysis/HMM-MAR)/379 | Toolbox for segmentation and characterisation of transient connectivity  |
+| 95 | 17 | 2 | 3 years ago | [3dinn](https://github.com/jiajunwu/3dinn)/380 | Single Image 3D Interpreter Network |
+| 95 | 216 | 0 | 7 years ago | [machine-learning-coursera](https://github.com/1094401996/machine-learning-coursera)/381 | Lecture notes and assignments for coursera machine learning class   |
+| 95 | 47 | 9 | 3 months ago | [iso2mesh](https://github.com/fangq/iso2mesh)/382 | Iso2Mesh - a 3D surface and volumetric mesh generator for MATLAB/Octave |
+| 94 | 24 | 1 | 2 years ago | [DAG](https://github.com/cihangxie/DAG)/383 | Adversarial Examples for Semantic Segmentation and Object Detection |
+| 94 | 162 | 2 | 7 years ago | [MATLAB](https://github.com/aludnam/MATLAB)/384 | None |
 | 94 | 78 | 1 | 8 years ago | [DeepLearning](https://github.com/qiuwch/DeepLearning)/385 | Deep learning code by Hinton |
 | 94 | 37 | 1 | 2 years ago | [Machine-Learning-Andrew-Ng](https://github.com/ShiMengjie/Machine-Learning-Andrew-Ng)/386 | 机器学习-Coursera-吴恩达- python+Matlab代码实现 |
-| 93 | 37 | 5 | 5 years ago | [StructCompletion](https://github.com/jbhuang0604/StructCompletion)/387 | Image Completion using Planar Structure Guidance (SIGGRAPH 2014) |
+| 93 | 38 | 5 | 5 years ago | [StructCompletion](https://github.com/jbhuang0604/StructCompletion)/387 | Image Completion using Planar Structure Guidance (SIGGRAPH 2014) |
 | 93 | 23 | 7 | 1 year, 5 months ago | [SDRSAC](https://github.com/intellhave/SDRSAC)/388 | SDRSAC - Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences. |
-| 93 | 27 | 1 | 3 years ago | [MarrRevisited](https://github.com/aayushbansal/MarrRevisited)/389 | Marr Revisited: 2D-3D Alignment via Surface Normal Prediction |
-| 92 | 19 | 3 | 3 months ago | [DHF1K](https://github.com/wenguanwang/DHF1K)/390 | Revisiting Video Saliency: A Large-scale Benchmark and a New Model (CVPR18, PAMI19) |
-| 92 | 35 | 1 | 2 years ago | [STC2](https://github.com/jacoxu/STC2)/391 | Demo code for the paper STC2 which released three short text datasets for clustering and classification |
-| 92 | 42 | 6 | 2 years ago | [MV-release](https://github.com/zbwglory/MV-release)/392 | None |
-| 92 | 55 | 7 | 6 years ago | [sds_eccv2014](https://github.com/bharath272/sds_eccv2014)/393 | None |
-| 92 | 77 | 3 | 8 years ago | [open-bldc-hardware](https://github.com/open-bldc/open-bldc-hardware)/394 | OpenSource Brushless Drive Controller Hardware |
-| 92 | 56 | 4 | 5 years ago | [pose-aligned-deep-networks](https://github.com/facebookarchive/pose-aligned-deep-networks)/395 | Pose Aligned Networks for Deep Attribute Modeling matlab code used for the publication here: http://arxiv.org/abs/1311.5591 |
-| 92 | 32 | 6 | 3 years ago | [L2-Net](https://github.com/yuruntian/L2-Net)/396 | Code and mode for CVPR 2017 paper  "L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space" |
-| 91 | 26 | 40 | 11 days ago | [ltfat](https://github.com/ltfat/ltfat)/397 | This is an official development repository of LTFAT |
-| 91 | 12 | 4 | 2 months ago | [Grid-Anchor-based-Image-Cropping](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)/398 | Project page of the CVPR2019 paper "Reliable and Efficient Image Cropping: A Grid Anchor based Approach" |
-| 91 | 29 | 2 | 3 years ago | [non-local-dehazing](https://github.com/danaberman/non-local-dehazing)/399 | MATLAB implementation of the paper "Non-Local Image Dehazing", CVPR 2016 |
-| 91 | 31 | 109 | 9 months ago | [octsympy](https://github.com/cbm755/octsympy)/400 | A Symbolic Package for Octave using SymPy |
+| 93 | 78 | 3 | 8 years ago | [open-bldc-hardware](https://github.com/open-bldc/open-bldc-hardware)/389 | OpenSource Brushless Drive Controller Hardware |
+| 93 | 27 | 1 | 3 years ago | [MarrRevisited](https://github.com/aayushbansal/MarrRevisited)/390 | Marr Revisited: 2D-3D Alignment via Surface Normal Prediction |
+| 92 | 19 | 3 | 4 months ago | [DHF1K](https://github.com/wenguanwang/DHF1K)/391 | Revisiting Video Saliency: A Large-scale Benchmark and a New Model (CVPR18, PAMI19) |
+| 92 | 26 | 40 | 18 days ago | [ltfat](https://github.com/ltfat/ltfat)/392 | This is an official development repository of LTFAT |
+| 92 | 35 | 1 | 2 years ago | [STC2](https://github.com/jacoxu/STC2)/393 | Demo code for the paper STC2 which released three short text datasets for clustering and classification |
+| 92 | 29 | 2 | 3 years ago | [non-local-dehazing](https://github.com/danaberman/non-local-dehazing)/394 | MATLAB implementation of the paper "Non-Local Image Dehazing", CVPR 2016 |
+| 92 | 42 | 6 | 2 years ago | [MV-release](https://github.com/zbwglory/MV-release)/395 | None |
+| 92 | 55 | 7 | 6 years ago | [sds_eccv2014](https://github.com/bharath272/sds_eccv2014)/396 | None |
+| 92 | 56 | 4 | 5 years ago | [pose-aligned-deep-networks](https://github.com/facebookarchive/pose-aligned-deep-networks)/397 | Pose Aligned Networks for Deep Attribute Modeling matlab code used for the publication here: http://arxiv.org/abs/1311.5591 |
+| 92 | 32 | 6 | 3 years ago | [L2-Net](https://github.com/yuruntian/L2-Net)/398 | Code and mode for CVPR 2017 paper  "L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space" |
+| 91 | 12 | 4 | 2 months ago | [Grid-Anchor-based-Image-Cropping](https://github.com/HuiZeng/Grid-Anchor-based-Image-Cropping)/399 | Project page of the CVPR2019 paper "Reliable and Efficient Image Cropping: A Grid Anchor based Approach" |
+| 91 | 32 | 111 | 9 months ago | [octsympy](https://github.com/cbm755/octsympy)/400 | A Symbolic Package for Octave using SymPy |
 | 91 | 35 | 6 | 3 years ago | [Laser-Camera-Calibration-Toolbox](https://github.com/zhixy/Laser-Camera-Calibration-Toolbox)/401 | A Laser-Camera Calibration Toolbox extending from that at http://www.cs.cmu.edu/~ranjith/lcct.html |
 | 91 | 51 | 5 | 2 years ago | [GyroAllan](https://github.com/XinLiGH/GyroAllan)/402 | 陀螺仪随机误差的 Allan 方差分析 |
-| 90 | 56 | 24 | 6 years ago | [simiam](https://github.com/jdelacroix/simiam)/403 | A MATLAB-based educational bridge between theory and practice in robotics. |
-| 90 | 39 | 8 | 3 years ago | [Quality-Aware-Network](https://github.com/liuyuisanai/Quality-Aware-Network)/404 | Code and some data for ``Quality Aware Network for Set to Set Recognition'' in CVPR 2017 |
-| 89 | 55 | 1 | 3 years ago | [CNN-for-Face-Image-Retrieval](https://github.com/willard-yuan/CNN-for-Face-Image-Retrieval)/405 | :apple:Face image rerieval |
-| 89 | 60 | 7 | 1 year, 28 days ago | [radiomics](https://github.com/mvallieres/radiomics)/406 | MATLAB programming tools for radiomics analysis |
-| 89 | 30 | 8 | 2 years ago | [YCB_Video_toolbox](https://github.com/yuxng/YCB_Video_toolbox)/407 | Toolbox for the YCB-Video dataset |
-| 89 | 47 | 2 | 6 months ago | [DTINet](https://github.com/luoyunan/DTINet)/408 | A Network Integration Approach for Drug-Target Interaction Prediction |
-| 89 | 29 | 2 | 7 years ago | [SketchTokens](https://github.com/gitlim/SketchTokens)/409 | A tool for extracting contour-based mid-level features, and to extract contour segmentations from images |
-| 89 | 28 | 3 | 3 years ago | [ObjectNet3D_toolbox](https://github.com/yuxng/ObjectNet3D_toolbox)/410 | Toolbox for ObjectNet3D |
-| 89 | 29 | 0 | 3 years ago | [yang_vocoder](https://github.com/google/yang_vocoder)/411 | None |
-| 89 | 27 | 3 | 5 years ago | [PlotRTL1090](https://github.com/JorgeGT/PlotRTL1090)/412 | 3D visualization of air traffic through RTL-SDR (dump1090) and MATLAB |
-| 89 | 72 | 1 | 3 years ago | [MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB)/413 | MATLAB Code for MIMO-OFDM Wireless Communications with MATLAB | MIMO-OFDM无线通信技术及MATLAB实现 |
-| 89 | 72 | 1 | 3 years ago | [matconvnet-calvin](https://github.com/nightrome/matconvnet-calvin)/414 | Code for several state-of-the-art papers in object detection and semantic segmentation. |
-| 89 | 48 | 2 | 3 years ago | [EKF-SLAM-on-Manifold](https://github.com/RomaTeng/EKF-SLAM-on-Manifold)/415 | EKF-SLAM using Lie Group |
-| 89 | 61 | 10 | 4 months ago | [CNMF_E](https://github.com/zhoupc/CNMF_E)/416 | Constrained Nonnegative Matrix Factorization for microEndoscopic data  |
-| 89 | 26 | 4 | 2 years ago | [DARE](https://github.com/Doubaibai/DARE)/417 | DARE: Deception Analysis and Reasoning Engine |
-| 89 | 8 | 0 | 9 days ago | [MATL](https://github.com/lmendo/MATL)/418 | A programming language based on MATLAB and suitable for code golfing |
-| 88 | 43 | 1 | 3 years ago | [CS-Recovery-Algorithms](https://github.com/aresmiki/CS-Recovery-Algorithms)/419 | None |
-| 88 | 52 | 2 | 5 years ago | [Deep-Semi-NMF](https://github.com/trigeorgis/Deep-Semi-NMF)/420 | Theano-based implementation of Deep Semi-NMF. |
-| 88 | 99 | 2 | 3 years ago | [coursera-machine-learning](https://github.com/benoitvallon/coursera-machine-learning)/421 | None |
-| 88 | 51 | 1 | 2 years ago | [edx-learning-from-data](https://github.com/danielfm/edx-learning-from-data)/422 | My solutions for the CaltechX Learning From Data course on edX. |
-| 88 | 80 | 0 | 8 years ago | [ml-class](https://github.com/SaveTheRbtz/ml-class)/423 | Stanford Machine learning class excercises |
-| 87 | 30 | 5 | 5 years ago | [Perceptual-Coding-In-Python](https://github.com/stephencwelch/Perceptual-Coding-In-Python)/424 | None |
-| 87 | 39 | 10 | 4 months ago | [RRest](https://github.com/peterhcharlton/RRest)/425 | Algorithms to estimate respiratory rate from physiological signals |
-| 87 | 39 | 0 | 5 months ago | [Robotics-Planning-Dynamics-and-Control](https://github.com/YashBansod/Robotics-Planning-Dynamics-and-Control)/426 | RPDC : This contains all my MATLAB codes for the Robotics, Planning, Dynamics and Control . The implementations model various kinds of manipulators and mobile robots for position control, trajectory planning and path planning problems. |
-| 87 | 31 | 5 | 3 years ago | [MatlabToolbox](https://github.com/IoSR-Surrey/MatlabToolbox)/427 | General purpose Matlab toolbox |
-| 87 | 47 | 1 | 2 years ago | [doa-tools](https://github.com/morriswmz/doa-tools)/428 | A set of MATLAB functions for direction-of-arrival (DOA) estimation in array signal processing. |
+| 91 | 72 | 1 | 3 years ago | [MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB)/403 | MATLAB Code for MIMO-OFDM Wireless Communications with MATLAB | MIMO-OFDM无线通信技术及MATLAB实现 |
+| 91 | 27 | 3 | 6 years ago | [PlotRTL1090](https://github.com/JorgeGT/PlotRTL1090)/404 | 3D visualization of air traffic through RTL-SDR (dump1090) and MATLAB |
+| 90 | 56 | 24 | 6 years ago | [simiam](https://github.com/jdelacroix/simiam)/405 | A MATLAB-based educational bridge between theory and practice in robotics. |
+| 90 | 40 | 8 | 3 years ago | [Quality-Aware-Network](https://github.com/liuyuisanai/Quality-Aware-Network)/406 | Code and some data for ``Quality Aware Network for Set to Set Recognition'' in CVPR 2017 |
+| 90 | 60 | 7 | 1 year, 1 month ago | [radiomics](https://github.com/mvallieres/radiomics)/407 | MATLAB programming tools for radiomics analysis |
+| 90 | 30 | 8 | 2 years ago | [YCB_Video_toolbox](https://github.com/yuxng/YCB_Video_toolbox)/408 | Toolbox for the YCB-Video dataset |
+| 90 | 48 | 2 | 6 months ago | [DTINet](https://github.com/luoyunan/DTINet)/409 | A Network Integration Approach for Drug-Target Interaction Prediction |
+| 90 | 26 | 4 | 2 years ago | [DARE](https://github.com/Doubaibai/DARE)/410 | DARE: Deception Analysis and Reasoning Engine |
+| 89 | 43 | 1 | 3 years ago | [CS-Recovery-Algorithms](https://github.com/aresmiki/CS-Recovery-Algorithms)/411 | None |
+| 89 | 55 | 1 | 3 years ago | [CNN-for-Face-Image-Retrieval](https://github.com/willard-yuan/CNN-for-Face-Image-Retrieval)/412 | :apple:Face image rerieval |
+| 89 | 30 | 5 | 5 years ago | [Perceptual-Coding-In-Python](https://github.com/stephencwelch/Perceptual-Coding-In-Python)/413 | None |
+| 89 | 29 | 2 | 7 years ago | [SketchTokens](https://github.com/gitlim/SketchTokens)/414 | A tool for extracting contour-based mid-level features, and to extract contour segmentations from images |
+| 89 | 28 | 3 | 3 years ago | [ObjectNet3D_toolbox](https://github.com/yuxng/ObjectNet3D_toolbox)/415 | Toolbox for ObjectNet3D |
+| 89 | 29 | 0 | 3 years ago | [yang_vocoder](https://github.com/google/yang_vocoder)/416 | None |
+| 89 | 72 | 1 | 3 years ago | [matconvnet-calvin](https://github.com/nightrome/matconvnet-calvin)/417 | Code for several state-of-the-art papers in object detection and semantic segmentation. |
+| 89 | 48 | 2 | 3 years ago | [EKF-SLAM-on-Manifold](https://github.com/RomaTeng/EKF-SLAM-on-Manifold)/418 | EKF-SLAM using Lie Group |
+| 89 | 61 | 10 | 4 months ago | [CNMF_E](https://github.com/zhoupc/CNMF_E)/419 | Constrained Nonnegative Matrix Factorization for microEndoscopic data  |
+| 89 | 8 | 0 | 16 days ago | [MATL](https://github.com/lmendo/MATL)/420 | A programming language based on MATLAB and suitable for code golfing |
+| 88 | 51 | 2 | 5 years ago | [Deep-Semi-NMF](https://github.com/trigeorgis/Deep-Semi-NMF)/421 | Theano-based implementation of Deep Semi-NMF. |
+| 88 | 99 | 2 | 3 years ago | [coursera-machine-learning](https://github.com/benoitvallon/coursera-machine-learning)/422 | None |
+| 88 | 39 | 10 | 4 months ago | [RRest](https://github.com/peterhcharlton/RRest)/423 | Algorithms to estimate respiratory rate from physiological signals |
+| 88 | 47 | 1 | 2 years ago | [doa-tools](https://github.com/morriswmz/doa-tools)/424 | A set of MATLAB functions for direction-of-arrival (DOA) estimation in array signal processing. |
+| 88 | 51 | 1 | 3 years ago | [edx-learning-from-data](https://github.com/danielfm/edx-learning-from-data)/425 | My solutions for the CaltechX Learning From Data course on edX. |
+| 88 | 80 | 0 | 9 years ago | [ml-class](https://github.com/SaveTheRbtz/ml-class)/426 | Stanford Machine learning class excercises |
+| 87 | 40 | 0 | 6 months ago | [Robotics-Planning-Dynamics-and-Control](https://github.com/YashBansod/Robotics-Planning-Dynamics-and-Control)/427 | RPDC : This contains all my MATLAB codes for the Robotics, Planning, Dynamics and Control . The implementations model various kinds of manipulators and mobile robots for position control, trajectory planning and path planning problems. |
+| 87 | 31 | 5 | 3 years ago | [MatlabToolbox](https://github.com/IoSR-Surrey/MatlabToolbox)/428 | General purpose Matlab toolbox |
 | 87 | 68 | 1 | 7 years ago | [Probabilistic-Graphical-Models](https://github.com/anhncs/Probabilistic-Graphical-Models)/429 | Code for Implementation, Inference, and Learning of Bayesian and Markov Networks along with some practical examples. |
-| 87 | 31 | 7 | 6 years ago | [python-matlab-bridge](https://github.com/jaderberg/python-matlab-bridge)/430 | A simple interface to allow Python to call MATLAB functions. |
+| 87 | 32 | 7 | 6 years ago | [python-matlab-bridge](https://github.com/jaderberg/python-matlab-bridge)/430 | A simple interface to allow Python to call MATLAB functions. |
 | 86 | 38 | 10 | 11 months ago | [DeepContour](https://github.com/shenwei1231/DeepContour)/431 | The testing code for deep contour detector |
 | 86 | 30 | 0 | 4 years ago | [kaggle-seizure-prediction-challenge-2016](https://github.com/alexandrebarachant/kaggle-seizure-prediction-challenge-2016)/432 | Code and documentation for the winning solution to the Melbourne University AES/MathWorks/NIH Seizure Prediction challenge on kaggle |
-| 85 | 58 | 19 | 4 days ago | [CanlabCore](https://github.com/canlab/CanlabCore)/433 | Core tools required for running Canlab Matlab toolboxes. The heart of this toolbox is object-oriented tools that enable interactive analysis of neuroimaging data and simple scripts using high-level commands tailored to neuroimaging analysis.  |
-| 84 | 4 | 0 | 4 years ago | [RealCandle](https://github.com/cpldcpu/RealCandle)/434 | Analysis of the flicker pattern of a real candle |
-| 84 | 27 | 0 | 2 years ago | [Mathematical_Modeling](https://github.com/Eurus-Holmes/Mathematical_Modeling)/435 | :confetti_ball: Mathematical Modeling Algorithms and Applications |
-| 84 | 83 | 20 | 11 months ago | [bbci_public](https://github.com/bbci/bbci_public)/436 | MATLAB toolbox for Brain-Computer Interfacing (BCI) |
-| 83 | 22 | 7 | 7 months ago | [ASRCF](https://github.com/Daikenan/ASRCF)/437 | CVPR2019 Oral |
-| 83 | 22 | 1 | 2 years ago | [S-WMD](https://github.com/gaohuang/S-WMD)/438 | Code for Supervised Word Mover's Distance (SWMD) |
-| 83 | 44 | 53 | 6 months ago | [nctoolbox](https://github.com/nctoolbox/nctoolbox)/439 | NCTOOLBOX  A Matlab toolbox for working with common data model datasets |
-| 83 | 50 | 1 | 1 year, 10 months ago | [GNSS-matlab](https://github.com/danipascual/GNSS-matlab)/440 | Matlab codes to generate GNSS PRNs, secondary codes, dataless signals and spectra. Includes real data captures and a theory summary. GPS (L1CA, L2C, L5), Gaileo (E1OS, E5), BeiDou-2 (B1I) |
-| 83 | 52 | 24 | a month ago | [wave_clus](https://github.com/csn-le/wave_clus)/441 | A fast and unsupervised algorithm for spike detection and sorting using wavelets and super-paramagnetic clustering |
-| 82 | 50 | 0 | 2 years ago | [graphslam](https://github.com/versatran01/graphslam)/442 | graphslam |
-| 82 | 42 | 1 | 4 years ago | [SLAM-Algorithms-Octave](https://github.com/kiran-mohan/SLAM-Algorithms-Octave)/443 | Solutions to assignments of Robot Mapping Course WS 2013/14 by Dr. Cyrill Stachniss at University of Freiburg |
-| 82 | 20 | 0 | 1 year, 7 months ago | [CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics](https://github.com/Doraemonzzz/CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics)/444 | 斯坦福数值分析公开课的学习资料 |
-| 82 | 31 | 9 | 2 years ago | [autonn](https://github.com/vlfeat/autonn)/445 | A fast and expressive Matlab/MatConvNet deep learning API, with native automatic differentiation |
-| 82 | 17 | 0 | 4 months ago | [SDE](https://github.com/AaltoML/SDE)/446 | Example codes for the book Applied Stochastic Differential Equations |
-| 82 | 41 | 0 | 5 months ago | [LiDAR](https://github.com/DrGabor/LiDAR)/447 | LiDAR data processing |
-| 81 | 23 | 8 | 11 months ago | [iphys-toolbox](https://github.com/danmcduff/iphys-toolbox)/448 | A MATLAB toolbox for iPPG analysis.  The toolbox includes implementations of commonly used methods. |
-| 81 | 36 | 2 | 4 months ago | [GenericObjectDecoding](https://github.com/KamitaniLab/GenericObjectDecoding)/449 | Demo code for Horikawa and Kamitani (2017) Generic decoding of seen and imagined objects using hierarchical visual features. Nat Commun https://www.nature.com/articles/ncomms15037. |
-| 81 | 44 | 4 | 2 months ago | [gspbox](https://github.com/epfl-lts2/gspbox)/450 | Graph Signal Processing in Matlab |
-| 81 | 30 | 5 | 3 years ago | [object3d](https://github.com/geopavlakos/object3d)/451 | Code for "6-DoF Object Pose from Semantic Keypoints", ICRA 2017 |
-| 81 | 34 | 3 | 2 years ago | [deep-fbanks](https://github.com/mcimpoi/deep-fbanks)/452 | Deep Filter Banks for Texture Recognition, Description and Segmentation (CVPR15) |
-| 81 | 39 | 1 | 8 years ago | [Air-Quality-Prediction-Hackathon-Winning-Model](https://github.com/benhamner/Air-Quality-Prediction-Hackathon-Winning-Model)/453 | Contains the code for the model that won Kaggle's Air Quality Prediction Hackathon |
-| 81 | 19 | 0 | 1 year, 1 month ago | [LADCF](https://github.com/XU-TIANYANG/LADCF)/454 | Matlab implementation of TIP2019 paper "Learning Adaptive Discriminative Correlation Filters via Temporal Consistency Preserving Spatial Feature Selection for Robust Visual Object Tracking" |
-| 81 | 65 | 2 | 6 months ago | [Matlab_deep_learning](https://github.com/decouples/Matlab_deep_learning)/455 | 《Matlab计算机视觉与深度学习实战》代码 |
-| 81 | 6 | 0 | 2 years ago | [curveball](https://github.com/jotaf98/curveball)/456 | Second-order optimiser for deep networks |
-| 81 | 39 | 4 | 3 years ago | [places_devkit](https://github.com/zhoubolei/places_devkit)/457 | Development kit for the data of the Places365-Standard and Places365-Challenge |
-| 81 | 25 | 19 | 1 year, 10 months ago | [hed](https://github.com/xwjabc/hed)/458 | A PyTorch reimplementation of Holistically-Nested Edge Detection |
-| 81 | 52 | 0 | 2 years ago | [MatConvNet-oneclick](https://github.com/imistyrain/MatConvNet-oneclick)/459 | Train your own data with MatConvNet |
-| 81 | 33 | 2 | 7 months ago | [EPnP](https://github.com/cvlab-epfl/EPnP)/460 | EPnP: Efficient Perspective-n-Point Camera Pose Estimation |
-| 80 | 56 | 4 | 2 years ago | [samf](https://github.com/ihpdep/samf)/461 | samf code |
+| 85 | 58 | 19 | 11 days ago | [CanlabCore](https://github.com/canlab/CanlabCore)/433 | Core tools required for running Canlab Matlab toolboxes. The heart of this toolbox is object-oriented tools that enable interactive analysis of neuroimaging data and simple scripts using high-level commands tailored to neuroimaging analysis.  |
+| 84 | 50 | 0 | 2 years ago | [graphslam](https://github.com/versatran01/graphslam)/434 | graphslam |
+| 84 | 4 | 0 | 4 years ago | [RealCandle](https://github.com/cpldcpu/RealCandle)/435 | Analysis of the flicker pattern of a real candle |
+| 84 | 27 | 0 | 2 years ago | [Mathematical_Modeling](https://github.com/Eurus-Holmes/Mathematical_Modeling)/436 | :confetti_ball: Mathematical Modeling Algorithms and Applications |
+| 84 | 83 | 20 | 1 year, 5 days ago | [bbci_public](https://github.com/bbci/bbci_public)/437 | MATLAB toolbox for Brain-Computer Interfacing (BCI) |
+| 83 | 22 | 7 | 8 months ago | [ASRCF](https://github.com/Daikenan/ASRCF)/438 | CVPR2019 Oral |
+| 83 | 42 | 1 | 4 years ago | [SLAM-Algorithms-Octave](https://github.com/kiran-mohan/SLAM-Algorithms-Octave)/439 | Solutions to assignments of Robot Mapping Course WS 2013/14 by Dr. Cyrill Stachniss at University of Freiburg |
+| 83 | 30 | 5 | 3 years ago | [object3d](https://github.com/geopavlakos/object3d)/440 | Code for "6-DoF Object Pose from Semantic Keypoints", ICRA 2017 |
+| 83 | 22 | 1 | 2 years ago | [S-WMD](https://github.com/gaohuang/S-WMD)/441 | Code for Supervised Word Mover's Distance (SWMD) |
+| 83 | 44 | 53 | 6 months ago | [nctoolbox](https://github.com/nctoolbox/nctoolbox)/442 | NCTOOLBOX  A Matlab toolbox for working with common data model datasets |
+| 83 | 50 | 1 | 1 year, 11 months ago | [GNSS-matlab](https://github.com/danipascual/GNSS-matlab)/443 | Matlab codes to generate GNSS PRNs, secondary codes, dataless signals and spectra. Includes real data captures and a theory summary. GPS (L1CA, L2C, L5), Gaileo (E1OS, E5), BeiDou-2 (B1I) |
+| 83 | 17 | 0 | 4 months ago | [SDE](https://github.com/AaltoML/SDE)/444 | Example codes for the book Applied Stochastic Differential Equations |
+| 83 | 52 | 23 | a day ago | [wave_clus](https://github.com/csn-le/wave_clus)/445 | A fast and unsupervised algorithm for spike detection and sorting using wavelets and super-paramagnetic clustering |
+| 82 | 20 | 0 | 1 year, 7 months ago | [CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics](https://github.com/Doraemonzzz/CS205A-Mathematical-Methods-for-Robotics--Vision--and-Graphics)/446 | 斯坦福数值分析公开课的学习资料 |
+| 82 | 31 | 9 | 2 years ago | [autonn](https://github.com/vlfeat/autonn)/447 | A fast and expressive Matlab/MatConvNet deep learning API, with native automatic differentiation |
+| 82 | 39 | 1 | 8 years ago | [Air-Quality-Prediction-Hackathon-Winning-Model](https://github.com/benhamner/Air-Quality-Prediction-Hackathon-Winning-Model)/448 | Contains the code for the model that won Kaggle's Air Quality Prediction Hackathon |
+| 82 | 41 | 0 | 5 months ago | [LiDAR](https://github.com/DrGabor/LiDAR)/449 | LiDAR data processing |
+| 82 | 33 | 2 | 7 months ago | [EPnP](https://github.com/cvlab-epfl/EPnP)/450 | EPnP: Efficient Perspective-n-Point Camera Pose Estimation |
+| 81 | 24 | 8 | 11 months ago | [iphys-toolbox](https://github.com/danmcduff/iphys-toolbox)/451 | A MATLAB toolbox for iPPG analysis.  The toolbox includes implementations of commonly used methods. |
+| 81 | 36 | 2 | 4 months ago | [GenericObjectDecoding](https://github.com/KamitaniLab/GenericObjectDecoding)/452 | Demo code for Horikawa and Kamitani (2017) Generic decoding of seen and imagined objects using hierarchical visual features. Nat Commun https://www.nature.com/articles/ncomms15037. |
+| 81 | 44 | 4 | 2 months ago | [gspbox](https://github.com/epfl-lts2/gspbox)/453 | Graph Signal Processing in Matlab |
+| 81 | 34 | 3 | 2 years ago | [deep-fbanks](https://github.com/mcimpoi/deep-fbanks)/454 | Deep Filter Banks for Texture Recognition, Description and Segmentation (CVPR15) |
+| 81 | 19 | 0 | 1 year, 2 months ago | [LADCF](https://github.com/XU-TIANYANG/LADCF)/455 | Matlab implementation of TIP2019 paper "Learning Adaptive Discriminative Correlation Filters via Temporal Consistency Preserving Spatial Feature Selection for Robust Visual Object Tracking" |
+| 81 | 67 | 2 | 6 months ago | [Matlab_deep_learning](https://github.com/decouples/Matlab_deep_learning)/456 | 《Matlab计算机视觉与深度学习实战》代码 |
+| 81 | 6 | 0 | 2 years ago | [curveball](https://github.com/jotaf98/curveball)/457 | Second-order optimiser for deep networks |
+| 81 | 39 | 4 | 3 years ago | [places_devkit](https://github.com/zhoubolei/places_devkit)/458 | Development kit for the data of the Places365-Standard and Places365-Challenge |
+| 81 | 25 | 20 | 1 year, 10 months ago | [hed](https://github.com/xwjabc/hed)/459 | A PyTorch reimplementation of Holistically-Nested Edge Detection |
+| 81 | 52 | 0 | 2 years ago | [MatConvNet-oneclick](https://github.com/imistyrain/MatConvNet-oneclick)/460 | Train your own data with MatConvNet |
+| 80 | 57 | 5 | 2 years ago | [samf](https://github.com/ihpdep/samf)/461 | samf code |
 | 80 | 30 | 7 | 2 years ago | [GNet-pose](https://github.com/Guanghan/GNet-pose)/462 | Source code release of the paper: Knowledge-Guided Deep Fractal Neural Networks for Human Pose Estimation. |
-| 80 | 22 | 12 | 8 days ago | [transplant](https://github.com/bastibe/transplant)/463 | Transplant is an easy way of calling Matlab from Python |
+| 80 | 22 | 12 | 14 days ago | [transplant](https://github.com/bastibe/transplant)/463 | Transplant is an easy way of calling Matlab from Python |
 | 80 | 55 | 14 | 2 years ago | [SOM-Toolbox](https://github.com/ilarinieminen/SOM-Toolbox)/464 | None |
-| 80 | 10 | 2 | 7 years ago | [thesis](https://github.com/wspr/thesis)/465 | My now-completed PhD thesis |
-| 80 | 16 | 27 | 1 year, 2 months ago | [Wing-Loss](https://github.com/FengZhenhua/Wing-Loss)/466 | A Matlab Implementation for CNN-based Facial Landmark Localisation using Wing Loss |
-| 80 | 43 | 2 | 3 years ago | [ResNet-Matconvnet](https://github.com/zhanghang1989/ResNet-Matconvnet)/467 | Train Deep Residual Network from Scratch or or Fine-tune Pre-trained Model using Matconvnet |
-| 79 | 25 | 2 | 10 months ago | [pytoflow](https://github.com/Coldog2333/pytoflow)/468 | The py version of toflow → https://github.com/anchen1011/toflow |
-| 79 | 57 | 0 | 4 years ago | [cp11fall_project1](https://github.com/drakeguan/cp11fall_project1)/469 | Implementation of Edge-Preserving Multiscale Image Decomposition Based on Local Extrema |
+| 80 | 38 | 23 | 1 year, 7 months ago | [GISMO](https://github.com/geoscience-community-codes/GISMO)/465 | GISMO - a seismic data analysis toolbox for MATLAB |
+| 80 | 10 | 2 | 7 years ago | [thesis](https://github.com/wspr/thesis)/466 | My now-completed PhD thesis |
+| 80 | 16 | 27 | 1 year, 2 months ago | [Wing-Loss](https://github.com/FengZhenhua/Wing-Loss)/467 | A Matlab Implementation for CNN-based Facial Landmark Localisation using Wing Loss |
+| 80 | 43 | 2 | 3 years ago | [ResNet-Matconvnet](https://github.com/zhanghang1989/ResNet-Matconvnet)/468 | Train Deep Residual Network from Scratch or or Fine-tune Pre-trained Model using Matconvnet |
+| 79 | 25 | 2 | 10 months ago | [pytoflow](https://github.com/Coldog2333/pytoflow)/469 | The py version of toflow → https://github.com/anchen1011/toflow |
 | 79 | 32 | 1 | 1 year, 2 months ago | [MCWNNM-ICCV2017](https://github.com/csjunxu/MCWNNM-ICCV2017)/470 | Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising, ICCV 2017. |
-| 79 | 24 | 3 | 5 years ago | [solarized-matlab](https://github.com/benhager/solarized-matlab)/471 | Solarized for MATLAB |
-| 78 | 36 | 0 | 2 years ago | [lips](https://github.com/rpng/lips)/472 | LiDAR-Inertial 3D Plane Simulator |
-| 78 | 33 | 3 | 2 years ago | [GFN-dehazing](https://github.com/rwenqi/GFN-dehazing)/473 | Gated Fusion Network for Single Image Dehazing |
-| 78 | 40 | 0 | 2 years ago | [mNeuron](https://github.com/donglaiw/mNeuron)/474 | None |
-| 78 | 10 | 10 | 1 year, 1 month ago | [Kernel-Modeling-Super-Resolution](https://github.com/IVRL/Kernel-Modeling-Super-Resolution)/475 | Official Implementation for Kernel Modeling Super-Resolution on Real Low-Resolution Images |
-| 78 | 40 | 3 | 6 years ago | [rtl-sdr-LTE](https://github.com/JiaoXianjun/rtl-sdr-LTE)/476 | Play with LTE signal (especially China TD-LTE) captured by rtl-sdr |
-| 77 | 56 | 0 | 4 years ago | [rbpf-gmapping](https://github.com/Allopart/rbpf-gmapping)/477 | MatLab implementation of a Rao-Blacwellized Particle Filter for Grid- Based FastSlam |
-| 77 | 50 | 6 | 3 years ago | [rgbd](https://github.com/s-gupta/rgbd)/478 | Code for CVPR13 paper - Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images |
-| 77 | 43 | 8 | 4 years ago | [calib_toolbox_addon](https://github.com/christianwengert/calib_toolbox_addon)/479 | Hand-eye calibration addon for the Matlab camera calibration toolbox |
-| 77 | 20 | 2 | 7 years ago | [rembo](https://github.com/ziyuw/rembo)/480 | Bayesian optimization in high-dimensions via random embedding. |
-| 77 | 48 | 0 | 3 years ago | [cluster](https://github.com/tobyma2020/cluster)/481 | The codes的K-means，FCM，谱聚类，DBSCAN，AP（AffinityPropagation），DPC聚类算法比较 |
-| 77 | 41 | 4 | 2 years ago | [3D-reconstruction](https://github.com/yihui-he/3D-reconstruction)/482 | two view structure from motion |
-| 77 | 30 | 9 | a month ago | [Fmask](https://github.com/GERSL/Fmask)/483 | The software called Fmask (Function of mask) is used for automated clouds, cloud shadows, and snow masking for Landsats 4-8 and Sentinel 2 images. |
-| 77 | 31 | 6 | 3 years ago | [bivec](https://github.com/lmthang/bivec)/484 | Train bilingual embeddings as described in our NAACL 2015 workshop paper "Bilingual Word Representations with Monolingual Quality in Mind". Besides, it has all the functionalities of word2vec with added features and code clarity. See README for more info. |
-| 77 | 37 | 23 | 1 year, 7 months ago | [GISMO](https://github.com/geoscience-community-codes/GISMO)/485 | GISMO - a seismic data analysis toolbox for MATLAB |
-| 77 | 43 | 12 | 6 years ago | [scatnet](https://github.com/scatnet/scatnet)/486 | Scattering Network for Matlab |
-| 77 | 79 | 2 | 6 years ago | [UFLDL-Tutorial-Exercise](https://github.com/dkyang/UFLDL-Tutorial-Exercise)/487 | None |
-| 77 | 13 | 0 | 3 months ago | [FastAP-metric-learning](https://github.com/kunhe/FastAP-metric-learning)/488 | Code for CVPR 2019 paper "Deep Metric Learning to Rank" |
-| 77 | 35 | 4 | 10 months ago | [pyrenn](https://github.com/yabata/pyrenn)/489 | A Recurrent Neural Network Toolbox for Python and Matlab |
-| 76 | 16 | 11 | 9 months ago | [Deep-SR-ITM](https://github.com/sooyekim/Deep-SR-ITM)/490 | Official repository of Deep SR-ITM (oral at ICCV 2019) |
-| 76 | 51 | 4 | 3 years ago | [HeartSeg](https://github.com/yulequan/HeartSeg)/491 | code of DenseVoxNet and 3D-DSN |
-| 76 | 33 | 4 | 1 year, 7 months ago | [VisDrone2018-DET-toolkit](https://github.com/VisDrone/VisDrone2018-DET-toolkit)/492 | Object Detection in Images toolkit for VisDrone2019 |
-| 76 | 38 | 8 | 3 months ago | [KST-Kuka-Sunrise-Toolbox](https://github.com/Modi1987/KST-Kuka-Sunrise-Toolbox)/493 | A ToolBox for controlling KUKA iiwa robot from matlab: |
-| 76 | 21 | 0 | 7 months ago | [Smart-Algorithm](https://github.com/LiYangSir/Smart-Algorithm)/494 | 智能算法-遗传算法、蚁群算法、粒子群算法实现。实现版本Java,Python,MatLab多版本实现 |
-| 75 | 21 | 4 | 3 months ago | [sr-metric](https://github.com/chaoma99/sr-metric)/495 | Learning a No-Reference Quality Metric for Single-Image Super-Rolution |
-| 75 | 27 | 1 | 2 years ago | [fmtl](https://github.com/gingsmith/fmtl)/496 | Federated Multi-Task Learning |
-| 75 | 45 | 1 | 7 years ago | [ekf-slam-matlab](https://github.com/jaijuneja/ekf-slam-matlab)/497 | A Simultaneous Localisation and Mapping simulation in MATLAB |
-| 75 | 62 | 2 | 3 years ago | [MPC_Code](https://github.com/s7ev3n/MPC_Code)/498 | Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab. |
-| 75 | 28 | 1 | 2 years ago | [diffusion-retrieval](https://github.com/ahmetius/diffusion-retrieval)/499 | Efficient Diffusion on Region Manifolds: Recovering Small Objects with Compact CNN Representations  |
-| 75 | 34 | 2 | 7 years ago | [Video2HeartRate](https://github.com/uavster/Video2HeartRate)/500 | Push your smartphone camera with your fingertip, record and find out your heart rate. |
-| 75 | 26 | 0 | 10 months ago | [Active-Learning](https://github.com/MrGiovanni/Active-Learning)/501 | Official Matlab demo for AIFT - CVPR 2017 |
-| 75 | 28 | 0 | 3 years ago | [2015-SIGGRAPH-convolutional-ot](https://github.com/gpeyre/2015-SIGGRAPH-convolutional-ot)/502 | J. Solomon, F. de Goes, G. Peyré, M. Cuturi, A. Butscher, A. Nguyen, T. Du, L. Guibas. Convolutional Wasserstein Distances: Efficient Optimal Transportation on Geometric Domains. ACM Transactions on Graphics (Proc. SIGGRAPH 2015), 34(4), pp. 66:1–66:11, 2015 |
-| 75 | 53 | 0 | 5 years ago | [matlab-midi](https://github.com/kts/matlab-midi)/503 | Matlab scripts to read and write MIDI files |
-| 75 | 48 | 1 | 4 years ago | [Image-Processing-Codes-for-Easier-Understanding](https://github.com/YimianDai/Image-Processing-Codes-for-Easier-Understanding)/504 | original or modified image processing codes for easier understanding |
-| 74 | 35 | 0 | 4 years ago | [Dark-Channel-Haze-Removal](https://github.com/sjtrny/Dark-Channel-Haze-Removal)/505 | MATLAB implementation of "Single Image Haze Removal Using Dark Channel Prior" |
-| 74 | 64 | 1 | 4 years ago | [octave-networks-toolbox](https://github.com/aeolianine/octave-networks-toolbox)/506 | A set of graph/networks analysis functions in Octave |
-| 74 | 24 | 1 | 2 years ago | [DenseDepthMap](https://github.com/balcilar/DenseDepthMap)/507 | Create Dense Depth Map Image for Known Poisitioned Camera from Lidar Point Cloud |
-| 74 | 18 | 3 | 1 year, 2 months ago | [mcnCrossModalEmotions](https://github.com/albanie/mcnCrossModalEmotions)/508 | Supporting code for "Emotion Recognition in Speech using Cross-Modal Transfer in the Wild" |
-| 74 | 37 | 1 | 3 years ago | [IntelligentOptimizationAlgorithms](https://github.com/yangzhen0512/IntelligentOptimizationAlgorithms)/509 | This repository displays the demos of some Intelligent Optimization Algorithms, including SA (Simulated Annealing), GA (Genetic algorithm), PSO (Particle Swarm Optimizer) and so on. And some other algorithms will be appended in the future.  |
-| 74 | 41 | 1 | 4 years ago | [DeepPed](https://github.com/DenisTome/DeepPed)/510 | Convolutional Neural Networks for Pedestrian Detection |
-| 74 | 14 | 3 | 3 years ago | [Image-Shadow-Detection-and-Removal](https://github.com/kittenish/Image-Shadow-Detection-and-Removal)/511 | None |
-| 74 | 23 | 1 | 5 months ago | [38-Cloud-A-Cloud-Segmentation-Dataset](https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset)/512 | This data set includes Landsat 8 images and their manually extracted pixel-level ground truths for cloud detection. |
-| 73 | 38 | 1 | 7 years ago | [matlab](https://github.com/jluttine/matlab)/513 | A collection of MATLAB scripts |
-| 73 | 14 | 3 | 7 years ago | [ChinaMapDeviation](https://github.com/maxime/ChinaMapDeviation)/514 | A method to correct the China Map Deviation, written as an Objective-C category on CLLocation |
-| 73 | 34 | 1 | 1 year, 11 months ago | [Robust_Elastic_Warping](https://github.com/gain2217/Robust_Elastic_Warping)/515 | source codes for Parallax-Tolerant Image Stitching Based on Robust Elastic Warping |
-| 74 | 25 | 1 | 3 months ago | [WB_sRGB](https://github.com/mahmoudnafifi/WB_sRGB)/516 | White balance camera-rendered sRGB images (CVPR 2019) [Matlab & Python] |
-| 73 | 43 | 1 | 2 years ago | [machine-learning](https://github.com/khanhnamle1994/machine-learning)/517 | Programming Assignments and Lectures for Andrew Ng's "Machine Learning" Coursera course |
-| 73 | 39 | 0 | 7 months ago | [ML_toolbox](https://github.com/epfl-lasa/ML_toolbox)/518 | A Machine learning toolbox containing algorithms for non-linear dimensionality reduction, clustering, classification and regression along with examples and tutorials which accompany the Master level "Advanced Machine Learning" and "Machine Learning Programming" courses taught at EPFL by Prof. Aude Billard |
-| 74 | 14 | 3 | 1 year, 5 months ago | [DMAN_MOT](https://github.com/jizhu1023/DMAN_MOT)/519 | Code for Online Multi-Object Tracking with Dual Matching Attention Network, ECCV 2018 |
-| 73 | 29 | 6 | a month ago | [FAIR.m](https://github.com/C4IR/FAIR.m)/520 | Flexible Algorithms for Image Registration |
-| 72 | 37 | 1 | 6 months ago | [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control)/521 | TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation. |
-| 72 | 29 | 2 | 4 years ago | [SAGE](https://github.com/jacobeisenstein/SAGE)/522 | Sparse Additive Generative Model of Text |
-| 72 | 10 | 1 | 2 years ago | [corrected-UCF101-Annots](https://github.com/gurkirt/corrected-UCF101-Annots)/523 | None |
-| 72 | 37 | 2 | 4 years ago | [image-registration](https://github.com/fordanic/image-registration)/524 | A MATLAB library/toolbox providing access to image registration suitable for use with medical images. |
-| 72 | 33 | 1 | 7 months ago | [SINDY-MPC](https://github.com/eurika-kaiser/SINDY-MPC)/525 | None |
-| 72 | 84 | 0 | 4 years ago | [Aero-matlab](https://github.com/wme7/Aero-matlab)/526 | My matlab homework files |
-| 72 | 58 | 1 | 2 months ago | [PrognosticsAlgorithmLibrary](https://github.com/nasa/PrognosticsAlgorithmLibrary)/527 | None |
-| 72 | 14 | 0 | 1 year, 16 days ago | [Pottslab](https://github.com/mstorath/Pottslab)/528 | Multilabel image segmentation (color/gray/multichannel) based on the Potts  model (aka piecewise constant Mumford-Shah model) |
-| 72 | 60 | 9 | 1 year, 3 months ago | [VBA-toolbox](https://github.com/MBB-team/VBA-toolbox)/529 | The VBA toolbox |
-| 71 | 40 | 2 | 4 years ago | [deepGP](https://github.com/SheffieldML/deepGP)/530 | Deep Gaussian Processes in matlab |
-| 71 | 36 | 1 | 3 years ago | [SoundZone_Tools](https://github.com/JacobD10/SoundZone_Tools)/531 | Signal Processing Tools for MATLAB |
-| 71 | 30 | 10 | 13 days ago | [allenCCF](https://github.com/cortex-lab/allenCCF)/532 | Tools to work with Allen Inst CCF data in matlab |
-| 71 | 29 | 2 | 25 days ago | [robust-tube-mpc](https://github.com/HiroIshida/robust-tube-mpc)/533 | Robust model predictive control using tube |
-| 71 | 16 | 9 | 1 year, 5 months ago | [TADT](https://github.com/XinLi-zn/TADT)/534 | Implementation of the TADT tracker of paper 'Target-Aware Deep Tracking' |
-| 71 | 52 | 0 | 1 year, 4 months ago | [iris](https://github.com/Qingbao/iris)/535 | Iris Recognition Algorithms Comparison between Daugman algorithm and Hough transform on Matlab |
-| 71 | 22 | 7 | 2 months ago | [MetricGAN](https://github.com/JasonSWFu/MetricGAN)/536 | MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement (ICML 2019, with Travel awards) |
-| 71 | 38 | 3 | 4 years ago | [covariancetoolbox](https://github.com/alexandrebarachant/covariancetoolbox)/537 | Covariance toolbox for matlab, including riemannian geometry |
-| 71 | 37 | 5 | 21 hours ago | [GIBBON](https://github.com/gibbonCode/GIBBON)/538 | The Geometry and Image-Based Bioengineering add-On for MATLAB |
-| 71 | 45 | 2 | 3 years ago | [phact](https://github.com/gregkaplan/phact)/539 | None |
-| 71 | 31 | 0 | 8 years ago | [star-cascade](https://github.com/rbgirshick/star-cascade)/540 | Cascade Object Detection with Deformable Part Models – Add-on package for voc-release4.01 |
-| 71 | 55 | 0 | 4 years ago | [AnomalyDetectionToolbox](https://github.com/dsmi-lab-ntust/AnomalyDetectionToolbox)/541 | A collection of algorithms for anomaly detection |
-| 70 | 27 | 0 | 2 days ago | [TGRS-HRRSD-Dataset](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset)/542 | None |
-| 70 | 21 | 4 | 1 year, 7 months ago | [image2mesh](https://github.com/jhonykaesemodel/image2mesh)/543 | Code for the paper "Image2Mesh: A Learning Framework for Single Image 3D Reconstruction" |
-| 70 | 54 | 0 | 1 year, 7 months ago | [NoRMCorre](https://github.com/flatironinstitute/NoRMCorre)/544 | Matlab routines for online non-rigid motion correction of calcium imaging data |
-| 70 | 25 | 2 | 1 year, 8 months ago | [BIQA_Toolbox](https://github.com/HuiZeng/BIQA_Toolbox)/545 | A benchmark implementation of representative deep BIQA models |
-| 70 | 74 | 0 | 9 years ago | [deeplearning-class-2011](https://github.com/zellyn/deeplearning-class-2011)/546 | Code for Deep Learning class at Google |
-| 70 | 28 | 7 | 7 months ago | [spatialmath-matlab](https://github.com/petercorke/spatialmath-matlab)/547 | Create,  manipulate and convert representations of position and orientation in 2D or 3D using Python |
-| 70 | 57 | 2 | 6 months ago | [spgl1](https://github.com/mpf/spgl1)/548 | A solver for large-scale sparse least squares |
-| 70 | 40 | 3 | 4 months ago | [cgmm_mvdr](https://github.com/snsun/cgmm_mvdr)/549 | None |
-| 70 | 33 | 0 | 3 months ago | [DCMH-CVPR2017](https://github.com/jiangqy/DCMH-CVPR2017)/550 | source code for paper "Deep Cross-Modal Hashing" |
-| 70 | 24 | 6 | 8 months ago | [TWSC-ECCV2018](https://github.com/csjunxu/TWSC-ECCV2018)/551 |  Matlab Code for "A Trilateral Weighted Sparse Coding Scheme for Real-World Image Denoising, ECCV 2018". |
-| 69 | 14 | 6 | 1 year, 8 months ago | [cooperative_scene_parsing](https://github.com/thusiyuan/cooperative_scene_parsing)/552 | Code for NeurIPS 2018: Cooperative Holisctic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation  |
-| 69 | 22 | 7 | 5 years ago | [3DShapeNets](https://github.com/zhirongw/3DShapeNets)/553 | for cvpr2015 project 3DShapeNets |
-| 69 | 33 | 1 | 2 years ago | [Hawkes-Process-Toolkit](https://github.com/HongtengXu/Hawkes-Process-Toolkit)/554 | A toolbox of Hawkes processes |
-| 69 | 29 | 2 | 5 months ago | [Spherical-Harmonic-Transform](https://github.com/polarch/Spherical-Harmonic-Transform)/555 | A collection of MATLAB routines for the Spherical Harmonic Transform and related manipulations in the spherical harmonic spectrum. |
-| 69 | 32 | 0 | 2 years ago | [RED](https://github.com/google/RED)/556 | RED - Regularization by Denoising |
-| 69 | 41 | 3 | 2 years ago | [HyperSpectralToolbox](https://github.com/davidkun/HyperSpectralToolbox)/557 | HyperSpectral Matlab Toolbox forked from Sourceforge |
-| 69 | 43 | 0 | 4 years ago | [ImuFusion](https://github.com/meyiao/ImuFusion)/558 | EKF IMU Fusion Algorithms |
-| 68 | 38 | 2 | 6 years ago | [openstreetmap](https://github.com/johnyf/openstreetmap)/559 | Interface to OpenStreetMap (load maps, extract road connectivity, plot road network & find shortest path) |
-| 68 | 30 | 1 | 3 years ago | [LimeSDR_Workshop](https://github.com/myriadrf/LimeSDR_Workshop)/560 | Intro to software-defined radio with LimeSDR workshop |
-| 68 | 44 | 0 | 5 years ago | [hinton-coursera](https://github.com/BradNeuberg/hinton-coursera)/561 | Repo for working through Geoffrey Hinton's Neural Network course (https://class.coursera.org/neuralnets-2012-001) |
-| 68 | 42 | 56 | a month ago | [qMRLab](https://github.com/qMRLab/qMRLab)/562 | Quantitative Magnetic Resonance Imaging Made Easy with qMRLab: a Software for Data Simulation, Analysis and Visualization |
-| 68 | 54 | 0 | 1 year, 1 month ago | [fastRPCA](https://github.com/stephenbeckr/fastRPCA)/563 | Matlab code for all variants of robust PCA and SPCP |
-| 68 | 35 | 12 | 1 year, 3 months ago | [mobisys2018_nexmon_channel_state_information_extractor](https://github.com/seemoo-lab/mobisys2018_nexmon_channel_state_information_extractor)/564 | Example project for extracting channel state information of up to 80 MHz wide 802.11ac Wi-Fi transmissions using the BCM4339 Wi-Fi chip of Nexus 5 smartphones. |
-| 68 | 64 | 0 | 2 years ago | [coursera-machinelearning](https://github.com/rmarquis/coursera-machinelearning)/565 | Stanford University - Machine Learning by Andrew Ng |
-| 68 | 35 | 0 | 8 months ago | [matlab-rrt-variants](https://github.com/adnanmunawar/matlab-rrt-variants)/566 | RRT*, RRT-connect, lazy RRT and RRT extend have been implemented for 2d and 3d c-spaces with visualization |
-| 68 | 20 | 0 | 1 year, 2 months ago | [MachineLearning](https://github.com/hongyuXie/MachineLearning)/567 |  机器学习师从Andrew Ng(吴恩达)，获得在Coursera平台上斯坦福大学Andrew Ng（吴恩达教授）机器学习（Machine Learning）的资格证书，为了有一个平台和大家分享和交流机器学习，因此特地在此进行课程的：笔记整理，重点划分，内置习题，在线习题，在线编程题等整理。后期会持续更新吴恩达教授的深度学习的课程，以及后期参加Kaggle比赛的全过程，希望大家持续关注噢。 |
-| 67 | 27 | 0 | 6 years ago | [SimpleFMCWRadar](https://github.com/lukeweston/SimpleFMCWRadar)/568 | A simple, low-power, low-cost 5.8-6.0 GHz microwave FMCW radar |
-| 67 | 42 | 11 | 5 years ago | [nilm-eval](https://github.com/beckel/nilm-eval)/569 | NILM-EVAL: An evaluation framework for non-intrusive load monitoring algorithms |
-| 67 | 61 | 2 | 4 years ago | [cnn](https://github.com/xuzhenqi/cnn)/570 | This is a matlab-code implementation of convolutional neural network |
-| 67 | 28 | 5 | 7 months ago | [Violinplot-Matlab](https://github.com/bastibe/Violinplot-Matlab)/571 | Violin Plots for Matlab |
-| 67 | 42 | 1 | a month ago | [Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)/572 | A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array. |
-| 67 | 45 | 0 | 1 year, 4 months ago | [MASP](https://github.com/ZitengWang/MASP)/573 | Microphone Array Speech Processing |
-| 67 | 58 | 5 | 1 year, 2 months ago | [RISE_toolbox](https://github.com/jmaih/RISE_toolbox)/574 | Solution and estimation of Markov Switching Rational Expectations / DSGE Models |
-| 67 | 35 | 1 | 5 years ago | [sfm_toolbox](https://github.com/vrabaud/sfm_toolbox)/575 | None |
-| 67 | 17 | 0 | 4 years ago | [VMSep-2010](https://github.com/MaigoAkisame/VMSep-2010)/576 | Separation of singing voice and accompaniment |
-| 67 | 32 | 6 | 1 year, 4 months ago | [MRiLab](https://github.com/leoliuf/MRiLab)/577 | A Numerical Magnetic Resonance Imaging (MRI) Simulation Platform |
-| 67 | 43 | 0 | 4 months ago | [SAR-Synthetic-Aperture-Radar](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar)/578 | 合成孔径雷达 相关。研究生期间学习 SAR/InSAR/PolSAR 相关的代码和总结，毕业后已经离开这个领域了。分享出来，仅此纪念。1）SAR: 成像算法，RD，CS，Radarsat-1数据成像处理。2）InSAR: 人造场景原始回波仿真、成像及干涉处理。包括平地场景和圆锥形场景。3）PolSAR: 极化定标算法，Whitt, PARC, Quegan, Ainsworth。详见 readme.md |
-| 66 | 20 | 0 | 1 year, 7 months ago | [deepattention](https://github.com/wenguanwang/deepattention)/579 | Deep Visual Attention Prediction (TIP18) |
-| 66 | 23 | 3 | 3 months ago | [ADSH-AAAI2018](https://github.com/jiangqy/ADSH-AAAI2018)/580 | source code for paper "Asymmetric Deep Supervised Hashing" on AAAI-2018 |
-| 66 | 20 | 0 | 6 months ago | [WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter)/581 | WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab]. |
-| 66 | 31 | 2 | 4 years ago | [Embarrassingly-simple-ZSL](https://github.com/bernard24/Embarrassingly-simple-ZSL)/582 | This repository contains the code for the real data experiments presented in our paper  “An embarrassingly simple approach to zero-shot learning”, presented at ICML 2015. |
-| 66 | 32 | 8 | 3 years ago | [FCN_Text](https://github.com/stupidZZ/FCN_Text)/583 | None |
-| 66 | 45 | 0 | 5 years ago | [MATLAB-git](https://github.com/manur/MATLAB-git)/584 | A thin MATLAB wrapper for the Git source control system  |
-| 66 | 16 | 0 | 3 days ago | [gongdols](https://github.com/angeloyeo/gongdols)/585 | 공돌이의 수학정리노트 Blog/Youtube 소스코드 |
-| 66 | 44 | 9 | 5 years ago | [crazyflie-tools](https://github.com/blandry/crazyflie-tools)/586 | A collection of tools to develop controllers for the Crazyflie using Drake |
-| 66 | 35 | 0 | 1 year, 2 months ago | [WiAR](https://github.com/linteresa/WiAR)/587 | WiFi-based activity recognition dataset |
-| 65 | 25 | 0 | 3 years ago | [orion](https://github.com/lmb-freiburg/orion)/588 | ORION: Orientation-boosted Voxel Nets for 3D Object Recognition |
-| 66 | 35 | 0 | 3 years ago | [CategoryShapes](https://github.com/akar43/CategoryShapes)/589 | Code for "Category-Specific Object Reconstruction from a Single Image" CVPR 2015. |
-| 65 | 26 | 8 | 1 year, 1 month ago | [orca](https://github.com/ayrna/orca)/590 | Ordinal Regression and Classification Algorithms |
-| 65 | 32 | 1 | 7 months ago | [Point_cloud_tools_for_Matlab](https://github.com/pglira/Point_cloud_tools_for_Matlab)/591 | Various point cloud tools for Matlab |
-| 65 | 27 | 1 | 1 year, 8 months ago | [carfac](https://github.com/google/carfac)/592 | Cascade of Asymmetric Resonators with Fast-Acting Compression cochlear model. |
-| 65 | 32 | 0 | 3 years ago | [minimum_snap_trajectory_generation](https://github.com/symao/minimum_snap_trajectory_generation)/593 | easy sample code for minimum snap trajectory planning  in MATLAB |
-| 65 | 29 | 24 | 1 year, 8 months ago | [sfs-matlab](https://github.com/sfstoolbox/sfs-matlab)/594 | SFS Toolbox for Matlab/Octave |
-| 65 | 44 | 1 | a month ago | [Kernel-Principal-Component-Analysis-KPCA](https://github.com/iqiukp/Kernel-Principal-Component-Analysis-KPCA)/595 | KPCA for dimensionality reduction, feature extraction , fault detection, and fault diagnosis |
-| 65 | 28 | 0 | a day ago | [MATLAB_SAR](https://github.com/ngageoint/MATLAB_SAR)/596 | A basic MATLAB library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard. |
-| 65 | 25 | 1 | 5 years ago | [malware-windows-audit-log-detection](https://github.com/konstantinberlin/malware-windows-audit-log-detection)/597 | Detection of malware using dynamic behavior and Windows audit logs |
-| 65 | 36 | 0 | 3 years ago | [vargplvm](https://github.com/SheffieldML/vargplvm)/598 | Bayesian GPLVM in MATLAB and R |
-| 65 | 9 | 0 | 1 year, 1 month ago | [tvsum](https://github.com/yalesong/tvsum)/599 | TVSum: Title-based Video Summarization dataset (CVPR 2015) |
-| 64 | 59 | 0 | 3 years ago | [Polar](https://github.com/tavildar/Polar)/600 | C and MATLAB implementation for Polar encoding and decoding  |
-| 64 | 43 | 0 | 13 days ago | [SystemicRisk](https://github.com/TommasoBelluzzo/SystemicRisk)/601 | A framework for systemic risk valuation and analysis. |
-| 64 | 51 | 2 | 1 year, 1 month ago | [polar-3gpp-matlab](https://github.com/robmaunder/polar-3gpp-matlab)/602 | Matlab simulations of the encoder and SCL decoder for the New Radio polar code from 3GPP Release 15 |
-| 64 | 39 | 6 | 7 months ago | [frost-dev](https://github.com/ayonga/frost-dev)/603 | Fast Robot Optimization and Simulation Toolkit (FROST) |
-| 64 | 18 | 3 | a month ago | [ACA-Code](https://github.com/alexanderlerch/ACA-Code)/604 | Matlab scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org) |
-| 64 | 34 | 0 | 3 years ago | [mctc4bmi](https://github.com/andrewssobral/mctc4bmi)/605 | Matrix and Tensor Completion for Background Model Initialization |
-| 64 | 50 | 1 | 6 years ago | [machine-learning-coursera](https://github.com/ahawker/machine-learning-coursera)/606 | Machine Learning (Spring 2014) |
-| 64 | 28 | 23 | a day ago | [OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D)/607 | A fast two-dimensional triangular mesh generator with pre- and post-processing utilities written in pure MATLAB (no toolboxes required) designed specifically to build models that solve shallow-water equations or wave equations in a coastal environment (ADCIRC, SWAN, SCHISM, Telemac, etc.). |
-| 64 | 29 | 0 | 7 months ago | [rrt_toolbox](https://github.com/olzhas/rrt_toolbox)/608 | RRT, RRT*, RRT*FN algorithms for MATLAB |
-| 64 | 16 | 0 | 1 year, 15 days ago | [GlobalOptimizationTutorial](https://github.com/MIT-SPARK/GlobalOptimizationTutorial)/609 | Hands-on Tutorial for Global Optimization in Matlab |
-| 64 | 29 | 1 | 2 years ago | [NPBayesHMM](https://github.com/michaelchughes/NPBayesHMM)/610 | Nonparametric Bayesian Inference for Sequential Data.  Includes state-of-the-art MCMC inference for Beta process Hidden Markov Models (BP-HMM). Implemented in Matlab. |
-| 64 | 29 | 15 | 11 months ago | [MultiDIC](https://github.com/MultiDIC/MultiDIC)/611 | Matlab 3D Digital Image Correlation Toolbox |
-| 64 | 32 | 0 | 11 days ago | [matImage](https://github.com/mattools/matImage)/612 | Image Processing library for Matlab |
-| 64 | 18 | 0 | 1 year, 1 month ago | [Sugarcane_borers_detect](https://github.com/1274085042/Sugarcane_borers_detect)/613 | 螟虫检测 |
-| 64 | 13 | 3 | 1 year, 3 months ago | [TripletTracking](https://github.com/shenjianbing/TripletTracking)/614 | ECCV 2018 Triplet Loss in Siamese Network for Object Tracking |
-| 64 | 19 | 9 | 2 years ago | [DiffuserCam](https://github.com/Waller-Lab/DiffuserCam)/615 | DiffuserCam Processing Code |
-| 64 | 23 | 8 | 3 years ago | [SDS-RCNN](https://github.com/garrickbrazil/SDS-RCNN)/616 | None |
-| 65 | 25 | 0 | 5 years ago | [colour-transfer](https://github.com/frcs/colour-transfer)/617 | Colour transfer algorithms for grading the colours of an image |
-| 64 | 17 | 3 | 8 months ago | [FM-Bench](https://github.com/JiawangBian/FM-Bench)/618 | An Evaluation of Feature Matchers for Fundamental Matrix Estimation (BMVC 2019) |
-| 63 | 43 | 2 | 2 months ago | [MPC-and-MHE-implementation-in-MATLAB-using-Casadi](https://github.com/MMehrez/MPC-and-MHE-implementation-in-MATLAB-using-Casadi)/619 | This is a workshop on implementing model predictive control (MPC) and moving horizon estimation (MHE) on Matlab. The implementation is based on the Casadi Package which is used for numerical optimization. A non-holonomic mobile robot is used as a system for the implementation. The workshop video recording can be found here https://www.youtube.com/playlist?list=PLK8squHT_Uzej3UCUHjtOtm5X7pMFSgAL  ... Casadi can be downloaded here https://web.casadi.org/ |
-| 63 | 33 | 1 | 1 year, 9 months ago | [Ordinary-Camera](https://github.com/Computational-Periscopy/Ordinary-Camera)/620 | Computational Periscopy with an Ordinary Digital Camera |
-| 63 | 30 | 0 | 3 years ago | [FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)/621 | Face detection evaluation |
-| 63 | 30 | 15 | 4 years ago | [Cortexsys](https://github.com/joncox123/Cortexsys)/622 | Matlab GPU Accelerated Deep Learning Toolbox |
-| 63 | 13 | 3 | 6 months ago | [boundedline-pkg](https://github.com/kakearney/boundedline-pkg)/623 | Plot line(s) with error bounds/confidence intervals/etc. in Matlab |
-| 63 | 39 | 1 | 7 years ago | [hdml](https://github.com/norouzi/hdml)/624 | Hamming Distance Metric Learning with Non-linear Projection |
-| 63 | 25 | 0 | 7 months ago | [SIHR](https://github.com/vitorsr/SIHR)/625 | Fast/non-data-aided single image highlight removal methods in MATLAB/GNU Octave |
-| 63 | 9 | 2 | 27 days ago | [SYSU-MM01](https://github.com/wuancong/SYSU-MM01)/626 | Introduction and evaluation code for RGB-IR re-id dataset SYSU-MM01. |
-| 63 | 37 | 2 | 6 years ago | [tdoa_localization](https://github.com/StevenJL/tdoa_localization)/627 | Time delay of arrival localization algorithm in Matlab |
-| 62 | 36 | 0 | 1 year, 8 months ago | [D_star_PathPlanning](https://github.com/LazyFalcon/D_star_PathPlanning)/628 | Simple Matlab implementation of D*Lite, Focussed D*, A*, for dynamic path planning for mobile robots |
-| 62 | 20 | 0 | 8 months ago | [LearningWithoutForgetting](https://github.com/lizhitwo/LearningWithoutForgetting)/629 | Repository for the Learning without Forgetting paper, ECCV 2016 |
-| 62 | 36 | 0 | 7 years ago | [License-Plate-Recognition-by-MATLAB](https://github.com/hangxyz/License-Plate-Recognition-by-MATLAB)/630 | 基于MATLAB的车牌识别系统 |
-| 62 | 40 | 8 | 10 months ago | [highD-dataset](https://github.com/RobertKrajewski/highD-dataset)/631 | None |
-| 62 | 47 | 3 | 9 months ago | [IB2d](https://github.com/nickabattista/IB2d)/632 | An easy to use immersed boundary method in 2D, with full implementations in MATLAB and Python that contains over 60 built-in examples, including multiple options for fiber-structure models and advection-diffusion, Boussinesq approximations, and/or artificial forcing. |
-| 62 | 44 | 12 | 1 year, 7 months ago | [pulmonarytoolkit](https://github.com/tomdoel/pulmonarytoolkit)/633 | Lung medical image analysis and visualisation software for Matlab. |
-| 62 | 55 | 4 | 2 months ago | [PrognosticsModelLibrary](https://github.com/nasa/PrognosticsModelLibrary)/634 | None |
-| 62 | 21 | 2 | 3 years ago | [BFMLandmarks](https://github.com/anilbas/BFMLandmarks)/635 | 68/21 Landmark points for Basel Face Model (3DMM) |
-| 62 | 45 | 0 | 9 months ago | [HPM](https://github.com/maziarraissi/HPM)/636 | Hidden physics models: Machine learning of nonlinear partial differential equations |
-| 62 | 36 | 3 | 11 months ago | [kafbox](https://github.com/steven2358/kafbox)/637 | A Matlab benchmarking toolbox for kernel adaptive filtering |
-| 62 | 19 | 1 | 1 year, 2 months ago | [SRN](https://github.com/KevinKecc/SRN)/638 | Side-output Residual Network for Object Symmetry Detection in the Wild   |
-| 61 | 10 | 2 | 10 months ago | [WDK](https://github.com/avenix/WDK)/639 | The Wearables Development Toolkit - a development environment for activity recognition applications with sensor signals |
-| 61 | 34 | 1 | 6 years ago | [AutoEncoder](https://github.com/gynnash/AutoEncoder)/640 | Implementation of Semantic Hashing. Modified from Ruslan Salakhutdinov and Geoff Hinton's code of training Deep AutoEncoder |
-| 61 | 33 | 2 | 10 months ago | [mesh2d](https://github.com/dengwirda/mesh2d)/641 | MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries. |
-| 61 | 40 | 5 | 2 years ago | [iris-distro](https://github.com/rdeits/iris-distro)/642 | Iterative Regional Inflation by SDP |
-| 60 | 30 | 0 | 3 years ago | [NeuralNetPlayground](https://github.com/StackOverflowMATLABchat/NeuralNetPlayground)/643 | A MATLAB implementation of the TensorFlow Neural Networks Playground seen on http://playground.tensorflow.org/ |
-| 60 | 25 | 3 | a month ago | [cloudcontr](https://github.com/taiya/cloudcontr)/644 | Automatically exported from code.google.com/p/skeletonization |
-| 60 | 30 | 0 | 7 years ago | [visual-pulse-monitor](https://github.com/shelhamer/visual-pulse-monitor)/645 | Measure heart rate from standard video recording (UMass CS 691A final project) |
-| 60 | 15 | 0 | 6 months ago | [DBCNN](https://github.com/zwx8981/DBCNN)/646 | Blind Image Quality Assessment Using A Deep Bilinear Convolutional Neural Network  |
-| 60 | 27 | 0 | 11 months ago | [spm12](https://github.com/spm/spm12)/647 | SPM12 |
-| 60 | 32 | 4 | 2 years ago | [epicflow](https://github.com/suhangpro/epicflow)/648 | A Matlab wrapper for EpicFlow |
-| 60 | 26 | 1 | 1 year, 10 months ago | [AttractioNet](https://github.com/gidariss/AttractioNet)/649 | Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization |
-| 60 | 30 | 1 | 5 months ago | [Edge-Computing-Codes](https://github.com/hliangzhao/Edge-Computing-Codes)/650 | Simulation of algorithms for Edge Computing-related papers. |
-| 60 | 31 | 1 | 5 years ago | [KCF](https://github.com/scott89/KCF)/651 | Source code for "high-speed tracking with kernelized correlation filters" |
-| 60 | 43 | 1 | 2 years ago | [LC_NGSIM](https://github.com/donnydcy/LC_NGSIM)/652 | lane change trajectories extracted from NGSIM |
-| 60 | 17 | 0 | 4 months ago | [single-shot-pro-cam-calib](https://github.com/BingyaoHuang/single-shot-pro-cam-calib)/653 | [IEEE T-ASE 2020] A Fast and Flexible Projector-Camera Calibration System |
-| 60 | 24 | 2 | 4 years ago | [3dmodel_feature](https://github.com/charlesq34/3dmodel_feature)/654 | Code for extracting 3dcnn features of CAD models |
-| 60 | 25 | 0 | 1 year, 2 months ago | [IPPE](https://github.com/tobycollins/IPPE)/655 | Infinitesimal Plane-based Pose Estimation (IPPE): A very fast method to compute a camera's pose from a view of a planar object |
-| 59 | 19 | 2 | 7 months ago | [3D-PRNN](https://github.com/zouchuhang/3D-PRNN)/656 | Torch implementation for ICCV 17 paper: "3D-PRNN, Generating Shape Primitives with Recurrent Neural Networks" |
-| 59 | 30 | 4 | 1 year, 2 months ago | [pulseq](https://github.com/pulseq/pulseq)/657 | Open source framework for pulse sequences |
-| 59 | 29 | 0 | 3 years ago | [wavelet-coherence](https://github.com/grinsted/wavelet-coherence)/658 | A cross wavelet and wavelet coherence toolbox for MATLAB |
-| 59 | 42 | 0 | a month ago | [Lidar-and-Radar-sensor-fusion-with-Extended-Kalman-Filter](https://github.com/paulyehtw/Lidar-and-Radar-sensor-fusion-with-Extended-Kalman-Filter)/659 | Fusing Lidar and Radar data with Extended Kalman Filter (EKF) |
-| 59 | 33 | 0 | 2 years ago | [CST-MATLAB-API](https://github.com/simos421/CST-MATLAB-API)/660 | CST-MATLAB-API |
-| 59 | 14 | 0 | 2 years ago | [drone-tracking](https://github.com/flyers/drone-tracking)/661 | DTB70 -- A Drone Tracking Benchmark |
-| 59 | 35 | 1 | 3 years ago | [FEM](https://github.com/Meelfy/FEM)/662 | 有限元程序 / Finite element method |
-| 58 | 29 | 26 | 3 years ago | [MatlabStan](https://github.com/brian-lau/MatlabStan)/663 | Matlab interface to Stan, a package for Bayesian inference |
-| 58 | 43 | 0 | 4 years ago | [Alternating-minimization-algorithms-for-hybrid-precoding-in-millimeter-wave-MIMO-systems](https://github.com/yuxianghao/Alternating-minimization-algorithms-for-hybrid-precoding-in-millimeter-wave-MIMO-systems)/664 | Simulation codes for "Alternating minimization algorithms for hybrid precoding in millimeter wave MIMO systems," by Xianghao Yu, Juei-Chin Shen, Jun Zhang, and Khaled B. Letaief, IEEE J. Sel. Topics Signal Process., to appear, 2016. |
-| 58 | 38 | 0 | 5 years ago | [patrec2015](https://github.com/dazzz/patrec2015)/665 | Pattern recognition course in LUT |
-| 58 | 21 | 0 | 9 months ago | [GLMspiketraintutorial](https://github.com/pillowlab/GLMspiketraintutorial)/666 | Simple tutorial on Gaussian and Poisson GLMs for single and multi-neuron spike train data |
-| 58 | 22 | 0 | 2 years ago | [ThresholdAndSegment](https://github.com/radishgiant/ThresholdAndSegment)/667 | 自动阈值提取及分割的算法合集：目前已更新的8种算法 |
-| 58 | 28 | 1 | 2 months ago | [SDETools](https://github.com/horchler/SDETools)/668 | Matlab Toolbox for the Numerical Solution of Stochastic Differential Equations |
-| 58 | 16 | 3 | 4 months ago | [GRAINS](https://github.com/ManyiLi12345/GRAINS)/669 | GRAINS: Generative Recursive Autoencoders for INdoor Scenes |
-| 58 | 19 | 1 | 2 months ago | [LieNet](https://github.com/zhiwu-huang/LieNet)/670 | GitHub repository for "Deep Learning on Lie Groups for Skeleton-based Action Recognition", CVPR 2017. |
-| 58 | 18 | 4 | 4 months ago | [AutoTrack](https://github.com/vision4robotics/AutoTrack)/671 | Matlab v1.0 implementation for AutoTrack  |
-| 58 | 3 | 1 | 2 years ago | [mcnGroupNorm](https://github.com/albanie/mcnGroupNorm)/672 | Small scale experiments with group normalization |
-| 58 | 20 | 0 | 4 months ago | [BrewerMap](https://github.com/DrosteEffect/BrewerMap)/673 | [MATLAB] The complete palette of ColorBrewer colormaps. Simple selection by scheme name and map length. |
-| 57 | 13 | 3 | 1 year, 1 month ago | [unsupervised_learning_of_dense_shape_correspondence](https://github.com/OshriHalimi/unsupervised_learning_of_dense_shape_correspondence)/674 | None |
-| 57 | 31 | 80 | 2 years ago | [wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox)/675 | The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README  for details). |
-| 57 | 44 | 0 | 9 months ago | [mtt](https://github.com/andrewssobral/mtt)/676 | MATLAB Tensor Tools |
-| 57 | 37 | 1 | 5 years ago | [exposure-fusion](https://github.com/Mericam/exposure-fusion)/677 | Exposure Fusion in Matlab |
-| 57 | 41 | 1 | 2 years ago | [ClassifierToolbox](https://github.com/hiroyuki-kasai/ClassifierToolbox)/678 | A MATLAB toolbox for classifier: Version 1.0.7 |
-| 57 | 66 | 0 | 2 years ago | [ADRC](https://github.com/TianfaYao/ADRC)/679 | v1 |
-| 57 | 24 | 2 | 4 years ago | [shapeDTW](https://github.com/jiapingz/shapeDTW)/680 | A shape-embedded dynamic time warping (DTW) algorithm. To the best of our knowledge, shapeDTW beats all other DTW variants on UCR time series datasets. |
-| 57 | 38 | 1 | 8 years ago | [DPMM](https://github.com/jacobeisenstein/DPMM)/681 | Dirichlet process mixture model code in Matlab. Sampling and variational. |
-| 57 | 40 | 4 | 2 months ago | [FVTool](https://github.com/simulkade/FVTool)/682 | Finite volume toolbox for Matlab/Octave |
-| 57 | 38 | 3 | 7 months ago | [hybrid_A_star](https://github.com/wanghuohuo0716/hybrid_A_star)/683 | 本仓库是对混合A*算法的matlab复现 |
-| 57 | 44 | 0 | 1 year, 6 months ago | [Genetic-Algorithm](https://github.com/strawberry-magic-pocket/Genetic-Algorithm)/684 | 基本遗传算法MATLAB程序 |
-| 57 | 51 | 0 | 3 years ago | [sze-academic-robotics-projects](https://github.com/horverno/sze-academic-robotics-projects)/685 | Various robotics related projects in various programming languages (MATLAB, LabVIEW, C#) and techniques (V-REP, ROS, LEGO Mindstorms, Kinect, Neobotix).  |
-| 57 | 27 | 66 | 3 days ago | [JAABA](https://github.com/kristinbranson/JAABA)/686 | Janelia Animal Behavior Detector |
-| 57 | 34 | 0 | 1 year, 5 months ago | [Mathematical-Modeling](https://github.com/ravenxrz/Mathematical-Modeling)/687 | 数学建模算法学习 |
-| 57 | 25 | 4 | 1 year, 5 months ago | [MSIfromHE](https://github.com/jnkather/MSIfromHE)/688 | predict microsatellite status from hematoxylin-eosin histology of gastrointestinal cancer |
-| 57 | 30 | 0 | 3 years ago | [RNN_MATLAB](https://github.com/JianboTang/RNN_MATLAB)/689 | this is a  matlab toolbox of deep learning about sequences learning, object-oriented,including rnn, lstm and encoder decoder(sequences to sequences) etc.GPU version is available |
-| 57 | 45 | 9 | 7 days ago | [CoSMoMVPA](https://github.com/CoSMoMVPA/CoSMoMVPA)/690 | A lightweight multivariate pattern analysis (MVPA) toolbox in Matlab / Octave |
-| 57 | 82 | 21 | 6 days ago | [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim)/691 | Wave Energy Converter Simulator (WEC-Sim), an open-source code for simulating wave energy converters.  |
-| 56 | 14 | 0 | 6 years ago | [Minimum-Probability-Flow-Learning](https://github.com/Sohl-Dickstein/Minimum-Probability-Flow-Learning)/692 | Matlab code implementing Minimum Probability Flow Learning. |
-| 56 | 32 | 13 | 1 year, 3 months ago | [OceanEddies](https://github.com/jfaghm/OceanEddies)/693 | A collection of algorithms to autonomously identify and track mesoscale ocean eddies in sea surface height (SSH) satellite data |
-| 56 | 44 | 0 | 3 years ago | [optimal-beamforming](https://github.com/emilbjornson/optimal-beamforming)/694 | Simulation code for “Optimal Multiuser Transmit Beamforming: A Difficult Problem with a Simple Solution Structure” by Emil Björnson, Mats Bengtsson, and Björn Ottersten, IEEE Signal Processing Magazine, vol. 31, no. 4, pp. 142-148, July 2014. |
-| 56 | 33 | 0 | 3 years ago | [VGG-Multiple-View-Geometry](https://github.com/jmmanley/VGG-Multiple-View-Geometry)/695 | A set of MATLAB utilities for multiple view geometry, provided alongside Hartley & Zisserman's "Multiple View Geometry in Computer Vision, Second Edition" (2004). Obtained from http://www.robots.ox.ac.uk/~vgg/hzbook/code/. |
-| 56 | 35 | 97 | 2 days ago | [isetbio](https://github.com/isetbio/isetbio)/696 | Tools for modeling image systems engineering in the human visual system front end |
-| 56 | 33 | 1 | 1 year, 10 months ago | [CS_MoCo_LAB](https://github.com/thomaskuestner/CS_MoCo_LAB)/697 | Compressed Sensing and Motion Correction LAB: An MR acquisition and reconstruction system |
-| 56 | 31 | 1 | 7 years ago | [ica](https://github.com/vsubhashini/ica)/698 | Independent Component Analysis (for blind source separation) |
-| 56 | 86 | 65 | 11 months ago | [buzcode](https://github.com/buzsakilab/buzcode)/699 | Code for internal lab sharing - polishing has started but is by no means complete |
-| 56 | 33 | 0 | 1 year, 1 month ago | [matlabHyperspectralToolbox](https://github.com/isaacgerg/matlabHyperspectralToolbox)/700 | initial cut |
-| 56 | 38 | 1 | 2 years ago | [kalman-localization](https://github.com/awerries/kalman-localization)/701 | MATLAB implementation of localization using sensor fusion of GPS/INS through an error-state Kalman filter. |
-| 56 | 19 | 0 | 1 year, 8 months ago | [CTF](https://github.com/professormahi/CTF)/702 | CTF (Capture The Flag Writeups and Tools) |
-| 56 | 19 | 0 | 2 years ago | [caser](https://github.com/graytowne/caser)/703 | A Matlab implementation of Convolutional Sequence Embedding Recommendation Model (Caser) |
-| 56 | 26 | 8 | 1 year, 10 months ago | [maxwellfdfd](https://github.com/wsshin/maxwellfdfd)/704 | MATLAB-based solver package of Maxwell's equations by the FDFD method. |
-| 56 | 18 | 0 | 3 months ago | [plot-edge-pr-curves](https://github.com/MCG-NKU/plot-edge-pr-curves)/705 | The code and data to plot edge PR curves for many existing edge detectors |
-| 56 | 25 | 0 | 4 years ago | [VRP-using-SA-with-Matlab](https://github.com/lzane/VRP-using-SA-with-Matlab)/706 | Vehicle Routing Problem (VRP) using Simulated Annealing (SA) with Matlab  /  模拟退火 |
-| 56 | 16 | 8 | 1 year, 7 months ago | [EndToEndIncrementalLearning](https://github.com/fmcp/EndToEndIncrementalLearning)/707 | End-to-End Incremental Learning |
-| 56 | 7 | 3 | 1 year, 1 day ago | [combining3Dmorphablemodels](https://github.com/nabeel3133/combining3Dmorphablemodels)/708 | Project Page of Combining 3D Morphable Models: A Large scale Face-and-Head Model - [CVPR 2019] |
-| 55 | 23 | 0 | 2 years ago | [davis-matlab](https://github.com/davisvideochallenge/davis-matlab)/709 | A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation |
-| 55 | 22 | 6 | 5 months ago | [jLab](https://github.com/jonathanlilly/jLab)/710 | A Matlab toolbox for big data analysis, signal processing, mapping, and oceanographic applications. |
-| 55 | 10 | 1 | 2 months ago | [map_compression](https://github.com/ZJUYH/map_compression)/711 | Implementation of a T-ITS paper: 3D LiDAR Map Compression for Efficient Localization on Resource Constrained Vehicles |
-| 55 | 18 | 4 | 4 months ago | [mpm](https://github.com/mobeets/mpm)/712 | Simple Matlab package management inspired by pip |
-| 55 | 29 | 1 | 4 years ago | [detectionAnalysis](https://github.com/weiliu89/detectionAnalysis)/713 | http://web.engr.illinois.edu/~dhoiem/projects/detectionAnalysis/ |
-| 55 | 10 | 1 | 1 year, 4 months ago | [veh_passenger](https://github.com/TUMFTM/veh_passenger)/714 | TUM Roborace Team Software Stack - Example Vehicle |
-| 55 | 28 | 4 | 1 year, 5 months ago | [TRAIN](https://github.com/dbekaert/TRAIN)/715 | Toolbox for Reducing Atmospheric InSAR Noise |
-| 55 | 21 | 2 | 10 months ago | [MSG-Net](https://github.com/twhui/MSG-Net)/716 | Depth Map Super-Resolution by Deep Multi-Scale Guidance, ECCV 2016 |
-| 55 | 15 | 0 | 20 days ago | [low-light-image-enhancement-resources](https://github.com/dawnlh/low-light-image-enhancement-resources)/717 | This is a resouce list for low light image enhancement |
-| 55 | 26 | 0 | 2 years ago | [sound_signal_process-matlab-](https://github.com/bastamon/sound_signal_process-matlab-)/718 | 语音信号处理实验教程（MATLAB源代码） |
-| 54 | 7 | 0 | 6 months ago | [methods_class](https://github.com/SjulsonLab/methods_class)/719 | "Approaches to Study Neural Circuits" course |
-| 54 | 20 | 11 | a month ago | [hearingaid-prototype](https://github.com/m-r-s/hearingaid-prototype)/720 | Instructions for building an almost consumer hardware based prototype of a hearing aid |
-| 54 | 11 | 0 | 1 year, 7 months ago | [Machine-Learning--Coursera](https://github.com/zlpure/Machine-Learning--Coursera)/721 | My Solution to Assignments of Machine-Learning on Coursera |
-| 54 | 26 | 3 | 3 years ago | [phasepack-matlab](https://github.com/tomgoldstein/phasepack-matlab)/722 | A software library for solving phase retrieval problems, and comparing phase retrieval methods. |
-| 54 | 38 | 6 | 5 years ago | [DeepFi](https://github.com/mars920314/DeepFi)/723 | An Indoor Fingerprinting Localization Algorithm which uses CSI from wifi |
-| 54 | 15 | 6 | 2 years ago | [RAP](https://github.com/dangweili/RAP)/724 | A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios |
-| 54 | 25 | 0 | 2 years ago | [singingvoiceseparationrpca](https://github.com/posenhuang/singingvoiceseparationrpca)/725 | Singing-Voice Separation From Monaural Recordings  Using Robust Principal Component Analysis |
-| 54 | 29 | 9 | 6 months ago | [geopdes](https://github.com/rafavzqz/geopdes)/726 | GeoPDEs: Isogeometric Analysis in Octave and Matlab, for research and teaching purposes. |
-| 54 | 36 | 0 | 3 months ago | [arduino](https://github.com/APMonitor/arduino)/727 | Process Control Temperature Lab |
-| 54 | 18 | 0 | 2 months ago | [USElection](https://github.com/chris-taylor/USElection)/728 | MATLAB model to make predictions for the US 2012 election |
-| 54 | 38 | 0 | 1 year, 11 months ago | [mlbop](https://github.com/PhDP/mlbop)/729 | Matlab code for S. Theodoridis' "Machine Learning: A Bayesian and Optimization Perspective" (2015). |
-| 54 | 26 | 3 | 3 months ago | [sdpt3](https://github.com/sqlp/sdpt3)/730 | SDPT3: MATLAB/Octave software for semidefinite-quadratic-linear programming |
-| 54 | 9 | 1 | 11 days ago | [RGBD-SODsurvey](https://github.com/taozh2017/RGBD-SODsurvey)/731 | RGB-D Salient Object Detection: A Survey |
-| 54 | 34 | 0 | 4 years ago | [ACC_Vehicle_MPC](https://github.com/ajinkya-khade/ACC_Vehicle_MPC)/732 | Model Predictive Control of Adaptive Cruise Control Vehicles. |
-| 53 | 29 | 2 | 4 years ago | [SOD](https://github.com/jimmie33/SOD)/733 | A Method for Unconstrained Salient Object Detection |
-| 53 | 19 | 3 | 4 years ago | [edge_boxes_with_python](https://github.com/dculibrk/edge_boxes_with_python)/734 | A python wrapper for Edge Boxes object proposal generation |
-| 53 | 73 | 3 | 2 years ago | [matlab-machine-learning](https://github.com/Apress/matlab-machine-learning)/735 | Source Code for 'MATLAB Machine Learning' by Michael Paluszek and Stephanie Thomas |
-| 53 | 10 | 52 | 1 year, 1 month ago | [IPA-discuss](https://github.com/UCAS-IPA/IPA-discuss)/736 | 中国科学院大学2019年图像处理与分析课程相关资源及问答。 |
-| 53 | 29 | 1 | 4 years ago | [Camera-to-Arm-Calibration](https://github.com/ZacharyTaylor/Camera-to-Arm-Calibration)/737 | Matlab toolbox for finding the transformation from a camera to a robotic arms base |
-| 53 | 10 | 3 | 2 months ago | [DSBD](https://github.com/melgharib/DSBD)/738 | Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks |
-| 53 | 2 | 2 | a month ago | [HUMBI](https://github.com/zhixuany/HUMBI)/739 | This repository contains official code (in MATLAB) for exploring and visualizing HUMBI dataset introduced in the paper "HUMBI: A Large Multiview Dataset of Human Body Expressions" (CVPR 2020). |
-| 53 | 24 | 6 | 3 years ago | [Kaggle-EEG](https://github.com/garethjns/Kaggle-EEG)/740 | Seizure prediction from EEG data using machine learning. 3rd place solution for Kaggle/Uni Melbourne seizure prediction competition. |
-| 53 | 27 | 4 | 5 years ago | [spiking_relu_conversion](https://github.com/dannyneil/spiking_relu_conversion)/741 | None |
-| 53 | 15 | 5 | 4 years ago | [LRR](https://github.com/golnazghiasi/LRR)/742 | code and models for "Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation" |
-| 53 | 13 | 4 | 1 year, 8 months ago | [QuickNATv2](https://github.com/ai-med/QuickNATv2)/743 | Fast Whole Brain Segmentation (Layers, codes and Pre-trained Models) |
-| 53 | 20 | 2 | 12 days ago | [radar_tools](https://github.com/qwe14789cn/radar_tools)/744 | 信号处理工具箱 |
-| 53 | 22 | 0 | a month ago | [explanatoryGraph](https://github.com/zqs1022/explanatoryGraph)/745 | Interpreting CNN Knowledge via an Explanatory Graph |
-| 53 | 20 | 1 | 1 year, 24 days ago | [NeuroSLAM](https://github.com/cognav/NeuroSLAM)/746 | NeuroSLAM: A Brain inspired SLAM System for 3D Environments |
-| 53 | 10 | 0 | 3 months ago | [LaSOT_Evaluation_Toolkit](https://github.com/HengLan/LaSOT_Evaluation_Toolkit)/747 | Evaluation of trackers on a large-scale benchmark LaSOT. |
-| 53 | 27 | 0 | 5 days ago | [ILRMA](https://github.com/d-kitamura/ILRMA)/748 | MATLAB script of Independent Low-Rank Matrix Analysis (ILRMA) |
-| 52 | 50 | 3 | 6 months ago | [Matlab](https://github.com/quandl/Matlab)/749 | Quandl's Matlab module |
-| 52 | 18 | 0 | 4 months ago | [RealismCNN](https://github.com/junyanz/RealismCNN)/750 | code for predicting and improving visual realism in composite images |
-| 52 | 31 | 0 | 8 months ago | [Matlab-GAN](https://github.com/zcemycl/Matlab-GAN)/751 | MATLAB implementations of Generative Adversarial Networks -- from GAN to Pixel2Pixel, CycleGAN |
-| 52 | 44 | 2 | 3 years ago | [CCNF](https://github.com/TadasBaltrusaitis/CCNF)/752 | Libraries for training and testing Continuous Conditional Neural Fields with a number of sample problems and other baselines. |
-| 52 | 61 | 0 | 1 year, 4 months ago | [StudyMaterials](https://github.com/HasanShaukat/StudyMaterials)/753 | This repository is a one-stop-shop for Data Science and Machine Learning Study Materials compiled from various platforms. |
-| 52 | 130 | 6 | 1 year, 4 months ago | [MathWorks_tools](https://github.com/analogdevicesinc/MathWorks_tools)/754 | Scripts and tools created by ADI to be used with MATLAB and Simulink with ADI products |
-| 52 | 19 | 14 | 5 years ago | [fig2u3d](https://github.com/johnyf/fig2u3d)/755 | Export MATLAB figure as U3D file or directly to 3D interactive PDF |
-| 52 | 22 | 1 | 1 year, 2 months ago | [SupER](https://github.com/thomas-koehler/SupER)/756 | Super-Resolution Erlangen (SupER): Benchmarking Super-Resolution Algorithms on Real Data |
-| 52 | 24 | 3 | 1 year, 16 days ago | [event_feature_tracking](https://github.com/daniilidis-group/event_feature_tracking)/757 | This repo contains MATLAB implementations of the event-based feature tracking methods described in "Event-based Feature Tracking with Probabilistic Data Association" and "Event-based Visual Inertial Odometry". |
-| 52 | 38 | 0 | 9 years ago | [Incremental-SVM-Learning-in-MATLAB](https://github.com/diehl/Incremental-SVM-Learning-in-MATLAB)/758 | This MATLAB package implements the methods for exact incremental/decremental SVM learning, regularization parameter perturbation and kernel parameter perturbation presented in "SVM Incremental Learning, Adaptation, and Optimization" by Christopher Diehl and Gert Cauwenberghs. |
-| 52 | 8 | 0 | a month ago | [JLDCF](https://github.com/kerenfu/JLDCF)/759 | Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection" |
-| 52 | 21 | 5 | 4 months ago | [EEG-Clean-Tools](https://github.com/VisLab/EEG-Clean-Tools)/760 | Contains tools for EEG standardized preprocessing |
-| 52 | 27 | 0 | a month ago | [Nonlinear-Optimization-Algorithms](https://github.com/clarkzinzow/Nonlinear-Optimization-Algorithms)/761 | MATLAB implementations of a variety of nonlinear programming algorithms. |
-| 52 | 37 | 0 | 7 years ago | [discriminative-patches](https://github.com/saurabhme/discriminative-patches)/762 | Unsupervised Discovery of Mid-Level Discriminative Patches |
-| 51 | 18 | 0 | 1 year, 1 month ago | [BOCS](https://github.com/baptistar/BOCS)/763 | Bayesian Optimization of Combinatorial Structures |
-| 51 | 32 | 19 | 20 days ago | [automaticanalysis](https://github.com/automaticanalysis/automaticanalysis)/764 | Automatic analysis |
-| 51 | 50 | 1 | 1 year, 9 months ago | [Andrew-Ng-Machine-Learning-Programming-solutions-](https://github.com/LilianYe/Andrew-Ng-Machine-Learning-Programming-solutions-)/765 | open course on coursera.org  Stanford University |
-| 51 | 34 | 21 | 2 years ago | [mobilerobotics](https://github.com/WaterlooRobotics/mobilerobotics)/766 | Matlab and Robot code for MTE 544: Autonomous Mobile Robotics at the University of Waterloo |
-| 51 | 32 | 0 | 3 years ago | [Kalman-Filter-for-Beginners](https://github.com/philbooks/Kalman-Filter-for-Beginners)/767 | Sample code in MATLAB/Octave for "Kalman Filter for Beginners" |
-| 51 | 22 | 1 | 1 year, 1 month ago | [GenLouvain](https://github.com/GenLouvain/GenLouvain)/768 | A generalized Louvain method for community detection implemented in MATLAB |
-| 51 | 19 | 2 | 9 months ago | [DNN-Speech-enhancement-demo-tool](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool)/769 | Universal Deep neural network based speech enhancement demo and tools, well pre-trained DNN model |
-| 51 | 35 | 1 | 8 months ago | [OFDM](https://github.com/2417677728/OFDM)/770 | A MATLAB program to help understand OFDM. |
-| 51 | 15 | 0 | 5 days ago | [ChangeDetectionToolbox](https://github.com/Bobholamovic/ChangeDetectionToolbox)/771 | MATLAB Toolbox for Remote Sensing Change Detection |
-| 51 | 16 | 0 | 4 years ago | [HouseCraft](https://github.com/chuhang/HouseCraft)/772 | Source code for ECCV16 paper |
-| 51 | 36 | 4 | 2 years ago | [plot_google_map](https://github.com/zoharby/plot_google_map)/773 | MATLAB function for plotting a Google map on the background of a figure |
-| 51 | 18 | 0 | 3 years ago | [image_deblur_code](https://github.com/rgbitx/image_deblur_code)/774 | patch selection 1st |
-| 51 | 23 | 5 | 1 year, 5 months ago | [biopatrec](https://github.com/biopatrec/biopatrec)/775 | None |
-| 51 | 45 | 0 | 5 years ago | [LBP-DBN-face-recognition](https://github.com/xiaomangui/LBP-DBN-face-recognition)/776 | 使用LBP特征提取算法提取人脸特征，DBN网络来实现人脸识别，测试数据库ORL数据库，识别率可达90%以上 |
-| 51 | 13 | 4 | 3 years ago | [matDL](https://github.com/QuantumLiu/matDL)/777 | A lightweight MATLAB deeplearning toolbox,based on gpuArray. |
-| 50 | 33 | 6 | 5 years ago | [part-based-RCNN](https://github.com/n-zhang/part-based-RCNN)/778 | Codes and pretrained model for ECCV 14 paper 'Part based RCNNs for fine-grained category detection' |
-| 50 | 6 | 0 | 2 years ago | [FBP](https://github.com/LIANGQINGYUAN/FBP)/779 | FBP |
-| 50 | 35 | 2 | a month ago | [isetcam](https://github.com/ISET/isetcam)/780 | Open source version of the original ISET, a complement to ISETBIO |
-| 50 | 24 | 2 | 1 year, 3 months ago | [synchrosqueezing](https://github.com/ebrevdo/synchrosqueezing)/781 | The MATLAB Synchrosqueezing Toolbox |
-| 50 | 3 | 2 | 4 months ago | [oasis](https://github.com/princeton-vl/oasis)/782 | Code for the CVPR 2020 paper "OASIS: A Large-Scale Dataset for Single Image 3D in the Wild" |
-| 50 | 45 | 3 | 5 years ago | [vo-howard08](https://github.com/avisingh599/vo-howard08)/783 | [Reimplementation Howard 2008] A MATLAB implementation of Visual Odometry using Andrew Howard's 2008 paper. |
-| 50 | 17 | 10 | 2 months ago | [PALM](https://github.com/andersonwinkler/PALM)/784 | PALM: Permutation Analysis of Linear Models |
-| 50 | 30 | 0 | 7 months ago | [Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework)/785 | Matlab Coding homework for Machine Learning |
-| 50 | 32 | 12 | 5 months ago | [programming_class_cheats](https://github.com/jadijadi/programming_class_cheats)/786 | None |
-| 50 | 19 | 0 | 3 years ago | [mosse-tracker](https://github.com/amoudgl/mosse-tracker)/787 | Implementation of MOSSE tracker in MATLAB: Visual Object Tracking using Adaptive Correlation Filters (CVPR 2010) |
-| 50 | 27 | 3 | 3 years ago | [AANAP](https://github.com/YaqiLYU/AANAP)/788 | An implementation of AANAP in CVPR 2015 paper. |
-| 50 | 33 | 10 | 2 years ago | [ncorr_2D_matlab](https://github.com/justinblaber/ncorr_2D_matlab)/789 | 2D Digital Image Correlation Matlab Software |
-| 50 | 32 | 2 | 2 months ago | [SEIR](https://github.com/ECheynet/SEIR)/790 | Generalized SEIR Epidemic Model (fitting and computation) |
-| 49 | 39 | 8 | 1 year, 27 days ago | [critical-data-book](https://github.com/MIT-LCP/critical-data-book)/791 | Code repository for the critical data book |
-| 49 | 8 | 0 | 4 months ago | [Human-Activity-Recognition](https://github.com/aobuke/Human-Activity-Recognition)/792 | Human Activity Recognition by Sensor on Smartphone |
-| 49 | 27 | 0 | 5 years ago | [Computational-NeuroScience](https://github.com/ashumeow/Computational-NeuroScience)/793 | Computational NeuroScience is a rigorous 8-week course in Coursera from University of Washington that focus on basic computational techniques for analyzing, modelling and understanding the behaviour of cells and circuits in the brain. |
-| 49 | 34 | 0 | 4 years ago | [IRL-Toolkit](https://github.com/vvanirudh/IRL-Toolkit)/794 | IRL Toolkit developed by Sergey Levine (Taken from https://graphics.stanford.edu/projects/gpirl/) |
-| 49 | 31 | 1 | 10 hours ago | [BVAR_](https://github.com/naffe15/BVAR_)/795 | Empirical macro toolbox |
-| 49 | 26 | 4 | 2 years ago | [P-CNN](https://github.com/gcheron/P-CNN)/796 | P-CNN: Pose-based CNN Features for Action Recognition |
-| 49 | 20 | 0 | 3 years ago | [mdepth](https://github.com/ayanc/mdepth)/797 | Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions |
-| 49 | 13 | 2 | 1 year, 7 months ago | [REST](https://github.com/goodshawn12/REST)/798 | Real-time EEG Source-Mapping Toolbox (REST): Online ICA and Source Localization |
-| 49 | 33 | 0 | 1 year, 10 days ago | [ExtendedObjectTracking](https://github.com/Fusion-Goettingen/ExtendedObjectTracking)/799 | Sensor Data Fusion Group |
-| 49 | 35 | 1 | 5 years ago | [ActRecTut](https://github.com/andreas-bulling/ActRecTut)/800 | MATLAB Human Activity Recognition Toolbox |
-| 49 | 19 | 4 | 5 months ago | [yolov3-yolov4-matlab](https://github.com/cuixing158/yolov3-yolov4-matlab)/801 | Import and export Darknet™ models within MATLAB deep learning networks. |
-| 49 | 13 | 1 | 2 years ago | [AutoenCODE](https://github.com/micheletufano/AutoenCODE)/802 | AutoenCODE is a Deep Learning infrastructure that allows to encode source code fragments into vector representations, which can be used to learn similarities. |
-| 49 | 14 | 2 | 2 years ago | [Low-light-image-enhancement](https://github.com/martinli0822/Low-light-image-enhancement)/803 | TIP 2018 |
-| 49 | 14 | 3 | 9 months ago | [InLoc_demo](https://github.com/HajimeTaira/InLoc_demo)/804 | None |
-| 49 | 19 | 0 | 4 years ago | [OTP4LTE-U](https://github.com/microsoft/OTP4LTE-U)/805 | Open Test Platform for LTE/LTE-U |
-| 49 | 13 | 5 | 3 months ago | [eval-mpii-pose](https://github.com/anibali/eval-mpii-pose)/806 | Evaluation code for the MPII human pose dataset |
-| 49 | 26 | 0 | 1 year, 5 months ago | [Machine-Learning-Coursera-code](https://github.com/AlanTur1ng/Machine-Learning-Coursera-code)/807 | The assignment code for Coursera by Ng's ML course |
-| 48 | 34 | 0 | 4 years ago | [lsda](https://github.com/jhoffman/lsda)/808 | Large scale detection through adaptation |
-| 48 | 17 | 0 | 3 years ago | [ODriveTopOld](https://github.com/madcowswe/ODriveTopOld)/809 | High performance motor control |
-| 48 | 27 | 0 | 3 years ago | [IQA](https://github.com/zhenglab/IQA)/810 | Image Quality Assessment. |
-| 48 | 9 | 33 | 2 years ago | [neuropixels](https://github.com/cortex-lab/neuropixels)/811 | Information about Neuropixels electrode arrays |
-| 48 | 44 | 2 | 5 years ago | [DeepLearnToolbox](https://github.com/happynear/DeepLearnToolbox)/812 | None |
-| 48 | 11 | 0 | 2 years ago | [monocap](https://github.com/daniilidis-group/monocap)/813 | Code for MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior. |
-| 48 | 18 | 1 | 11 months ago | [tensor-demo](https://github.com/ahwillia/tensor-demo)/814 | A quickstart guide to tensor decomposition |
-| 48 | 32 | 0 | 4 years ago | [matlab-forensics](https://github.com/caomw/matlab-forensics)/815 | MATLAB implementations of popular Image Forensic algorithms |
-| 48 | 15 | 2 | 2 years ago | [FBHALE](https://github.com/facebookarchive/FBHALE)/816 | FBHALE provides a conceptual multidisciplinary design framework for high altitude long endurance (HALE) aircraft development. |
-| 48 | 29 | 1 | 3 years ago | [Matlab-Graph-Optimization](https://github.com/UTS-CAS/Matlab-Graph-Optimization)/817 | Matlab: Optimization for Nonlinear Least Squares |
-| 48 | 23 | 2 | 3 years ago | [cnngeometric_matconvnet](https://github.com/ignacio-rocco/cnngeometric_matconvnet)/818 | CNNGeometric MatConvNet implementation |
-| 48 | 16 | 0 | 7 months ago | [LFToolbox](https://github.com/doda42/LFToolbox)/819 | Light Field Toolbox for MATLAB |
-| 48 | 51 | 0 | 1 year, 5 months ago | [Simulation-platform](https://github.com/xiaoyuyang0901/Simulation-platform)/820 | Simulation platform for autonomous vehicle motion planning and control |
-| 48 | 16 | 1 | 15 days ago | [researchTools](https://github.com/weisongwen/researchTools)/821 | useful blogs for research |
-| 48 | 7 | 1 | 2 years ago | [Pixel-Attentional-Gating](https://github.com/aimerykong/Pixel-Attentional-Gating)/822 | Pixel Attentional Gating for Parsimonious Per-Pixel Labeling |
-| 48 | 25 | 30 | 2 months ago | [stabix](https://github.com/stabix/stabix)/823 | Slip transfer analysis toolbox and GUIs (Matlab) |
-| 48 | 29 | 7 | 15 days ago | [PhysioNet-Cardiovascular-Signal-Toolbox](https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox)/824 | PhysioNet Cardiovascular Signal Toolbox |
-| 48 | 21 | 2 | 4 years ago | [Color-Image-Inpainting](https://github.com/chongyangtao/Color-Image-Inpainting)/825 | Image inpainting based on OMP and KSVD algorithm |
-| 48 | 30 | 0 | 5 years ago | [Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University)/826 | Contains Study Material of the Course |
-| 48 | 53 | 5 | 3 years ago | [princeton-mvpa-toolbox](https://github.com/PrincetonUniversity/princeton-mvpa-toolbox)/827 | Automatically exported from code.google.com/p/princeton-mvpa-toolbox |
-| 48 | 67 | 0 | 6 years ago | [pmtkdata](https://github.com/probml/pmtkdata)/828 | A collection of MATLAB data sets used by PMTK. |
-| 48 | 15 | 0 | 5 years ago | [DecMeg2014](https://github.com/alexandrebarachant/DecMeg2014)/829 | Code and documentation for the winning solution to the DecMeg2014 challenge https://www.kaggle.com/c/decoding-the-human-brain |
-| 48 | 32 | 2 | 2 years ago | [Dual_Channel_Beamformer_and_Postfilter](https://github.com/XiaoxiangGao/Dual_Channel_Beamformer_and_Postfilter)/830 | This project gives an example of dual microphone speech enhancement based on GSC beamformer and multiple channel postfilter. |
-| 48 | 14 | 0 | 5 years ago | [patch-inpainting](https://github.com/PetterS/patch-inpainting)/831 | Image inpainting using coherency senstitive hashing |
-| 47 | 51 | 4 | 6 years ago | [spm12](https://github.com/neurodebian/spm12)/832 | analysis of brain imaging data sequences |
-| 47 | 42 | 2 | 1 year, 2 months ago | [GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)/833 | GPS INS Integrated Navigation |
-| 47 | 30 | 1 | 4 years ago | [MLPnP_matlab_toolbox](https://github.com/urbste/MLPnP_matlab_toolbox)/834 | The toolbox is a collection of PnP methods for Matlab. It can be used to benchmark algorithms. |
-| 47 | 15 | 1 | 5 months ago | [sound-source-localization-algorithm_DOA_estimation](https://github.com/Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation)/835 | 关于语音信号声源定位DOA估计所用的一些传统算法 |
-| 47 | 13 | 0 | 4 months ago | [SFA](https://github.com/lidq92/SFA)/836 | No reference image quality assessment based Semantic Feature Aggregation, published in ACM MM 2017, TMM 2019 |
-| 47 | 29 | 1 | 6 years ago | [oc_svm](https://github.com/rvlasveld/oc_svm)/837 | One-Class SVM implementations for temporal segmentation of human activities |
-| 47 | 10 | 0 | 2 months ago | [reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)/838 | MATLAB example on how to use Reinforcement Learning for developing a financial trading model |
-| 47 | 21 | 1 | 10 days ago | [SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms)/839 | Code of my WeChat Offical Account |
-| 47 | 19 | 6 | 14 days ago | [ARTE](https://github.com/4rtur1t0/ARTE)/840 | ARTE (A Robotics Toolbox for Education) |
-| 47 | 21 | 0 | 1 year, 10 months ago | [camera-pipeline-UI](https://github.com/karaimer/camera-pipeline-UI)/841 | None |
-| 47 | 41 | 0 | 8 months ago | [SparsifiedKMeans](https://github.com/stephenbeckr/SparsifiedKMeans)/842 | KMeans for big data using preconditioning and sparsification, Matlab implementation |
-| 47 | 19 | 0 | 3 years ago | [fixed-wing-sim](https://github.com/jrgenerative/fixed-wing-sim)/843 | Matlab implementation to simulate the non-linear dynamics of a fixed-wing unmanned areal glider. Includes tools to calculate aerodynamic coefficients using a vortex lattice method implementation, and to extract longitudinal and lateral linear systems around the trimmed gliding state. |
-| 47 | 18 | 0 | 1 year, 2 months ago | [DHDE_CVPR17](https://github.com/zzangjinsun/DHDE_CVPR17)/844 | A Unified Approach of Multi-scale Deep and Hand-crafted Features for Defocus Estimation |
-| 47 | 41 | 6 | 4 years ago | [FingerprintRecognition](https://github.com/noureldien/FingerprintRecognition)/845 | Fingerprint Recognition in runtime using images captured from mobile. Built using Android and OpenCV. Also built in MATLAB. |
-| 47 | 28 | 1 | 4 years ago | [BM3D](https://github.com/glemaitre/BM3D)/846 | Clone from http://www.cs.tut.fi/~foi/GCF-BM3D/index.html#ref_software |
-| 46 | 16 | 0 | 2 years ago | [DLDL](https://github.com/gaobb/DLDL)/847 | Deep Label Distribution Learning with Label Ambiguity |
-| 46 | 26 | 2 | 2 years ago | [RMT](https://github.com/RMT-TheoryAndPractice/RMT)/848 | None |
-| 46 | 34 | 1 | 2 years ago | [GraRep](https://github.com/ShelsonCao/GraRep)/849 | Source Code of GraRep |
-| 46 | 36 | 3 | 3 months ago | [MotionMapper](https://github.com/gordonberman/MotionMapper)/850 | Sample implementation of the MotionMapper behavioral analysis algorithms |
-| 46 | 16 | 1 | 3 years ago | [Naplib](https://github.com/Naplib/Naplib)/851 | None |
-| 46 | 50 | 0 | 6 years ago | [Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg](https://github.com/Franck-Dernoncourt/Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg)/852 | Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg |
-| 46 | 6 | 1 | 8 years ago | [matlab-xkcdify](https://github.com/slayton/matlab-xkcdify)/853 | XKCDIFY! Adding flair to boring Matlab Axes one plot at a time |
-| 46 | 21 | 4 | 4 years ago | [latexTable](https://github.com/eliduenisch/latexTable)/854 | This MATLAB function converts matrices, cells or tables from MATLAB to LaTeX table code. |
-| 46 | 27 | 11 | 9 months ago | [asvspoof2019](https://github.com/nesl/asvspoof2019)/855 | Our submission to the ASVspoof 2019: Automatic Speaker Verification Spoofing and Countermeasures Challenge |
-| 46 | 24 | 16 | 8 months ago | [retina](https://github.com/idsc-frazzoli/retina)/856 | interfaces and algorithms for event based cameras, lidars, and actuators |
-| 46 | 16 | 0 | a month ago | [Saliency-Evaluation-Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)/857 | This Toolbox contains E-measure, S-measure, weighted F & F-measure, MAE and PR curves or bar metrics for salient object detection. |
-| 46 | 29 | 0 | 2 years ago | [AEC](https://github.com/Spritea/AEC)/858 | Acoustic Echo Cancellation with LMS/RLS (基于LMS/RLS的自适应回声抵消) |
-| 46 | 28 | 40 | 12 days ago | [RflyExpCode](https://github.com/RflySim/RflyExpCode)/859 | Multicopter Design and Control Experiments based on MATLAB and PixHawk |
-| 46 | 25 | 1 | 4 years ago | [gabor](https://github.com/mhaghighat/gabor)/860 | Gabor Feature Extraction |
-| 46 | 33 | 0 | 6 years ago | [machine-learning-matlab](https://github.com/rishirdua/machine-learning-matlab)/861 | Matlab implementation of Machine Learning algorithms |
-| 46 | 46 | 18 | 6 days ago | [AFQ](https://github.com/yeatmanlab/AFQ)/862 | Automated Fiber Quantification |
-| 46 | 15 | 0 | 4 years ago | [kernel-metric-learning-reid](https://github.com/NEU-Gou/kernel-metric-learning-reid)/863 | Implementation for paper "Person re-identification using kernel-based metric learning methods" |
-| 46 | 60 | 0 | 7 years ago | [matlab_code-ufldl-exercise-](https://github.com/justdark/matlab_code-ufldl-exercise-)/864 | My UFLDL EXERCISE CODE |
-| 46 | 9 | 3 | 8 months ago | [SpringRank](https://github.com/cdebacco/SpringRank)/865 | Calculates SpringRank from directed networks or pairwise comparisons |
-| 46 | 21 | 0 | 11 days ago | [MPLBM-UT](https://github.com/je-santos/MPLBM-UT)/866 | Library for performing multiphase simulations (based on the Shan-Chen model) in complicated geometries (i.e. porous media 3D images) |
-| 46 | 25 | 1 | 2 years ago | [IMUSensorModels](https://github.com/hanley6/IMUSensorModels)/867 | This repository contains a C++ class for IMU sensor modeling. |
-| 46 | 21 | 5 | 3 years ago | [graphviz4matlab](https://github.com/graphviz4matlab/graphviz4matlab)/868 | Matlab interface to Graphviz graph layout package. Allows interactive editing of the resulting graphs. |
-| 46 | 11 | 0 | 9 months ago | [CLF-CQPUT](https://github.com/NMID-CQUPT/CLF-CQPUT)/869 | 🛰重庆邮电大学课程攻略 Learning files for courses and training in  Chongqing University of Posts and Telecommunications |
-| 45 | 26 | 3 | 7 years ago | [camera_and_pose](https://github.com/varunnr/camera_and_pose)/870 | Reconstructing 3D Human Pose from 2D Image Landmarks |
-| 45 | 13 | 2 | 1 year, 6 months ago | [GLCM-SVM](https://github.com/Grootzz/GLCM-SVM)/871 | 提取图像的灰度共生矩阵（GLCM），根据GLCM求解图像的概率特征，利用特征训练SVM分类器，对目标分类 |
-| 45 | 16 | 3 | 24 days ago | [MOxUnit](https://github.com/MOxUnit/MOxUnit)/872 | An xUnit framework for Matlab and GNU Octave  |
-| 45 | 22 | 0 | 1 year, 14 days ago | [Hybrid-Beamforming-for-Millimeter-Wave-Systems-Using-the-MMSE-Criterion](https://github.com/TianLin0509/Hybrid-Beamforming-for-Millimeter-Wave-Systems-Using-the-MMSE-Criterion)/873 | The Matlab Simulation codes for Hybrid Beamforming for Millimeter Wave Systems Using the MMSE Criterion. |
-| 45 | 15 | 0 | 1 year, 11 months ago | [flickr30k_entities](https://github.com/BryanPlummer/flickr30k_entities)/874 | Flickr30K Entities Dataset |
-| 45 | 18 | 48 | a month ago | [IB4m](https://github.com/softwarespartan/IB4m)/875 | Interactive Brokers API for Matlab |
-| 45 | 11 | 0 | 3 years ago | [SemanticVector](https://github.com/PrincetonML/SemanticVector)/876 | Word embedding approach based on a dynamic log-linear model |
-| 45 | 10 | 3 | 5 years ago | [matlab.tmbundle](https://github.com/textmate/matlab.tmbundle)/877 | TextMate support for Matlab / Octave |
-| 45 | 14 | 1 | a month ago | [Neuroimaging_Pattern_Masks](https://github.com/canlab/Neuroimaging_Pattern_Masks)/878 | Brain signature patterns, atlases of regions, and meta-analysis masks for neuroimaging data analysis. |
-| 45 | 30 | 0 | 3 years ago | [Reinforcment-Learning-With-Q-Learning](https://github.com/kennydl/Reinforcment-Learning-With-Q-Learning)/879 | None |
-| 45 | 37 | 1 | 5 years ago | [jburkardt-m](https://github.com/johannesgerer/jburkardt-m)/880 | An official Git Mirror of John Burkardt's great collection of MATLAB Software |
-| 45 | 22 | 2 | 3 years ago | [Robotics--Coursera](https://github.com/WenjinTao/Robotics--Coursera)/881 | Courses by University of Pennsylvania via Coursera |
-| 45 | 25 | 9 | 1 year, 6 months ago | [DDSMUtility](https://github.com/trane293/DDSMUtility)/882 | Utility to greatly simplify downloading, converting, viewing and extracting annotations from the Digital Database for Screening Mammography (DDSM) database available here: http://marathon.csee.usf.edu/Mammography/Database.html  |
-| 45 | 21 | 2 | 2 years ago | [rpg_image_reconstruction_from_events](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events)/883 | None |
-| 45 | 21 | 1 | 6 months ago | [BrainNetClass](https://github.com/zzstefan/BrainNetClass)/884 | None |
-| 45 | 12 | 0 | 3 years ago | [MatlabGDSPhotonicsToolbox](https://github.com/nicolasayotte/MatlabGDSPhotonicsToolbox)/885 | This is a Matlab library of functions to facilitate the design of Photonics Integrated Circuits GDS layout. |
-| 45 | 19 | 0 | 6 years ago | [cvision-algorithms](https://github.com/KirillLykov/cvision-algorithms)/886 | Collection of Computer Vision algorithms implemented in Matlab |
-| 45 | 30 | 24 | 2 months ago | [yeast-GEM](https://github.com/SysBioChalmers/yeast-GEM)/887 | The consensus GEM for Saccharomyces cerevisiae |
-| 44 | 31 | 1 | 2 years ago | [STRAIGHT](https://github.com/shuaijiang/STRAIGHT)/888 | This is a speech analysis, modification and synthesis system |
-| 44 | 35 | 18 | 24 days ago | [RAVEN](https://github.com/SysBioChalmers/RAVEN)/889 | The RAVEN Toolbox for genome scale model reconstruction, curation and analysis. |
-| 44 | 17 | 3 | 2 years ago | [vsad](https://github.com/wangzheallen/vsad)/890 | this is the code release for ''Weakly Supervised PatchNets: Describing and Aggregating Local Patches for Scene Recognition'' |
-| 44 | 29 | 0 | 1 year, 9 months ago | [5g-ldpc](https://github.com/xiaoshaoning/5g-ldpc)/891 | 5g ldpc codes |
-| 44 | 16 | 0 | 4 months ago | [KDD2019_K-Multiple-Means](https://github.com/CHLWR/KDD2019_K-Multiple-Means)/892 | Implementation for the paper "K-Multiple-Means: A Multiple-Means Clustering Method with Specified K Clusters,", which has been accepted by KDD'2019 as an ORAL paper, in the Research Track. |
-| 44 | 26 | 2 | 4 years ago | [matlab-hmm](https://github.com/qiuqiangkong/matlab-hmm)/893 | Open source HMM toolbox, with Discrete-HMM, Gaussian-HMM, GMM-HMM.  (matlab) |
-| 44 | 29 | 0 | 3 years ago | [machine-learning-ex](https://github.com/lintingbin2009/machine-learning-ex)/894 | Machine learning exercises. |
-| 44 | 11 | 3 | 2 years ago | [matlab-epsclean](https://github.com/Conclusio/matlab-epsclean)/895 | Clean/Repair .eps PostScript vector files created by Matlab R2016b |
-| 44 | 19 | 4 | 3 years ago | [TADW](https://github.com/thunlp/TADW)/896 | Network Representation Learning with Rich Text Information (IJCAI 2015) |
-| 44 | 12 | 2 | 1 year, 3 months ago | [SparkNG](https://github.com/HidekiKawahara/SparkNG)/897 | MATLAB realtime/interactive speech tools |
-| 44 | 15 | 0 | 6 years ago | [wateramarking](https://github.com/kirk86/wateramarking)/898 | Robust and secure watermarking scheme based on singular values replacement (SVD & DWT) |
-| 44 | 21 | 2 | 3 years ago | [vad](https://github.com/pckben/vad)/899 | Voice Activity Detection |
-| 44 | 26 | 7 | 7 months ago | [neuroGLM](https://github.com/pillowlab/neuroGLM)/900 | Fitting and analysis of trial-based neural spike responses with Generalized Linear Model (GLM). |
-| 44 | 19 | 5 | 5 months ago | [bspmview](https://github.com/spunt/bspmview)/901 | MATLAB program for viewing 3D fMRI statistical images |
-| 44 | 26 | 1 | 2 months ago | [mirt](https://github.com/JeffFessler/mirt)/902 | Michigan Image Reconstruction Toolbox (MIRT) - Matlab version |
-| 44 | 11 | 1 | 3 years ago | [surfnet](https://github.com/sinhayan/surfnet)/903 | None |
-| 44 | 41 | 1 | 6 months ago | [CASPR](https://github.com/darwinlau/CASPR)/904 | Cable-robot Analysis and Simulation Platform for Research Open-Source Software |
-| 44 | 17 | 1 | 10 years ago | [matlab_htk](https://github.com/ronw/matlab_htk)/905 | MATLAB functions that interface with the HTK Speech Recognition Toolkit (http://htk.eng.cam.ac.uk/) for training HMMs, GMMs and simple speech recognizers. |
-| 44 | 38 | 1 | 8 years ago | [RobotNavigation](https://github.com/jmiseikis/RobotNavigation)/906 | MATLAB implementation of two popular navigation algorithms: A-star and Real-Time Randomized Path Planning |
-| 44 | 22 | 10 | 5 months ago | [NIfTI-Image-Converter](https://github.com/alexlaurence/NIfTI-Image-Converter)/907 | 🖼 A lightweight neuroimaging .nii to .png converter for Matlab and Python users |
-| 44 | 17 | 1 | 2 years ago | [dgm_re-id](https://github.com/mangye16/dgm_re-id)/908 | Unsupervised Person Re-identification (ICCV 2017) |
-| 44 | 23 | 0 | 2 months ago | [spmScripts](https://github.com/rordenlab/spmScripts)/909 | Handy scripts for SPM |
-| 44 | 15 | 0 | 3 years ago | [spectral_descriptors](https://github.com/ChunyuanLI/spectral_descriptors)/910 | A collection of spectral descriptors for 3D meshed surfaces |
-| 44 | 32 | 0 | 14 days ago | [DPABI](https://github.com/Chaogan-Yan/DPABI)/911 | DPABI: a toolbox for Data Processing & Analysis of Brain Imaging |
-| 44 | 30 | 0 | 3 years ago | [coursera_robotics](https://github.com/ayushgaud/coursera_robotics)/912 | Contains coursera robotics specialization assignment codes  |
-| 44 | 41 | 1 | 7 years ago | [mlr](https://github.com/bmcfee/mlr)/913 | Metric Learning to Rank |
-| 44 | 25 | 2 | 1 year, 3 months ago | [LittleDog](https://github.com/RobotLocomotion/LittleDog)/914 | Example of quadruped planning and control in drake using LittleDog -- a small quadruped robot from Boston Dynamics.  |
-| 43 | 31 | 2 | 2 years ago | [quadrotorTrackingControl](https://github.com/wjxjmj/quadrotorTrackingControl)/915 | A simulation for quadrotor based on matlab |
-| 43 | 18 | 3 | a month ago | [IRtools](https://github.com/jnagy1/IRtools)/916 | MATLAB package of iterative regularization methods and large-scale test problems. This software is described in the paper "IR Tools: A MATLAB Package of Iterative Regularization Methods and Large-Scale Test Problems" that will be published in Numerical Algorithms, 2018. |
-| 43 | 11 | 2 | 3 years ago | [balltracking](https://github.com/cvlab-epfl/balltracking)/917 | Tracking of the ball and the players in team sports |
-| 43 | 17 | 0 | 2 years ago | [Reinforcement-learning-Algorithms-and-Dynamic-Programming](https://github.com/savinay95n/Reinforcement-learning-Algorithms-and-Dynamic-Programming)/918 | Reinforcement learning Algorithms such as SARSA, Q learning, Actor-Critic Policy Gradient and Value Function Approximation were applied to stabilize an inverted pendulum system and achieve optimal control. So essentially, the concept of Reinforcement Learning Controllers has been established. The Reinforcement Learning Controllers have been compared on the basis of performance and efficiency and they are separately compared with the classical Linear Quadratic Regulator Controller. Each of the RL controller have been integrated with a Swing up controller. A virtual switch toggles between the Swing up controller and the RL controller automatically, based on the value of the angular deviation theta with respect to the vertical plane. My research paper and my undergraduate thesis have been uploaded for reference. All the codes have also been uploaded.   |
-| 43 | 15 | 0 | 4 years ago | [Color-Attenuation-Prior-Dehazing](https://github.com/JiamingMai/Color-Attenuation-Prior-Dehazing)/919 | MATLAB codes for the paper "A Fast Single Image Haze Removal Algorithm using Color Attenuation Prior" |
-| 43 | 16 | 3 | 6 months ago | [image-denoising-benchmark](https://github.com/lbasek/image-denoising-benchmark)/920 | Benchmarking Denoising Algorithms with Real Photographs |
-| 43 | 33 | 4 | 4 years ago | [vlbenchmarks](https://github.com/vlfeat/vlbenchmarks)/921 | VLBenchmark is a MATLAB suite of benchmarks for computer vision features |
-| 43 | 45 | 0 | 2 years ago | [matlab-mnist-two-layer-perceptron](https://github.com/davidstutz/matlab-mnist-two-layer-perceptron)/922 | A two layer perceptron implemented in MatLab to recognize handwritten digits based on the MNIST dataset. |
-| 43 | 24 | 0 | 1 year, 3 months ago | [sparse-plex](https://github.com/indigits/sparse-plex)/923 | A  MATLAB library for sparse representation problems |
-| 43 | 12 | 0 | 6 years ago | [PatchMatch](https://github.com/ikuwow/PatchMatch)/924 | The PatchMatch algorithm on MATLAB |
-| 43 | 20 | 1 | 6 years ago | [ubcmatlabguide.github.io](https://github.com/ubcmatlabguide/ubcmatlabguide.github.io)/925 | YAGTOM: Yet Another Guide TO Matlab |
-| 43 | 16 | 8 | 1 year, 3 months ago | [fecgsyn](https://github.com/fernandoandreotti/fecgsyn)/926 | FECGSYN toolbox for ECG and fetal ECG simulation |
-| 43 | 11 | 0 | 4 months ago | [LRS3-For-Speech-Separation](https://github.com/JusperLee/LRS3-For-Speech-Separation)/927 | Multi-modal speech separation task data generation script on LRS3 data set. |
-| 43 | 17 | 0 | 1 year, 9 months ago | [Zero-shot-learning-journal](https://github.com/pujols/Zero-shot-learning-journal)/928 | None |
-| 43 | 22 | 0 | 2 years ago | [Hyperspectral-image-target-detection-based-on-sparse-representation](https://github.com/ShoupingShan/Hyperspectral-image-target-detection-based-on-sparse-representation)/929 | Hyperspectral image Target Detection based on Sparse Representation  |
-| 43 | 47 | 1 | 1 year, 9 months ago | [ImageRetrieval](https://github.com/kirk86/ImageRetrieval)/930 | Content Based Image Retrieval Techniques (e.g. knn, svm using MatLab GUI) |
-| 43 | 19 | 28 | 3 months ago | [zmap7](https://github.com/CelsoReyes/zmap7)/931 | ZMAP Seismology Software. V 7.x has been updated to MATLAB R2018a. |
-| 43 | 40 | 0 | 3 years ago | [book-resource-allocation](https://github.com/emilbjornson/book-resource-allocation)/932 | Simulation code for the book “Optimal Resource Allocation in Coordinated Multi-Cell Systems” by Emil Björnson and Eduard Jorswieck, Foundations and Trends in Communications and Information Theory, vol. 9, no. 2-3, pp. 113-381, 2013 |
-| 43 | 22 | 146 | 7 months ago | [DynaSim](https://github.com/DynaSim/DynaSim)/933 | DynaSim toolbox for modeling and simulating dynamical systems |
-| 43 | 44 | 13 | 8 hours ago | [EPANET-Matlab-Toolkit](https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit)/934 | A Matlab class for EPANET water distribution simulation libraries |
-| 43 | 24 | 1 | 1 year, 10 months ago | [low_dose_CT](https://github.com/eunh/low_dose_CT)/935 | Deep Convolutional Framelet Denoising for Low-Dose CT via Wavelet Residual Network |
-| 43 | 29 | 1 | 7 years ago | [ckmeans](https://github.com/norouzi/ckmeans)/936 | Cartesian k-means for approximate nearest neghbor search, codebook learning, etc. |
-| 43 | 12 | 3 | 1 year, 3 months ago | [stringer-pachitariu-et-al-2018b](https://github.com/MouseLand/stringer-pachitariu-et-al-2018b)/937 | Responses of 10,000 neurons to 2,800 natural images |
-| 43 | 25 | 0 | 3 years ago | [ocekf-slam](https://github.com/rpng/ocekf-slam)/938 | Observability-Constrained (OC)-EKF for 2D SLAM |
-| 43 | 14 | 1 | 2 years ago | [chromatography](https://github.com/chemplexity/chromatography)/939 | functions for chromatography and mass spectrometry data analysis |
-| 43 | 13 | 0 | 4 years ago | [catdeform](https://github.com/akanazawa/catdeform)/940 | A Matlab implementation for the paper: "Learning 3D Deformation of Animals from 2D Images" http://www.umiacs.umd.edu/~kanazawa/papers/cat_eg2016.pdf |
-| 43 | 30 | 11 | 2 years ago | [eeg-processing-toolbox](https://github.com/MAMEM/eeg-processing-toolbox)/941 | Matlab code for proccesing EEG signals. |
-| 42 | 17 | 2 | 2 years ago | [mapconstruction](https://github.com/pfoser/mapconstruction)/942 | Map Construction Algorithms |
-| 42 | 36 | 3 | 2 years ago | [SDR_Matlab_OFDM_802.11a](https://github.com/MeowLucian/SDR_Matlab_OFDM_802.11a)/943 | :satellite: Using Software Designed Radio to transmit OFDM QPSK signals at 5 GHz |
-| 42 | 35 | 0 | 4 years ago | [GPS_Milemeter_IMU_EKFLocation](https://github.com/gilbertz/GPS_Milemeter_IMU_EKFLocation)/944 | 采用gps、里程计和电子罗盘作为定位传感器，EKF作为多传感器的融合算法，最终输出目标的滤波位置 |
-| 42 | 28 | 2 | 6 years ago | [zslearning](https://github.com/mganjoo/zslearning)/945 | Repository for deep zero-shot learning via cross-modality transfer |
-| 42 | 8 | 1 | 2 years ago | [fog_simulation-SFSU_synthetic](https://github.com/sakaridis/fog_simulation-SFSU_synthetic)/946 | None |
-| 42 | 20 | 0 | 3 years ago | [PhaseBasedInterpolation](https://github.com/owang/PhaseBasedInterpolation)/947 | This is a personal reimplementation of Phase-Based Frame Interpolation for Video [Meyer et al. 2015] |
-| 42 | 18 | 0 | 2 years ago | [SoftGNSS](https://github.com/hahnpv/SoftGNSS)/948 | My working copy of SoftGNSS with sundry modifications |
-| 42 | 12 | 4 | 7 years ago | [image_quality_toolbox](https://github.com/gregfreeman/image_quality_toolbox)/949 | None |
-| 42 | 17 | 1 | 3 years ago | [koopman](https://github.com/mbudisic/koopman)/950 | Koopman Mode Decomposition |
-| 42 | 63 | 1 | 1 year, 3 months ago | [pmtksupport](https://github.com/probml/pmtksupport)/951 | Various packages used by PMTK. |
-| 42 | 25 | 1 | 5 years ago | [RRT](https://github.com/emreozanalkan/RRT)/952 | Autonomous Robots - Sampling-based algorithms – Rapidly Exploring Random Tree - My Lab Work |
-| 42 | 10 | 0 | 1 year, 3 months ago | [GFS-DCF](https://github.com/XU-TIANYANG/GFS-DCF)/953 | Matlab implementation of ICCV2019 paper "Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking" |
-| 42 | 19 | 1 | 2 years ago | [StackOverflow](https://github.com/jacoxu/StackOverflow)/954 | One short text dataset for classification and clustering extracted from StackOverflow |
-| 42 | 23 | 0 | 4 years ago | [fastdropout](https://github.com/sidaw/fastdropout)/955 | code for fast dropout |
-| 42 | 18 | 0 | 2 years ago | [cgmm-mask-estimator](https://github.com/funcwj/cgmm-mask-estimator)/956 | Implementation of the offline method described in "Robust mvdr beamforming using time-frequency masks for online/offline asr in noise" |
-| 42 | 25 | 9 | 13 days ago | [d2d](https://github.com/Data2Dynamics/d2d)/957 | a modeling environment tailored to parameter estimation in dynamical systems |
-| 42 | 3 | 1 | 1 year, 3 months ago | [terrain-amplification](https://github.com/eric-guerin/terrain-amplification)/958 | Terrain amplification as described in [Sparse representation of terrains for procedural modeling, Guérin et al. 2016] |
-| 42 | 19 | 0 | 6 years ago | [kaggle-seizure-prediction](https://github.com/drewabbot/kaggle-seizure-prediction)/959 | None |
-| 42 | 29 | 0 | 11 months ago | [BDA_m_demos](https://github.com/avehtari/BDA_m_demos)/960 | Bayesian Data Analysis demos for Matlab/Octave |
-| 42 | 24 | 2 | 1 year, 6 months ago | [GA-BP](https://github.com/Grootzz/GA-BP)/961 | 基于遗传算法的BP网络设计，应用背景为交通流量的预测 |
-| 42 | 15 | 2 | 4 years ago | [Person-Specific-FAS](https://github.com/jwyang/Person-Specific-FAS)/962 | Codes for TIFS paper |
-| 42 | 22 | 0 | 1 year, 9 months ago | [PlaceRecognition-LoopDetection](https://github.com/BAILOOL/PlaceRecognition-LoopDetection)/963 | Light-weight place recognition and loop detection using road markings |
-| 42 | 8 | 3 | 3 months ago | [TALR](https://github.com/kunhe/TALR)/964 | Code for CVPR 2018 paper "Hashing as Tie-Aware Learning to Rank" |
-| 42 | 38 | 17 | a month ago | [FID-A](https://github.com/CIC-methods/FID-A)/965 | Toolbox for simulation and processing of in-vivo magnetic resonance spectroscopy (MRS) data |
-| 42 | 14 | 0 | 2 years ago | [KCC](https://github.com/wang-chen/KCC)/966 | Kernel Cross-Correlator (KCC) for Tracking and Recognition (AAAI 2018) |
-| 42 | 13 | 12 | a month ago | [API_MO](https://github.com/sofacoustics/API_MO)/967 | SOFA Matlab/Octave API |
-| 42 | 22 | 0 | 7 months ago | [blp-demand](https://github.com/chrisconlon/blp-demand)/968 | estimate BLP demand model in Matlab using state-of-the-art techniques |
-| 42 | 26 | 1 | 3 years ago | [BurstImageDenoising](https://github.com/xyang35/BurstImageDenoising)/969 | Fast burst images denoising project |
-| 42 | 21 | 0 | 4 years ago | [SCA-DPA](https://github.com/Nodulaire/SCA-DPA)/970 | Side channel attack (SCA) of AES with Differential Power Analysis (DPA) |
-| 42 | 38 | 0 | 14 days ago | [VFIToolkit-matlab](https://github.com/vfitoolkit/VFIToolkit-matlab)/971 | A Matlab Toolkit for Macroeconomic Models using Value Function Iteration |
-| 42 | 15 | 0 | 11 months ago | [LIME](https://github.com/Sy-Zhang/LIME)/972 | Reimplementation of the paper "LIME: A Method for Low-light IMage Enhancement" in ACM MM 2016. |
-| 42 | 28 | 0 | 4 years ago | [pilco-matlab](https://github.com/ICL-SML/pilco-matlab)/973 | PILCO policy search framework (Matlab version) |
-| 41 | 17 | 1 | a month ago | [tdoa-evaluation-rtlsdr](https://github.com/DC9ST/tdoa-evaluation-rtlsdr)/974 | Matlab Scripts for Evaluation of a TDOA System based on RTL-SDRs |
-| 41 | 4 | 0 | 2 years ago | [Image_Tracking](https://github.com/LirongWu/Image_Tracking)/975 | Tracking before detection is realized by some filtering methods |
-| 41 | 16 | 2 | 1 year, 7 months ago | [image_SDR_to_HDR](https://github.com/taoshiqian/image_SDR_to_HDR)/976 | 图像SDR to HDR，目标：暗光区域 光照增强，过曝光区域 光照减弱 |
-| 41 | 31 | 2 | 4 years ago | [ICCV2015_Brain4Cars](https://github.com/asheshjain399/ICCV2015_Brain4Cars)/977 | Code for ICCV2015 paper "Car That Knows Before You Do: Anticipating Maneuvers via Learning Temporal Driving Models" |
-| 41 | 22 | 3 | 4 years ago | [ToF-Calibration](https://github.com/kapibara/ToF-Calibration)/978 | A ToF camera calibration toolbox; tested with Intel Creative; tests for Kinect 2 in progress |
-| 41 | 11 | 0 | 3 months ago | [SIVI](https://github.com/mingzhang-yin/SIVI)/979 |  Use neural network to construct expressive hierarchical distribution; Optimizing a novel bound with theoretical guarantees; A fast and robust method with accurate uncertainty estimation. (ICML 2018)  |
-| 41 | 13 | 0 | 2 months ago | [libDirectional](https://github.com/libDirectional/libDirectional)/980 | Matlab library for directional statistics and directional estimation  |
-| 41 | 11 | 1 | 24 days ago | [subcortex](https://github.com/yetianmed/subcortex)/981 | None |
-| 41 | 22 | 1 | 4 years ago | [part_constellation_models](https://github.com/cvjena/part_constellation_models)/982 | Code for the ICCV 2015 paper "Neural Activation Constellations: Unsupervised Part Model Discovery with Convolutional Networks." |
-| 41 | 9 | 0 | 5 months ago | [psignifit](https://github.com/wichmann-lab/psignifit)/983 | Toolbox for Bayesian inference for psychometric functions |
-| 41 | 3 | 2 | 1 year, 10 months ago | [multichart3dgans](https://github.com/helibenhamu/multichart3dgans)/984 | This repository contains the source codes for the paper "Multi-chart Generative Surface Modeling" |
-| 41 | 23 | 1 | 4 years ago | [convDBN](https://github.com/honglaklee/convDBN)/985 | None |
-| 41 | 19 | 5 | 1 year, 11 months ago | [RLOFLib](https://github.com/tsenst/RLOFLib)/986 | Robust Local Optical Flow (RLOF) |
-| 41 | 17 | 2 | 4 years ago | [2016-ICML-gromov-wasserstein](https://github.com/gpeyre/2016-ICML-gromov-wasserstein)/987 | Gabriel Peyré, Marco Cuturi, Justin Solomon, Gromov-Wasserstein Averaging of Kernel and Distance Matrices, Proc. of ICML 2016. |
-| 41 | 15 | 0 | 3 years ago | [UAVSimUE4](https://github.com/IVUL-KAUST/UAVSimUE4)/988 | Simulation tool for UAVs based on the UE4 game engine. |
-| 41 | 8 | 2 | 3 years ago | [CNN](https://github.com/iorism/CNN)/989 | Deep Residual Learning for Image Restoration(SISR/Denoising) : Persistent Homology-Guided Manifold Simplification |
-| 41 | 28 | 1 | 3 years ago | [DiscretHashing](https://github.com/bd622/DiscretHashing)/990 | None |
-| 41 | 12 | 0 | 1 year, 5 months ago | [sim3_evaluate_tool](https://github.com/PetWorm/sim3_evaluate_tool)/991 | A matlab tool to evaluate trajectory RMSE using sim3 alignment. |
-| 41 | 14 | 1 | 1 year, 8 months ago | [MIT_Scheme](https://github.com/Aiwiscal/MIT_Scheme)/992 | An implementation of inter-patient arrhythmia diagnosis using Andrew Y. Ng-style ResNet  |
-| 41 | 12 | 1 | 6 years ago | [nonnegfac-matlab](https://github.com/kimjingu/nonnegfac-matlab)/993 | Matlab implementations of fast algorithms for nonnegative matrix and tensor factorizations |
-| 41 | 12 | 1 | a year ago | [hybrid-beamforming-for-three-scenes](https://github.com/Zzhaoxingyu/hybrid-beamforming-for-three-scenes)/994 | None |
-| 41 | 20 | 6 | 2 years ago | [Stock-Market-Prediction-using-Neural-Networks-and-Genetic-Algorithm](https://github.com/Shikhar1998/Stock-Market-Prediction-using-Neural-Networks-and-Genetic-Algorithm)/995 | Matlab Module for Stock Market Prediction using Simple NN |
-| 41 | 22 | 0 | 1 year, 7 days ago | [TenSimpleRulesModeling](https://github.com/AnneCollins/TenSimpleRulesModeling)/996 | Code for the figures in the "Ten Simple Rules for Computational Modeling of Behavioral Data" paper. |
-| 41 | 10 | 1 | 4 months ago | [grasp_multiObject](https://github.com/ivalab/grasp_multiObject)/997 | Robotic grasp dataset for multi-object multi-grasp evaluation with RGB-D data. This dataset is annotated using the same protocal as Cornell Dataset, and can be used as multi-object extension of Cornell Dataset. |
-| 41 | 21 | 0 | 11 months ago | [ReVision](https://github.com/msavva/ReVision)/998 | ReVision: Automated Classification, Analysis and Redesign of Chart Images |
-| 41 | 16 | 6 | 3 years ago | [matlab-xunit](https://github.com/psexton/matlab-xunit)/999 | xUnit for Matlab with JUnit-compatible XML output |
-| 41 | 15 | 0 | 8 months ago | [sparse-depth-sensing](https://github.com/sparse-depth-sensing/sparse-depth-sensing)/1000 | IROS'16/IJRR "Sparse Sensing for Resource-Constrained Depth Reconstruction" |
+| 79 | 33 | 3 | 2 years ago | [GFN-dehazing](https://github.com/rwenqi/GFN-dehazing)/471 | Gated Fusion Network for Single Image Dehazing |
+| 79 | 24 | 3 | 5 years ago | [solarized-matlab](https://github.com/benhager/solarized-matlab)/472 | Solarized for MATLAB |
+| 79 | 40 | 3 | 6 years ago | [rtl-sdr-LTE](https://github.com/JiaoXianjun/rtl-sdr-LTE)/473 | Play with LTE signal (especially China TD-LTE) captured by rtl-sdr |
+| 78 | 57 | 0 | 4 years ago | [cp11fall_project1](https://github.com/drakeguan/cp11fall_project1)/474 | Implementation of Edge-Preserving Multiscale Image Decomposition Based on Local Extrema |
+| 78 | 36 | 0 | 2 years ago | [lips](https://github.com/rpng/lips)/475 | LiDAR-Inertial 3D Plane Simulator |
+| 78 | 31 | 9 | a month ago | [Fmask](https://github.com/GERSL/Fmask)/476 | The software called Fmask (Function of mask) is used for automated clouds, cloud shadows, and snow masking for Landsats 4-8 and Sentinel 2 images. |
+| 78 | 40 | 0 | 2 years ago | [mNeuron](https://github.com/donglaiw/mNeuron)/477 | None |
+| 78 | 10 | 10 | 1 year, 1 month ago | [Kernel-Modeling-Super-Resolution](https://github.com/IVRL/Kernel-Modeling-Super-Resolution)/478 | Official Implementation for Kernel Modeling Super-Resolution on Real Low-Resolution Images |
+| 77 | 56 | 0 | 4 years ago | [rbpf-gmapping](https://github.com/Allopart/rbpf-gmapping)/479 | MatLab implementation of a Rao-Blacwellized Particle Filter for Grid- Based FastSlam |
+| 77 | 50 | 6 | 3 years ago | [rgbd](https://github.com/s-gupta/rgbd)/480 | Code for CVPR13 paper - Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images |
+| 77 | 27 | 1 | 2 years ago | [fmtl](https://github.com/gingsmith/fmtl)/481 | Federated Multi-Task Learning |
+| 77 | 43 | 8 | 4 years ago | [calib_toolbox_addon](https://github.com/christianwengert/calib_toolbox_addon)/482 | Hand-eye calibration addon for the Matlab camera calibration toolbox |
+| 77 | 24 | 1 | 2 years ago | [DenseDepthMap](https://github.com/balcilar/DenseDepthMap)/483 | Create Dense Depth Map Image for Known Poisitioned Camera from Lidar Point Cloud |
+| 77 | 20 | 2 | 7 years ago | [rembo](https://github.com/ziyuw/rembo)/484 | Bayesian optimization in high-dimensions via random embedding. |
+| 77 | 48 | 0 | 3 years ago | [cluster](https://github.com/tobyma2020/cluster)/485 | The codes的K-means，FCM，谱聚类，DBSCAN，AP（AffinityPropagation），DPC聚类算法比较 |
+| 77 | 41 | 4 | 2 years ago | [3D-reconstruction](https://github.com/yihui-he/3D-reconstruction)/486 | two view structure from motion |
+| 77 | 31 | 6 | 3 years ago | [bivec](https://github.com/lmthang/bivec)/487 | Train bilingual embeddings as described in our NAACL 2015 workshop paper "Bilingual Word Representations with Monolingual Quality in Mind". Besides, it has all the functionalities of word2vec with added features and code clarity. See README for more info. |
+| 77 | 43 | 12 | 6 years ago | [scatnet](https://github.com/scatnet/scatnet)/488 | Scattering Network for Matlab |
+| 77 | 79 | 2 | 6 years ago | [UFLDL-Tutorial-Exercise](https://github.com/dkyang/UFLDL-Tutorial-Exercise)/489 | None |
+| 77 | 13 | 0 | 3 months ago | [FastAP-metric-learning](https://github.com/kunhe/FastAP-metric-learning)/490 | Code for CVPR 2019 paper "Deep Metric Learning to Rank" |
+| 77 | 38 | 8 | 4 months ago | [KST-Kuka-Sunrise-Toolbox](https://github.com/Modi1987/KST-Kuka-Sunrise-Toolbox)/491 | A ToolBox for controlling KUKA iiwa robot from matlab: |
+| 77 | 35 | 4 | 10 months ago | [pyrenn](https://github.com/yabata/pyrenn)/492 | A Recurrent Neural Network Toolbox for Python and Matlab |
+| 77 | 23 | 0 | 7 months ago | [Smart-Algorithm](https://github.com/LiYangSir/Smart-Algorithm)/493 | 智能算法-遗传算法、蚁群算法、粒子群算法实现。实现版本Java,Python,MatLab多版本实现 |
+| 76 | 22 | 4 | 3 months ago | [sr-metric](https://github.com/chaoma99/sr-metric)/494 | Learning a No-Reference Quality Metric for Single-Image Super-Rolution |
+| 76 | 16 | 11 | 9 months ago | [Deep-SR-ITM](https://github.com/sooyekim/Deep-SR-ITM)/495 | Official repository of Deep SR-ITM (oral at ICCV 2019) |
+| 76 | 26 | 1 | 3 months ago | [WB_sRGB](https://github.com/mahmoudnafifi/WB_sRGB)/496 | White balance camera-rendered sRGB images (CVPR 2019) [Matlab & Python] |
+| 76 | 51 | 4 | 3 years ago | [HeartSeg](https://github.com/yulequan/HeartSeg)/497 | code of DenseVoxNet and 3D-DSN |
+| 76 | 33 | 4 | 1 year, 7 months ago | [VisDrone2018-DET-toolkit](https://github.com/VisDrone/VisDrone2018-DET-toolkit)/498 | Object Detection in Images toolkit for VisDrone2019 |
+| 75 | 45 | 1 | 7 years ago | [ekf-slam-matlab](https://github.com/jaijuneja/ekf-slam-matlab)/499 | A Simultaneous Localisation and Mapping simulation in MATLAB |
+| 75 | 38 | 1 | 3 years ago | [IntelligentOptimizationAlgorithms](https://github.com/yangzhen0512/IntelligentOptimizationAlgorithms)/500 | This repository displays the demos of some Intelligent Optimization Algorithms, including SA (Simulated Annealing), GA (Genetic algorithm), PSO (Particle Swarm Optimizer) and so on. And some other algorithms will be appended in the future.  |
+| 75 | 62 | 2 | 3 years ago | [MPC_Code](https://github.com/s7ev3n/MPC_Code)/501 | Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab. |
+| 75 | 28 | 1 | 2 years ago | [diffusion-retrieval](https://github.com/ahmetius/diffusion-retrieval)/502 | Efficient Diffusion on Region Manifolds: Recovering Small Objects with Compact CNN Representations  |
+| 75 | 34 | 2 | 7 years ago | [Video2HeartRate](https://github.com/uavster/Video2HeartRate)/503 | Push your smartphone camera with your fingertip, record and find out your heart rate. |
+| 75 | 26 | 0 | 10 months ago | [Active-Learning](https://github.com/MrGiovanni/Active-Learning)/504 | Official Matlab demo for AIFT - CVPR 2017 |
+| 75 | 28 | 0 | 3 years ago | [2015-SIGGRAPH-convolutional-ot](https://github.com/gpeyre/2015-SIGGRAPH-convolutional-ot)/505 | J. Solomon, F. de Goes, G. Peyré, M. Cuturi, A. Butscher, A. Nguyen, T. Du, L. Guibas. Convolutional Wasserstein Distances: Efficient Optimal Transportation on Geometric Domains. ACM Transactions on Graphics (Proc. SIGGRAPH 2015), 34(4), pp. 66:1–66:11, 2015 |
+| 75 | 53 | 0 | 5 years ago | [matlab-midi](https://github.com/kts/matlab-midi)/506 | Matlab scripts to read and write MIDI files |
+| 75 | 23 | 1 | 5 months ago | [38-Cloud-A-Cloud-Segmentation-Dataset](https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset)/507 | This data set includes Landsat 8 images and their manually extracted pixel-level ground truths for cloud detection. |
+| 75 | 48 | 1 | 4 years ago | [Image-Processing-Codes-for-Easier-Understanding](https://github.com/YimianDai/Image-Processing-Codes-for-Easier-Understanding)/508 | original or modified image processing codes for easier understanding |
+| 74 | 35 | 0 | 4 years ago | [Dark-Channel-Haze-Removal](https://github.com/sjtrny/Dark-Channel-Haze-Removal)/509 | MATLAB implementation of "Single Image Haze Removal Using Dark Channel Prior" |
+| 74 | 65 | 1 | 4 years ago | [octave-networks-toolbox](https://github.com/aeolianine/octave-networks-toolbox)/510 | A set of graph/networks analysis functions in Octave |
+| 74 | 37 | 2 | 6 months ago | [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control)/511 | TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation. |
+| 74 | 34 | 1 | 1 year, 11 months ago | [Robust_Elastic_Warping](https://github.com/gain2217/Robust_Elastic_Warping)/512 | source codes for Parallax-Tolerant Image Stitching Based on Robust Elastic Warping |
+| 74 | 18 | 3 | 1 year, 2 months ago | [mcnCrossModalEmotions](https://github.com/albanie/mcnCrossModalEmotions)/513 | Supporting code for "Emotion Recognition in Speech using Cross-Modal Transfer in the Wild" |
+| 74 | 33 | 1 | 7 months ago | [SINDY-MPC](https://github.com/eurika-kaiser/SINDY-MPC)/514 | None |
+| 74 | 41 | 1 | 4 years ago | [DeepPed](https://github.com/DenisTome/DeepPed)/515 | Convolutional Neural Networks for Pedestrian Detection |
+| 74 | 14 | 3 | 3 years ago | [Image-Shadow-Detection-and-Removal](https://github.com/kittenish/Image-Shadow-Detection-and-Removal)/516 | None |
+| 73 | 14 | 3 | 7 years ago | [ChinaMapDeviation](https://github.com/maxime/ChinaMapDeviation)/517 | A method to correct the China Map Deviation, written as an Objective-C category on CLLocation |
+| 73 | 43 | 1 | 2 years ago | [machine-learning](https://github.com/khanhnamle1994/machine-learning)/518 | Programming Assignments and Lectures for Andrew Ng's "Machine Learning" Coursera course |
+| 73 | 59 | 1 | 2 months ago | [PrognosticsAlgorithmLibrary](https://github.com/nasa/PrognosticsAlgorithmLibrary)/519 | None |
+| 73 | 39 | 0 | 7 months ago | [ML_toolbox](https://github.com/epfl-lasa/ML_toolbox)/520 | A Machine learning toolbox containing algorithms for non-linear dimensionality reduction, clustering, classification and regression along with examples and tutorials which accompany the Master level "Advanced Machine Learning" and "Machine Learning Programming" courses taught at EPFL by Prof. Aude Billard |
+| 74 | 14 | 3 | 1 year, 5 months ago | [DMAN_MOT](https://github.com/jizhu1023/DMAN_MOT)/521 | Code for Online Multi-Object Tracking with Dual Matching Attention Network, ECCV 2018 |
+| 73 | 29 | 6 | a month ago | [FAIR.m](https://github.com/C4IR/FAIR.m)/522 | Flexible Algorithms for Image Registration |
+| 72 | 27 | 0 | 5 days ago | [TGRS-HRRSD-Dataset](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset)/523 | None |
+| 72 | 38 | 1 | 7 years ago | [matlab](https://github.com/jluttine/matlab)/524 | A collection of MATLAB scripts |
+| 72 | 29 | 2 | 4 years ago | [SAGE](https://github.com/jacobeisenstein/SAGE)/525 | Sparse Additive Generative Model of Text |
+| 72 | 52 | 0 | 1 year, 5 months ago | [iris](https://github.com/Qingbao/iris)/526 | Iris Recognition Algorithms Comparison between Daugman algorithm and Hough transform on Matlab |
+| 72 | 10 | 1 | 2 years ago | [corrected-UCF101-Annots](https://github.com/gurkirt/corrected-UCF101-Annots)/527 | None |
+| 72 | 37 | 2 | 4 years ago | [image-registration](https://github.com/fordanic/image-registration)/528 | A MATLAB library/toolbox providing access to image registration suitable for use with medical images. |
+| 72 | 14 | 0 | 1 year, 23 days ago | [Pottslab](https://github.com/mstorath/Pottslab)/529 | Multilabel image segmentation (color/gray/multichannel) based on the Potts  model (aka piecewise constant Mumford-Shah model) |
+| 72 | 60 | 9 | 1 year, 4 months ago | [VBA-toolbox](https://github.com/MBB-team/VBA-toolbox)/530 | The VBA toolbox |
+| 72 | 55 | 0 | 4 years ago | [AnomalyDetectionToolbox](https://github.com/dsmi-lab-ntust/AnomalyDetectionToolbox)/531 | A collection of algorithms for anomaly detection |
+| 72 | 44 | 0 | 5 months ago | [SAR-Synthetic-Aperture-Radar](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar)/532 | 合成孔径雷达 相关。研究生期间学习 SAR/InSAR/PolSAR 相关的代码和总结，毕业后已经离开这个领域了。分享出来，仅此纪念。1）SAR: 成像算法，RD，CS，Radarsat-1数据成像处理。2）InSAR: 人造场景原始回波仿真、成像及干涉处理。包括平地场景和圆锥形场景。3）PolSAR: 极化定标算法，Whitt, PARC, Quegan, Ainsworth。详见 readme.md |
+| 71 | 40 | 2 | 4 years ago | [deepGP](https://github.com/SheffieldML/deepGP)/533 | Deep Gaussian Processes in matlab |
+| 71 | 36 | 1 | 3 years ago | [SoundZone_Tools](https://github.com/jdonley/SoundZone_Tools)/534 | Signal Processing Tools for MATLAB |
+| 71 | 29 | 2 | a month ago | [robust-tube-mpc](https://github.com/HiroIshida/robust-tube-mpc)/535 | Robust model predictive control using tube |
+| 71 | 31 | 11 | 4 days ago | [allenCCF](https://github.com/cortex-lab/allenCCF)/536 | Tools to work with Allen Inst CCF data in matlab |
+| 71 | 21 | 4 | 1 year, 7 months ago | [image2mesh](https://github.com/jhonykaesemodel/image2mesh)/537 | Code for the paper "Image2Mesh: A Learning Framework for Single Image 3D Reconstruction" |
+| 71 | 25 | 2 | 1 year, 8 months ago | [BIQA_Toolbox](https://github.com/HuiZeng/BIQA_Toolbox)/538 | A benchmark implementation of representative deep BIQA models |
+| 71 | 54 | 0 | 1 year, 8 months ago | [NoRMCorre](https://github.com/flatironinstitute/NoRMCorre)/539 | Matlab routines for online non-rigid motion correction of calcium imaging data |
+| 71 | 22 | 7 | 3 months ago | [MetricGAN](https://github.com/JasonSWFu/MetricGAN)/540 | MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement (ICML 2019, with Travel awards) |
+| 71 | 38 | 3 | 4 years ago | [covariancetoolbox](https://github.com/alexandrebarachant/covariancetoolbox)/541 | Covariance toolbox for matlab, including riemannian geometry |
+| 71 | 28 | 7 | 7 months ago | [spatialmath-matlab](https://github.com/petercorke/spatialmath-matlab)/542 | Create,  manipulate and convert representations of position and orientation in 2D or 3D using Python |
+| 71 | 37 | 5 | 3 days ago | [GIBBON](https://github.com/gibbonCode/GIBBON)/543 | The Geometry and Image-Based Bioengineering add-On for MATLAB |
+| 71 | 84 | 0 | 4 years ago | [Aero-matlab](https://github.com/wme7/Aero-matlab)/544 | My matlab homework files |
+| 71 | 57 | 2 | 6 months ago | [spgl1](https://github.com/mpf/spgl1)/545 | A solver for large-scale sparse least squares |
+| 71 | 45 | 2 | 3 years ago | [phact](https://github.com/gregkaplan/phact)/546 | None |
+| 71 | 31 | 0 | 8 years ago | [star-cascade](https://github.com/rbgirshick/star-cascade)/547 | Cascade Object Detection with Deformable Part Models – Add-on package for voc-release4.01 |
+| 70 | 16 | 9 | 1 year, 5 months ago | [TADT](https://github.com/XinLi-zn/TADT)/548 | Implementation of the TADT tracker of paper 'Target-Aware Deep Tracking' |
+| 70 | 74 | 0 | 9 years ago | [deeplearning-class-2011](https://github.com/zellyn/deeplearning-class-2011)/549 | Code for Deep Learning class at Google |
+| 70 | 15 | 6 | 1 year, 8 months ago | [cooperative_scene_parsing](https://github.com/thusiyuan/cooperative_scene_parsing)/550 | Code for NeurIPS 2018: Cooperative Holisctic Scene Understanding: Unifying 3D Object, Layout, and Camera Pose Estimation  |
+| 70 | 33 | 1 | 2 years ago | [Hawkes-Process-Toolkit](https://github.com/HongtengXu/Hawkes-Process-Toolkit)/551 | A toolbox of Hawkes processes |
+| 70 | 41 | 3 | 2 years ago | [HyperSpectralToolbox](https://github.com/davidkun/HyperSpectralToolbox)/552 | HyperSpectral Matlab Toolbox forked from Sourceforge |
+| 70 | 40 | 3 | 4 months ago | [cgmm_mvdr](https://github.com/snsun/cgmm_mvdr)/553 | None |
+| 70 | 33 | 0 | 4 months ago | [DCMH-CVPR2017](https://github.com/jiangqy/DCMH-CVPR2017)/554 | source code for paper "Deep Cross-Modal Hashing" |
+| 70 | 24 | 6 | 8 months ago | [TWSC-ECCV2018](https://github.com/csjunxu/TWSC-ECCV2018)/555 |  Matlab Code for "A Trilateral Weighted Sparse Coding Scheme for Real-World Image Denoising, ECCV 2018". |
+| 70 | 43 | 0 | 4 years ago | [ImuFusion](https://github.com/meyiao/ImuFusion)/556 | EKF IMU Fusion Algorithms |
+| 69 | 22 | 7 | 5 years ago | [3DShapeNets](https://github.com/zhirongw/3DShapeNets)/557 | for cvpr2015 project 3DShapeNets |
+| 69 | 35 | 12 | 1 year, 3 months ago | [mobisys2018_nexmon_channel_state_information_extractor](https://github.com/seemoo-lab/mobisys2018_nexmon_channel_state_information_extractor)/558 | Example project for extracting channel state information of up to 80 MHz wide 802.11ac Wi-Fi transmissions using the BCM4339 Wi-Fi chip of Nexus 5 smartphones. |
+| 69 | 29 | 2 | 6 months ago | [Spherical-Harmonic-Transform](https://github.com/polarch/Spherical-Harmonic-Transform)/559 | A collection of MATLAB routines for the Spherical Harmonic Transform and related manipulations in the spherical harmonic spectrum. |
+| 69 | 32 | 0 | 2 years ago | [RED](https://github.com/google/RED)/560 | RED - Regularization by Denoising |
+| 69 | 34 | 0 | 8 months ago | [matlab-rrt-variants](https://github.com/adnanmunawar/matlab-rrt-variants)/561 | RRT*, RRT-connect, lazy RRT and RRT extend have been implemented for 2d and 3d c-spaces with visualization |
+| 69 | 33 | 6 | 1 year, 4 months ago | [MRiLab](https://github.com/leoliuf/MRiLab)/562 | A Numerical Magnetic Resonance Imaging (MRI) Simulation Platform |
+| 68 | 38 | 2 | 6 years ago | [openstreetmap](https://github.com/johnyf/openstreetmap)/563 | Interface to OpenStreetMap (load maps, extract road connectivity, plot road network & find shortest path) |
+| 68 | 30 | 1 | 3 years ago | [LimeSDR_Workshop](https://github.com/myriadrf/LimeSDR_Workshop)/564 | Intro to software-defined radio with LimeSDR workshop |
+| 68 | 44 | 0 | 5 years ago | [hinton-coursera](https://github.com/BradNeuberg/hinton-coursera)/565 | Repo for working through Geoffrey Hinton's Neural Network course (https://class.coursera.org/neuralnets-2012-001) |
+| 68 | 20 | 0 | 6 months ago | [WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter)/566 | WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab]. |
+| 68 | 54 | 0 | 1 year, 1 month ago | [fastRPCA](https://github.com/stephenbeckr/fastRPCA)/567 | Matlab code for all variants of robust PCA and SPCP |
+| 68 | 43 | 57 | a month ago | [qMRLab](https://github.com/qMRLab/qMRLab)/568 | Quantitative Magnetic Resonance Imaging Made Easy with qMRLab: a Software for Data Simulation, Analysis and Visualization |
+| 68 | 45 | 0 | 1 year, 4 months ago | [MASP](https://github.com/ZitengWang/MASP)/569 | Microphone Array Speech Processing |
+| 68 | 63 | 0 | 2 years ago | [coursera-machinelearning](https://github.com/rmarquis/coursera-machinelearning)/570 | Stanford University - Machine Learning by Andrew Ng |
+| 68 | 17 | 0 | 4 years ago | [VMSep-2010](https://github.com/MaigoAkisame/VMSep-2010)/571 | Separation of singing voice and accompaniment |
+| 68 | 20 | 0 | 1 year, 2 months ago | [MachineLearning](https://github.com/hongyuXie/MachineLearning)/572 |  机器学习师从Andrew Ng(吴恩达)，获得在Coursera平台上斯坦福大学Andrew Ng（吴恩达教授）机器学习（Machine Learning）的资格证书，为了有一个平台和大家分享和交流机器学习，因此特地在此进行课程的：笔记整理，重点划分，内置习题，在线习题，在线编程题等整理。后期会持续更新吴恩达教授的深度学习的课程，以及后期参加Kaggle比赛的全过程，希望大家持续关注噢。 |
+| 67 | 27 | 0 | 6 years ago | [SimpleFMCWRadar](https://github.com/lukeweston/SimpleFMCWRadar)/573 | A simple, low-power, low-cost 5.8-6.0 GHz microwave FMCW radar |
+| 67 | 42 | 11 | 5 years ago | [nilm-eval](https://github.com/beckel/nilm-eval)/574 | NILM-EVAL: An evaluation framework for non-intrusive load monitoring algorithms |
+| 67 | 26 | 8 | 1 year, 1 month ago | [orca](https://github.com/ayrna/orca)/575 | Ordinal Regression and Classification Algorithms |
+| 67 | 62 | 2 | 4 years ago | [cnn](https://github.com/xuzhenqi/cnn)/576 | This is a matlab-code implementation of convolutional neural network |
+| 67 | 28 | 6 | 7 months ago | [Violinplot-Matlab](https://github.com/bastibe/Violinplot-Matlab)/577 | Violin Plots for Matlab |
+| 67 | 42 | 1 | a month ago | [Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing)/578 | A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array. |
+| 67 | 59 | 3 | 1 year, 3 months ago | [RISE_toolbox](https://github.com/jmaih/RISE_toolbox)/579 | Solution and estimation of Markov Switching Rational Expectations / DSGE Models |
+| 67 | 35 | 1 | 5 years ago | [sfm_toolbox](https://github.com/vrabaud/sfm_toolbox)/580 | None |
+| 66 | 24 | 3 | 4 months ago | [ADSH-AAAI2018](https://github.com/jiangqy/ADSH-AAAI2018)/581 | source code for paper "Asymmetric Deep Supervised Hashing" on AAAI-2018 |
+| 66 | 20 | 0 | 1 year, 7 months ago | [deepattention](https://github.com/wenguanwang/deepattention)/582 | Deep Visual Attention Prediction (TIP18) |
+| 66 | 44 | 1 | a month ago | [Kernel-Principal-Component-Analysis-KPCA](https://github.com/iqiukp/Kernel-Principal-Component-Analysis-KPCA)/583 | KPCA for dimensionality reduction, feature extraction , fault detection, and fault diagnosis |
+| 66 | 31 | 2 | 4 years ago | [Embarrassingly-simple-ZSL](https://github.com/bernard24/Embarrassingly-simple-ZSL)/584 | This repository contains the code for the real data experiments presented in our paper  “An embarrassingly simple approach to zero-shot learning”, presented at ICML 2015. |
+| 66 | 32 | 8 | 3 years ago | [FCN_Text](https://github.com/stupidZZ/FCN_Text)/585 | None |
+| 66 | 29 | 15 | a year ago | [MultiDIC](https://github.com/MultiDIC/MultiDIC)/586 | Matlab 3D Digital Image Correlation Toolbox |
+| 66 | 45 | 0 | 5 years ago | [MATLAB-git](https://github.com/manur/MATLAB-git)/587 | A thin MATLAB wrapper for the Git source control system  |
+| 66 | 16 | 0 | 10 days ago | [gongdols](https://github.com/angeloyeo/gongdols)/588 | 공돌이의 수학정리노트 Blog/Youtube 소스코드 |
+| 66 | 44 | 9 | 5 years ago | [crazyflie-tools](https://github.com/blandry/crazyflie-tools)/589 | A collection of tools to develop controllers for the Crazyflie using Drake |
+| 66 | 36 | 0 | 1 year, 3 months ago | [WiAR](https://github.com/linteresa/WiAR)/590 | WiFi-based activity recognition dataset |
+| 66 | 25 | 0 | 5 years ago | [colour-transfer](https://github.com/frcs/colour-transfer)/591 | Colour transfer algorithms for grading the colours of an image |
+| 65 | 25 | 0 | 3 years ago | [orion](https://github.com/lmb-freiburg/orion)/592 | ORION: Orientation-boosted Voxel Nets for 3D Object Recognition |
+| 66 | 35 | 0 | 3 years ago | [CategoryShapes](https://github.com/akar43/CategoryShapes)/593 | Code for "Category-Specific Object Reconstruction from a Single Image" CVPR 2015. |
+| 65 | 18 | 3 | a month ago | [ACA-Code](https://github.com/alexanderlerch/ACA-Code)/594 | Matlab scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnalysis.org) |
+| 65 | 32 | 1 | 7 months ago | [Point_cloud_tools_for_Matlab](https://github.com/pglira/Point_cloud_tools_for_Matlab)/595 | Various point cloud tools for Matlab |
+| 65 | 27 | 1 | 1 year, 8 months ago | [carfac](https://github.com/google/carfac)/596 | Cascade of Asymmetric Resonators with Fast-Acting Compression cochlear model. |
+| 65 | 32 | 0 | 3 years ago | [minimum_snap_trajectory_generation](https://github.com/symao/minimum_snap_trajectory_generation)/597 | easy sample code for minimum snap trajectory planning  in MATLAB |
+| 65 | 28 | 0 | 7 months ago | [rrt_toolbox](https://github.com/olzhas/rrt_toolbox)/598 | RRT, RRT*, RRT*FN algorithms for MATLAB |
+| 65 | 25 | 0 | 7 months ago | [SIHR](https://github.com/vitorsr/SIHR)/599 | Fast/non-data-aided single image highlight removal methods in MATLAB/GNU Octave |
+| 65 | 29 | 24 | 1 year, 8 months ago | [sfs-matlab](https://github.com/sfstoolbox/sfs-matlab)/600 | SFS Toolbox for Matlab/Octave |
+| 65 | 28 | 0 | 8 days ago | [MATLAB_SAR](https://github.com/ngageoint/MATLAB_SAR)/601 | A basic MATLAB library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard. |
+| 65 | 25 | 1 | 5 years ago | [malware-windows-audit-log-detection](https://github.com/konstantinberlin/malware-windows-audit-log-detection)/602 | Detection of malware using dynamic behavior and Windows audit logs |
+| 65 | 37 | 0 | 3 years ago | [vargplvm](https://github.com/SheffieldML/vargplvm)/603 | Bayesian GPLVM in MATLAB and R |
+| 65 | 9 | 0 | 1 year, 1 month ago | [tvsum](https://github.com/yalesong/tvsum)/604 | TVSum: Title-based Video Summarization dataset (CVPR 2015) |
+| 65 | 15 | 0 | 19 hours ago | [low-light-image-enhancement-resources](https://github.com/dawnlh/low-light-image-enhancement-resources)/605 | This is a resouce list for low light image enhancement |
+| 65 | 14 | 3 | 1 year, 4 months ago | [TripletTracking](https://github.com/shenjianbing/TripletTracking)/606 | ECCV 2018 Triplet Loss in Siamese Network for Object Tracking |
+| 65 | 19 | 9 | 2 years ago | [DiffuserCam](https://github.com/Waller-Lab/DiffuserCam)/607 | DiffuserCam Processing Code |
+| 65 | 18 | 3 | 8 months ago | [FM-Bench](https://github.com/JiawangBian/FM-Bench)/608 | An Evaluation of Feature Matchers for Fundamental Matrix Estimation (BMVC 2019) |
+| 64 | 60 | 0 | 3 years ago | [Polar](https://github.com/tavildar/Polar)/609 | C and MATLAB implementation for Polar encoding and decoding  |
+| 64 | 43 | 0 | 20 days ago | [SystemicRisk](https://github.com/TommasoBelluzzo/SystemicRisk)/610 | A framework for systemic risk valuation and analysis. |
+| 64 | 51 | 2 | 1 year, 1 month ago | [polar-3gpp-matlab](https://github.com/robmaunder/polar-3gpp-matlab)/611 | Matlab simulations of the encoder and SCL decoder for the New Radio polar code from 3GPP Release 15 |
+| 64 | 34 | 0 | 3 years ago | [mctc4bmi](https://github.com/andrewssobral/mctc4bmi)/612 | Matrix and Tensor Completion for Background Model Initialization |
+| 64 | 50 | 1 | 6 years ago | [machine-learning-coursera](https://github.com/ahawker/machine-learning-coursera)/613 | Machine Learning (Spring 2014) |
+| 64 | 40 | 6 | 8 months ago | [frost-dev](https://github.com/ayonga/frost-dev)/614 | Fast Robot Optimization and Simulation Toolkit (FROST) |
+| 64 | 13 | 3 | 6 months ago | [boundedline-pkg](https://github.com/kakearney/boundedline-pkg)/615 | Plot line(s) with error bounds/confidence intervals/etc. in Matlab |
+| 64 | 29 | 22 | 12 hours ago | [OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D)/616 | A fast two-dimensional triangular mesh generator with pre- and post-processing utilities written in pure MATLAB (no toolboxes required) designed specifically to build models that solve shallow-water equations or wave equations in a coastal environment (ADCIRC, SWAN, SCHISM, Telemac, etc.). |
+| 64 | 15 | 0 | 1 year, 22 days ago | [GlobalOptimizationTutorial](https://github.com/MIT-SPARK/GlobalOptimizationTutorial)/617 | Hands-on Tutorial for Global Optimization in Matlab |
+| 64 | 9 | 2 | a month ago | [SYSU-MM01](https://github.com/wuancong/SYSU-MM01)/618 | Introduction and evaluation code for RGB-IR re-id dataset SYSU-MM01. |
+| 64 | 56 | 4 | 2 months ago | [PrognosticsModelLibrary](https://github.com/nasa/PrognosticsModelLibrary)/619 | None |
+| 64 | 29 | 1 | 2 years ago | [NPBayesHMM](https://github.com/michaelchughes/NPBayesHMM)/620 | Nonparametric Bayesian Inference for Sequential Data.  Includes state-of-the-art MCMC inference for Beta process Hidden Markov Models (BP-HMM). Implemented in Matlab. |
+| 64 | 32 | 0 | 18 days ago | [matImage](https://github.com/mattools/matImage)/621 | Image Processing library for Matlab |
+| 64 | 18 | 0 | 1 year, 2 months ago | [Sugarcane_borers_detect](https://github.com/1274085042/Sugarcane_borers_detect)/622 | 螟虫检测 |
+| 64 | 23 | 8 | 3 years ago | [SDS-RCNN](https://github.com/garrickbrazil/SDS-RCNN)/623 | None |
+| 63 | 45 | 2 | 2 months ago | [MPC-and-MHE-implementation-in-MATLAB-using-Casadi](https://github.com/MMehrez/MPC-and-MHE-implementation-in-MATLAB-using-Casadi)/624 | This is a workshop on implementing model predictive control (MPC) and moving horizon estimation (MHE) on Matlab. The implementation is based on the Casadi Package which is used for numerical optimization. A non-holonomic mobile robot is used as a system for the implementation. The workshop video recording can be found here https://www.youtube.com/playlist?list=PLK8squHT_Uzej3UCUHjtOtm5X7pMFSgAL  ... Casadi can be downloaded here https://web.casadi.org/ |
+| 63 | 33 | 1 | 1 year, 9 months ago | [Ordinary-Camera](https://github.com/Computational-Periscopy/Ordinary-Camera)/625 | Computational Periscopy with an Ordinary Digital Camera |
+| 63 | 30 | 0 | 3 years ago | [FD-Evaluation](https://github.com/Bkmz21/FD-Evaluation)/626 | Face detection evaluation |
+| 63 | 30 | 15 | 4 years ago | [Cortexsys](https://github.com/joncox123/Cortexsys)/627 | Matlab GPU Accelerated Deep Learning Toolbox |
+| 63 | 39 | 1 | 7 years ago | [hdml](https://github.com/norouzi/hdml)/628 | Hamming Distance Metric Learning with Non-linear Projection |
+| 63 | 45 | 0 | 10 months ago | [HPM](https://github.com/maziarraissi/HPM)/629 | Hidden physics models: Machine learning of nonlinear partial differential equations |
+| 63 | 37 | 2 | 6 years ago | [tdoa_localization](https://github.com/StevenJL/tdoa_localization)/630 | Time delay of arrival localization algorithm in Matlab |
+| 62 | 36 | 0 | 1 year, 9 months ago | [D_star_PathPlanning](https://github.com/LazyFalcon/D_star_PathPlanning)/631 | Simple Matlab implementation of D*Lite, Focussed D*, A*, for dynamic path planning for mobile robots |
+| 62 | 9 | 2 | 10 months ago | [WDK](https://github.com/avenix/WDK)/632 | The Wearables Development Toolkit - a development environment for activity recognition applications with sensor signals |
+| 62 | 19 | 0 | 8 months ago | [LearningWithoutForgetting](https://github.com/lizhitwo/LearningWithoutForgetting)/633 | Repository for the Learning without Forgetting paper, ECCV 2016 |
+| 62 | 36 | 0 | 7 years ago | [License-Plate-Recognition-by-MATLAB](https://github.com/hangxyz/License-Plate-Recognition-by-MATLAB)/634 | 基于MATLAB的车牌识别系统 |
+| 62 | 42 | 9 | 11 months ago | [highD-dataset](https://github.com/RobertKrajewski/highD-dataset)/635 | None |
+| 62 | 48 | 3 | 10 months ago | [IB2d](https://github.com/nickabattista/IB2d)/636 | An easy to use immersed boundary method in 2D, with full implementations in MATLAB and Python that contains over 60 built-in examples, including multiple options for fiber-structure models and advection-diffusion, Boussinesq approximations, and/or artificial forcing. |
+| 62 | 44 | 14 | 1 year, 8 months ago | [pulmonarytoolkit](https://github.com/tomdoel/pulmonarytoolkit)/637 | Lung medical image analysis and visualisation software for Matlab. |
+| 62 | 22 | 2 | 3 years ago | [BFMLandmarks](https://github.com/anilbas/BFMLandmarks)/638 | 68/21 Landmark points for Basel Face Model (3DMM) |
+| 62 | 36 | 3 | 11 months ago | [kafbox](https://github.com/steven2358/kafbox)/639 | A Matlab benchmarking toolbox for kernel adaptive filtering |
+| 62 | 19 | 1 | 1 year, 3 months ago | [SRN](https://github.com/KevinKecc/SRN)/640 | Side-output Residual Network for Object Symmetry Detection in the Wild   |
+| 61 | 15 | 0 | 6 months ago | [DBCNN](https://github.com/zwx8981/DBCNN)/641 | Blind Image Quality Assessment Using A Deep Bilinear Convolutional Neural Network  |
+| 61 | 34 | 1 | 6 years ago | [AutoEncoder](https://github.com/gynnash/AutoEncoder)/642 | Implementation of Semantic Hashing. Modified from Ruslan Salakhutdinov and Geoff Hinton's code of training Deep AutoEncoder |
+| 61 | 42 | 0 | a month ago | [Lidar-and-Radar-sensor-fusion-with-Extended-Kalman-Filter](https://github.com/paulyehtw/Lidar-and-Radar-sensor-fusion-with-Extended-Kalman-Filter)/643 | Fusing Lidar and Radar data with Extended Kalman Filter (EKF) |
+| 61 | 34 | 2 | 10 months ago | [mesh2d](https://github.com/dengwirda/mesh2d)/644 | MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries. |
+| 61 | 28 | 1 | 2 months ago | [SDETools](https://github.com/horchler/SDETools)/645 | Matlab Toolbox for the Numerical Solution of Stochastic Differential Equations |
+| 61 | 31 | 1 | 5 months ago | [Edge-Computing-Codes](https://github.com/hliangzhao/Edge-Computing-Codes)/646 | Simulation of algorithms for Edge Computing-related papers. |
+| 61 | 43 | 1 | 2 years ago | [LC_NGSIM](https://github.com/donnydcy/LC_NGSIM)/647 | lane change trajectories extracted from NGSIM |
+| 61 | 17 | 0 | 5 months ago | [single-shot-pro-cam-calib](https://github.com/BingyaoHuang/single-shot-pro-cam-calib)/648 | [IEEE T-ASE 2020] A Fast and Flexible Projector-Camera Calibration System |
+| 61 | 41 | 5 | 2 years ago | [iris-distro](https://github.com/rdeits/iris-distro)/649 | Iterative Regional Inflation by SDP |
+| 60 | 30 | 0 | 3 years ago | [NeuralNetPlayground](https://github.com/StackOverflowMATLABchat/NeuralNetPlayground)/650 | A MATLAB implementation of the TensorFlow Neural Networks Playground seen on http://playground.tensorflow.org/ |
+| 60 | 25 | 3 | a month ago | [cloudcontr](https://github.com/taiya/cloudcontr)/651 | Automatically exported from code.google.com/p/skeletonization |
+| 60 | 30 | 0 | 7 years ago | [visual-pulse-monitor](https://github.com/shelhamer/visual-pulse-monitor)/652 | Measure heart rate from standard video recording (UMass CS 691A final project) |
+| 60 | 27 | 0 | 11 months ago | [spm12](https://github.com/spm/spm12)/653 | SPM12 |
+| 60 | 32 | 4 | 2 years ago | [epicflow](https://github.com/suhangpro/epicflow)/654 | A Matlab wrapper for EpicFlow |
+| 60 | 26 | 1 | 1 year, 10 months ago | [AttractioNet](https://github.com/gidariss/AttractioNet)/655 | Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization |
+| 60 | 47 | 0 | 1 year, 6 months ago | [Genetic-Algorithm](https://github.com/strawberry-magic-pocket/Genetic-Algorithm)/656 | 基本遗传算法MATLAB程序 |
+| 60 | 35 | 1 | 3 years ago | [FEM](https://github.com/Meelfy/FEM)/657 | 有限元程序 / Finite element method |
+| 60 | 32 | 1 | 5 years ago | [KCF](https://github.com/scott89/KCF)/658 | Source code for "high-speed tracking with kernelized correlation filters" |
+| 60 | 24 | 2 | 4 years ago | [3dmodel_feature](https://github.com/charlesq34/3dmodel_feature)/659 | Code for extracting 3dcnn features of CAD models |
+| 60 | 25 | 0 | 1 year, 2 months ago | [IPPE](https://github.com/tobycollins/IPPE)/660 | Infinitesimal Plane-based Pose Estimation (IPPE): A very fast method to compute a camera's pose from a view of a planar object |
+| 59 | 19 | 2 | 7 months ago | [3D-PRNN](https://github.com/zouchuhang/3D-PRNN)/661 | Torch implementation for ICCV 17 paper: "3D-PRNN, Generating Shape Primitives with Recurrent Neural Networks" |
+| 59 | 30 | 0 | 3 years ago | [wavelet-coherence](https://github.com/grinsted/wavelet-coherence)/662 | A cross wavelet and wavelet coherence toolbox for MATLAB |
+| 59 | 31 | 4 | 18 hours ago | [pulseq](https://github.com/pulseq/pulseq)/663 | Open source framework for pulse sequences |
+| 59 | 43 | 0 | 4 years ago | [Alternating-minimization-algorithms-for-hybrid-precoding-in-millimeter-wave-MIMO-systems](https://github.com/yuxianghao/Alternating-minimization-algorithms-for-hybrid-precoding-in-millimeter-wave-MIMO-systems)/664 | Simulation codes for "Alternating minimization algorithms for hybrid precoding in millimeter wave MIMO systems," by Xianghao Yu, Juei-Chin Shen, Jun Zhang, and Khaled B. Letaief, IEEE J. Sel. Topics Signal Process., to appear, 2016. |
+| 59 | 39 | 0 | 5 years ago | [patrec2015](https://github.com/dazzz/patrec2015)/665 | Pattern recognition course in LUT |
+| 59 | 22 | 0 | 2 years ago | [ThresholdAndSegment](https://github.com/radishgiant/ThresholdAndSegment)/666 | 自动阈值提取及分割的算法合集：目前已更新的8种算法 |
+| 59 | 32 | 0 | 2 years ago | [CST-MATLAB-API](https://github.com/simos421/CST-MATLAB-API)/667 | CST-MATLAB-API |
+| 59 | 14 | 0 | 2 years ago | [drone-tracking](https://github.com/flyers/drone-tracking)/668 | DTB70 -- A Drone Tracking Benchmark |
+| 58 | 31 | 75 | 5 days ago | [wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox)/669 | The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README  for details). |
+| 58 | 29 | 26 | 3 years ago | [MatlabStan](https://github.com/brian-lau/MatlabStan)/670 | Matlab interface to Stan, a package for Bayesian inference |
+| 58 | 41 | 1 | 2 years ago | [ClassifierToolbox](https://github.com/hiroyuki-kasai/ClassifierToolbox)/671 | A MATLAB toolbox for classifier: Version 1.0.7 |
+| 58 | 21 | 0 | 9 months ago | [GLMspiketraintutorial](https://github.com/pillowlab/GLMspiketraintutorial)/672 | Simple tutorial on Gaussian and Poisson GLMs for single and multi-neuron spike train data |
+| 58 | 24 | 2 | 4 years ago | [shapeDTW](https://github.com/jiapingz/shapeDTW)/673 | A shape-embedded dynamic time warping (DTW) algorithm. To the best of our knowledge, shapeDTW beats all other DTW variants on UCR time series datasets. |
+| 58 | 38 | 3 | 7 months ago | [hybrid_A_star](https://github.com/wanghuohuo0716/hybrid_A_star)/674 | 本仓库是对混合A*算法的matlab复现 |
+| 58 | 40 | 4 | 2 months ago | [FVTool](https://github.com/simulkade/FVTool)/675 | Finite volume toolbox for Matlab/Octave |
+| 58 | 17 | 3 | 4 months ago | [GRAINS](https://github.com/ManyiLi12345/GRAINS)/676 | GRAINS: Generative Recursive Autoencoders for INdoor Scenes |
+| 58 | 19 | 1 | 3 months ago | [LieNet](https://github.com/zhiwu-huang/LieNet)/677 | GitHub repository for "Deep Learning on Lie Groups for Skeleton-based Action Recognition", CVPR 2017. |
+| 58 | 18 | 4 | 5 months ago | [AutoTrack](https://github.com/vision4robotics/AutoTrack)/678 | Matlab v1.0 implementation for AutoTrack  |
+| 58 | 3 | 1 | 2 years ago | [mcnGroupNorm](https://github.com/albanie/mcnGroupNorm)/679 | Small scale experiments with group normalization |
+| 58 | 26 | 0 | 2 years ago | [sound_signal_process-matlab-](https://github.com/bastamon/sound_signal_process-matlab-)/680 | 语音信号处理实验教程（MATLAB源代码） |
+| 58 | 20 | 0 | 4 months ago | [BrewerMap](https://github.com/DrosteEffect/BrewerMap)/681 | [MATLAB] The complete palette of ColorBrewer colormaps. Simple selection by scheme name and map length. |
+| 57 | 13 | 3 | 1 year, 1 month ago | [unsupervised_learning_of_dense_shape_correspondence](https://github.com/OshriHalimi/unsupervised_learning_of_dense_shape_correspondence)/682 | None |
+| 57 | 44 | 0 | 9 months ago | [mtt](https://github.com/andrewssobral/mtt)/683 | MATLAB Tensor Tools |
+| 57 | 37 | 1 | 5 years ago | [exposure-fusion](https://github.com/Mericam/exposure-fusion)/684 | Exposure Fusion in Matlab |
+| 57 | 66 | 0 | 2 years ago | [ADRC](https://github.com/TianfaYao/ADRC)/685 | v1 |
+| 57 | 33 | 0 | 1 year, 1 month ago | [matlabHyperspectralToolbox](https://github.com/isaacgerg/matlabHyperspectralToolbox)/686 | initial cut |
+| 57 | 39 | 1 | 8 years ago | [DPMM](https://github.com/jacobeisenstein/DPMM)/687 | Dirichlet process mixture model code in Matlab. Sampling and variational. |
+| 57 | 51 | 0 | 3 years ago | [sze-academic-robotics-projects](https://github.com/horverno/sze-academic-robotics-projects)/688 | Various robotics related projects in various programming languages (MATLAB, LabVIEW, C#) and techniques (V-REP, ROS, LEGO Mindstorms, Kinect, Neobotix).  |
+| 57 | 38 | 1 | 2 years ago | [kalman-localization](https://github.com/awerries/kalman-localization)/689 | MATLAB implementation of localization using sensor fusion of GPS/INS through an error-state Kalman filter. |
+| 57 | 27 | 66 | 10 days ago | [JAABA](https://github.com/kristinbranson/JAABA)/690 | Janelia Animal Behavior Detector |
+| 57 | 35 | 0 | 1 year, 5 months ago | [Mathematical-Modeling](https://github.com/ravenxrz/Mathematical-Modeling)/691 | 数学建模算法学习 |
+| 57 | 25 | 4 | 1 year, 5 months ago | [MSIfromHE](https://github.com/jnkather/MSIfromHE)/692 | predict microsatellite status from hematoxylin-eosin histology of gastrointestinal cancer |
+| 57 | 30 | 0 | 3 years ago | [RNN_MATLAB](https://github.com/JianboTang/RNN_MATLAB)/693 | this is a  matlab toolbox of deep learning about sequences learning, object-oriented,including rnn, lstm and encoder decoder(sequences to sequences) etc.GPU version is available |
+| 57 | 82 | 13 | 13 days ago | [WEC-Sim](https://github.com/WEC-Sim/WEC-Sim)/694 | Wave Energy Converter Simulator (WEC-Sim), an open-source code for simulating wave energy converters.  |
+| 57 | 45 | 9 | 6 days ago | [CoSMoMVPA](https://github.com/CoSMoMVPA/CoSMoMVPA)/695 | A lightweight multivariate pattern analysis (MVPA) toolbox in Matlab / Octave |
+| 56 | 14 | 0 | 6 years ago | [Minimum-Probability-Flow-Learning](https://github.com/Sohl-Dickstein/Minimum-Probability-Flow-Learning)/696 | Matlab code implementing Minimum Probability Flow Learning. |
+| 56 | 32 | 13 | 1 year, 4 months ago | [OceanEddies](https://github.com/jfaghm/OceanEddies)/697 | A collection of algorithms to autonomously identify and track mesoscale ocean eddies in sea surface height (SSH) satellite data |
+| 56 | 44 | 0 | 3 years ago | [optimal-beamforming](https://github.com/emilbjornson/optimal-beamforming)/698 | Simulation code for “Optimal Multiuser Transmit Beamforming: A Difficult Problem with a Simple Solution Structure” by Emil Björnson, Mats Bengtsson, and Björn Ottersten, IEEE Signal Processing Magazine, vol. 31, no. 4, pp. 142-148, July 2014. |
+| 56 | 33 | 0 | 3 years ago | [VGG-Multiple-View-Geometry](https://github.com/jmmanley/VGG-Multiple-View-Geometry)/699 | A set of MATLAB utilities for multiple view geometry, provided alongside Hartley & Zisserman's "Multiple View Geometry in Computer Vision, Second Edition" (2004). Obtained from http://www.robots.ox.ac.uk/~vgg/hzbook/code/. |
+| 56 | 34 | 1 | 1 year, 10 months ago | [CS_MoCo_LAB](https://github.com/thomaskuestner/CS_MoCo_LAB)/700 | Compressed Sensing and Motion Correction LAB: An MR acquisition and reconstruction system |
+| 56 | 35 | 97 | 12 hours ago | [isetbio](https://github.com/isetbio/isetbio)/701 | Tools for modeling image systems engineering in the human visual system front end |
+| 56 | 31 | 1 | 7 years ago | [ica](https://github.com/vsubhashini/ica)/702 | Independent Component Analysis (for blind source separation) |
+| 56 | 87 | 65 | 11 months ago | [buzcode](https://github.com/buzsakilab/buzcode)/703 | Code for internal lab sharing - polishing has started but is by no means complete |
+| 56 | 28 | 4 | 1 year, 6 months ago | [TRAIN](https://github.com/dbekaert/TRAIN)/704 | Toolbox for Reducing Atmospheric InSAR Noise |
+| 56 | 19 | 0 | 1 year, 8 months ago | [CTF](https://github.com/professormahi/CTF)/705 | CTF (Capture The Flag Writeups and Tools) |
+| 56 | 19 | 0 | 2 years ago | [caser](https://github.com/graytowne/caser)/706 | A Matlab implementation of Convolutional Sequence Embedding Recommendation Model (Caser) |
+| 56 | 26 | 8 | 1 year, 10 months ago | [maxwellfdfd](https://github.com/wsshin/maxwellfdfd)/707 | MATLAB-based solver package of Maxwell's equations by the FDFD method. |
+| 56 | 18 | 0 | 4 months ago | [plot-edge-pr-curves](https://github.com/MCG-NKU/plot-edge-pr-curves)/708 | The code and data to plot edge PR curves for many existing edge detectors |
+| 56 | 26 | 0 | 4 years ago | [VRP-using-SA-with-Matlab](https://github.com/lzane/VRP-using-SA-with-Matlab)/709 | Vehicle Routing Problem (VRP) using Simulated Annealing (SA) with Matlab  /  模拟退火 |
+| 56 | 9 | 2 | 4 days ago | [RGBD-SODsurvey](https://github.com/taozh2017/RGBD-SODsurvey)/710 | RGB-D Salient Object Detection: A Survey |
+| 56 | 16 | 8 | 1 year, 7 months ago | [EndToEndIncrementalLearning](https://github.com/fmcp/EndToEndIncrementalLearning)/711 | End-to-End Incremental Learning |
+| 56 | 7 | 3 | 1 year, 8 days ago | [combining3Dmorphablemodels](https://github.com/nabeel3133/combining3Dmorphablemodels)/712 | Project Page of Combining 3D Morphable Models: A Large scale Face-and-Head Model - [CVPR 2019] |
+| 55 | 23 | 0 | 2 years ago | [davis-matlab](https://github.com/davisvideochallenge/davis-matlab)/713 | A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation |
+| 55 | 22 | 6 | 5 months ago | [jLab](https://github.com/jonathanlilly/jLab)/714 | A Matlab toolbox for big data analysis, signal processing, mapping, and oceanographic applications. |
+| 55 | 10 | 1 | 3 months ago | [map_compression](https://github.com/ZJUYH/map_compression)/715 | Implementation of a T-ITS paper: 3D LiDAR Map Compression for Efficient Localization on Resource Constrained Vehicles |
+| 55 | 18 | 4 | 4 months ago | [mpm](https://github.com/mobeets/mpm)/716 | Simple Matlab package management inspired by pip |
+| 55 | 29 | 1 | 4 years ago | [detectionAnalysis](https://github.com/weiliu89/detectionAnalysis)/717 | http://web.engr.illinois.edu/~dhoiem/projects/detectionAnalysis/ |
+| 55 | 10 | 1 | 1 year, 5 months ago | [veh_passenger](https://github.com/TUMFTM/veh_passenger)/718 | TUM Roborace Team Software Stack - Example Vehicle |
+| 55 | 21 | 2 | 11 months ago | [MSG-Net](https://github.com/twhui/MSG-Net)/719 | Depth Map Super-Resolution by Deep Multi-Scale Guidance, ECCV 2016 |
+| 55 | 22 | 0 | a month ago | [explanatoryGraph](https://github.com/zqs1022/explanatoryGraph)/720 | Interpreting CNN Knowledge via an Explanatory Graph |
+| 55 | 34 | 0 | 4 years ago | [ACC_Vehicle_MPC](https://github.com/ajinkya-khade/ACC_Vehicle_MPC)/721 | Model Predictive Control of Adaptive Cruise Control Vehicles. |
+| 54 | 29 | 2 | 4 years ago | [SOD](https://github.com/jimmie33/SOD)/722 | A Method for Unconstrained Salient Object Detection |
+| 54 | 7 | 0 | 7 months ago | [methods_class](https://github.com/SjulsonLab/methods_class)/723 | "Approaches to Study Neural Circuits" course |
+| 54 | 31 | 0 | 8 months ago | [Matlab-GAN](https://github.com/zcemycl/Matlab-GAN)/724 | MATLAB implementations of Generative Adversarial Networks -- from GAN to Pixel2Pixel, CycleGAN |
+| 54 | 2 | 1 | a month ago | [HUMBI](https://github.com/zhixuany/HUMBI)/725 | This repository contains official code (in MATLAB) for exploring and visualizing HUMBI dataset introduced in the paper "HUMBI: A Large Multiview Dataset of Human Body Expressions" (CVPR 2020). |
+| 54 | 20 | 12 | a month ago | [hearingaid-prototype](https://github.com/m-r-s/hearingaid-prototype)/726 | Instructions for building an almost consumer hardware based prototype of a hearing aid |
+| 54 | 24 | 6 | 3 years ago | [Kaggle-EEG](https://github.com/garethjns/Kaggle-EEG)/727 | Seizure prediction from EEG data using machine learning. 3rd place solution for Kaggle/Uni Melbourne seizure prediction competition. |
+| 54 | 11 | 0 | 1 year, 7 months ago | [Machine-Learning--Coursera](https://github.com/zlpure/Machine-Learning--Coursera)/728 | My Solution to Assignments of Machine-Learning on Coursera |
+| 54 | 27 | 3 | 3 years ago | [phasepack-matlab](https://github.com/tomgoldstein/phasepack-matlab)/729 | A software library for solving phase retrieval problems, and comparing phase retrieval methods. |
+| 54 | 38 | 6 | 5 years ago | [DeepFi](https://github.com/mars920314/DeepFi)/730 | An Indoor Fingerprinting Localization Algorithm which uses CSI from wifi |
+| 54 | 20 | 2 | 19 days ago | [radar_tools](https://github.com/qwe14789cn/radar_tools)/731 | 信号处理工具箱 |
+| 54 | 15 | 6 | 2 years ago | [RAP](https://github.com/dangweili/RAP)/732 | A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios |
+| 54 | 25 | 0 | 2 years ago | [singingvoiceseparationrpca](https://github.com/posenhuang/singingvoiceseparationrpca)/733 | Singing-Voice Separation From Monaural Recordings  Using Robust Principal Component Analysis |
+| 54 | 29 | 9 | 6 months ago | [geopdes](https://github.com/rafavzqz/geopdes)/734 | GeoPDEs: Isogeometric Analysis in Octave and Matlab, for research and teaching purposes. |
+| 54 | 36 | 0 | 3 months ago | [arduino](https://github.com/APMonitor/arduino)/735 | Process Control Temperature Lab |
+| 54 | 18 | 0 | 2 months ago | [USElection](https://github.com/chris-taylor/USElection)/736 | MATLAB model to make predictions for the US 2012 election |
+| 54 | 38 | 0 | 1 year, 11 months ago | [mlbop](https://github.com/PhDP/mlbop)/737 | Matlab code for S. Theodoridis' "Machine Learning: A Bayesian and Optimization Perspective" (2015). |
+| 54 | 26 | 3 | 4 months ago | [sdpt3](https://github.com/sqlp/sdpt3)/738 | SDPT3: MATLAB/Octave software for semidefinite-quadratic-linear programming |
+| 53 | 11 | 52 | 1 year, 1 month ago | [IPA-discuss](https://github.com/UCAS-IPA/IPA-discuss)/739 | 中国科学院大学2019年图像处理与分析课程相关资源及问答。 |
+| 53 | 19 | 3 | 4 years ago | [edge_boxes_with_python](https://github.com/dculibrk/edge_boxes_with_python)/740 | A python wrapper for Edge Boxes object proposal generation |
+| 53 | 73 | 3 | 2 years ago | [matlab-machine-learning](https://github.com/Apress/matlab-machine-learning)/741 | Source Code for 'MATLAB Machine Learning' by Michael Paluszek and Stephanie Thomas |
+| 53 | 29 | 1 | 4 years ago | [Camera-to-Arm-Calibration](https://github.com/ZacharyTaylor/Camera-to-Arm-Calibration)/742 | Matlab toolbox for finding the transformation from a camera to a robotic arms base |
+| 53 | 10 | 3 | 2 months ago | [DSBD](https://github.com/melgharib/DSBD)/743 | Large-scale, Fast and Accurate Shot Boundary Detection through Spatio-temporal Convolutional Neural Networks |
+| 53 | 27 | 4 | 5 years ago | [spiking_relu_conversion](https://github.com/dannyneil/spiking_relu_conversion)/744 | None |
+| 53 | 15 | 5 | 4 years ago | [LRR](https://github.com/golnazghiasi/LRR)/745 | code and models for "Laplacian Pyramid Reconstruction and Refinement for Semantic Segmentation" |
+| 53 | 13 | 4 | 1 year, 8 months ago | [QuickNATv2](https://github.com/ai-med/QuickNATv2)/746 | Fast Whole Brain Segmentation (Layers, codes and Pre-trained Models) |
+| 53 | 24 | 3 | 1 year, 23 days ago | [event_feature_tracking](https://github.com/daniilidis-group/event_feature_tracking)/747 | This repo contains MATLAB implementations of the event-based feature tracking methods described in "Event-based Feature Tracking with Probabilistic Data Association" and "Event-based Visual Inertial Odometry". |
+| 53 | 36 | 1 | 8 months ago | [OFDM](https://github.com/2417677728/OFDM)/748 | A MATLAB program to help understand OFDM. |
+| 53 | 11 | 0 | 3 months ago | [LaSOT_Evaluation_Toolkit](https://github.com/HengLan/LaSOT_Evaluation_Toolkit)/749 | Evaluation of trackers on a large-scale benchmark LaSOT. |
+| 53 | 27 | 0 | a month ago | [Nonlinear-Optimization-Algorithms](https://github.com/clarkzinzow/Nonlinear-Optimization-Algorithms)/750 | MATLAB implementations of a variety of nonlinear programming algorithms. |
+| 53 | 27 | 0 | 11 days ago | [ILRMA](https://github.com/d-kitamura/ILRMA)/751 | MATLAB script of Independent Low-Rank Matrix Analysis (ILRMA) |
+| 52 | 50 | 3 | 6 months ago | [Matlab](https://github.com/quandl/Matlab)/752 | Quandl's Matlab module |
+| 52 | 18 | 0 | 4 months ago | [RealismCNN](https://github.com/junyanz/RealismCNN)/753 | code for predicting and improving visual realism in composite images |
+| 52 | 18 | 0 | 1 year, 2 months ago | [BOCS](https://github.com/baptistar/BOCS)/754 | Bayesian Optimization of Combinatorial Structures |
+| 52 | 44 | 2 | 3 years ago | [CCNF](https://github.com/TadasBaltrusaitis/CCNF)/755 | Libraries for training and testing Continuous Conditional Neural Fields with a number of sample problems and other baselines. |
+| 52 | 61 | 0 | 1 year, 4 months ago | [StudyMaterials](https://github.com/HasanShaukat/StudyMaterials)/756 | This repository is a one-stop-shop for Data Science and Machine Learning Study Materials compiled from various platforms. |
+| 52 | 130 | 6 | 1 year, 4 months ago | [MathWorks_tools](https://github.com/analogdevicesinc/MathWorks_tools)/757 | Scripts and tools created by ADI to be used with MATLAB and Simulink with ADI products |
+| 52 | 19 | 14 | 5 years ago | [fig2u3d](https://github.com/johnyf/fig2u3d)/758 | Export MATLAB figure as U3D file or directly to 3D interactive PDF |
+| 52 | 22 | 1 | 1 year, 3 months ago | [SupER](https://github.com/thomas-koehler/SupER)/759 | Super-Resolution Erlangen (SupER): Benchmarking Super-Resolution Algorithms on Real Data |
+| 52 | 38 | 0 | 9 years ago | [Incremental-SVM-Learning-in-MATLAB](https://github.com/diehl/Incremental-SVM-Learning-in-MATLAB)/760 | This MATLAB package implements the methods for exact incremental/decremental SVM learning, regularization parameter perturbation and kernel parameter perturbation presented in "SVM Incremental Learning, Adaptation, and Optimization" by Christopher Diehl and Gert Cauwenberghs. |
+| 52 | 8 | 0 | 2 months ago | [JLDCF](https://github.com/kerenfu/JLDCF)/761 | Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection" |
+| 52 | 16 | 0 | 4 years ago | [HouseCraft](https://github.com/chuhang/HouseCraft)/762 | Source code for ECCV16 paper |
+| 52 | 20 | 1 | 1 year, 30 days ago | [NeuroSLAM](https://github.com/cognav/NeuroSLAM)/763 | NeuroSLAM: A Brain inspired SLAM System for 3D Environments |
+| 52 | 38 | 4 | 2 years ago | [plot_google_map](https://github.com/zoharby/plot_google_map)/764 | MATLAB function for plotting a Google map on the background of a figure |
+| 52 | 21 | 6 | 4 months ago | [EEG-Clean-Tools](https://github.com/VisLab/EEG-Clean-Tools)/765 | Contains tools for EEG standardized preprocessing |
+| 52 | 37 | 0 | 7 years ago | [discriminative-patches](https://github.com/saurabhme/discriminative-patches)/766 | Unsupervised Discovery of Mid-Level Discriminative Patches |
+| 51 | 32 | 19 | 27 days ago | [automaticanalysis](https://github.com/automaticanalysis/automaticanalysis)/767 | Automatic analysis |
+| 51 | 6 | 0 | 2 years ago | [FBP](https://github.com/LIANGQINGYUAN/FBP)/768 | FBP |
+| 51 | 50 | 1 | 1 year, 9 months ago | [Andrew-Ng-Machine-Learning-Programming-solutions-](https://github.com/LilianYe/Andrew-Ng-Machine-Learning-Programming-solutions-)/769 | open course on coursera.org  Stanford University |
+| 51 | 34 | 21 | 2 years ago | [mobilerobotics](https://github.com/WaterlooRobotics/mobilerobotics)/770 | Matlab and Robot code for MTE 544: Autonomous Mobile Robotics at the University of Waterloo |
+| 51 | 24 | 2 | 1 year, 3 months ago | [synchrosqueezing](https://github.com/ebrevdo/synchrosqueezing)/771 | The MATLAB Synchrosqueezing Toolbox |
+| 51 | 32 | 0 | 3 years ago | [Kalman-Filter-for-Beginners](https://github.com/philbooks/Kalman-Filter-for-Beginners)/772 | Sample code in MATLAB/Octave for "Kalman Filter for Beginners" |
+| 51 | 22 | 1 | 1 year, 1 month ago | [GenLouvain](https://github.com/GenLouvain/GenLouvain)/773 | A generalized Louvain method for community detection implemented in MATLAB |
+| 51 | 19 | 2 | 10 months ago | [DNN-Speech-enhancement-demo-tool](https://github.com/yongxuUSTC/DNN-Speech-enhancement-demo-tool)/774 | Universal Deep neural network based speech enhancement demo and tools, well pre-trained DNN model |
+| 51 | 15 | 0 | 11 days ago | [ChangeDetectionToolbox](https://github.com/Bobholamovic/ChangeDetectionToolbox)/775 | MATLAB Toolbox for Remote Sensing Change Detection |
+| 51 | 33 | 0 | 7 months ago | [Machine-Learning-homework](https://github.com/Ayatans/Machine-Learning-homework)/776 | Matlab Coding homework for Machine Learning |
+| 51 | 32 | 12 | 5 months ago | [programming_class_cheats](https://github.com/jadijadi/programming_class_cheats)/777 | None |
+| 51 | 18 | 0 | 3 years ago | [image_deblur_code](https://github.com/rgbitx/image_deblur_code)/778 | patch selection 1st |
+| 51 | 23 | 5 | 1 year, 5 months ago | [biopatrec](https://github.com/biopatrec/biopatrec)/779 | None |
+| 51 | 27 | 3 | 3 years ago | [AANAP](https://github.com/YaqiLYU/AANAP)/780 | An implementation of AANAP in CVPR 2015 paper. |
+| 51 | 45 | 0 | 5 years ago | [LBP-DBN-face-recognition](https://github.com/xiaomangui/LBP-DBN-face-recognition)/781 | 使用LBP特征提取算法提取人脸特征，DBN网络来实现人脸识别，测试数据库ORL数据库，识别率可达90%以上 |
+| 51 | 13 | 4 | 3 years ago | [matDL](https://github.com/QuantumLiu/matDL)/782 | A lightweight MATLAB deeplearning toolbox,based on gpuArray. |
+| 50 | 33 | 6 | 5 years ago | [part-based-RCNN](https://github.com/n-zhang/part-based-RCNN)/783 | Codes and pretrained model for ECCV 14 paper 'Part based RCNNs for fine-grained category detection' |
+| 50 | 34 | 0 | 4 years ago | [IRL-Toolkit](https://github.com/vvanirudh/IRL-Toolkit)/784 | IRL Toolkit developed by Sergey Levine (Taken from https://graphics.stanford.edu/projects/gpirl/) |
+| 50 | 35 | 2 | a month ago | [isetcam](https://github.com/ISET/isetcam)/785 | Open source version of the original ISET, a complement to ISETBIO |
+| 50 | 3 | 2 | 4 months ago | [oasis](https://github.com/princeton-vl/oasis)/786 | Code for the CVPR 2020 paper "OASIS: A Large-Scale Dataset for Single Image 3D in the Wild" |
+| 50 | 45 | 3 | 5 years ago | [vo-howard08](https://github.com/avisingh599/vo-howard08)/787 | [Reimplementation Howard 2008] A MATLAB implementation of Visual Odometry using Andrew Howard's 2008 paper. |
+| 50 | 22 | 1 | 17 days ago | [SpeechAlgorithms](https://github.com/Ryuk17/SpeechAlgorithms)/788 | Code of my WeChat Offical Account |
+| 50 | 17 | 10 | 12 hours ago | [PALM](https://github.com/andersonwinkler/PALM)/789 | PALM: Permutation Analysis of Linear Models |
+| 50 | 21 | 2 | 4 years ago | [Color-Image-Inpainting](https://github.com/chongyangtao/Color-Image-Inpainting)/790 | Image inpainting based on OMP and KSVD algorithm |
+| 50 | 19 | 0 | 3 years ago | [mosse-tracker](https://github.com/amoudgl/mosse-tracker)/791 | Implementation of MOSSE tracker in MATLAB: Visual Object Tracking using Adaptive Correlation Filters (CVPR 2010) |
+| 50 | 13 | 5 | 3 months ago | [eval-mpii-pose](https://github.com/anibali/eval-mpii-pose)/792 | Evaluation code for the MPII human pose dataset |
+| 50 | 33 | 10 | 2 years ago | [ncorr_2D_matlab](https://github.com/justinblaber/ncorr_2D_matlab)/793 | 2D Digital Image Correlation Matlab Software |
+| 50 | 32 | 2 | 2 months ago | [SEIR](https://github.com/ECheynet/SEIR)/794 | Generalized SEIR Epidemic Model (fitting and computation) |
+| 49 | 39 | 8 | 1 year, 1 month ago | [critical-data-book](https://github.com/MIT-LCP/critical-data-book)/795 | Code repository for the critical data book |
+| 49 | 17 | 0 | 3 years ago | [ODriveTopOld](https://github.com/madcowswe/ODriveTopOld)/796 | High performance motor control |
+| 49 | 8 | 0 | 4 months ago | [Human-Activity-Recognition](https://github.com/aobuke/Human-Activity-Recognition)/797 | Human Activity Recognition by Sensor on Smartphone |
+| 49 | 27 | 0 | 5 years ago | [Computational-NeuroScience](https://github.com/ashumeow/Computational-NeuroScience)/798 | Computational NeuroScience is a rigorous 8-week course in Coursera from University of Washington that focus on basic computational techniques for analyzing, modelling and understanding the behaviour of cells and circuits in the brain. |
+| 49 | 32 | 1 | 4 days ago | [BVAR_](https://github.com/naffe15/BVAR_)/799 | Empirical macro toolbox |
+| 49 | 26 | 4 | 2 years ago | [P-CNN](https://github.com/gcheron/P-CNN)/800 | P-CNN: Pose-based CNN Features for Action Recognition |
+| 49 | 16 | 0 | 7 months ago | [LFToolbox](https://github.com/doda42/LFToolbox)/801 | Light Field Toolbox for MATLAB |
+| 49 | 1 | 2 | 2 days ago | [EdgeGAN](https://github.com/Ha0Tang/EdgeGAN)/802 | Edge Guided GANs with Semantic Preserving for Semantic Image Synthesis |
+| 49 | 20 | 0 | 3 years ago | [mdepth](https://github.com/ayanc/mdepth)/803 | Depth from a Single Image by Harmonizing Overcomplete Local Network Predictions |
+| 49 | 13 | 2 | 1 year, 7 months ago | [REST](https://github.com/goodshawn12/REST)/804 | Real-time EEG Source-Mapping Toolbox (REST): Online ICA and Source Localization |
+| 49 | 29 | 7 | 6 days ago | [PhysioNet-Cardiovascular-Signal-Toolbox](https://github.com/cliffordlab/PhysioNet-Cardiovascular-Signal-Toolbox)/805 | PhysioNet Cardiovascular Signal Toolbox |
+| 49 | 33 | 0 | 1 year, 17 days ago | [ExtendedObjectTracking](https://github.com/Fusion-Goettingen/ExtendedObjectTracking)/806 | Sensor Data Fusion Group |
+| 49 | 22 | 0 | 1 year, 10 months ago | [camera-pipeline-UI](https://github.com/karaimer/camera-pipeline-UI)/807 | None |
+| 49 | 35 | 1 | 5 years ago | [ActRecTut](https://github.com/andreas-bulling/ActRecTut)/808 | MATLAB Human Activity Recognition Toolbox |
+| 49 | 19 | 4 | 5 months ago | [yolov3-yolov4-matlab](https://github.com/cuixing158/yolov3-yolov4-matlab)/809 | Import and export Darknet™ models within MATLAB deep learning networks. |
+| 49 | 13 | 1 | 2 years ago | [AutoenCODE](https://github.com/micheletufano/AutoenCODE)/810 | AutoenCODE is a Deep Learning infrastructure that allows to encode source code fragments into vector representations, which can be used to learn similarities. |
+| 49 | 14 | 2 | 2 years ago | [Low-light-image-enhancement](https://github.com/martinli0822/Low-light-image-enhancement)/811 | TIP 2018 |
+| 49 | 15 | 3 | 10 months ago | [InLoc_demo](https://github.com/HajimeTaira/InLoc_demo)/812 | None |
+| 49 | 19 | 0 | 4 years ago | [OTP4LTE-U](https://github.com/microsoft/OTP4LTE-U)/813 | Open Test Platform for LTE/LTE-U |
+| 49 | 26 | 0 | 1 year, 5 months ago | [Machine-Learning-Coursera-code](https://github.com/AlanTur1ng/Machine-Learning-Coursera-code)/814 | The assignment code for Coursera by Ng's ML course |
+| 49 | 14 | 0 | 5 years ago | [patch-inpainting](https://github.com/PetterS/patch-inpainting)/815 | Image inpainting using coherency senstitive hashing |
+| 48 | 34 | 0 | 4 years ago | [lsda](https://github.com/jhoffman/lsda)/816 | Large scale detection through adaptation |
+| 48 | 27 | 0 | 4 years ago | [IQA](https://github.com/zhenglab/IQA)/817 | Image Quality Assessment. |
+| 48 | 9 | 33 | 2 years ago | [neuropixels](https://github.com/cortex-lab/neuropixels)/818 | Information about Neuropixels electrode arrays |
+| 48 | 16 | 1 | 5 months ago | [sound-source-localization-algorithm_DOA_estimation](https://github.com/Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation)/819 | 关于语音信号声源定位DOA估计所用的一些传统算法 |
+| 48 | 44 | 2 | 5 years ago | [DeepLearnToolbox](https://github.com/happynear/DeepLearnToolbox)/820 | None |
+| 48 | 11 | 0 | 2 years ago | [monocap](https://github.com/daniilidis-group/monocap)/821 | Code for MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Prior. |
+| 48 | 18 | 1 | 11 months ago | [tensor-demo](https://github.com/ahwillia/tensor-demo)/822 | A quickstart guide to tensor decomposition |
+| 48 | 32 | 0 | 4 years ago | [matlab-forensics](https://github.com/caomw/matlab-forensics)/823 | MATLAB implementations of popular Image Forensic algorithms |
+| 48 | 15 | 2 | 2 years ago | [FBHALE](https://github.com/facebookarchive/FBHALE)/824 | FBHALE provides a conceptual multidisciplinary design framework for high altitude long endurance (HALE) aircraft development. |
+| 48 | 29 | 1 | 3 years ago | [Matlab-Graph-Optimization](https://github.com/UTS-CAS/Matlab-Graph-Optimization)/825 | Matlab: Optimization for Nonlinear Least Squares |
+| 48 | 23 | 2 | 3 years ago | [cnngeometric_matconvnet](https://github.com/ignacio-rocco/cnngeometric_matconvnet)/826 | CNNGeometric MatConvNet implementation |
+| 48 | 16 | 1 | 22 days ago | [researchTools](https://github.com/weisongwen/researchTools)/827 | useful blogs for research |
+| 48 | 51 | 0 | 1 year, 5 months ago | [Simulation-platform](https://github.com/xiaoyuyang0901/Simulation-platform)/828 | Simulation platform for autonomous vehicle motion planning and control |
+| 48 | 10 | 0 | 2 months ago | [reinforcement_learning_financial_trading](https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading)/829 | MATLAB example on how to use Reinforcement Learning for developing a financial trading model |
+| 48 | 7 | 1 | 2 years ago | [Pixel-Attentional-Gating](https://github.com/aimerykong/Pixel-Attentional-Gating)/830 | Pixel Attentional Gating for Parsimonious Per-Pixel Labeling |
+| 48 | 19 | 6 | 21 days ago | [ARTE](https://github.com/4rtur1t0/ARTE)/831 | ARTE (A Robotics Toolbox for Education) |
+| 48 | 25 | 30 | 3 months ago | [stabix](https://github.com/stabix/stabix)/832 | Slip transfer analysis toolbox and GUIs (Matlab) |
+| 48 | 30 | 0 | 5 years ago | [Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University](https://github.com/UtkarshPathrabe/Image-and-Video-Processing--From-Mars-to-Hollywood-with-a-stop-at-the-Hospital--Duke-University)/833 | Contains Study Material of the Course |
+| 48 | 53 | 5 | 3 years ago | [princeton-mvpa-toolbox](https://github.com/PrincetonUniversity/princeton-mvpa-toolbox)/834 | Automatically exported from code.google.com/p/princeton-mvpa-toolbox |
+| 48 | 21 | 0 | 18 days ago | [MPLBM-UT](https://github.com/je-santos/MPLBM-UT)/835 | Library for performing multiphase simulations (based on the Shan-Chen model) in complicated geometries (i.e. porous media 3D images) |
+| 48 | 67 | 0 | 6 years ago | [pmtkdata](https://github.com/probml/pmtkdata)/836 | A collection of MATLAB data sets used by PMTK. |
+| 48 | 15 | 0 | 5 years ago | [DecMeg2014](https://github.com/alexandrebarachant/DecMeg2014)/837 | Code and documentation for the winning solution to the DecMeg2014 challenge https://www.kaggle.com/c/decoding-the-human-brain |
+| 48 | 32 | 2 | 2 years ago | [Dual_Channel_Beamformer_and_Postfilter](https://github.com/XiaoxiangGao/Dual_Channel_Beamformer_and_Postfilter)/838 | This project gives an example of dual microphone speech enhancement based on GSC beamformer and multiple channel postfilter. |
+| 47 | 51 | 4 | 6 years ago | [spm12](https://github.com/neurodebian/spm12)/839 | analysis of brain imaging data sequences |
+| 47 | 42 | 2 | 1 year, 2 months ago | [GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)/840 | GPS INS Integrated Navigation |
+| 47 | 30 | 1 | 4 years ago | [MLPnP_matlab_toolbox](https://github.com/urbste/MLPnP_matlab_toolbox)/841 | The toolbox is a collection of PnP methods for Matlab. It can be used to benchmark algorithms. |
+| 47 | 26 | 2 | 3 years ago | [RMT](https://github.com/RMT-TheoryAndPractice/RMT)/842 | None |
+| 47 | 34 | 1 | 2 years ago | [GraRep](https://github.com/ShelsonCao/GraRep)/843 | Source Code of GraRep |
+| 47 | 13 | 0 | 4 months ago | [SFA](https://github.com/lidq92/SFA)/844 | No reference image quality assessment based Semantic Feature Aggregation, published in ACM MM 2017, TMM 2019 |
+| 47 | 29 | 1 | 6 years ago | [oc_svm](https://github.com/rvlasveld/oc_svm)/845 | One-Class SVM implementations for temporal segmentation of human activities |
+| 47 | 27 | 12 | 10 months ago | [asvspoof2019](https://github.com/nesl/asvspoof2019)/846 | Our submission to the ASVspoof 2019: Automatic Speaker Verification Spoofing and Countermeasures Challenge |
+| 47 | 41 | 0 | 8 months ago | [SparsifiedKMeans](https://github.com/stephenbeckr/SparsifiedKMeans)/847 | KMeans for big data using preconditioning and sparsification, Matlab implementation |
+| 47 | 19 | 0 | 3 years ago | [fixed-wing-sim](https://github.com/jrgenerative/fixed-wing-sim)/848 | Matlab implementation to simulate the non-linear dynamics of a fixed-wing unmanned areal glider. Includes tools to calculate aerodynamic coefficients using a vortex lattice method implementation, and to extract longitudinal and lateral linear systems around the trimmed gliding state. |
+| 47 | 30 | 40 | 19 days ago | [RflyExpCode](https://github.com/RflySim/RflyExpCode)/849 | Multicopter Design and Control Experiments based on MATLAB and PixHawk |
+| 47 | 18 | 0 | 1 year, 3 months ago | [DHDE_CVPR17](https://github.com/zzangjinsun/DHDE_CVPR17)/850 | A Unified Approach of Multi-scale Deep and Hand-crafted Features for Defocus Estimation |
+| 47 | 41 | 6 | 4 years ago | [FingerprintRecognition](https://github.com/noureldien/FingerprintRecognition)/851 | Fingerprint Recognition in runtime using images captured from mobile. Built using Android and OpenCV. Also built in MATLAB. |
+| 47 | 28 | 1 | 4 years ago | [BM3D](https://github.com/glemaitre/BM3D)/852 | Clone from http://www.cs.tut.fi/~foi/GCF-BM3D/index.html#ref_software |
+| 47 | 15 | 0 | 4 years ago | [kernel-metric-learning-reid](https://github.com/NEU-Gou/kernel-metric-learning-reid)/853 | Implementation for paper "Person re-identification using kernel-based metric learning methods" |
+| 46 | 16 | 0 | 2 years ago | [DLDL](https://github.com/gaobb/DLDL)/854 | Deep Label Distribution Learning with Label Ambiguity |
+| 46 | 36 | 3 | 3 months ago | [MotionMapper](https://github.com/gordonberman/MotionMapper)/855 | Sample implementation of the MotionMapper behavioral analysis algorithms |
+| 46 | 22 | 0 | 1 year, 21 days ago | [Hybrid-Beamforming-for-Millimeter-Wave-Systems-Using-the-MMSE-Criterion](https://github.com/TianLin0509/Hybrid-Beamforming-for-Millimeter-Wave-Systems-Using-the-MMSE-Criterion)/856 | The Matlab Simulation codes for Hybrid Beamforming for Millimeter Wave Systems Using the MMSE Criterion. |
+| 46 | 16 | 1 | 3 years ago | [Naplib](https://github.com/Naplib/Naplib)/857 | None |
+| 46 | 50 | 0 | 6 years ago | [Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg](https://github.com/Franck-Dernoncourt/Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg)/858 | Coursera-Machine-Learning-Fall2013-4thEd-AndrewNg |
+| 46 | 6 | 1 | 8 years ago | [matlab-xkcdify](https://github.com/slayton/matlab-xkcdify)/859 | XKCDIFY! Adding flair to boring Matlab Axes one plot at a time |
+| 46 | 21 | 4 | 4 years ago | [latexTable](https://github.com/eliduenisch/latexTable)/860 | This MATLAB function converts matrices, cells or tables from MATLAB to LaTeX table code. |
+| 46 | 24 | 16 | 9 months ago | [retina](https://github.com/idsc-frazzoli/retina)/861 | interfaces and algorithms for event based cameras, lidars, and actuators |
+| 46 | 16 | 0 | a month ago | [Saliency-Evaluation-Toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)/862 | This Toolbox contains E-measure, S-measure, weighted F & F-measure, MAE and PR curves or bar metrics for salient object detection. |
+| 46 | 29 | 0 | 2 years ago | [AEC](https://github.com/Spritea/AEC)/863 | Acoustic Echo Cancellation with LMS/RLS (基于LMS/RLS的自适应回声抵消) |
+| 46 | 29 | 0 | 3 years ago | [Reinforcment-Learning-With-Q-Learning](https://github.com/kennydl/Reinforcment-Learning-With-Q-Learning)/864 | None |
+| 46 | 25 | 1 | 4 years ago | [gabor](https://github.com/mhaghighat/gabor)/865 | Gabor Feature Extraction |
+| 46 | 33 | 0 | 6 years ago | [machine-learning-matlab](https://github.com/rishirdua/machine-learning-matlab)/866 | Matlab implementation of Machine Learning algorithms |
+| 46 | 46 | 18 | 13 days ago | [AFQ](https://github.com/yeatmanlab/AFQ)/867 | Automated Fiber Quantification |
+| 46 | 60 | 0 | 7 years ago | [matlab_code-ufldl-exercise-](https://github.com/justdark/matlab_code-ufldl-exercise-)/868 | My UFLDL EXERCISE CODE |
+| 46 | 9 | 3 | 8 months ago | [SpringRank](https://github.com/cdebacco/SpringRank)/869 | Calculates SpringRank from directed networks or pairwise comparisons |
+| 46 | 25 | 1 | 3 years ago | [IMUSensorModels](https://github.com/hanley6/IMUSensorModels)/870 | This repository contains a C++ class for IMU sensor modeling. |
+| 46 | 21 | 5 | 3 years ago | [graphviz4matlab](https://github.com/graphviz4matlab/graphviz4matlab)/871 | Matlab interface to Graphviz graph layout package. Allows interactive editing of the resulting graphs. |
+| 46 | 11 | 0 | 9 months ago | [CLF-CQPUT](https://github.com/NMID-CQUPT/CLF-CQPUT)/872 | 🛰重庆邮电大学课程攻略 Learning files for courses and training in  Chongqing University of Posts and Telecommunications |
+| 45 | 26 | 3 | 7 years ago | [camera_and_pose](https://github.com/varunnr/camera_and_pose)/873 | Reconstructing 3D Human Pose from 2D Image Landmarks |
+| 45 | 13 | 2 | 1 year, 7 months ago | [GLCM-SVM](https://github.com/Grootzz/GLCM-SVM)/874 | 提取图像的灰度共生矩阵（GLCM），根据GLCM求解图像的概率特征，利用特征训练SVM分类器，对目标分类 |
+| 45 | 16 | 3 | a month ago | [MOxUnit](https://github.com/MOxUnit/MOxUnit)/875 | An xUnit framework for Matlab and GNU Octave  |
+| 45 | 15 | 0 | 2 years ago | [flickr30k_entities](https://github.com/BryanPlummer/flickr30k_entities)/876 | Flickr30K Entities Dataset |
+| 45 | 18 | 49 | a month ago | [IB4m](https://github.com/softwarespartan/IB4m)/877 | Interactive Brokers API for Matlab |
+| 45 | 27 | 1 | 2 months ago | [mirt](https://github.com/JeffFessler/mirt)/878 | Michigan Image Reconstruction Toolbox (MIRT) - Matlab version |
+| 45 | 11 | 0 | 3 years ago | [SemanticVector](https://github.com/PrincetonML/SemanticVector)/879 | Word embedding approach based on a dynamic log-linear model |
+| 45 | 10 | 3 | 5 years ago | [matlab.tmbundle](https://github.com/textmate/matlab.tmbundle)/880 | TextMate support for Matlab / Octave |
+| 45 | 14 | 2 | 5 days ago | [Neuroimaging_Pattern_Masks](https://github.com/canlab/Neuroimaging_Pattern_Masks)/881 | Brain signature patterns, atlases of regions, and meta-analysis masks for neuroimaging data analysis. |
+| 45 | 37 | 1 | 5 years ago | [jburkardt-m](https://github.com/johannesgerer/jburkardt-m)/882 | An official Git Mirror of John Burkardt's great collection of MATLAB Software |
+| 45 | 22 | 2 | 3 years ago | [Robotics--Coursera](https://github.com/WenjinTao/Robotics--Coursera)/883 | Courses by University of Pennsylvania via Coursera |
+| 45 | 25 | 9 | 1 year, 6 months ago | [DDSMUtility](https://github.com/trane293/DDSMUtility)/884 | Utility to greatly simplify downloading, converting, viewing and extracting annotations from the Digital Database for Screening Mammography (DDSM) database available here: http://marathon.csee.usf.edu/Mammography/Database.html  |
+| 45 | 21 | 2 | 2 years ago | [rpg_image_reconstruction_from_events](https://github.com/uzh-rpg/rpg_image_reconstruction_from_events)/885 | None |
+| 45 | 21 | 1 | 7 months ago | [BrainNetClass](https://github.com/zzstefan/BrainNetClass)/886 | None |
+| 45 | 12 | 0 | 3 years ago | [MatlabGDSPhotonicsToolbox](https://github.com/nicolasayotte/MatlabGDSPhotonicsToolbox)/887 | This is a Matlab library of functions to facilitate the design of Photonics Integrated Circuits GDS layout. |
+| 45 | 32 | 0 | 21 days ago | [DPABI](https://github.com/Chaogan-Yan/DPABI)/888 | DPABI: a toolbox for Data Processing & Analysis of Brain Imaging |
+| 45 | 30 | 0 | 3 years ago | [coursera_robotics](https://github.com/ayushgaud/coursera_robotics)/889 | Contains coursera robotics specialization assignment codes  |
+| 45 | 19 | 0 | 6 years ago | [cvision-algorithms](https://github.com/KirillLykov/cvision-algorithms)/890 | Collection of Computer Vision algorithms implemented in Matlab |
+| 45 | 30 | 24 | 2 months ago | [yeast-GEM](https://github.com/SysBioChalmers/yeast-GEM)/891 | The consensus GEM for Saccharomyces cerevisiae |
+| 44 | 31 | 1 | 2 years ago | [STRAIGHT](https://github.com/shuaijiang/STRAIGHT)/892 | This is a speech analysis, modification and synthesis system |
+| 44 | 35 | 17 | a month ago | [RAVEN](https://github.com/SysBioChalmers/RAVEN)/893 | The RAVEN Toolbox for genome scale model reconstruction, curation and analysis. |
+| 44 | 17 | 3 | 2 years ago | [vsad](https://github.com/wangzheallen/vsad)/894 | this is the code release for ''Weakly Supervised PatchNets: Describing and Aggregating Local Patches for Scene Recognition'' |
+| 44 | 29 | 0 | 1 year, 9 months ago | [5g-ldpc](https://github.com/xiaoshaoning/5g-ldpc)/895 | 5g ldpc codes |
+| 44 | 16 | 0 | 4 months ago | [KDD2019_K-Multiple-Means](https://github.com/CHLWR/KDD2019_K-Multiple-Means)/896 | Implementation for the paper "K-Multiple-Means: A Multiple-Means Clustering Method with Specified K Clusters,", which has been accepted by KDD'2019 as an ORAL paper, in the Research Track. |
+| 44 | 26 | 2 | 4 years ago | [matlab-hmm](https://github.com/qiuqiangkong/matlab-hmm)/897 | Open source HMM toolbox, with Discrete-HMM, Gaussian-HMM, GMM-HMM.  (matlab) |
+| 44 | 29 | 0 | 3 years ago | [machine-learning-ex](https://github.com/lintingbin2009/machine-learning-ex)/898 | Machine learning exercises. |
+| 44 | 11 | 3 | 2 years ago | [matlab-epsclean](https://github.com/Conclusio/matlab-epsclean)/899 | Clean/Repair .eps PostScript vector files created by Matlab R2016b |
+| 44 | 12 | 2 | 1 year, 4 months ago | [SparkNG](https://github.com/HidekiKawahara/SparkNG)/900 | MATLAB realtime/interactive speech tools |
+| 44 | 15 | 0 | 6 years ago | [wateramarking](https://github.com/kirk86/wateramarking)/901 | Robust and secure watermarking scheme based on singular values replacement (SVD & DWT) |
+| 44 | 21 | 2 | 3 years ago | [vad](https://github.com/pckben/vad)/902 | Voice Activity Detection |
+| 44 | 26 | 7 | 7 months ago | [neuroGLM](https://github.com/pillowlab/neuroGLM)/903 | Fitting and analysis of trial-based neural spike responses with Generalized Linear Model (GLM). |
+| 44 | 19 | 5 | 5 months ago | [bspmview](https://github.com/spunt/bspmview)/904 | MATLAB program for viewing 3D fMRI statistical images |
+| 44 | 17 | 0 | 1 year, 9 months ago | [Zero-shot-learning-journal](https://github.com/pujols/Zero-shot-learning-journal)/905 | None |
+| 44 | 11 | 1 | 3 years ago | [surfnet](https://github.com/sinhayan/surfnet)/906 | None |
+| 44 | 19 | 28 | 3 months ago | [zmap7](https://github.com/CelsoReyes/zmap7)/907 | ZMAP Seismology Software. V 7.x has been updated to MATLAB R2018a. |
+| 44 | 41 | 1 | 6 months ago | [CASPR](https://github.com/darwinlau/CASPR)/908 | Cable-robot Analysis and Simulation Platform for Research Open-Source Software |
+| 44 | 40 | 0 | 3 years ago | [book-resource-allocation](https://github.com/emilbjornson/book-resource-allocation)/909 | Simulation code for the book “Optimal Resource Allocation in Coordinated Multi-Cell Systems” by Emil Björnson and Eduard Jorswieck, Foundations and Trends in Communications and Information Theory, vol. 9, no. 2-3, pp. 113-381, 2013 |
+| 44 | 17 | 1 | 10 years ago | [matlab_htk](https://github.com/ronw/matlab_htk)/910 | MATLAB functions that interface with the HTK Speech Recognition Toolkit (http://htk.eng.cam.ac.uk/) for training HMMs, GMMs and simple speech recognizers. |
+| 44 | 38 | 1 | 8 years ago | [RobotNavigation](https://github.com/jmiseikis/RobotNavigation)/911 | MATLAB implementation of two popular navigation algorithms: A-star and Real-Time Randomized Path Planning |
+| 44 | 22 | 10 | 5 months ago | [NIfTI-Image-Converter](https://github.com/alexlaurence/NIfTI-Image-Converter)/912 | 🖼 A lightweight neuroimaging .nii to .png converter for Matlab and Python users |
+| 44 | 17 | 1 | 2 years ago | [dgm_re-id](https://github.com/mangye16/dgm_re-id)/913 | Unsupervised Person Re-identification (ICCV 2017) |
+| 44 | 22 | 0 | 2 months ago | [spmScripts](https://github.com/rordenlab/spmScripts)/914 | Handy scripts for SPM |
+| 44 | 15 | 0 | 3 years ago | [spectral_descriptors](https://github.com/ChunyuanLI/spectral_descriptors)/915 | A collection of spectral descriptors for 3D meshed surfaces |
+| 44 | 41 | 1 | 7 years ago | [mlr](https://github.com/bmcfee/mlr)/916 | Metric Learning to Rank |
+| 44 | 25 | 2 | 1 year, 3 months ago | [LittleDog](https://github.com/RobotLocomotion/LittleDog)/917 | Example of quadruped planning and control in drake using LittleDog -- a small quadruped robot from Boston Dynamics.  |
+| 43 | 30 | 2 | 2 years ago | [quadrotorTrackingControl](https://github.com/wjxjmj/quadrotorTrackingControl)/918 | A simulation for quadrotor based on matlab |
+| 43 | 18 | 3 | a month ago | [IRtools](https://github.com/jnagy1/IRtools)/919 | MATLAB package of iterative regularization methods and large-scale test problems. This software is described in the paper "IR Tools: A MATLAB Package of Iterative Regularization Methods and Large-Scale Test Problems" that will be published in Numerical Algorithms, 2018. |
+| 43 | 11 | 2 | 3 years ago | [balltracking](https://github.com/cvlab-epfl/balltracking)/920 | Tracking of the ball and the players in team sports |
+| 43 | 17 | 0 | 2 years ago | [Reinforcement-learning-Algorithms-and-Dynamic-Programming](https://github.com/savinay95n/Reinforcement-learning-Algorithms-and-Dynamic-Programming)/921 | Reinforcement learning Algorithms such as SARSA, Q learning, Actor-Critic Policy Gradient and Value Function Approximation were applied to stabilize an inverted pendulum system and achieve optimal control. So essentially, the concept of Reinforcement Learning Controllers has been established. The Reinforcement Learning Controllers have been compared on the basis of performance and efficiency and they are separately compared with the classical Linear Quadratic Regulator Controller. Each of the RL controller have been integrated with a Swing up controller. A virtual switch toggles between the Swing up controller and the RL controller automatically, based on the value of the angular deviation theta with respect to the vertical plane. My research paper and my undergraduate thesis have been uploaded for reference. All the codes have also been uploaded.   |
+| 43 | 17 | 1 | a month ago | [tdoa-evaluation-rtlsdr](https://github.com/DC9ST/tdoa-evaluation-rtlsdr)/922 | Matlab Scripts for Evaluation of a TDOA System based on RTL-SDRs |
+| 43 | 15 | 0 | 4 years ago | [Color-Attenuation-Prior-Dehazing](https://github.com/JiamingMai/Color-Attenuation-Prior-Dehazing)/923 | MATLAB codes for the paper "A Fast Single Image Haze Removal Algorithm using Color Attenuation Prior" |
+| 43 | 16 | 3 | 6 months ago | [image-denoising-benchmark](https://github.com/lbasek/image-denoising-benchmark)/924 | Benchmarking Denoising Algorithms with Real Photographs |
+| 43 | 28 | 2 | 6 years ago | [zslearning](https://github.com/mganjoo/zslearning)/925 | Repository for deep zero-shot learning via cross-modality transfer |
+| 43 | 39 | 3 | 2 years ago | [SDR_Matlab_OFDM_802.11a](https://github.com/MeowLucian/SDR_Matlab_OFDM_802.11a)/926 | :satellite: Using Software Designed Radio to transmit OFDM QPSK signals at 5 GHz |
+| 43 | 33 | 4 | 4 years ago | [vlbenchmarks](https://github.com/vlfeat/vlbenchmarks)/927 | VLBenchmark is a MATLAB suite of benchmarks for computer vision features |
+| 43 | 8 | 1 | 2 years ago | [fog_simulation-SFSU_synthetic](https://github.com/sakaridis/fog_simulation-SFSU_synthetic)/928 | None |
+| 43 | 46 | 0 | 2 years ago | [matlab-mnist-two-layer-perceptron](https://github.com/davidstutz/matlab-mnist-two-layer-perceptron)/929 | A two layer perceptron implemented in MatLab to recognize handwritten digits based on the MNIST dataset. |
+| 43 | 24 | 0 | 1 year, 3 months ago | [sparse-plex](https://github.com/indigits/sparse-plex)/930 | A  MATLAB library for sparse representation problems |
+| 43 | 19 | 4 | 3 years ago | [TADW](https://github.com/thunlp/TADW)/931 | Network Representation Learning with Rich Text Information (IJCAI 2015) |
+| 43 | 20 | 1 | 6 years ago | [ubcmatlabguide.github.io](https://github.com/ubcmatlabguide/ubcmatlabguide.github.io)/932 | YAGTOM: Yet Another Guide TO Matlab |
+| 43 | 12 | 0 | 6 years ago | [PatchMatch](https://github.com/ikuwow/PatchMatch)/933 | The PatchMatch algorithm on MATLAB |
+| 43 | 10 | 0 | 1 year, 4 months ago | [GFS-DCF](https://github.com/XU-TIANYANG/GFS-DCF)/934 | Matlab implementation of ICCV2019 paper "Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking" |
+| 43 | 16 | 9 | 1 year, 3 months ago | [fecgsyn](https://github.com/fernandoandreotti/fecgsyn)/935 | FECGSYN toolbox for ECG and fetal ECG simulation |
+| 43 | 11 | 0 | 4 months ago | [LRS3-For-Speech-Separation](https://github.com/JusperLee/LRS3-For-Speech-Separation)/936 | Multi-modal speech separation task data generation script on LRS3 data set. |
+| 43 | 22 | 0 | 2 years ago | [Hyperspectral-image-target-detection-based-on-sparse-representation](https://github.com/ShoupingShan/Hyperspectral-image-target-detection-based-on-sparse-representation)/937 | Hyperspectral image Target Detection based on Sparse Representation  |
+| 43 | 48 | 1 | 1 year, 10 months ago | [ImageRetrieval](https://github.com/kirk86/ImageRetrieval)/938 | Content Based Image Retrieval Techniques (e.g. knn, svm using MatLab GUI) |
+| 43 | 22 | 146 | 7 months ago | [DynaSim](https://github.com/DynaSim/DynaSim)/939 | DynaSim toolbox for modeling and simulating dynamical systems |
+| 43 | 44 | 13 | 7 days ago | [EPANET-Matlab-Toolkit](https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit)/940 | A Matlab class for EPANET water distribution simulation libraries |
+| 43 | 24 | 1 | 1 year, 10 months ago | [low_dose_CT](https://github.com/eunh/low_dose_CT)/941 | Deep Convolutional Framelet Denoising for Low-Dose CT via Wavelet Residual Network |
+| 43 | 29 | 1 | 7 years ago | [ckmeans](https://github.com/norouzi/ckmeans)/942 | Cartesian k-means for approximate nearest neghbor search, codebook learning, etc. |
+| 43 | 8 | 3 | 3 months ago | [TALR](https://github.com/kunhe/TALR)/943 | Code for CVPR 2018 paper "Hashing as Tie-Aware Learning to Rank" |
+| 43 | 12 | 3 | 1 year, 3 months ago | [stringer-pachitariu-et-al-2018b](https://github.com/MouseLand/stringer-pachitariu-et-al-2018b)/944 | Responses of 10,000 neurons to 2,800 natural images |
+| 43 | 24 | 0 | 3 years ago | [ocekf-slam](https://github.com/rpng/ocekf-slam)/945 | Observability-Constrained (OC)-EKF for 2D SLAM |
+| 43 | 14 | 1 | 2 years ago | [chromatography](https://github.com/chemplexity/chromatography)/946 | functions for chromatography and mass spectrometry data analysis |
+| 43 | 13 | 0 | 4 years ago | [catdeform](https://github.com/akanazawa/catdeform)/947 | A Matlab implementation for the paper: "Learning 3D Deformation of Animals from 2D Images" http://www.umiacs.umd.edu/~kanazawa/papers/cat_eg2016.pdf |
+| 43 | 30 | 12 | 2 years ago | [eeg-processing-toolbox](https://github.com/MAMEM/eeg-processing-toolbox)/948 | Matlab code for proccesing EEG signals. |
+| 43 | 38 | 0 | 21 days ago | [VFIToolkit-matlab](https://github.com/vfitoolkit/VFIToolkit-matlab)/949 | A Matlab Toolkit for Macroeconomic Models using Value Function Iteration |
+| 42 | 17 | 2 | 2 years ago | [mapconstruction](https://github.com/pfoser/mapconstruction)/950 | Map Construction Algorithms |
+| 42 | 36 | 0 | 4 years ago | [GPS_Milemeter_IMU_EKFLocation](https://github.com/gilbertz/GPS_Milemeter_IMU_EKFLocation)/951 | 采用gps、里程计和电子罗盘作为定位传感器，EKF作为多传感器的融合算法，最终输出目标的滤波位置 |
+| 42 | 20 | 0 | 3 years ago | [PhaseBasedInterpolation](https://github.com/owang/PhaseBasedInterpolation)/952 | This is a personal reimplementation of Phase-Based Frame Interpolation for Video [Meyer et al. 2015] |
+| 42 | 17 | 1 | 3 years ago | [koopman](https://github.com/mbudisic/koopman)/953 | Koopman Mode Decomposition |
+| 42 | 12 | 4 | 7 years ago | [image_quality_toolbox](https://github.com/gregfreeman/image_quality_toolbox)/954 | None |
+| 42 | 18 | 0 | 3 years ago | [SoftGNSS](https://github.com/hahnpv/SoftGNSS)/955 | My working copy of SoftGNSS with sundry modifications |
+| 42 | 63 | 1 | 1 year, 3 months ago | [pmtksupport](https://github.com/probml/pmtksupport)/956 | Various packages used by PMTK. |
+| 42 | 25 | 1 | 5 years ago | [RRT](https://github.com/emreozanalkan/RRT)/957 | Autonomous Robots - Sampling-based algorithms – Rapidly Exploring Random Tree - My Lab Work |
+| 42 | 19 | 1 | 2 years ago | [StackOverflow](https://github.com/jacoxu/StackOverflow)/958 | One short text dataset for classification and clustering extracted from StackOverflow |
+| 42 | 23 | 0 | 4 years ago | [fastdropout](https://github.com/sidaw/fastdropout)/959 | code for fast dropout |
+| 42 | 18 | 0 | 2 years ago | [cgmm-mask-estimator](https://github.com/funcwj/cgmm-mask-estimator)/960 | Implementation of the offline method described in "Robust mvdr beamforming using time-frequency masks for online/offline asr in noise" |
+| 42 | 25 | 9 | 4 days ago | [d2d](https://github.com/Data2Dynamics/d2d)/961 | a modeling environment tailored to parameter estimation in dynamical systems |
+| 42 | 17 | 2 | 4 years ago | [2016-ICML-gromov-wasserstein](https://github.com/gpeyre/2016-ICML-gromov-wasserstein)/962 | Gabriel Peyré, Marco Cuturi, Justin Solomon, Gromov-Wasserstein Averaging of Kernel and Distance Matrices, Proc. of ICML 2016. |
+| 42 | 3 | 1 | 1 year, 3 months ago | [terrain-amplification](https://github.com/eric-guerin/terrain-amplification)/963 | Terrain amplification as described in [Sparse representation of terrains for procedural modeling, Guérin et al. 2016] |
+| 42 | 19 | 0 | 6 years ago | [kaggle-seizure-prediction](https://github.com/drewabbot/kaggle-seizure-prediction)/964 | None |
+| 42 | 29 | 0 | 11 months ago | [BDA_m_demos](https://github.com/avehtari/BDA_m_demos)/965 | Bayesian Data Analysis demos for Matlab/Octave |
+| 42 | 24 | 2 | 1 year, 6 months ago | [GA-BP](https://github.com/Grootzz/GA-BP)/966 | 基于遗传算法的BP网络设计，应用背景为交通流量的预测 |
+| 42 | 15 | 2 | 4 years ago | [Person-Specific-FAS](https://github.com/jwyang/Person-Specific-FAS)/967 | Codes for TIFS paper |
+| 42 | 22 | 0 | 1 year, 9 months ago | [PlaceRecognition-LoopDetection](https://github.com/BAILOOL/PlaceRecognition-LoopDetection)/968 | Light-weight place recognition and loop detection using road markings |
+| 42 | 38 | 18 | a month ago | [FID-A](https://github.com/CIC-methods/FID-A)/969 | Toolbox for simulation and processing of in-vivo magnetic resonance spectroscopy (MRS) data |
+| 42 | 15 | 1 | 2 years ago | [KCC](https://github.com/wang-chen/KCC)/970 | Kernel Cross-Correlator (KCC) for Tracking and Recognition (AAAI 2018) |
+| 42 | 14 | 13 | 2 months ago | [API_MO](https://github.com/sofacoustics/API_MO)/971 | SOFA Matlab/Octave API |
+| 42 | 23 | 0 | 8 months ago | [blp-demand](https://github.com/chrisconlon/blp-demand)/972 | estimate BLP demand model in Matlab using state-of-the-art techniques |
+| 42 | 26 | 1 | 3 years ago | [BurstImageDenoising](https://github.com/xyang35/BurstImageDenoising)/973 | Fast burst images denoising project |
+| 42 | 21 | 0 | 4 years ago | [SCA-DPA](https://github.com/Nodulaire/SCA-DPA)/974 | Side channel attack (SCA) of AES with Differential Power Analysis (DPA) |
+| 42 | 15 | 0 | 11 months ago | [LIME](https://github.com/Sy-Zhang/LIME)/975 | Reimplementation of the paper "LIME: A Method for Low-light IMage Enhancement" in ACM MM 2016. |
+| 42 | 28 | 0 | 4 years ago | [pilco-matlab](https://github.com/ICL-SML/pilco-matlab)/976 | PILCO policy search framework (Matlab version) |
+| 41 | 4 | 0 | 2 years ago | [Image_Tracking](https://github.com/LirongWu/Image_Tracking)/977 | Tracking before detection is realized by some filtering methods |
+| 41 | 16 | 2 | 1 year, 8 months ago | [image_SDR_to_HDR](https://github.com/taoshiqian/image_SDR_to_HDR)/978 | 图像SDR to HDR，目标：暗光区域 光照增强，过曝光区域 光照减弱 |
+| 41 | 31 | 2 | 4 years ago | [ICCV2015_Brain4Cars](https://github.com/asheshjain399/ICCV2015_Brain4Cars)/979 | Code for ICCV2015 paper "Car That Knows Before You Do: Anticipating Maneuvers via Learning Temporal Driving Models" |
+| 41 | 22 | 3 | 4 years ago | [ToF-Calibration](https://github.com/kapibara/ToF-Calibration)/980 | A ToF camera calibration toolbox; tested with Intel Creative; tests for Kinect 2 in progress |
+| 41 | 11 | 0 | 3 months ago | [SIVI](https://github.com/mingzhang-yin/SIVI)/981 |  Use neural network to construct expressive hierarchical distribution; Optimizing a novel bound with theoretical guarantees; A fast and robust method with accurate uncertainty estimation. (ICML 2018)  |
+| 41 | 13 | 0 | 2 months ago | [libDirectional](https://github.com/libDirectional/libDirectional)/982 | Matlab library for directional statistics and directional estimation  |
+| 41 | 11 | 1 | 2 days ago | [subcortex](https://github.com/yetianmed/subcortex)/983 | None |
+| 41 | 22 | 1 | 4 years ago | [part_constellation_models](https://github.com/cvjena/part_constellation_models)/984 | Code for the ICCV 2015 paper "Neural Activation Constellations: Unsupervised Part Model Discovery with Convolutional Networks." |
+| 41 | 34 | 0 | 2 months ago | [V-REP-Simulation-Projects](https://github.com/xuhuairuogu/V-REP-Simulation-Projects)/985 | Learning Robotics by Playing with V-REP |
+| 41 | 9 | 0 | 5 months ago | [psignifit](https://github.com/wichmann-lab/psignifit)/986 | Toolbox for Bayesian inference for psychometric functions |
+| 41 | 3 | 2 | 1 year, 10 months ago | [multichart3dgans](https://github.com/helibenhamu/multichart3dgans)/987 | This repository contains the source codes for the paper "Multi-chart Generative Surface Modeling" |
+| 41 | 23 | 1 | 4 years ago | [convDBN](https://github.com/honglaklee/convDBN)/988 | None |
+| 41 | 19 | 5 | 1 year, 11 months ago | [RLOFLib](https://github.com/tsenst/RLOFLib)/989 | Robust Local Optical Flow (RLOF) |
+| 41 | 15 | 0 | 3 years ago | [UAVSimUE4](https://github.com/IVUL-KAUST/UAVSimUE4)/990 | Simulation tool for UAVs based on the UE4 game engine. |
+| 41 | 8 | 2 | 3 years ago | [CNN](https://github.com/iorism/CNN)/991 | Deep Residual Learning for Image Restoration(SISR/Denoising) : Persistent Homology-Guided Manifold Simplification |
+| 41 | 28 | 1 | 3 years ago | [DiscretHashing](https://github.com/bd622/DiscretHashing)/992 | None |
+| 41 | 12 | 0 | 1 year, 5 months ago | [sim3_evaluate_tool](https://github.com/PetWorm/sim3_evaluate_tool)/993 | A matlab tool to evaluate trajectory RMSE using sim3 alignment. |
+| 41 | 14 | 1 | 1 year, 9 months ago | [MIT_Scheme](https://github.com/Aiwiscal/MIT_Scheme)/994 | An implementation of inter-patient arrhythmia diagnosis using Andrew Y. Ng-style ResNet  |
+| 41 | 12 | 1 | 6 years ago | [nonnegfac-matlab](https://github.com/kimjingu/nonnegfac-matlab)/995 | Matlab implementations of fast algorithms for nonnegative matrix and tensor factorizations |
+| 41 | 12 | 1 | 1 year, 7 days ago | [hybrid-beamforming-for-three-scenes](https://github.com/Zzhaoxingyu/hybrid-beamforming-for-three-scenes)/996 | None |
+| 41 | 26 | 3 | 3 years ago | [LightCapsNet](https://github.com/yechengxi/LightCapsNet)/997 | A Matlab implementation of the capsule networks (or capsnet). |
+| 41 | 21 | 0 | 2 months ago | [DeepQuantumNeuralNetworks](https://github.com/qigitphannover/DeepQuantumNeuralNetworks)/998 | None |
+| 41 | 20 | 6 | 2 years ago | [Stock-Market-Prediction-using-Neural-Networks-and-Genetic-Algorithm](https://github.com/Shikhar1998/Stock-Market-Prediction-using-Neural-Networks-and-Genetic-Algorithm)/999 | Matlab Module for Stock Market Prediction using Simple NN |
+| 41 | 22 | 0 | 1 year, 14 days ago | [TenSimpleRulesModeling](https://github.com/AnneCollins/TenSimpleRulesModeling)/1000 | Code for the figures in the "Ten Simple Rules for Computational Modeling of Behavioral Data" paper. |
