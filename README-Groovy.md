@@ -1,28 +1,28 @@
 ## This is a most popular repository list for Groovy sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 11581 | 3352 | 1836 | 2 hours ago | [gradle](https://github.com/gradle/gradle)/1 | Adaptable, fast automation for all |
-| 4154 | 785 | 602 | 10 hours ago | [rundeck](https://github.com/rundeck/rundeck)/2 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
+| 11581 | 3352 | 1836 | 3 hours ago | [gradle](https://github.com/gradle/gradle)/1 | Adaptable, fast automation for all |
+| 4154 | 785 | 603 | 22 minutes ago | [rundeck](https://github.com/rundeck/rundeck)/2 | Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts |
 | 3611 | 2537 | 16 | 1 year, 10 months ago | [pipeline-examples](https://github.com/jenkinsci/pipeline-examples)/3 | A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin |
 | 3278 | 417 | 134 | 11 months ago | [gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)/4 | A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file. |
 | 2705 | 152 | 57 | 3 days ago | [gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin)/5 | Gradle plugin to discover dependency updates |
 | 2398 | 273 | 187 | 18 days ago | [shadow](https://github.com/johnrengelman/shadow)/6 | Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin. |
 | 2227 | 437 | 103 | 4 years ago | [asgard](https://github.com/Netflix/asgard)/7 | [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases |
-| 2007 | 81544 | 2731 | 11 hours ago | [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)/8 | SmartThings open-source DeviceTypeHandlers and SmartApps code |
+| 2007 | 81543 | 2731 | 11 hours ago | [SmartThingsPublic](https://github.com/SmartThingsCommunity/SmartThingsPublic)/8 | SmartThings open-source DeviceTypeHandlers and SmartApps code |
 | 1876 | 205 | 42 | 1 year, 3 months ago | [bintray-release](https://github.com/novoda/bintray-release)/9 | A helper for releasing from gradle up to bintray |
 | 1480 | 235 | 56 | 23 days ago | [fat-aar-android](https://github.com/kezong/fat-aar-android)/10 | A gradle plugin that merge dependencies into the final aar file works with AGP 3.+ |
 | 1427 | 145 | 44 | 4 years ago | [sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin)/11 | DEPRECATED Gradle plugin which downloads and manages your Android SDK. |
 | 1359 | 285 | 2 | 2 years ago | [gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin)/12 | Android渠道打包工具 |
-| 1337 | 322 | 155 | 20 hours ago | [nextflow](https://github.com/nextflow-io/nextflow)/13 | A DSL for data-driven computational pipelines |
+| 1337 | 322 | 155 | 21 hours ago | [nextflow](https://github.com/nextflow-io/nextflow)/13 | A DSL for data-driven computational pipelines |
 | 1297 | 201 | 171 | 10 months ago | [gradle-bintray-plugin](https://github.com/bintray/gradle-bintray-plugin)/14 | None |
 | 1203 | 202 | 61 | 13 days ago | [protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)/15 | Protobuf Plugin for Gradle |
-| 1192 | 205 | 3 | 7 days ago | [devops-resources](https://github.com/bregman-arie/devops-resources)/16 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP |
+| 1193 | 205 | 3 | 7 days ago | [devops-resources](https://github.com/bregman-arie/devops-resources)/16 | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP |
 | 1110 | 257 | 65 | 8 days ago | [JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)/17 | Framework for unit testing Jenkins pipelines  |
 | 1101 | 73 | 20 | 2 years ago | [build-time-tracker-plugin](https://github.com/passy/build-time-tracker-plugin)/18 | Gradle plugin to continuously track and report your build times |
 | 1081 | 135 | 30 | 9 months ago | [android-maven-gradle-plugin](https://github.com/dcendents/android-maven-gradle-plugin)/19 | Abandoned. This is now supported by the android build plugin: https://developer.android.com/studio/build/maven-publish-plugin |
 | 1060 | 225 | 0 | 5 days ago | [geb](https://github.com/geb/geb)/20 | Very Groovy Browser Automation |
 | 994 | 316 | 17 | 13 days ago | [gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin)/21 | Gradle plugin for managing Docker images and containers. |
-| 916 | 427 | 7 | 13 days ago | [docker-nexus3](https://github.com/sonatype/docker-nexus3)/22 | Dockerized version of Nexus Repo Manager 3 |
+| 917 | 427 | 7 | 13 days ago | [docker-nexus3](https://github.com/sonatype/docker-nexus3)/22 | Dockerized version of Nexus Repo Manager 3 |
 | 914 | 290 | 11 | 2 years ago | [buildstep](https://github.com/progrium/buildstep)/23 | Buildstep uses Docker and Buildpacks to build applications like Heroku |
 | 912 | 211 | 55 | 2 days ago | [gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin)/24 | Plugin for building plugins for IntelliJ IDEs |
 | 900 | 112 | 8 | 1 year, 6 months ago | [AutoRegister](https://github.com/luckybilly/AutoRegister)/25 | 基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC |
@@ -60,7 +60,7 @@
 | 489 | 307 | 17 | 3 days ago | [jenkins-scripts](https://github.com/cloudbees/jenkins-scripts)/57 | None |
 | 488 | 199 | 10 | a month ago | [pipeline-model-definition-plugin](https://github.com/jenkinsci/pipeline-model-definition-plugin)/58 | None |
 | 476 | 128 | 43 | 4 years ago | [docker-registry-web](https://github.com/mkuchin/docker-registry-web)/59 | Web UI for private docker registry v2 |
-| 473 | 75 | 87 | 6 hours ago | [gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)/60 | A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.  |
+| 473 | 75 | 87 | 7 hours ago | [gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)/60 | A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts.  |
 | 464 | 49 | 18 | 11 hours ago | [live-plugin](https://github.com/dkandalov/live-plugin)/61 | IntelliJ plugin for writing plugins at runtime |
 | 460 | 25 | 23 | 2 months ago | [gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin)/62 | A Gradle plugin for printing beautiful logs on the console while running tests |
 | 450 | 74 | 31 | 1 year, 4 months ago | [jacoco-android-gradle-plugin](https://github.com/arturdm/jacoco-android-gradle-plugin)/63 | Gradle plugin that creates JaCoCo test reports for Android unit tests |
@@ -95,7 +95,7 @@
 | 322 | 90 | 72 | 1 year, 2 months ago | [license-gradle-plugin](https://github.com/hierynomus/license-gradle-plugin)/92 | Manage your license(s) |
 | 315 | 57 | 9 | 2 months ago | [gradle-android-junit-jacoco-plugin](https://github.com/vanniktech/gradle-android-junit-jacoco-plugin)/93 | Gradle plugin that generates JaCoCo reports from an Android Gradle Project |
 | 312 | 99 | 4 | 6 years ago | [gradle-templates](https://github.com/townsfolk/gradle-templates)/94 | A gradle project templates plugin |
-| 309 | 242 | 182 | 14 hours ago | [openboxes](https://github.com/openboxes/openboxes)/95 | OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. |
+| 309 | 242 | 182 | 15 hours ago | [openboxes](https://github.com/openboxes/openboxes)/95 | OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities. |
 | 308 | 39 | 19 | 1 year, 3 months ago | [fataar-gradle-plugin](https://github.com/Mobbeel/fataar-gradle-plugin)/96 | Gradle plugin to help embed dependencies in generated AAR artifact |
 | 300 | 141 | 1 | 8 months ago | [jenkins-script-console-scripts](https://github.com/samrocketman/jenkins-script-console-scripts)/97 | A repository of one-off script console scripts for Jenkins. |
 | 299 | 32 | 0 | 1 year, 1 month ago | [gradle-apt-plugin](https://github.com/tbroyer/gradle-apt-plugin)/98 | [OBSOLETE] Gradle plugin making it easier/safer to use Java annotation processors |
@@ -109,7 +109,7 @@
 | 284 | 94 | 13 | 5 years ago | [TinyPIC_Gradle_Plugin](https://github.com/meili/TinyPIC_Gradle_Plugin)/106 | TinyPIC_Gradle_Plugin |
 | 284 | 47 | 5 | 1 year, 6 months ago | [gradle-nexus-plugin](https://github.com/bmuschko/gradle-nexus-plugin)/107 | Gradle plugin for configuring and uploading artifacts to Sonatype Nexus |
 | 282 | 19 | 13 | 2 years ago | [gradle-unused-resources-remover-plugin](https://github.com/konifar/gradle-unused-resources-remover-plugin)/108 | Gradle Plugin that removes unused resources in Android projects. |
-| 279 | 873 | 30 | 3 hours ago | [clouddriver](https://github.com/spinnaker/clouddriver)/109 | read and write operations across cloud providers |
+| 279 | 873 | 30 | 4 hours ago | [clouddriver](https://github.com/spinnaker/clouddriver)/109 | read and write operations across cloud providers |
 | 278 | 23 | 6 | 2 years ago | [Blade](https://github.com/FrantisekGazo/Blade)/110 | Android library for boilerplate destruction |
 | 277 | 170 | 11 | 3 years ago | [ansible-jenkins](https://github.com/ICTO/ansible-jenkins)/111 | Ansible playbook: Jenkins |
 | 273 | 73 | 7 | 5 years ago | [NuwaGradle](https://github.com/jasonross/NuwaGradle)/112 | gradle plugin wrote for Nuwa |
@@ -120,7 +120,7 @@
 | 269 | 1425 | 2 | 9 months ago | [jenkins-course](https://github.com/wardviaene/jenkins-course)/117 | This is the repository with all the resources for the Jenkins training on Udemy |
 | 265 | 150 | 9 | 4 years ago | [jenkins-pipeline-library](https://github.com/fabric8io/jenkins-pipeline-library)/118 | a collection of reusable jenkins pipelines and pipeline functions |
 | 260 | 51 | 30 | 28 days ago | [gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin)/119 | Gradle plugin for integrating NodeJS in your build. :rocket: |
-| 255 | 40 | 14 | 8 hours ago | [gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin)/120 | A plugin to allow people using dynamic dependency versions to lock them to specific versions. |
+| 255 | 40 | 14 | 9 hours ago | [gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin)/120 | A plugin to allow people using dynamic dependency versions to lock them to specific versions. |
 | 254 | 141 | 10 | 5 years ago | [groovykoans](https://github.com/nadavc/groovykoans)/121 | A collection of small exercises in the form of unit tests, designed to get Java developers up to speed on Groovy |
 | 253 | 25 | 4 | 5 years ago | [SwissKnife](https://github.com/Arasthel/SwissKnife)/122 | A multi-purpose library containing view injection and threading for Android using annotations |
 | 250 | 52 | 10 | 4 days ago | [coveralls-gradle-plugin](https://github.com/kt3k/coveralls-gradle-plugin)/123 | 👨‍🔧 gradle plugin for coveralls |
@@ -161,15 +161,15 @@
 | 198 | 114 | 22 | 4 months ago | [grails-spring-security-rest](https://github.com/grails-plugins/grails-spring-security-rest)/158 | Grails plugin to implement token-based, RESTful authentication using Spring Security |
 | 197 | 50 | 31 | 2 months ago | [gradle-swagger-generator-plugin](https://github.com/int128/gradle-swagger-generator-plugin)/159 | Gradle plugin for OpenAPI YAML validation, code generation and API document publishing |
 | 196 | 645 | 77 | 5 months ago | [lock-manager](https://github.com/ethayer/lock-manager)/160 | Lock Manager |
-| 196 | 182 | 0 | 2 months ago | [geb-example-gradle](https://github.com/geb/geb-example-gradle)/161 | An example project for using Geb in a Gradle build (Spock and JUnit 4) |
+| 196 | 182 | 0 | Unknown | [geb-example-gradle](https://github.com/geb/geb-example-gradle)/161 | An example project for using Geb in a Gradle build (Spock and JUnit 4) |
 | 195 | 483 | 33 | a month ago | [grails-doc](https://github.com/grails/grails-doc)/162 | Documentation Project For The Grails Web Application Framework |
 | 194 | 191 | 36 | 4 years ago | [jenkins-build-per-branch](https://github.com/entagen/jenkins-build-per-branch)/163 | None |
-| 194 | 192 | 185 | 2 months ago | [grails-data-mapping](https://github.com/grails/grails-data-mapping)/164 | GORM - Groovy Object Mapping |
-| 193 | 32 | 8 | 5 days ago | [gradle-git-properties](https://github.com/n0mer/gradle-git-properties)/165 | Gradle plugin for `git.properties` file generation |
+| 194 | 192 | 185 | Unknown | [grails-data-mapping](https://github.com/grails/grails-data-mapping)/164 | GORM - Groovy Object Mapping |
+| 193 | 32 | 8 | Unknown | [gradle-git-properties](https://github.com/n0mer/gradle-git-properties)/165 | Gradle plugin for `git.properties` file generation |
 | 192 | 40 | 1 | 4 years ago | [Gank4Android](https://github.com/zzhoujay/Gank4Android)/166 | Deprecated  使用Groovy开发的Gank.IO的Android客户端 |
 | 192 | 42 | 1 | 5 months ago | [MicroModule](https://github.com/EastWoodYang/MicroModule)/167 | Rebuild multiple complete module structures within the module. |
 | 189 | 45 | 19 | 13 days ago | [groovyfx](https://github.com/groovyfx-project/groovyfx)/168 | A library for writing JavaFX 8 applications in the Groovy language. |
-| 187 | 698 | 71 | 8 hours ago | [orca](https://github.com/spinnaker/orca)/169 | Orchestration engine |
+| 187 | 698 | 71 | 9 hours ago | [orca](https://github.com/spinnaker/orca)/169 | Orchestration engine |
 | 186 | 75 | 14 | 2 years ago | [gradle-hockeyapp-plugin](https://github.com/x2on/gradle-hockeyapp-plugin)/170 | A Gradle plugin for uploading iOS and Android Apps to HockeyApp. |
 | 186 | 71 | 22 | a month ago | [json-avro-converter](https://github.com/allegro/json-avro-converter)/171 | JSON to Avro conversion tool designed to make migration to Avro easier. |
 | 185 | 51 | 149 | 10 days ago | [bpipe](https://github.com/ssadedin/bpipe)/172 | Bpipe - a tool for running and managing bioinformatics pipelines |
@@ -257,11 +257,11 @@
 | 126 | 16 | 0 | 11 months ago | [AppInit](https://github.com/bingoogolapple/AppInit)/254 | AppInit 是一款 Android 应用初始化框架，基于组件化的设计思路，功能灵活，使用简单。 |
 | 126 | 25 | 9 | 2 months ago | [openthesaurus](https://github.com/danielnaber/openthesaurus)/255 | web-based thesaurus search and management |
 | 125 | 18 | 10 | 7 days ago | [muwire](https://github.com/zlatinb/muwire)/256 | MuWire file sharing client for I2P |
-| 124 | 22 | 39 | 28 days ago | [reckon](https://github.com/ajoberstar/reckon)/257 | Infer a project's version from your Git repository. |
+| 124 | 22 | 39 | 29 days ago | [reckon](https://github.com/ajoberstar/reckon)/257 | Infer a project's version from your Git repository. |
 | 124 | 20 | 0 | 5 months ago | [Mis](https://github.com/EastWoodYang/Mis)/258 | 模块接口服务，如何在一个模块内维护其对外暴露的接口（包括打包发布），而不是把接口和接口实现分离到两个不同的模块？ |
 | 123 | 77 | 2 | 6 months ago | [lemarios](https://github.com/olea/lemarios)/259 | Lemarios y listas de palabras del español |
 | 122 | 46 | 0 | 7 years ago | [maven2gradle](https://github.com/jbaruch/maven2gradle)/260 | Maven2 to Gradle build converter |
-| 122 | 574 | 5 | 8 hours ago | [igor](https://github.com/spinnaker/igor)/261 | Integration with Jenkins and Git for Spinnaker |
+| 122 | 574 | 5 | 9 hours ago | [igor](https://github.com/spinnaker/igor)/261 | Integration with Jenkins and Git for Spinnaker |
 | 122 | 49 | 18 | 1 year, 3 months ago | [gradle-vaadin-plugin](https://github.com/johndevs/gradle-vaadin-plugin)/262 | A Gradle plugin for building Vaadin applications |
 | 121 | 27 | 11 | 1 year, 6 months ago | [fat-aar](https://github.com/cpdroid/fat-aar)/263 | A plugin to merge dependencies(aar/jar) into aar file |
 | 120 | 12 | 2 | 6 months ago | [idea-cli-inspector](https://github.com/bentolor/idea-cli-inspector)/264 | A little command-line tool to integrate the awesome IntelliJ IDEA code inspections in your continuous integration (CI) process using Jenkins, Bamboo, et. al. |
@@ -305,7 +305,7 @@
 | 102 | 270 | 15 | 2 years ago | [DLNA-PLAYER](https://github.com/SmartThingsUle/DLNA-PLAYER)/302 | Generic DLNA Player to Smartthings |
 | 102 | 203 | 2 | 11 months ago | [jcdevhandlers](https://github.com/jsconstantelos/jcdevhandlers)/303 | My SmartThings stuff! |
 | 102 | 126 | 6 | 2 months ago | [Ecobee-Suite](https://github.com/SANdood/Ecobee-Suite)/304 | Universal Suite for integrating Ecobee thermostats & sensors with Hubitat and SmartThings home automation platforms (Free!) |
-| 102 | 634 | 22 | 8 hours ago | [gate](https://github.com/spinnaker/gate)/305 | Spinnaker API Gateway |
+| 102 | 634 | 22 | 9 hours ago | [gate](https://github.com/spinnaker/gate)/305 | Spinnaker API Gateway |
 | 102 | 200 | 14 | 4 months ago | [smartthings](https://github.com/redloro/smartthings)/306 | SmartThings home automation services, apps and devices |
 | 102 | 20 | 2 | 7 months ago | [handlebars-spring-boot-starter](https://github.com/allegro/handlebars-spring-boot-starter)/307 | Spring Boot auto-configuration for Handlebars |
 | 101 | 72 | 10 | a month ago | [docker-images](https://github.com/katalon-studio/docker-images)/308 | Docker images for Katalon Studio and other frameworks |
@@ -323,7 +323,7 @@
 | 97 | 11 | 0 | a month ago | [gradle-quality-plugin](https://github.com/xvik/gradle-quality-plugin)/320 | Gradle quality plugin for Java and Groovy |
 | 97 | 23 | 5 | 4 years ago | [gradle-jacoco-coverage](https://github.com/palantir/gradle-jacoco-coverage)/321 | None |
 | 97 | 9 | 0 | 2 months ago | [bintray-publish](https://github.com/panpf/bintray-publish)/322 | Super easy way to publish your Android and Java artifacts to bintray. |
-| 97 | 48 | 42 | 6 days ago | [spotbugs-gradle-plugin](https://github.com/spotbugs/spotbugs-gradle-plugin)/323 | None |
+| 97 | 48 | 43 | 7 days ago | [spotbugs-gradle-plugin](https://github.com/spotbugs/spotbugs-gradle-plugin)/323 | None |
 | 97 | 1107 | 3 | 4 years ago | [SmartThings_MyQ](https://github.com/copy-ninja/SmartThings_MyQ)/324 | Integrate SmartThings with MyQ |
 | 96 | 10 | 8 | 2 years ago | [groovyserv](https://github.com/kobo/groovyserv)/325 | Groovy's startup acceralator. |
 | 96 | 12 | 0 | 3 years ago | [android-scripts](https://github.com/dhelleberg/android-scripts)/326 | helper scripts to setup adb wifi connection and switch developer tools |
@@ -368,8 +368,8 @@
 | 84 | 149 | 17 | 4 months ago | [echo-speaks](https://github.com/tonesto7/echo-speaks)/365 | Integrate your Amazon Echo devices into your Hubitat environment to create virtual Echo Devices. These virtual devices will allow you to speak text, make announcements, control media playback including volume, and many other Alexa features. |
 | 83 | 55 | 1 | 2 months ago | [Hubitat](https://github.com/ogiewon/Hubitat)/366 | Hubitat Elevation Apps and Drivers |
 | 83 | 35 | 62 | a month ago | [jruby-gradle-plugin](https://github.com/jruby-gradle/jruby-gradle-plugin)/367 | A Gradle plugin for working with JRuby projects for fun and profit. Mostly profit. |
-| 83 | 24 | 14 | 20 hours ago | [embedded-consul](https://github.com/pszymczyk/embedded-consul)/368 | Embedded Consul provides easy way to run Consul in integration tests.  |
-| 83 | 24 | 5 | 5 hours ago | [nebula-publishing-plugin](https://github.com/nebula-plugins/nebula-publishing-plugin)/369 | Publishing related plugins |
+| 83 | 24 | 14 | 21 hours ago | [embedded-consul](https://github.com/pszymczyk/embedded-consul)/368 | Embedded Consul provides easy way to run Consul in integration tests.  |
+| 83 | 24 | 5 | 6 hours ago | [nebula-publishing-plugin](https://github.com/nebula-plugins/nebula-publishing-plugin)/369 | Publishing related plugins |
 | 82 | 168 | 12 | 5 months ago | [SmartThings](https://github.com/MichaelStruck/SmartThings)/370 | A repository for my SmartThings apps and items related to them |
 | 82 | 115 | 3 | 4 years ago | [Code](https://github.com/SmartThingsCommunity/Code)/371 | DEPRECATED A collection of code examples from the SmartThings team, and the community |
 | 82 | 101 | 51 | a month ago | [grails-fields](https://github.com/grails-fields-plugin/grails-fields)/372 | a spiritual successor to the bean-fields plugin |
@@ -384,7 +384,7 @@
 | 79 | 13 | 1 | 2 years ago | [gradle-android-apk-size-plugin](https://github.com/vanniktech/gradle-android-apk-size-plugin)/381 | Gradle plugin that generates CSV files with apk size per output and variant of an apk |
 | 79 | 18 | 11 | 17 days ago | [gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin)/382 | Gradle Docker plugin |
 | 79 | 9 | 1 | 1 year, 5 months ago | [Versionberg](https://github.com/rockerhieu/Versionberg)/383 | Gradle plugin for versioning your library/application on every git commit |
-| 79 | 573 | 12 | 9 hours ago | [rosco](https://github.com/spinnaker/rosco)/384 | A bakery for deployable images |
+| 79 | 573 | 12 | 10 hours ago | [rosco](https://github.com/spinnaker/rosco)/384 | A bakery for deployable images |
 | 79 | 367 | 7 | 3 years ago | [DLink-Camera-Manager](https://github.com/blebson/DLink-Camera-Manager)/385 | D-Link Camera Manager Connect App |
 | 79 | 10 | 0 | 4 years ago | [ButterMess](https://github.com/peacepassion/ButterMess)/386 | None |
 | 78 | 90 | 12 | 3 years ago | [jenkins-docker](https://github.com/fabric8io/jenkins-docker)/387 | docker file for a jenkins docker image |
@@ -429,7 +429,7 @@
 | 69 | 11 | 6 | 5 years ago | [gradle-trust-all](https://github.com/arteme/gradle-trust-all)/426 | A gradle plugin to disable SSL certificate validation |
 | 68 | 21 | 9 | 17 days ago | [test-retry-gradle-plugin](https://github.com/gradle/test-retry-gradle-plugin)/427 | Gradle plugin to retry tests that have failed to mitigate test flakiness. |
 | 68 | 29 | 15 | 7 years ago | [groovy_koans](https://github.com/cjudd/groovy_koans)/428 | A set of Koans to teach the Groovy language |
-| 68 | 20 | 53 | 15 days ago | [nf-tower](https://github.com/seqeralabs/nf-tower)/429 | Nextflow Tower system |
+| 68 | 20 | 53 | 16 days ago | [nf-tower](https://github.com/seqeralabs/nf-tower)/429 | Nextflow Tower system |
 | 68 | 31 | 8 | 6 years ago | [groovy.tmbundle](https://github.com/textmate/groovy.tmbundle)/430 | TextMate support for Groovy |
 | 68 | 18 | 10 | 6 days ago | [nebula-project-plugin](https://github.com/nebula-plugins/nebula-project-plugin)/431 | Healthy defaults for a standard Gradle project |
 | 68 | 33 | 14 | 3 months ago | [grails-console](https://github.com/sheehan/grails-console)/432 | A web-based Groovy console for interactive runtime application management and debugging |
@@ -506,8 +506,8 @@
 | 57 | 50 | 3 | 2 years ago | [weceem-plugin](https://github.com/OpusCapita/weceem-plugin)/503 | Grails Weceem CMS Plugin |
 | 57 | 30 | 1 | 1 year, 5 months ago | [jira-scripts](https://github.com/mailru/jira-scripts)/504 | None |
 | 57 | 9 | 2 | 1 year, 28 days ago | [gradle-izpack-plugin](https://github.com/bmuschko/gradle-izpack-plugin)/505 | Gradle plugin that provides support for packaging applications for the Java platform via IzPack. |
-| 57 | 13 | 2 | 6 days ago | [nebula-kotlin-plugin](https://github.com/nebula-plugins/nebula-kotlin-plugin)/506 | Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted |
-| 57 | 5 | 0 | a month ago | [holidays-calendar](https://github.com/d10xa/holidays-calendar)/507 | Производственный календарь json |
+| 57 | 5 | 0 | a month ago | [holidays-calendar](https://github.com/d10xa/holidays-calendar)/506 | Производственный календарь json |
+| 57 | 13 | 2 | 6 days ago | [nebula-kotlin-plugin](https://github.com/nebula-plugins/nebula-kotlin-plugin)/507 | Provides the Kotlin plugin via the Gradle plugin portal, automatically depends on the standard library, and allows Kotlin library versions to be omitted |
 | 57 | 19 | 15 | 8 years ago | [gradle_cobertura](https://github.com/valkolovos/gradle_cobertura)/508 | Gradle Cobertura Plugin |
 | 56 | 7 | 9 | 2 years ago | [propdeps-plugin](https://github.com/spring-gradle-plugins/propdeps-plugin)/509 | New "provided" and "optiona; |
 | 56 | 37 | 2 | 1 year, 11 months ago | [spring-integration-dsl-groovy](https://github.com/spring-projects/spring-integration-dsl-groovy)/510 | Groovy DSL for Spring Integration |
@@ -559,11 +559,11 @@
 | 50 | 70 | 0 | 5 years ago | [gradle-liquibase-plugin](https://github.com/tlberglund/gradle-liquibase-plugin)/556 | A Gradle plugin for Liquibase |
 | 50 | 17 | 0 | 23 days ago | [awesome-kubernetes](https://github.com/redhatspain/awesome-kubernetes)/557 | A curated list of awesome references collected since 2018. |
 | 50 | 405 | 30 | 1 year, 7 months ago | [hands-on-jenkins](https://github.com/cirulls/hands-on-jenkins)/558 | Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing |
-| 50 | 4 | 1 | Unknown | [vim-java](https://github.com/bpdp/vim-java)/559 | Skeleton of Vim for Java development + Gradle |
+| 50 | 4 | 1 | 7 years ago | [vim-java](https://github.com/bpdp/vim-java)/559 | Skeleton of Vim for Java development + Gradle |
 | 50 | 8 | 1 | 2 years ago | [spock-subjects-collaborators-extension](https://github.com/marcingrzejszczak/spock-subjects-collaborators-extension)/560 | Spock subjects-collaborators extension |
 | 50 | 22 | 0 | 2 years ago | [CIYOU](https://github.com/cckevincyh/CIYOU)/561 | 翻转课堂模式的小学网络教学平台，基于Groovy，使用Spring Boot + Mybatis 框架、Shiro安全框架，并使用Druid为数据库连接池，Redis为项目缓存。 |
 | 50 | 18 | 7 | 3 years ago | [spreadsheet-builder](https://github.com/MetadataConsulting/spreadsheet-builder)/562 | Spreadsheet Builder |
-| 50 | 10 | 12 | Unknown | [glide](https://github.com/kdabir/glide)/563 | Create awesome apps on Google App Engine in a snap |
+| 50 | 10 | 12 | 3 years ago | [glide](https://github.com/kdabir/glide)/563 | Create awesome apps on Google App Engine in a snap |
 | 50 | 9 | 1 | 4 years ago | [AutoVersion](https://github.com/nillith/AutoVersion)/564 | Generate versionCode and versionName for android app based on git commit count automatically |
 | 50 | 14 | 2 | 7 years ago | [grails-howtos](https://github.com/grails/grails-howtos)/565 | The source and build for a set of Grails HOWTO documents |
 | 50 | 2 | 0 | 7 months ago | [MethodTimeCost](https://github.com/xiaobo0113/MethodTimeCost)/566 | A gradle plugin to show time costs of methods on main-thread for Android. |
@@ -588,7 +588,7 @@
 | 48 | 11 | 17 | 1 year, 5 months ago | [gradle-jenkins-jobdsl-plugin](https://github.com/heremaps/gradle-jenkins-jobdsl-plugin)/585 | A plugin for Gradle to manage Jenkins Job DSL projects. |
 | 48 | 4 | 0 | 7 years ago | [griffoninaction](https://github.com/aalmiray/griffoninaction)/586 | Griffon in Action source code |
 | 48 | 11 | 5 | 3 years ago | [osso](https://github.com/osso-project/osso)/587 | None |
-| 48 | 11 | 13 | 8 hours ago | [Beapi-API-Framework](https://github.com/orubel/Beapi-API-Framework)/588 | BeAPI Framework is an 'Enterprise Ready' API Automation Framework. It implements the NEW API Pattern ( https://www.slideshare.net/bobdobbes/api-pattern ) allowing for abstraction of the communication layer from the business logic layer thus improving scalability, speed and synchronization of I/O state in distributed systems as well as the ability to AUTOMATE ALL API CALLS AND PROCESSES. |
+| 48 | 11 | 13 | 9 hours ago | [Beapi-API-Framework](https://github.com/orubel/Beapi-API-Framework)/588 | BeAPI Framework is an 'Enterprise Ready' API Automation Framework. It implements the NEW API Pattern ( https://www.slideshare.net/bobdobbes/api-pattern ) allowing for abstraction of the communication layer from the business logic layer thus improving scalability, speed and synchronization of I/O state in distributed systems as well as the ability to AUTOMATE ALL API CALLS AND PROCESSES. |
 | 48 | 67 | 1 | 6 years ago | [cloudify-recipes](https://github.com/CloudifySource/cloudify-recipes)/589 | Application and service recipes for Cloudify |
 | 48 | 9 | 7 | 5 months ago | [parcl](https://github.com/mini2Dx/parcl)/590 | Gradle plugin for bundling your Java application for distribution on Windows, Mac and Linux |
 | 47 | 30 | 15 | 5 years ago | [gradle-calabash-android-plugin](https://github.com/Pedlar/gradle-calabash-android-plugin)/591 | Gradle Plugin for Calabash |
@@ -597,7 +597,7 @@
 | 47 | 1 | 2 | 4 years ago | [android-power-assert-plugin](https://github.com/gfx/android-power-assert-plugin)/594 | Power Assert for Android |
 | 47 | 13 | 6 | 4 years ago | [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config)/595 | Dropwizard bundle that enables you to write your config.yaml as a Freemarker template. |
 | 47 | 6 | 0 | 2 years ago | [app-tiny-R-gradle-plugin](https://github.com/yanbober/app-tiny-R-gradle-plugin)/596 | 一个有效优化 apk 应用 Field 个数、包大小的构建(Hook)工具。 |
-| 47 | 59 | 21 | 16 hours ago | [sdp-libraries](https://github.com/boozallen/sdp-libraries)/597 | The Solutions Delivery Platform Pipeline Libraries for the Jenkins Templating Engine |
+| 47 | 59 | 21 | 17 hours ago | [sdp-libraries](https://github.com/boozallen/sdp-libraries)/597 | The Solutions Delivery Platform Pipeline Libraries for the Jenkins Templating Engine |
 | 46 | 14 | 1 | 5 months ago | [SmartThings-webhook](https://github.com/harperreed/SmartThings-webhook)/598 | An installable groovy SmartApp that provides event-based webhook functionality for SmartThings. |
 | 46 | 43 | 3 | 6 years ago | [smartthings-dsc-alarm](https://github.com/kholloway/smartthings-dsc-alarm)/599 | Smartthings code for DSC (or generic) alarm panels via REST API |
 | 46 | 20 | 50 | a month ago | [gorm-mongodb](https://github.com/grails/gorm-mongodb)/600 | GORM for MongoDB |
@@ -605,8 +605,8 @@
 | 46 | 84 | 142 | 3 days ago | [docs-site](https://github.com/zowe/docs-site)/602 | Documentation for the Zowe project |
 | 46 | 35 | 17 | 7 years ago | [grails-gson](https://github.com/robfletcher/grails-gson)/603 | Provides alternate JSON (de)serialization for Grails using Google's Gson library |
 | 46 | 12 | 6 | 30 days ago | [gradle-vagrant-plugin](https://github.com/bmuschko/gradle-vagrant-plugin)/604 | Gradle plugin for managing Vagrant boxes. |
-| 46 | 12 | 7 | 6 months ago | [MixinGradle](https://github.com/SpongePowered/MixinGradle)/605 | Gradle plugin that adds the Mixin technology capability to your project. |
-| 46 | 6 | 3 | 4 months ago | [androidNativeBundle](https://github.com/howardpang/androidNativeBundle)/606 | a gradle plugin that support publish c/c++ headers to 'aar' and depend those 'aar' |
+| 46 | 6 | 3 | 4 months ago | [androidNativeBundle](https://github.com/howardpang/androidNativeBundle)/605 | a gradle plugin that support publish c/c++ headers to 'aar' and depend those 'aar' |
+| 46 | 12 | 7 | 6 months ago | [MixinGradle](https://github.com/SpongePowered/MixinGradle)/606 | Gradle plugin that adds the Mixin technology capability to your project. |
 | 46 | 25 | 1 | 1 year, 6 months ago | [POET-pipeline-library](https://github.com/tmobile/POET-pipeline-library)/607 | POET pipeline framework automation code. |
 | 46 | 70 | 0 | 1 year, 11 months ago | [smartthings](https://github.com/sidjohn1/smartthings)/608 | A collection of smart apps for smartthings |
 | 46 | 45 | 40 | 3 months ago | [jmeter-gradle-plugin](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin)/609 | Gradle plugin to run JMeter tests |
@@ -644,8 +644,8 @@
 | 44 | 47 | 1 | 14 days ago | [soapUIGroovyScripts](https://github.com/nmrao/soapUIGroovyScripts)/641 | Groovy scripts that helps to do some tasks in SoapUI tool |
 | 44 | 15 | 8 | 2 years ago | [thrift-gradle-plugin](https://github.com/jruyi/thrift-gradle-plugin)/642 | A gradle plugin for compiling Thrift IDL files using Thrift compiler |
 | 43 | 32 | 38 | 4 years ago | [Zuul](https://github.com/Confluex/Zuul)/643 | Keymaster and Gatekeeper - Application Configuration Management |
-| 43 | 37 | 1 | 8 months ago | [pipeline-library](https://github.com/redhat-cop/pipeline-library)/644 | A repository of Jenkins pipeline files we can reference from elsewhere |
-| 43 | 19 | 1 | 1 year, 19 days ago | [jenkins-os](https://github.com/coreos/jenkins-os)/645 | Groovy pipeline jobs that build and test Container Linux with Jenkins |
+| 43 | 19 | 1 | 1 year, 19 days ago | [jenkins-os](https://github.com/coreos/jenkins-os)/644 | Groovy pipeline jobs that build and test Container Linux with Jenkins |
+| 43 | 37 | 1 | 8 months ago | [pipeline-library](https://github.com/redhat-cop/pipeline-library)/645 | A repository of Jenkins pipeline files we can reference from elsewhere |
 | 43 | 28 | 0 | 5 months ago | [Hubitat](https://github.com/stephack/Hubitat)/646 | Hubitat Stuff |
 | 43 | 14 | 14 | 2 years ago | [gradle-maven-settings-plugin](https://github.com/mark-vieira/gradle-maven-settings-plugin)/647 | Gradle Maven settings plugin |
 | 43 | 7 | 1 | a month ago | [react-native-gradle-plugin](https://github.com/invertase/react-native-gradle-plugin)/648 | A gradle plugin for React Native Android that simplifies and standardises build configurations (such as dependency versioning) for Projects & React Native modules. |
@@ -659,8 +659,8 @@
 | 42 | 1 | 0 | 6 years ago | [MacroGroovy](https://github.com/bsideup/MacroGroovy)/656 | None |
 | 42 | 20 | 0 | 7 years ago | [android-multithread](https://github.com/snowdream/android-multithread)/657 | android lib - multithread |
 | 42 | 8 | 0 | 2 years ago | [jfr-report-tool](https://github.com/lhotari/jfr-report-tool)/658 | Tool for creating reports from Java Flight Recorder dumps |
-| 42 | 33 | 13 | 3 months ago | [Hubitat](https://github.com/markus-li/Hubitat)/659 | Apps and Drivers for Hubitat Elevation |
-| 42 | 167 | 10 | 3 years ago | [BigTalker2](https://github.com/rayzurbock/BigTalker2)/660 | SmartThings SmartApp - Big Talker is a SmartApp for SmartThings that can make your house talk depending on various triggered events. |
+| 42 | 167 | 10 | 3 years ago | [BigTalker2](https://github.com/rayzurbock/BigTalker2)/659 | SmartThings SmartApp - Big Talker is a SmartApp for SmartThings that can make your house talk depending on various triggered events. |
+| 42 | 33 | 13 | 3 months ago | [Hubitat](https://github.com/markus-li/Hubitat)/660 | Apps and Drivers for Hubitat Elevation |
 | 42 | 19 | 13 | 6 days ago | [gradle-info-plugin](https://github.com/nebula-plugins/gradle-info-plugin)/661 | Plugin to gather information about the environment |
 | 42 | 23 | 12 | 7 months ago | [force-meta-backup](https://github.com/alan-morey/force-meta-backup)/662 | A tool to help download Salesforce.com Metadata |
 | 42 | 40 | 33 | 5 years ago | [gradle-jaxb-plugin](https://github.com/jacobono/gradle-jaxb-plugin)/663 | Gradle plugin to ease projects that use xsds and the ant jaxb task |
@@ -678,11 +678,11 @@
 | 41 | 123 | 5 | 3 years ago | [Aeon-HEM-v2](https://github.com/SANdood/Aeon-HEM-v2)/675 | My version of the ST device driver for the Aeon HEM, exended to support the V2 version, with more displays |
 | 41 | 10 | 6 | 8 years ago | [gradle-androidannotations-plugin](https://github.com/ealden/gradle-androidannotations-plugin)/676 | AndroidAnnotations plugin for Gradle |
 | 41 | 109 | 1 | 2 years ago | [KuKuHarmony](https://github.com/turlvo/KuKuHarmony)/677 | SmartApp allowing you to control each 'Device' in Logitech Harmony Hub using Harmony-API |
-| 41 | 69 | 10 | 10 months ago | [HubConnect_Obsolete-V1.6](https://github.com/HubitatCommunity/HubConnect_Obsolete-V1.6)/678 | None |
-| 41 | 6 | 5 | 3 months ago | [gradle-grammar-kit-plugin](https://github.com/JetBrains/gradle-grammar-kit-plugin)/679 | Gradle plugin for generating lexers (with JFlex) and BNF parsers (with Grammar-Kit) for IntelliJ language plugins |
-| 41 | 17 | 21 | 6 days ago | [nebula-test](https://github.com/nebula-plugins/nebula-test)/680 | Test harness for Gradle plugins |
-| 41 | 14 | 0 | 2 years ago | [ClassPlaceholder](https://github.com/xinshengfan/ClassPlaceholder)/681 | dynamic replace java and class value |
-| 41 | 5 | 8 | 14 hours ago | [librisxl](https://github.com/libris/librisxl)/682 | Libris XL |
+| 41 | 6 | 5 | 3 months ago | [gradle-grammar-kit-plugin](https://github.com/JetBrains/gradle-grammar-kit-plugin)/678 | Gradle plugin for generating lexers (with JFlex) and BNF parsers (with Grammar-Kit) for IntelliJ language plugins |
+| 41 | 69 | 10 | 10 months ago | [HubConnect_Obsolete-V1.6](https://github.com/HubitatCommunity/HubConnect_Obsolete-V1.6)/679 | None |
+| 41 | 14 | 0 | 2 years ago | [ClassPlaceholder](https://github.com/xinshengfan/ClassPlaceholder)/680 | dynamic replace java and class value |
+| 41 | 17 | 21 | 6 days ago | [nebula-test](https://github.com/nebula-plugins/nebula-test)/681 | Test harness for Gradle plugins |
+| 41 | 5 | 8 | 15 hours ago | [librisxl](https://github.com/libris/librisxl)/682 | Libris XL |
 | 41 | 28 | 8 | 5 years ago | [grails-aws](https://github.com/grails-aws/grails-aws)/683 | Grails plugin for Amazon Web Services |
 | 41 | 20 | 4 | 7 months ago | [jbake-gradle-plugin](https://github.com/jbake-org/jbake-gradle-plugin)/684 | A Gradle plugin for JBake |
 | 40 | 18 | 0 | 8 months ago | [AutoInject](https://github.com/EastWoodYang/AutoInject)/685 | Android 通用的组件自动注册、自动初始化解决方案 |
@@ -711,7 +711,7 @@
 | 39 | 10 | 7 | 5 years ago | [gradle-jetty-eclipse-plugin](https://github.com/Khoulaiz/gradle-jetty-eclipse-plugin)/708 | Gradle Jetty Plugin for Eclipse Jetty |
 | 39 | 4 | 3 | 6 years ago | [gradle-git-repo](https://github.com/rharter/gradle-git-repo)/709 | Gradle plugin to better support using git repositories as a (private) maven repo. |
 | 39 | 10 | 6 | 1 year, 5 months ago | [GrabVer](https://github.com/davideas/GrabVer)/710 | Gradle Automatic Build Versioning Plugin - An easy Gradle plugin that follows semver.org rules to automatically generate the Patch version, Build number and Code version, while Major, Minor and Pre-Release suffix remain under our control. |
-| 39 | 722 | 3 | 9 hours ago | [repository-permissions-updater](https://github.com/jenkins-infra/repository-permissions-updater)/711 | Artifactory permissions synchronization tool and data set |
+| 39 | 722 | 3 | 10 hours ago | [repository-permissions-updater](https://github.com/jenkins-infra/repository-permissions-updater)/711 | Artifactory permissions synchronization tool and data set |
 | 39 | 16 | 0 | 8 days ago | [Hubitat](https://github.com/Botched1/Hubitat)/712 | Hubitat Apps and Drivers |
 | 39 | 2 | 0 | 5 years ago | [android-checkstyle-plugin](https://github.com/f2prateek/android-checkstyle-plugin)/713 | Configures the checkstyle plugin for Android projects |
 | 39 | 24 | 7 | 5 years ago | [gradle-plugin-protobuf](https://github.com/aantono/gradle-plugin-protobuf)/714 | Protobuf Plugin for Gradle has moved to |
@@ -720,12 +720,12 @@
 | 39 | 30 | 4 | 1 year, 7 months ago | [gradle-python-envs](https://github.com/JetBrains/gradle-python-envs)/717 | Gradle plugin that automates Python environments creation |
 | 39 | 41 | 0 | 1 year, 4 months ago | [jenkins-shared-library](https://github.com/hoto/jenkins-shared-library)/718 | Jenkins Shared Library for demonstration purposes. |
 | 39 | 6 | 0 | 5 years ago | [docker-grails](https://github.com/onesysadmin/docker-grails)/719 | Grails in Docker Container |
-| 39 | 14 | 5 | 10 hours ago | [antlr4-gradle-plugin](https://github.com/melix/antlr4-gradle-plugin)/720 | Antlr4 plugin for Gradle |
+| 39 | 14 | 5 | 11 hours ago | [antlr4-gradle-plugin](https://github.com/melix/antlr4-gradle-plugin)/720 | Antlr4 plugin for Gradle |
 | 39 | 16 | 11 | 11 months ago | [semver-git](https://github.com/cinnober/semver-git)/721 | Gradle plugin that combines git tags and semantic versioning, and sets the gradle version property accordingly.  |
 | 38 | 18 | 25 | 3 years ago | [migmap](https://github.com/mikessh/migmap)/722 | HTS-compatible wrapper for IgBlast V-(D)-J mapping tool |
 | 38 | 13 | 7 | 3 years ago | [seed-plugin](https://github.com/jenkinsci/seed-plugin)/723 | Seed Jenkins plug-in |
-| 38 | 71 | 1 | 2 years ago | [SmartThings](https://github.com/fuzzysb/SmartThings)/724 | None |
-| 38 | 8 | 0 | 4 months ago | [jenkins-bootstrap-slack](https://github.com/samrocketman/jenkins-bootstrap-slack)/725 | Bootstrap a Jenkins instance configured for Jenkins slack plugin testing. |
+| 38 | 8 | 0 | 4 months ago | [jenkins-bootstrap-slack](https://github.com/samrocketman/jenkins-bootstrap-slack)/724 | Bootstrap a Jenkins instance configured for Jenkins slack plugin testing. |
+| 38 | 71 | 1 | 2 years ago | [SmartThings](https://github.com/fuzzysb/SmartThings)/725 | None |
 | 38 | 21 | 0 | 1 year, 6 months ago | [elasticsearch-groovy](https://github.com/elastic/elasticsearch-groovy)/726 | Elasticsearch Groovy client |
 | 38 | 5 | 5 | 4 years ago | [gradle-js](https://github.com/danveloper/gradle-js)/727 | JavaScript Builds for Gradle. You're Welcome. |
 | 38 | 46 | 4 | 4 years ago | [jenkins-build-per-gitflow-branch](https://github.com/neoteric-eu/jenkins-build-per-gitflow-branch)/728 | Jenkins Build Per Git Flow Branch |
@@ -793,8 +793,8 @@
 | 34 | 14 | 3 | 5 years ago | [gradle-protobuf-plugin](https://github.com/andrewkroh/gradle-protobuf-plugin)/790 | Gradle plugin for Google Protocol Buffers |
 | 34 | 2 | 2 | 6 years ago | [Griddle](https://github.com/Rightpoint/Griddle)/791 | None |
 | 34 | 5 | 0 | 2 years ago | [Neddick](https://github.com/fogbeam/Neddick)/792 | Neddick: Open Source Information Discovery Platform |
-| 34 | 12 | 0 | 7 months ago | [jenkins](https://github.com/CloudPipelines/jenkins)/793 | http://cloudpipelines.github.io/jenkins/ |
-| 34 | 13 | 12 | a month ago | [FreePlaneGTD](https://github.com/gpapp/FreePlaneGTD)/794 | Fork of Freeplane GTD with extensions |
+| 34 | 13 | 12 | a month ago | [FreePlaneGTD](https://github.com/gpapp/FreePlaneGTD)/793 | Fork of Freeplane GTD with extensions |
+| 34 | 12 | 0 | 7 months ago | [jenkins](https://github.com/CloudPipelines/jenkins)/794 | http://cloudpipelines.github.io/jenkins/ |
 | 34 | 20 | 21 | 2 years ago | [migec](https://github.com/mikessh/migec)/795 | A RepSeq processing swiss-knife |
 | 33 | 10 | 1 | 4 years ago | [angular-template-asset-pipeline](https://github.com/craigburke/angular-template-asset-pipeline)/796 | AngularJs Template module for the Asset Pipeline |
 | 33 | 25 | 4 | 2 years ago | [micronaut-workshop](https://github.com/alvarosanchez/micronaut-workshop)/797 | Introductory workshop about Micronaut |
@@ -809,7 +809,7 @@
 | 33 | 121 | 0 | 2 years ago | [platzi-scripts](https://github.com/elbuo8/platzi-scripts)/806 | Collection of platzi scripts for classes |
 | 33 | 33 | 9 | 5 years ago | [grails-rabbitmq](https://github.com/grails-plugins/grails-rabbitmq)/807 | Grails RabbitMQ Plugin |
 | 33 | 8 | 34 | 2 years ago | [gradle-plugin-starter](https://github.com/int128/gradle-plugin-starter)/808 | Gradle plugin template project |
-| 33 | 22 | 4 | 6 hours ago | [spring-cloud-jenkins-jobs](https://github.com/spring-cloud/spring-cloud-jenkins-jobs)/809 | Spring Cloud Jenkins Job DSL |
+| 33 | 22 | 4 | 7 hours ago | [spring-cloud-jenkins-jobs](https://github.com/spring-cloud/spring-cloud-jenkins-jobs)/809 | Spring Cloud Jenkins Job DSL |
 | 33 | 21 | 5 | 27 days ago | [lifxcode](https://github.com/robheyes/lifxcode)/810 | None |
 | 32 | 11 | 0 | 1 year, 9 months ago | [onec-cicd](https://github.com/jugatsu/onec-cicd)/811 | :sunglasses: CI-стенд для 1С:Предприятие 8.3. |
 | 32 | 7 | 10 | 5 years ago | [pipeline](https://github.com/pipelinecd/pipeline)/812 | Continuous Delivery |
@@ -817,7 +817,7 @@
 | 32 | 1 | 2 | 3 years ago | [ConfigDroid](https://github.com/mb-14/ConfigDroid)/814 | Gradle plugin to generate config classes for your Android projects |
 | 32 | 6 | 4 | 4 years ago | [gradle-build-info-plugin](https://github.com/ksoichiro/gradle-build-info-plugin)/815 | Gradle plugin to include build information such as Git commit ID to your JAR. It can be used to show Git commit information with Spring Boot Actuator. |
 | 32 | 10 | 7 | 4 months ago | [asap](https://github.com/oschwengers/asap)/816 | A scalable bacterial genome assembly, annotation and analysis pipeline |
-| 32 | 33 | 67 | 8 days ago | [terraform-pipeline](https://github.com/manheim/terraform-pipeline)/817 | A reusable pipeline library to apply terraform configuration serially across multiple environments, using Jenkins and a Jenkinsfile. |
+| 32 | 33 | 67 | 9 days ago | [terraform-pipeline](https://github.com/manheim/terraform-pipeline)/817 | A reusable pipeline library to apply terraform configuration serially across multiple environments, using Jenkins and a Jenkinsfile. |
 | 32 | 11 | 2 | 2 months ago | [declarative-pipeline](https://github.com/JavatarPro/declarative-pipeline)/818 | jenkinsfile pipeline utils |
 | 32 | 105 | 2 | 5 years ago | [st_foscam_universal](https://github.com/skp19/st_foscam_universal)/819 | None |
 | 32 | 18 | 0 | 2 years ago | [jenkins-shared-library-example](https://github.com/kuper-adrian/jenkins-shared-library-example)/820 | Example for a Jenkins shared library with unit tests |
@@ -954,11 +954,11 @@
 | 26 | 23 | 8 | a month ago | [InfluxDB-Logger](https://github.com/HubitatCommunity/InfluxDB-Logger)/951 | None |
 | 26 | 5 | 1 | 2 years ago | [RuntimeDependenceChecker](https://github.com/yangtianrui95/RuntimeDependenceChecker)/952 | Android依赖库版本冲突检测插件 |
 | 26 | 2 | 1 | 3 years ago | [shibboleth-mfa-u2f-auth](https://github.com/Ratler/shibboleth-mfa-u2f-auth)/953 | U2F multifactor authentication plugin for Shibboleth IdPv3 |
-| 26 | 7 | 7 | 6 months ago | [gradle-scala-multiversion-plugin](https://github.com/ADTRAN/gradle-scala-multiversion-plugin)/954 | Gradle plugin to build a project against multiple versions of Scala |
-| 26 | 18 | 4 | 2 years ago | [hubitat-mqtt-bridge](https://github.com/jeubanks/hubitat-mqtt-bridge)/955 | None |
-| 26 | 13 | 47 | 10 hours ago | [apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)/956 | Jenkins pipeline shared library for the APM project |
-| 26 | 12 | 3 | 3 months ago | [google-sdm-api](https://github.com/dkilgore90/google-sdm-api)/957 | None |
-| 26 | 23 | 1 | 10 days ago | [syndesis-quickstarts](https://github.com/syndesisio/syndesis-quickstarts)/958 | Quickstarts |
+| 26 | 18 | 4 | 2 years ago | [hubitat-mqtt-bridge](https://github.com/jeubanks/hubitat-mqtt-bridge)/954 | None |
+| 26 | 7 | 7 | 6 months ago | [gradle-scala-multiversion-plugin](https://github.com/ADTRAN/gradle-scala-multiversion-plugin)/955 | Gradle plugin to build a project against multiple versions of Scala |
+| 26 | 13 | 47 | 11 hours ago | [apm-pipeline-library](https://github.com/elastic/apm-pipeline-library)/956 | Jenkins pipeline shared library for the APM project |
+| 26 | 23 | 1 | 10 days ago | [syndesis-quickstarts](https://github.com/syndesisio/syndesis-quickstarts)/957 | Quickstarts |
+| 26 | 12 | 3 | 3 months ago | [google-sdm-api](https://github.com/dkilgore90/google-sdm-api)/958 | None |
 | 26 | 15 | 5 | 1 year, 3 months ago | [Greenfield](https://github.com/mcroteau/Greenfield)/959 |  Greenfield is an Open Source Java/Groovy eCommerce platform focused on easy setup. Greenfield leverages the best in breeds within the Java echo-system including Groovy, Grails, Spring, Hibernate, Sitemesh, Gradle. |
 | 26 | 11 | 1 | 1 year, 5 months ago | [android-comm-config-plugin](https://github.com/houjinyun/android-comm-config-plugin)/960 | Android组件化开发过程中，通过插件来强制使用某些规范，以及提供一些便利性的配置等。 |
 | 26 | 21 | 1 | 6 years ago | [grails-angular-phonecat](https://github.com/BenoitWickramarachi/grails-angular-phonecat)/961 | Example of Angular app with a Grails backend (Angular PhoneCat tutorial) |
