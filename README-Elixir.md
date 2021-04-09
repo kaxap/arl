@@ -60,7 +60,7 @@
 | 1103 | 163 | 3 | a month ago | [gen_stage](https://github.com/elixir-lang/gen_stage)/57 | Producer and consumer actors with back-pressure for Elixir |
 | 1102 | 153 | 18 | 6 years ago | [dynamo](https://github.com/dynamo/dynamo)/58 | Run, Dynamo, Run! |
 | 1090 | 207 | 87 | 2 years ago | [arc](https://github.com/stavro/arc)/59 | :paperclip: Flexible file upload and attachment library for Elixir |
-| 1034 | 213 | 16 | 17 hours ago | [ex_doc](https://github.com/elixir-lang/ex_doc)/60 | ExDoc produces HTML and EPUB documentation for Elixir projects |
+| 1034 | 213 | 16 | 16 hours ago | [ex_doc](https://github.com/elixir-lang/ex_doc)/60 | ExDoc produces HTML and EPUB documentation for Elixir projects |
 | 1008 | 99 | 42 | 1 year, 5 months ago | [swarm](https://github.com/bitwalker/swarm)/61 | Easy clustering, registration, and distribution of worker processes for Erlang/Elixir |
 | 1007 | 393 | 50 | 8 days ago | [ex_aws](https://github.com/ex-aws/ex_aws)/62 | A flexible, easy to use set of clients AWS APIs for Elixir |
 | 995 | 74 | 15 | a month ago | [cachex](https://github.com/whitfin/cachex)/63 | A powerful caching library for Elixir with support for transactions, fallbacks and expirations |
@@ -69,7 +69,7 @@
 | 959 | 96 | 39 | 1 year, 6 months ago | [firestorm](https://github.com/firestormforum/firestorm)/66 | An open-source forum engine, with an Elixir+Phoenix backend and an Elm frontend. |
 | 951 | 127 | 7 | a day ago | [swoosh](https://github.com/swoosh/swoosh)/67 | Compose, deliver and test your emails easily in Elixir |
 | 944 | 27 | 4 | 6 months ago | [fast-elixir](https://github.com/devonestes/fast-elixir)/68 | :dash: Writing Fast Elixir :heart_eyes: -- Collect Common Elixir idioms. |
-| 937 | 440 | 152 | 12 hours ago | [blockscout](https://github.com/blockscout/blockscout)/69 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  |
+| 937 | 440 | 152 | 11 hours ago | [blockscout](https://github.com/blockscout/blockscout)/69 | Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.  |
 | 935 | 122 | 0 | 3 years ago | [exrm](https://github.com/bitwalker/exrm)/70 | Automatically generate a release for your Elixir project! |
 | 934 | 63 | 11 | 4 months ago | [kitto](https://github.com/kittoframework/kitto)/71 | Kitto is a framework for interactive dashboards written in Elixir |
 | 911 | 72 | 62 | 2 years ago | [cog](https://github.com/operable/cog)/72 | Bringing the power of the command line to chat |
@@ -105,8 +105,8 @@
 | 703 | 99 | 2 | 1 year, 6 months ago | [acme_bank](https://github.com/wojtekmach/acme_bank)/102 | An example ☂ project |
 | 699 | 150 | 11 | 2 days ago | [hex](https://github.com/hexpm/hex)/103 | Package manager for the Erlang VM |
 | 693 | 73 | 11 | 4 years ago | [phoenix-showdown](https://github.com/mroth/phoenix-showdown)/104 | :horse_racing: benchmark Sinatra-like web frameworks |
-| 680 | 162 | 27 | 10 days ago | [faker](https://github.com/elixirs/faker)/105 | Faker is a pure Elixir library for generating fake data. |
-| 680 | 34 | 5 | 10 hours ago | [nebulex](https://github.com/cabol/nebulex)/106 | In-memory and distributed caching toolkit for Elixir. |
+| 680 | 34 | 5 | 9 hours ago | [nebulex](https://github.com/cabol/nebulex)/105 | In-memory and distributed caching toolkit for Elixir. |
+| 679 | 162 | 27 | 10 days ago | [faker](https://github.com/elixirs/faker)/106 | Faker is a pure Elixir library for generating fake data. |
 | 674 | 32 | 15 | 9 days ago | [finch](https://github.com/keathley/finch)/107 | Elixir HTTP Client focused on performance |
 | 672 | 120 | 14 | a month ago | [earmark](https://github.com/pragdave/earmark)/108 | Markdown parser for Elixir |
 | 671 | 49 | 14 | 7 months ago | [honeydew](https://github.com/koudelka/honeydew)/109 | Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. 💪🍈 |
@@ -118,19 +118,19 @@
 | 654 | 101 | 29 | 3 years ago | [addict](https://github.com/trenpixster/addict)/115 | User management lib for Phoenix Framework |
 | 651 | 49 | 3 | 16 days ago | [elixir-boilerplate](https://github.com/mirego/elixir-boilerplate)/116 | ⚗ The stable base upon which we build our Elixir projects at Mirego. |
 | 646 | 63 | 35 | 30 days ago | [thesis-phoenix](https://github.com/infinitered/thesis-phoenix)/117 | A lightweight, bolt-on, intuitive content editing system for Elixir/Phoenix websites. Star this repo and follow along with our progress! |
-| 641 | 109 | 23 | 1 year, 3 months ago | [elixir-socket](https://github.com/meh/elixir-socket)/118 | Socket wrapping for Elixir. |
-| 636 | 38 | 14 | 11 months ago | [alchemist.vim](https://github.com/slashmili/alchemist.vim)/119 | Elixir Integration Into Vim |
-| 636 | 69 | 25 | 1 year, 3 months ago | [amnesia](https://github.com/meh/amnesia)/120 | Mnesia wrapper for Elixir. |
-| 621 | 145 | 19 | 5 months ago | [ja_serializer](https://github.com/vt-elixir/ja_serializer)/121 | JSONAPI.org Serialization in Elixir. |
+| 641 | 109 | 23 | Unknown | [elixir-socket](https://github.com/meh/elixir-socket)/118 | Socket wrapping for Elixir. |
+| 636 | 38 | 14 | Unknown | [alchemist.vim](https://github.com/slashmili/alchemist.vim)/119 | Elixir Integration Into Vim |
+| 636 | 69 | 25 | Unknown | [amnesia](https://github.com/meh/amnesia)/120 | Mnesia wrapper for Elixir. |
+| 621 | 145 | 19 | Unknown | [ja_serializer](https://github.com/vt-elixir/ja_serializer)/121 | JSONAPI.org Serialization in Elixir. |
 | 618 | 151 | 56 | 4 days ago | [excoveralls](https://github.com/parroty/excoveralls)/122 | Coverage report tool for Elixir with coveralls.io integration. |
 | 617 | 120 | 9 | 1 year, 7 months ago | [oauth2](https://github.com/scrogson/oauth2)/123 | An Elixir OAuth 2.0 Client Library |
 | 612 | 71 | 78 | 2 days ago | [elixir-ls](https://github.com/elixir-lsp/elixir-ls)/124 | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" |
-| 612 | 25 | 10 | 1 year, 7 months ago | [que](https://github.com/sheharyarn/que)/125 | Simple Job Processing in Elixir with Mnesia :zap: |
+| 612 | 25 | 10 | Unknown | [que](https://github.com/sheharyarn/que)/125 | Simple Job Processing in Elixir with Mnesia :zap: |
 | 611 | 63 | 13 | 3 years ago | [hedwig](https://github.com/hedwig-im/hedwig)/126 | An Adapter-based Bot Framework for Elixir Applications |
 | 609 | 23 | 19 | 8 months ago | [sage](https://github.com/Nebo15/sage)/127 | A dependency-free tool to run distributed transactions in Elixir, inspired by Sagas pattern. |
 | 606 | 227 | 63 | 23 days ago | [stripity_stripe](https://github.com/code-corps/stripity_stripe)/128 | An Elixir Library for Stripe |
-| 602 | 48 | 12 | a month ago | [stream_data](https://github.com/whatyouhide/stream_data)/129 | Data generation and property-based testing for Elixir. 🔮 |
-| 600 | 17 | 5 | 7 months ago | [memento](https://github.com/sheharyarn/memento)/130 | Simple + Powerful interface to the Mnesia Distributed Database 💾 |
+| 602 | 48 | 12 | Unknown | [stream_data](https://github.com/whatyouhide/stream_data)/129 | Data generation and property-based testing for Elixir. 🔮 |
+| 600 | 17 | 5 | Unknown | [memento](https://github.com/sheharyarn/memento)/130 | Simple + Powerful interface to the Mnesia Distributed Database 💾 |
 | 589 | 81 | 5 | 4 days ago | [joken](https://github.com/joken-elixir/joken)/131 | Elixir JWT library |
 | 589 | 159 | 9 | 4 months ago | [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack)/132 | Slack real time messaging and web API client in Elixir |
 | 585 | 37 | 23 | 5 months ago | [05AB1E](https://github.com/Adriandmen/05AB1E)/133 | A concise stack-based golfing language |
@@ -164,7 +164,7 @@
 | 479 | 56 | 38 | 22 days ago | [remote_retro](https://github.com/stride-nyc/remote_retro)/161 | Free, world-class retrospectives |
 | 476 | 39 | 59 | 10 months ago | [learn-phoenix-framework](https://github.com/dwyl/learn-phoenix-framework)/162 | :fire: Phoenix is the web framework without compromise on speed, reliability or maintainability! Don't settle for less. :rocket: |
 | 475 | 55 | 0 | 3 years ago | [dogma](https://github.com/lpil/dogma)/163 | :closed_lock_with_key: A code style linter for Elixir |
-| 474 | 134 | 10 | 16 hours ago | [sentry-elixir](https://github.com/getsentry/sentry-elixir)/164 | The official Elixir SDK for Sentry (sentry.io) |
+| 474 | 134 | 10 | 15 hours ago | [sentry-elixir](https://github.com/getsentry/sentry-elixir)/164 | The official Elixir SDK for Sentry (sentry.io) |
 | 471 | 144 | 40 | 10 days ago | [kafka_ex](https://github.com/kafkaex/kafka_ex)/165 | Kafka client library for Elixir |
 | 469 | 69 | 21 | 1 year, 8 months ago | [exprotobuf](https://github.com/bitwalker/exprotobuf)/166 | Protocol Buffers in Elixir made easy! |
 | 468 | 57 | 51 | 2 months ago | [reactive-interaction-gateway](https://github.com/Accenture/reactive-interaction-gateway)/167 | Create low-latency, interactive user experiences for stateless microservices. |
@@ -204,19 +204,19 @@
 | 389 | 61 | 17 | 2 months ago | [jsonapi](https://github.com/jeregrine/jsonapi)/201 | JSON:API Serializer and Query Handler for Elixir |
 | 386 | 27 | 15 | 1 year, 6 months ago | [trot](https://github.com/hexedpackets/trot)/202 | An Elixir web micro-framework. |
 | 386 | 13 | 2 | 9 months ago | [flowex](https://github.com/antonmi/flowex)/203 | Flow-Based Programming framework for Elixir |
-| 385 | 61 | 14 | Unknown | [conform](https://github.com/bitwalker/conform)/204 | Easy, powerful, and extendable configuration tooling for releases. |
+| 385 | 61 | 14 | 2 years ago | [conform](https://github.com/bitwalker/conform)/204 | Easy, powerful, and extendable configuration tooling for releases. |
 | 384 | 47 | 5 | 3 years ago | [coincoin](https://github.com/robinmonjo/coincoin)/205 | Blockchain based cryptocurrency proof-of-concept in Elixir. Feedback welcome |
 | 383 | 65 | 12 | 13 days ago | [paper_trail](https://github.com/izelnakri/paper_trail)/206 | Track and record all the changes in your database with Ecto. Revert back to anytime in history. |
 | 382 | 46 | 14 | a day ago | [paginator](https://github.com/duffelhq/paginator)/207 | Cursor-based pagination for Elixir Ecto |
-| 381 | 13 | 1 | Unknown | [terraform](https://github.com/poteto/terraform)/208 | A simple plug for incrementally transforming an API into Phoenix. Check out the blog post: |
+| 381 | 13 | 1 | a month ago | [terraform](https://github.com/poteto/terraform)/208 | A simple plug for incrementally transforming an API into Phoenix. Check out the blog post: |
 | 380 | 26 | 8 | 5 months ago | [raxx](https://github.com/CrowdHailer/raxx)/209 | Interface for HTTP webservers, frameworks and clients |
 | 379 | 15 | 17 | 1 year, 15 days ago | [ratatouille](https://github.com/ndreynolds/ratatouille)/210 | A TUI (terminal UI) kit for Elixir |
 | 376 | 34 | 1 | 15 days ago | [corsica](https://github.com/whatyouhide/corsica)/211 | Elixir library for dealing with CORS requests. 🏖 |
-| 375 | 25 | 2 | Unknown | [canada](https://github.com/jarednorman/canada)/212 | Easy permission definitions in Elixir apps! |
+| 375 | 25 | 2 | 1 year, 11 months ago | [canada](https://github.com/jarednorman/canada)/212 | Easy permission definitions in Elixir apps! |
 | 375 | 35 | 11 | 4 years ago | [weber](https://github.com/elixir-web/weber)/213 | [WiP] Web framework for Elixir inspired by Rails [#WeberMVC at freenode] |
 | 374 | 25 | 1 | 3 years ago | [simple_bayes](https://github.com/fredwu/simple_bayes)/214 | A Naive Bayes machine learning implementation in Elixir. |
-| 374 | 14 | 5 | Unknown | [cortex](https://github.com/urbint/cortex)/215 | The intelligent coding assistant for Elixir |
-| 372 | 104 | 19 | Unknown | [extwitter](https://github.com/parroty/extwitter)/216 | Twitter client library for elixir.  |
+| 374 | 14 | 5 | 10 months ago | [cortex](https://github.com/urbint/cortex)/215 | The intelligent coding assistant for Elixir |
+| 372 | 104 | 19 | 4 months ago | [extwitter](https://github.com/parroty/extwitter)/216 | Twitter client library for elixir.  |
 | 372 | 26 | 10 | 3 years ago | [raft](https://github.com/toniqsystems/raft)/217 | An Elixir implementation of the raft consensus protocol |
 | 372 | 9 | 5 | 3 years ago | [ex_debug_toolbar](https://github.com/kagux/ex_debug_toolbar)/218 | A debug web toolbar for Phoenix projects to display all sorts of information about request |
 | 369 | 40 | 7 | 9 months ago | [machinery](https://github.com/joaomdmoura/machinery)/219 | State machine thin layer for structs (+ GUI for Phoenix apps) |
@@ -225,59 +225,59 @@
 | 366 | 34 | 29 | 4 years ago | [obelisk](https://github.com/BennyHallett/obelisk)/222 | Static Site Generator written in Elixir. |
 | 365 | 92 | 12 | 9 months ago | [phoenix_pubsub](https://github.com/phoenixframework/phoenix_pubsub)/223 | Distributed PubSub and Presence platform for the Phoenix Framework |
 | 364 | 20 | 5 | 2 years ago | [peerage](https://github.com/mrluc/peerage)/224 | Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others. |
-| 363 | 21 | 2 | Unknown | [elixir-style-guide](https://github.com/rrrene/elixir-style-guide)/225 | Style Guide for the Elixir language, implemented by Credo |
-| 359 | 86 | 0 | Unknown | [decimal](https://github.com/ericmj/decimal)/226 | Arbitrary precision decimal arithmetic |
-| 358 | 30 | 44 | Unknown | [ash](https://github.com/ash-project/ash)/227 | A resource based framework for building Elixir applications |
+| 363 | 21 | 2 | 3 years ago | [elixir-style-guide](https://github.com/rrrene/elixir-style-guide)/225 | Style Guide for the Elixir language, implemented by Credo |
+| 359 | 86 | 0 | 23 days ago | [decimal](https://github.com/ericmj/decimal)/226 | Arbitrary precision decimal arithmetic |
+| 358 | 30 | 44 | an hour ago | [ash](https://github.com/ash-project/ash)/227 | A resource based framework for building Elixir applications |
 | 358 | 19 | 6 | 2 years ago | [component](https://github.com/pragdave/component)/228 | Experiment in moving towards higher-level Elixir components |
 | 357 | 68 | 6 | 2 years ago | [redis](https://github.com/artemeff/redis)/229 | Redis commands for Elixir |
 | 354 | 27 | 0 | 6 hours ago | [money](https://github.com/kipcole9/money)/230 | Elixir implementation of Money with Currency  |
 | 352 | 15 | 0 | 2 months ago | [ex_hash_ring](https://github.com/discord/ex_hash_ring)/231 | A fast consistent hash ring implementation in Elixir. |
 | 349 | 38 | 5 | 2 months ago | [reaxt](https://github.com/kbrw/reaxt)/232 | Use React template into your Elixir application for server rendering |
-| 348 | 23 | 11 | Unknown | [prometheus.ex](https://github.com/deadtrickster/prometheus.ex)/233 | Prometheus.io Elixir client |
-| 347 | 23 | 0 | Unknown | [functional-programming](https://github.com/kblake/functional-programming)/234 | Organize material to teach functional programming using Elixir |
-| 346 | 20 | 0 | Unknown | [fsm](https://github.com/sasa1977/fsm)/235 | Finite State Machine data structure |
+| 348 | 23 | 11 | a month ago | [prometheus.ex](https://github.com/deadtrickster/prometheus.ex)/233 | Prometheus.io Elixir client |
+| 347 | 23 | 0 | 9 months ago | [functional-programming](https://github.com/kblake/functional-programming)/234 | Organize material to teach functional programming using Elixir |
+| 346 | 20 | 0 | 1 year, 2 months ago | [fsm](https://github.com/sasa1977/fsm)/235 | Finite State Machine data structure |
 | 340 | 28 | 20 | 3 years ago | [toniq](https://github.com/joakimk/toniq)/236 | Simple and reliable background job processing library for Elixir. |
 | 338 | 10 | 0 | 5 years ago | [a-little-elixir-goes-a-long-way](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way)/237 | The Little Schemer in Elixir. |
 | 337 | 71 | 10 | 1 year, 1 month ago | [the-little-elixir-otp-guidebook-code](https://github.com/benjamintanweihao/the-little-elixir-otp-guidebook-code)/238 | Code examples for The Little Elixir & OTP Guidebook |
 | 336 | 51 | 10 | a month ago | [elixir-mail](https://github.com/DockYard/elixir-mail)/239 | Build composable mail messages |
 | 336 | 51 | 15 | 2 years ago | [mix_docker](https://github.com/Recruitee/mix_docker)/240 | Put your Elixir app production release inside minimal docker image |
-| 335 | 28 | 15 | Unknown | [mojito](https://github.com/appcues/mojito)/241 | An easy-to-use Elixir HTTP client, built on the low-level Mint library. |
+| 335 | 28 | 15 | a month ago | [mojito](https://github.com/appcues/mojito)/241 | An easy-to-use Elixir HTTP client, built on the low-level Mint library. |
 | 335 | 17 | 4 | 8 months ago | [typed_struct](https://github.com/ejpcmac/typed_struct)/242 | An Elixir library for defining structs with a type without writing boilerplate code. |
 | 333 | 73 | 19 | 2 months ago | [nadia](https://github.com/zhyu/nadia)/243 | Telegram Bot API Wrapper written in Elixir |
-| 330 | 42 | 2 | Unknown | [ex_rated](https://github.com/grempe/ex_rated)/244 | ExRated, the Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it. |
+| 330 | 42 | 2 | 2 months ago | [ex_rated](https://github.com/grempe/ex_rated)/244 | ExRated, the Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it. |
 | 330 | 73 | 5 | 2 months ago | [cors_plug](https://github.com/mschae/cors_plug)/245 | An Elixir Plug to add CORS. |
-| 330 | 47 | 9 | Unknown | [elasticsearch-elixir](https://github.com/danielberkompas/elasticsearch-elixir)/246 | No-nonsense Elasticsearch library for Elixir |
+| 330 | 47 | 9 | 2 months ago | [elasticsearch-elixir](https://github.com/danielberkompas/elasticsearch-elixir)/246 | No-nonsense Elasticsearch library for Elixir |
 | 322 | 16 | 4 | a month ago | [site_encrypt](https://github.com/sasa1977/site_encrypt)/247 | Integrated certification via Let's encrypt for Elixir-powered sites  |
 | 320 | 52 | 14 | 1 year, 5 months ago | [elixir-uuid](https://github.com/zyro/elixir-uuid)/248 | UUID generator and utilities for Elixir |
 | 319 | 109 | 19 | 2 years ago | [mongodb_ecto](https://github.com/kobil-systems/mongodb_ecto)/249 | MongoDB adapter for Ecto |
 | 318 | 28 | 5 | 2 years ago | [elixir-pipes](https://github.com/batate/elixir-pipes)/250 | Macros for more flexible composition with the Elixir Pipe operator |
 | 318 | 40 | 8 | 1 year, 1 month ago | [slime](https://github.com/slime-lang/slime)/251 | Minimalistic HTML templates for Elixir, inspired by Slim. |
-| 318 | 51 | 2 | Unknown | [inflex](https://github.com/nurugger07/inflex)/252 | An Inflector library for Elixir |
-| 317 | 22 | 5 | Unknown | [delta_crdt_ex](https://github.com/derekkraan/delta_crdt_ex)/253 | Use DeltaCrdt to build distributed applications in Elixir |
+| 318 | 51 | 2 | a month ago | [inflex](https://github.com/nurugger07/inflex)/252 | An Inflector library for Elixir |
+| 317 | 22 | 5 | 3 months ago | [delta_crdt_ex](https://github.com/derekkraan/delta_crdt_ex)/253 | Use DeltaCrdt to build distributed applications in Elixir |
 | 316 | 5 | 17 | 7 hours ago | [axon](https://github.com/elixir-nx/axon)/254 | Nx-powered Neural Networks. |
 | 316 | 21 | 2 | 5 months ago | [ElixirRetry](https://github.com/safwank/ElixirRetry)/255 | Simple Elixir macros for linear retry, exponential backoff and wait with composable delays |
 | 310 | 28 | 9 | 2 years ago | [excheck](https://github.com/parroty/excheck)/256 | Property-based testing library for Elixir (QuickCheck style). |
-| 310 | 15 | 11 | Unknown | [logflare](https://github.com/Logflare/logflare)/257 | Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. |
-| 309 | 53 | 20 | Unknown | [websockex](https://github.com/Azolo/websockex)/258 | An Elixir Websocket Client |
+| 310 | 15 | 11 | 8 days ago | [logflare](https://github.com/Logflare/logflare)/257 | Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. |
+| 309 | 53 | 20 | 18 days ago | [websockex](https://github.com/Azolo/websockex)/258 | An Elixir Websocket Client |
 | 308 | 68 | 107 | 1 year, 5 months ago | [ewallet](https://github.com/omgnetwork/ewallet)/259 | eWallet Backend for the OmiseGO SDKs. |
-| 308 | 85 | 3 | Unknown | [guardian_db](https://github.com/ueberauth/guardian_db)/260 | Guardian DB integration for tracking tokens and ensuring logout cannot be replayed. |
+| 308 | 85 | 3 | 4 days ago | [guardian_db](https://github.com/ueberauth/guardian_db)/260 | Guardian DB integration for tracking tokens and ensuring logout cannot be replayed. |
 | 307 | 47 | 6 | 1 year, 1 month ago | [elixir-scrape](https://github.com/Anonyfox/elixir-scrape)/261 | Scrape any website, article or RSS/Atom Feed with ease! |
 | 306 | 25 | 37 | 1 year, 5 months ago | [annon.api](https://github.com/Nebo15/annon.api)/262 | Configurable API gateway that acts as a reverse proxy with a plugin system. |
 | 306 | 51 | 10 | 4 years ago | [nectarcommerce](https://github.com/vinsol/nectarcommerce)/263 | Quest for customizable E-commerce - the Elixir way |
 | 305 | 70 | 21 | 4 years ago | [phoenix_guardian](https://github.com/hassox/phoenix_guardian)/264 | A demo application showing usage of guardian and ueberauth |
 | 303 | 85 | 21 | 11 days ago | [open_api_spex](https://github.com/open-api-spex/open_api_spex)/265 | Open API Specifications for Elixir Plug applications |
-| 303 | 17 | 7 | Unknown | [contex](https://github.com/mindok/contex)/266 | Charting and graphing library for Elixir |
+| 303 | 17 | 7 | a month ago | [contex](https://github.com/mindok/contex)/266 | Charting and graphing library for Elixir |
 | 302 | 12 | 4 | a day ago | [hammox](https://github.com/msz/hammox)/267 | 🏝 automated contract testing via type checking for Elixir functions and mocks |
 | 301 | 16 | 3 | 12 hours ago | [opus](https://github.com/zorbash/opus)/268 | A framework for pluggable business logic components |
 | 301 | 46 | 0 | 4 days ago | [lifelong-learning](https://github.com/daryllxd/lifelong-learning)/269 | ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product |
-| 296 | 26 | 16 | Unknown | [Ace](https://github.com/CrowdHailer/Ace)/270 | HTTP web server and client, supports http1 and http2 |
+| 296 | 26 | 16 | 4 months ago | [Ace](https://github.com/CrowdHailer/Ace)/270 | HTTP web server and client, supports http1 and http2 |
 | 295 | 101 | 1 | 8 days ago | [nerves_examples](https://github.com/nerves-project/nerves_examples)/271 | Small example programs using Nerves |
 | 294 | 8 | 2 | 2 years ago | [ex_top](https://github.com/utkarshkukreti/ex_top)/272 | ExTop is an interactive monitor for the Erlang VM written in Elixir. |
-| 292 | 12 | 6 | Unknown | [textdb](https://github.com/bontaq/textdb)/273 | The whole shaboodle for textdb, a simple data sharing service |
-| 292 | 60 | 4 | Unknown | [gettext](https://github.com/elixir-gettext/gettext)/274 | Internationalization and localization support for Elixir. |
+| 292 | 12 | 6 | 14 days ago | [textdb](https://github.com/bontaq/textdb)/273 | The whole shaboodle for textdb, a simple data sharing service |
+| 292 | 60 | 4 | a month ago | [gettext](https://github.com/elixir-gettext/gettext)/274 | Internationalization and localization support for Elixir. |
 | 291 | 94 | 0 | 7 days ago | [phoenix_ecto](https://github.com/phoenixframework/phoenix_ecto)/275 | Phoenix and Ecto integration with support for concurrent acceptance testing |
 | 290 | 32 | 11 | 9 months ago | [riffed](https://github.com/pinterest/riffed)/276 | Provides idiomatic Elixir bindings for Apache Thrift |
-| 288 | 43 | 15 | Unknown | [libgraph](https://github.com/bitwalker/libgraph)/277 | A graph data structure library for Elixir projects |
+| 288 | 43 | 15 | 2 months ago | [libgraph](https://github.com/bitwalker/libgraph)/277 | A graph data structure library for Elixir projects |
 | 287 | 41 | 12 | 1 year, 1 month ago | [phoenix_slime](https://github.com/slime-lang/phoenix_slime)/278 | Phoenix Template Engine for Slime |
 | 287 | 110 | 13 | a month ago | [ex_twilio](https://github.com/danielberkompas/ex_twilio)/279 | Twilio API client for Elixir |
 | 284 | 12 | 1 | 3 years ago | [MonadEx](https://github.com/rob-brown/MonadEx)/280 | Upgrade your pipelines with monads. |
@@ -347,37 +347,37 @@
 | 232 | 15 | 2 | a month ago | [etso](https://github.com/evadne/etso)/344 | Ecto 3 adapter allowing use of Ecto schemas held in ETS tables |
 | 232 | 24 | 2 | a month ago | [connection](https://github.com/elixir-ecto/connection)/345 | Connection behaviour for connection processes |
 | 231 | 61 | 21 | 6 days ago | [absinthe_phoenix](https://github.com/absinthe-graphql/absinthe_phoenix)/346 | None |
-| 231 | 54 | 13 | 11 months ago | [statix](https://github.com/lexmag/statix)/347 | Fast and reliable Elixir client for StatsD-compatible servers |
-| 231 | 23 | 6 | 3 months ago | [erlangelist](https://github.com/sasa1977/erlangelist)/348 | Source code of The Erlangelist blog |
-| 231 | 10 | 3 | 2 months ago | [scribe](https://github.com/codedge-llc/scribe)/349 | Pretty print tables of Elixir structs and maps |
-| 229 | 9 | 1 | 2 years ago | [focus](https://github.com/tpoulsen/focus)/350 | Lightweight Elixir lenses |
+| 231 | 54 | 13 | Unknown | [statix](https://github.com/lexmag/statix)/347 | Fast and reliable Elixir client for StatsD-compatible servers |
+| 231 | 23 | 6 | Unknown | [erlangelist](https://github.com/sasa1977/erlangelist)/348 | Source code of The Erlangelist blog |
+| 231 | 10 | 3 | Unknown | [scribe](https://github.com/codedge-llc/scribe)/349 | Pretty print tables of Elixir structs and maps |
+| 229 | 9 | 1 | Unknown | [focus](https://github.com/tpoulsen/focus)/350 | Lightweight Elixir lenses |
 | 229 | 36 | 11 | 2 years ago | [gutenex](https://github.com/tyre/gutenex)/351 | Native PDF generation for Elixir |
-| 228 | 14 | 9 | 4 years ago | [exconstructor](https://github.com/appcues/exconstructor)/352 | An Elixir library for generating struct constructors that handle external data with ease. |
+| 228 | 14 | 9 | Unknown | [exconstructor](https://github.com/appcues/exconstructor)/352 | An Elixir library for generating struct constructors that handle external data with ease. |
 | 227 | 19 | 14 | 3 months ago | [learn-elasticsearch](https://github.com/dwyl/learn-elasticsearch)/353 | :mag: Learn how to use ElasticSearch to power a great search experience for your project/product/website. |
-| 226 | 46 | 2 | 3 months ago | [ethereumex](https://github.com/mana-ethereum/ethereumex)/354 | Elixir JSON-RPC client for the Ethereum blockchain |
+| 226 | 46 | 2 | Unknown | [ethereumex](https://github.com/mana-ethereum/ethereumex)/354 | Elixir JSON-RPC client for the Ethereum blockchain |
 | 226 | 81 | 3 | 6 days ago | [db_connection](https://github.com/elixir-ecto/db_connection)/355 | Database connection behaviour |
 | 226 | 30 | 32 | 1 year, 10 months ago | [timber-elixir](https://github.com/timberio/timber-elixir)/356 | 🌲 Great Elixir logging made easy |
 | 225 | 41 | 38 | 1 year, 5 months ago | [mana](https://github.com/mana-ethereum/mana)/357 | Ethereum full node implementation written in Elixir. |
 | 224 | 41 | 31 | 8 months ago | [ecto_mnesia](https://github.com/Nebo15/ecto_mnesia)/358 | Ecto adapter for Mnesia Erlang term database. |
 | 223 | 17 | 0 | 3 months ago | [instruments](https://github.com/discord/instruments)/359 | Simple and Fast metrics for Elixir |
 | 223 | 45 | 4 | 6 days ago | [rollbax](https://github.com/ForzaElixir/rollbax)/360 | Exception tracking and logging from Elixir to Rollbar |
-| 223 | 31 | 4 | 12 days ago | [msgpax](https://github.com/lexmag/msgpax)/361 | High-performance and comprehensive MessagePack implementation for Elixir / msgpack.org[Elixir] |
+| 223 | 31 | 4 | Unknown | [msgpax](https://github.com/lexmag/msgpax)/361 | High-performance and comprehensive MessagePack implementation for Elixir / msgpack.org[Elixir] |
 | 223 | 11 | 2 | 2 years ago | [hashids-elixir](https://github.com/alco/hashids-elixir)/362 | Stringify your ids |
 | 222 | 60 | 19 | 29 days ago | [ex_audit](https://github.com/ZennerIoT/ex_audit)/363 | Ecto auditing library that transparently tracks changes and can revert them. |
-| 222 | 56 | 16 | 3 months ago | [tzdata](https://github.com/lau/tzdata)/364 | tzdata for Elixir. Born from the Calendar library. |
-| 219 | 27 | 6 | 26 days ago | [webbkoll](https://github.com/andersju/webbkoll)/365 | An online tool that checks how a website is doing with regards to privacy |
+| 222 | 56 | 16 | Unknown | [tzdata](https://github.com/lau/tzdata)/364 | tzdata for Elixir. Born from the Calendar library. |
+| 219 | 27 | 6 | Unknown | [webbkoll](https://github.com/andersju/webbkoll)/365 | An online tool that checks how a website is doing with regards to privacy |
 | 218 | 13 | 0 | 3 years ago | [caster](https://github.com/patrickdavey/caster)/366 | Videocasts browser |
-| 218 | 33 | 20 | 7 months ago | [policr-mini](https://github.com/Hentioe/policr-mini)/367 | 更加现代的 Policr 迷你版 |
-| 216 | 98 | 3 | 15 hours ago | [aws-elixir](https://github.com/aws-beam/aws-elixir)/368 | AWS clients for Elixir |
-| 216 | 40 | 0 | 3 months ago | [elixir-json](https://github.com/cblage/elixir-json)/369 | Native JSON library for Elixir |
-| 214 | 22 | 2 | 4 years ago | [ex-shop](https://github.com/bharani91/ex-shop)/370 | Digital goods shop & blog created using Elixir (Phoenix framework) |
+| 218 | 33 | 20 | Unknown | [policr-mini](https://github.com/Hentioe/policr-mini)/367 | 更加现代的 Policr 迷你版 |
+| 216 | 98 | 3 | Unknown | [aws-elixir](https://github.com/aws-beam/aws-elixir)/368 | AWS clients for Elixir |
+| 216 | 40 | 0 | Unknown | [elixir-json](https://github.com/cblage/elixir-json)/369 | Native JSON library for Elixir |
+| 214 | 22 | 2 | Unknown | [ex-shop](https://github.com/bharani91/ex-shop)/370 | Digital goods shop & blog created using Elixir (Phoenix framework) |
 | 214 | 20 | 24 | 2 days ago | [coderplanets_server](https://github.com/coderplanets/coderplanets_server)/371 | coderplanets.com API(GraphQL) server,   build with elixir, phoenix, absinthe |
-| 213 | 17 | 7 | 6 years ago | [atlas](https://github.com/chrismccord/atlas)/372 | Object Relational Mapper for Elixir |
-| 211 | 121 | 48 | 6 days ago | [codebattle](https://github.com/hexlet-codebattle/codebattle)/373 | Codebattle game  |
+| 213 | 17 | 7 | Unknown | [atlas](https://github.com/chrismccord/atlas)/372 | Object Relational Mapper for Elixir |
+| 211 | 121 | 48 | Unknown | [codebattle](https://github.com/hexlet-codebattle/codebattle)/373 | Codebattle game  |
 | 210 | 115 | 3 | 13 hours ago | [absinthe_plug](https://github.com/absinthe-graphql/absinthe_plug)/374 | Plug support for Absinthe, the GraphQL toolkit for Elixir |
 | 209 | 55 | 2 | 5 months ago | [phoenix_live_reload](https://github.com/phoenixframework/phoenix_live_reload)/375 | Provides live-reload functionality for Phoenix |
 | 208 | 12 | 5 | 4 years ago | [loom](https://github.com/asonge/loom)/376 | A CRDT library with δ-CRDT support. |
-| 208 | 39 | 47 | 2 years ago | [elixir-node](https://github.com/aeternity/elixir-node)/377 | Elixir full node implementation of the aeternity specification |
+| 208 | 39 | 47 | Unknown | [elixir-node](https://github.com/aeternity/elixir-node)/377 | Elixir full node implementation of the aeternity specification |
 | 208 | 32 | 0 | 3 years ago | [openmaize](https://github.com/riverrun/openmaize)/378 | Authentication library for Plug-based applications in Elixir |
 | 207 | 34 | 6 | 6 days ago | [bolt_sips](https://github.com/florinpatrascu/bolt_sips)/379 | Neo4j driver for Elixir |
 | 207 | 25 | 3 | 4 years ago | [cowboy-elixir-example](https://github.com/IdahoEv/cowboy-elixir-example)/380 | Examples of using Cowboy with Elixir |
@@ -385,14 +385,14 @@
 | 206 | 32 | 19 | 2 years ago | [kerosene](https://github.com/elixirdrops/kerosene)/382 | Pagination for Ecto and Pheonix. |
 | 206 | 54 | 101 | 16 days ago | [elixir-omg](https://github.com/omgnetwork/elixir-omg)/383 | OMG-Network repository of Watcher and Watcher Info |
 | 206 | 18 | 5 | 1 year, 11 months ago | [formex](https://github.com/jakub-zawislak/formex)/384 | A better form library for Phoenix |
-| 204 | 14 | 5 | 1 year, 1 month ago | [observer_live](https://github.com/zorbash/observer_live)/385 | A port of observer_cli using LiveView |
-| 203 | 17 | 2 | 4 years ago | [elixir-datastructures](https://github.com/meh/elixir-datastructures)/386 | Datastructures for Elixir. |
+| 204 | 14 | 5 | Unknown | [observer_live](https://github.com/zorbash/observer_live)/385 | A port of observer_cli using LiveView |
+| 203 | 17 | 2 | Unknown | [elixir-datastructures](https://github.com/meh/elixir-datastructures)/386 | Datastructures for Elixir. |
 | 202 | 20 | 1 | 1 year, 23 days ago | [mix_phx_gen_auth_demo](https://github.com/dashbitco/mix_phx_gen_auth_demo)/387 | Example repository for mix phx.gen.auth |
 | 201 | 6 | 1 | 3 months ago | [power_assert_ex](https://github.com/ma2gedev/power_assert_ex)/388 | Power Assert in Elixir. Shows evaluation results each expression. |
 | 200 | 6 | 1 | 16 days ago | [ex_check](https://github.com/karolsluszniak/ex_check)/389 | One task to efficiently run all code analysis & testing tools in an Elixir project. Born out of 💜 to Elixir and pragmatism. |
 | 200 | 19 | 3 | 10 months ago | [phoenix_integration](https://github.com/boydm/phoenix_integration)/390 | Lightweight server side integration test tools for Phoenix |
 | 200 | 28 | 30 | 3 years ago | [amrita](https://github.com/josephwilk/amrita)/391 | A polite, well mannered and thoroughly upstanding testing framework for Elixir |
-| 199 | 58 | 14 | 2 years ago | [elixir-china](https://github.com/zhew2013/elixir-china)/392 | 这个项目因为时间原因已经暂停维护 |
+| 199 | 58 | 14 | Unknown | [elixir-china](https://github.com/zhew2013/elixir-china)/392 | 这个项目因为时间原因已经暂停维护 |
 | 199 | 35 | 17 | 5 months ago | [white-bread](https://github.com/meadery/white-bread)/393 | 🍞 Story BDD tool for elixir using gherkin |
 | 198 | 62 | 5 | 13 hours ago | [elixir_agent](https://github.com/newrelic/elixir_agent)/394 | New Relic's Open Source Elixir Agent |
 | 197 | 80 | 2 | a day ago | [goth](https://github.com/peburrows/goth)/395 | Elixir package for Oauth authentication via Google Cloud APIs |
@@ -400,7 +400,7 @@
 | 195 | 21 | 7 | 3 months ago | [saxy](https://github.com/qcam/saxy)/397 | A fast, easy-to-use and XML 1.0 compliant XML SAX parser in Elixir |
 | 194 | 50 | 11 | 3 years ago | [riak-elixir-client](https://github.com/drewkerrigan/riak-elixir-client)/398 | A Riak client written in Elixir. |
 | 193 | 31 | 16 | 2 years ago | [task_bunny](https://github.com/shinyscorpion/task_bunny)/399 | TaskBunny is a background processing application written in Elixir and uses RabbitMQ as a messaging backend |
-| 192 | 34 | 5 | 8 months ago | [rummage_ecto](https://github.com/annkissam/rummage_ecto)/400 | Search, Sort and Pagination for ecto queries |
+| 192 | 34 | 5 | Unknown | [rummage_ecto](https://github.com/annkissam/rummage_ecto)/400 | Search, Sort and Pagination for ecto queries |
 | 192 | 4 | 1 | 3 years ago | [shorter_maps](https://github.com/meyercm/shorter_maps)/401 | Elixir ~M sigil for map shorthand. `~M{id, name} ~> %{id: id, name: name}` |
 | 191 | 14 | 7 | 3 years ago | [alchemist-server](https://github.com/tonini/alchemist-server)/402 | Editor/IDE independent background server to inform about Elixir mix projects |
 | 191 | 15 | 30 | 30 days ago | [bonny](https://github.com/coryodaniel/bonny)/403 | The Elixir based Kubernetes Development Framework |
@@ -413,7 +413,7 @@
 | 186 | 32 | 2 | 2 months ago | [mini_repo](https://github.com/wojtekmach/mini_repo)/410 | MiniRepo allows self-hosting of Hex packages. |
 | 186 | 12 | 0 | a month ago | [exop](https://github.com/madeinussr/exop)/411 | Elixir library that provides macros which allow you to encapsulate business logic and validate incoming parameters with predefined contract. |
 | 186 | 22 | 3 | a month ago | [number](https://github.com/danielberkompas/number)/412 | ActionView::Helpers::NumberHelper for Elixir |
-| 185 | 8 | 0 | 8 days ago | [nimble_publisher](https://github.com/dashbitco/nimble_publisher)/413 | A minimal filesystem-based publishing engine with Markdown support and code highlighting |
+| 185 | 8 | 0 | 9 days ago | [nimble_publisher](https://github.com/dashbitco/nimble_publisher)/413 | A minimal filesystem-based publishing engine with Markdown support and code highlighting |
 | 184 | 40 | 5 | a day ago | [myxql](https://github.com/elixir-ecto/myxql)/414 | MySQL 5.5+ driver for Elixir |
 | 184 | 35 | 20 | 4 years ago | [calliope](https://github.com/nurugger07/calliope)/415 | An elixir haml parser |
 | 184 | 69 | 21 | a month ago | [elixlsx](https://github.com/xou/elixlsx)/416 | An Elixir XLSX writer |
@@ -424,7 +424,7 @@
 | 182 | 16 | 15 | 10 months ago | [arbor](https://github.com/coryodaniel/arbor)/421 | Ecto elixir adjacency list and tree traversal. Supports Ecto versions 2 and 3. |
 | 182 | 67 | 51 | 1 year, 3 days ago | [inch_ex](https://github.com/rrrene/inch_ex)/422 | Provides a Mix task that gives you hints where to improve your inline docs. |
 | 182 | 18 | 0 | 5 years ago | [seat_saver](https://github.com/CultivateHQ/seat_saver)/423 | Phoenix and Elm combined! |
-| 181 | 18 | 0 | 14 hours ago | [cldr](https://github.com/elixir-cldr/cldr)/424 | Elixir implementation of CLDR/ICU |
+| 181 | 18 | 0 | 15 hours ago | [cldr](https://github.com/elixir-cldr/cldr)/424 | Elixir implementation of CLDR/ICU |
 | 181 | 67 | 5 | a month ago | [ueberauth_example](https://github.com/ueberauth/ueberauth_example)/425 | Example Phoenix application using Überauth for authentication |
 | 181 | 16 | 1 | 4 years ago | [elixir_poolboy_example](https://github.com/thestonefox/elixir_poolboy_example)/426 | An example and brief explanation on how to use Poolboy to manage and pool workers in Elixir |
 | 181 | 53 | 14 | 8 months ago | [html_sanitize_ex](https://github.com/rrrene/html_sanitize_ex)/427 | HTML sanitizer for Elixir |
@@ -460,10 +460,10 @@
 | 169 | 48 | 63 | 2 days ago | [reticulum](https://github.com/mozilla/reticulum)/457 | Phoenix web server for hubs.mozilla.com |
 | 168 | 13 | 4 | 4 years ago | [blacksmith](https://github.com/batate/blacksmith)/458 | Data generation framework for Elixir |
 | 167 | 18 | 15 | 10 months ago | [phoenix-ecto-encryption-example](https://github.com/dwyl/phoenix-ecto-encryption-example)/459 | 🔐 A detailed example for how to encrypt data in a Phoenix (Elixir) App before inserting into a database using Ecto Types |
-| 167 | 16 | 15 | a day ago | [elixir_sense](https://github.com/elixir-lsp/elixir_sense)/460 | Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more |
+| 167 | 16 | 15 | 2 days ago | [elixir_sense](https://github.com/elixir-lsp/elixir_sense)/460 | Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more |
 | 166 | 20 | 10 | 18 days ago | [linguist](https://github.com/change/linguist)/461 | Elixir Internationalization library |
 | 166 | 28 | 22 | 3 months ago | [k8s](https://github.com/coryodaniel/k8s)/462 | Kubernetes API Client for Elixir |
-| 164 | 6 | 4 | 21 hours ago | [mobilizon](https://github.com/framasoft/mobilizon)/463 | Gather, organize and mobilize yourselves with a convivial, ethical, and emancipating tool. |
+| 164 | 6 | 4 | 22 hours ago | [mobilizon](https://github.com/framasoft/mobilizon)/463 | Gather, organize and mobilize yourselves with a convivial, ethical, and emancipating tool. |
 | 164 | 26 | 3 | 1 year, 2 days ago | [short_url](https://github.com/imfycc/short_url)/464 | 🔗 short url app elixir Phoenix |
 | 163 | 9 | 17 | 3 years ago | [elixir-on-docker](https://github.com/CrowdHailer/elixir-on-docker)/465 | Quickly get started developing clustered Elixir applications for cloud environments. |
 | 163 | 10 | 47 | 2 years ago | [talon](https://github.com/talonframework/talon)/466 | An app builder framework for Phoenix |
@@ -497,13 +497,13 @@
 | 153 | 25 | 10 | 6 months ago | [mipha](https://github.com/zven21/mipha)/494 | Proj Elixir Forum build with phoenix 1.5. |
 | 152 | 3 | 2 | 4 months ago | [plexy](https://github.com/heroku/plexy)/495 | A toolkit for building excellent APIs with Elixir |
 | 152 | 15 | 2 | 6 days ago | [geolix](https://github.com/elixir-geolix/geolix)/496 | IP information lookup provider |
-| 151 | 19 | 99 | 15 hours ago | [astarte](https://github.com/astarte-platform/astarte)/497 | Core Astarte Repository |
+| 151 | 19 | 99 | 16 hours ago | [astarte](https://github.com/astarte-platform/astarte)/497 | Core Astarte Repository |
 | 150 | 41 | 9 | 4 years ago | [phoenix_haml](https://github.com/chrismccord/phoenix_haml)/498 | Phoenix Template Engine for Haml |
 | 150 | 11 | 1 | 3 months ago | [exprof](https://github.com/parroty/exprof)/499 | A simple code profiler for Elixir using eprof. |
 | 149 | 26 | 5 | 2 years ago | [slugger](https://github.com/h4cc/slugger)/500 | A Slugger for elixir. |
 | 149 | 4 | 0 | 11 months ago | [mix_audit](https://github.com/mirego/mix_audit)/501 | 🕵️‍♀️ MixAudit provides a mix deps.audit task to scan a project Mix dependencies for known Elixir security vulnerabilities |
 | 148 | 18 | 17 | 3 years ago | [Dayron](https://github.com/inaka/Dayron)/502 | A repository `similar` to Ecto.Repo that maps to an underlying http client, sending requests to an external rest api instead of a database |
-| 148 | 25 | 19 | 13 hours ago | [captain-fact-api](https://github.com/CaptainFact/captain-fact-api)/503 | 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io |
+| 148 | 25 | 19 | 14 hours ago | [captain-fact-api](https://github.com/CaptainFact/captain-fact-api)/503 | 🔎 CaptainFact - API. The one that serves and process all the data for https://captainfact.io |
 | 147 | 7 | 1 | 3 years ago | [faker-elixir](https://github.com/GesJeremie/faker-elixir)/504 | :droplet: FakerElixir generates fake data for you.  |
 | 146 | 26 | 0 | a day ago | [phoenix_swoosh](https://github.com/swoosh/phoenix_swoosh)/505 | Swoosh <3 Phoenix |
 | 146 | 26 | 12 | 2 months ago | [gen_rmq](https://github.com/meltwater/gen_rmq)/506 | Elixir AMQP consumer and publisher behaviours |
@@ -520,7 +520,7 @@
 | 142 | 18 | 3 | 3 months ago | [local-cluster](https://github.com/whitfin/local-cluster)/517 | Easy local cluster creation for Elixir to aid in unit testing |
 | 142 | 6 | 7 | 10 days ago | [keila](https://github.com/pentacent/keila)/518 | Open Source Newsletter Tool. |
 | 142 | 52 | 2 | 2 months ago | [phoenix_pubsub_redis](https://github.com/phoenixframework/phoenix_pubsub_redis)/519 | The Redis PubSub adapter for the Phoenix framework |
-| 141 | 7 | 3 | 22 hours ago | [wasmex](https://github.com/tessi/wasmex)/520 | Execute WebAssembly / WASM from Elixir |
+| 141 | 7 | 3 | 23 hours ago | [wasmex](https://github.com/tessi/wasmex)/520 | Execute WebAssembly / WASM from Elixir |
 | 141 | 6 | 2 | 4 months ago | [gearbox](https://github.com/edisonywh/gearbox)/521 | ⚙️ Gearbox is a functional state machine with an easy-to-use API, inspired by both Fsm and Machinery |
 | 140 | 26 | 5 | 2 days ago | [ex_phone_number](https://github.com/socialpaymentsbv/ex_phone_number)/522 | Elixir port of libphonenumber |
 | 140 | 6 | 0 | 4 years ago | [registry](https://github.com/elixir-lang/registry)/523 | A local, decentralized and scalable key-value process storage - merged into Elixir v1.4 |
@@ -561,8 +561,8 @@
 | 128 | 9 | 12 | 1 year, 1 month ago | [rexbug](https://github.com/nietaki/rexbug)/558 | A thin Elixir wrapper for the redbug Erlang tracing debugger. |
 | 128 | 15 | 3 | 5 years ago | [phoenix-react-redux-template](https://github.com/bigardone/phoenix-react-redux-template)/559 | Application template for SPAs with Phoenix, React and Redux |
 | 128 | 19 | 6 | 17 days ago | [assent](https://github.com/pow-auth/assent)/560 | Multi-provider framework in Elixir |
-| 125 | 32 | 3 | 1 year, 11 months ago | [plug_logger_json](https://github.com/bleacherreport/plug_logger_json)/561 | Elixir Plug that formats http request logs as json |
-| 125 | 16 | 2 | 3 years ago | [boltun](https://github.com/bitgamma/boltun)/562 | Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution |
+| 125 | 16 | 2 | 3 years ago | [boltun](https://github.com/bitgamma/boltun)/561 | Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution |
+| 125 | 32 | 3 | 1 year, 11 months ago | [plug_logger_json](https://github.com/bleacherreport/plug_logger_json)/562 | Elixir Plug that formats http request logs as json |
 | 125 | 35 | 4 | 3 years ago | [crutches](https://github.com/mykewould/crutches)/563 | Some Elixir support |
 | 125 | 10 | 3 | 5 years ago | [nova](https://github.com/andreapavoni/nova)/564 | An attempt to port/rebuild Spree, an open source e-commerce solution, with Elixir and Phoenix. |
 | 125 | 9 | 5 | 4 years ago | [plug_graphql](https://github.com/graphql-elixir/plug_graphql)/565 | Plug (Phoenix) integration for GraphQL Elixir  |
@@ -573,8 +573,8 @@
 | 122 | 8 | 7 | a month ago | [phoenix-diff](https://github.com/navinpeiris/phoenix-diff)/570 | See the changes needed when upgrading an Elixir Phoenix application |
 | 122 | 29 | 3 | a day ago | [bob](https://github.com/hexpm/bob)/571 | The Builder |
 | 121 | 13 | 0 | 5 years ago | [relax](https://github.com/AgilionApps/relax)/572 | Simple Elixir implementation of a jsonapi.org server. |
-| 121 | 31 | 3 | 22 hours ago | [broadway_rabbitmq](https://github.com/dashbitco/broadway_rabbitmq)/573 | A Broadway producer for RabbitMQ |
-| 121 | 34 | 76 | 4 hours ago | [glimesh.tv](https://github.com/Glimesh/glimesh.tv)/574 | Glimesh is a next generation live streaming platform built by the community, for the community. |
+| 121 | 31 | 3 | 23 hours ago | [broadway_rabbitmq](https://github.com/dashbitco/broadway_rabbitmq)/573 | A Broadway producer for RabbitMQ |
+| 121 | 34 | 76 | 5 hours ago | [glimesh.tv](https://github.com/Glimesh/glimesh.tv)/574 | Glimesh is a next generation live streaming platform built by the community, for the community. |
 | 121 | 10 | 1 | 25 days ago | [type_class](https://github.com/witchcrafters/type_class)/575 | (Semi-)principled type classes for Elixir |
 | 121 | 16 | 3 | 10 months ago | [elixir-telegram-bot-boilerplate](https://github.com/lubien/elixir-telegram-bot-boilerplate)/576 | A boilerplate for making telegram bots with Elixir and Nadia |
 | 120 | 12 | 7 | 6 months ago | [skooma](https://github.com/bobfp/skooma)/577 | Elixir data validation library |
@@ -656,8 +656,8 @@
 | 103 | 3 | 5 | 1 year, 8 months ago | [maestro](https://github.com/toniqsystems/maestro)/653 | an event store + cqrs |
 | 103 | 18 | 0 | a month ago | [nabo](https://github.com/qcam/nabo)/654 | Nabo (納博) - dead simple blog engine |
 | 103 | 17 | 0 | 2 years ago | [evm](https://github.com/exthereum/evm)/655 | Ethereum's Virtual Machine, in all its glory |
-| 102 | 24 | 19 | 2 years ago | [cabbage](https://github.com/cabbage-ex/cabbage)/656 | Story BDD tool for executing elixir in ExUnit |
-| 102 | 14 | 4 | 30 days ago | [ex_gram](https://github.com/rockneurotiko/ex_gram)/657 | Telegram Bot API low level API and framework |
+| 102 | 14 | 4 | 30 days ago | [ex_gram](https://github.com/rockneurotiko/ex_gram)/656 | Telegram Bot API low level API and framework |
+| 102 | 24 | 19 | 2 years ago | [cabbage](https://github.com/cabbage-ex/cabbage)/657 | Story BDD tool for executing elixir in ExUnit |
 | 102 | 31 | 8 | 5 years ago | [elixir-mongo](https://github.com/checkiz/elixir-mongo)/658 | MongoDB driver for Elixir |
 | 102 | 5 | 3 | 2 years ago | [decompile](https://github.com/michalmuskala/decompile)/659 | None |
 | 102 | 11 | 0 | 15 days ago | [kandesk](https://github.com/seb3s/kandesk)/660 | Simple Kanban application written in elixir using phoenix liveview |
@@ -673,7 +673,7 @@
 | 100 | 6 | 4 | 22 days ago | [rambo](https://github.com/jayjun/rambo)/670 | Run your command. Send input. Get output. |
 | 99 | 9 | 0 | 2 days ago | [protox](https://github.com/ahamez/protox)/671 | A fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers (aka protobuf) |
 | 98 | 21 | 1 | 2 years ago | [tanx](https://github.com/ElixirSeattle/tanx)/672 | Tank game created by the Programming Elixir study group |
-| 98 | 6 | 11 | 9 hours ago | [still](https://github.com/still-ex/still)/673 | A composable Elixir static site generator |
+| 98 | 6 | 11 | 10 hours ago | [still](https://github.com/still-ex/still)/673 | A composable Elixir static site generator |
 | 98 | 22 | 0 | a month ago | [exsync](https://github.com/falood/exsync)/674 | Yet another elixir reloader. |
 | 98 | 12 | 4 | 8 months ago | [phoenix_live_react](https://github.com/fidr/phoenix_live_react)/675 | Render React.js components in Phoenix LiveView views |
 | 98 | 5 | 2 | 1 year, 11 months ago | [exrun](https://github.com/liveforeverx/exrun)/676 | Runtime and debugging tools for elixir |
@@ -702,18 +702,18 @@
 | 93 | 6 | 3 | 3 days ago | [doctor](https://github.com/akoutmos/doctor)/699 | Ensure that your Elixir project documentation is healthy |
 | 93 | 30 | 3 | 4 years ago | [taking-off](https://github.com/bigmachine-io/taking-off)/700 | None |
 | 93 | 14 | 1 | 4 years ago | [exnn](https://github.com/zampino/exnn)/701 | An Elixir Evolutive Neural Network framework à la G.Sher |
-| 93 | 11 | 7 | 9 hours ago | [adoptoposs](https://github.com/adoptoposs/adoptoposs)/702 | Finding co-maintainers for your open source software project. |
+| 93 | 11 | 7 | 10 hours ago | [adoptoposs](https://github.com/adoptoposs/adoptoposs)/702 | Finding co-maintainers for your open source software project. |
 | 93 | 21 | 9 | 2 years ago | [sitemap](https://github.com/ikeikeikeike/sitemap)/703 | Sitemap is the easiest way to generate Sitemaps in Elixir. |
 | 92 | 4 | 0 | 3 years ago | [gen_metrics](https://github.com/onetapbeyond/gen_metrics)/704 | Elixir GenServer and GenStage runtime metrics. |
 | 93 | 8 | 3 | 3 days ago | [betterdev.link](https://github.com/yeo/betterdev.link)/705 | Links to improve programing skill |
 | 93 | 20 | 11 | 2 months ago | [cloak_ecto](https://github.com/danielberkompas/cloak_ecto)/706 | Encrypted fields for Ecto |
-| 92 | 37 | 9 | 1 year, 5 months ago | [recaptcha](https://github.com/samueljseay/recaptcha)/707 | A simple reCaptcha 2 library for Elixir applications. |
-| 92 | 20 | 10 | 3 years ago | [phoenix-starter](https://github.com/iNeedThis/phoenix-starter)/708 | A kickstarter for the Phoenix Framework. |
-| 92 | 1 | 1 | 2 years ago | [bunyan](https://github.com/bunyan-logger/bunyan)/709 | The all-plugins-included package of the Bunyan distributed and pluggable logging system. |
-| 92 | 21 | 2 | 1 year, 4 months ago | [topo](https://github.com/pkinney/topo)/710 | A Geometry library for Elixir that calculates spatial relationships between two geometries |
-| 92 | 30 | 11 | 1 year, 1 month ago | [ex_crypto](https://github.com/ntrepid8/ex_crypto)/711 | Wrapper around the Erlang crypto module for Elixir. |
-| 92 | 2 | 1 | 8 months ago | [skogsra](https://github.com/gmtprime/skogsra)/712 | Library to manage OS environment variables and application configuration options with ease |
-| 92 | 10 | 2 | 11 months ago | [states_language](https://github.com/entropealabs/states_language)/713 | Declaratively design state machines that compile to Elixir based :gen_statem processes with the StatesLanguage JSON specification |
+| 93 | 10 | 2 | 11 months ago | [states_language](https://github.com/entropealabs/states_language)/707 | Declaratively design state machines that compile to Elixir based :gen_statem processes with the StatesLanguage JSON specification |
+| 92 | 37 | 9 | 1 year, 5 months ago | [recaptcha](https://github.com/samueljseay/recaptcha)/708 | A simple reCaptcha 2 library for Elixir applications. |
+| 92 | 20 | 10 | 3 years ago | [phoenix-starter](https://github.com/iNeedThis/phoenix-starter)/709 | A kickstarter for the Phoenix Framework. |
+| 92 | 1 | 1 | 2 years ago | [bunyan](https://github.com/bunyan-logger/bunyan)/710 | The all-plugins-included package of the Bunyan distributed and pluggable logging system. |
+| 92 | 21 | 2 | 1 year, 4 months ago | [topo](https://github.com/pkinney/topo)/711 | A Geometry library for Elixir that calculates spatial relationships between two geometries |
+| 92 | 30 | 11 | 1 year, 1 month ago | [ex_crypto](https://github.com/ntrepid8/ex_crypto)/712 | Wrapper around the Erlang crypto module for Elixir. |
+| 92 | 2 | 1 | 8 months ago | [skogsra](https://github.com/gmtprime/skogsra)/713 | Library to manage OS environment variables and application configuration options with ease |
 | 91 | 19 | 16 | 4 years ago | [ecto_state_machine](https://github.com/asiniy/ecto_state_machine)/714 | State machine pattern for Ecto |
 | 91 | 7 | 2 | 2 days ago | [memento](https://github.com/fully-forged/memento)/715 | Collect saved items from different sources around the web |
 | 91 | 12 | 12 | 4 months ago | [formulator](https://github.com/thoughtbot/formulator)/716 | A form library for Phoenix |
@@ -780,7 +780,7 @@
 | 83 | 4 | 1 | 9 months ago | [plasm](https://github.com/facto/plasm)/777 | Ecto's composable query multitool (.count, .random, .earliest, .latest, .find, .at, .on, etc.) |
 | 83 | 10 | 3 | a month ago | [ayesql](https://github.com/alexdesousa/ayesql)/778 | Library for using raw SQL in Elixir |
 | 82 | 15 | 5 | 1 year, 7 months ago | [puppeteer-pdf](https://github.com/coletiv/puppeteer-pdf)/779 | PDF generation wrapper for Elixir using Puppeteer |
-| 82 | 4 | 0 | 18 hours ago | [req](https://github.com/wojtekmach/req)/780 | An HTTP client with a focus on composability, built on top of Finch. |
+| 82 | 4 | 0 | 19 hours ago | [req](https://github.com/wojtekmach/req)/780 | An HTTP client with a focus on composability, built on top of Finch. |
 | 82 | 7 | 6 | 2 years ago | [dialyze](https://github.com/fishcakez/dialyze)/781 | Mix dialyzer task |
 | 82 | 13 | 5 | 2 years ago | [ecto-cassandra](https://github.com/cafebazaar/ecto-cassandra)/782 | Cassandra Ecto Adapter |
 | 82 | 16 | 5 | 7 days ago | [elixir_jobs](https://github.com/odarriba/elixir_jobs)/783 | A job board to publish and find Elixir offers. |
@@ -810,8 +810,8 @@
 | 79 | 22 | 0 | 4 years ago | [advanced_elixir](https://github.com/straightdave/advanced_elixir)/807 | Elixir的高级知识：OTP编程（也是入门） |
 | 79 | 9 | 0 | 4 months ago | [eqc_ex](https://github.com/Quviq/eqc_ex)/808 | QuickCheck for Elixir |
 | 79 | 10 | 5 | 3 years ago | [razor](https://github.com/carbonfive/razor)/809 | Phoenix application generator that builds applications with the common C5 customization stuff already done. |
-| 79 | 19 | 0 | 1 year, 2 months ago | [elixtagram](https://github.com/Zensavona/elixtagram)/810 | :camera: Instagram API client for the Elixir language (elixir-lang) |
-| 79 | 3 | 5 | 21 days ago | [pushex](https://github.com/pushex-project/pushex)/811 | Phoenix-based websocket push implementation |
+| 79 | 3 | 5 | 21 days ago | [pushex](https://github.com/pushex-project/pushex)/810 | Phoenix-based websocket push implementation |
+| 79 | 19 | 0 | 1 year, 2 months ago | [elixtagram](https://github.com/Zensavona/elixtagram)/811 | :camera: Instagram API client for the Elixir language (elixir-lang) |
 | 78 | 21 | 7 | 9 months ago | [exmoji](https://github.com/mroth/exmoji)/812 | :sunglasses: Emoji encoding swiss army knife for Elixir/Erlang |
 | 78 | 8 | 42 | 5 months ago | [radiator](https://github.com/podlove/radiator)/813 | Podcast Hosting & Publishing | The spark ✨ that lights the fire 🔥 |
 | 78 | 24 | 2 | 3 years ago | [neo4j_sips](https://github.com/florinpatrascu/neo4j_sips)/814 | Elixir driver for the Neo4j graph database server |
@@ -821,8 +821,8 @@
 | 78 | 6 | 1 | 4 years ago | [repg2](https://github.com/ericentin/repg2)/818 | A translation of the original Erlang pg2 implementation to Elixir for educational purposes. |
 | 77 | 20 | 8 | 3 months ago | [desafios](https://github.com/lambda-study-group/desafios)/819 | FP Challenges |
 | 77 | 0 | 0 | a month ago | [hush](https://github.com/gordalina/hush)/820 | Runtime configuration loader extensible with providers |
-| 77 | 9 | 6 | 6 months ago | [wormwood](https://github.com/tinfoil/wormwood)/821 | Wormwood is a tiny library to aid in testing GraphQL queries against an Absinthe schema. It allows you to test your query documents inside ExUnit test modules, and requires no HTTP requests to occur during testing. |
-| 77 | 14 | 2 | 6 months ago | [elixir-rtmp](https://github.com/shavit/elixir-rtmp)/822 | RTMP implementation |
+| 77 | 14 | 2 | 6 months ago | [elixir-rtmp](https://github.com/shavit/elixir-rtmp)/821 | RTMP implementation |
+| 77 | 9 | 6 | 6 months ago | [wormwood](https://github.com/tinfoil/wormwood)/822 | Wormwood is a tiny library to aid in testing GraphQL queries against an Absinthe schema. It allows you to test your query documents inside ExUnit test modules, and requires no HTTP requests to occur during testing. |
 | 77 | 17 | 10 | 1 year, 3 months ago | [lucidboard](https://github.com/djthread/lucidboard)/823 | A realtime, collaborative kanban tool, built on Elixir, Phoenix, and LiveView. |
 | 77 | 9 | 1 | 6 months ago | [mockery](https://github.com/appunite/mockery)/824 | Simple mocking library for asynchronous testing in Elixir. |
 | 76 | 5 | 0 | 1 year, 11 months ago | [short_maps](https://github.com/whatyouhide/short_maps)/825 | ⚠️Retired⚠️ library that provided a ~m sigil for ES6-like map destructuring in Elixir. |
@@ -928,7 +928,7 @@
 | 68 | 59 | 5 | 9 months ago | [ueberauth_facebook](https://github.com/ueberauth/ueberauth_facebook)/925 | Facebook OAuth2 Strategy for Überauth. |
 | 68 | 4 | 3 | 4 days ago | [covid19](https://github.com/code-shoily/covid19)/926 | A Phoenix app to display Novel Coronavirus (COVID-19) |
 | 67 | 40 | 12 | 3 years ago | [logger_logstash_backend](https://github.com/marcelog/logger_logstash_backend)/927 | Logstash backend for the Elixir Logger |
-| 67 | 11 | 11 | 17 hours ago | [sanbase2](https://github.com/santiment/sanbase2)/928 | The GraphQL API server used in Sanbase, Sanapi and all services using Sanapi |
+| 67 | 11 | 11 | 18 hours ago | [sanbase2](https://github.com/santiment/sanbase2)/928 | The GraphQL API server used in Sanbase, Sanapi and all services using Sanapi |
 | 67 | 4 | 2 | 2 years ago | [neovim-elixir](https://github.com/kbrw/neovim-elixir)/929 | Neovim host plugin for Elixir (use  https://github.com/awetzel/elixir.nvim for a packaged version) |
 | 67 | 9 | 27 | 6 months ago | [ex_mustang](https://github.com/techgaun/ex_mustang)/930 | :sparkles: A simple, clueless bot |
 | 67 | 35 | 9 | a month ago | [quotes](https://github.com/dwyl/quotes)/931 | 💬 a curated list of inspiring quotes + code that returns a random quote 💡  |
@@ -937,7 +937,7 @@
 | 67 | 4 | 1 | a month ago | [mailgun_logger](https://github.com/jackjoe/mailgun_logger)/934 | Simple Mailgun persistence in Phoenix/Elixir |
 | 67 | 8 | 0 | 2 years ago | [elixir-weather](https://github.com/tacticiankerala/elixir-weather)/935 | A command line weather app built using elixir |
 | 67 | 18 | 7 | 1 year, 8 months ago | [prometheus-phoenix](https://github.com/deadtrickster/prometheus-phoenix)/936 | Prometheus.io Phoenix instrumenter |
-| 67 | 1 | 0 | 5 hours ago | [aja](https://github.com/sabiwara/aja)/937 | Extension of the Elixir standard library focused on data stuctures, data manipulation and performance |
+| 67 | 1 | 0 | 6 hours ago | [aja](https://github.com/sabiwara/aja)/937 | Extension of the Elixir standard library focused on data stuctures, data manipulation and performance |
 | 67 | 2 | 2 | 4 years ago | [elixir-remote-monitor](https://github.com/schurig/elixir-remote-monitor)/938 | ⎋ A Mix task that helps you to observe your remote elixir nodes from your local machine. |
 | 67 | 0 | 0 | 2 years ago | [gen_browser](https://github.com/CrowdHailer/gen_browser)/939 | Transparent bi-directional communication for clients, servers and more |
 | 66 | 9 | 182 | 2 years ago | [healthlocker](https://github.com/healthlocker/healthlocker)/940 | Inspire and motivate people to stay well. |
@@ -971,9 +971,9 @@
 | 64 | 2 | 0 | 4 years ago | [saul](https://github.com/whatyouhide/saul)/968 | Data validation and conformation library for Elixir. |
 | 64 | 7 | 8 | a day ago | [json-schema-to-elm](https://github.com/dragonwasrobot/json-schema-to-elm)/969 | Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications |
 | 64 | 37 | 7 | 2 years ago | [aws_auth](https://github.com/bryanjos/aws_auth)/970 | AWS Signature Version 4 Signing Library for Elixir |
-| 64 | 19 | 33 | 23 hours ago | [website](https://github.com/signdict/website)/971 | A sign language dictionary |
+| 64 | 19 | 33 | a day ago | [website](https://github.com/signdict/website)/971 | A sign language dictionary |
 | 64 | 10 | 4 | 6 years ago | [sweetelixir](https://github.com/cromwellryan/sweetelixir)/972 | A Gentle Introduction to Erlang's Cute Little Brother |
-| 64 | 12 | 12 | a day ago | [toolshed](https://github.com/elixir-toolshed/toolshed)/973 | A toolshed of IEx helpers |
+| 64 | 12 | 12 | 2 days ago | [toolshed](https://github.com/elixir-toolshed/toolshed)/973 | A toolshed of IEx helpers |
 | 64 | 20 | 5 | 2 years ago | [wabbit](https://github.com/pma/wabbit)/974 | GenStage based interface for RabbitMQ |
 | 64 | 20 | 6 | 1 year, 7 months ago | [newrelic.ex](https://github.com/romul/newrelic.ex)/975 | NewRelic agent for Elixir |
 | 64 | 7 | 1 | 2 months ago | [eternal](https://github.com/whitfin/eternal)/976 | Keep your ETS tables running forever using bouncing GenServers |
@@ -1000,4 +1000,4 @@
 | 62 | 15 | 4 | 3 months ago | [licensir](https://github.com/unnawut/licensir)/997 | An Elixir mix task that lists all the licenses used by your Mix project dependencies. |
 | 62 | 11 | 6 | a month ago | [mnesiac](https://github.com/beardedeagle/mnesiac)/998 | Mnesia autoclustering made easy! |
 | 62 | 40 | 11 | 3 years ago | [gcloudex](https://github.com/Overbryd/gcloudex)/999 | Friendly set of wrappers for Google Cloud Platform services' API's in Elixir. |
-| 62 | 14 | 22 | 1 year, 21 days ago | [kira](https://github.com/wemake-services/kira)/1000 | :chipmunk: Project management framework with deep philosophy underneath |
+| 62 | 14 | 22 | 1 year, 22 days ago | [kira](https://github.com/wemake-services/kira)/1000 | :chipmunk: Project management framework with deep philosophy underneath |
