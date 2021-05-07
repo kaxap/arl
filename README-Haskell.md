@@ -1,17 +1,17 @@
 ## This is a most popular repository list for Haskell sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 24656 | 1232 | 681 | 10 days ago | [shellcheck](https://github.com/koalaman/shellcheck)/1 | ShellCheck, a static analysis tool for shell scripts |
+| 24658 | 1232 | 681 | 10 days ago | [shellcheck](https://github.com/koalaman/shellcheck)/1 | ShellCheck, a static analysis tool for shell scripts |
 | 22446 | 2657 | 770 | a day ago | [pandoc](https://github.com/jgm/pandoc)/2 | Universal markup converter |
-| 21592 | 1867 | 1439 | 14 hours ago | [graphql-engine](https://github.com/hasura/graphql-engine)/3 | Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events. |
+| 21595 | 1867 | 1439 | 19 hours ago | [graphql-engine](https://github.com/hasura/graphql-engine)/3 | Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events. |
 | 16977 | 783 | 147 | 7 days ago | [postgrest](https://github.com/PostgREST/postgrest)/4 | REST API for any Postgres database |
-| 8008 | 450 | 103 | 2 months ago | [semantic](https://github.com/github/semantic)/5 | Parsing, analyzing, and comparing source code across many languages |
+| 8009 | 450 | 103 | 2 months ago | [semantic](https://github.com/github/semantic)/5 | Parsing, analyzing, and comparing source code across many languages |
 | 7100 | 509 | 265 | 10 days ago | [purescript](https://github.com/purescript/purescript)/6 | A strongly-typed language that compiles to JavaScript |
 | 6414 | 567 | 231 | 24 days ago | [compiler](https://github.com/elm/compiler)/7 | Compiler for Elm, a functional language for reliable webapps. |
-| 5275 | 225 | 72 | 11 hours ago | [hadolint](https://github.com/hadolint/hadolint)/8 | Dockerfile linter, validate inline bash, written in Haskell |
+| 5275 | 225 | 72 | 15 hours ago | [hadolint](https://github.com/hadolint/hadolint)/8 | Dockerfile linter, validate inline bash, written in Haskell |
 | 3917 | 310 | 9 | a month ago | [Haxl](https://github.com/facebook/Haxl)/9 | A Haskell library that simplifies access to remote data, such as databases or web-based services.  |
 | 3916 | 146 | 82 | 3 days ago | [Carp](https://github.com/carp-lang/Carp)/10 | A statically typed lisp, without a GC, for real-time applications. |
-| 3755 | 182 | 520 | 4 hours ago | [unison](https://github.com/unisonweb/unison)/11 | A friendly programming language from the future |
+| 3756 | 182 | 521 | 8 hours ago | [unison](https://github.com/unisonweb/unison)/11 | A friendly programming language from the future |
 | 3607 | 1113 | 15 | 29 days ago | [fp-course](https://github.com/system-f/fp-course)/12 | Functional Programming Course |
 | 3569 | 601 | 189 | 10 months ago | [cardano-sl](https://github.com/input-output-hk/cardano-sl)/13 | Cryptographic currency implementing Ouroboros PoS protocol |
 | 3534 | 781 | 821 | 6 days ago | [stack](https://github.com/commercialhaskell/stack)/14 | The Haskell Tool Stack |
@@ -25,27 +25,27 @@
 | 2424 | 173 | 280 | 1 year, 2 months ago | [ghcjs](https://github.com/ghcjs/ghcjs)/22 | Haskell to JavaScript compiler, based on GHC |
 | 2373 | 151 | 12 | a month ago | [awesome-haskell](https://github.com/krispo/awesome-haskell)/23 | A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line. |
 | 2345 | 357 | 95 | 21 days ago | [yesod](https://github.com/yesodweb/yesod)/24 | A RESTful Haskell web framework built on WAI. |
-| 2300 | 310 | 84 | 4 hours ago | [wire-server](https://github.com/wireapp/wire-server)/25 | 🇪🇺 Wire back-end services |
+| 2300 | 310 | 84 | 8 hours ago | [wire-server](https://github.com/wireapp/wire-server)/25 | 🇪🇺 Wire back-end services |
 | 2285 | 385 | 119 | 21 days ago | [hakyll](https://github.com/jaspervdj/hakyll)/26 | A static website compiler library in Haskell |
 | 2242 | 233 | 39 | 4 days ago | [IHaskell](https://github.com/gibiansky/IHaskell)/27 | A Haskell kernel for IPython. |
-| 2094 | 218 | 4 | 7 days ago | [wiwinwlh](https://github.com/sdiehl/wiwinwlh)/28 | What I Wish I Knew When Learning Haskell |
+| 2095 | 218 | 4 | 7 days ago | [wiwinwlh](https://github.com/sdiehl/wiwinwlh)/28 | What I Wish I Knew When Learning Haskell |
 | 2055 | 109 | 80 | 4 years ago | [corrode](https://github.com/jameysharp/corrode)/29 | C to Rust translator |
 | 1918 | 97 | 117 | 5 days ago | [ihp](https://github.com/digitallyinduced/ihp)/30 | 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness |
 | 1910 | 206 | 206 | a month ago | [gitit](https://github.com/jgm/gitit)/31 | A wiki using HAppS, pandoc, and git |
 | 1810 | 207 | 86 | a month ago | [xmonad](https://github.com/xmonad/xmonad)/32 | The core of xmonad, a small but functional ICCCM-compliant tiling window manager |
 | 1800 | 132 | 36 | 5 days ago | [miso](https://github.com/dmjio/miso)/33 | :ramen: A tasty Haskell front-end framework |
 | 1760 | 237 | 87 | 7 days ago | [lens](https://github.com/ekmett/lens)/34 | Lenses, Folds, and Traversals - Join us on freenode #haskell-lens |
-| 1733 | 225 | 330 | 28 minutes ago | [hledger](https://github.com/simonmichael/hledger)/35 | easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger |
-| 1685 | 65 | 4 | 11 hours ago | [lamdu](https://github.com/lamdu/lamdu)/36 | lamdu - towards the next generation IDE |
+| 1733 | 225 | 330 | 3 hours ago | [hledger](https://github.com/simonmichael/hledger)/35 | easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger |
+| 1685 | 65 | 4 | 15 hours ago | [lamdu](https://github.com/lamdu/lamdu)/36 | lamdu - towards the next generation IDE |
 | 1628 | 49 | 110 | 3 months ago | [asterius](https://github.com/tweag/asterius)/37 | A Haskell to WebAssembly compiler |
 | 1571 | 135 | 24 | 4 years ago | [HLearn](https://github.com/mikeizbicki/HLearn)/38 | Homomorphic machine learning |
 | 1544 | 42 | 11 | a month ago | [patat](https://github.com/jaspervdj/patat)/39 | Terminal-based presentations using Pandoc |
-| 1497 | 139 | 334 | a day ago | [haskell-language-server](https://github.com/haskell/haskell-language-server)/40 | Successor of ghcide & haskell-ide-engine. One IDE to rule them all. |
-| 1496 | 189 | 714 | 18 hours ago | [agda](https://github.com/agda/agda)/41 | Agda is a dependently typed programming language / interactive theorem prover. |
+| 1497 | 139 | 335 | a day ago | [haskell-language-server](https://github.com/haskell/haskell-language-server)/40 | Successor of ghcide & haskell-ide-engine. One IDE to rule them all. |
+| 1497 | 189 | 714 | 22 hours ago | [agda](https://github.com/agda/agda)/41 | Agda is a dependently typed programming language / interactive theorem prover. |
 | 1492 | 123 | 52 | 7 months ago | [scotty](https://github.com/scotty-web/scotty)/42 | Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) |
 | 1490 | 365 | 58 | 5 years ago | [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt)/43 | Informative git prompt for zsh |
 | 1488 | 330 | 242 | 7 days ago | [servant](https://github.com/haskell-servant/servant)/44 | Main repository for the servant libraries -- DSL for describing, serving, querying, mocking, documenting web applications and more! |
-| 1481 | 97 | 46 | 11 hours ago | [futhark](https://github.com/diku-dk/futhark)/45 | :boom::computer::boom: A data-parallel functional programming language |
+| 1482 | 97 | 46 | 15 hours ago | [futhark](https://github.com/diku-dk/futhark)/45 | :boom::computer::boom: A data-parallel functional programming language |
 | 1441 | 37 | 14 | a month ago | [Simula](https://github.com/SimulaVR/Simula)/46 | Linux VR Desktop |
 | 1418 | 109 | 62 | 2 years ago | [haste-compiler](https://github.com/valderman/haste-compiler)/47 | A GHC-based Haskell to JavaScript compiler |
 | 1416 | 220 | 24 | 3 years ago | [real-world-haskell-cn](https://github.com/huangz1990/real-world-haskell-cn)/48 | 《Real World Haskell》中文翻译项目 |
@@ -54,7 +54,7 @@
 | 1367 | 192 | 217 | 5 months ago | [yi](https://github.com/yi-editor/yi)/51 | The Haskell-Scriptable Editor |
 | 1343 | 80 | 22 | 1 year, 25 days ago | [grenade](https://github.com/HuwCampbell/grenade)/52 | Deep Learning in Haskell |
 | 1332 | 187 | 111 | 10 days ago | [Tidal](https://github.com/tidalcycles/Tidal)/53 | Pattern language |
-| 1278 | 240 | 250 | 4 hours ago | [cardano-node](https://github.com/input-output-hk/cardano-node)/54 | The core component that is used to participate in a Cardano decentralised blockchain. |
+| 1280 | 241 | 250 | an hour ago | [cardano-node](https://github.com/input-output-hk/cardano-node)/54 | The core component that is used to participate in a Cardano decentralised blockchain. |
 | 1260 | 76 | 91 | 5 days ago | [koka](https://github.com/koka-lang/koka)/55 | Koka language compiler and interpreter |
 | 1256 | 87 | 22 | 3 months ago | [fay](https://github.com/faylang/fay)/56 | A proper subset of Haskell that compiles to JavaScript |
 | 1243 | 134 | 210 | 2 months ago | [elm-format](https://github.com/avh4/elm-format)/57 | elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide |
@@ -65,10 +65,10 @@
 | 1158 | 194 | 282 | 18 days ago | [codeworld](https://github.com/google/codeworld)/62 | Educational computer programming environment using Haskell |
 | 1093 | 125 | 1 | 6 days ago | [brick](https://github.com/jtdaugherty/brick)/63 | A declarative Unix terminal UI programming library written in Haskell |
 | 1050 | 83 | 4 | 1 year, 3 months ago | [articles](https://github.com/quchen/articles)/64 | Miscellaneous articles. The readme is the table of contents. |
-| 1045 | 130 | 64 | 3 hours ago | [neuron](https://github.com/srid/neuron)/65 | Future-proof note-taking and publishing based on Zettelkasten |
+| 1045 | 130 | 64 | 7 hours ago | [neuron](https://github.com/srid/neuron)/65 | Future-proof note-taking and publishing based on Zettelkasten |
 | 1041 | 147 | 30 | 1 year, 3 months ago | [intero](https://github.com/chrisdone/intero)/66 | None |
 | 1037 | 27 | 76 | 2 days ago | [wasp](https://github.com/wasp-lang/wasp)/67 | A programming language that understands what a web app is. |
-| 1035 | 90 | 26 | 3 days ago | [aura](https://github.com/fosskers/aura)/68 | A secure, multilingual package manager for Arch Linux and the AUR. |
+| 1036 | 90 | 26 | 3 days ago | [aura](https://github.com/fosskers/aura)/68 | A secure, multilingual package manager for Arch Linux and the AUR. |
 | 1023 | 58 | 0 | 3 years ago | [haskell-must-watch](https://github.com/hzlmn/haskell-must-watch)/69 | Huge list of  videos, talks, courses for Haskell programming language. |
 | 1010 | 84 | 37 | 2 years ago | [HaLVM](https://github.com/GaloisInc/HaLVM)/70 | The Haskell Lightweight Virtual Machine (HaLVM): GHC running on Xen |
 | 985 | 30 | 19 | 1 year, 5 months ago | [kit](https://github.com/kitlang/kit)/71 | Kit: a magical, high performance programming language, designed for game development. Pre-alpha! |
@@ -77,7 +77,7 @@
 | 963 | 130 | 17 | 10 months ago | [fp-course](https://github.com/tonymorris/fp-course)/74 | Functional Programming Course |
 | 963 | 54 | 104 | 22 days ago | [dex-lang](https://github.com/google-research/dex-lang)/75 | Research language for array processing in the Haskell/ML family |
 | 960 | 34 | 15 | 3 months ago | [toodles](https://github.com/aviaviavi/toodles)/76 | Project management directly from the TODOs in your codebase |
-| 949 | 101 | 154 | 8 hours ago | [cryptol](https://github.com/GaloisInc/cryptol)/77 | Cryptol: The Language of Cryptography |
+| 949 | 101 | 154 | 12 hours ago | [cryptol](https://github.com/GaloisInc/cryptol)/77 | Cryptol: The Language of Cryptography |
 | 945 | 92 | 89 | 2 months ago | [ghcid](https://github.com/ndmitchell/ghcid)/78 | Very low feature GHCi based IDE |
 | 937 | 108 | 227 | 2 months ago | [leksah](https://github.com/leksah/leksah)/79 | Haskell IDE |
 | 924 | 33 | 45 | 1 year, 1 month ago | [radicle-alpha](https://github.com/radicle-dev/radicle-alpha)/80 | A peer-to-peer stack for code collaboration |
@@ -87,7 +87,7 @@
 | 881 | 120 | 9 | 3 years ago | [kaleidoscope](https://github.com/sdiehl/kaleidoscope)/84 | Haskell LLVM JIT Compiler Tutorial |
 | 878 | 26 | 1 | 11 months ago | [unused](https://github.com/joshuaclayton/unused)/85 | Deprecated; see https://github.com/unused-code/unused |
 | 870 | 102 | 381 | a month ago | [liquidhaskell](https://github.com/ucsd-progsys/liquidhaskell)/86 | Liquid Types For Haskell |
-| 866 | 38 | 21 | 8 months ago | [gifcurry](https://github.com/lettier/gifcurry)/87 | 😎 The open-source, Haskell-built video editor for GIF makers. |
+| 867 | 38 | 21 | 8 months ago | [gifcurry](https://github.com/lettier/gifcurry)/87 | 😎 The open-source, Haskell-built video editor for GIF makers. |
 | 846 | 28 | 24 | 18 days ago | [grin](https://github.com/grin-compiler/grin)/88 | GRIN is a compiler back-end for lazy and strict functional languages with whole program optimization support. |
 | 836 | 87 | 9 | 29 days ago | [wstunnel](https://github.com/erebe/wstunnel)/89 | Tunneling over websocket protocol - Static binary available  |
 | 820 | 59 | 72 | 3 days ago | [polysemy](https://github.com/polysemy-research/polysemy)/90 | :gemini: higher-order, no-boilerplate monads |
@@ -96,57 +96,57 @@
 | 792 | 86 | 35 | a month ago | [Haskell-Turtle-Library](https://github.com/Gabriel439/Haskell-Turtle-Library)/93 | Shell programming, Haskell style |
 | 781 | 6 | 4 | 6 months ago | [neut](https://github.com/u2zv1wx/neut)/94 | A dependently-typed programming language with compile-time malloc/free determination |
 | 775 | 47 | 0 | 3 months ago | [software-design-in-haskell](https://github.com/graninas/software-design-in-haskell)/95 | Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell. |
-| 774 | 131 | 9 | Unknown | [elm-platform](https://github.com/elm-lang/elm-platform)/96 | Bundle of all core development tools for Elm |
-| 769 | 117 | 87 | Unknown | [stylish-haskell](https://github.com/haskell/stylish-haskell)/97 | Haskell code prettifier |
-| 760 | 94 | 53 | Unknown | [accelerate](https://github.com/AccelerateHS/accelerate)/98 | Embedded language for high-performance array computations |
-| 756 | 79 | 68 | 7 days ago | [hasktorch](https://github.com/hasktorch/hasktorch)/99 | Tensors and neural networks in Haskell |
+| 774 | 131 | 9 | 2 years ago | [elm-platform](https://github.com/elm-lang/elm-platform)/96 | Bundle of all core development tools for Elm |
+| 769 | 117 | 87 | 10 days ago | [stylish-haskell](https://github.com/haskell/stylish-haskell)/97 | Haskell code prettifier |
+| 760 | 94 | 53 | 3 days ago | [accelerate](https://github.com/AccelerateHS/accelerate)/98 | Embedded language for high-performance array computations |
+| 756 | 79 | 68 | an hour ago | [hasktorch](https://github.com/hasktorch/hasktorch)/99 | Tensors and neural networks in Haskell |
 | 754 | 179 | 35 | 2 days ago | [conduit](https://github.com/snoyberg/conduit)/100 | A streaming data library |
-| 748 | 37 | 6 | Unknown | [LtuPatternFactory](https://github.com/thma/LtuPatternFactory)/101 | Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns |
-| 736 | 25 | 15 | Unknown | [oden](https://github.com/oden-lang/oden)/102 | The Oden Programming Language (NO LONGER IN ACTIVE DEVELOPMENT) |
+| 748 | 37 | 6 | 7 months ago | [LtuPatternFactory](https://github.com/thma/LtuPatternFactory)/101 | Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns |
+| 736 | 25 | 15 | 4 years ago | [oden](https://github.com/oden-lang/oden)/102 | The Oden Programming Language (NO LONGER IN ACTIVE DEVELOPMENT) |
 | 735 | 48 | 31 | 3 months ago | [Rome](https://github.com/tmspzz/Rome)/103 | Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others  |
-| 728 | 18 | 8 | Unknown | [bench](https://github.com/Gabriel439/bench)/104 | Command-line benchmark tool |
+| 728 | 18 | 8 | 8 months ago | [bench](https://github.com/Gabriel439/bench)/104 | Command-line benchmark tool |
 | 722 | 93 | 28 | 14 days ago | [optparse-applicative](https://github.com/pcapriotti/optparse-applicative)/105 | Applicative option parser |
 | 714 | 44 | 74 | a month ago | [project-m36](https://github.com/agentm/project-m36)/106 | Project: M36 Relational Algebra Engine |
-| 713 | 54 | 31 | Unknown | [rio](https://github.com/commercialhaskell/rio)/107 | A standard library for Haskell |
+| 713 | 54 | 31 | 29 days ago | [rio](https://github.com/commercialhaskell/rio)/107 | A standard library for Haskell |
 | 710 | 42 | 1 | 5 years ago | [detexify-hs-backend](https://github.com/kirel/detexify-hs-backend)/108 | Detexify Backend written in Haskell |
 | 705 | 45 | 80 | 2 months ago | [niv](https://github.com/nmattia/niv)/109 | Easy dependency management for Nix projects |
 | 694 | 57 | 8 | 5 years ago | [dnngraph](https://github.com/ajtulloch/dnngraph)/110 | A DSL for deep neural networks, supporting Caffe and Torch |
 | 691 | 39 | 1 | 3 months ago | [cgrep](https://github.com/awgn/cgrep)/111 | Cgrep: a context-aware grep for source codes |
-| 690 | 226 | 48 | 20 days ago | [wai](https://github.com/yesodweb/wai)/112 | Haskell Web Application Interface |
+| 690 | 226 | 48 | 21 days ago | [wai](https://github.com/yesodweb/wai)/112 | Haskell Web Application Interface |
 | 689 | 74 | 6 | 11 days ago | [megaparsec](https://github.com/mrkkrp/megaparsec)/113 | Industrial-strength monadic parser combinator library |
 | 685 | 186 | 115 | 1 year, 10 months ago | [ghc-mod](https://github.com/DanielG/ghc-mod)/114 | Happy Haskell Hacking for editors. DEPRECATED |
 | 673 | 19 | 8 | 16 days ago | [pboy](https://github.com/2mol/pboy)/115 | a small .pdf management tool with a command-line UI |
 | 662 | 26 | 36 | 8 months ago | [sixten](https://github.com/ollef/sixten)/116 | Functional programming with fewer indirections |
 | 658 | 110 | 169 | 19 days ago | [shake](https://github.com/ndmitchell/shake)/117 | Shake build system |
 | 658 | 95 | 73 | 8 months ago | [distributed-process](https://github.com/haskell-distributed/distributed-process)/118 | Cloud Haskell core library |
-| 656 | 24 | 4 | Unknown | [greenclip](https://github.com/erebe/greenclip)/119 | Simple clipboard manager to be integrated with rofi - Static binary available |
-| 650 | 17 | 15 | Unknown | [waymonad](https://github.com/waymonad/waymonad)/120 | A wayland compositor based on ideas from and inspired by xmonad |
-| 648 | 174 | 50 | Unknown | [developers-roadmap](https://github.com/fullstack-development/developers-roadmap)/121 | How to learn front-end or back-end development |
-| 643 | 67 | 1 | Unknown | [stanford-cs240h](https://github.com/bos/stanford-cs240h)/122 | Course materials for Stanford CS240h, "Functional Systems in Haskell" |
+| 656 | 24 | 4 | a day ago | [greenclip](https://github.com/erebe/greenclip)/119 | Simple clipboard manager to be integrated with rofi - Static binary available |
+| 650 | 17 | 15 | 2 years ago | [waymonad](https://github.com/waymonad/waymonad)/120 | A wayland compositor based on ideas from and inspired by xmonad |
+| 648 | 174 | 50 | 6 days ago | [developers-roadmap](https://github.com/fullstack-development/developers-roadmap)/121 | How to learn front-end or back-end development |
+| 643 | 67 | 1 | 9 years ago | [stanford-cs240h](https://github.com/bos/stanford-cs240h)/122 | Course materials for Stanford CS240h, "Functional Systems in Haskell" |
 | 642 | 68 | 113 | 2 months ago | [brittany](https://github.com/lspitzner/brittany)/123 | haskell source code formatter |
 | 635 | 120 | 0 | 5 years ago | [Haskell-Data-Analysis-Cookbook](https://github.com/BinRoot/Haskell-Data-Analysis-Cookbook)/124 | Accompanying Source Code for the Haskell Data Analysis Cookbook |
 | 634 | 74 | 43 | 4 months ago | [parsec](https://github.com/haskell/parsec)/125 | A monadic parser combinator library |
 | 624 | 58 | 33 | a month ago | [Spock](https://github.com/agrafix/Spock)/126 | Another Haskell web framework for rapid development |
 | 623 | 57 | 43 | a month ago | [alga](https://github.com/snowleopard/alga)/127 | Algebraic graphs |
-| 623 | 15 | 4 | Unknown | [glance](https://github.com/rgleichman/glance)/128 | A visual Haskell |
-| 623 | 28 | 9 | Unknown | [transient](https://github.com/transient-haskell/transient)/129 | A full stack, reactive architecture for general purpose programming.  Algebraic and monadically composable primitives for concurrency, parallelism, event handling, transactions, multithreading, Web, and distributed computing with complete de-inversion of control (No callbacks, no blocking, pure state) |
-| 611 | 95 | 114 | Unknown | [echidna](https://github.com/crytic/echidna)/130 | Ethereum smart contract fuzzer |
+| 623 | 15 | 4 | 4 months ago | [glance](https://github.com/rgleichman/glance)/128 | A visual Haskell |
+| 623 | 28 | 9 | 2 months ago | [transient](https://github.com/transient-haskell/transient)/129 | A full stack, reactive architecture for general purpose programming.  Algebraic and monadically composable primitives for concurrency, parallelism, event handling, transactions, multithreading, Web, and distributed computing with complete de-inversion of control (No callbacks, no blocking, pure state) |
+| 612 | 95 | 114 | a day ago | [echidna](https://github.com/crytic/echidna)/130 | Ethereum smart contract fuzzer |
 | 606 | 102 | 0 | 4 months ago | [ghcide](https://github.com/haskell/ghcide)/131 | A library for building Haskell IDE tooling |
-| 606 | 65 | 53 | Unknown | [ormolu](https://github.com/tweag/ormolu)/132 | A formatter for Haskell source code |
-| 603 | 159 | 68 | 20 hours ago | [xmobar](https://github.com/jaor/xmobar)/133 | A minimalistic status bar |
+| 606 | 65 | 53 | 19 days ago | [ormolu](https://github.com/tweag/ormolu)/132 | A formatter for Haskell source code |
+| 603 | 158 | 68 | a day ago | [xmobar](https://github.com/jaor/xmobar)/133 | A minimalistic status bar |
 | 602 | 35 | 23 | a month ago | [reanimate](https://github.com/reanimate/reanimate)/134 | Haskell library for building declarative animations based on SVG graphics |
 | 601 | 107 | 78 | 5 months ago | [quickcheck](https://github.com/nick8325/quickcheck)/135 | Automatic testing of Haskell programs. |
-| 601 | 40 | 0 | Unknown | [legion](https://github.com/aviaviavi/legion)/136 | Simple blockchain server written in haskell |
-| 601 | 28 | 392 | Unknown | [luna-studio](https://github.com/enso-org/luna-studio)/137 | Looking for Luna, the WYSIWYG language for data processing? Development has moved :point_right: |
+| 601 | 40 | 0 | 3 years ago | [legion](https://github.com/aviaviavi/legion)/136 | Simple blockchain server written in haskell |
+| 601 | 28 | 392 | 1 year, 30 days ago | [luna-studio](https://github.com/enso-org/luna-studio)/137 | Looking for Luna, the WYSIWYG language for data processing? Development has moved :point_right: |
 | 598 | 88 | 27 | 9 days ago | [hspec](https://github.com/hspec/hspec)/138 | A Testing Framework for Haskell |
-| 596 | 41 | 19 | Unknown | [rasa](https://github.com/ChrisPenner/rasa)/139 | Extremely modular text editor built in Haskell |
+| 596 | 41 | 19 | 6 months ago | [rasa](https://github.com/ChrisPenner/rasa)/139 | Extremely modular text editor built in Haskell |
 | 595 | 72 | 23 | 3 years ago | [helm](https://github.com/z0w0/helm)/140 | A functionally reactive game engine, with headgear to protect you from the headache of game development provided. |
-| 591 | 91 | 37 | Unknown | [spago](https://github.com/purescript/spago)/141 | 🍝 PureScript package manager and build tool powered by Dhall and package-sets |
+| 591 | 91 | 37 | 8 hours ago | [spago](https://github.com/purescript/spago)/141 | 🍝 PureScript package manager and build tool powered by Dhall and package-sets |
 | 591 | 67 | 69 | 15 days ago | [kmonad](https://github.com/david-janssen/kmonad)/142 | An advanced keyboard manager |
 | 590 | 67 | 28 | a month ago | [summoner](https://github.com/kowainik/summoner)/143 | 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects |
 | 587 | 94 | 81 | a month ago | [haskell-hedgehog](https://github.com/hedgehogqa/haskell-hedgehog)/144 | Release with confidence, state-of-the-art property testing for Haskell. |
 | 567 | 21 | 37 | a month ago | [linux_notification_center](https://github.com/phuhl/linux_notification_center)/145 | A notification daemon/center for linux |
-| 558 | 50 | 278 | Unknown | [streamly](https://github.com/composewell/streamly)/146 | Beautiful Streaming, Concurrent and Reactive Composition (Haskell) |
+| 558 | 50 | 278 | 11 days ago | [streamly](https://github.com/composewell/streamly)/146 | Beautiful Streaming, Concurrent and Reactive Composition (Haskell) |
 | 553 | 71 | 131 | 4 months ago | [obelisk](https://github.com/obsidiansystems/obelisk)/147 | Functional reactive web and mobile applications, with batteries included. |
 | 551 | 21 | 0 | 3 years ago | [hython](https://github.com/mattgreen/hython)/148 | Haskell-powered Python 3 interpreter |
 | 544 | 50 | 37 | a month ago | [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref)/149 | Pandoc filter for cross-references |
@@ -159,7 +159,7 @@
 | 510 | 38 | 29 | a month ago | [fused-effects](https://github.com/fused-effects/fused-effects)/156 | A fast, flexible, fused effect system for Haskell |
 | 507 | 30 | 0 | 4 years ago | [carnival](https://github.com/thoughtbot/carnival)/157 | An unobtrusive, developer-friendly way to add comments |
 | 506 | 72 | 0 | 4 months ago | [haskell-exercises](https://github.com/i-am-tom/haskell-exercises)/158 | A little course to learn about some of the more obscure GHC extensions. |
-| 505 | 25 | 0 | 18 days ago | [tetris](https://github.com/samtay/tetris)/159 | A terminal interface for Tetris |
+| 505 | 25 | 0 | 19 days ago | [tetris](https://github.com/samtay/tetris)/159 | A terminal interface for Tetris |
 | 504 | 154 | 0 | 5 years ago | [FP101x-Content-2015](https://github.com/fptudelft/FP101x-Content-2015)/160 | FP101x - Functional Programming MOOC 2015 Content Repository |
 | 504 | 12 | 8 | 11 months ago | [forest-compiler](https://github.com/forest-lang/forest-compiler)/161 | A multi-syntax functional programming language that compiles to WebAssembly. |
 | 504 | 112 | 68 | 3 months ago | [hindent](https://github.com/mihaimaruseac/hindent)/162 | Haskell pretty printer |
@@ -177,11 +177,11 @@
 | 463 | 39 | 3 | 2 years ago | [hell](https://github.com/chrisdone/hell)/174 | None |
 | 463 | 19 | 20 | 1 year, 1 month ago | [haskell-code-explorer](https://github.com/alexwl/haskell-code-explorer)/175 | Web application for exploring and understanding Haskell codebases |
 | 463 | 49 | 0 | 2 years ago | [DeepDarkFantasy](https://github.com/ThoughtWorksInc/DeepDarkFantasy)/176 | A Programming Language for Deep Learning |
-| 462 | 24 | 0 | 3 years ago | [10-minute-vim-exercises](https://github.com/steveshogren/10-minute-vim-exercises)/177 | The exercise files from 10 Minute Vim, for convenience of readers |
-| 461 | 27 | 1 | 1 year, 2 months ago | [bulletproofs](https://github.com/adjoint-io/bulletproofs)/178 | Bulletproofs are short non-interactive zero-knowledge proofs that require no trusted setup  |
+| 462 | 27 | 1 | 1 year, 2 months ago | [bulletproofs](https://github.com/adjoint-io/bulletproofs)/177 | Bulletproofs are short non-interactive zero-knowledge proofs that require no trusted setup  |
+| 462 | 24 | 0 | 3 years ago | [10-minute-vim-exercises](https://github.com/steveshogren/10-minute-vim-exercises)/178 | The exercise files from 10 Minute Vim, for convenience of readers |
 | 460 | 111 | 99 | 17 days ago | [beam](https://github.com/haskell-beam/beam)/179 | A type-safe, non-TH Haskell SQL library and ORM |
 | 457 | 20 | 2 | a month ago | [zero-bullshit-haskell](https://github.com/alpacaaa/zero-bullshit-haskell)/180 | Learn Haskell, without the bullshit. |
-| 454 | 69 | 53 | 11 hours ago | [reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana)/181 | Library for functional reactive programming in Haskell. |
+| 454 | 69 | 53 | 15 hours ago | [reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana)/181 | Library for functional reactive programming in Haskell. |
 | 454 | 23 | 18 | 3 years ago | [frp-zoo](https://github.com/gelisam/frp-zoo)/182 | Comparing many FRP implementations by reimplementing the same toy app in each. |
 | 453 | 19 | 5 | 9 months ago | [jl](https://github.com/chrisdone/jl)/183 | Functional sed for JSON |
 | 452 | 80 | 0 | 3 years ago | [hpffp-resources](https://github.com/pushcx/hpffp-resources)/184 | Haskell Programming From First Principles - Follow-up Resources |
@@ -192,7 +192,7 @@
 | 448 | 36 | 94 | 23 days ago | [LambdaHack](https://github.com/LambdaHack/LambdaHack)/189 | Haskell game engine library for roguelike dungeon crawlers; please offer feedback, e.g., after trying out the sample game with the web frontend at |
 | 447 | 66 | 32 | 5 months ago | [snap](https://github.com/snapframework/snap)/190 | Top-level package for the official Snap Framework libraries, includes the snaplets API as well as infrastructure for sessions, auth, and templates. |
 | 443 | 17 | 6 | 5 months ago | [eff](https://github.com/hasura/eff)/191 | 🚧 a work in progress effect system for Haskell 🚧 |
-| 438 | 75 | 16 | 3 days ago | [Haskell-Pipes-Library](https://github.com/Gabriel439/Haskell-Pipes-Library)/192 | Compositional pipelines |
+| 438 | 75 | 16 | 2 hours ago | [Haskell-Pipes-Library](https://github.com/Gabriel439/Haskell-Pipes-Library)/192 | Compositional pipelines |
 | 437 | 45 | 29 | a month ago | [selda](https://github.com/valderman/selda)/193 | A type-safe, high-level SQL library for Haskell |
 | 436 | 76 | 119 | 12 days ago | [foundation](https://github.com/haskell-foundation/foundation)/194 | Empire strikes back |
 | 435 | 84 | 1 | 2 months ago | [scheme](https://github.com/write-you-a-scheme-v2/scheme)/195 | Write You a Scheme |
@@ -208,7 +208,7 @@
 | 402 | 43 | 18 | 4 years ago | [subhask](https://github.com/mikeizbicki/subhask)/205 | Type safe interface for working in subcategories of Hask |
 | 402 | 44 | 35 | 2 months ago | [generic-lens](https://github.com/kcsongor/generic-lens)/206 | Generically derive traversals, lenses, and prisms. |
 | 401 | 12 | 10 | 6 days ago | [retrie](https://github.com/facebookincubator/retrie)/207 | Retrie is a powerful, easy-to-use codemodding tool for Haskell. |
-| 400 | 106 | 81 | 7 days ago | [dapptools](https://github.com/dapphub/dapptools)/208 | Dapp, Seth, Hevm, and more |
+| 401 | 106 | 81 | 7 days ago | [dapptools](https://github.com/dapphub/dapptools)/208 | Dapp, Seth, Hevm, and more |
 | 399 | 118 | 39 | 2 months ago | [bloodhound](https://github.com/bitemyapp/bloodhound)/209 | Haskell Elasticsearch client and query DSL |
 | 398 | 181 | 0 | 2 months ago | [xmonad-ubuntu-conf](https://github.com/davidbrewer/xmonad-ubuntu-conf)/210 | My xmonad config for Ubuntu versions from 20.04 all the way back to 12.04! Including package list, config files, and instructions. |
 | 398 | 23 | 66 | 18 days ago | [stan](https://github.com/kowainik/stan)/211 | 🕵️ Haskell STatic ANalyser |
@@ -239,15 +239,15 @@
 | 357 | 85 | 43 | 7 months ago | [Shelly.hs](https://github.com/gregwebs/Shelly.hs)/236 | Haskell shell scripting |
 | 357 | 25 | 14 | 1 year, 6 months ago | [Haskell-Morte-Library](https://github.com/Gabriel439/Haskell-Morte-Library)/237 | A bare-bones calculus-of-constructions |
 | 356 | 23 | 13 | 3 years ago | [call-haskell-from-anything](https://github.com/nh2/call-haskell-from-anything)/238 | Call Haskell functions from any programming language via serialization and dynamic libraries |
-| 355 | 138 | 31 | 12 hours ago | [haskell](https://github.com/exercism/haskell)/239 | Exercism exercises in Haskell. |
+| 355 | 138 | 31 | 16 hours ago | [haskell](https://github.com/exercism/haskell)/239 | Exercism exercises in Haskell. |
 | 354 | 39 | 33 | 14 days ago | [concat](https://github.com/conal/concat)/240 | Compiling to Categories |
 | 354 | 17 | 17 | 4 years ago | [haskell-emacs](https://github.com/knupfer/haskell-emacs)/241 | Write Emacs extensions in Haskell |
 | 354 | 6 | 9 | 1 year, 4 months ago | [Son](https://github.com/seagreen/Son)/242 | Work in progress. Best alternative: https://matrix.org/docs/spec/appendices.html#canonical-json |
 | 352 | 195 | 45 | a month ago | [github](https://github.com/phadej/github)/243 | The github API for Haskell |
 | 351 | 23 | 9 | 2 years ago | [movie-monad](https://github.com/lettier/movie-monad)/244 | :tv: A free and simple to use video player made with Haskell. |
-| 351 | 49 | 70 | an hour ago | [pact](https://github.com/kadena-io/pact)/245 | The Pact Smart Contract Language |
+| 351 | 49 | 70 | 5 hours ago | [pact](https://github.com/kadena-io/pact)/245 | The Pact Smart Contract Language |
 | 349 | 27 | 13 | 5 years ago | [markup.rocks](https://github.com/osener/markup.rocks)/246 | Pandoc based document editor and converter in your browser. |
-| 349 | 208 | 78 | an hour ago | [xmonad-contrib](https://github.com/xmonad/xmonad-contrib)/247 | Contributed modules for xmonad |
+| 349 | 208 | 78 | 5 hours ago | [xmonad-contrib](https://github.com/xmonad/xmonad-contrib)/247 | Contributed modules for xmonad |
 | 348 | 35 | 33 | 3 years ago | [haskell-do](https://github.com/theam/haskell-do)/248 | :pencil2: :bar_chart: - The Haskell code editor focused on interactive development. |
 | 345 | 21 | 4 | 8 years ago | [CloudHaskell](https://github.com/jepst/CloudHaskell)/249 | A distributed computing framework for Haskell |
 | 345 | 102 | 59 | a month ago | [hmatrix](https://github.com/haskell-numerics/hmatrix)/250 | Linear algebra and numerical computation |
@@ -256,7 +256,7 @@
 | 338 | 11 | 0 | 4 months ago | [haskus-system](https://github.com/haskus/haskus-system)/253 | System programming in Haskell on top of Linux |
 | 337 | 68 | 16 | 6 days ago | [clay](https://github.com/sebastiaanvisser/clay)/254 | A CSS preprocessor as embedded Haskell. |
 | 337 | 24 | 72 | 30 days ago | [cachix](https://github.com/cachix/cachix)/255 | Command line client for Nix binary cache hosting: |
-| 337 | 46 | 245 | 3 hours ago | [saw-script](https://github.com/GaloisInc/saw-script)/256 | The SAW scripting language. |
+| 337 | 46 | 245 | 7 hours ago | [saw-script](https://github.com/GaloisInc/saw-script)/256 | The SAW scripting language. |
 | 331 | 9 | 4 | 3 years ago | [verve-lang](https://github.com/tadeuzagallo/verve-lang)/257 | A functional language for the working hacker |
 | 330 | 21 | 14 | 14 days ago | [massiv](https://github.com/lehins/massiv)/258 | Efficient Haskell Arrays featuring Parallel computation |
 | 329 | 12 | 3 | 2 years ago | [mezzo](https://github.com/DimaSamoz/mezzo)/259 | A Haskell library for typesafe music composition |
@@ -267,7 +267,7 @@
 | 322 | 38 | 19 | 1 year, 5 months ago | [yst](https://github.com/jgm/yst)/264 | create static websites from YAML data and string templates |
 | 322 | 13 | 15 | 2 years ago | [infernu](https://github.com/sinelaw/infernu)/265 | Type inference and checking for a safer JavaScript. |
 | 319 | 45 | 18 | 20 days ago | [machines](https://github.com/ekmett/machines)/266 | Networks of composable stream transducers |
-| 317 | 79 | 55 | 10 hours ago | [esqueleto](https://github.com/bitemyapp/esqueleto)/267 | New home of Esqueleto, please file issues so we can get things caught up! |
+| 317 | 79 | 55 | 14 hours ago | [esqueleto](https://github.com/bitemyapp/esqueleto)/267 | New home of Esqueleto, please file issues so we can get things caught up! |
 | 312 | 121 | 51 | 20 days ago | [reflex-dom](https://github.com/reflex-frp/reflex-dom)/268 | Web applications without callbacks or side-effects. Reflex-DOM brings the power of functional reactive programming (FRP) to the web. Build HTML and other Document Object Model (DOM) data with a pure functional interface. |
 | 312 | 77 | 28 | 2 months ago | [snap-core](https://github.com/snapframework/snap-core)/269 | Core type definitions (Snap monad, HTTP types, etc) and utilities for web handlers.  |
 | 312 | 23 | 14 | 4 months ago | [Reduceron](https://github.com/tommythorn/Reduceron)/270 | FPGA Haskell machine with game changing performance. Reduceron is Matthew Naylor, Colin Runciman and Jason Reich's high performance FPGA softcore for running lazy functional programs, including hardware garbage collection.  Reduceron has been implemented on various FPGAs with clock frequency ranging from 60 to 150 MHz depending on the FPGA.  A high degree of parallelism allows Reduceron to implement graph evaluation very efficiently. This fork aims to continue development on this, with a view to practical applications. Comments, questions, etc are welcome. |
@@ -275,11 +275,11 @@
 | 311 | 23 | 27 | 20 days ago | [squeal](https://github.com/morphismtech/squeal)/272 | Squeal, a deep embedding of SQL in Haskell |
 | 311 | 169 | 205 | a month ago | [hackage-server](https://github.com/haskell/hackage-server)/273 | Hackage-Server: A Haskell Package Repository |
 | 310 | 62 | 71 | 2 months ago | [doctest](https://github.com/sol/doctest)/274 | An implementation of Python's doctest for Haskell |
-| 309 | 54 | 10 | 19 days ago | [ad](https://github.com/ekmett/ad)/275 | Automatic Differentiation |
+| 310 | 54 | 10 | 19 days ago | [ad](https://github.com/ekmett/ad)/275 | Automatic Differentiation |
 | 309 | 36 | 2 | 8 years ago | [aima-haskell](https://github.com/chris-taylor/aima-haskell)/276 | Algorithms from AIMA in Haskell |
-| 309 | 14 | 67 | 26 days ago | [hawk](https://github.com/gelisam/hawk)/277 | Haskell text processor for the command-line |
+| 309 | 14 | 67 | 27 days ago | [hawk](https://github.com/gelisam/hawk)/277 | Haskell text processor for the command-line |
 | 308 | 21 | 14 | 3 months ago | [vaultenv](https://github.com/channable/vaultenv)/278 | Launch processes with Vault secrets in the environment |
-| 306 | 72 | 56 | 16 hours ago | [cardano-wallet](https://github.com/input-output-hk/cardano-wallet)/279 | HTTP server & command-line for managing UTxOs and HD wallets in Cardano. |
+| 306 | 72 | 56 | 20 hours ago | [cardano-wallet](https://github.com/input-output-hk/cardano-wallet)/279 | HTTP server & command-line for managing UTxOs and HD wallets in Cardano. |
 | 305 | 5 | 15 | 9 months ago | [ptghci](https://github.com/litxio/ptghci)/280 | High-powered REPL for Haskell, inspired by IPython |
 | 302 | 11 | 12 | 6 years ago | [dbignore](https://github.com/tkonolige/dbignore)/281 | .gitignore for Dropbox |
 | 302 | 36 | 9 | 7 months ago | [Yampa](https://github.com/ivanperez-keera/Yampa)/282 | Functional Reactive Programming domain-specific language embedded in Haskell, for programming efficient hybrid (mixed discrete-time and continuous-time) systems. |
@@ -293,7 +293,7 @@
 | 295 | 31 | 6 | 4 months ago | [apecs](https://github.com/jonascarpay/apecs)/290 | a fast, type driven, extensible ECS for game development |
 | 294 | 91 | 4 | 18 days ago | [parconc-examples](https://github.com/simonmar/parconc-examples)/291 | Sample code to accompany the book "Parallel and Concurrent Programming in Haskell" |
 | 292 | 8 | 6 | 6 months ago | [nuri](https://github.com/suhdonghwi/nuri)/292 | 누리 : 함수형 한글 프로그래밍 언어 |
-| 292 | 22 | 10 | 7 days ago | [hstream](https://github.com/hstreamdb/hstream)/293 | The database built for IoT streaming data storage and real-time stream processing. |
+| 292 | 22 | 10 | 2 hours ago | [hstream](https://github.com/hstreamdb/hstream)/293 | The database built for IoT streaming data storage and real-time stream processing. |
 | 291 | 39 | 2 | 4 years ago | [dotfiles-tilingwm](https://github.com/altercation/dotfiles-tilingwm)/294 | Tiling window manager related files (XMonad / i3) including configuration for components that create a good, minimal desktop-environment replacement. |
 | 289 | 71 | 39 | 4 months ago | [sdl2](https://github.com/haskell-game/sdl2)/295 | Haskell bindings to the SDL2 library |
 | 289 | 27 | 9 | 1 year, 9 months ago | [Angel](https://github.com/MichaelXavier/Angel)/296 | Process Monitoring/Management, Like Daemontools |
@@ -337,9 +337,9 @@
 | 256 | 25 | 1 | 2 months ago | [dth](https://github.com/sweirich/dth)/334 | Examples of Dependently-typed programs in Haskell |
 | 254 | 23 | 6 | 3 years ago | [hue-dashboard](https://github.com/blitzcode/hue-dashboard)/335 | A web interface for monitoring and controlling Philips Hue lights |
 | 254 | 17 | 51 | 2 years ago | [haskell-tools](https://github.com/haskell-tools/haskell-tools)/336 | Developer tools for Haskell |
-| 253 | 6 | 1 | 1 year, 25 days ago | [api.unverified.email](https://github.com/honest-technology/api.unverified.email)/337 | A service to help with testing of sending the right emails |
-| 252 | 17 | 9 | 1 year, 9 months ago | [three-layer](https://github.com/Holmusk/three-layer)/338 | :three: :cake: Architecture of the Haskell web applications |
-| 252 | 13 | 7 | 13 days ago | [quickstrom](https://github.com/quickstrom/quickstrom)/339 | High-confidence browser testing |
+| 254 | 13 | 7 | 13 days ago | [quickstrom](https://github.com/quickstrom/quickstrom)/337 | High-confidence browser testing |
+| 253 | 6 | 1 | 1 year, 25 days ago | [api.unverified.email](https://github.com/honest-technology/api.unverified.email)/338 | A service to help with testing of sending the right emails |
+| 252 | 17 | 9 | 1 year, 9 months ago | [three-layer](https://github.com/Holmusk/three-layer)/339 | :three: :cake: Architecture of the Haskell web applications |
 | 250 | 21 | 14 | a month ago | [halive](https://github.com/lukexi/halive)/340 | Live recompiler for Haskell |
 | 249 | 47 | 11 | 3 months ago | [inline-c](https://github.com/fpco/inline-c)/341 | None |
 | 249 | 54 | 29 | 7 months ago | [acid-state](https://github.com/acid-state/acid-state)/342 | Add ACID guarantees to any serializable Haskell data structure |
@@ -377,7 +377,7 @@
 | 223 | 12 | 3 | 8 days ago | [elaboration-zoo](https://github.com/AndrasKovacs/elaboration-zoo)/374 | Minimal implementations for dependent type checking and elaboration |
 | 223 | 28 | 13 | 2 months ago | [aws-lambda-haskell-runtime](https://github.com/theam/aws-lambda-haskell-runtime)/375 | ⚡Haskell runtime for AWS Lambda |
 | 221 | 13 | 2 | 3 years ago | [owlcloud](https://github.com/k-bx/owlcloud)/376 | OwnCloud for owls done via The Microservice Architecture |
-| 221 | 35 | 0 | 2 days ago | [1HaskellADay](https://github.com/geophf/1HaskellADay)/377 | None |
+| 221 | 35 | 0 | 3 days ago | [1HaskellADay](https://github.com/geophf/1HaskellADay)/377 | None |
 | 221 | 16 | 1 | 4 years ago | [mmaclone](https://github.com/jyh1/mmaclone)/378 | A simple Wolfram Language clone in Haskell |
 | 220 | 14 | 37 | 24 days ago | [linear-base](https://github.com/tweag/linear-base)/379 | Standard library for linear types in Haskell. |
 | 219 | 35 | 31 | 2 months ago | [tagsoup](https://github.com/ndmitchell/tagsoup)/380 | Haskell library for parsing and extracting information from (possibly malformed) HTML/XML documents |
@@ -396,7 +396,7 @@
 | 212 | 89 | 9 | 2 years ago | [lets-lens](https://github.com/system-f/lets-lens)/393 | Course material for lens |
 | 211 | 6 | 21 | 1 year, 1 day ago | [nixfmt](https://github.com/serokell/nixfmt)/394 | A formatter for Nix code |
 | 211 | 38 | 23 | a month ago | [co-log](https://github.com/kowainik/co-log)/395 | 📓 Flexible and configurable modern #Haskell logging framework |
-| 210 | 7 | 31 | 7 hours ago | [copilot](https://github.com/Copilot-Language/copilot)/396 | A stream-based runtime-verification framework for generating hard real-time C code. |
+| 210 | 7 | 31 | 11 hours ago | [copilot](https://github.com/Copilot-Language/copilot)/396 | A stream-based runtime-verification framework for generating hard real-time C code. |
 | 209 | 31 | 1 | 4 years ago | [haskelldocumentation](https://github.com/commercialhaskell/haskelldocumentation)/397 | Repository for collaborative Haskell documentation |
 | 209 | 6 | 13 | 2 years ago | [inline-rust](https://github.com/harpocrates/inline-rust)/398 | Use snippets of Rust inline in your Haskell programs |
 | 207 | 16 | 7 | 7 months ago | [nvim-hs](https://github.com/neovimhaskell/nvim-hs)/399 | Neovim API for Haskell plugins as well as the plugin provider |
@@ -431,7 +431,7 @@
 | 191 | 23 | 0 | 2 years ago | [glambda](https://github.com/goldfirere/glambda)/428 | The home of the Glamorous Glambda interpreter |
 | 189 | 8 | 2 | 3 months ago | [gotta-go-fast](https://github.com/callum-oakley/gotta-go-fast)/429 | A command line utility for practicing typing and measuring your WPM and accuracy. |
 | 189 | 9 | 10 | 11 months ago | [freer-simple](https://github.com/lexi-lambda/freer-simple)/430 | A friendly effect system for Haskell |
-| 189 | 15 | 7 | 1 year, 6 days ago | [lhc](https://github.com/Lemmih/lhc)/431 | The LLVM LHC Haskell Optimization System |
+| 189 | 15 | 7 | 1 year, 7 days ago | [lhc](https://github.com/Lemmih/lhc)/431 | The LLVM LHC Haskell Optimization System |
 | 188 | 84 | 100 | 11 months ago | [haskell-src-exts](https://github.com/haskell-suite/haskell-src-exts)/432 | Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer |
 | 188 | 24 | 9 | 3 months ago | [Haskell-Optparse-Generic-Library](https://github.com/Gabriel439/Haskell-Optparse-Generic-Library)/433 | Auto-generate a command-line parser for your datatype |
 | 187 | 15 | 0 | 2 years ago | [lambdacube-edsl](https://github.com/lambdacube3d/lambdacube-edsl)/434 | Previous version of LambdaCube 3D as Embedded Domain Specific Language in Haskell. Check the latest system: |
@@ -444,8 +444,8 @@
 | 185 | 37 | 23 | 24 days ago | [hint](https://github.com/haskell-hint/hint)/441 | Runtime Haskell interpreter |
 | 184 | 41 | 5 | 3 months ago | [yesod-cookbook](https://github.com/yesodweb/yesod-cookbook)/442 | Cookbook documentation |
 | 184 | 5 | 3 | 1 year, 8 months ago | [frank](https://github.com/frank-lang/frank)/443 | Frank compiler |
-| 183 | 4 | 10 | 22 days ago | [fireward](https://github.com/bijoutrouvaille/fireward)/444 | A concise and readable language for Firestore security rules, similar to Firebase Bolt. |
-| 182 | 7 | 2 | 2 months ago | [muesli](https://github.com/l29ah/muesli)/445 | An alternative approach to food |
+| 183 | 4 | 10 | 23 days ago | [fireward](https://github.com/bijoutrouvaille/fireward)/444 | A concise and readable language for Firestore security rules, similar to Firebase Bolt. |
+| 182 | 7 | 2 | 37 minutes ago | [muesli](https://github.com/l29ah/muesli)/445 | An alternative approach to food |
 | 181 | 5 | 10 | 5 years ago | [HerbiePlugin](https://github.com/mikeizbicki/HerbiePlugin)/446 | GHC plugin that improves Haskell code's numerical stability |
 | 181 | 22 | 0 | 6 years ago | [lex-pass](https://github.com/facebookarchive/lex-pass)/447 | manipulate a php codebase using haskell to transform the abstract-syntax-tree |
 | 180 | 15 | 3 | 10 months ago | [Haskell-Typed-Spreadsheet-Library](https://github.com/Gabriel439/Haskell-Typed-Spreadsheet-Library)/448 | Typed and composable spreadsheets |
@@ -491,7 +491,7 @@
 | 165 | 17 | 1 | 2 years ago | [ddc](https://github.com/discus-lang/ddc)/488 | The Disco Discus Compiler |
 | 164 | 46 | 18 | 21 days ago | [linear](https://github.com/ekmett/linear)/489 | Low-dimensional linear algebra primitives for Haskell. |
 | 164 | 21 | 17 | a month ago | [arbtt](https://github.com/nomeata/arbtt)/490 | arbtt, the automatic rule-based time-tracker |
-| 162 | 21 | 5 | 5 hours ago | [sv2v](https://github.com/zachjs/sv2v)/491 | SystemVerilog to Verilog conversion |
+| 162 | 21 | 5 | 10 hours ago | [sv2v](https://github.com/zachjs/sv2v)/491 | SystemVerilog to Verilog conversion |
 | 162 | 10 | 1 | 2 years ago | [dhc](https://github.com/dfinity-side-projects/dhc)/492 | Compiles Haskell to WebAssembly |
 | 162 | 13 | 1 | 3 years ago | [idris-php](https://github.com/edwinb/idris-php)/493 | Yes, really... |
 | 161 | 18 | 9 | 15 days ago | [DSLsofMath](https://github.com/DSLsofMath/DSLsofMath)/494 | Domain Specific Languages of Mathematics |
@@ -547,7 +547,7 @@
 | 147 | 19 | 9 | 5 days ago | [pdf-toolbox](https://github.com/Yuras/pdf-toolbox)/544 | A collection of tools for processing PDF files in Haskell |
 | 146 | 63 | 36 | 16 days ago | [cborg](https://github.com/well-typed/cborg)/545 | Binary serialisation in the CBOR format |
 | 146 | 5 | 13 | 9 months ago | [blip](https://github.com/bjpop/blip)/546 | A bytecode compiler for Python 3 |
-| 146 | 1 | 2 | 9 days ago | [finkel](https://github.com/finkel-lang/finkel)/547 | Haskell in S-expression |
+| 146 | 1 | 2 | 10 days ago | [finkel](https://github.com/finkel-lang/finkel)/547 | Haskell in S-expression |
 | 145 | 10 | 11 | 1 year, 2 months ago | [diagrams](https://github.com/diagrams/diagrams)/548 | Embedded domain-specific language for declarative vector graphics (wrapper package) |
 | 145 | 1 | 1 | 3 years ago | [higher-order-unification](https://github.com/jozefg/higher-order-unification)/549 | A small implementation of higher-order unification |
 | 145 | 7 | 2 | 2 years ago | [caledon](https://github.com/mmirman/caledon)/550 | higher order dependently typed logic programing |
@@ -560,7 +560,7 @@
 | 143 | 17 | 30 | 4 years ago | [language-c-inline](https://github.com/mchakravarty/language-c-inline)/557 | Inline C & Objective-C in Haskell |
 | 143 | 20 | 7 | 4 years ago | [zeromq-haskell](https://github.com/twittner/zeromq-haskell)/558 | This repository has been moved to https://gitlab.com/twittner/zeromq-haskell |
 | 142 | 14 | 8 | 2 years ago | [grpc-haskell](https://github.com/grpc/grpc-haskell)/559 | gRPC library binding for Haskell. |
-| 142 | 13 | 83 | 4 hours ago | [Carnap](https://github.com/Carnap/Carnap)/560 | A formal logic framework that runs in the browser |
+| 142 | 13 | 83 | 9 hours ago | [Carnap](https://github.com/Carnap/Carnap)/560 | A formal logic framework that runs in the browser |
 | 142 | 23 | 18 | 10 months ago | [GPipe-Core](https://github.com/tobbebex/GPipe-Core)/561 | Core library of new GPipe, encapsulating OpenGl and providing a type safe minimal library |
 | 142 | 4 | 0 | 4 years ago | [rei](https://github.com/kerkomen/rei)/562 | Process lists easily |
 | 142 | 14 | 1 | 4 years ago | [hulk](https://github.com/chrisdone/hulk)/563 | Haskell IRC daemon. |
@@ -571,7 +571,7 @@
 | 141 | 8 | 1 | 6 years ago | [chips](https://github.com/egonSchiele/chips)/568 | A clone of Chips Challenge in Haskell |
 | 141 | 4 | 2 | 8 years ago | [visi](https://github.com/visi-lang/visi)/569 | The Visi Language and iPad IDE |
 | 140 | 12 | 15 | 16 days ago | [curl-runnings](https://github.com/aviaviavi/curl-runnings)/570 | A declarative test framework for quickly and easily writing integration tests against JSON API's. |
-| 140 | 34 | 160 | 5 hours ago | [kore](https://github.com/kframework/kore)/571 | The symbolic execution engine powering the K Framework |
+| 140 | 34 | 162 | 10 hours ago | [kore](https://github.com/kframework/kore)/571 | The symbolic execution engine powering the K Framework |
 | 140 | 22 | 1 | 2 days ago | [refined](https://github.com/nikita-volkov/refined)/572 | Refinement types with static checking |
 | 140 | 10 | 5 | 3 years ago | [ComonadSheet](https://github.com/kwf/ComonadSheet)/573 | A library for expressing "spreadsheet-like" computations with absolute and relative references, using fixed-points of n-dimensional comonads. |
 | 139 | 14 | 8 | 3 months ago | [json-autotype](https://github.com/migamake/json-autotype)/574 | Automatic Haskell type inference from JSON input |
@@ -583,7 +583,7 @@
 | 138 | 4 | 3 | 1 year, 7 months ago | [cherchord](https://github.com/DataKinds/cherchord)/580 | 🎸 Find chords for any string instrument quicky & easily 🎸 |
 | 137 | 12 | 1 | 4 years ago | [aws-lambda-haskell](https://github.com/abailly/aws-lambda-haskell)/581 | Running Haskell code on AWS Lambda |
 | 137 | 59 | 40 | 6 days ago | [free](https://github.com/ekmett/free)/582 | free monads |
-| 137 | 61 | 15 | 6 days ago | [logger](https://github.com/kazu-yamamoto/logger)/583 | A fast logging system for Haskell |
+| 137 | 61 | 15 | 7 days ago | [logger](https://github.com/kazu-yamamoto/logger)/583 | A fast logging system for Haskell |
 | 137 | 22 | 28 | 3 months ago | [universum](https://github.com/serokell/universum)/584 | :milky_way: Prelude written in @Serokell |
 | 137 | 9 | 1 | 6 years ago | [BigPixel](https://github.com/mchakravarty/BigPixel)/585 | Pixel art for games |
 | 136 | 38 | 5 | 6 years ago | [critbit](https://github.com/haskell/critbit)/586 | A Haskell implementation of crit-bit trees. |
@@ -592,7 +592,7 @@
 | 136 | 19 | 4 | 8 months ago | [haskellers](https://github.com/snoyberg/haskellers)/589 | haskellers.com site |
 | 136 | 22 | 0 | 2 years ago | [haskell-yesod-realworld-example-app](https://github.com/tzemanovic/haskell-yesod-realworld-example-app)/590 | Exemplary real world application built with Haskell + Yesod |
 | 135 | 32 | 8 | 2 months ago | [accelerate-llvm](https://github.com/AccelerateHS/accelerate-llvm)/591 | LLVM backend for Accelerate |
-| 135 | 3 | 7 | 1 year, 4 days ago | [nixos-manager](https://github.com/pmiddend/nixos-manager)/592 | Manage your NixOS packages and configuration via a simple, intuitive UI |
+| 135 | 3 | 7 | 1 year, 5 days ago | [nixos-manager](https://github.com/pmiddend/nixos-manager)/592 | Manage your NixOS packages and configuration via a simple, intuitive UI |
 | 134 | 20 | 9 | 5 years ago | [lambda-ccc](https://github.com/conal/lambda-ccc)/593 | Convert lambda expressions to CCC combinators |
 | 134 | 11 | 41 | 1 year, 3 months ago | [cql](https://github.com/statebox/cql)/594 | CQL: Categorical Query Language implementation in Haskell |
 | 134 | 29 | 32 | 3 months ago | [ThreadScope](https://github.com/haskell/ThreadScope)/595 | A graphical tool for profiling parallel Haskell programs |
@@ -603,9 +603,9 @@
 | 133 | 7 | 6 | 2 months ago | [unfog](https://github.com/soywod/unfog)/600 | ⏱ Minimalist CLI task & time manager, written in Haskell. |
 | 133 | 17 | 5 | 2 months ago | [envy](https://github.com/dmjio/envy)/601 | :angry: Environmentally friendly environment variables |
 | 133 | 28 | 45 | 1 year, 10 months ago | [ajhc](https://github.com/ajhc/ajhc)/602 | A fork of jhc. And also a Haskell compiler. |
-| 133 | 33 | 13 | 6 days ago | [discord-haskell](https://github.com/aquarial/discord-haskell)/603 | Haskell library for writing Discord bots |
+| 133 | 33 | 13 | 7 days ago | [discord-haskell](https://github.com/aquarial/discord-haskell)/603 | Haskell library for writing Discord bots |
 | 133 | 41 | 31 | 5 years ago | [llvm-general](https://github.com/bscarlet/llvm-general)/604 | Rich LLVM bindings for Haskell (with transfer of LLVM IR to and from C++, detailed compilation pass control, etc.) |
-| 133 | 35 | 7 | 7 hours ago | [reach-lang](https://github.com/reach-sh/reach-lang)/605 | Reach: The Safest and Easiest DApp Programming Language |
+| 133 | 35 | 7 | 12 hours ago | [reach-lang](https://github.com/reach-sh/reach-lang)/605 | Reach: The Safest and Easiest DApp Programming Language |
 | 132 | 14 | 9 | 2 years ago | [bake](https://github.com/ndmitchell/bake)/606 | UNMAINTAINED: Continuous integration server |
 | 132 | 16 | 15 | 3 months ago | [numerical](https://github.com/wellposed/numerical)/607 | Numerical is the core library for Numerical Haskell |
 | 132 | 10 | 13 | 3 years ago | [idris-cil](https://github.com/bamboo/idris-cil)/608 | A Common Intermediate Language backend for Idris. |
@@ -663,7 +663,7 @@
 | 122 | 8 | 0 | 6 years ago | [Botworld](https://github.com/machine-intelligence/Botworld)/660 | A cellular automaton for studying self-modifying agents which are embedded in their environment |
 | 122 | 37 | 505 | 6 days ago | [ouroboros-network](https://github.com/input-output-hk/ouroboros-network)/661 | An implementation of the Ouroboros family of consensus algorithms, with its networking support |
 | 122 | 12 | 1 | 3 years ago | [haskell-sdl2-examples](https://github.com/palf/haskell-sdl2-examples)/662 | SDL2 tutorial code in Haskell |
-| 122 | 18 | 7 | 17 days ago | [mighttpd2](https://github.com/kazu-yamamoto/mighttpd2)/663 | File/CGI web server on warp |
+| 122 | 18 | 7 | 18 days ago | [mighttpd2](https://github.com/kazu-yamamoto/mighttpd2)/663 | File/CGI web server on warp |
 | 122 | 61 | 59 | 2 months ago | [diagrams-lib](https://github.com/diagrams/diagrams-lib)/664 | Diagrams standard library |
 | 122 | 17 | 3 | 8 months ago | [safe-exceptions](https://github.com/fpco/safe-exceptions)/665 | Safe, consistent, and easy exception handling |
 | 122 | 1 | 1 | 8 months ago | [calico](https://github.com/ix/calico)/666 | cat, but for colors 😼 |
@@ -681,7 +681,7 @@
 | 119 | 8 | 3 | 4 years ago | [swift-haskell-tutorial](https://github.com/nanotech/swift-haskell-tutorial)/678 | Integrating Haskell with Swift Mac Apps |
 | 119 | 12 | 4 | 3 years ago | [idris-py](https://github.com/ziman/idris-py)/679 | Python backend for Idris (generates Python source, not bytecode). |
 | 119 | 40 | 16 | 2 months ago | [arithmoi](https://github.com/Bodigrim/arithmoi)/680 | Number theory: primes, arithmetic functions, modular computations, special sequences |
-| 119 | 22 | 16 | 20 hours ago | [apply-refact](https://github.com/mpickering/apply-refact)/681 | Refactor Haskell source files |
+| 119 | 22 | 16 | 2 hours ago | [apply-refact](https://github.com/mpickering/apply-refact)/681 | Refactor Haskell source files |
 | 119 | 9 | 1 | 1 year, 5 months ago | [SitePipe](https://github.com/ChrisPenner/SitePipe)/682 | Yet another static site generator - non-opinionated, value-level.  Less magic == easier to understand |
 | 118 | 5 | 0 | 10 years ago | [Lemmachine](https://github.com/larrytheliquid/Lemmachine)/683 | REST'ful web framework in Agda |
 | 118 | 14 | 9 | 2 days ago | [Rasterific](https://github.com/Twinside/Rasterific)/684 | A drawing engine in Haskell |
@@ -689,9 +689,9 @@
 | 118 | 39 | 13 | 18 days ago | [hw-kafka-client](https://github.com/haskell-works/hw-kafka-client)/686 | Kafka client for Haskell, including auto-rebalancing consumers |
 | 118 | 14 | 6 | 4 years ago | [kontiki](https://github.com/NicolasT/kontiki)/687 | An implementation of the Raft consensus protocol |
 | 118 | 18 | 4 | 26 days ago | [pointfree](https://github.com/bmillwood/pointfree)/688 | Maintenance of the pointfree Hackage package. |
-| 118 | 7 | 2 | 15 days ago | [scarf](https://github.com/scarf-sh/scarf)/689 | An environment manager and development tool powered by Nomia. |
-| 118 | 17 | 6 | 25 days ago | [reflex-vty](https://github.com/reflex-frp/reflex-vty)/690 | Build terminal applications using functional reactive programming (FRP) with Reflex FRP. |
-| 118 | 12 | 12 | 8 days ago | [rib](https://github.com/srid/rib)/691 | Haskell static site generator based on Shake, with a delightful development experience. |
+| 118 | 7 | 2 | 16 days ago | [scarf](https://github.com/scarf-sh/scarf)/689 | An environment manager and development tool powered by Nomia. |
+| 118 | 17 | 6 | 26 days ago | [reflex-vty](https://github.com/reflex-frp/reflex-vty)/690 | Build terminal applications using functional reactive programming (FRP) with Reflex FRP. |
+| 118 | 12 | 12 | 8 days ago | [rib](https://github.com/srid/rib)/691 | Haskell static site generator based on Shake (superseded by Ema) |
 | 118 | 16 | 46 | 5 years ago | [ide-backend](https://github.com/fpco/ide-backend)/692 | ide-backend drives the GHC API to build, query, and run your code |
 | 118 | 12 | 7 | 6 months ago | [neural](https://github.com/brunjlar/neural)/693 | Neural Nets in native Haskell |
 | 118 | 28 | 39 | 2 years ago | [nirum](https://github.com/nirum-lang/nirum)/694 |  Nirum: IDL compiler and RPC/distributed object framework for microservices |
@@ -704,11 +704,11 @@
 | 117 | 3 | 1 | 2 years ago | [ghc-justdoit](https://github.com/nomeata/ghc-justdoit)/701 | A magic typeclass that just does it |
 | 116 | 23 | 23 | 1 year, 10 months ago | [open](https://github.com/diffusionkinetics/open)/702 | DiffusionKinetics open-source monorepo |
 | 116 | 2 | 0 | 2 months ago | [type-of-html](https://github.com/knupfer/type-of-html)/703 | High performance type safe html generation |
-| 116 | 23 | 14 | 9 days ago | [irc-core](https://github.com/glguy/irc-core)/704 | Haskell IRC library and console client - Join us on Freenode #haskell-irc |
+| 116 | 23 | 14 | 10 days ago | [irc-core](https://github.com/glguy/irc-core)/704 | Haskell IRC library and console client - Join us on Freenode #haskell-irc |
 | 116 | 29 | 31 | 1 year, 5 months ago | [monad-par](https://github.com/simonmar/monad-par)/705 | None |
 | 116 | 1 | 2 | 6 months ago | [lens-regex-pcre](https://github.com/ChrisPenner/lens-regex-pcre)/706 | Text lenses using PCRE regexes |
 | 116 | 33 | 18 | a month ago | [hxt](https://github.com/UweSchmidt/hxt)/707 | Haskell XML Toolbox |
-| 116 | 25 | 37 | 2 days ago | [ngless](https://github.com/ngless-toolkit/ngless)/708 | NGLess: NGS with less work |
+| 116 | 25 | 37 | 2 hours ago | [ngless](https://github.com/ngless-toolkit/ngless)/708 | NGLess: NGS with less work |
 | 116 | 13 | 7 | 23 days ago | [smallcheck](https://github.com/Bodigrim/smallcheck)/709 | Test your Haskell code by exhaustively checking its properties |
 | 116 | 3 | 0 | 5 years ago | [rust-haskell-ffi](https://github.com/aisamanra/rust-haskell-ffi)/710 | Toy example of calling Rust from Haskell |
 | 116 | 12 | 0 | 5 years ago | [Neks](https://github.com/wyager/Neks)/711 | A dead simple networked key/value store |
@@ -727,7 +727,7 @@
 | 114 | 8 | 2 | 2 months ago | [nix-deploy](https://github.com/awakesecurity/nix-deploy)/724 | Deploy software or an entire NixOS system configuration to another NixOS system |
 | 114 | 14 | 16 | 8 months ago | [steeloverseer](https://github.com/schell/steeloverseer)/725 | A file watcher and development tool. |
 | 113 | 43 | 13 | a month ago | [xlsx](https://github.com/qrilka/xlsx)/726 | Simple and incomplete Excel file parser/writer |
-| 113 | 39 | 13 | 5 days ago | [hoauth2](https://github.com/freizl/hoauth2)/727 | haskell oauth2 binding |
+| 113 | 39 | 13 | 6 days ago | [hoauth2](https://github.com/freizl/hoauth2)/727 | haskell oauth2 binding |
 | 113 | 30 | 15 | a month ago | [hfsnotify](https://github.com/haskell-fswatch/hfsnotify)/728 | Unified Haskell interface for basic file system notifications |
 | 112 | 7 | 40 | 2 years ago | [pier](https://github.com/judah/pier)/729 | Yet another Haskell build system. |
 | 112 | 9 | 8 | 2 months ago | [regex-applicative](https://github.com/UnkindPartition/regex-applicative)/730 | Regex-based parsing with applicative interface |
@@ -736,14 +736,14 @@
 | 112 | 5 | 3 | 4 years ago | [SimpleFP-v2](https://github.com/BekaValentine/SimpleFP-v2)/733 | A re-do of the SimpleFP repo using de Bruijn index ABTs instead of HOAS |
 | 112 | 11 | 0 | 7 years ago | [haskell-amuse-bouche](https://github.com/mzero/haskell-amuse-bouche)/734 | A short technical talk about some fun things in Haskell |
 | 112 | 40 | 27 | a month ago | [path](https://github.com/commercialhaskell/path)/735 | Typed filepath |
-| 112 | 26 | 14 | 14 days ago | [unliftio](https://github.com/fpco/unliftio)/736 | The MonadUnliftIO typeclass for unlifting monads to IO |
+| 112 | 27 | 13 | an hour ago | [unliftio](https://github.com/fpco/unliftio)/736 | The MonadUnliftIO typeclass for unlifting monads to IO |
 | 112 | 9 | 13 | 6 months ago | [slownews](https://github.com/srid/slownews)/737 | 🐢 Bringing slow news for the nervous among us |
 | 112 | 19 | 1 | 10 months ago | [gressgraph](https://github.com/jekor/gressgraph)/738 | visualize your iptables firewall |
 | 111 | 5 | 1 | 9 months ago | [lorem-markdownum](https://github.com/jaspervdj/lorem-markdownum)/739 | A lorem ipsum generator for markdown |
 | 111 | 17 | 3 | 4 days ago | [rattletrap](https://github.com/tfausak/rattletrap)/740 | :car: Parse and generate Rocket League replays. |
 | 111 | 13 | 0 | 4 years ago | [hnn](https://github.com/alpmestan/hnn)/741 | haskell neural network library |
 | 111 | 5 | 19 | 10 months ago | [distributed-dataset](https://github.com/utdemir/distributed-dataset)/742 | A distributed data processing framework in Haskell. |
-| 111 | 2 | 9 | 10 days ago | [hode](https://github.com/JeffreyBenjaminBrown/hode)/743 | rslt, take five-ish |
+| 111 | 2 | 9 | 11 days ago | [hode](https://github.com/JeffreyBenjaminBrown/hode)/743 | rslt, take five-ish |
 | 111 | 30 | 15 | 7 months ago | [hashtables](https://github.com/gregorycollins/hashtables)/744 | Mutable hash tables for Haskell, in the ST monad |
 | 111 | 23 | 17 | 9 months ago | [hatrace](https://github.com/nh2/hatrace)/745 | scriptable strace |
 | 111 | 6 | 7 | a month ago | [nix-diff](https://github.com/Gabriel439/nix-diff)/746 | Explain why two Nix derivations differ |
@@ -751,7 +751,7 @@
 | 110 | 11 | 0 | 2 years ago | [Haskell-OpenGL-Tutorial](https://github.com/madjestic/Haskell-OpenGL-Tutorial)/748 | an attempt to create a concise modern Haskell OpenGL boilerplate with basic IO |
 | 109 | 10 | 29 | 4 years ago | [ling](https://github.com/np/ling)/749 | LINear LaNGuage: Type Theory and Process Calculi for Distributed and High-precision programming |
 | 109 | 12 | 0 | 5 years ago | [minghc](https://github.com/fpco/minghc)/750 | DEPRECATED: Windows installer for GHC including msys |
-| 109 | 44 | 85 | an hour ago | [chainweb-node](https://github.com/kadena-io/chainweb-node)/751 | Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput |
+| 109 | 44 | 85 | 6 hours ago | [chainweb-node](https://github.com/kadena-io/chainweb-node)/751 | Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput |
 | 109 | 6 | 2 | 6 days ago | [inline-js](https://github.com/tweag/inline-js)/752 | Call JavaScript from Haskell, and vice versa! |
 | 109 | 27 | 7 | 2 years ago | [game-in-haskell](https://github.com/elisehuard/game-in-haskell)/753 | None |
 | 109 | 16 | 11 | 5 months ago | [pandoc-include-code](https://github.com/owickstrom/pandoc-include-code)/754 | A Pandoc filter for including code from source files |
@@ -835,17 +835,17 @@
 | 97 | 15 | 17 | 4 years ago | [hastache](https://github.com/lymar/hastache)/832 | Haskell implementation of Mustache template |
 | 97 | 8 | 10 | 1 year, 11 months ago | [sealchain](https://github.com/sealchain-project/sealchain)/833 | Financial blockchain based on cardano-sl |
 | 97 | 5 | 22 | 2 days ago | [what4](https://github.com/GaloisInc/what4)/834 | Symbolic formula representation and solver interaction library |
-| 96 | 1 | 1 | a month ago | [tensor-safe](https://github.com/leopiney/tensor-safe)/835 | A Haskell framework to define valid deep learning models and export them to other frameworks like TensorFlow JS or Keras. |
-| 96 | 9 | 4 | 5 months ago | [clckwrks](https://github.com/clckwrks/clckwrks)/836 | A Haskell CMS platform |
-| 96 | 10 | 1 | 3 years ago | [ifcxt](https://github.com/mikeizbicki/ifcxt)/837 | constraint level if statements |
-| 96 | 14 | 3 | 2 months ago | [markdown-unlit](https://github.com/sol/markdown-unlit)/838 | Literate Haskell support for Markdown |
+| 97 | 3 | 0 | 14 hours ago | [hsthrift](https://github.com/facebookincubator/hsthrift)/835 | The Haskell Thrift Compiler. This is an implementation of the Thrift spec that generates code in Haskell. It depends on the fbthrift project for the implementation of the underlying transport. |
+| 96 | 1 | 1 | a month ago | [tensor-safe](https://github.com/leopiney/tensor-safe)/836 | A Haskell framework to define valid deep learning models and export them to other frameworks like TensorFlow JS or Keras. |
+| 96 | 9 | 4 | 5 months ago | [clckwrks](https://github.com/clckwrks/clckwrks)/837 | A Haskell CMS platform |
+| 96 | 10 | 1 | 3 years ago | [ifcxt](https://github.com/mikeizbicki/ifcxt)/838 | constraint level if statements |
 | 96 | 8 | 0 | 6 months ago | [pcf](https://github.com/jozefg/pcf)/839 | A small compiler for PCF |
-| 96 | 7 | 1 | 9 months ago | [web-haskell-graphql-postgres-boilerplate](https://github.com/dandoh/web-haskell-graphql-postgres-boilerplate)/840 | Modern webserver in Haskell: Graphql + Postgresql + Authentication + DB migration + Dotenv and more |
-| 96 | 4 | 0 | 4 years ago | [crisp-compiler](https://github.com/talw/crisp-compiler)/841 | A compiler for Crisp (Lisp/Scheme-inspired language) in Haskell, with an LLVM backend |
-| 96 | 0 | 0 | 10 days ago | [shortcut-highlighter](https://github.com/Rasie1/shortcut-highlighter)/842 | Set of tools and services for highlighting shortcuts from applications and system with RGB keyboard |
-| 96 | 15 | 8 | 1 year, 11 months ago | [gonimo](https://github.com/gonimo/gonimo)/843 | gonimo application back & front |
-| 96 | 27 | 28 | a month ago | [tomland](https://github.com/kowainik/tomland)/844 | 🏝 Bidirectional TOML serialization |
-| 96 | 3 | 0 | 9 hours ago | [hsthrift](https://github.com/facebookincubator/hsthrift)/845 | The Haskell Thrift Compiler. This is an implementation of the Thrift spec that generates code in Haskell. It depends on the fbthrift project for the implementation of the underlying transport. |
+| 96 | 14 | 3 | 2 months ago | [markdown-unlit](https://github.com/sol/markdown-unlit)/840 | Literate Haskell support for Markdown |
+| 96 | 7 | 1 | 9 months ago | [web-haskell-graphql-postgres-boilerplate](https://github.com/dandoh/web-haskell-graphql-postgres-boilerplate)/841 | Modern webserver in Haskell: Graphql + Postgresql + Authentication + DB migration + Dotenv and more |
+| 96 | 4 | 0 | 4 years ago | [crisp-compiler](https://github.com/talw/crisp-compiler)/842 | A compiler for Crisp (Lisp/Scheme-inspired language) in Haskell, with an LLVM backend |
+| 96 | 0 | 0 | 11 days ago | [shortcut-highlighter](https://github.com/Rasie1/shortcut-highlighter)/843 | Set of tools and services for highlighting shortcuts from applications and system with RGB keyboard |
+| 96 | 15 | 8 | 1 year, 11 months ago | [gonimo](https://github.com/gonimo/gonimo)/844 | gonimo application back & front |
+| 96 | 27 | 28 | a month ago | [tomland](https://github.com/kowainik/tomland)/845 | 🏝 Bidirectional TOML serialization |
 | 95 | 4 | 0 | 5 years ago | [hinance](https://github.com/hinance/hinance)/846 | Automated personal bookkeeping for hackers. |
 | 95 | 25 | 48 | 10 months ago | [haskell-indexer](https://github.com/google/haskell-indexer)/847 | Emits code crossreference data for Haskell sources. |
 | 95 | 5 | 1 | 1 year, 7 months ago | [haze](https://github.com/cronokirby/haze)/848 | A bittorrent client, for learning purposes |
@@ -861,29 +861,29 @@
 | 93 | 15 | 5 | 5 years ago | [easyVision](https://github.com/albertoruiz/easyVision)/858 | Haskell packages for computer vision, image processing, and pattern recognition |
 | 93 | 66 | 6 | 6 days ago | [time](https://github.com/haskell/time)/859 | A time library |
 | 93 | 17 | 9 | 8 years ago | [Peggy](https://github.com/tanakh/Peggy)/860 | The Parser Generator for Haskell |
-| 93 | 10 | 0 | 4 years ago | [netwire-classics](https://github.com/ocharles/netwire-classics)/861 | Classic games recreated in netwire |
-| 93 | 19 | 31 | 4 years ago | [ApexCtl](https://github.com/tuxmark5/ApexCtl)/862 | An utility to enable extra macro keys on Steelseries Apex keyboards |
+| 93 | 19 | 31 | 4 years ago | [ApexCtl](https://github.com/tuxmark5/ApexCtl)/861 | An utility to enable extra macro keys on Steelseries Apex keyboards |
+| 93 | 10 | 0 | 4 years ago | [netwire-classics](https://github.com/ocharles/netwire-classics)/862 | Classic games recreated in netwire |
 | 93 | 10 | 1 | 8 months ago | [Bidirectional](https://github.com/ollef/Bidirectional)/863 | Haskell implementation of Dunfield and Krishnaswami's "Complete and easy bidirectional typechecking for higher-rank polymorphism" |
 | 92 | 17 | 23 | 1 year, 7 months ago | [dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal)/864 | Compile Dhall expressions to Cabal files |
-| 92 | 10 | 7 | 30 days ago | [row-types](https://github.com/target/row-types)/865 | A Haskell library for open records and variants using closed type families and type literals |
-| 92 | 6 | 0 | 3 years ago | [veggies](https://github.com/nomeata/veggies)/866 | Hopefully verifiable code generation in GHC |
-| 92 | 10 | 17 | a month ago | [hapistrano](https://github.com/stackbuilders/hapistrano)/867 | Deploy tool for Haskell applications, like Capistrano for Rails |
-| 92 | 9 | 0 | 7 years ago | [analytics](https://github.com/analytics/analytics)/868 | None |
-| 92 | 16 | 10 | 1 year, 3 months ago | [algebra](https://github.com/ekmett/algebra)/869 | constructive abstract algebra |
-| 92 | 4 | 6 | 1 year, 6 months ago | [cake-slayer](https://github.com/kowainik/cake-slayer)/870 | 🍰🔪 Architecture of Haskell backend applications |
-| 92 | 14 | 7 | 3 years ago | [haskellnews](https://github.com/haskellnews/haskellnews)/871 | An aggregation of all online content related to Haskell. |
-| 92 | 15 | 19 | 1 year, 3 months ago | [tintin](https://github.com/theam/tintin)/872 | 📚 A softer alternative to Haddock |
-| 92 | 6 | 2 | 17 days ago | [challenge](https://github.com/sweirich/challenge)/873 | Strongly-typed System F in Haskell |
-| 92 | 5 | 0 | 10 days ago | [nix-script](https://github.com/BrianHicks/nix-script)/874 | write scripts in compiled languages that run in the nix ecosystem, with no separate build step |
+| 92 | 6 | 0 | 3 years ago | [veggies](https://github.com/nomeata/veggies)/865 | Hopefully verifiable code generation in GHC |
+| 92 | 10 | 17 | a month ago | [hapistrano](https://github.com/stackbuilders/hapistrano)/866 | Deploy tool for Haskell applications, like Capistrano for Rails |
+| 92 | 9 | 0 | 7 years ago | [analytics](https://github.com/analytics/analytics)/867 | None |
+| 92 | 16 | 10 | 1 year, 3 months ago | [algebra](https://github.com/ekmett/algebra)/868 | constructive abstract algebra |
+| 92 | 4 | 6 | 1 year, 6 months ago | [cake-slayer](https://github.com/kowainik/cake-slayer)/869 | 🍰🔪 Architecture of Haskell backend applications |
+| 92 | 14 | 7 | 3 years ago | [haskellnews](https://github.com/haskellnews/haskellnews)/870 | An aggregation of all online content related to Haskell. |
+| 92 | 15 | 19 | 1 year, 3 months ago | [tintin](https://github.com/theam/tintin)/871 | 📚 A softer alternative to Haddock |
+| 92 | 6 | 2 | 17 days ago | [challenge](https://github.com/sweirich/challenge)/872 | Strongly-typed System F in Haskell |
+| 92 | 5 | 0 | 10 days ago | [nix-script](https://github.com/BrianHicks/nix-script)/873 | write scripts in compiled languages that run in the nix ecosystem, with no separate build step |
+| 92 | 13 | 2 | 4 years ago | [qio-haskell](https://github.com/alexandersgreen/qio-haskell)/874 | The Quantum IO Monad, implemented in Haskell |
 | 92 | 5 | 2 | 2 months ago | [tardis](https://github.com/DanBurton/tardis)/875 | None |
-| 92 | 13 | 2 | 4 years ago | [qio-haskell](https://github.com/alexandersgreen/qio-haskell)/876 | The Quantum IO Monad, implemented in Haskell |
-| 92 | 2 | 2 | 7 months ago | [spaceleak](https://github.com/ndmitchell/spaceleak)/877 | Notes on space leaks |
-| 92 | 20 | 0 | 4 months ago | [lambdapi](https://github.com/ilya-klyuchnikov/lambdapi)/878 | Dependently Typed Lambda Calculus in Haskell |
-| 91 | 16 | 6 | 10 months ago | [shell-conduit](https://github.com/psibi/shell-conduit)/879 | Write shell scripts with Conduit |
-| 91 | 12 | 7 | 5 years ago | [succinct](https://github.com/ekmett/succinct)/880 | playground for working with succinct data structures |
+| 92 | 2 | 2 | 7 months ago | [spaceleak](https://github.com/ndmitchell/spaceleak)/876 | Notes on space leaks |
+| 92 | 20 | 0 | 4 months ago | [lambdapi](https://github.com/ilya-klyuchnikov/lambdapi)/877 | Dependently Typed Lambda Calculus in Haskell |
+| 91 | 16 | 6 | 10 months ago | [shell-conduit](https://github.com/psibi/shell-conduit)/878 | Write shell scripts with Conduit |
+| 91 | 12 | 7 | 5 years ago | [succinct](https://github.com/ekmett/succinct)/879 | playground for working with succinct data structures |
+| 91 | 10 | 7 | 30 days ago | [row-types](https://github.com/target/row-types)/880 | A Haskell library for open records and variants using closed type families and type literals |
 | 91 | 9 | 28 | 9 months ago | [hs-gauge](https://github.com/vincenthz/hs-gauge)/881 | Lean Haskell Benchmarking |
 | 91 | 11 | 6 | 3 years ago | [haskell-rethinkdb](https://github.com/AtnNn/haskell-rethinkdb)/882 | RethinkDB client library for Haskell |
-| 91 | 36 | 1 | 3 days ago | [snowdrift](https://github.com/snowdriftcoop/snowdrift)/883 | Infrastructure for Snowdrift.coop. This is a MIRROR of https://gitlab.com/snowdrift/snowdrift. Your issue reports and merge requests are welcome, but they will be moved to gitlab.com. You are encouraged to start there instead! |
+| 91 | 36 | 1 | 4 days ago | [snowdrift](https://github.com/snowdriftcoop/snowdrift)/883 | Infrastructure for Snowdrift.coop. This is a MIRROR of https://gitlab.com/snowdrift/snowdrift. Your issue reports and merge requests are welcome, but they will be moved to gitlab.com. You are encouraged to start there instead! |
 | 91 | 8 | 0 | 9 months ago | [vocabulink](https://github.com/jekor/vocabulink)/884 | web application for learning foreign vocabulary |
 | 91 | 8 | 3 | 7 years ago | [hcraft](https://github.com/nandor/hcraft)/885 | Haskell clone of a certain game |
 | 91 | 13 | 2 | 4 months ago | [grid](https://github.com/mhwombat/grid)/886 | Tools for working with regular grids/graphs/lattices. |
@@ -928,7 +928,7 @@
 | 87 | 3 | 0 | 6 years ago | [type-inference](https://github.com/adamgundry/type-inference)/925 | Unification and type inference algorithms |
 | 87 | 4 | 2 | 1 year, 11 months ago | [theseus](https://github.com/chessai/theseus)/926 | theseus, functional programming language with fully reversible computation |
 | 87 | 57 | 42 | 2 days ago | [binary](https://github.com/kolmodin/binary)/927 | Efficient, pure binary serialisation using ByteStrings in Haskell. |
-| 87 | 42 | 5 | 4 hours ago | [haskell](https://github.com/kubernetes-client/haskell)/928 | Haskell client for the kubernetes API. A work in progress. |
+| 87 | 42 | 5 | 9 hours ago | [haskell](https://github.com/kubernetes-client/haskell)/928 | Haskell client for the kubernetes API. A work in progress. |
 | 87 | 17 | 0 | 3 years ago | [haskoin](https://github.com/MichaelBurge/haskoin)/929 | Proof-of-concept Blockchain in Haskell |
 | 87 | 7 | 1 | 6 years ago | [hailstorm](https://github.com/hailstorm-hs/hailstorm)/930 | Haskell distributed stream processing with exactly-once semantics |
 | 86 | 15 | 1 | 1 year, 8 months ago | [dataflow](https://github.com/sonyxperiadev/dataflow)/931 | Render graphs using a declarative markup. |
@@ -945,7 +945,7 @@
 | 85 | 17 | 0 | 6 years ago | [texts](https://github.com/Mzk-Levi/texts)/942 | None |
 | 85 | 17 | 2 | 2 months ago | [pandoc-sidenote](https://github.com/jez/pandoc-sidenote)/943 | Convert Pandoc Markdown-style footnotes into sidenotes |
 | 85 | 4 | 2 | 9 years ago | [siege](https://github.com/danielwaterworth/siege)/944 | [DEPRECATED] A DBMS written in Haskell |
-| 85 | 22 | 0 | 13 hours ago | [haskellweekly](https://github.com/haskellweekly/haskellweekly)/945 | Publishes curated news about the Haskell programming language. |
+| 85 | 22 | 0 | 18 hours ago | [haskellweekly](https://github.com/haskellweekly/haskellweekly)/945 | Publishes curated news about the Haskell programming language. |
 | 85 | 41 | 47 | 26 days ago | [primitive](https://github.com/haskell/primitive)/946 | This package provides various primitive memory-related operations. |
 | 85 | 3 | 2 | 6 months ago | [fastsum](https://github.com/patrickt/fastsum)/947 | A fast open-union type, suitable for 100+ contained alternatives. |
 | 85 | 29 | 23 | 3 years ago | [mysql-simple](https://github.com/paul-rouse/mysql-simple)/948 | A mid-level client library for the MySQL database, intended to be fast and easy to use.   |
@@ -957,11 +957,11 @@
 | 84 | 17 | 2 | 8 years ago | [Classical-Mechanics](https://github.com/chris-taylor/Classical-Mechanics)/954 | Haskell toolbox for research and teaching in classical mechanics. Includes modules for symbolic algebra and automatic differentiation. |
 | 84 | 17 | 7 | 2 years ago | [protobuf](https://github.com/alphaHeavy/protobuf)/955 | An implementation of Google's Protocol Buffers in Haskell. |
 | 84 | 5 | 0 | 5 months ago | [advent-of-code-2018](https://github.com/mstksg/advent-of-code-2018)/956 | Advent of Code 2018 Solutions (Spoilers!) |
-| 84 | 37 | 79 | a day ago | [cardano-ledger-specs](https://github.com/input-output-hk/cardano-ledger-specs)/957 | A formal specification and executable model of the ledger rules introduced by the Shelley release |
+| 84 | 37 | 79 | 4 hours ago | [cardano-ledger-specs](https://github.com/input-output-hk/cardano-ledger-specs)/957 | A formal specification and executable model of the ledger rules introduced by the Shelley release |
 | 84 | 13 | 58 | 6 months ago | [disco](https://github.com/disco-lang/disco)/958 | Functional teaching language for use in a discrete mathematics course |
 | 84 | 22 | 5 | 1 year, 13 days ago | [haskell-json](https://github.com/tsoding/haskell-json)/959 | Source Code for JSON Parser Video |
 | 84 | 59 | 12 | 2 months ago | [hashable](https://github.com/haskell-unordered-containers/hashable)/960 | A class for types that can be converted to a hash value |
-| 84 | 20 | 222 | 19 minutes ago | [Drasil](https://github.com/JacquesCarette/Drasil)/961 | Generate all the things (focusing on research software) |
+| 84 | 20 | 222 | 5 hours ago | [Drasil](https://github.com/JacquesCarette/Drasil)/961 | Generate all the things (focusing on research software) |
 | 84 | 18 | 2 | 3 months ago | [HUnit](https://github.com/hspec/HUnit)/962 | A unit testing framework for Haskell |
 | 84 | 44 | 25 | 7 years ago | [test-framework](https://github.com/batterseapower/test-framework)/963 | Framework for running and organising QuickCheck test properties and HUnit test cases |
 | 84 | 4 | 5 | 13 days ago | [hocker](https://github.com/awakesecurity/hocker)/964 | Utilities for interacting with the docker registry and generating nix build instructions |
