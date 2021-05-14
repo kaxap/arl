@@ -1,703 +1,703 @@
 ## This is a most popular repository list for VHDL sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 1314 | 232 | 245 | 9 hours ago | [ghdl](https://github.com/ghdl/ghdl)/1 | VHDL 2008/93/87 simulator |
-| 1108 | 408 | 3 | a month ago | [aws-fpga](https://github.com/aws/aws-fpga)/2 | Official repository of the AWS EC2 FPGA Hardware and Software Development Kit |
-| 1014 | 505 | 17 | 7 years ago | [Open-Source-FPGA-Bitcoin-Miner](https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner)/3 | A completely open source implementation of a Bitcoin Miner for Altera and Xilinx FPGAs. This project hopes to promote the free and open development of FPGA based mining solutions and secure the future of the Bitcoin project as a whole. A binary release is currently available for the Terasic DE2-115 Development Board, and there are compile-able projects for numerous boards. |
+| 1321 | 234 | 247 | 2 days ago | [ghdl](https://github.com/ghdl/ghdl)/1 | VHDL 2008/93/87 simulator |
+| 1107 | 409 | 4 | a month ago | [aws-fpga](https://github.com/aws/aws-fpga)/2 | Official repository of the AWS EC2 FPGA Hardware and Software Development Kit |
+| 1021 | 508 | 17 | 7 years ago | [Open-Source-FPGA-Bitcoin-Miner](https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner)/3 | A completely open source implementation of a Bitcoin Miner for Altera and Xilinx FPGAs. This project hopes to promote the free and open development of FPGA based mining solutions and secure the future of the Bitcoin project as a whole. A binary release is currently available for the Terasic DE2-115 Development Board, and there are compile-able projects for numerous boards. |
 | 763 | 38 | 1 | 4 years ago | [FPGA_Webserver](https://github.com/hamsternz/FPGA_Webserver)/4 | A work-in-progress for what is to be a software-free web server for static content. |
 | 516 | 120 | 7 | 6 years ago | [gplgpu](https://github.com/asicguy/gplgpu)/5 | GPL v3 2D/3D graphics engine in verilog |
-| 450 | 174 | 131 | 3 days ago | [vunit](https://github.com/VUnit/vunit)/6 | VUnit is a unit testing framework for VHDL/SystemVerilog |
-| 392 | 63 | 13 | 5 months ago | [gcvideo](https://github.com/ikorb/gcvideo)/7 | GameCube Digital AV converter |
+| 449 | 175 | 131 | 10 days ago | [vunit](https://github.com/VUnit/vunit)/6 | VUnit is a unit testing framework for VHDL/SystemVerilog |
+| 392 | 62 | 13 | 5 months ago | [gcvideo](https://github.com/ikorb/gcvideo)/7 | GameCube Digital AV converter |
 | 390 | 173 | 5 | 2 years ago | [parallella-hw](https://github.com/parallella/parallella-hw)/8 | Parallella board design files |
 | 385 | 142 | 3 | 3 years ago | [parallella-examples](https://github.com/parallella/parallella-examples)/9 | Community created parallella projects |
 | 381 | 85 | 31 | 1 year, 3 months ago | [PoC](https://github.com/VLSI-EDA/PoC)/10 | IP Core Library - Published and maintained by the Chair for VLSI Design, Diagnostics and Architecture, Faculty of Computer Science, Technische Universität Dresden, Germany |
-| 355 | 68 | 24 | a month ago | [mist-board](https://github.com/mist-devel/mist-board)/11 | Core sources and tools for the MIST board |
-| 341 | 109 | 9 | 1 year, 11 months ago | [dsi-shield](https://github.com/twlostow/dsi-shield)/12 | Arduino MIPI DSI Shield |
+| 357 | 68 | 24 | 2 months ago | [mist-board](https://github.com/mist-devel/mist-board)/11 | Core sources and tools for the MIST board |
+| 341 | 110 | 10 | 1 year, 11 months ago | [dsi-shield](https://github.com/twlostow/dsi-shield)/12 | Arduino MIPI DSI Shield |
 | 341 | 91 | 21 | 10 months ago | [f32c](https://github.com/f32c/f32c)/13 | A 32-bit RISC-V / MIPS ISA retargetable CPU core & SoC, 1.63 DMIPS/MHz |
-| 309 | 38 | 16 | 5 hours ago | [hal](https://github.com/emsec/hal)/14 | HAL – The Hardware Analyzer |
+| 308 | 38 | 16 | 9 hours ago | [hal](https://github.com/emsec/hal)/14 | HAL – The Hardware Analyzer |
 | 274 | 81 | 2 | 2 years ago | [CSI2Rx](https://github.com/gatecat/CSI2Rx)/15 | Open Source 4k CSI-2 Rx core for Xilinx FPGAs |
-| 266 | 34 | 6 | 1 year, 5 months ago | [opl3_fpga](https://github.com/gtaylormb/opl3_fpga)/16 | Reverse engineered SystemVerilog RTL version of the Yamaha OPL3 (YMF262) FM Synthesizer |
-| 249 | 20 | 0 | 11 months ago | [forth-cpu](https://github.com/howerj/forth-cpu)/17 | A Forth CPU and System on a Chip, based on the J1, written in VHDL |
-| 245 | 35 | 3 | 14 days ago | [awesome-model-quantization](https://github.com/htqin/awesome-model-quantization)/18 | A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. |
-| 222 | 37 | 7 | 7 months ago | [a2i](https://github.com/openpower-cores/a2i)/19 | None |
-| 210 | 23 | 0 | 3 months ago | [bladeRF-wiphy](https://github.com/Nuand/bladeRF-wiphy)/20 | bladeRF-wiphy is an open-source IEEE 802.11 compatible software defined radio VHDL modem |
-| 197 | 17 | 16 | a month ago | [ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin)/21 | VHDL synthesis (based on ghdl) |
-| 196 | 37 | 2 | 4 years ago | [FPGA_DisplayPort](https://github.com/hamsternz/FPGA_DisplayPort)/22 | An implementation of DisplayPort protocol for FPGAs |
-| 196 | 62 | 16 | 6 days ago | [UVVM](https://github.com/UVVM/UVVM)/23 | UVVM (Universal VHDL Verification Methodology) is a free and Open Source Methodology and Library for very efficient VHDL verification of FPGA and ASIC – resulting also in significant quality improvement.    Community forum: https://forum.uvvm.org/    UVVM.org: https://uvvm.org/ |
-| 186 | 32 | 2 | a month ago | [potato](https://github.com/skordal/potato)/24 | A simple RISC-V processor for use in FPGA designs. |
-| 163 | 46 | 5 | 3 years ago | [hardh264](https://github.com/bcattle/hardh264)/25 | A hardware h264 video encoder written in VHDL. Designed to be synthesized into an FPGA. Initial testing is using Xilinx tools and FPGAs but it is not specific to Xilinx. |
-| 161 | 20 | 4 | a month ago | [neo430](https://github.com/stnolting/neo430)/26 | A very small msp430-compatible customizable soft-core microcontroller-like processor system written in platform-independent VHDL. |
-| 161 | 31 | 0 | a day ago | [neorv32](https://github.com/stnolting/neorv32)/27 | A size-optimized, customizable full-scale 32-bit RISC-V soft-core CPU and SoC written in platform-independent VHDL. |
-| 159 | 31 | 1 | 2 years ago | [tinyTPU](https://github.com/jofrfu/tinyTPU)/28 | Implementation of a Tensor Processing Unit for embedded systems and the IoT. |
+| 269 | 38 | 1 | 2 days ago | [awesome-model-quantization](https://github.com/htqin/awesome-model-quantization)/16 | A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. |
+| 266 | 34 | 6 | 1 year, 6 months ago | [opl3_fpga](https://github.com/gtaylormb/opl3_fpga)/17 | Reverse engineered SystemVerilog RTL version of the Yamaha OPL3 (YMF262) FM Synthesizer |
+| 250 | 20 | 0 | 1 year, 6 days ago | [forth-cpu](https://github.com/howerj/forth-cpu)/18 | A Forth CPU and System on a Chip, based on the J1, written in VHDL |
+| 224 | 37 | 7 | 7 months ago | [a2i](https://github.com/openpower-cores/a2i)/19 | None |
+| 211 | 24 | 0 | 3 months ago | [bladeRF-wiphy](https://github.com/Nuand/bladeRF-wiphy)/20 | bladeRF-wiphy is an open-source IEEE 802.11 compatible software defined radio VHDL modem |
+| 199 | 63 | 17 | 13 days ago | [UVVM](https://github.com/UVVM/UVVM)/21 | UVVM (Universal VHDL Verification Methodology) is a free and Open Source Methodology and Library for very efficient VHDL verification of FPGA and ASIC – resulting also in significant quality improvement.    Community forum: https://forum.uvvm.org/    UVVM.org: https://uvvm.org/ |
+| 197 | 18 | 16 | a month ago | [ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin)/22 | VHDL synthesis (based on ghdl) |
+| 196 | 37 | 2 | 4 years ago | [FPGA_DisplayPort](https://github.com/hamsternz/FPGA_DisplayPort)/23 | An implementation of DisplayPort protocol for FPGAs |
+| 187 | 31 | 2 | 2 months ago | [potato](https://github.com/skordal/potato)/24 | A simple RISC-V processor for use in FPGA designs. |
+| 166 | 31 | 0 | a day ago | [neorv32](https://github.com/stnolting/neorv32)/25 | A size-optimized, customizable full-scale 32-bit RISC-V soft-core CPU and SoC written in platform-independent VHDL. |
+| 162 | 46 | 5 | 3 years ago | [hardh264](https://github.com/bcattle/hardh264)/26 | A hardware h264 video encoder written in VHDL. Designed to be synthesized into an FPGA. Initial testing is using Xilinx tools and FPGAs but it is not specific to Xilinx. |
+| 161 | 20 | 4 | a month ago | [neo430](https://github.com/stnolting/neo430)/27 | A very small msp430-compatible customizable soft-core microcontroller-like processor system written in platform-independent VHDL. |
+| 158 | 31 | 1 | 2 years ago | [tinyTPU](https://github.com/jofrfu/tinyTPU)/28 | Implementation of a Tensor Processing Unit for embedded systems and the IoT. |
 | 152 | 43 | 1 | 3 years ago | [vna2](https://github.com/Ttl/vna2)/29 | Second version of homemade 30 MHz - 6 GHz VNA |
-| 149 | 22 | 12 | 2 months ago | [fletcher](https://github.com/abs-tudelft/fletcher)/30 | Fletcher: A framework to integrate FPGA accelerators with Apache Arrow |
-| 144 | 42 | 15 | a month ago | [OSVVM](https://github.com/OSVVM/OSVVM)/31 | OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ... |
-| 142 | 57 | 0 | 4 years ago | [VHDL_Lib](https://github.com/xesscorp/VHDL_Lib)/32 | Library of VHDL components that are useful in larger designs. |
-| 142 | 18 | 0 | 5 years ago | [space-invaders-vhdl](https://github.com/fabioperez/space-invaders-vhdl)/33 | Space Invaders game implemented with VHDL |
-| 142 | 25 | 12 | a month ago | [C64-Video-Enhancement](https://github.com/c0pperdragon/C64-Video-Enhancement)/34 | Component video modification for the C64 8-bit computer |
-| 138 | 46 | 198 | 8 months ago | [mega65-core](https://github.com/MEGA65/mega65-core)/35 | MEGA65 FPGA core |
+| 149 | 22 | 12 | 3 months ago | [fletcher](https://github.com/abs-tudelft/fletcher)/30 | Fletcher: A framework to integrate FPGA accelerators with Apache Arrow |
+| 146 | 42 | 15 | 2 months ago | [OSVVM](https://github.com/OSVVM/OSVVM)/31 | OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ... |
+| 144 | 25 | 12 | a month ago | [C64-Video-Enhancement](https://github.com/c0pperdragon/C64-Video-Enhancement)/32 | Component video modification for the C64 8-bit computer |
+| 142 | 57 | 0 | 4 years ago | [VHDL_Lib](https://github.com/xesscorp/VHDL_Lib)/33 | Library of VHDL components that are useful in larger designs. |
+| 142 | 18 | 0 | 5 years ago | [space-invaders-vhdl](https://github.com/fabioperez/space-invaders-vhdl)/34 | Space Invaders game implemented with VHDL |
+| 138 | 48 | 200 | 6 days ago | [mega65-core](https://github.com/MEGA65/mega65-core)/35 | MEGA65 FPGA core |
 | 130 | 56 | 1 | 1 year, 6 months ago | [fmcw3](https://github.com/Ttl/fmcw3)/36 | Two RX-channel 6 GHz FMCW radar design files |
 | 127 | 27 | 16 | a month ago | [rust_hdl](https://github.com/VHDL-LS/rust_hdl)/37 | None |
 | 120 | 11 | 1 | 8 months ago | [hdl4fpga](https://github.com/hdl4fpga/hdl4fpga)/38 | VHDL library 4 FPGAs |
 | 120 | 23 | 1 | 6 years ago | [zpu](https://github.com/zylin/zpu)/39 | The Zylin ZPU |
 | 116 | 44 | 8 | 2 years ago | [Artix-7-HDMI-processing](https://github.com/hamsternz/Artix-7-HDMI-processing)/40 | Receiving and processing 1080p HDMI audio and video on the Artix 7 FPGA |
-| 114 | 69 | 15 | 2 years ago | [Cosmos-plus-OpenSSD](https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD)/41 | Cosmos OpenSSD + Hardware and Software source distribution |
+| 115 | 69 | 15 | 2 years ago | [Cosmos-plus-OpenSSD](https://github.com/Cosmos-OpenSSD/Cosmos-plus-OpenSSD)/41 | Cosmos OpenSSD + Hardware and Software source distribution |
 | 114 | 23 | 0 | 5 years ago | [neppielight](https://github.com/drxzcl/neppielight)/42 | FPGA-based HDMI ambient lighting |
 | 113 | 13 | 0 | 4 months ago | [nexys4ddr](https://github.com/MJoergen/nexys4ddr)/43 | Various projects for the Nexys4DDR board from Digilent |
-| 112 | 4 | 5 | 1 year, 1 day ago | [FPGBA](https://github.com/RobertPeip/FPGBA)/44 | GBA on FPGA |
-| 109 | 32 | 4 | 2 years ago | [vhdl-extras](https://github.com/kevinpt/vhdl-extras)/45 | Flexible VHDL library |
-| 109 | 23 | 5 | 3 months ago | [OpenXenium](https://github.com/Ryzee119/OpenXenium)/46 | OpenXenium - Open Source Xenium Modchip CPLD replacement project for the Original Xbox |
-| 104 | 33 | 1 | 1 year, 6 months ago | [XJTU-Tripler](https://github.com/venturezhao/XJTU-Tripler)/47 | This repository is the backup of XJTU-Tripler project, participating dac19 system design contest |
+| 112 | 4 | 5 | 1 year, 8 days ago | [FPGBA](https://github.com/RobertPeip/FPGBA)/44 | GBA on FPGA |
+| 110 | 33 | 4 | 2 years ago | [vhdl-extras](https://github.com/kevinpt/vhdl-extras)/45 | Flexible VHDL library |
+| 110 | 23 | 5 | 3 months ago | [OpenXenium](https://github.com/Ryzee119/OpenXenium)/46 | OpenXenium - Open Source Xenium Modchip CPLD replacement project for the Original Xbox |
+| 104 | 33 | 1 | 1 year, 7 months ago | [XJTU-Tripler](https://github.com/venturezhao/XJTU-Tripler)/47 | This repository is the backup of XJTU-Tripler project, participating dac19 system design contest |
 | 100 | 27 | 0 | 5 years ago | [HDMI2USB-jahanzeb-firmware](https://github.com/timvideos/HDMI2USB-jahanzeb-firmware)/48 | Original hand-coded firmware for the HDMI2USB - HDMI/DVI Capture - project |
-| 97 | 47 | 15 | a day ago | [SNES_MiSTer](https://github.com/MiSTer-devel/SNES_MiSTer)/49 | SNES for MiSTer |
-| 95 | 41 | 0 | 4 years ago | [ethernet_mac](https://github.com/yol/ethernet_mac)/50 | Tri-mode (10/100/1000) full-duplex FPGA ethernet MAC in VHDL |
-| 95 | 9 | 0 | 7 months ago | [RPU](https://github.com/Domipheus/RPU)/51 | Basic RISC-V CPU implementation in VHDL. |
-| 91 | 11 | 2 | 2 years ago | [freezing-spice](https://github.com/inforichland/freezing-spice)/52 | A pipelined RISCV implementation in VHDL |
-| 91 | 25 | 1 | a month ago | [ZYNQ7010-7020_AD9363](https://github.com/kangyuzhe666/ZYNQ7010-7020_AD9363)/53 | 基于ZYNQ+AD9363的开源SDR硬件 |
-| 90 | 9 | 1 | 4 years ago | [TPU](https://github.com/Domipheus/TPU)/54 | TPU, The Test Processing Unit. Or Terrible Processing Unit. A simple 16-bit CPU in VHDL for education as to the dataflow within a CPU. Designed to run on miniSpartan6+. |
-| 89 | 52 | 9 | 19 hours ago | [patmos](https://github.com/t-crest/patmos)/55 | Patmos is a time-predictable VLIW processor, and the processor for the T-CREST project |
+| 98 | 47 | 19 | 4 days ago | [SNES_MiSTer](https://github.com/MiSTer-devel/SNES_MiSTer)/49 | SNES for MiSTer |
+| 96 | 9 | 0 | 7 months ago | [RPU](https://github.com/Domipheus/RPU)/50 | Basic RISC-V CPU implementation in VHDL. |
+| 95 | 41 | 0 | 4 years ago | [ethernet_mac](https://github.com/yol/ethernet_mac)/51 | Tri-mode (10/100/1000) full-duplex FPGA ethernet MAC in VHDL |
+| 93 | 25 | 1 | a month ago | [ZYNQ7010-7020_AD9363](https://github.com/kangyuzhe666/ZYNQ7010-7020_AD9363)/52 | 基于ZYNQ+AD9363的开源SDR硬件 |
+| 91 | 11 | 2 | 2 years ago | [freezing-spice](https://github.com/inforichland/freezing-spice)/53 | A pipelined RISCV implementation in VHDL |
+| 91 | 52 | 9 | 7 days ago | [patmos](https://github.com/t-crest/patmos)/54 | Patmos is a time-predictable VLIW processor, and the processor for the T-CREST project |
+| 90 | 9 | 1 | 4 years ago | [TPU](https://github.com/Domipheus/TPU)/55 | TPU, The Test Processing Unit. Or Terrible Processing Unit. A simple 16-bit CPU in VHDL for education as to the dataflow within a CPU. Designed to run on miniSpartan6+. |
 | 86 | 40 | 59 | 2 months ago | [axiom-firmware](https://github.com/apertus-open-source-cinema/axiom-firmware)/56 | AXIOM firmware (linux image, gateware and software tools) |
-| 86 | 42 | 1 | Unknown | [hard-cv](https://github.com/jpiat/hard-cv)/57 | A repository of IPs for hardware computer vision (FPGA) |
-| 85 | 20 | 2 | 2 years ago | [PYNQ-DL](https://github.com/Xilinx/PYNQ-DL)/58 | Xilinx Deep Learning IP |
-| 84 | 9 | 0 | Unknown | [greta](https://github.com/endofexclusive/greta)/59 | GRETA expansion board for the Amiga 500 computer with Fast RAM, microSD mass storage and Ethernet controller, powered by FPGA technology. |
+| 86 | 42 | 1 | 5 years ago | [hard-cv](https://github.com/jpiat/hard-cv)/57 | A repository of IPs for hardware computer vision (FPGA) |
+| 85 | 20 | 0 | a day ago | [PYNQ-DL](https://github.com/Xilinx/PYNQ-DL)/58 | Xilinx Deep Learning IP |
+| 84 | 9 | 0 | 1 year, 6 months ago | [greta](https://github.com/endofexclusive/greta)/59 | GRETA expansion board for the Amiga 500 computer with Fast RAM, microSD mass storage and Ethernet controller, powered by FPGA technology. |
 | 83 | 32 | 1 | 8 years ago | [ZynqBTC](https://github.com/stiggy87/ZynqBTC)/60 | A Bitcoin miner for the Zynq chip utilizing the Zedboard. |
-| 80 | 92 | 2 | a month ago | [Digital-Design-Lab](https://github.com/xupsh/Digital-Design-Lab)/61 | None |
+| 81 | 92 | 2 | a month ago | [Digital-Design-Lab](https://github.com/xupsh/Digital-Design-Lab)/61 | None |
 | 79 | 49 | 1 | 2 years ago | [ZPUino-HDL](https://github.com/alvieboy/ZPUino-HDL)/62 | ZPUino HDL implementation |
 | 77 | 36 | 0 | Unknown | [Simon_Speck_Ciphers](https://github.com/inmcm/Simon_Speck_Ciphers)/63 | Implementations of the Simon and Speck Block Ciphers |
 | 77 | 17 | 8 | 1 year, 6 months ago | [AtomBusMon](https://github.com/hoglet67/AtomBusMon)/64 | This project is an open-source In-Circuit Emulator for the 6502, 65C02, Z80, 6809 and 6809E 8-bit processors.  See:  |
 | 74 | 20 | 9 | 1 year, 8 months ago | [bladeRF-adsb](https://github.com/Nuand/bladeRF-adsb)/65 | bladeRF ADS-B hardware decoder |
-| 74 | 12 | 17 | 1 year, 8 months ago | [w11](https://github.com/wfjm/w11)/66 | PDP-11/70 CPU core and SoC |
-| 72 | 48 | 2 | 8 months ago | [Hackster](https://github.com/ATaylorCEngFIET/Hackster)/67 | Files used with hackster examples  |
-| 71 | 49 | 2 | 11 months ago | [LimeSDR-USB_GW](https://github.com/myriadrf/LimeSDR-USB_GW)/68 | Altera Cyclone IV FPGA project for the USB 3.0 LimeSDR board |
-| 70 | 15 | 5 | 7 months ago | [sdram-fpga](https://github.com/nullobject/sdram-fpga)/69 | A FPGA core for a simple SDRAM controller. |
-| 69 | 6 | 0 | Unknown | [Gauntlet_FPGA](https://github.com/d18c7db/Gauntlet_FPGA)/70 | FPGA implementation of Atari's Gauntlet arcade game |
-| 68 | 3 | 1 | 6 years ago | [yafc](https://github.com/inforichland/yafc)/71 | Yet Another Forth Core... |
-| 67 | 24 | 7 | 19 days ago | [GBA_MiSTer](https://github.com/MiSTer-devel/GBA_MiSTer)/72 | GBA for MiSTer |
-| 66 | 28 | 4 | 7 days ago | [surf](https://github.com/slaclab/surf)/73 | A huge VHDL library for FPGA development |
-| 65 | 39 | 2 | 2 years ago | [spi-master](https://github.com/nandland/spi-master)/74 | SPI Master for FPGA - VHDL and Verilog |
+| 74 | 12 | 17 | Unknown | [w11](https://github.com/wfjm/w11)/66 | PDP-11/70 CPU core and SoC |
+| 72 | 48 | 2 | 9 months ago | [Hackster](https://github.com/ATaylorCEngFIET/Hackster)/67 | Files used with hackster examples  |
+| 71 | 49 | 2 | Unknown | [LimeSDR-USB_GW](https://github.com/myriadrf/LimeSDR-USB_GW)/68 | Altera Cyclone IV FPGA project for the USB 3.0 LimeSDR board |
+| 70 | 15 | 5 | Unknown | [sdram-fpga](https://github.com/nullobject/sdram-fpga)/69 | A FPGA core for a simple SDRAM controller. |
+| 69 | 28 | 4 | 5 days ago | [surf](https://github.com/slaclab/surf)/70 | A huge VHDL library for FPGA development |
+| 68 | 3 | 1 | Unknown | [yafc](https://github.com/inforichland/yafc)/71 | Yet Another Forth Core... |
+| 68 | 24 | 7 | 2 days ago | [GBA_MiSTer](https://github.com/MiSTer-devel/GBA_MiSTer)/72 | GBA for MiSTer |
+| 68 | 6 | 0 | 4 days ago | [Gauntlet_FPGA](https://github.com/d18c7db/Gauntlet_FPGA)/73 | FPGA implementation of Atari's Gauntlet arcade game |
+| 65 | 40 | 2 | Unknown | [spi-master](https://github.com/nandland/spi-master)/74 | SPI Master for FPGA - VHDL and Verilog |
 | 63 | 51 | 9 | Unknown | [logi-projects](https://github.com/fpga-logi/logi-projects)/75 | None |
-| 61 | 18 | 0 | 3 years ago | [fpga-multi-effect](https://github.com/Vladilit/fpga-multi-effect)/76 | FPGA-based Multi-Effects system for the electric guitar |
+| 62 | 18 | 0 | 3 years ago | [fpga-multi-effect](https://github.com/Vladilit/fpga-multi-effect)/76 | FPGA-based Multi-Effects system for the electric guitar |
 | 60 | 25 | 5 | 10 months ago | [haddoc2](https://github.com/DreamIP/haddoc2)/77 | Caffe to VHDL |
 | 60 | 7 | 1 | 3 years ago | [q27](https://github.com/preusser/q27)/78 | 27-Queens Puzzle: Massively Parellel Enumeration and Solution Counting |
 | 60 | 42 | 3 | Unknown | [sublime-vhdl](https://github.com/yangsu/sublime-vhdl)/79 | VHDL Package for Sublime Text |
-| 60 | 26 | 1 | 1 year, 1 month ago | [IIoT-EDDP](https://github.com/Xilinx/IIoT-EDDP)/80 | The repository contains the design database and documentation for Electric Drives Demonstration Platform |
-| 59 | 13 | 0 | 10 days ago | [spi-fpga](https://github.com/jakubcabal/spi-fpga)/81 | SPI master and SPI slave for FPGA written in VHDL |
-| 59 | 11 | 0 | Unknown | [vpcie](https://github.com/texane/vpcie)/82 | implement PCIE devices using C or VHDL and test them against a QEMU virtualized architecture |
+| 60 | 11 | 0 | 2 years ago | [vpcie](https://github.com/texane/vpcie)/80 | implement PCIE devices using C or VHDL and test them against a QEMU virtualized architecture |
+| 60 | 26 | 1 | 1 year, 1 month ago | [IIoT-EDDP](https://github.com/Xilinx/IIoT-EDDP)/81 | The repository contains the design database and documentation for Electric Drives Demonstration Platform |
+| 59 | 14 | 0 | 17 days ago | [spi-fpga](https://github.com/jakubcabal/spi-fpga)/82 | SPI master and SPI slave for FPGA written in VHDL |
 | 59 | 20 | 2 | 7 years ago | [Arduino-Soft-Core](https://github.com/GadgetFactory/Arduino-Soft-Core)/83 | None |
-| 56 | 17 | 0 | Unknown | [Hardware_Neural_Net](https://github.com/WilliamParks/Hardware_Neural_Net)/84 | Artificial Neural Network in hardware |
-| 55 | 6 | 3 | 10 hours ago | [gbaHD](https://github.com/zwenergy/gbaHD)/85 | A GBA to DVI converter. |
-| 55 | 16 | 0 | 3 years ago | [RFToolSDR](https://github.com/daveshah1/RFToolSDR)/86 | AD9361 based USB3 SDR |
+| 56 | 17 | 0 | 3 years ago | [Hardware_Neural_Net](https://github.com/WilliamParks/Hardware_Neural_Net)/84 | Artificial Neural Network in hardware |
+| 55 | 6 | 3 | 2 days ago | [gbaHD](https://github.com/zwenergy/gbaHD)/85 | A GBA to DVI converter. |
+| 55 | 16 | 0 | Unknown | [RFToolSDR](https://github.com/daveshah1/RFToolSDR)/86 | AD9361 based USB3 SDR |
 | 55 | 7 | 3 | a month ago | [jt51](https://github.com/jotego/jt51)/87 | YM2151 clone in verilog. FPGA proven. |
 | 55 | 32 | 1 | 5 years ago | [uart](https://github.com/pabennett/uart)/88 | A VHDL UART for communicating over a serial link with an FPGA |
-| 53 | 7 | 2 | 6 months ago | [Rudi-RV32I](https://github.com/hamsternz/Rudi-RV32I)/89 | A rudimental RISCV CPU supporting RV32I instructions, in VHDL |
-| 53 | 34 | 2 | 2 months ago | [TurboGrafx16_MiSTer](https://github.com/MiSTer-devel/TurboGrafx16_MiSTer)/90 | TurboGrafx-16 CD / PC Engine CD for MiSTer |
-| 53 | 19 | 0 | Unknown | [FpgasNowWhat](https://github.com/xesscorp/FpgasNowWhat)/91 | Source for the "FPGAs?! Now What?" Book |
-| 52 | 20 | 7 | 6 hours ago | [zxuno](https://github.com/zxdos/zxuno)/92 | None |
-| 51 | 5 | 0 | 4 months ago | [bit-serial](https://github.com/howerj/bit-serial)/93 | A bit-serial CPU written in VHDL, with a simulator written in C. |
-| 50 | 24 | 0 | Unknown | [FPGA-Oscilloscope](https://github.com/agural/FPGA-Oscilloscope)/94 | Design, Documentation, Schematic, Board, Code files for the FPGA Oscilloscope project using an Altera Cyclone III FPGA. |
-| 48 | 9 | 6 | 2 years ago | [ReonV](https://github.com/lcbcFoo/ReonV)/95 | ReonV is a modified version of the Leon3, a synthesisable VHDL model of a 32-bit processor originally compliant with the SPARC V8 architecture, now changed to RISC-V ISA. |
-| 48 | 33 | 0 | 4 years ago | [ODriveFPGA](https://github.com/madcowswe/ODriveFPGA)/96 | High performance motor control |
-| 48 | 17 | 0 | 5 months ago | [CNN_for_SLR](https://github.com/ilaydayaman/CNN_for_SLR)/97 | A trained Convolutional Neural Network implemented on ZedBoard Zynq-7000 FPGA. |
-| 47 | 9 | 2 | 1 year, 3 months ago | [JSON-for-VHDL](https://github.com/Paebbels/JSON-for-VHDL)/98 | A JSON library implemented in VHDL. |
-| 47 | 121 | 3 | 3 years ago | [Basys3](https://github.com/Digilent/Basys3)/99 | None |
+| 54 | 19 | 0 | Unknown | [FpgasNowWhat](https://github.com/xesscorp/FpgasNowWhat)/89 | Source for the "FPGAs?! Now What?" Book |
+| 53 | 7 | 2 | 6 months ago | [Rudi-RV32I](https://github.com/hamsternz/Rudi-RV32I)/90 | A rudimental RISCV CPU supporting RV32I instructions, in VHDL |
+| 53 | 34 | 2 | 2 months ago | [TurboGrafx16_MiSTer](https://github.com/MiSTer-devel/TurboGrafx16_MiSTer)/91 | TurboGrafx-16 CD / PC Engine CD for MiSTer |
+| 52 | 20 | 6 | a day ago | [zxuno](https://github.com/zxdos/zxuno)/92 | None |
+| 52 | 5 | 0 | 4 months ago | [bit-serial](https://github.com/howerj/bit-serial)/93 | A bit-serial CPU written in VHDL, with a simulator written in C. |
+| 50 | 24 | 0 | 6 years ago | [FPGA-Oscilloscope](https://github.com/agural/FPGA-Oscilloscope)/94 | Design, Documentation, Schematic, Board, Code files for the FPGA Oscilloscope project using an Altera Cyclone III FPGA. |
+| 49 | 9 | 6 | Unknown | [ReonV](https://github.com/lcbcFoo/ReonV)/95 | ReonV is a modified version of the Leon3, a synthesisable VHDL model of a 32-bit processor originally compliant with the SPARC V8 architecture, now changed to RISC-V ISA. |
+| 48 | 33 | 0 | Unknown | [ODriveFPGA](https://github.com/madcowswe/ODriveFPGA)/96 | High performance motor control |
+| 48 | 17 | 0 | Unknown | [CNN_for_SLR](https://github.com/ilaydayaman/CNN_for_SLR)/97 | A trained Convolutional Neural Network implemented on ZedBoard Zynq-7000 FPGA. |
+| 47 | 9 | 2 | Unknown | [JSON-for-VHDL](https://github.com/Paebbels/JSON-for-VHDL)/98 | A JSON library implemented in VHDL. |
+| 47 | 121 | 3 | Unknown | [Basys3](https://github.com/Digilent/Basys3)/99 | None |
 | 47 | 29 | 1 | 3 years ago | [SiaFpgaMiner](https://github.com/pedrorivera/SiaFpgaMiner)/100 | VHDL FPGA design of an optimized Blake2b pipeline to mine Siacoin |
 | 46 | 14 | 4 | 4 months ago | [A-VideoBoard](https://github.com/c0pperdragon/A-VideoBoard)/101 | FPGA board to create a component video signal for vintage computers. |
 | 46 | 10 | 1 | 2 years ago | [CoPro6502](https://github.com/hoglet67/CoPro6502)/102 | FPGA implementations of BBC Micro Co Processors (65C02, Z80, 6809, 68000, x86, ARM2, PDP-11, 32016) |
 | 45 | 8 | 2 | 2 months ago | [fpga-fft](https://github.com/owocomm-0/fpga-fft)/103 | A highly optimized streaming FFT core based on Bailey's 4-step large FFT algorithm |
 | 45 | 14 | 3 | 7 years ago | [libv](https://github.com/martinjthompson/libv)/104 | Useful set of library functions for VHDL |
-| 44 | 64 | 0 | 1 year, 3 months ago | [FPGA](https://github.com/suisuisi/FPGA)/105 | FPGA |
-| 44 | 23 | 1 | 1 year, 6 months ago | [fpgagen](https://github.com/Torlus/fpgagen)/106 | SEGA Genesis/Megadrive core, running on a Altera/Terasic DE1 board. |
-| 44 | 15 | 3 | a month ago | [leros](https://github.com/leros-dev/leros)/107 | A Tiny Processor Core |
-| 44 | 0 | 0 | 3 days ago | [fpga-dns-adtm](https://github.com/magetron/fpga-dns-adtm)/108 | High-performance/Low-Latency FPGA-based DNS attack detector and threat mitigator |
-| 43 | 8 | 0 | a month ago | [scaffold](https://github.com/Ledger-Donjon/scaffold)/109 | Donjon hardware tool for circuits security evaluation |
-| 43 | 15 | 0 | 5 months ago | [Image-Processing](https://github.com/Gowtham1729/Image-Processing)/110 | Image Processing Toolbox in Verilog using Basys3 FPGA |
-| 43 | 27 | 0 | 8 years ago | [VHDL](https://github.com/silverjam/VHDL)/111 | VHDL Samples |
-| 43 | 26 | 1 | 1 year, 6 months ago | [FPGA-I2C-Minion](https://github.com/oetr/FPGA-I2C-Minion)/112 | A simple I2C minion in VHDL |
+| 44 | 27 | 0 | 8 years ago | [VHDL](https://github.com/silverjam/VHDL)/105 | VHDL Samples |
+| 44 | 26 | 1 | 1 year, 6 months ago | [FPGA-I2C-Minion](https://github.com/oetr/FPGA-I2C-Minion)/106 | A simple I2C minion in VHDL |
+| 44 | 64 | 0 | 1 year, 3 months ago | [FPGA](https://github.com/suisuisi/FPGA)/107 | FPGA |
+| 44 | 23 | 1 | 1 year, 7 months ago | [fpgagen](https://github.com/Torlus/fpgagen)/108 | SEGA Genesis/Megadrive core, running on a Altera/Terasic DE1 board. |
+| 44 | 15 | 3 | a month ago | [leros](https://github.com/leros-dev/leros)/109 | A Tiny Processor Core |
+| 44 | 0 | 0 | 10 days ago | [fpga-dns-adtm](https://github.com/magetron/fpga-dns-adtm)/110 | High-performance/Low-Latency FPGA-based DNS attack detector and threat mitigator |
+| 43 | 8 | 0 | a month ago | [scaffold](https://github.com/Ledger-Donjon/scaffold)/111 | Donjon hardware tool for circuits security evaluation |
+| 43 | 15 | 0 | 6 months ago | [Image-Processing](https://github.com/Gowtham1729/Image-Processing)/112 | Image Processing Toolbox in Verilog using Basys3 FPGA |
 | 43 | 31 | 1 | 1 year, 3 months ago | [LimeSDR-Mini_GW](https://github.com/myriadrf/LimeSDR-Mini_GW)/113 | LimeSDR-Mini board FPGA project |
-| 43 | 23 | 2 | 3 years ago | [Vivado-KMeans](https://github.com/FelixWinterstein/Vivado-KMeans)/114 | Hand-written HDL code and C-based HLS designs for K-means clustering implementations on FPGAs |
-| 43 | 6 | 1 | 11 months ago | [1bitSDR](https://github.com/alberto-grl/1bitSDR)/115 | Minimal SDR with Lattice MachXO2 FPGA. And a port to Cyclone3 by Steven Groom |
-| 42 | 17 | 20 | 3 years ago | [HDMI2USB-numato-opsis-sample-code](https://github.com/timvideos/HDMI2USB-numato-opsis-sample-code)/116 | Example code for the Numato Opsis board, the first HDMI2USB production board. |
-| 42 | 28 | 7 | 5 years ago | [Papilio-Arcade](https://github.com/GadgetFactory/Papilio-Arcade)/117 | A collection of arcade games targeted for Papilio FPGA boards. Many of the games are from FPGAArcade.com. |
-| 42 | 21 | 1 | 9 days ago | [Mist_FPGA](https://github.com/Gehstock/Mist_FPGA)/118 | None |
-| 42 | 68 | 5 | a month ago | [mlib_devel](https://github.com/casper-astro/mlib_devel)/119 | None |
+| 43 | 21 | 1 | 11 hours ago | [Mist_FPGA](https://github.com/Gehstock/Mist_FPGA)/114 | None |
+| 43 | 23 | 2 | 3 years ago | [Vivado-KMeans](https://github.com/FelixWinterstein/Vivado-KMeans)/115 | Hand-written HDL code and C-based HLS designs for K-means clustering implementations on FPGAs |
+| 43 | 6 | 1 | 11 months ago | [1bitSDR](https://github.com/alberto-grl/1bitSDR)/116 | Minimal SDR with Lattice MachXO2 FPGA. And a port to Cyclone3 by Steven Groom |
+| 43 | 68 | 6 | a month ago | [mlib_devel](https://github.com/casper-astro/mlib_devel)/117 | None |
+| 42 | 17 | 20 | 3 years ago | [HDMI2USB-numato-opsis-sample-code](https://github.com/timvideos/HDMI2USB-numato-opsis-sample-code)/118 | Example code for the Numato Opsis board, the first HDMI2USB production board. |
+| 42 | 28 | 7 | 5 years ago | [Papilio-Arcade](https://github.com/GadgetFactory/Papilio-Arcade)/119 | A collection of arcade games targeted for Papilio FPGA boards. Many of the games are from FPGAArcade.com. |
 | 42 | 25 | 0 | 2 years ago | [AX7010](https://github.com/alinxalinx/AX7010)/120 | None |
 | 41 | 12 | 1 | a month ago | [phywhispererusb](https://github.com/newaetech/phywhispererusb)/121 | PhyWhisperer-USB: Hardware USB Trigger |
 | 40 | 6 | 1 | 6 months ago | [fos](https://github.com/FPGA-Research-Manchester/fos)/122 | FOS - FPGA Operating System |
 | 40 | 8 | 3 | 10 months ago | [FlowBlaze](https://github.com/axbryd/FlowBlaze)/123 | FlowBlaze: Stateful Packet Processing in Hardware |
-| 37 | 6 | 1 | 5 months ago | [wasca](https://github.com/hitomi2500/wasca)/124 | Sega Saturn multipurporse cartridge |
-| 37 | 13 | 0 | 24 days ago | [uart-for-fpga](https://github.com/jakubcabal/uart-for-fpga)/125 | Simple UART controller for FPGA  written in VHDL |
-| 37 | 2 | 0 | 2 months ago | [MandelbrotInVHDL](https://github.com/ttsiodras/MandelbrotInVHDL)/126 | What better way to learn VHDL, than to do some fractals? |
-| 36 | 14 | 0 | 5 years ago | [flearadio](https://github.com/emard/flearadio)/127 | Digital FM Radio Receiver for FPGA |
-| 36 | 10 | 0 | 1 year, 1 month ago | [flexray-interceptor](https://github.com/pd0wm/flexray-interceptor)/128 | FPGA project to man-in-the-middle attack Flexray |
+| 37 | 6 | 1 | 6 months ago | [wasca](https://github.com/hitomi2500/wasca)/124 | Sega Saturn multipurporse cartridge |
+| 37 | 2 | 0 | 2 months ago | [MandelbrotInVHDL](https://github.com/ttsiodras/MandelbrotInVHDL)/125 | What better way to learn VHDL, than to do some fractals? |
+| 36 | 14 | 0 | 5 years ago | [flearadio](https://github.com/emard/flearadio)/126 | Digital FM Radio Receiver for FPGA |
+| 36 | 13 | 0 | a month ago | [uart-for-fpga](https://github.com/jakubcabal/uart-for-fpga)/127 | Simple UART controller for FPGA  written in VHDL |
+| 36 | 10 | 0 | 1 year, 2 months ago | [flexray-interceptor](https://github.com/pd0wm/flexray-interceptor)/128 | FPGA project to man-in-the-middle attack Flexray |
 | 36 | 13 | 0 | 8 months ago | [intfftk](https://github.com/capitanov/intfftk)/129 | Fully pipelined Integer Scaled / Unscaled Radix-2 Forward/Inverse Fast Fourier Transform (FFT) IP-core for newest Xilinx FPGAs (Source language - VHDL / Verilog). GNU GPL 3.0. |
-| 36 | 2 | 6 | 2 days ago | [mc1](https://github.com/mrisc32/mc1)/130 | A computer (FPGA SoC) based on the MRISC32-A1 CPU |
-| 35 | 17 | 0 | a day ago | [MultiComp](https://github.com/douggilliland/MultiComp)/131 | Spins of Grant Searle's MultiComp project on various hardware |
+| 36 | 2 | 6 | 9 days ago | [mc1](https://github.com/mrisc32/mc1)/130 | A computer (FPGA SoC) based on the MRISC32-A1 CPU |
+| 35 | 17 | 0 | 3 days ago | [MultiComp](https://github.com/douggilliland/MultiComp)/131 | Spins of Grant Searle's MultiComp project on various hardware |
 | 35 | 20 | 0 | 3 years ago | [jTDC](https://github.com/jobisoft/jTDC)/132 | FPGA based 30ps RMS TDCs |
-| 35 | 10 | 2 | 2 months ago | [AppleIISd](https://github.com/freitz85/AppleIISd)/133 | SD card based ProFile replacement for IIe |
-| 35 | 13 | 0 | 5 years ago | [fpga-spectrum](https://github.com/mikestir/fpga-spectrum)/134 | Sinclair ZX Spectrum 48k and 128k on an Altera DE1 FPGA board |
-| 34 | 28 | 1 | 2 months ago | [rfsoc_qpsk](https://github.com/strath-sdr/rfsoc_qpsk)/135 | PYNQ example of using the RFSoC as a QPSK transceiver. |
-| 34 | 19 | 0 | 5 years ago | [MIPS-processor](https://github.com/PiJoules/MIPS-processor)/136 | MIPS processor designed in VHDL |
-| 33 | 22 | 2 | 9 months ago | [Zybo-Z7-20-pcam-5c](https://github.com/Digilent/Zybo-Z7-20-pcam-5c)/137 | None |
+| 35 | 28 | 1 | 2 months ago | [rfsoc_qpsk](https://github.com/strath-sdr/rfsoc_qpsk)/133 | PYNQ example of using the RFSoC as a QPSK transceiver. |
+| 35 | 10 | 2 | 2 months ago | [AppleIISd](https://github.com/freitz85/AppleIISd)/134 | SD card based ProFile replacement for IIe |
+| 35 | 13 | 0 | 5 years ago | [fpga-spectrum](https://github.com/mikestir/fpga-spectrum)/135 | Sinclair ZX Spectrum 48k and 128k on an Altera DE1 FPGA board |
+| 34 | 20 | 0 | 5 years ago | [MIPS-processor](https://github.com/PiJoules/MIPS-processor)/136 | MIPS processor designed in VHDL |
+| 33 | 22 | 2 | 10 months ago | [Zybo-Z7-20-pcam-5c](https://github.com/Digilent/Zybo-Z7-20-pcam-5c)/137 | None |
 | 33 | 12 | 0 | 7 years ago | [FPGAPCE](https://github.com/Torlus/FPGAPCE)/138 | PC-Engine / Turbografx-16 clone running on an Altera DE1 board. |
 | 32 | 7 | 5 | 7 months ago | [BeebFpga](https://github.com/hoglet67/BeebFpga)/139 | None |
 | 32 | 13 | 3 | 3 years ago | [mce2vga](https://github.com/lfantoniosi/mce2vga)/140 | MDA/CGA/EGA to VGA FPGA Converter V2.00 |
-| 31 | 11 | 0 | 3 years ago | [openMixR](https://github.com/daveshah1/openMixR)/141 | 4k Mixed Reality headset |
-| 31 | 4 | 0 | 2 months ago | [SneakySnake](https://github.com/CMU-SAFARI/SneakySnake)/142 | SneakySnake:snake: is the first and the only pre-alignment filtering algorithm that works efficiently and fast on modern CPU, FPGA, and GPU architectures. It greatly (by more than two orders of magnitude) expedites sequence alignment calculation for both short and long reads. Described in the Bioinformatics (2020) by Alser et al. https://arxiv.org/abs/1910.09020. |
-| 31 | 13 | 3 | 4 years ago | [fphdl](https://github.com/FPHDL/fphdl)/143 | VHDL-2008 Support Library |
-| 31 | 14 | 1 | 6 years ago | [img_process_vhdl](https://github.com/BG2BKK/img_process_vhdl)/144 | Image Processing on FPGA using VHDL |
-| 31 | 4 | 2 | 1 year, 11 months ago | [UnAmiga](https://github.com/benitoss/UnAmiga)/145 | Implementation of Amiga 500/1200 in Altera Cyclone IV FPGA |
-| 30 | 8 | 1 | 4 years ago | [FPGA_GigabitTx](https://github.com/hamsternz/FPGA_GigabitTx)/146 | Sending UDP packets out over a Gigabit PHY with an FPGA. |
+| 32 | 4 | 2 | 1 year, 11 months ago | [UnAmiga](https://github.com/benitoss/UnAmiga)/141 | Implementation of Amiga 500/1200 in Altera Cyclone IV FPGA |
+| 31 | 11 | 0 | 4 years ago | [openMixR](https://github.com/daveshah1/openMixR)/142 | 4k Mixed Reality headset |
+| 31 | 5 | 1 | 2 months ago | [SneakySnake](https://github.com/CMU-SAFARI/SneakySnake)/143 | SneakySnake:snake: is the first and the only pre-alignment filtering algorithm that works efficiently and fast on modern CPU, FPGA, and GPU architectures. It greatly (by more than two orders of magnitude) expedites sequence alignment calculation for both short and long reads. Described in the Bioinformatics (2020) by Alser et al. https://arxiv.org/abs/1910.09020. |
+| 31 | 13 | 3 | 4 years ago | [fphdl](https://github.com/FPHDL/fphdl)/144 | VHDL-2008 Support Library |
+| 31 | 14 | 1 | 6 years ago | [img_process_vhdl](https://github.com/BG2BKK/img_process_vhdl)/145 | Image Processing on FPGA using VHDL |
+| 30 | 8 | 1 | 5 years ago | [FPGA_GigabitTx](https://github.com/hamsternz/FPGA_GigabitTx)/146 | Sending UDP packets out over a Gigabit PHY with an FPGA. |
 | 30 | 8 | 0 | 8 years ago | [MIPS32](https://github.com/BYVoid/MIPS32)/147 | A MIPS32 CPU implemented by VHDL |
 | 30 | 8 | 0 | 4 years ago | [FPGA-radio](https://github.com/dawsonjon/FPGA-radio)/148 | Software Defined Radio in FPGA uses LVDS IO pins as 1-bit ADC |
 | 30 | 16 | 0 | 3 years ago | [FPGA-Speech-Recognition](https://github.com/MohammedRashad/FPGA-Speech-Recognition)/149 | Expiremental Speech Recognition System using VHDL & MATLAB. |
 | 30 | 15 | 0 | 7 years ago | [XuLA](https://github.com/xesscorp/XuLA)/150 | Everything to do with the XuLA FPGA board: schematics, layout, firmware, example FPGA designs, documentation, etc. |
 | 29 | 8 | 0 | 8 months ago | [karabas-128](https://github.com/andykarpov/karabas-128)/151 | Karabas-128. ZX Spectrum 128k clone, based on CPLD Altera EPM7128STC100 |
-| 29 | 17 | 0 | 1 year, 1 day ago | [tinycrypt](https://github.com/odzhan/tinycrypt)/152 | Crypto stuff. Don't use. |
-| 29 | 6 | 1 | 2 years ago | [riscv-tomthumb](https://github.com/maikmerten/riscv-tomthumb)/153 | A small RISC-V RV32I core written in VHDL, intended as testbed for my personal VHDL learning |
-| 29 | 23 | 3 | 5 years ago | [altera-de2-ann](https://github.com/ziyan/altera-de2-ann)/154 | Artificial Neural Network on Altera DE2 |
-| 29 | 8 | 0 | 5 years ago | [rgb2vga](https://github.com/lfantoniosi/rgb2vga)/155 | Analog RGB 15Khz to VGA 31Khz in FGPA |
-| 29 | 7 | 0 | 1 year, 6 months ago | [pano_man](https://github.com/skiphansen/pano_man)/156 | Simulation of the classic Pacman arcade game on a PanoLogic thin client. |
-| 29 | 2 | 0 | 5 years ago | [Sweet32-CPU](https://github.com/Basman74/Sweet32-CPU)/157 | Sweet32 32bit MRISC CPU - VHDL and software toolchain sources (including documentation) |
-| 29 | 5 | 0 | 10 months ago | [PYNQ-Torch](https://github.com/manoharvhr/PYNQ-Torch)/158 | PYNQ-Torch: a framework to develop PyTorch accelerators on the PYNQ platform |
-| 29 | 1 | 0 | 5 years ago | [fpga-vt](https://github.com/howardjones/fpga-vt)/159 | VT100-style terminal implemented on FPGA in VHDL |
-| 28 | 13 | 1 | 2 years ago | [FGPU](https://github.com/malkadi/FGPU)/160 | FGPU is a soft GPU architecture general purpose computing |
-| 28 | 1 | 0 | 22 hours ago | [apis_anatolia](https://github.com/mbaykenar/apis_anatolia)/161 | "Apis Anatolia" YouTube kanalında yayınlanan VHDL ve FPGA dersleri ile ilgili kodları içermektedir. |
-| 28 | 230 | 0 | 3 years ago | [vivado-library](https://github.com/DigilentInc/vivado-library)/162 | None |
-| 28 | 31 | 18 | 7 days ago | [SMS_MiSTer](https://github.com/MiSTer-devel/SMS_MiSTer)/163 | Sega Master System for MiSTer |
-| 27 | 1 | 0 | 1 year, 3 months ago | [router](https://github.com/CO-CN-Group1/router)/164 | 清华大学2019计网联合实验第一组 |
-| 27 | 6 | 1 | a month ago | [AXI4](https://github.com/OSVVM/AXI4)/165 | AXI4 Full, Lite, and AxiStream verification components. AXI4 Interface Master, Responder, and Memory verification components. AxiStream transmitter and receiver verification components |
-| 27 | 1 | 0 | 7 years ago | [arm4u](https://github.com/freecores/arm4u)/166 | ARM4U |
-| 27 | 8 | 2 | 10 months ago | [AtomFpga](https://github.com/hoglet67/AtomFpga)/167 | Dave's version of the Acorn Atom FPGA, based on AlanD's original from stardot.org.uk |
-| 27 | 10 | 0 | 9 years ago | [vhdl-nes](https://github.com/chenxiao07/vhdl-nes)/168 | nes emulator based on VHDL |
-| 27 | 14 | 0 | 2 years ago | [Designing-a-Custom-AXI-Slave-Peripheral](https://github.com/Architech-Silica/Designing-a-Custom-AXI-Slave-Peripheral)/169 | A guide to creating custom AXI-lite slave peripherals using the Xilinx Vivado tools |
+| 29 | 17 | 0 | 1 year, 8 days ago | [tinycrypt](https://github.com/odzhan/tinycrypt)/152 | Crypto stuff. Don't use. |
+| 29 | 1 | 0 | 2 days ago | [apis_anatolia](https://github.com/mbaykenar/apis_anatolia)/153 | "Apis Anatolia" YouTube kanalında yayınlanan VHDL ve FPGA dersleri ile ilgili kodları içermektedir. |
+| 29 | 6 | 1 | 2 years ago | [riscv-tomthumb](https://github.com/maikmerten/riscv-tomthumb)/154 | A small RISC-V RV32I core written in VHDL, intended as testbed for my personal VHDL learning |
+| 29 | 23 | 3 | 5 years ago | [altera-de2-ann](https://github.com/ziyan/altera-de2-ann)/155 | Artificial Neural Network on Altera DE2 |
+| 29 | 8 | 0 | 5 years ago | [rgb2vga](https://github.com/lfantoniosi/rgb2vga)/156 | Analog RGB 15Khz to VGA 31Khz in FGPA |
+| 29 | 7 | 0 | 1 year, 6 months ago | [pano_man](https://github.com/skiphansen/pano_man)/157 | Simulation of the classic Pacman arcade game on a PanoLogic thin client. |
+| 29 | 2 | 0 | 5 years ago | [Sweet32-CPU](https://github.com/Basman74/Sweet32-CPU)/158 | Sweet32 32bit MRISC CPU - VHDL and software toolchain sources (including documentation) |
+| 29 | 5 | 0 | 10 months ago | [PYNQ-Torch](https://github.com/manoharvhr/PYNQ-Torch)/159 | PYNQ-Torch: a framework to develop PyTorch accelerators on the PYNQ platform |
+| 29 | 32 | 17 | 4 days ago | [SMS_MiSTer](https://github.com/MiSTer-devel/SMS_MiSTer)/160 | Sega Master System for MiSTer |
+| 29 | 1 | 0 | 5 years ago | [fpga-vt](https://github.com/howardjones/fpga-vt)/161 | VT100-style terminal implemented on FPGA in VHDL |
+| 28 | 13 | 1 | 2 years ago | [FGPU](https://github.com/malkadi/FGPU)/162 | FGPU is a soft GPU architecture general purpose computing |
+| 28 | 232 | 0 | 3 years ago | [vivado-library](https://github.com/DigilentInc/vivado-library)/163 | None |
+| 28 | 14 | 0 | 2 years ago | [Designing-a-Custom-AXI-Slave-Peripheral](https://github.com/Architech-Silica/Designing-a-Custom-AXI-Slave-Peripheral)/164 | A guide to creating custom AXI-lite slave peripherals using the Xilinx Vivado tools |
+| 27 | 1 | 0 | 1 year, 3 months ago | [router](https://github.com/CO-CN-Group1/router)/165 | 清华大学2019计网联合实验第一组 |
+| 27 | 6 | 1 | a month ago | [AXI4](https://github.com/OSVVM/AXI4)/166 | AXI4 Full, Lite, and AxiStream verification components. AXI4 Interface Master, Responder, and Memory verification components. AxiStream transmitter and receiver verification components |
+| 27 | 1 | 0 | 7 years ago | [arm4u](https://github.com/freecores/arm4u)/167 | ARM4U |
+| 27 | 8 | 2 | 10 months ago | [AtomFpga](https://github.com/hoglet67/AtomFpga)/168 | Dave's version of the Acorn Atom FPGA, based on AlanD's original from stardot.org.uk |
+| 27 | 10 | 0 | 9 years ago | [vhdl-nes](https://github.com/chenxiao07/vhdl-nes)/169 | nes emulator based on VHDL |
 | 27 | 8 | 2 | 5 years ago | [ZPUFlex](https://github.com/robinsonb5/ZPUFlex)/170 | A highly-configurable and compact variant of the ZPU processor core |
-| 27 | 12 | 0 | 3 years ago | [SpaceInvadersFpgaGame](https://github.com/nikkatsa7/SpaceInvadersFpgaGame)/171 | Verilog implementation of the classic arcade game Space Invaders for the Zedboard FPGA board  |
-| 26 | 7 | 0 | 4 months ago | [X68000_MiSTer](https://github.com/MiSTer-devel/X68000_MiSTer)/172 | Sharp X68000 for MiSTer |
-| 26 | 17 | 18 | 2 months ago | [Orio](https://github.com/brnorris03/Orio)/173 | Orio is an open-source extensible framework for the definition of domain-specific languages and generation of optimized code for multiple architecture targets, including support for empirical autotuning of the generated code. |
-| 26 | 14 | 0 | 7 years ago | [FPGA-FAST](https://github.com/PUTvision/FPGA-FAST)/174 | FPGA FAST image feature detector implementation in VHDL |
-| 26 | 11 | 0 | 5 years ago | [FPGA-OV7670-cam](https://github.com/ShoeShi/FPGA-OV7670-cam)/175 | VHDL/FPGA/OV7670 |
-| 26 | 32 | 3 | 5 years ago | [logi-hard](https://github.com/fpga-logi/logi-hard)/176 | All Logi specific HDL code (platform specific interface, extension boards, specific hdl, etc) |
-| 26 | 2 | 1 | 2 months ago | [psl_with_ghdl](https://github.com/tmeissner/psl_with_ghdl)/177 | Examples of using PSL for functional and formal verification of VHDL with GHDL (and SymbiYosys) |
-| 26 | 4 | 0 | 1 year, 7 months ago | [BenEaterVHDL](https://github.com/XarkLabs/BenEaterVHDL)/178 | VHDL project to run a simple 8-bit computer very similar to the one built by Ben Eater (see https://eater.net) |
-| 26 | 3 | 1 | 11 days ago | [FPGACosmacELF](https://github.com/wel97459/FPGACosmacELF)/179 | This re-creation of a cosmic ELF computer, Coded in SpinalHDL |
-| 25 | 1 | 0 | a year ago | [aes](https://github.com/mmattioli/aes)/180 | AES-128 hardware implementation |
+| 27 | 3 | 1 | 18 days ago | [FPGACosmacELF](https://github.com/wel97459/FPGACosmacELF)/171 | This re-creation of a cosmic ELF computer, Coded in SpinalHDL |
+| 27 | 12 | 0 | 3 years ago | [SpaceInvadersFpgaGame](https://github.com/nikkatsa7/SpaceInvadersFpgaGame)/172 | Verilog implementation of the classic arcade game Space Invaders for the Zedboard FPGA board  |
+| 26 | 7 | 0 | 4 months ago | [X68000_MiSTer](https://github.com/MiSTer-devel/X68000_MiSTer)/173 | Sharp X68000 for MiSTer |
+| 26 | 17 | 18 | 2 months ago | [Orio](https://github.com/brnorris03/Orio)/174 | Orio is an open-source extensible framework for the definition of domain-specific languages and generation of optimized code for multiple architecture targets, including support for empirical autotuning of the generated code. |
+| 26 | 14 | 0 | 7 years ago | [FPGA-FAST](https://github.com/PUTvision/FPGA-FAST)/175 | FPGA FAST image feature detector implementation in VHDL |
+| 26 | 11 | 0 | 5 years ago | [FPGA-OV7670-cam](https://github.com/ShoeShi/FPGA-OV7670-cam)/176 | VHDL/FPGA/OV7670 |
+| 26 | 32 | 3 | 5 years ago | [logi-hard](https://github.com/fpga-logi/logi-hard)/177 | All Logi specific HDL code (platform specific interface, extension boards, specific hdl, etc) |
+| 26 | 2 | 1 | 2 months ago | [psl_with_ghdl](https://github.com/tmeissner/psl_with_ghdl)/178 | Examples of using PSL for functional and formal verification of VHDL with GHDL (and SymbiYosys) |
+| 26 | 4 | 0 | 1 year, 7 months ago | [BenEaterVHDL](https://github.com/XarkLabs/BenEaterVHDL)/179 | VHDL project to run a simple 8-bit computer very similar to the one built by Ben Eater (see https://eater.net) |
+| 25 | 1 | 0 | 1 year, 7 days ago | [aes](https://github.com/mmattioli/aes)/180 | AES-128 hardware implementation |
 | 25 | 15 | 0 | 3 years ago | [MIPI_CSI2_TX](https://github.com/VideoGPU/MIPI_CSI2_TX)/181 | VHDL code for using Xilinx MGT gigabit transceivers/LVDS lines for MIPI CSI-2 TX  protocol |
 | 25 | 13 | 0 | 1 year, 6 months ago | [Rattlesnake](https://github.com/PulseRain/Rattlesnake)/182 | PulseRain Rattlesnake - RISCV RV32IMC Soft CPU  |
 | 25 | 19 | 8 | 2 months ago | [Atari2600_MiSTer](https://github.com/MiSTer-devel/Atari2600_MiSTer)/183 | Atari 2600 for MiSTer |
-| 25 | 7 | 0 | 30 days ago | [dvb_fpga](https://github.com/phase4ground/dvb_fpga)/184 | RTL implementation of components for DVB-S2  |
-| 25 | 8 | 0 | 2 years ago | [PYNQ_softmax](https://github.com/9334swjtu/PYNQ_softmax)/185 | achieve softmax in PYNQ with heterogeneous computing. |
-| 25 | 9 | 1 | 8 months ago | [fp23fftk](https://github.com/capitanov/fp23fftk)/186 | Floating point Forward/Inverse Fast Fourier Transform (FFT) IP-core for newest Xilinx FPGAs (Source lang. - VHDL). |
-| 25 | 3 | 0 | 11 months ago | [fpga-nat64](https://github.com/twd2/fpga-nat64)/187 | A four-10gbe-port dual-stack router with IPv4 and IPv6 translation support. |
-| 25 | 7 | 2 | 16 days ago | [cps2_digiav](https://github.com/marqs85/cps2_digiav)/188 | CPS2 digital AV interface |
-| 24 | 14 | 3 | 5 years ago | [OpenRIO](https://github.com/magro732/OpenRIO)/189 | Contains VHDL IP-blocks to create stand-alone RapidIO-endpoints, RapidIO-switches and RapidIO-switches with local endpoints. |
-| 24 | 11 | 0 | 4 years ago | [FPGA_Neural-Network](https://github.com/agostini01/FPGA_Neural-Network)/190 | The objective is to implement a Neural Network in VHDL code. It is aiming the Cyclone II FPGA Starter Development Kit hardware, but the Neural Network part is meant to be generic, thus it can be used along with different hardware setups. |
-| 24 | 9 | 1 | 3 years ago | [snickerdoodle-examples](https://github.com/krtkl/snickerdoodle-examples)/191 | Example projects for snickerdoodle |
-| 24 | 17 | 5 | 2 years ago | [blockmon](https://github.com/sysml/blockmon)/192 | A Modular System for Flexible, High-Performance Traffic http://www.ict-mplane.eu/  |
-| 24 | 13 | 3 | 5 days ago | [ahir](https://github.com/madhavPdesai/ahir)/193 | Algorithm to hardware compilation tools (e.g. C to VHDL). |
-| 24 | 7 | 0 | 4 months ago | [PoC-Examples](https://github.com/VLSI-EDA/PoC-Examples)/194 | This repository contains synthesizable examples which use the PoC-Library. |
-| 24 | 4 | 5 | 2 years ago | [MARK_II](https://github.com/VladisM/MARK_II)/195 | Simple SoC in VHDL with full toolchain and custom board. |
-| 24 | 16 | 2 | 3 years ago | [Designing-a-Custom-AXI-Master-using-BFMs](https://github.com/Architech-Silica/Designing-a-Custom-AXI-Master-using-BFMs)/196 | A guide to creating custom AXI4 masters using the Xilinx Vivado tools and Bus Functional Models |
+| 25 | 7 | 0 | a month ago | [dvb_fpga](https://github.com/phase4ground/dvb_fpga)/184 | RTL implementation of components for DVB-S2  |
+| 25 | 4 | 5 | 2 years ago | [MARK_II](https://github.com/VladisM/MARK_II)/185 | Simple SoC in VHDL with full toolchain and custom board. |
+| 25 | 8 | 0 | 2 years ago | [PYNQ_softmax](https://github.com/9334swjtu/PYNQ_softmax)/186 | achieve softmax in PYNQ with heterogeneous computing. |
+| 25 | 17 | 2 | 3 years ago | [Designing-a-Custom-AXI-Master-using-BFMs](https://github.com/Architech-Silica/Designing-a-Custom-AXI-Master-using-BFMs)/187 | A guide to creating custom AXI4 masters using the Xilinx Vivado tools and Bus Functional Models |
+| 25 | 9 | 1 | 8 months ago | [fp23fftk](https://github.com/capitanov/fp23fftk)/188 | Floating point Forward/Inverse Fast Fourier Transform (FFT) IP-core for newest Xilinx FPGAs (Source lang. - VHDL). |
+| 25 | 3 | 0 | 11 months ago | [fpga-nat64](https://github.com/twd2/fpga-nat64)/189 | A four-10gbe-port dual-stack router with IPv4 and IPv6 translation support. |
+| 25 | 7 | 2 | 23 days ago | [cps2_digiav](https://github.com/marqs85/cps2_digiav)/190 | CPS2 digital AV interface |
+| 24 | 14 | 3 | 5 years ago | [OpenRIO](https://github.com/magro732/OpenRIO)/191 | Contains VHDL IP-blocks to create stand-alone RapidIO-endpoints, RapidIO-switches and RapidIO-switches with local endpoints. |
+| 24 | 11 | 0 | 4 years ago | [FPGA_Neural-Network](https://github.com/agostini01/FPGA_Neural-Network)/192 | The objective is to implement a Neural Network in VHDL code. It is aiming the Cyclone II FPGA Starter Development Kit hardware, but the Neural Network part is meant to be generic, thus it can be used along with different hardware setups. |
+| 24 | 9 | 1 | 3 years ago | [snickerdoodle-examples](https://github.com/krtkl/snickerdoodle-examples)/193 | Example projects for snickerdoodle |
+| 24 | 17 | 5 | 2 years ago | [blockmon](https://github.com/sysml/blockmon)/194 | A Modular System for Flexible, High-Performance Traffic http://www.ict-mplane.eu/  |
+| 24 | 13 | 3 | 4 days ago | [ahir](https://github.com/madhavPdesai/ahir)/195 | Algorithm to hardware compilation tools (e.g. C to VHDL). |
+| 24 | 7 | 0 | 4 months ago | [PoC-Examples](https://github.com/VLSI-EDA/PoC-Examples)/196 | This repository contains synthesizable examples which use the PoC-Library. |
 | 24 | 13 | 0 | 5 years ago | [STREAM](https://github.com/myriadrf/STREAM)/197 | FPGA development platform for high-performance RF and digital design |
-| 23 | 9 | 5 | 8 months ago | [msx1fpga](https://github.com/fbelavenuto/msx1fpga)/198 | MSX1 cloned in FPGA |
-| 23 | 3 | 0 | 6 months ago | [ArtyS7-RPU-SoC](https://github.com/Domipheus/ArtyS7-RPU-SoC)/199 | Project for an RPU RISC-V system on chip implementation on the Digilent Arty S7-50 FPGA development board. |
-| 23 | 19 | 0 | 5 years ago | [zynq_examples](https://github.com/jiangjiali66/zynq_examples)/200 | None |
-| 23 | 1 | 0 | 2 years ago | [N.I.G.E.-Machine](https://github.com/Anding/N.I.G.E.-Machine)/201 | A user-expandable micro-computer system that runs on an FPGA development board and includes the FORTH software language. The system is currently hosted on the Digilent Nexys 4 and Nexys 4 DDR |
-| 23 | 7 | 0 | 2 years ago | [memsec](https://github.com/IAIK/memsec)/202 | Framework for building transparent memory encryption and authentication solutions |
-| 23 | 11 | 4 | 2 years ago | [ppa-pcmcia-sram](https://github.com/Sakura-IT/ppa-pcmcia-sram)/203 | PCMCIA SRAM card project (Sakura) |
-| 23 | 7 | 2 | 2 months ago | [TG68K.C](https://github.com/TobiFlex/TG68K.C)/204 | switchable 68K CPU-Core |
-| 23 | 3 | 0 | 5 years ago | [opa](https://github.com/terpstra/opa)/205 | Open Processor Architecture |
-| 23 | 4 | 10 | 10 hours ago | [FPGA-robotics](https://github.com/JdeRobot/FPGA-robotics)/206 | Blocks for visual design of robot behaviors using FPGA and IceStudio |
-| 23 | 1 | 0 | 4 years ago | [fpga-trace](https://github.com/justingallagher/fpga-trace)/207 | FPGA accelerated ray tracer, implemented in C++ and HLS |
-| 23 | 8 | 1 | 1 year, 5 months ago | [ZipML-XeonFPGA](https://github.com/fpgasystems/ZipML-XeonFPGA)/208 | FPGA-based stochastic gradient descent (powered by ZipML - Low-precision machine learning on reconfigurable hardware) |
-| 23 | 20 | 0 | 5 years ago | [alpha-software](https://github.com/apertus-open-source-cinema/alpha-software)/209 | Axiom Alpha prototype software (FPGA, Linux, etc.) |
-| 22 | 10 | 1 | 9 years ago | [Floating_Point_Library-JHU](https://github.com/xesscorp/Floating_Point_Library-JHU)/210 | VHDL for basic floating-point operations. |
+| 24 | 20 | 0 | 5 years ago | [alpha-software](https://github.com/apertus-open-source-cinema/alpha-software)/198 | Axiom Alpha prototype software (FPGA, Linux, etc.) |
+| 23 | 9 | 5 | 8 months ago | [msx1fpga](https://github.com/fbelavenuto/msx1fpga)/199 | MSX1 cloned in FPGA |
+| 23 | 3 | 0 | 7 months ago | [ArtyS7-RPU-SoC](https://github.com/Domipheus/ArtyS7-RPU-SoC)/200 | Project for an RPU RISC-V system on chip implementation on the Digilent Arty S7-50 FPGA development board. |
+| 23 | 19 | 0 | 5 years ago | [zynq_examples](https://github.com/jiangjiali66/zynq_examples)/201 | None |
+| 23 | 1 | 0 | 2 years ago | [N.I.G.E.-Machine](https://github.com/Anding/N.I.G.E.-Machine)/202 | A user-expandable micro-computer system that runs on an FPGA development board and includes the FORTH software language. The system is currently hosted on the Digilent Nexys 4 and Nexys 4 DDR |
+| 23 | 7 | 0 | 2 years ago | [memsec](https://github.com/IAIK/memsec)/203 | Framework for building transparent memory encryption and authentication solutions |
+| 23 | 11 | 4 | 2 years ago | [ppa-pcmcia-sram](https://github.com/Sakura-IT/ppa-pcmcia-sram)/204 | PCMCIA SRAM card project (Sakura) |
+| 23 | 7 | 2 | 2 months ago | [TG68K.C](https://github.com/TobiFlex/TG68K.C)/205 | switchable 68K CPU-Core |
+| 23 | 3 | 0 | 5 years ago | [opa](https://github.com/terpstra/opa)/206 | Open Processor Architecture |
+| 23 | 4 | 10 | 7 days ago | [FPGA-robotics](https://github.com/JdeRobot/FPGA-robotics)/207 | Blocks for visual design of robot behaviors using FPGA and IceStudio |
+| 23 | 1 | 0 | 5 years ago | [fpga-trace](https://github.com/justingallagher/fpga-trace)/208 | FPGA accelerated ray tracer, implemented in C++ and HLS |
+| 23 | 8 | 1 | 1 year, 5 months ago | [ZipML-XeonFPGA](https://github.com/fpgasystems/ZipML-XeonFPGA)/209 | FPGA-based stochastic gradient descent (powered by ZipML - Low-precision machine learning on reconfigurable hardware) |
+| 22 | 9 | 1 | 9 years ago | [Floating_Point_Library-JHU](https://github.com/xesscorp/Floating_Point_Library-JHU)/210 | VHDL for basic floating-point operations. |
 | 22 | 27 | 0 | 4 years ago | [Zedboard-old](https://github.com/Digilent/Zedboard-old)/211 | None |
 | 22 | 17 | 0 | 1 year, 8 months ago | [mist-cores](https://github.com/wsoltys/mist-cores)/212 | core files for the MiST fpga |
-| 22 | 5 | 0 | 1 year, 8 days ago | [NTSC-composite-encoder](https://github.com/elpuri/NTSC-composite-encoder)/213 | How to generate NTSC compliant(?) composite color video with an FPGA |
+| 22 | 5 | 0 | 1 year, 15 days ago | [NTSC-composite-encoder](https://github.com/elpuri/NTSC-composite-encoder)/213 | How to generate NTSC compliant(?) composite color video with an FPGA |
 | 22 | 10 | 0 | 7 years ago | [FP-V-GA-Text](https://github.com/MadLittleMods/FP-V-GA-Text)/214 | A simple to use VHDL module to display text on VGA display. |
-| 22 | 2 | 0 | 7 years ago | [noasic](https://github.com/noasic/noasic)/215 | An open-source VHDL library for FPGA design, licensed under the GNU lesser general public license. |
-| 22 | 14 | 1 | 4 years ago | [fpga](https://github.com/dmpro2014/fpga)/216 | VHDL description of the custom Demolicious GPU. Built during a single semester at NTNU |
+| 22 | 14 | 1 | 4 years ago | [fpga](https://github.com/dmpro2014/fpga)/215 | VHDL description of the custom Demolicious GPU. Built during a single semester at NTNU |
+| 22 | 2 | 0 | 7 years ago | [noasic](https://github.com/noasic/noasic)/216 | An open-source VHDL library for FPGA design, licensed under the GNU lesser general public license. |
 | 22 | 3 | 0 | 3 months ago | [Xoodoo](https://github.com/KeccakTeam/Xoodoo)/217 | None |
 | 22 | 7 | 6 | 2 years ago | [EP994A](https://github.com/Speccery/EP994A)/218 | My TI-99/4A clone, two versions: FPGA+TMS99105 CPU and FPGA with my CPU core |
 | 22 | 1 | 0 | 3 years ago | [from-key-array-to-the-LED-lattice](https://github.com/HengRuiZ/from-key-array-to-the-LED-lattice)/219 | None |
-| 22 | 10 | 0 | 19 days ago | [rfsoc_sam](https://github.com/strath-sdr/rfsoc_sam)/220 | RFSoC Spectrum Analyser Module on PYNQ. |
+| 22 | 10 | 0 | 26 days ago | [rfsoc_sam](https://github.com/strath-sdr/rfsoc_sam)/220 | RFSoC Spectrum Analyser Module on PYNQ. |
 | 22 | 10 | 0 | 7 years ago | [Camera-Tracking](https://github.com/Rutgers-FPGA-Projects/Camera-Tracking)/221 |  Our project is the system that enables a moving camera to track a moving object in real time. We plan on doing this by having a camera mounted to a swivel using two servo motors to allow for the camera’s direction to be controlled. The camera data will be read into the FPGA board and some basic object recognition algorithm will be used to  identify an some object and determine if the camera needs to be moved to keep the object in the field of vision. In addition to the auto tracking mode, we plan on having an IR remote to allow for manual panning, mode selection, and power on and off. If there is additional time we would like to also interface the FPGA to a Raspberry Pi board running a linux web server to allow for email alerts (when object moves) and web based control. |
 | 22 | 7 | 0 | 5 years ago | [PicoBlaze-Library](https://github.com/Paebbels/PicoBlaze-Library)/222 | The PicoBlaze-Library offers several PicoBlaze devices and code routines to extend a common PicoBlaze environment to a little System on a Chip (SoC or SoFPGA). |
 | 21 | 10 | 2 | 1 year, 8 months ago | [WishboneAXI](https://github.com/qermit/WishboneAXI)/223 | Wishbone to AXI bridge (VHDL) |
-| 21 | 1 | 29 | a month ago | [Codelib](https://github.com/Wycers/Codelib)/224 | None |
-| 21 | 7 | 0 | 2 years ago | [nesfpga](https://github.com/strfry/nesfpga)/225 | A Simple FPGA Implementation of the Nintendo Entertainment System |
-| 21 | 11 | 6 | 3 years ago | [OneChipMSX](https://github.com/robinsonb5/OneChipMSX)/226 | A port of the OneChipMSX project to the Turbo Chameleon 64 and in time, hopefully other boards, too. |
-| 21 | 8 | 1 | 5 years ago | [la16fw](https://github.com/gregani/la16fw)/227 | Alternative Logic16 Firmware |
-| 21 | 29 | 17 | 5 months ago | [mksocfpga](https://github.com/machinekit/mksocfpga)/228 | Hostmot2 FPGA code for SoC/FPGA platforms from Altera and Xilinx |
-| 21 | 7 | 11 | 6 years ago | [r-vex](https://github.com/tvanas/r-vex)/229 | A reconfigurable and extensible VLIW processor implemented in VHDL |
-| 21 | 18 | 0 | 8 years ago | [rgbmatrix-fpga](https://github.com/DuinoPilot/rgbmatrix-fpga)/230 | Adafruit RGB LED Matrix Display Driver for use with FPGAs (written in VHDL)  |
-| 21 | 9 | 2 | 1 year, 1 month ago | [Pynq-CV-OV5640](https://github.com/xupsh/Pynq-CV-OV5640)/231 | Pynq computer vision examples with an OV5640 camera |
-| 21 | 0 | 2 | 4 months ago | [FPGA-OV2640](https://github.com/lllbbbyyy/FPGA-OV2640)/232 | This project uses verilog to implement interaction with OV2640 camera, Bluetooth slave module and VGA display on FPGA. |
-| 20 | 17 | 10 | 2 months ago | [MSX_MiSTer](https://github.com/MiSTer-devel/MSX_MiSTer)/233 | MSX for MiSTer |
-| 20 | 9 | 0 | 2 years ago | [fft](https://github.com/thasti/fft)/234 | synthesizable FFT IP block for FPGA designs |
+| 21 | 17 | 10 | 2 months ago | [MSX_MiSTer](https://github.com/MiSTer-devel/MSX_MiSTer)/224 | MSX for MiSTer |
+| 21 | 1 | 31 | a month ago | [Codelib](https://github.com/Wycers/Codelib)/225 | None |
+| 21 | 7 | 0 | 2 years ago | [nesfpga](https://github.com/strfry/nesfpga)/226 | A Simple FPGA Implementation of the Nintendo Entertainment System |
+| 21 | 4 | 0 | 10 months ago | [FPGA-Class-D-Amplifier](https://github.com/YetAnotherElectronicsChannel/FPGA-Class-D-Amplifier)/227 | None |
+| 21 | 11 | 6 | 3 years ago | [OneChipMSX](https://github.com/robinsonb5/OneChipMSX)/228 | A port of the OneChipMSX project to the Turbo Chameleon 64 and in time, hopefully other boards, too. |
+| 21 | 8 | 1 | 5 years ago | [la16fw](https://github.com/gregani/la16fw)/229 | Alternative Logic16 Firmware |
+| 21 | 29 | 17 | 6 months ago | [mksocfpga](https://github.com/machinekit/mksocfpga)/230 | Hostmot2 FPGA code for SoC/FPGA platforms from Altera and Xilinx |
+| 21 | 7 | 11 | 6 years ago | [r-vex](https://github.com/tvanas/r-vex)/231 | A reconfigurable and extensible VLIW processor implemented in VHDL |
+| 21 | 18 | 0 | 8 years ago | [rgbmatrix-fpga](https://github.com/DuinoPilot/rgbmatrix-fpga)/232 | Adafruit RGB LED Matrix Display Driver for use with FPGAs (written in VHDL)  |
+| 21 | 9 | 2 | 1 year, 1 month ago | [Pynq-CV-OV5640](https://github.com/xupsh/Pynq-CV-OV5640)/233 | Pynq computer vision examples with an OV5640 camera |
+| 21 | 0 | 2 | 4 months ago | [FPGA-OV2640](https://github.com/lllbbbyyy/FPGA-OV2640)/234 | This project uses verilog to implement interaction with OV2640 camera, Bluetooth slave module and VGA display on FPGA. |
 | 20 | 7 | 1 | 5 years ago | [VHDL-Pong](https://github.com/ress/VHDL-Pong)/235 | A Pong game written in VHDL using a Xilinx Spartan 3 board. VGA + PS/2 Keyboard + Sound support. |
-| 20 | 4 | 0 | 10 months ago | [FPGA-Class-D-Amplifier](https://github.com/YetAnotherElectronicsChannel/FPGA-Class-D-Amplifier)/236 | None |
+| 20 | 9 | 0 | 2 years ago | [fft](https://github.com/thasti/fft)/236 | synthesizable FFT IP block for FPGA designs |
 | 20 | 3 | 1 | 3 years ago | [whirlyfly](https://github.com/zdavkeos/whirlyfly)/237 | Hardware RNG for Papilio One based on the original Whirlygig |
 | 20 | 6 | 0 | 2 years ago | [Motion-Detection-System-Based-On-Background-Reconstruction](https://github.com/2cc2ic/Motion-Detection-System-Based-On-Background-Reconstruction)/238 | This work is based on PYNQ-Z2 development board provided by organizer, and adopts the cooperation scheme of hardware and software to build a DMA based image data cache transmission system.  On this basis, Verilog HDL was used to design the axi4-stream interface based IP core for image processing, so as to build a high real-time moving target detection system.  In our design, we focus on the optimization of processing pipeline, improve the traditional frame difference method, and achieve the optimization goal of saving logical resources through the accumulation compression and reconstruction expansion of cached background frames. |
 | 20 | 7 | 0 | 2 years ago | [vga_generator](https://github.com/tibor-electronics/vga_generator)/239 | A collection of VHDL projects for generating VGA output |
 | 20 | 11 | 0 | 2 months ago | [fpga_examples](https://github.com/pwsoft/fpga_examples)/240 | Example code in vhdl to help starting new projects using FPGA devices. |
 | 20 | 5 | 0 | 1 year, 5 months ago | [secd](https://github.com/hanshuebner/secd)/241 | SECD microprocessor reimplementation in VHDL |
-| 20 | 8 | 9 | 2 months ago | [Atari800_MiSTer](https://github.com/MiSTer-devel/Atari800_MiSTer)/242 | Atari 800XL/65XE/130XE for MiSTer |
-| 19 | 11 | 2 | 2 years ago | [Nexys-4-DDR-OOB](https://github.com/Digilent/Nexys-4-DDR-OOB)/243 | None |
-| 19 | 7 | 0 | 6 years ago | [hdl](https://github.com/laurivosandi/hdl)/244 | Collection of hardware description languages writings and code snippets |
-| 19 | 5 | 0 | 7 years ago | [robotron-fpga](https://github.com/sharebrained/robotron-fpga)/245 | FPGA implementation of Robotron: 2084 |
-| 19 | 3 | 0 | 5 years ago | [FPGA-LVDS-LCD-Hack](https://github.com/hubmartin/FPGA-LVDS-LCD-Hack)/246 | Basic code that displays simple shapes generated from Lattice FPGA directly to LVDS display |
-| 19 | 11 | 2 | a month ago | [Apple-II_MiSTer](https://github.com/MiSTer-devel/Apple-II_MiSTer)/247 | Apple II+ for MiSTer |
-| 19 | 6 | 0 | 2 years ago | [pid-fpga-vhdl](https://github.com/deepc94/pid-fpga-vhdl)/248 | This project was part of the VLSI Lab. It implements PID control using an FPGA. |
-| 19 | 7 | 1 | 5 years ago | [VGA-Text-Generator](https://github.com/Derek-X-Wang/VGA-Text-Generator)/249 | A basic VGA text generator for verilog and vhdl |
-| 19 | 24 | 23 | 4 days ago | [ipbus-firmware](https://github.com/ipbus/ipbus-firmware)/250 | Firmware that implements a reliable high-performance control link for particle physics electronics, based on the IPbus protocol |
-| 19 | 10 | 1 | 2 years ago | [ReVerSE-U16](https://github.com/mvvproject/ReVerSE-U16)/251 | Development Kit |
-| 19 | 2 | 2 | 1 year, 9 months ago | [AladdinLCD](https://github.com/Ryzee119/AladdinLCD)/252 | Convert the cheap AladdinXT 4032 Original Xbox modchip to an LCD driver for TSOP modded consoles. |
-| 19 | 5 | 0 | 4 months ago | [hd6309sbc](https://github.com/tomcircuit/hd6309sbc)/253 | Hitachi HD6309 Singleboard Computer  |
-| 19 | 1 | 0 | a month ago | [formal_hw_verification](https://github.com/tmeissner/formal_hw_verification)/254 | Trying to verify Verilog/VHDL designs with formal methods and tools |
-| 18 | 4 | 0 | 8 months ago | [tiny_z80](https://github.com/skiselev/tiny_z80)/255 | Business Card Sized Z80 Single Board Computer |
-| 18 | 9 | 1 | 3 years ago | [vcnn](https://github.com/g0kul/vcnn)/256 | Verilog Convolutional Neural Network on PYNQ |
-| 18 | 7 | 0 | 7 years ago | [lemberg](https://github.com/jeuneS2/lemberg)/257 | Lemberg is a time-predictable VLIW processor optimized for performance. |
-| 18 | 6 | 2 | 8 years ago | [dso-quad-usb-analyzer](https://github.com/PetteriAimonen/dso-quad-usb-analyzer)/258 | USB Full-Speed (12Mbps) protocol analyzer for the DSO Quad |
-| 18 | 7 | 6 | 6 years ago | [SimpleSDHC](https://github.com/ibm2030/SimpleSDHC)/259 | A basic SD Card SPI interface in VHDL, supports SD V1, V2 and SDHC |
-| 18 | 0 | 1 | 1 year, 1 month ago | [ese-vdp](https://github.com/kunichiko/ese-vdp)/260 | VHDL implementation of YAMAHA V9938 |
-| 18 | 5 | 0 | a month ago | [AES-VHDL](https://github.com/hadipourh/AES-VHDL)/261 | VHDL Implementation of AES Algorithm |
+| 20 | 8 | 10 | 2 months ago | [Atari800_MiSTer](https://github.com/MiSTer-devel/Atari800_MiSTer)/242 | Atari 800XL/65XE/130XE for MiSTer |
+| 19 | 12 | 2 | 2 years ago | [Nexys-4-DDR-OOB](https://github.com/Digilent/Nexys-4-DDR-OOB)/243 | None |
+| 19 | 4 | 0 | 9 months ago | [tiny_z80](https://github.com/skiselev/tiny_z80)/244 | Business Card Sized Z80 Single Board Computer |
+| 19 | 7 | 0 | 6 years ago | [hdl](https://github.com/laurivosandi/hdl)/245 | Collection of hardware description languages writings and code snippets |
+| 19 | 5 | 0 | 7 years ago | [robotron-fpga](https://github.com/sharebrained/robotron-fpga)/246 | FPGA implementation of Robotron: 2084 |
+| 19 | 6 | 0 | a month ago | [AES-VHDL](https://github.com/hadipourh/AES-VHDL)/247 | VHDL Implementation of AES Algorithm |
+| 19 | 3 | 0 | 5 years ago | [FPGA-LVDS-LCD-Hack](https://github.com/hubmartin/FPGA-LVDS-LCD-Hack)/248 | Basic code that displays simple shapes generated from Lattice FPGA directly to LVDS display |
+| 19 | 11 | 2 | a month ago | [Apple-II_MiSTer](https://github.com/MiSTer-devel/Apple-II_MiSTer)/249 | Apple II+ for MiSTer |
+| 19 | 6 | 0 | 2 years ago | [pid-fpga-vhdl](https://github.com/deepc94/pid-fpga-vhdl)/250 | This project was part of the VLSI Lab. It implements PID control using an FPGA. |
+| 19 | 7 | 1 | 5 years ago | [VGA-Text-Generator](https://github.com/Derek-X-Wang/VGA-Text-Generator)/251 | A basic VGA text generator for verilog and vhdl |
+| 19 | 10 | 1 | 2 years ago | [ReVerSE-U16](https://github.com/mvvproject/ReVerSE-U16)/252 | Development Kit |
+| 19 | 24 | 23 | 11 days ago | [ipbus-firmware](https://github.com/ipbus/ipbus-firmware)/253 | Firmware that implements a reliable high-performance control link for particle physics electronics, based on the IPbus protocol |
+| 19 | 2 | 2 | 1 year, 9 months ago | [AladdinLCD](https://github.com/Ryzee119/AladdinLCD)/254 | Convert the cheap AladdinXT 4032 Original Xbox modchip to an LCD driver for TSOP modded consoles. |
+| 19 | 5 | 0 | 5 months ago | [hd6309sbc](https://github.com/tomcircuit/hd6309sbc)/255 | Hitachi HD6309 Singleboard Computer  |
+| 19 | 1 | 0 | a month ago | [formal_hw_verification](https://github.com/tmeissner/formal_hw_verification)/256 | Trying to verify Verilog/VHDL designs with formal methods and tools |
+| 18 | 9 | 1 | 3 years ago | [vcnn](https://github.com/g0kul/vcnn)/257 | Verilog Convolutional Neural Network on PYNQ |
+| 18 | 7 | 0 | 8 years ago | [lemberg](https://github.com/jeuneS2/lemberg)/258 | Lemberg is a time-predictable VLIW processor optimized for performance. |
+| 18 | 6 | 2 | 8 years ago | [dso-quad-usb-analyzer](https://github.com/PetteriAimonen/dso-quad-usb-analyzer)/259 | USB Full-Speed (12Mbps) protocol analyzer for the DSO Quad |
+| 18 | 7 | 6 | 6 years ago | [SimpleSDHC](https://github.com/ibm2030/SimpleSDHC)/260 | A basic SD Card SPI interface in VHDL, supports SD V1, V2 and SDHC |
+| 18 | 0 | 1 | 1 year, 1 month ago | [ese-vdp](https://github.com/kunichiko/ese-vdp)/261 | VHDL implementation of YAMAHA V9938 |
 | 18 | 4 | 1 | 7 years ago | [BBot](https://github.com/andygikling/BBot)/262 | BBot! An open source, wireless beer serving robot reference design featuring a C++ program running on a BeagleBone Black, a .Net WPF control GUI and even low level FPGA integration! |
-| 18 | 1 | 9 | 1 year, 6 months ago | [vhdeps](https://github.com/abs-tudelft/vhdeps)/263 | VHDL dependency analyzer |
-| 18 | 0 | 0 | 5 years ago | [C88](https://github.com/danieljabailey/C88)/264 | C88 is Homebrew CPU that has a ram that is only 8x8 Bits in size. It'll fit on a papilio one 500k which has enough pins for all the switches you need too. |
-| 18 | 3 | 1 | a month ago | [karabas-nano](https://github.com/andykarpov/karabas-nano)/265 | Karabas Nano prototype |
-| 18 | 2 | 1 | 2 years ago | [ym2608](https://github.com/mtrberzi/ym2608)/266 | VHDL clone of YM2608 (OPNA) sound chip |
-| 17 | 14 | 1 | 6 years ago | [zedboard_audio](https://github.com/ems-kl/zedboard_audio)/267 | A Audio Interface for the Zedboard |
-| 17 | 2 | 1 | 1 year, 1 month ago | [fpgaNES](https://github.com/Feuerwerk/fpgaNES)/268 | None |
-| 17 | 10 | 1 | 6 years ago | [axi_custom_ip_tb](https://github.com/frobino/axi_custom_ip_tb)/269 | A testbench for an axi lite custom IP |
-| 17 | 1 | 1 | 3 years ago | [NISC](https://github.com/BillBohan/NISC)/270 | A single instruction set processor architecture |
-| 17 | 16 | 5 | 11 months ago | [PothosZynq](https://github.com/pothosware/PothosZynq)/271 | DMA source and sink blocks for Xilinx Zynq FPGAs |
-| 17 | 17 | 2 | 13 days ago | [Arcade-Pacman_MiSTer](https://github.com/MiSTer-devel/Arcade-Pacman_MiSTer)/272 | Arcade: Pacman for MiSTer |
-| 17 | 4 | 0 | 3 years ago | [Z-turn-examples](https://github.com/wzab/Z-turn-examples)/273 | The repository with my simple Z-turn examples, to be used as templates for more serious project |
-| 17 | 17 | 1 | 5 years ago | [StickIt](https://github.com/xesscorp/StickIt)/274 | StickIt! board and modules that support the XuLA FPGA board. |
-| 17 | 7 | 1 | 5 years ago | [FPGA_SDR](https://github.com/marsohod4you/FPGA_SDR)/275 | Software Defined Radio receiver in Marsohod2 Altera Cyclone III board |
-| 17 | 4 | 5 | 12 days ago | [karabas-pro](https://github.com/andykarpov/karabas-pro)/276 | FPGA based retrocomputer with FDD and HDD controllers |
-| 17 | 2 | 0 | 6 years ago | [myhdl_simple_uart](https://github.com/andrecp/myhdl_simple_uart)/277 | A very simple UART implementation in MyHDL |
-| 17 | 0 | 0 | 1 year, 7 months ago | [ArtyS7](https://github.com/Domipheus/ArtyS7)/278 | Where Arty S7 projects are kept. MIT License unless file headers state otherwise. |
-| 17 | 12 | 0 | 1 year, 3 months ago | [Hardware-Implementation-of-AES-VHDL](https://github.com/pnvamshi/Hardware-Implementation-of-AES-VHDL)/279 | Hardware Implementation of Advanced Encryption Standard Algorithm in VHDL |
-| 17 | 3 | 4 | 5 years ago | [tusSAT](https://github.com/Sumith1896/tusSAT)/280 | A SAT solver implementation in VHDL, team tussle |
-| 16 | 11 | 1 | 8 years ago | [hashvoodoo-fpga-bitcoin-miner](https://github.com/pmumby/hashvoodoo-fpga-bitcoin-miner)/281 | HashVoodoo FPGA Bitcoin Miner |
-| 16 | 19 | 0 | 3 years ago | [Nexys4DDR](https://github.com/Digilent/Nexys4DDR)/282 | None |
-| 16 | 7 | 0 | 7 years ago | [c64pla](https://github.com/FrankBuss/c64pla)/283 | C64 PLA implementation in VHDL |
-| 16 | 7 | 0 | 3 years ago | [Spectrum](https://github.com/delhatch/Spectrum)/284 | Spectrum analyzer system using a 512-point FFT, in a Cyclone IV FPGA. Reads i2s audio from the codec and then does all FFT/VGA functions. Nios just reads the FFT result and draws the display bars. VGA frame buffer on-chip. VGA signals generated on-chip. See the included video files to watch it in action. |
-| 16 | 5 | 0 | 11 years ago | [MIPS-Lite](https://github.com/jncraton/MIPS-Lite)/285 | A pipelined MIPS-Lite CPU implementation |
-| 16 | 6 | 5 | 11 months ago | [rygar-fpga](https://github.com/nullobject/rygar-fpga)/286 | A FPGA core for the arcade game, Rygar (1986). |
-| 16 | 9 | 1 | 4 years ago | [Nexys4](https://github.com/Digilent/Nexys4)/287 | None |
-| 16 | 1 | 1 | 7 months ago | [ZXNext_Mister](https://github.com/benitoss/ZXNext_Mister)/288 | ZX Next core for Mister |
-| 16 | 2 | 0 | 3 years ago | [gs4502b](https://github.com/gardners/gs4502b)/289 | Experimental pipelined 4502 CPU design |
-| 16 | 4 | 0 | 3 years ago | [Mips54](https://github.com/LiuChangFreeman/Mips54)/290 | 组成原理课程设计 |
-| 16 | 6 | 0 | 3 years ago | [revCtrl](https://github.com/Xilinx/revCtrl)/291 | Revision Control Labs and Materials |
-| 16 | 10 | 1 | 8 years ago | [Network-on-Chip-in-VHDL](https://github.com/mattbirman/Network-on-Chip-in-VHDL)/292 | None |
-| 16 | 8 | 0 | 8 months ago | [vhdl_prng](https://github.com/jorisvr/vhdl_prng)/293 | Pseudo Random Number Generators as synthesizable VHDL code |
-| 16 | 5 | 4 | 2 years ago | [cv2PYNQ-The-project-behind-the-library](https://github.com/wbrueckner/cv2PYNQ-The-project-behind-the-library)/294 | This project describes how the cv2PYNQ python library was built |
-| 16 | 8 | 0 | 1 year, 3 months ago | [EP2C5-Cyclone-II-Mini-Board](https://github.com/land-boards/EP2C5-Cyclone-II-Mini-Board)/295 | EP2C5 Cyclone II Mini Board |
-| 16 | 7 | 0 | 7 months ago | [vhdl-hdmi-out](https://github.com/fcayci/vhdl-hdmi-out)/296 | HDMI Out VHDL code for 7-series Xilinx FPGAs |
-| 16 | 12 | 0 | 8 years ago | [grlib](https://github.com/philippefaes/grlib)/297 | None |
-| 16 | 7 | 0 | 2 years ago | [Hi-DMM](https://github.com/zslwyuan/Hi-DMM)/298 | Hi-DMM: High-Performance Dynamic Memory Management in HLS (High-Level Synthesis) |
-| 16 | 5 | 0 | 6 years ago | [uart-vhdl](https://github.com/tvanas/uart-vhdl)/299 | An RS232 communication controller implemented in VHDL |
-| 16 | 11 | 0 | 2 years ago | [sha256](https://github.com/skordal/sha256)/300 | A simple SHA-256 implementation in VHDL |
-| 16 | 9 | 1 | 7 years ago | [cmake-verilog-vhdl-fpga-template](https://github.com/yansyaf/cmake-verilog-vhdl-fpga-template)/301 | CMake template for Verilog and VHDL project and Altera/Xilinx FPGA target  |
-| 16 | 3 | 0 | 8 months ago | [libvhdl](https://github.com/tmeissner/libvhdl)/302 | Library of reusable VHDL components |
+| 18 | 17 | 1 | 5 years ago | [StickIt](https://github.com/xesscorp/StickIt)/263 | StickIt! board and modules that support the XuLA FPGA board. |
+| 18 | 1 | 9 | 1 year, 6 months ago | [vhdeps](https://github.com/abs-tudelft/vhdeps)/264 | VHDL dependency analyzer |
+| 18 | 0 | 0 | 5 years ago | [C88](https://github.com/danieljabailey/C88)/265 | C88 is Homebrew CPU that has a ram that is only 8x8 Bits in size. It'll fit on a papilio one 500k which has enough pins for all the switches you need too. |
+| 18 | 3 | 1 | a month ago | [karabas-nano](https://github.com/andykarpov/karabas-nano)/266 | Karabas Nano prototype |
+| 18 | 4 | 3 | 6 hours ago | [karabas-pro](https://github.com/andykarpov/karabas-pro)/267 | FPGA based retrocomputer with FDD and HDD controllers |
+| 18 | 2 | 1 | 2 years ago | [ym2608](https://github.com/mtrberzi/ym2608)/268 | VHDL clone of YM2608 (OPNA) sound chip |
+| 17 | 14 | 1 | 6 years ago | [zedboard_audio](https://github.com/ems-kl/zedboard_audio)/269 | A Audio Interface for the Zedboard |
+| 17 | 2 | 1 | 1 year, 1 month ago | [fpgaNES](https://github.com/Feuerwerk/fpgaNES)/270 | None |
+| 17 | 10 | 1 | 6 years ago | [axi_custom_ip_tb](https://github.com/frobino/axi_custom_ip_tb)/271 | A testbench for an axi lite custom IP |
+| 17 | 1 | 1 | 3 years ago | [NISC](https://github.com/BillBohan/NISC)/272 | A single instruction set processor architecture |
+| 17 | 7 | 0 | 3 years ago | [Spectrum](https://github.com/delhatch/Spectrum)/273 | Spectrum analyzer system using a 512-point FFT, in a Cyclone IV FPGA. Reads i2s audio from the codec and then does all FFT/VGA functions. Nios just reads the FFT result and draws the display bars. VGA frame buffer on-chip. VGA signals generated on-chip. See the included video files to watch it in action. |
+| 17 | 16 | 5 | 11 months ago | [PothosZynq](https://github.com/pothosware/PothosZynq)/274 | DMA source and sink blocks for Xilinx Zynq FPGAs |
+| 17 | 17 | 2 | 20 days ago | [Arcade-Pacman_MiSTer](https://github.com/MiSTer-devel/Arcade-Pacman_MiSTer)/275 | Arcade: Pacman for MiSTer |
+| 17 | 4 | 0 | 3 years ago | [Mips54](https://github.com/LiuChangFreeman/Mips54)/276 | None |
+| 17 | 4 | 0 | 3 years ago | [Z-turn-examples](https://github.com/wzab/Z-turn-examples)/277 | The repository with my simple Z-turn examples, to be used as templates for more serious project |
+| 17 | 7 | 1 | 5 years ago | [FPGA_SDR](https://github.com/marsohod4you/FPGA_SDR)/278 | Software Defined Radio receiver in Marsohod2 Altera Cyclone III board |
+| 17 | 11 | 0 | 2 years ago | [sha256](https://github.com/skordal/sha256)/279 | A simple SHA-256 implementation in VHDL |
+| 17 | 2 | 0 | 6 years ago | [myhdl_simple_uart](https://github.com/andrecp/myhdl_simple_uart)/280 | A very simple UART implementation in MyHDL |
+| 17 | 0 | 0 | 1 year, 7 months ago | [ArtyS7](https://github.com/Domipheus/ArtyS7)/281 | Where Arty S7 projects are kept. MIT License unless file headers state otherwise. |
+| 17 | 12 | 0 | 1 year, 4 months ago | [Hardware-Implementation-of-AES-VHDL](https://github.com/pnvamshi/Hardware-Implementation-of-AES-VHDL)/282 | Hardware Implementation of Advanced Encryption Standard Algorithm in VHDL |
+| 17 | 3 | 4 | 5 years ago | [tusSAT](https://github.com/Sumith1896/tusSAT)/283 | A SAT solver implementation in VHDL, team tussle |
+| 16 | 11 | 1 | 8 years ago | [hashvoodoo-fpga-bitcoin-miner](https://github.com/pmumby/hashvoodoo-fpga-bitcoin-miner)/284 | HashVoodoo FPGA Bitcoin Miner |
+| 16 | 19 | 0 | 3 years ago | [Nexys4DDR](https://github.com/Digilent/Nexys4DDR)/285 | None |
+| 16 | 7 | 0 | 7 years ago | [c64pla](https://github.com/FrankBuss/c64pla)/286 | C64 PLA implementation in VHDL |
+| 16 | 5 | 0 | 11 years ago | [MIPS-Lite](https://github.com/jncraton/MIPS-Lite)/287 | A pipelined MIPS-Lite CPU implementation |
+| 16 | 6 | 5 | 1 year, 1 day ago | [rygar-fpga](https://github.com/nullobject/rygar-fpga)/288 | A FPGA core for the arcade game, Rygar (1986). |
+| 16 | 10 | 1 | 8 months ago | [Accelerating-Quantized-CNN-Inference-on-FPGA](https://github.com/CNILeo/Accelerating-Quantized-CNN-Inference-on-FPGA)/289 | Accelerating-Quantized-CNN-Inference-on-FPGA(RTL) |
+| 16 | 9 | 1 | 4 years ago | [Nexys4](https://github.com/Digilent/Nexys4)/290 | None |
+| 16 | 1 | 0 | 7 months ago | [ZXNext_Mister](https://github.com/benitoss/ZXNext_Mister)/291 | ZX Next core for Mister |
+| 16 | 2 | 0 | 3 years ago | [gs4502b](https://github.com/gardners/gs4502b)/292 | Experimental pipelined 4502 CPU design |
+| 16 | 6 | 0 | 3 years ago | [revCtrl](https://github.com/Xilinx/revCtrl)/293 | Revision Control Labs and Materials |
+| 16 | 10 | 1 | 9 years ago | [Network-on-Chip-in-VHDL](https://github.com/mattbirman/Network-on-Chip-in-VHDL)/294 | None |
+| 16 | 9 | 0 | 8 months ago | [vhdl_prng](https://github.com/jorisvr/vhdl_prng)/295 | Pseudo Random Number Generators as synthesizable VHDL code |
+| 16 | 5 | 4 | 2 years ago | [cv2PYNQ-The-project-behind-the-library](https://github.com/wbrueckner/cv2PYNQ-The-project-behind-the-library)/296 | This project describes how the cv2PYNQ python library was built |
+| 16 | 8 | 0 | 1 year, 4 months ago | [EP2C5-Cyclone-II-Mini-Board](https://github.com/land-boards/EP2C5-Cyclone-II-Mini-Board)/297 | EP2C5 Cyclone II Mini Board |
+| 16 | 7 | 0 | 8 months ago | [vhdl-hdmi-out](https://github.com/fcayci/vhdl-hdmi-out)/298 | HDMI Out VHDL code for 7-series Xilinx FPGAs |
+| 16 | 12 | 0 | 8 years ago | [grlib](https://github.com/philippefaes/grlib)/299 | None |
+| 16 | 7 | 0 | 2 years ago | [Hi-DMM](https://github.com/zslwyuan/Hi-DMM)/300 | Hi-DMM: High-Performance Dynamic Memory Management in HLS (High-Level Synthesis) |
+| 16 | 5 | 0 | 6 years ago | [uart-vhdl](https://github.com/tvanas/uart-vhdl)/301 | An RS232 communication controller implemented in VHDL |
+| 16 | 9 | 1 | 7 years ago | [cmake-verilog-vhdl-fpga-template](https://github.com/yansyaf/cmake-verilog-vhdl-fpga-template)/302 | CMake template for Verilog and VHDL project and Altera/Xilinx FPGA target  |
 | 16 | 3 | 0 | 3 years ago | [THU-MIPS16-CPU](https://github.com/747929791/THU-MIPS16-CPU)/303 | Tsinghua University Computer Composition Principle Experiment |
-| 16 | 5 | 0 | 1 year, 4 months ago | [Nexys4DDR-ARM-M3-Plate-Recognition](https://github.com/Starrynightzyq/Nexys4DDR-ARM-M3-Plate-Recognition)/304 | 车牌识别,FPGA,2019全国大学生集成电路创新创业大赛 |
+| 16 | 5 | 0 | 1 year, 5 months ago | [Nexys4DDR-ARM-M3-Plate-Recognition](https://github.com/Starrynightzyq/Nexys4DDR-ARM-M3-Plate-Recognition)/304 | 车牌识别,FPGA,2019全国大学生集成电路创新创业大赛 |
 | 16 | 9 | 1 | 4 years ago | [zybo_petalinux_video_hls](https://github.com/andrewandrepowell/zybo_petalinux_video_hls)/305 | Demonstration of a video processing design for the Digilent Zybo, using Web Camera for input and VGA interface for output. |
-| 16 | 1 | 0 | 19 hours ago | [FABulous](https://github.com/FPGA-Research-Manchester/FABulous)/306 | Fabric generator and CAD tools |
+| 16 | 1 | 0 | 5 days ago | [FABulous](https://github.com/FPGA-Research-Manchester/FABulous)/306 | Fabric generator and CAD tools |
 | 15 | 4 | 0 | 5 years ago | [fpga-bbc](https://github.com/mikestir/fpga-bbc)/307 | Acorn BBC Micro on an Altera DE1 FPGA board |
 | 15 | 9 | 1 | 11 months ago | [jcore-cpu](https://github.com/j-core/jcore-cpu)/308 | J-Core J2/J32 5 stage pipeline CPU core |
-| 15 | 1 | 3 | 9 days ago | [buryak-pi-2020](https://github.com/tank-uk/buryak-pi-2020)/309 | ZX Spectrum совместимый компьютер, с реальным Z80, VGA, Turbosound, PS/2 клавиатурой, Kempston джойстиком, заточенный под корпус от Raspberry Pi 3B |
+| 15 | 1 | 3 | 16 days ago | [buryak-pi-2020](https://github.com/tank-uk/buryak-pi-2020)/309 | ZX Spectrum совместимый компьютер, с реальным Z80, VGA, Turbosound, PS/2 клавиатурой, Kempston джойстиком, заточенный под корпус от Raspberry Pi 3B |
 | 15 | 6 | 0 | 9 months ago | [Altera-Cyclone-II-EP2C5T144-blink](https://github.com/JamesHagerman/Altera-Cyclone-II-EP2C5T144-blink)/310 | A very junior "Hello World" for the low price Altera Cypress II EP2C5T144 FPGA Mini dev board from amazon/ebay |
 | 15 | 5 | 0 | 3 years ago | [OSXA](https://github.com/aghoghoobi/OSXA)/311 | The OSXA repository contains the design files for an LPC flash addon to the original xbox video game console.  |
-| 15 | 10 | 1 | 8 months ago | [Accelerating-Quantized-CNN-Inference-on-FPGA](https://github.com/CNILeo/Accelerating-Quantized-CNN-Inference-on-FPGA)/312 | Accelerating-Quantized-CNN-Inference-on-FPGA(RTL) |
-| 15 | 3 | 0 | a year ago | [skrach-synth](https://github.com/docquantum/skrach-synth)/313 | An FPGA synthesizer with MIDI support |
-| 15 | 3 | 0 | 3 years ago | [OSXANF](https://github.com/aghoghoobi/OSXANF)/314 | The OSXA repository contains the design files for a NOR flash addon to the original xbox video game console.  |
+| 15 | 3 | 0 | 1 year, 7 days ago | [skrach-synth](https://github.com/docquantum/skrach-synth)/312 | An FPGA synthesizer with MIDI support |
+| 15 | 3 | 0 | 3 years ago | [OSXANF](https://github.com/aghoghoobi/OSXANF)/313 | The OSXA repository contains the design files for a NOR flash addon to the original xbox video game console.  |
+| 15 | 5 | 0 | 1 year, 10 months ago | [REAPR](https://github.com/ted-xie/REAPR)/314 | REAPR (Reconfigurable Engine for Automata Processing) is a general-purpose framework for accelerating automata processing applications such as regular expressions. REAPR is currently only compatible with SDAccel-capable Xilinx FPGA boards. |
 | 15 | 8 | 0 | 3 years ago | [S2NN-HLS](https://github.com/eejlny/S2NN-HLS)/315 | Spiking neural network for Zynq devices with Vivado HLS |
 | 15 | 1 | 1 | 3 months ago | [second_order_sigma_delta_DAC](https://github.com/hamsternz/second_order_sigma_delta_DAC)/316 | A comparison of 1st and 2nd order sigma delta DAC for FPGA |
-| 15 | 3 | 0 | Unknown | [R-JTOP](https://github.com/DrSchottky/R-JTOP)/317 | Open source implementation of CB fusecheck glitch |
-| 15 | 10 | 1 | 3 years ago | [ZedBoard-OLED](https://github.com/mmattioli/ZedBoard-OLED)/318 | Driving the OLED display on the ZedBoard |
-| 15 | 4 | 0 | 4 years ago | [neuron-vhdl](https://github.com/dicearr/neuron-vhdl)/319 | Implementation of a neuron and 2 neuronal networks in vhdl |
-| 15 | 15 | 3 | 2 years ago | [VHDL-JESD204b](https://github.com/BBN-Q/VHDL-JESD204b)/320 | JESD204b modules in VHDL |
-| 15 | 5 | 1 | 8 months ago | [WonderMadeleine](https://github.com/986-Studio/WonderMadeleine)/321 | WonderMadeleine is a Bandai 2001/2003 clone chip |
-| 15 | 8 | 0 | 1 year, 4 months ago | [itc99-poli](https://github.com/squillero/itc99-poli)/322 | ITC'99 benchmarks developed in the CAD Group at Politecnico di Torino (I99T) |
-| 15 | 6 | 0 | 2 years ago | [light52](https://github.com/jaruiz/light52)/323 | Yet another free 8051 FPGA core |
-| 15 | 9 | 0 | 4 months ago | [Digital-Hardware-Modelling](https://github.com/varunnagpaal/Digital-Hardware-Modelling)/324 | Digital Hardware Modelling using VHDL, Verilog, SystemVerilog, SystemC, HLS(C++, OpenCL)  |
-| 14 | 4 | 0 | 4 years ago | [MIPS](https://github.com/dugagjin/MIPS)/325 | VHDL implementation of a MIPS processor for Spartan-6 FPGA |
-| 14 | 6 | 1 | 4 years ago | [ArtyEtherentTX](https://github.com/hamsternz/ArtyEtherentTX)/326 | Sending raw data from the Digilent Arty FPGA board |
-| 14 | 1 | 0 | 1 year, 8 months ago | [VHDLBoy](https://github.com/RobertPeip/VHDLBoy)/327 | VHDL Gameboy implementation |
-| 14 | 1 | 0 | 2 months ago | [Z80-512K](https://github.com/skiselev/Z80-512K)/328 | Z80 CPU and Memory Module |
-| 14 | 5 | 0 | Unknown | [REAPR](https://github.com/ted-xie/REAPR)/329 | REAPR (Reconfigurable Engine for Automata Processing) is a general-purpose framework for accelerating automata processing applications such as regular expressions. REAPR is currently only compatible with SDAccel-capable Xilinx FPGA boards. |
-| 14 | 3 | 1 | 5 years ago | [6502](https://github.com/bernardo-andreeti/6502)/330 | VHDL description of 6502 processor with FPGA synthesis support. |
-| 14 | 6 | 2 | 4 years ago | [netv2-fpga-basic-overlay](https://github.com/bunnie/netv2-fpga-basic-overlay)/331 | Vivado design for basic NeTV2 FPGA with chroma-based overlay |
-| 14 | 12 | 0 | Unknown | [jpeg_open](https://github.com/lulinchen/jpeg_open)/332 | A hardware MJPEG encoder and RTP transmitter |
-| 14 | 9 | 1 | Unknown | [Arcade-Arkanoid_MISTer](https://github.com/Ace9921/Arcade-Arkanoid_MISTer)/333 | None |
-| 14 | 4 | 0 | Unknown | [Cache](https://github.com/Tabrizian/Cache)/334 | Simple implementation of cache using VHDL |
-| 14 | 8 | 0 | Unknown | [fpga_fibre_scan](https://github.com/takeshineshiro/fpga_fibre_scan)/335 |   本信号处理板主要由FPGA芯片和CYUSB3.0 芯片组成,其中FPGA模块主要完成与相关外设的交互，CYUSB3.0主要完成协议数据的传输。      2.2.1  FPGA模块         处理流程：   1. 链路初始化： 在上位机完成USB固件的下载，并读取固件的信息状态描述后，通过上电复位或者手动复位，通过串口发送0X55给上位机，表明链路打通，一次握手成功。 2. 超声波发射与AD数据接收：在收到上位机通过串口发送的0X02指令后，开启（START），发送超声方波信号，（注：该START信号在处理过程被改变成包络信号）因为只是单阵元，所以就没有接收延迟聚焦的问题，但有皮肤表皮的客观实际和单阵元回波的时间消耗，所以在等到C_CORDIC_DELAY（1000）后，才开始AD数据的采集。（注：具体多少厚度，需要细算）。每次采集4096个数据，形成一个扫描线；总共需要采集300根扫描线，若不够，则需重新发送方波，并接收AD数据。 3.  剪切波发送： 在采集到第33根扫描线后，开始剪切波的发送，简单的发送50HZ的单载波就可以，此后的AD数据就含有剪切波的信息。 4.  控制通路的信息：  这里通过CYUSB3.0的串口来传送上位机发送的控制端口信息 ，包括数据通路的读和写指令（注：这里只需要通过BULK读取数据通路的数据，不需要通过BULK向数据通路写数据）；通过CYUSB3.0的串口来传送下位机FPGA的状态信息指令给上位机。（由于采用的是URAT，所以有FIFO缓存和数据发送接收状态控制操作） 5. 数据通路的信息： 这里通过上位机的读写指令来将数据存储到FIFO中，这里默认发送的是0X00指令，一直读取AD采集到的数据。并且采用的是BULK的Xfer->read的同步传输，一直要等到指定数目数据（4096*300）采集完才结束采集。     2.2.2   USB3.0模块          1. 这里首先要进行存储划分和寄存器映射，一般汇编或者其他CMD格式，然后编写BOOTLOAD汇编，最后中断跳转处理（汇编）。      2. 这里主要配置GPIF的异步串口参数和读写操作。      3. 这里需要给出CTL端口和BULK端口的配置和读写。     2.3  上位机软件      这里主要完成算法的处理和界面的显示和控制。 关于算法部分需要后面补充，目前没有完全消化。       处理流程：   1. 初始化USB，然后上位机通过控制端点发送写命令控制字（不加帧头命令）下位机未处理，开启监视工作线程循环，主要内容是：通过控制端点发送读命令控制字，通过控制端点读回串口信息，用来验证设备是否启动握手成功（0X55）。 2. 启动成功后引发响应的启动触发方法。启动触发方法中，先要延时大于0.36s，如果选中check_box，则使用存储的测试数据，若未选中，通过控制端点发送写start命令，开启bulk端口读循环线程，最后每次测量发送一次读bulk数据消息到消息队列。 3. 在bulk端口读循环线程中引发响应的bulk读方法，在bulk读方法中，主要调用底层的USB3.0的bulkin读方法，数据读上来后，post一个getData消息，交由绑定的函数来处理数据。 4.  数据处理包括二独立部分，一部分是原始数据产生MotionMOdel信息 ,一部分是原始数据产生剪切波速度和杨氏模量信息。 |
+| 15 | 3 | 0 | 6 years ago | [R-JTOP](https://github.com/DrSchottky/R-JTOP)/317 | Open source implementation of CB fusecheck glitch |
+| 15 | 1 | 0 | 3 years ago | [cosmac](https://github.com/brouhaha/cosmac)/318 | RCA COSMAC CDP1802 functional equivalent CPU core in VHDL |
+| 15 | 10 | 1 | 4 years ago | [ZedBoard-OLED](https://github.com/mmattioli/ZedBoard-OLED)/319 | Driving the OLED display on the ZedBoard |
+| 15 | 4 | 0 | 4 years ago | [neuron-vhdl](https://github.com/dicearr/neuron-vhdl)/320 | Implementation of a neuron and 2 neuronal networks in vhdl |
+| 15 | 15 | 3 | 2 years ago | [VHDL-JESD204b](https://github.com/BBN-Q/VHDL-JESD204b)/321 | JESD204b modules in VHDL |
+| 15 | 3 | 0 | 8 months ago | [libvhdl](https://github.com/tmeissner/libvhdl)/322 | Library of reusable VHDL components |
+| 15 | 5 | 1 | 8 months ago | [WonderMadeleine](https://github.com/986-Studio/WonderMadeleine)/323 | WonderMadeleine is a Bandai 2001/2003 clone chip |
+| 15 | 8 | 0 | 1 year, 4 months ago | [itc99-poli](https://github.com/squillero/itc99-poli)/324 | ITC'99 benchmarks developed in the CAD Group at Politecnico di Torino (I99T) |
+| 15 | 6 | 0 | 2 years ago | [light52](https://github.com/jaruiz/light52)/325 | Yet another free 8051 FPGA core |
+| 15 | 9 | 0 | 4 months ago | [Digital-Hardware-Modelling](https://github.com/varunnagpaal/Digital-Hardware-Modelling)/326 | Digital Hardware Modelling using VHDL, Verilog, SystemVerilog, SystemC, HLS(C++, OpenCL)  |
+| 14 | 4 | 0 | 4 years ago | [MIPS](https://github.com/dugagjin/MIPS)/327 | VHDL implementation of a MIPS processor for Spartan-6 FPGA |
+| 14 | 6 | 1 | 4 years ago | [ArtyEtherentTX](https://github.com/hamsternz/ArtyEtherentTX)/328 | Sending raw data from the Digilent Arty FPGA board |
+| 14 | 1 | 0 | 1 year, 8 months ago | [VHDLBoy](https://github.com/RobertPeip/VHDLBoy)/329 | VHDL Gameboy implementation |
+| 14 | 1 | 0 | 2 months ago | [Z80-512K](https://github.com/skiselev/Z80-512K)/330 | Z80 CPU and Memory Module |
+| 14 | 3 | 0 | 11 months ago | [FPGA-Audio-IIR](https://github.com/YetAnotherElectronicsChannel/FPGA-Audio-IIR)/331 | None |
+| 14 | 9 | 2 | 9 months ago | [Arcade-Arkanoid_MISTer](https://github.com/Ace9921/Arcade-Arkanoid_MISTer)/332 | None |
+| 14 | 3 | 1 | 5 years ago | [6502](https://github.com/bernardo-andreeti/6502)/333 | VHDL description of 6502 processor with FPGA synthesis support. |
+| 14 | 6 | 2 | 4 years ago | [netv2-fpga-basic-overlay](https://github.com/bunnie/netv2-fpga-basic-overlay)/334 | Vivado design for basic NeTV2 FPGA with chroma-based overlay |
+| 14 | 12 | 0 | 1 year, 3 months ago | [jpeg_open](https://github.com/lulinchen/jpeg_open)/335 | A hardware MJPEG encoder and RTP transmitter |
 | 14 | 8 | 2 | Unknown | [PYNQ_PR_Overlay](https://github.com/AEW2015/PYNQ_PR_Overlay)/336 | Adding PR to the PYNQ Overlay |
-| 14 | 1 | 0 | Unknown | [IBM2030](https://github.com/ibm2030/IBM2030)/337 | An IBM System/360 Model 30 in VHDL |
-| 14 | 3 | 0 | Unknown | [subleq-machine-vhdl](https://github.com/rongcuid/subleq-machine-vhdl)/338 | The final code of a two-hour challenge to simulate and implement a SUBLEQ SISC machine |
-| 14 | 5 | 1 | 1 year, 2 months ago | [fmh_gpib_core](https://github.com/fmhess/fmh_gpib_core)/339 | GPIB IEEE 488.1 core |
-| 14 | 16 | 5 | a month ago | [Arcade-DonkeyKong_MiSTer](https://github.com/MiSTer-devel/Arcade-DonkeyKong_MiSTer)/340 | Arcade: Donkey Kong for MiSTer |
-| 14 | 3 | 0 | Unknown | [GAIA3](https://github.com/nyuichi/GAIA3)/341 | GAIA Processor |
-| 14 | 5 | 0 | Unknown | [SMSMapper](https://github.com/db-electronics/SMSMapper)/342 | Sega Master System Homebrew Flash Cart |
-| 14 | 1 | 0 | Unknown | [cosmac](https://github.com/brouhaha/cosmac)/343 | RCA COSMAC CDP1802 functional equivalent CPU core in VHDL |
-| 14 | 2 | 0 | 3 years ago | [vm2413](https://github.com/digital-sound-antiques/vm2413)/344 | A YM2413 clone module written in VHDL. |
-| 14 | 5 | 0 | 8 months ago | [getting-started-FV](https://github.com/SymbioticEDA/getting-started-FV)/345 | None |
-| 14 | 3 | 1 | 3 years ago | [ASP-SoC](https://github.com/ASP-SoC/ASP-SoC)/346 | Audio Signal Processing SoC |
-| 14 | 20 | 0 | 11 months ago | [gnss-baseband](https://github.com/j-core/gnss-baseband)/347 | Baseband Receiver IP for GPS like DSSS signals |
-| 13 | 4 | 0 | 6 years ago | [multicomp](https://github.com/wsoltys/multicomp)/348 | Simple custom computer on a FPGA |
-| 13 | 2 | 0 | Unknown | [deocmpldcv](https://github.com/uniabis/deocmpldcv)/349 | This project is a port of the 1chipMSX to DEOCM + DE0-CV including modification of OCM-PLD. |
-| 13 | 7 | 2 | Unknown | [pauloBlaze](https://github.com/krabo0om/pauloBlaze)/350 | A plain VHDL implementation of a small microprocessor fully compatible with the ISA of the well known PicoBlaze by Ken Chapman. |
-| 13 | 24 | 0 | Unknown | [hostmot2-firmware](https://github.com/LinuxCNC/hostmot2-firmware)/351 | HostMot2 FPGA firmware |
-| 13 | 3 | 0 | Unknown | [ultra96_design](https://github.com/fixstars/ultra96_design)/352 | Repository of HW design and SW for Ultra96 board + MIPI board |
-| 13 | 11 | 0 | Unknown | [Hardware-Neural-Network](https://github.com/Skydes/Hardware-Neural-Network)/353 | Embedded hardware accelerator of multilayer perceptrons for lightweight machine learning |
-| 13 | 7 | 2 | 2 months ago | [BBCMicro_MiSTer](https://github.com/MiSTer-devel/BBCMicro_MiSTer)/354 | BBC Micro B and Master 128K for MiSTer |
-| 13 | 2 | 0 | 10 months ago | [FPGA-Audio-IIR](https://github.com/YetAnotherElectronicsChannel/FPGA-Audio-IIR)/355 | None |
-| 13 | 7 | 0 | Unknown | [Arty-A7-35-GPIO](https://github.com/Digilent/Arty-A7-35-GPIO)/356 | None |
+| 14 | 8 | 0 | Unknown | [fpga_fibre_scan](https://github.com/takeshineshiro/fpga_fibre_scan)/337 |   本信号处理板主要由FPGA芯片和CYUSB3.0 芯片组成,其中FPGA模块主要完成与相关外设的交互，CYUSB3.0主要完成协议数据的传输。      2.2.1  FPGA模块         处理流程：   1. 链路初始化： 在上位机完成USB固件的下载，并读取固件的信息状态描述后，通过上电复位或者手动复位，通过串口发送0X55给上位机，表明链路打通，一次握手成功。 2. 超声波发射与AD数据接收：在收到上位机通过串口发送的0X02指令后，开启（START），发送超声方波信号，（注：该START信号在处理过程被改变成包络信号）因为只是单阵元，所以就没有接收延迟聚焦的问题，但有皮肤表皮的客观实际和单阵元回波的时间消耗，所以在等到C_CORDIC_DELAY（1000）后，才开始AD数据的采集。（注：具体多少厚度，需要细算）。每次采集4096个数据，形成一个扫描线；总共需要采集300根扫描线，若不够，则需重新发送方波，并接收AD数据。 3.  剪切波发送： 在采集到第33根扫描线后，开始剪切波的发送，简单的发送50HZ的单载波就可以，此后的AD数据就含有剪切波的信息。 4.  控制通路的信息：  这里通过CYUSB3.0的串口来传送上位机发送的控制端口信息 ，包括数据通路的读和写指令（注：这里只需要通过BULK读取数据通路的数据，不需要通过BULK向数据通路写数据）；通过CYUSB3.0的串口来传送下位机FPGA的状态信息指令给上位机。（由于采用的是URAT，所以有FIFO缓存和数据发送接收状态控制操作） 5. 数据通路的信息： 这里通过上位机的读写指令来将数据存储到FIFO中，这里默认发送的是0X00指令，一直读取AD采集到的数据。并且采用的是BULK的Xfer->read的同步传输，一直要等到指定数目数据（4096*300）采集完才结束采集。     2.2.2   USB3.0模块          1. 这里首先要进行存储划分和寄存器映射，一般汇编或者其他CMD格式，然后编写BOOTLOAD汇编，最后中断跳转处理（汇编）。      2. 这里主要配置GPIF的异步串口参数和读写操作。      3. 这里需要给出CTL端口和BULK端口的配置和读写。     2.3  上位机软件      这里主要完成算法的处理和界面的显示和控制。 关于算法部分需要后面补充，目前没有完全消化。       处理流程：   1. 初始化USB，然后上位机通过控制端点发送写命令控制字（不加帧头命令）下位机未处理，开启监视工作线程循环，主要内容是：通过控制端点发送读命令控制字，通过控制端点读回串口信息，用来验证设备是否启动握手成功（0X55）。 2. 启动成功后引发响应的启动触发方法。启动触发方法中，先要延时大于0.36s，如果选中check_box，则使用存储的测试数据，若未选中，通过控制端点发送写start命令，开启bulk端口读循环线程，最后每次测量发送一次读bulk数据消息到消息队列。 3. 在bulk端口读循环线程中引发响应的bulk读方法，在bulk读方法中，主要调用底层的USB3.0的bulkin读方法，数据读上来后，post一个getData消息，交由绑定的函数来处理数据。 4.  数据处理包括二独立部分，一部分是原始数据产生MotionMOdel信息 ,一部分是原始数据产生剪切波速度和杨氏模量信息。 |
+| 14 | 4 | 0 | Unknown | [Cache](https://github.com/Tabrizian/Cache)/338 | Simple implementation of cache using VHDL |
+| 14 | 1 | 0 | Unknown | [IBM2030](https://github.com/ibm2030/IBM2030)/339 | An IBM System/360 Model 30 in VHDL |
+| 14 | 3 | 0 | 3 years ago | [subleq-machine-vhdl](https://github.com/rongcuid/subleq-machine-vhdl)/340 | The final code of a two-hour challenge to simulate and implement a SUBLEQ SISC machine |
+| 14 | 5 | 1 | Unknown | [fmh_gpib_core](https://github.com/fmhess/fmh_gpib_core)/341 | GPIB IEEE 488.1 core |
+| 14 | 16 | 5 | Unknown | [Arcade-DonkeyKong_MiSTer](https://github.com/MiSTer-devel/Arcade-DonkeyKong_MiSTer)/342 | Arcade: Donkey Kong for MiSTer |
+| 14 | 5 | 0 | Unknown | [SMSMapper](https://github.com/db-electronics/SMSMapper)/343 | Sega Master System Homebrew Flash Cart |
+| 14 | 3 | 0 | 6 years ago | [GAIA3](https://github.com/nyuichi/GAIA3)/344 | GAIA Processor |
+| 14 | 11 | 0 | Unknown | [LMAC_CORE3](https://github.com/lewiz-support/LMAC_CORE3)/345 | Ethernet MAC IP Core for 100G/50G/40G/25G/10Gbps |
+| 14 | 2 | 0 | Unknown | [vm2413](https://github.com/digital-sound-antiques/vm2413)/346 | A YM2413 clone module written in VHDL. |
+| 14 | 5 | 0 | Unknown | [getting-started-FV](https://github.com/SymbioticEDA/getting-started-FV)/347 | None |
+| 14 | 3 | 1 | Unknown | [ASP-SoC](https://github.com/ASP-SoC/ASP-SoC)/348 | Audio Signal Processing SoC |
+| 14 | 20 | 0 | Unknown | [gnss-baseband](https://github.com/j-core/gnss-baseband)/349 | Baseband Receiver IP for GPS like DSSS signals |
+| 13 | 4 | 0 | 6 years ago | [multicomp](https://github.com/wsoltys/multicomp)/350 | Simple custom computer on a FPGA |
+| 13 | 2 | 0 | Unknown | [deocmpldcv](https://github.com/uniabis/deocmpldcv)/351 | This project is a port of the 1chipMSX to DEOCM + DE0-CV including modification of OCM-PLD. |
+| 13 | 7 | 2 | Unknown | [pauloBlaze](https://github.com/krabo0om/pauloBlaze)/352 | A plain VHDL implementation of a small microprocessor fully compatible with the ISA of the well known PicoBlaze by Ken Chapman. |
+| 13 | 24 | 0 | 2 months ago | [hostmot2-firmware](https://github.com/LinuxCNC/hostmot2-firmware)/353 | HostMot2 FPGA firmware |
+| 13 | 3 | 0 | Unknown | [ultra96_design](https://github.com/fixstars/ultra96_design)/354 | Repository of HW design and SW for Ultra96 board + MIPI board |
+| 13 | 11 | 0 | 4 years ago | [Hardware-Neural-Network](https://github.com/Skydes/Hardware-Neural-Network)/355 | Embedded hardware accelerator of multilayer perceptrons for lightweight machine learning |
+| 13 | 7 | 2 | Unknown | [BBCMicro_MiSTer](https://github.com/MiSTer-devel/BBCMicro_MiSTer)/356 | BBC Micro B and Master 128K for MiSTer |
 | 13 | 7 | 0 | 2 years ago | [EM070_New-FPGA-family-for-CNN-architectures-High-Speed-Soft-Neuron-Design](https://github.com/Hossamomar/EM070_New-FPGA-family-for-CNN-architectures-High-Speed-Soft-Neuron-Design)/357 | Who doesn’t dream of a new FPGA family that can provide embedded hard neurons in its silicon architecture fabric instead of the conventional DSP and multiplier blocks? The optimized hard neuron design will allow all the software and hardware designers to create or test different deep learning network architectures, especially the convolutional neural networks (CNN), more easily and faster in comparing to any previous FPGA family in the market nowadays. The revolutionary idea about this project is to open the gate of creativity for a precise-tailored new generation of FPGA families that can solve the problems of wasting logic resources and/or unneeded buses width as in the conventional DSP blocks nowadays. The project focusing on the anchor point of the any deep learning architecture, which is to design an optimized high-speed neuron block which should replace the conventional DSP blocks to avoid the drawbacks that designers face while trying to fit the CNN architecture design to it. The design of the proposed neuron also takes the parallelism operation concept as it’s primary keystone, beside the minimization of logic elements usage to construct the proposed neuron cell. The targeted neuron design resource usage is not to exceeds 500 ALM and the expected maximum operating frequency of 834.03 MHz for each neuron. In this project, ultra-fast, adaptive, and parallel modules are designed as soft blocks using VHDL code such as parallel Multipliers-Accumulators (MACs), RELU activation function that will contribute to open a new horizon for all the FPGA designers to build their own Convolutional Neural Networks (CNN). We couldn’t stop imagining INTEL ALTERA to lead the market by converting the proposed designed CNN block and to be a part of their new FPGA architecture fabrics in a separated new Logic Family so soon. The users of such proposed CNN blocks will be amazed from the high-speed operation per seconds that it can provide to them while they are trying to design their own CNN architectures. For instance, and according to the first coding trial, the initial speed of just one MAC unit can reach 3.5 Giga Operations per Second (GOPS) and has the ability to multiply up to 4 different inputs beside a common weight value, which will lead to a revolution in the FPGA capabilities for adopting the era of deep learning algorithms especially if we take in our consideration that also the blocks can work in parallel mode which can lead to increasing the data throughput of the proposed project to about 16 Tera Operations per Second (TOPS). Finally, we believe that this proposed CNN block for FPGA is just the first step that will leave no areas for competitions with the conventional CPUs and GPUs due to the massive speed that it can provide and its flexible scalability that it can be achieved from the parallelism concept of operation of such FPGA-based CNN blocks. |
-| 13 | 2 | 0 | Unknown | [antDev](https://github.com/Winters123/antDev)/358 | Agile Network Tester with FPGA & multi-cores |
-| 13 | 9 | 0 | Unknown | [LMAC_CORE3](https://github.com/lewiz-support/LMAC_CORE3)/359 | Ethernet MAC IP Core for 100G/50G/40G/25G/10Gbps |
-| 13 | 3 | 32 | Unknown | [ZXInterfaceZ](https://github.com/alvieboy/ZXInterfaceZ)/360 | ZX Spectrum InterfaceZ |
-| 13 | 1 | 0 | Unknown | [Homebrew-65C02-Computer](https://github.com/LIV2/Homebrew-65C02-Computer)/361 | A homebrew 65C02 based computer with PS/2 Keyboard, Serial & Parallel IO + 3 Expansion slots |
+| 13 | 7 | 0 | Unknown | [Arty-A7-35-GPIO](https://github.com/Digilent/Arty-A7-35-GPIO)/358 | None |
+| 13 | 2 | 0 | Unknown | [antDev](https://github.com/Winters123/antDev)/359 | Agile Network Tester with FPGA & multi-cores |
+| 13 | 1 | 0 | 7 months ago | [Homebrew-65C02-Computer](https://github.com/LIV2/Homebrew-65C02-Computer)/360 | A homebrew 65C02 based computer with PS/2 Keyboard, Serial & Parallel IO + 3 Expansion slots |
+| 13 | 3 | 33 | 10 hours ago | [ZXInterfaceZ](https://github.com/alvieboy/ZXInterfaceZ)/361 | ZX Spectrum InterfaceZ |
 | 13 | 9 | 0 | Unknown | [Basys-3-GPIO](https://github.com/Digilent/Basys-3-GPIO)/362 | None |
-| 13 | 4 | 0 | Unknown | [ZYNQ-PYNQ-Z2-Gobang](https://github.com/Starrynightzyq/ZYNQ-PYNQ-Z2-Gobang)/363 | 参加2018第二届全国大学生FPGA创新设计邀请赛的作品 |
-| 13 | 3 | 0 | Unknown | [Pixblasters-MicroDemo](https://github.com/PixiGreen/Pixblasters-MicroDemo)/364 | Create video LED displays by RGB LED strips |
-| 13 | 3 | 0 | Unknown | [vboard](https://github.com/dbhi/vboard)/365 | Virtual development board for HDL design |
-| 13 | 3 | 10 | Unknown | [mrisc32-a1](https://github.com/mrisc32/mrisc32-a1)/366 | A pipelined, in-order, scalar implementation of the MRISC32 ISA |
-| 13 | 3 | 0 | Unknown | [satcat5](https://github.com/the-aerospace-corporation/satcat5)/367 | SatCat5 is a mixed-media Ethernet switch that lets a variety of devices communicate on the same network. |
-| 13 | 0 | 0 | Unknown | [simple-riscv](https://github.com/hamsternz/simple-riscv)/368 | A simple three-stage RISC-V CPU |
-| 12 | 10 | 0 | Unknown | [VHDL-Mips-Pipeline-Microprocessor](https://github.com/renataghisloti/VHDL-Mips-Pipeline-Microprocessor)/369 | VHDL-Mips-Pipeline-Microprocessor |
-| 12 | 8 | 7 | Unknown | [TI-99_4A_MiSTer](https://github.com/MiSTer-devel/TI-99_4A_MiSTer)/370 | Texas Instrument 99/4A Home Computer |
-| 12 | 2 | 1 | Unknown | [keyboard-ip](https://github.com/theshadowx/keyboard-ip)/371 | PS/2 Keyboard IP written in VHDL for Xilinx FPGA |
-| 12 | 5 | 0 | Unknown | [cryptocores](https://github.com/tmeissner/cryptocores)/372 | cryptography ip-cores in vhdl / verilog |
-| 12 | 7 | 1 | Unknown | [jcore-soc](https://github.com/j-core/jcore-soc)/373 | J-Core SoC Base Platfrom. Top level for FPGA platforms, pulls in CPU, BootROM and various IP blocks. |
-| 12 | 0 | 0 | Unknown | [MicroPET](https://github.com/fachat/MicroPET)/374 | None |
-| 12 | 4 | 0 | Unknown | [j-core-ice40](https://github.com/j-core/j-core-ice40)/375 | J-core SOC for ice40 FPGA |
-| 12 | 12 | 1 | Unknown | [Arty-Z7-old](https://github.com/Digilent/Arty-Z7-old)/376 | Board repository for the Arty Z7 |
+| 13 | 3 | 0 | Unknown | [Pixblasters-MicroDemo](https://github.com/PixiGreen/Pixblasters-MicroDemo)/363 | Create video LED displays by RGB LED strips |
+| 13 | 4 | 0 | Unknown | [ZYNQ-PYNQ-Z2-Gobang](https://github.com/Starrynightzyq/ZYNQ-PYNQ-Z2-Gobang)/364 | 参加2018第二届全国大学生FPGA创新设计邀请赛的作品 |
+| 13 | 3 | 10 | Unknown | [mrisc32-a1](https://github.com/mrisc32/mrisc32-a1)/365 | A pipelined, in-order, scalar implementation of the MRISC32 ISA |
+| 13 | 3 | 0 | Unknown | [vboard](https://github.com/dbhi/vboard)/366 | Virtual development board for HDL design |
+| 13 | 3 | 0 | a month ago | [satcat5](https://github.com/the-aerospace-corporation/satcat5)/367 | SatCat5 is a mixed-media Ethernet switch that lets a variety of devices communicate on the same network. |
+| 13 | 5 | 1 | Unknown | [cpu86](https://github.com/nsauzede/cpu86)/368 | CPU86 - Free VHDL CPU8088 IP core - ported to Papilio and Max1000 FPGA |
+| 13 | 0 | 0 | Unknown | [simple-riscv](https://github.com/hamsternz/simple-riscv)/369 | A simple three-stage RISC-V CPU |
+| 12 | 10 | 0 | 9 years ago | [VHDL-Mips-Pipeline-Microprocessor](https://github.com/renataghisloti/VHDL-Mips-Pipeline-Microprocessor)/370 | VHDL-Mips-Pipeline-Microprocessor |
+| 12 | 8 | 7 | Unknown | [TI-99_4A_MiSTer](https://github.com/MiSTer-devel/TI-99_4A_MiSTer)/371 | Texas Instrument 99/4A Home Computer |
+| 12 | 2 | 1 | Unknown | [keyboard-ip](https://github.com/theshadowx/keyboard-ip)/372 | PS/2 Keyboard IP written in VHDL for Xilinx FPGA |
+| 12 | 5 | 0 | Unknown | [cryptocores](https://github.com/tmeissner/cryptocores)/373 | cryptography ip-cores in vhdl / verilog |
+| 12 | 7 | 1 | Unknown | [jcore-soc](https://github.com/j-core/jcore-soc)/374 | J-Core SoC Base Platfrom. Top level for FPGA platforms, pulls in CPU, BootROM and various IP blocks. |
+| 12 | 0 | 0 | Unknown | [MicroPET](https://github.com/fachat/MicroPET)/375 | None |
+| 12 | 4 | 0 | Unknown | [j-core-ice40](https://github.com/j-core/j-core-ice40)/376 | J-core SOC for ice40 FPGA |
 | 12 | 15 | 0 | Unknown | [zynq-dma](https://github.com/shichaog/zynq-dma)/377 | A Zynq DMA transfer project. linux code and vivado hardware design included. |
-| 12 | 5 | 1 | Unknown | [Shouji](https://github.com/CMU-SAFARI/Shouji)/378 | Shouji is fast and accurate pre-alignment filter for banded sequence alignment calculation. Described in the Bioinformatics journal paper (2019) by Alser et al. at https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btz234/28533771/btz234.pdf |
-| 12 | 1 | 1 | Unknown | [Sudoku-Solver](https://github.com/sourabh-suri/Sudoku-Solver)/379 | A brute force algorithm on hardware is used to solve a sudoku. When a valid fill is not found backtracking is done. Backtracking is repeated until last number is a valid guess i.e guess out of 1 to 9. Digital logic realised using priority encoders and multiplexers. |
-| 12 | 6 | 1 | Unknown | [fpga-miner](https://github.com/diogofferreira/fpga-miner)/380 |  :moneybag: A simplified version of an FPGA bitcoin miner :moneybag: |
-| 12 | 5 | 1 | Unknown | [tdc](https://github.com/gonzagab/tdc)/381 | A Time to Digital Converter (TDC) on a Xilinx Virtex 5 FPGA. |
-| 12 | 1 | 0 | Unknown | [fppa-pdk-emulator-vhdl](https://github.com/free-pdk/fppa-pdk-emulator-vhdl)/382 | VHDL simulation model for PADAUK PDK microcontrollers  |
-| 12 | 0 | 0 | Unknown | [k1208-cpld](https://github.com/mikestir/k1208-cpld)/383 | K1208 A1200 fastmem board CPLD logic |
-| 12 | 2 | 0 | Unknown | [zpu](https://github.com/freecores/zpu)/384 | ZPU - the worlds smallest 32 bit CPU with GCC toolchain |
-| 12 | 0 | 0 | Unknown | [YM2612](https://github.com/sauraen/YM2612)/385 | VHDL description and documentation of architecture and undocumented features in Yamaha YM2203 (OPN) and YM2612 (OPN2) |
+| 12 | 12 | 1 | 3 years ago | [Arty-Z7-old](https://github.com/Digilent/Arty-Z7-old)/378 | Board repository for the Arty Z7 |
+| 12 | 5 | 1 | 1 year, 11 months ago | [Shouji](https://github.com/CMU-SAFARI/Shouji)/379 | Shouji is fast and accurate pre-alignment filter for banded sequence alignment calculation. Described in the Bioinformatics journal paper (2019) by Alser et al. at https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btz234/28533771/btz234.pdf |
+| 12 | 1 | 1 | Unknown | [Sudoku-Solver](https://github.com/sourabh-suri/Sudoku-Solver)/380 | A brute force algorithm on hardware is used to solve a sudoku. When a valid fill is not found backtracking is done. Backtracking is repeated until last number is a valid guess i.e guess out of 1 to 9. Digital logic realised using priority encoders and multiplexers. |
+| 12 | 6 | 1 | Unknown | [fpga-miner](https://github.com/diogofferreira/fpga-miner)/381 |  :moneybag: A simplified version of an FPGA bitcoin miner :moneybag: |
+| 12 | 5 | 1 | Unknown | [tdc](https://github.com/gonzagab/tdc)/382 | A Time to Digital Converter (TDC) on a Xilinx Virtex 5 FPGA. |
+| 12 | 1 | 0 | Unknown | [fppa-pdk-emulator-vhdl](https://github.com/free-pdk/fppa-pdk-emulator-vhdl)/383 | VHDL simulation model for PADAUK PDK microcontrollers  |
+| 12 | 0 | 0 | Unknown | [k1208-cpld](https://github.com/mikestir/k1208-cpld)/384 | K1208 A1200 fastmem board CPLD logic |
+| 12 | 2 | 0 | Unknown | [zpu](https://github.com/freecores/zpu)/385 | ZPU - the worlds smallest 32 bit CPU with GCC toolchain |
 | 12 | 2 | 0 | Unknown | [myhdl-examples](https://github.com/jandecaluwe/myhdl-examples)/386 | None |
-| 12 | 4 | 0 | Unknown | [Demo_project](https://github.com/Pillar1989/Demo_project)/387 | None |
-| 12 | 1 | 0 | Unknown | [synthowheel](https://github.com/emard/synthowheel)/388 | Polyphonic additive wheeltone synthesizer core |
-| 12 | 2 | 0 | Unknown | [probe-scope-fpga](https://github.com/probe-scope/probe-scope-fpga)/389 | FPGA Software for the Probe-Scope |
-| 12 | 5 | 1 | Unknown | [capi-streaming-framework](https://github.com/mbrobbel/capi-streaming-framework)/390 | AFU framework for streaming applications with CAPI. |
-| 12 | 8 | 0 | Unknown | [fpga-camera](https://github.com/bitflippersanonymous/fpga-camera)/391 | FPGA digital camera controller and frame capture device in VHDL |
-| 12 | 1 | 0 | Unknown | [gimli](https://github.com/jedisct1/gimli)/392 | Reference implementations of the GIMLI permutation |
-| 12 | 0 | 0 | Unknown | [VHDL6526](https://github.com/bwack/VHDL6526)/393 | None |
-| 12 | 21 | 1 | Unknown | [AD](https://github.com/awersatos/AD)/394 | Altium Desinger |
-| 12 | 5 | 0 | Unknown | [Zynq_Project](https://github.com/snikrepmada/Zynq_Project)/395 | Zynq project to interface OV2640 camera module |
-| 12 | 8 | 0 | Unknown | [aes-over-pcie](https://github.com/jevinskie/aes-over-pcie)/396 | A VHDL implementation of 128 bit AES encryption with a PCIe interface. |
-| 12 | 5 | 0 | Unknown | [cpu86](https://github.com/nsauzede/cpu86)/397 | CPU86 - Free VHDL CPU8088 IP core - ported to Papilio and Max1000 FPGA |
-| 11 | 9 | 0 | Unknown | [Getting-to-Know-Vivado](https://github.com/ATaylorCEngFIET/Getting-to-Know-Vivado)/398 | Source files for Getting to Know Vivado course |
-| 11 | 17 | 0 | Unknown | [LEON2](https://github.com/Galland/LEON2)/399 | LEON2 SPARC CPU IP core LGPL by Gaisler Research |
-| 11 | 1 | 0 | Unknown | [16x16-bit-Dada-multiplication](https://github.com/sourabh-suri/16x16-bit-Dada-multiplication)/400 | Design a Dadda multiplier for unsigned 16x16 bit multiplication with a Brent Kung adder for the final addition in synthesizable VHDL. |
-| 11 | 3 | 0 | 2 years ago | [vgg16-on-Zynq](https://github.com/flymin/vgg16-on-Zynq)/401 | Simulating implement of vgg16 network on Zynq-7020 FPGA |
-| 11 | 5 | 0 | a month ago | [VCS-1](https://github.com/SundanceMultiprocessorTechnology/VCS-1)/402 | VCS-1 system |
-| 11 | 13 | 0 | 5 years ago | [team_psx](https://github.com/anitazha/team_psx)/403 | 18545 Repo |
-| 11 | 14 | 18 | 5 months ago | [bel_projects](https://github.com/GSI-CS-CO/bel_projects)/404 | GSI Timing Gateware and Tools |
-| 11 | 2 | 1 | 4 years ago | [tetris-vhdl](https://github.com/primiano/tetris-vhdl)/405 | A bare-metal pure hardware implementation of the Tetris game for FPGA |
-| 11 | 1 | 10 | a month ago | [spartan-edge-accelerator-graphical-system](https://github.com/smartperson/spartan-edge-accelerator-graphical-system)/406 | WIP Graphics layer and inter IC communication for the Spartan Edge Accelerator fpga/mcu hybrid board |
-| 11 | 5 | 0 | 5 years ago | [RSA-Encryption](https://github.com/scarter93/RSA-Encryption)/407 | VHDL implementation of RSA encryption/decryption using Montgomery modular multipliers  |
-| 11 | 5 | 7 | 1 year, 5 months ago | [fpgasdr](https://github.com/danupp/fpgasdr)/408 | FPGA firmware for FPGA radio baseband board. Scroll down for README. |
-| 11 | 7 | 0 | a day ago | [fpga_ip](https://github.com/oscimp/fpga_ip)/409 | OscillatorIMP ecosystem FPGA IP sources |
-| 11 | 9 | 0 | 7 years ago | [VHDL-Pong](https://github.com/MadLittleMods/VHDL-Pong)/410 | Straightforward Pong Game written in VHDL. Scoring and Multiplayer |
-| 11 | 1 | 0 | 9 years ago | [DCPU16-VHDL](https://github.com/isuru-c-p/DCPU16-VHDL)/411 | An implementation of the DCPU-16 from 0x10c in VHDL. |
-| 11 | 2 | 2 | 2 years ago | [reVISION-Zybo-Z7-20](https://github.com/Digilent/reVISION-Zybo-Z7-20)/412 | None |
-| 11 | 2 | 0 | 10 years ago | [cpu_arm](https://github.com/yuriks/cpu_arm)/413 | An ARMv4 compatible CPU core. (INCOMPLETE) |
-| 11 | 5 | 1 | 1 year, 9 months ago | [LimeSDR_DVBSGateware](https://github.com/natsfr/LimeSDR_DVBSGateware)/414 | Optimised gateware for lime sdr mini |
-| 11 | 2 | 0 | 9 years ago | [fpga-midi-synth](https://github.com/rene-dev/fpga-midi-synth)/415 | MIDI synthesizer written in VHDL |
-| 11 | 6 | 0 | 6 years ago | [FIRFilter](https://github.com/digibird1/FIRFilter)/416 | This project is a High and Low pass filter designer written in Octave to design and calculate the filter coefficients for a windows sinc filter. The coefficients can be used in the vhdl code for signal processing. |
-| 11 | 0 | 1 | 3 years ago | [mips-cpu](https://github.com/fkd19/mips-cpu)/417 | None |
-| 11 | 7 | 0 | 2 years ago | [Sha256_Hw_Accelerator](https://github.com/martinafogliato/Sha256_Hw_Accelerator)/418 | SHA256 hardware accelerator, synthesized for and mapped on the Zynq core of the Zybo board by Digilent |
-| 11 | 1 | 0 | 2 years ago | [prjtrellis-dvi](https://github.com/daveshah1/prjtrellis-dvi)/419 | DVI video out example for prjtrellis |
-| 11 | 7 | 0 | 6 years ago | [miniOV7670](https://github.com/ahmadabbas55/miniOV7670)/420 | Interfacing OV7670 Camera module to miniSpartan6+ |
-| 11 | 4 | 0 | 2 years ago | [GateKeeper](https://github.com/BilkentCompGen/GateKeeper)/421 | GateKeeper: Fast Alignment Filter for DNA Short Read Mapping |
-| 11 | 0 | 2 | 9 years ago | [Papilio-Master-System](https://github.com/ben0109/Papilio-Master-System)/422 | None |
-| 11 | 8 | 0 | 2 months ago | [NN_RGB_FPGA](https://github.com/Marco-Winzker/NN_RGB_FPGA)/423 | FPGA Design of a Neural Network for Color Detection |
-| 11 | 5 | 0 | 6 years ago | [fpga-led-matrix](https://github.com/ncortot/fpga-led-matrix)/424 | HDMI decoder and LED matrix controller on a Spartan-6 FPGA |
-| 11 | 3 | 0 | 1 year, 10 months ago | [100cerebros](https://github.com/obiwit/100cerebros)/425 | Resoluções de exercícios e guiões de diversas disciplinas de MIECT, na UA |
-| 11 | 0 | 0 | 11 months ago | [UK101onFPGA](https://github.com/emard/UK101onFPGA)/426 | Fork of the emulator for Compukit UK101 on FPGA |
-| 11 | 0 | 0 | 7 years ago | [xentral](https://github.com/drxzcl/xentral)/427 | XENTRAL is a simple Harvard Architecture CPU. |
-| 11 | 0 | 0 | 3 years ago | [SAYEH](https://github.com/aminrashidbeigi/SAYEH)/428 | SAYEH cpu-memory basic computer |
-| 11 | 14 | 1 | a month ago | [Arcade-Galaga_MiSTer](https://github.com/MiSTer-devel/Arcade-Galaga_MiSTer)/429 | Arcade: Galaga for MiSTer |
-| 11 | 10 | 0 | 4 years ago | [zybo_petalinux](https://github.com/andrewandrepowell/zybo_petalinux)/430 | Small projects intended to run on the Digilent Zybo development board, utilizing PetaLinux on the Zynq's ARM processor. |
-| 11 | 1 | 0 | 2 years ago | [VIIRF](https://github.com/MauererM/VIIRF)/431 | Hardware description (VHDL) and configuration scripts (Python) of a versatile IIR Filter implemented as cascaded SOS/biquads. No vendor-specific hardware constructs used.  |
-| 11 | 10 | 1 | 7 months ago | [OpenHT](https://github.com/TonyBrewer/OpenHT)/432 | Hybrid Threading Tool Set |
-| 11 | 13 | 0 | 5 years ago | [miilink](https://github.com/jsyk/miilink)/433 | Connecting FPGA and MCU using Ethernet RMII |
-| 11 | 1 | 0 | 2 years ago | [AnalogCPU](https://github.com/whoisnian/AnalogCPU)/434 | 8位模型机（数字电子课程设计） |
-| 11 | 3 | 1 | 3 months ago | [agc_monitor](https://github.com/thewonderidiot/agc_monitor)/435 | Modern implementation of the AGC Monitor, for use with a real Apollo Guidance Computer |
-| 11 | 4 | 0 | 1 year, 1 month ago | [maestro](https://github.com/Artoriuz/maestro)/436 | A 5 stage-pipeline RV32I implementation in VHDL |
-| 11 | 2 | 0 | 3 years ago | [adpll](https://github.com/filipamator/adpll)/437 | All digital PLL |
-| 11 | 10 | 0 | 3 years ago | [SRAI_HW_ACCEL_WINDOWS10_PCIe](https://github.com/SanjayRai/SRAI_HW_ACCEL_WINDOWS10_PCIe)/438 | PCIe based accelerator for VCU1525  with xDMA based on Windows10 and Windows Server 2016 development environment |
-| 11 | 2 | 0 | 2 years ago | [Xilinx-Deep-Learning-Nexys4](https://github.com/TurtleTaco/Xilinx-Deep-Learning-Nexys4)/439 | Implemented Darius IP (originally target PYNQ) of convolution and maxpool on Xilinx FPGA with SDK |
-| 11 | 2 | 0 | 13 days ago | [osvb](https://github.com/umarcor/osvb)/440 | Open Source Verification Bundle for VHDL and System Verilog |
-| 11 | 9 | 1 | 6 years ago | [SpaceWireCODECIP_100MHz](https://github.com/shimafujigit/SpaceWireCODECIP_100MHz)/441 | None |
-| 11 | 8 | 0 | 4 years ago | [16-bit-HDLC-using-VHDL](https://github.com/shaan07/16-bit-HDLC-using-VHDL)/442 | High level Data Link Layer Control (HDLC) Protocol (16 bit) implementation using VHDL hardware description language. |
-| 11 | 2 | 1 | 25 days ago | [ZXNext_MISTer](https://github.com/MiSTer-devel/ZXNext_MISTer)/443 | None |
-| 10 | 2 | 0 | 11 years ago | [Pong](https://github.com/GarstgerUnhold/Pong)/444 | Pong for Spartan3 FPGA-Board written in VHDL |
-| 10 | 1 | 0 | a year ago | [hardware-sort](https://github.com/mmattioli/hardware-sort)/445 | Hardware-accelerated sorting algorithm |
-| 10 | 10 | 4 | 4 months ago | [TRS-80_MiSTer](https://github.com/MiSTer-devel/TRS-80_MiSTer)/446 | Tandy TRS-80 Model I (port of HT1080Z to MiSTer) |
-| 10 | 2 | 0 | 5 years ago | [vhdl_sincos_gen](https://github.com/jorisvr/vhdl_sincos_gen)/447 | Sine / cosine function core in VHDL |
-| 10 | 7 | 0 | 4 years ago | [wireless-mac-processor](https://github.com/ict-flavia/wireless-mac-processor)/448 | None |
-| 10 | 4 | 0 | 3 years ago | [Aeon-Lite](https://github.com/ILoveSpeccy/Aeon-Lite)/449 | Aeon Lite - Open Source Reconfigurable Computer |
-| 10 | 4 | 0 | 1 year, 11 months ago | [s4noc](https://github.com/t-crest/s4noc)/450 | A Statically-scheduled TDM Network-on-Chip for Real-Time Systems |
-| 10 | 5 | 1 | 9 months ago | [camera-filters](https://github.com/olivier-le-sage/camera-filters)/451 | Colorspace conversion, gamma correction, and more -- all integrated within a MIPI-to-HDMI pipeline in FPGA. |
-| 10 | 7 | 0 | 3 years ago | [pacedev](https://github.com/wsoltys/pacedev)/452 | Programmable Arcade Circuit Emulation |
-| 10 | 0 | 0 | 1 year, 1 month ago | [32-bit-Brent-Kung-architecture](https://github.com/sourabh-suri/32-bit-Brent-Kung-architecture)/453 | Brent Kung architecture for adding 32 bit operands. |
-| 10 | 1 | 0 | 7 years ago | [vsim](https://github.com/grwlf/vsim)/454 | VHDL simulator in Haskell |
-| 10 | 1 | 0 | 7 years ago | [PSP-Display-Driver](https://github.com/Hyvok/PSP-Display-Driver)/455 | VHDL code for driving a playstation portable display |
-| 10 | 4 | 2 | 5 years ago | [aes-fpga](https://github.com/parthpower/aes-fpga)/456 | AES implementation on FPGA  |
-| 10 | 0 | 0 | 1 year, 3 months ago | [cod19grp4](https://github.com/LyricZhao/cod19grp4)/457 | 奋战一学期 造台联网计算机（MIPS32 CPU + 硬件 RIP 路由器） |
-| 10 | 1 | 8 | 1 year, 6 months ago | [Arcade-DonkeyKongJunior_MiSTer](https://github.com/gaz68/Arcade-DonkeyKongJunior_MiSTer)/458 | Donkey Kong Junior arcade clone for MiSTer. |
-| 10 | 2 | 0 | 11 months ago | [360-NAND-X](https://github.com/Element18592/360-NAND-X)/459 | Clone of the NAND-X |
-| 10 | 4 | 1 | 7 years ago | [snes-flash](https://github.com/aiju/snes-flash)/460 | None |
-| 10 | 4 | 0 | 3 years ago | [srio_test](https://github.com/GOOD-Stuff/srio_test)/461 | Test SRIO connection between FPGA (Kintex-7) and DSP (C6678) |
-| 10 | 1 | 1 | 3 years ago | [argh2600](https://github.com/elpuri/argh2600)/462 | VHDL implementation of an Atari 2600 |
-| 10 | 95 | 0 | 4 days ago | [Digital-electronics-1](https://github.com/tomas-fryza/Digital-electronics-1)/463 | VHDL course at Brno University of Technology |
-| 10 | 8 | 1 | 2 years ago | [Zybo-Z7-20-base-linux](https://github.com/Digilent/Zybo-Z7-20-base-linux)/464 | None |
-| 10 | 1 | 0 | 3 years ago | [vu_meter](https://github.com/filipamator/vu_meter)/465 | FPGA-based FFT audio spectrum analyzer |
-| 10 | 3 | 0 | 2 years ago | [BoostDSP](https://github.com/Cognoscan/BoostDSP)/466 | VHDL Library for implementing common DSP functionality. |
-| 10 | 0 | 2 | 8 years ago | [AlteraMeatBoyHD](https://github.com/alteraMeatBoy/AlteraMeatBoyHD)/467 | Quartus project files for an Altera DE2 Meat Boy game. Proper functionality not guaranteed. |
-| 10 | 5 | 0 | 2 years ago | [FpChip8](https://github.com/VitorVilela7/FpChip8)/468 | FPGA implementation of CHIP-8 using VHDL. |
-| 10 | 1 | 1 | a month ago | [kpi-stuff](https://github.com/smithros/kpi-stuff)/469 | Some of my laboratories work in KPI and stuff connected with it. Can be called "palevo".  |
-| 10 | 8 | 0 | 5 years ago | [Cameralink-LPC-FMC-Module](https://github.com/roy77/Cameralink-LPC-FMC-Module)/470 | None |
-| 10 | 4 | 0 | 16 days ago | [fpga_cores](https://github.com/suoto/fpga_cores)/471 | None |
-| 10 | 8 | 0 | 6 years ago | [VGA](https://github.com/AntonZero/VGA)/472 | VGA Tutorial for DE1  |
-| 10 | 4 | 0 | 4 years ago | [MQP](https://github.com/glgauthier/MQP)/473 | Electrical and Computer Engineering Capstone |
-| 10 | 0 | 0 | 4 months ago | [xpm_vhdl](https://github.com/fransschreuder/xpm_vhdl)/474 | A translation of the Xilinx XPM library to VHDL for simulation purposes |
-| 10 | 3 | 1 | 5 years ago | [FPGA_Mandelbrot](https://github.com/hamsternz/FPGA_Mandelbrot)/475 | A real-time Mandelbrot fractal viewer for FPGAs  |
-| 10 | 2 | 0 | 4 years ago | [absenc](https://github.com/texane/absenc)/476 | Absolute encoder VHDL core |
-| 10 | 6 | 0 | 10 years ago | [image_processing_examples](https://github.com/martinjthompson/image_processing_examples)/477 | Examples of image processing |
-| 10 | 3 | 0 | 3 years ago | [2DImageProcessing](https://github.com/Wissance/2DImageProcessing)/478 | 2d Images processing system with FPGA (Zynq 7k) from two dragster linescanner (DR-2k-7) |
-| 10 | 2 | 1 | 1 year, 10 months ago | [vextproj](https://github.com/wzab/vextproj)/479 | VEXTPROJ - the version control friendly system for creation of Vivado projects |
-| 10 | 2 | 0 | 9 years ago | [MIPS](https://github.com/buccolo/MIPS)/480 | A pipelined MIPS processor written in VHDL (Unicamp/MC542) |
-| 10 | 2 | 1 | 1 year, 10 months ago | [Tiffany](https://github.com/bradleyeckert/Tiffany)/481 | A scalable MachineForth for PCs, MCUs and FPGAs. |
-| 10 | 1 | 0 | 2 years ago | [8_bit_cpu](https://github.com/HellooYing/8_bit_cpu)/482 | ALINX ALTERA FPGA黑金开发学习板 CYCLONE IV 数电课设八位模型机 |
-| 10 | 3 | 0 | 2 years ago | [RealTimeVideo](https://github.com/MaksGolub/RealTimeVideo)/483 | High-speed real time streaming video on Zybo Z7-10 |
-| 10 | 6 | 1 | 2 months ago | [psi_common](https://github.com/paulscherrerinstitute/psi_common)/484 | Common elements for FPGA Design (FIFOs, RAMs, etc.) |
-| 10 | 1 | 0 | 1 year, 4 months ago | [naiverouter](https://github.com/jiegec/naiverouter)/485 | A router IP written in Verilog. |
-| 10 | 2 | 0 | 7 months ago | [FPGA-X68k-DE0CV](https://github.com/kunichiko/FPGA-X68k-DE0CV)/486 | None |
-| 10 | 2 | 2 | 21 days ago | [AtariLynx_MiSTer](https://github.com/MiSTer-devel/AtariLynx_MiSTer)/487 | None |
-| 10 | 5 | 0 | 6 years ago | [NfcEmu](https://github.com/0xee/NfcEmu)/488 | SDR/FPGA-based NFC/RFID Emulator |
-| 9 | 6 | 0 | 9 months ago | [pipelineCPU](https://github.com/HandsomeBrotherShuaiLi/pipelineCPU)/489 | Five-Stage Pipeline CPU Implemented by Verilog on FPGA  Written By LI Shuai, it supports static and dynamic pipeline cpu. I am not  maintaining this repo for years. If there are bugs when you try it, debug by youself! :) |
-| 9 | 6 | 1 | 11 months ago | [ps2_cpld_kbd](https://github.com/andykarpov/ps2_cpld_kbd)/490 | ZX Spectrum PS/2 keyboard adapter |
-| 9 | 7 | 0 | 11 months ago | [FPGA-Vision](https://github.com/Marco-Winzker/FPGA-Vision)/491 | Learn about image processing with an FPGA. Video lectures explain algorithm and implementation of lane detection for automotive driving. Real hardware is available as a remote lab.  |
-| 9 | 2 | 0 | 9 months ago | [FPGA-SPI-Flash](https://github.com/GOOD-Stuff/FPGA-SPI-Flash)/492 | Various projects of SPI loader module for xilinx fpga |
-| 9 | 4 | 1 | 1 year, 5 months ago | [T-DLA](https://github.com/microideax/T-DLA)/493 | None |
-| 9 | 1 | 0 | 3 years ago | [SimpleComputer](https://github.com/WilliamYi96/SimpleComputer)/494 | The design and implementation of simple computer by quartus. |
-| 9 | 7 | 0 | 4 years ago | [fpga](https://github.com/labnation/fpga)/495 | None |
-| 9 | 2 | 0 | 6 months ago | [cocotbExamples](https://github.com/qarlosalberto/cocotbExamples)/496 | None |
-| 9 | 4 | 1 | 2 years ago | [aws-fpga-miner](https://github.com/fpga-guide/aws-fpga-miner)/497 | None |
-| 9 | 2 | 0 | 1 year, 9 months ago | [RISC-CPU](https://github.com/alirezakay/RISC-CPU)/498 | A multi cycle RISC CPU (processor) like MIPS CPU in VHDL ( a hardware side code implementation ) |
-| 9 | 1 | 0 | 1 year, 21 days ago | [ImpeccableCircuits](https://github.com/emsec/ImpeccableCircuits)/499 | Hardware designs for fault detection |
-| 9 | 0 | 0 | 1 year, 7 months ago | [seqpu](https://github.com/pepijndevos/seqpu)/500 | A bit-serial CPU |
-| 9 | 3 | 0 | 8 years ago | [fpgasynth](https://github.com/ksnieck/fpgasynth)/501 | VHDL for an FPGA based MIDI music synthesizer |
-| 9 | 6 | 0 | 3 years ago | [bce-fpga-dev-kit](https://github.com/Cwndmiao/bce-fpga-dev-kit)/502 | bce-fpga-dev-kit |
-| 9 | 0 | 0 | 6 years ago | [macMonitor](https://github.com/bobparadiso/macMonitor)/503 | Xilinx VHDL project to drive a Mac Classic CRT |
-| 9 | 3 | 2 | 7 years ago | [vhdl-csv-file-reader](https://github.com/ricardo-jasinski/vhdl-csv-file-reader)/504 | VHDL package for reading formatted data from comma-separated-values (CSV) files |
-| 9 | 2 | 1 | 6 months ago | [vhdl-cfg](https://github.com/eine/vhdl-cfg)/505 | Playground to explore and compare how configuration is handled by different tools for development of VHDL projects |
-| 9 | 4 | 0 | 10 years ago | [coded_aperture_vhdl](https://github.com/xcthulhu/coded_aperture_vhdl)/506 | vhdl code for simulating/synthesizing an FPGA backend of a coded aperture |
-| 9 | 1 | 0 | 6 years ago | [siphash](https://github.com/pemb/siphash)/507 | A VHDL implementation of SipHash |
-| 9 | 1 | 0 | 6 years ago | [ZPUino_miniSpartn6_plus](https://github.com/ahmadabbas55/ZPUino_miniSpartn6_plus)/508 | ZPUino for miniSpartan6+  |
-| 9 | 3 | 0 | 4 years ago | [uCPUvhdl](https://github.com/reed-foster/uCPUvhdl)/509 | An 8-bit soft processor in VHDL |
-| 9 | 1 | 0 | 8 years ago | [fp68060](https://github.com/amigabill/fp68060)/510 | PCB to plug FPGA softcore CPU into 68060 microprocessor socket |
-| 9 | 6 | 0 | 2 years ago | [LeNet-on-Zynq](https://github.com/flymin/LeNet-on-Zynq)/511 | Simulating implement of LeNet network on Zynq-7020 FPGA |
-| 9 | 0 | 0 | 1 year, 4 months ago | [tangnano_sample](https://github.com/osafune/tangnano_sample)/512 | Tang-nano LCD sample |
-| 9 | 0 | 1 | 4 years ago | [vertcl](https://github.com/kevinpt/vertcl)/513 | VHDL Tcl interpreter |
-| 9 | 10 | 0 | 6 years ago | [VHDL_IP-Cores](https://github.com/OpenAutomationTechnologies/VHDL_IP-Cores)/514 | None |
-| 9 | 8 | 0 | 2 months ago | [Learn-FPGA-Programming](https://github.com/PacktPublishing/Learn-FPGA-Programming)/515 | Learn FPGA Programming, published by Packt |
-| 9 | 2 | 1 | 5 years ago | [UART](https://github.com/Domipheus/UART)/516 | Simple UART implementation in VHDL |
-| 9 | 3 | 0 | 7 years ago | [gandalf-miner](https://github.com/FrankBuss/gandalf-miner)/517 | bitcoin miner for the A3255-Q48 chip |
-| 9 | 14 | 4 | 10 days ago | [Arcade-Galaxian_MiSTer](https://github.com/MiSTer-devel/Arcade-Galaxian_MiSTer)/518 | Arcade: Galaxian for MiSTer |
-| 9 | 0 | 0 | 1 year, 11 months ago | [PingPongGame_CAD_VGA](https://github.com/avestura/PingPongGame_CAD_VGA)/519 | 🏓 A Ping Pong game written in VHDL with VGA support |
-| 9 | 3 | 0 | 2 years ago | [UniversalPPU](https://github.com/RetroEmbedded/UniversalPPU)/520 | An FPGA replacement for the graphics chip used in the NES and related systems |
-| 9 | 3 | 0 | 1 year, 11 months ago | [robotter](https://github.com/robotter/robotter)/521 | Rob'Otter's code for Eurobot and the Coupe de France de robotique |
-| 9 | 13 | 0 | 4 years ago | [SDSoC-platforms](https://github.com/Digilent/SDSoC-platforms)/522 | SDSoC platforms for Digilent Zynq boards |
-| 9 | 6 | 17 | 7 years ago | [ECE383](https://github.com/toddbranch/ECE383)/523 | USAFA ECE383 course website. |
-| 9 | 5 | 1 | 7 months ago | [CryptoHDL](https://github.com/hadipourh/CryptoHDL)/524 | A list of VHDL codes implementing cryptographic algorithms |
-| 9 | 25 | 0 | 6 days ago | [riscv-multicycle](https://github.com/xtarke/riscv-multicycle)/525 | None |
-| 9 | 4 | 0 | 1 year, 3 months ago | [vhdl-digital-design](https://github.com/fcayci/vhdl-digital-design)/526 | VHDL code examples for a digital design course |
-| 9 | 7 | 1 | 6 years ago | [BeMicro-CV](https://github.com/tommythorn/BeMicro-CV)/527 | A "hello world" style designs for the Cyclone V based $49 Arrow BeMicro CV |
-| 9 | 5 | 0 | 1 year, 10 months ago | [cmips](https://github.com/rhexsel/cmips)/528 | All things related to cMIPS, a synthesizable VHDL model for the 5-stage pipeline, MIPS32r2 core. |
-| 9 | 2 | 0 | 2 months ago | [LMAC_CORE1](https://github.com/lewiz-support/LMAC_CORE1)/529 | LMAC Core1 - Ethernet 1G/100M/10M |
-| 9 | 2 | 1 | 6 months ago | [ulx3s-ghdl-examples](https://github.com/kost/ulx3s-ghdl-examples)/530 | ulx3s ghdl examples |
-| 9 | 1 | 0 | 5 years ago | [vhdl_verification](https://github.com/tmeissner/vhdl_verification)/531 | Examples and design pattern for VHDL verification |
-| 9 | 2 | 0 | 7 years ago | [zpu-lattice](https://github.com/iabdalkader/zpu-lattice)/532 | ZPU Core for Lattice ICE40HX8K |
-| 9 | 15 | 0 | 7 years ago | [VinxFs](https://github.com/baranovmv/VinxFs)/533 | Small FAT16/FAT32 filesystem for ATMega8 (AVR / STM / PIC) with create/delete file |
-| 9 | 3 | 0 | 1 year, 8 months ago | [FISC-VHDL](https://github.com/FISC-Project/FISC-VHDL)/534 | FISC - Flexible Instruction Set Computer - Is the new Instruction Set Architecture inspired by ARMv8 and x86-64 |
-| 9 | 1 | 0 | 4 years ago | [bcomp](https://github.com/MJoergen/bcomp)/535 | 8-bit computer |
-| 9 | 8 | 2 | 6 years ago | [VHDL-Project-16-bit-RISC-Processor](https://github.com/sameersondur/VHDL-Project-16-bit-RISC-Processor)/536 | Designed a RISC processor with 16 bit instruction set, 4-stage pipeline and a non-pre-emptive interrupt handler. Implemented it in VHDL and tested it by simulating in ModelSim. |
-| 9 | 4 | 0 | 4 years ago | [VGA_1.0](https://github.com/andrewandrepowell/VGA_1.0)/537 | AXI memory-mapped VGA module originally designed for the Avent Zedboard  |
-| 9 | 6 | 0 | 5 years ago | [wavelet-image-compression](https://github.com/isovic/wavelet-image-compression)/538 | Simple FPGA-based Wavelet Image Compression |
-| 9 | 6 | 0 | 9 years ago | [simple-mips](https://github.com/tcamolesi/simple-mips)/539 | Simple MIPS processor written in VHDL |
-| 9 | 8 | 1 | 4 months ago | [go2uvm](https://github.com/go2uvm/go2uvm)/540 | Main repo for Go2UVM source code, examples and apps |
-| 9 | 5 | 0 | 4 years ago | [vhdl2008c](https://github.com/peteut/vhdl2008c)/541 | VHDL ieee_proposed library, imported as is. See also https://github.com/FPHDL/fphdl |
-| 9 | 6 | 0 | 4 years ago | [VHDL](https://github.com/fabiopjve/VHDL)/542 | Some VHDL code |
-| 9 | 6 | 5 | 11 months ago | [cnn_vhdl_generator](https://github.com/mhamdan91/cnn_vhdl_generator)/543 | AUTOMATIC VHDL GENERATION FOR CNN MODELS |
-| 9 | 2 | 0 | 3 years ago | [Ultrasound-Beamforming-](https://github.com/abhishekgb/Ultrasound-Beamforming-)/544 | This project is basically ultrasound Beamformer prototype and FPGA is used to control all the modules of the Hardware. |
-| 9 | 4 | 1 | 3 years ago | [CPU-Adelie](https://github.com/Adelie-project/CPU-Adelie)/545 | None |
-| 9 | 2 | 0 | 4 years ago | [msgpack-vhdl](https://github.com/ikwzm/msgpack-vhdl)/546 | MessagePack  implementation for VHDL |
-| 9 | 5 | 0 | 10 months ago | [de10-nano-examples](https://github.com/nullobject/de10-nano-examples)/547 | DE10 Nano Sample Cores |
-| 9 | 7 | 0 | 1 year, 6 months ago | [COD-Resources-2017](https://github.com/ustc-cs/COD-Resources-2017)/548 | 中科大 2017 级数字电路实验/组成原理实验的同学经验和资料分享 |
-| 9 | 2 | 4 | 6 days ago | [Intv_MiSTer](https://github.com/Grabulosaure/Intv_MiSTer)/549 | Intellivision for MiSTer |
-| 8 | 0 | 0 | 7 years ago | [i2s-interface-vhdl](https://github.com/meriororen/i2s-interface-vhdl)/550 | A simplified i2s interface taken from OpenCores' I2S Interface. Aimed for Altera Avalon Streaming interface.  |
-| 8 | 11 | 4 | a month ago | [VIC20_MiSTer](https://github.com/MiSTer-devel/VIC20_MiSTer)/551 | Commodore VIC-20 for MiSTer |
-| 8 | 4 | 0 | 1 year, 2 months ago | [can-lite-vhdl](https://github.com/bggardner/can-lite-vhdl)/552 | A lightweight Controller Area Network (CAN) controller in VHDL |
-| 8 | 2 | 0 | 1 year, 8 months ago | [Zynq_HLS_DDR_Dataflow_kernel_2mm](https://github.com/zslwyuan/Zynq_HLS_DDR_Dataflow_kernel_2mm)/553 | This is a project integrating HLS IP and CortexA9 on Zynq. This CPU-FPGA project, for a Matrix Multiplication Dataflow, is implemented with dataflow and DDR3  access with HLS. The Cortex A9 will print the result via UART and check the result by comparing the data with the one from CPU compuation |
-| 8 | 0 | 0 | 5 years ago | [ADC_Sigma_Delta_VHDL](https://github.com/akukulanski/ADC_Sigma_Delta_VHDL)/554 | Sigma-Delta Analog to Digital Converter in FPGA (VHDL) |
-| 8 | 3 | 2 | 2 years ago | [pim-vhdl](https://github.com/RandomReaper/pim-vhdl)/555 | My VHDL code |
-| 8 | 4 | 1 | 2 years ago | [Nexys-4-DDR-GPIO](https://github.com/Digilent/Nexys-4-DDR-GPIO)/556 | None |
-| 8 | 3 | 1 | 2 years ago | [Space-Invaders-for-MiSTer](https://github.com/davewoo999/Space-Invaders-for-MiSTer)/557 | None |
-| 8 | 3 | 0 | 10 months ago | [leon3-grlib-gpl-mirror](https://github.com/TUT-ASI/leon3-grlib-gpl-mirror)/558 | Git mirror of Gaisler's GRLIB/Leon3 releases |
-| 8 | 7 | 0 | 6 years ago | [SHA3-VHDL](https://github.com/vishpbharadwaj/SHA3-VHDL)/559 | Hardware implementation of cryptographic Hash function SHA-3 (keccak) using VHDL |
-| 8 | 2 | 0 | 6 years ago | [vhdl-game-engine](https://github.com/ricardo-jasinski/vhdl-game-engine)/560 | A game engine implemented purely in hardware using the VHDL language |
-| 8 | 1 | 0 | 4 years ago | [16x2-LCD-Controller-VHDL](https://github.com/Maeur1/16x2-LCD-Controller-VHDL)/561 | A little program I wrote to control the LCD on my FPGA |
-| 8 | 4 | 1 | 3 years ago | [Nexys-4-OOB](https://github.com/Digilent/Nexys-4-OOB)/562 | None |
-| 8 | 8 | 1 | 30 days ago | [QL_MiSTer](https://github.com/MiSTer-devel/QL_MiSTer)/563 | Sinclair QL for MiSTer |
-| 8 | 0 | 0 | 2 months ago | [chisel-study](https://github.com/horie-t/chisel-study)/564 | ハードウェア構築言語Chiselでちょっとしたコードを書き溜めておくプロジェクト |
-| 8 | 1 | 0 | 2 months ago | [imagesensor_system](https://github.com/Kopei/imagesensor_system)/565 | This document is a project of cmos image sensor system. The doc mainly includes LUPA4000 Cmos sensor driving, SDRAM storage, LVDS data readout etc. The code is written in VHDL. |
-| 8 | 10 | 0 | 5 years ago | [HLS-Axi-Master-on-Microzed-with-Yocto-Linux-device-driver](https://github.com/Architech-Silica/HLS-Axi-Master-on-Microzed-with-Yocto-Linux-device-driver)/566 | Creation of a AXI Master and Yocto device driver for Zynq, using High Level Synthesis (HLS) techniques. |
-| 8 | 3 | 0 | 4 years ago | [mdsynth](https://github.com/dcliche/mdsynth)/567 | FPGA-based synthesizer in VHDL for the Xilinx Spartan-3A and Spartan-3E Starter Kits |
-| 8 | 12 | 1 | 1 year, 11 months ago | [cnn-fpga-rtl](https://github.com/jhrabovsky/cnn-fpga-rtl)/568 | The CNN architecture elements implemented with RTL approach in VHDL. |
-| 8 | 7 | 0 | 1 year, 8 months ago | [SidewinderFPGA](https://github.com/ManuFerHi/SidewinderFPGA)/569 | Sidewinder FPGA |
-| 8 | 1 | 2 | 5 years ago | [oram_fpga](https://github.com/kwonalbert/oram_fpga)/570 | FPGA related files for ORAM |
-| 8 | 1 | 0 | 3 years ago | [Team-SDK-545](https://github.com/kkudrolli/Team-SDK-545)/571 | An FPGA design project by Kais Kudrolli, Sohil Shah, and DongJoon Park for 18-545 at Carnegie Mellon University. |
-| 8 | 2 | 0 | 4 years ago | [ImageCaptureSystem](https://github.com/Wissance/ImageCaptureSystem)/572 | A Xilinx IP Core and App for line scanner image capture and store |
-| 8 | 1 | 0 | a month ago | [Pynq-Accelerator](https://github.com/LeiWang1999/Pynq-Accelerator)/573 | A easy general acc. |
-| 8 | 8 | 2 | 7 months ago | [Arcade-Tecmo_MiSTer](https://github.com/MiSTer-devel/Arcade-Tecmo_MiSTer)/574 | MiSTer arcade core for Tecmo arcade classics: Rygar (1986), Gemini Wing (1987), and Silkworm (1988). |
-| 8 | 0 | 0 | 6 months ago | [VGA-6502](https://github.com/LIV2/VGA-6502)/575 | A VGA card for my homebrew 65C02 based computer |
-| 8 | 0 | 1 | 3 years ago | [maplebus](https://github.com/ismell/maplebus)/576 | Sega Dreamcast Maplebus Transceiver |
-| 8 | 3 | 0 | 5 years ago | [FPGA-LCD-Driver](https://github.com/goran-mahovlic/FPGA-LCD-Driver)/577 | FPGA LVDS LCD driver |
-| 8 | 0 | 1 | 1 year, 2 months ago | [posit_blas_hdl](https://github.com/lvandam/posit_blas_hdl)/578 | Posit Arithmetic Accelerator interfacing with Apache Arrow & CAPI SNAP |
-| 8 | 3 | 0 | 1 year, 9 months ago | [DES-cracker](https://github.com/aletempiac/DES-cracker)/579 | DES cracking machine on FPGA |
-| 8 | 5 | 0 | 8 years ago | [soc_leon3](https://github.com/teeshina/soc_leon3)/580 | System on Chip SPARC V8 using leon3 CPU by Gaisler. C++, vhdl, v files. |
-| 8 | 2 | 0 | 8 years ago | [sdr](https://github.com/rcls/sdr)/581 | A software-defined radio. |
-| 8 | 4 | 0 | 5 years ago | [rdsfpga](https://github.com/emard/rdsfpga)/582 | RDS FM modulator for FPGA |
-| 8 | 3 | 0 | 3 years ago | [Arty-Pmod-VGA](https://github.com/Digilent/Arty-Pmod-VGA)/583 | None |
-| 8 | 0 | 0 | 2 years ago | [zlogan](https://github.com/eltvor/zlogan)/584 | High-througput logic analyzer for FPGA |
-| 8 | 0 | 0 | 6 years ago | [AM2901](https://github.com/Amrnasr/AM2901)/585 | None |
-| 8 | 2 | 1 | 3 years ago | [FpgaMicrotubule](https://github.com/urock/FpgaMicrotubule)/586 | HPC Implementation of dynamic microtubules calculations on CPU, GPU and FPGA Platforms |
-| 8 | 7 | 0 | 6 years ago | [Xilinx-GPIO-Interrupt](https://github.com/Micro-Studios/Xilinx-GPIO-Interrupt)/587 | It is a GPIO interrupt example for xilinx ZYNQ FPGA.  |
-| 8 | 5 | 0 | 1 year, 7 months ago | [Zedboard-DMA](https://github.com/Digilent/Zedboard-DMA)/588 | None |
-| 8 | 8 | 0 | 2 years ago | [AX7015](https://github.com/alinxalinx/AX7015)/589 | AX7015 |
-| 8 | 3 | 0 | 1 year, 7 months ago | [Hardware-Course](https://github.com/yujincheng08/Hardware-Course)/590 | All the verilog code I wrote in hardware Course |
-| 8 | 2 | 0 | 6 months ago | [RedPitaya_Acquisition](https://github.com/alex123go/RedPitaya_Acquisition)/591 | Transform the Red Pitaya in an acquisition card |
-| 8 | 0 | 0 | 2 years ago | [OscilloscopeBoom](https://github.com/wtywtykk/OscilloscopeBoom)/592 | Display something on an analog oscilloscope |
-| 8 | 0 | 4 | 5 years ago | [tis100cpu](https://github.com/jdryg/tis100cpu)/593 | TIS-100 CPU in VHDL |
-| 8 | 9 | 1 | 5 years ago | [zycap](https://github.com/warclab/zycap)/594 | Zynq PR Management |
-| 8 | 4 | 0 | 7 years ago | [mbc5-clone](https://github.com/sth0r/mbc5-clone)/595 | this is a clone of zakos mbcx found at https://gitorious.org/mbcx/mbcx. I'll try to make my own itteration of the mbcx. |
-| 8 | 15 | 0 | 1 year, 9 months ago | [GlobalCorrelator](https://github.com/p2l1pfp/GlobalCorrelator)/596 | Firmware for Level-1 Particle Reconstruction |
-| 8 | 13 | 4 | 2 months ago | [Vectrex_MiSTer](https://github.com/MiSTer-devel/Vectrex_MiSTer)/597 | Vectrex for MiSTer |
-| 8 | 2 | 5 | 4 months ago | [cpu](https://github.com/bit-mips/cpu)/598 | MIPS CPU |
-| 8 | 5 | 0 | 2 months ago | [TMS5220_FPGA](https://github.com/d18c7db/TMS5220_FPGA)/599 | VHDL model of TMS5220 voice synthesizer processor |
-| 8 | 0 | 0 | 1 year, 9 months ago | [Digital-Recognition](https://github.com/liuweistrong/Digital-Recognition)/600 | 2019年Xilinx FPGA暑期学校项目学习 数字识别项目 Digital Recognition  |
-| 8 | 1 | 1 | 4 months ago | [Brutzelkarte_FPGA](https://github.com/jago85/Brutzelkarte_FPGA)/601 | The Brutzelkarte FPGA description code in VHDL |
-| 8 | 5 | 0 | 4 hours ago | [dsd](https://github.com/kevinwlu/dsd)/602 | Digital System Design |
-| 8 | 2 | 0 | 6 years ago | [hls_stream](https://github.com/sukinull/hls_stream)/603 | Xilinx HLS video library using hls::stream w/ Vivado 2014.4 or Later |
-| 8 | 0 | 0 | 8 years ago | [rekonstrukt](https://github.com/hanshuebner/rekonstrukt)/604 | FPGA based Forth development environment / Forth based FPGA development environment |
-| 8 | 6 | 0 | 4 years ago | [GBA](https://github.com/neildryan/GBA)/605 | GameBoy Advance Zedboard Implementation |
-| 8 | 1 | 0 | 4 years ago | [ws2812b-vhdl](https://github.com/m42uko/ws2812b-vhdl)/606 | A controller for the WorldSemi WS2812B RGB LEDs written in plain VHDL. |
-| 8 | 2 | 7 | 2 months ago | [R32V2020](https://github.com/douggilliland/R32V2020)/607 | My 32-bit RISC CPU for smallish FPGAs |
-| 8 | 3 | 0 | 2 years ago | [acoustic-levitation](https://github.com/leastrobino/acoustic-levitation)/608 | Acoustic levitation on SoC FPGA (DE0-Nano-SoC). Notice: this repository has moved to GitLab. All issues and pull requests should be created there. |
-| 8 | 0 | 0 | 1 year, 4 months ago | [MiSTer-Arcade-AtariTetris](https://github.com/MrX-8B/MiSTer-Arcade-AtariTetris)/609 | FPGA implementation of ATARI's Tetris arcade game |
-| 8 | 2 | 0 | 8 months ago | [hdl_string_format](https://github.com/suoto/hdl_string_format)/610 | VHDL package to provide C-like string formatting |
-| 8 | 2 | 2 | 4 years ago | [VHDL-FIR-filters](https://github.com/BBN-Q/VHDL-FIR-filters)/611 | Synthesizable FIR filters in VHDL |
-| 8 | 4 | 0 | 6 years ago | [AVR-Processor](https://github.com/agural/AVR-Processor)/612 | VHDL implementation of an AVR processor. |
-| 8 | 2 | 0 | 6 years ago | [dmkonst](https://github.com/lionleaf/dmkonst)/613 | An optimized pipelined MIPS CPU written in VHDL |
-| 8 | 2 | 0 | 1 year, 7 months ago | [udp_ip_stack](https://github.com/LarsAsplund/udp_ip_stack)/614 | UDP IP stack example project from this VUnit getting started blog (https://www.linkedin.com/pulse/vunit-best-value-initial-effort-lars-asplund) |
-| 8 | 2 | 0 | 3 months ago | [fsva](https://github.com/m-kru/fsva)/615 | FuseSoc Verification Automation |
-| 8 | 6 | 0 | 6 years ago | [vhdl-project](https://github.com/alessandro-montanari/vhdl-project)/616 | Implementation in VHDL of the Sobel edge detection operator |
-| 8 | 0 | 0 | 2 years ago | [courses](https://github.com/mmaghajani/courses)/617 | About university courses and homeworks ... |
-| 8 | 4 | 0 | 2 years ago | [AX7035](https://github.com/alinxalinx/AX7035)/618 | None |
-| 8 | 1 | 0 | 10 months ago | [CycloneV_UnAmiga_v2](https://github.com/benitoss/CycloneV_UnAmiga_v2)/619 | Cyclone V FPGA board for UnAmiga project with new addon 6 Buttons Megadrive Joystick |
-| 8 | 4 | 0 | 5 years ago | [kvcordic](https://github.com/nkkav/kvcordic)/620 | Multi-function, universal, fixed-point CORDIC |
-| 8 | 5 | 0 | 7 years ago | [lzw_verilog](https://github.com/arshadri/lzw_verilog)/621 | LZW Compressoion algorithm in verilog |
-| 8 | 7 | 1 | 6 years ago | [OLED_on_ZedBoard](https://github.com/faab64/OLED_on_ZedBoard)/622 | OLED test code from Digilink modified to work on the Zedboard |
-| 8 | 4 | 0 | 4 years ago | [vhdI2CMaster](https://github.com/tirfil/vhdI2CMaster)/623 | I2C Master FSM (vhdl) |
-| 8 | 0 | 1 | 2 years ago | [pipemania-fpga-game](https://github.com/jakubcabal/pipemania-fpga-game)/624 | Pipe Mania - Game for FPGA written in VHDL |
-| 8 | 2 | 3 | 11 months ago | [SAMCoupe_MIST](https://github.com/sorgelig/SAMCoupe_MIST)/625 | SAM Coupe for MiST board |
-| 8 | 5 | 0 | 3 years ago | [FPGA-shared-mem](https://github.com/FelixWinterstein/FPGA-shared-mem)/626 | Exploring Shared Virtual Memory Abstractions in OpenCL Tools for FPGAs |
-| 8 | 9 | 0 | 2 years ago | [AX7020](https://github.com/alinxalinx/AX7020)/627 | None |
-| 8 | 1 | 0 | 2 years ago | [XNOR-net-Binary-connect](https://github.com/prateek22sri/XNOR-net-Binary-connect)/628 | A hardware implementation of a feed-forward Convolutional Neural Network called XNOR-Net which has faster execution due to the replacement of vector-matrix multiplication to “XNOR + Popcount” operation  |
-| 8 | 0 | 0 | 3 years ago | [VHDLMatrixMultiplier](https://github.com/federicorossifr/VHDLMatrixMultiplier)/629 | VHDL implementation for a Matrix Multiplier |
-| 8 | 6 | 0 | 2 years ago | [AD9361_TX_GMSK](https://github.com/Grootzz/AD9361_TX_GMSK)/630 | A project demonstrate how to config ad9361 to TX mode and how to transmit GMSK |
-| 8 | 8 | 1 | 11 months ago | [capi2-bsp](https://github.com/open-power/capi2-bsp)/631 | CAPI 2.0 Board Support Package |
-| 8 | 5 | 2 | 1 year, 4 months ago | [DivGMX](https://github.com/mvvproject/DivGMX)/632 | Development Kit |
-| 8 | 7 | 0 | 6 years ago | [aeshw](https://github.com/szanni/aeshw)/633 | None |
-| 8 | 8 | 0 | 10 years ago | [udp_ip__core](https://github.com/freecores/udp_ip__core)/634 | UDP/IP Core |
-| 8 | 12 | 0 | 27 days ago | [realtimeEMTP](https://github.com/dickler/realtimeEMTP)/635 | FPGA and CPU-Based power system's simulator |
-| 8 | 2 | 1 | 5 years ago | [gpib](https://github.com/brouhaha/gpib)/636 | IEEE-488 (GP-IB, HP-IB) synthesizable core in VHDL |
-| 7 | 5 | 0 | 14 years ago | [ofdm](https://github.com/freecores/ofdm)/637 | OFDM modem |
-| 7 | 0 | 0 | 10 years ago | [Brainfuck-Processor](https://github.com/konne88/Brainfuck-Processor)/638 | A simple brainfuck processor implemented in VHDL. |
-| 7 | 2 | 0 | 1 year, 9 months ago | [NexysPsram](https://github.com/andrewsil1/NexysPsram)/639 | AXI PSRAM Controller IP for use with Digilent Nexys 4 |
-| 7 | 4 | 0 | 1 year, 7 days ago | [vhdl](https://github.com/texane/vhdl)/640 | vhdl related contents |
-| 7 | 1 | 0 | 2 years ago | [Amiga600GALFirmware](https://github.com/fdivitto/Amiga600GALFirmware)/641 | Amiga 600 with Gayle 1: VHDL implementation of PAL16L8B (XU1) with Lattice GAL16V8 |
-| 7 | 4 | 0 | 1 year, 10 months ago | [Circuitos_Reconfiguraveis](https://github.com/DanielMunozArboleda/Circuitos_Reconfiguraveis)/642 | Repositório da disciplina de Projeto com Circuitos Reconfiguráveis do curso de Engenharia Eletrônica da Faculdade UnB Gama. | Repository for the discipline  Reconfigurable Circuits Design at the Electronics Engineering course at Faculty of Gama, UnB. |
-| 7 | 1 | 0 | 2 years ago | [I2S_sender](https://github.com/dwjbosman/I2S_sender)/643 | VHDL I2S transmitter |
-| 7 | 0 | 0 | 1 year, 7 months ago | [DIYPOV](https://github.com/im-pro-at/DIYPOV)/644 |  One POV Display to rule them all! |
-| 7 | 1 | 1 | 1 year, 4 months ago | [metamachine](https://github.com/losfair/metamachine)/645 | Experimental CPU with software-defined instruction set. |
-| 7 | 1 | 0 | 4 years ago | [USTC-tMIPS](https://github.com/suquark/USTC-tMIPS)/646 | None |
-| 7 | 0 | 0 | 6 years ago | [TicksPicker](https://github.com/DrSchottky/TicksPicker)/647 | Tiny VHDL  postbit length extractor |
-| 7 | 10 | 1 | 4 years ago | [OFDM_Synchronization](https://github.com/NeilJudson/OFDM_Synchronization)/648 | Design a new OFDM synchronization algorithm, and implement it with both Matlab and Verilog. |
-| 7 | 0 | 0 | 2 years ago | [adc_configurator](https://github.com/capitanov/adc_configurator)/649 | ADC configurator to 7-series Xilinx FPGA (has parameters: NCHAN, SERDES MODE, SDR/DDR, DATA WIDTH, DEPTH and so on) |
-| 7 | 12 | 0 | 2 years ago | [RTL-collection](https://github.com/xiamike/RTL-collection)/650 | a collection of open sourced VHDL for cryptography |
-| 7 | 1 | 0 | 6 months ago | [NeoVGA](https://github.com/Mikejmoffitt/NeoVGA)/651 | Old / abandoned NeoVGA VHDL source. Will not be maintained. |
-| 7 | 4 | 1 | 4 years ago | [digital-storage-oscilloscope](https://github.com/Gripnook/digital-storage-oscilloscope)/652 | An FPGA implementation of a digital storage oscilloscope. |
-| 7 | 2 | 0 | 4 years ago | [FPGA_Flappy_Bird](https://github.com/lukehsiao/FPGA_Flappy_Bird)/653 | :bird: a simple hardware-implementation of the viral game "Flappy Bird" built for use on the Digilent NEXYS 2 Development Board (XC3S500E-FG320) |
-| 7 | 3 | 0 | 6 years ago | [Stepper-Motor-Control](https://github.com/gismo141/Stepper-Motor-Control)/654 | System on a Chip - Design for a stepper-motor-control with NIOS II/s µC on Cyclone IV/V FPGA |
-| 7 | 5 | 0 | 6 years ago | [FPGA_ADC](https://github.com/digibird1/FPGA_ADC)/655 | Interface the AD9057 with a cyclone III FPGA |
-| 7 | 4 | 2 | 8 years ago | [ethernet_mac](https://github.com/pabennett/ethernet_mac)/656 | A VHDL implementation of an Ethernet MAC |
-| 7 | 2 | 0 | 4 years ago | [ADC_LCD_FPGA](https://github.com/jaspreetsingh009/ADC_LCD_FPGA)/657 | ADC & LCD Interfacing using Verilog & VHDL |
-| 7 | 2 | 1 | 1 year, 8 months ago | [light8080](https://github.com/jaruiz/light8080)/658 | Synthesizable i8080-compatible CPU core. |
-| 7 | 2 | 0 | 9 months ago | [blp](https://github.com/Martoni/blp)/659 | Blinking Led Project |
-| 7 | 1 | 0 | 10 years ago | [CPLD_USBHxCFloppyEmulator](https://github.com/jfdelnero/CPLD_USBHxCFloppyEmulator)/660 | CPLD USB HxC Floppy Emulator |
-| 7 | 3 | 0 | 7 years ago | [FIX](https://github.com/sufengniu/FIX)/661 | FIX for (High Frequency Trading) HFT |
-| 7 | 5 | 5 | 2 months ago | [dsp-cores](https://github.com/lnls-dig/dsp-cores)/662 | Repository containing the DSP gateware cores |
-| 7 | 4 | 0 | 3 years ago | [SECURE_HASH](https://github.com/ikwzm/SECURE_HASH)/663 | SHA-1,SHA-256,SHA-512 Secure Hash Generator written in VHDL(RTL) for FPGA(Xilinx and Altera). |
-| 7 | 4 | 0 | 4 years ago | [ece5775-final](https://github.com/shivarajagopal/ece5775-final)/664 | Voice Recognition using FPGA-Based Neural Networks |
-| 7 | 0 | 0 | 4 years ago | [UART_in_VHDL](https://github.com/ttsiodras/UART_in_VHDL)/665 | My successful first experiment in VHDL - creating my own UART |
-| 7 | 0 | 2 | 1 year, 18 days ago | [big80](https://github.com/toptensoftware/big80)/666 | FPGA Implementation of a TRS-80 Model 1 |
-| 7 | 0 | 0 | Unknown | [SAYEH-Cache](https://github.com/aminrashidbeigi/SAYEH-Cache)/667 | implementing SAYEH cache using VHDL |
-| 7 | 1 | 0 | Unknown | [MasterThesis](https://github.com/SpyrosMouselinos/MasterThesis)/668 | VHDL implementation of a customizable CNN |
-| 7 | 0 | 1 | Unknown | [fpga_mpu401](https://github.com/ElectronAsh/fpga_mpu401)/669 | MPU-401 Implementation on FPGA. Based on the System68 CPU core by John E. Kent. |
-| 7 | 4 | 1 | Unknown | [kvm-ip-zynq](https://github.com/ssincan/kvm-ip-zynq)/670 | KVM over IP Gateway targeting Zynq-7000 SoC |
-| 7 | 1 | 0 | Unknown | [VHDL](https://github.com/datacipy/VHDL)/671 | Příklady ke knize Data, čipy, procesory |
-| 7 | 5 | 3 | Unknown | [Zybo-hdmi-in](https://github.com/Digilent/Zybo-hdmi-in)/672 | None |
-| 7 | 4 | 0 | Unknown | [reloc](https://github.com/bgottschall/reloc)/673 | Designing Relocatable FPGA Partitions with Vivado Design Suite |
-| 7 | 1 | 0 | Unknown | [zxuno](https://github.com/spark2k06/zxuno)/674 | None |
-| 7 | 8 | 0 | Unknown | [Amstrad_MiST](https://github.com/sorgelig/Amstrad_MiST)/675 | None |
-| 7 | 4 | 0 | Unknown | [MSHR-rich](https://github.com/m-asiatici/MSHR-rich)/676 | A multi-banked non-blocking cache that handles efficiently thousands of outstanding misses, especially suited for bandwidth-bound latency-insensitive hardware accelerators with irregular memory access patterns. |
-| 7 | 2 | 0 | Unknown | [Handwritten-Digit-Recognition-Painter](https://github.com/j3soon/Handwritten-Digit-Recognition-Painter)/677 | A handwritten digit recognition painter implementation on Basys 3 Artix-7 FPGA using Verilog. |
-| 7 | 5 | 0 | Unknown | [Backup-of-undergraduate-study-materials](https://github.com/JairZhu/Backup-of-undergraduate-study-materials)/678 | 本科学习资料备份 |
-| 7 | 0 | 0 | Unknown | [PIC16C6XX](https://github.com/Ernegien/PIC16C6XX)/679 | Original Xbox SMC Power Glitching Attack (WIP) |
-| 7 | 2 | 0 | Unknown | [atari_system1_fpga](https://github.com/d18c7db/atari_system1_fpga)/680 | FPGA implementation of Atari System 1 LSI arcade |
-| 7 | 6 | 0 | Unknown | [grlib](https://github.com/trondd/grlib)/681 | None |
-| 7 | 1 | 0 | Unknown | [PothosFPGA](https://github.com/pothosware/PothosFPGA)/682 | Pothos FPGA computational offload and buffer integration support |
-| 7 | 6 | 0 | Unknown | [montecarlo-fpga](https://github.com/cyenko/montecarlo-fpga)/683 | Black-Scholes style options pricing using Monte Carlo methods. Written in VHDL for the Cyclone IV FPGA board. |
-| 7 | 0 | 0 | Unknown | [MyRISC](https://github.com/bigbrett/MyRISC)/684 | VHDL implementation of a 16-bit RISC processor targeting the BASYS3 FPGA |
-| 7 | 2 | 1 | Unknown | [gbcpu](https://github.com/jdeblese/gbcpu)/685 | A CPU and peripherals implementing the Gameboy (TM) instruction set and functionality |
-| 7 | 8 | 0 | Unknown | [TE0720-GigaZee-Reference-Designs](https://github.com/Trenz-Electronic/TE0720-GigaZee-Reference-Designs)/686 | Reference Projects for TE0720 ZYNQ module |
-| 7 | 2 | 0 | Unknown | [SNN_vhdl](https://github.com/isadorasophia/SNN_vhdl)/687 | Implementation of an Artificial Neural Network (ANN) on FPGA using VHDL |
-| 7 | 6 | 0 | Unknown | [aes-dom](https://github.com/hgrosz/aes-dom)/688 | DOM Protected Hardware Implementation of AES |
-| 7 | 10 | 0 | Unknown | [WM8731-Audio-codec-on-DE10Standard-FPGA-board](https://github.com/AntonZero/WM8731-Audio-codec-on-DE10Standard-FPGA-board)/689 | None |
-| 7 | 4 | 2 | Unknown | [riffa](https://github.com/farhanrahman/riffa)/690 | RIFFA (Reusable Integration Framework for FPGA Accelerators) is a framework developed in University of California, San Diego. This project utilises the RIFFA framework to define an interface to interact with a user's IP core on the FPGA to send and receive data to and from the PC. This particular project is being developed under Imperial College London. |
-| 7 | 3 | 0 | Unknown | [VGA_mem_mapped](https://github.com/delhatch/VGA_mem_mapped)/691 | Memory-mapped VGA display for Xilinx/Zynq/Zedboard, with demo code for using it. |
+| 12 | 0 | 0 | Unknown | [YM2612](https://github.com/sauraen/YM2612)/387 | VHDL description and documentation of architecture and undocumented features in Yamaha YM2203 (OPN) and YM2612 (OPN2) |
+| 12 | 4 | 0 | Unknown | [Demo_project](https://github.com/Pillar1989/Demo_project)/388 | None |
+| 12 | 0 | 1 | Unknown | [mips-cpu](https://github.com/fkd19/mips-cpu)/389 | None |
+| 12 | 1 | 0 | Unknown | [synthowheel](https://github.com/emard/synthowheel)/390 | Polyphonic additive wheeltone synthesizer core |
+| 12 | 2 | 0 | Unknown | [probe-scope-fpga](https://github.com/probe-scope/probe-scope-fpga)/391 | FPGA Software for the Probe-Scope |
+| 12 | 8 | 0 | Unknown | [fpga-camera](https://github.com/bitflippersanonymous/fpga-camera)/392 | FPGA digital camera controller and frame capture device in VHDL |
+| 12 | 5 | 1 | Unknown | [capi-streaming-framework](https://github.com/mbrobbel/capi-streaming-framework)/393 | AFU framework for streaming applications with CAPI. |
+| 12 | 1 | 0 | Unknown | [gimli](https://github.com/jedisct1/gimli)/394 | Reference implementations of the GIMLI permutation |
+| 12 | 0 | 0 | Unknown | [VHDL6526](https://github.com/bwack/VHDL6526)/395 | None |
+| 12 | 21 | 1 | Unknown | [AD](https://github.com/awersatos/AD)/396 | Altium Desinger |
+| 12 | 6 | 0 | Unknown | [Zynq_Project](https://github.com/snikrepmada/Zynq_Project)/397 | Zynq project to interface OV2640 camera module |
+| 12 | 4 | 0 | Unknown | [maestro](https://github.com/Artoriuz/maestro)/398 | A 5 stage-pipeline RV32I implementation in VHDL |
+| 12 | 8 | 0 | Unknown | [aes-over-pcie](https://github.com/jevinskie/aes-over-pcie)/399 | A VHDL implementation of 128 bit AES encryption with a PCIe interface. |
+| 11 | 9 | 0 | Unknown | [Getting-to-Know-Vivado](https://github.com/ATaylorCEngFIET/Getting-to-Know-Vivado)/400 | Source files for Getting to Know Vivado course |
+| 11 | 17 | 0 | 8 years ago | [LEON2](https://github.com/Galland/LEON2)/401 | LEON2 SPARC CPU IP core LGPL by Gaisler Research |
+| 11 | 1 | 0 | 5 months ago | [16x16-bit-Dada-multiplication](https://github.com/sourabh-suri/16x16-bit-Dada-multiplication)/402 | Design a Dadda multiplier for unsigned 16x16 bit multiplication with a Brent Kung adder for the final addition in synthesizable VHDL. |
+| 11 | 3 | 0 | 2 years ago | [vgg16-on-Zynq](https://github.com/flymin/vgg16-on-Zynq)/403 | Simulating implement of vgg16 network on Zynq-7020 FPGA |
+| 11 | 5 | 0 | a month ago | [VCS-1](https://github.com/SundanceMultiprocessorTechnology/VCS-1)/404 | VCS-1 system |
+| 11 | 13 | 0 | 5 years ago | [team_psx](https://github.com/anitazha/team_psx)/405 | 18545 Repo |
+| 11 | 14 | 18 | 6 months ago | [bel_projects](https://github.com/GSI-CS-CO/bel_projects)/406 | GSI Timing Gateware and Tools |
+| 11 | 1 | 10 | 2 months ago | [spartan-edge-accelerator-graphical-system](https://github.com/smartperson/spartan-edge-accelerator-graphical-system)/407 | WIP Graphics layer and inter IC communication for the Spartan Edge Accelerator fpga/mcu hybrid board |
+| 11 | 5 | 0 | 5 years ago | [RSA-Encryption](https://github.com/scarter93/RSA-Encryption)/408 | VHDL implementation of RSA encryption/decryption using Montgomery modular multipliers  |
+| 11 | 5 | 7 | 1 year, 5 months ago | [fpgasdr](https://github.com/danupp/fpgasdr)/409 | FPGA firmware for FPGA radio baseband board. Scroll down for README. |
+| 11 | 7 | 0 | 14 hours ago | [fpga_ip](https://github.com/oscimp/fpga_ip)/410 | OscillatorIMP ecosystem FPGA IP sources |
+| 11 | 9 | 0 | 7 years ago | [VHDL-Pong](https://github.com/MadLittleMods/VHDL-Pong)/411 | Straightforward Pong Game written in VHDL. Scoring and Multiplayer |
+| 11 | 1 | 0 | 9 years ago | [DCPU16-VHDL](https://github.com/isuru-c-p/DCPU16-VHDL)/412 | An implementation of the DCPU-16 from 0x10c in VHDL. |
+| 11 | 2 | 2 | 2 years ago | [reVISION-Zybo-Z7-20](https://github.com/Digilent/reVISION-Zybo-Z7-20)/413 | None |
+| 11 | 2 | 0 | 10 years ago | [cpu_arm](https://github.com/yuriks/cpu_arm)/414 | An ARMv4 compatible CPU core. (INCOMPLETE) |
+| 11 | 5 | 1 | 1 year, 9 months ago | [LimeSDR_DVBSGateware](https://github.com/natsfr/LimeSDR_DVBSGateware)/415 | Optimised gateware for lime sdr mini |
+| 11 | 3 | 0 | 2 years ago | [BoostDSP](https://github.com/Cognoscan/BoostDSP)/416 | VHDL Library for implementing common DSP functionality. |
+| 11 | 1 | 1 | a month ago | [kpi-stuff](https://github.com/smithros/kpi-stuff)/417 | Some of my laboratories work in KPI and stuff connected with it. Can be called "palevo".  |
+| 11 | 5 | 0 | 2 years ago | [FpChip8](https://github.com/VitorVilela7/FpChip8)/418 | FPGA implementation of CHIP-8 using VHDL. |
+| 11 | 2 | 0 | 9 years ago | [fpga-midi-synth](https://github.com/rene-dev/fpga-midi-synth)/419 | MIDI synthesizer written in VHDL |
+| 11 | 6 | 0 | 6 years ago | [FIRFilter](https://github.com/digibird1/FIRFilter)/420 | This project is a High and Low pass filter designer written in Octave to design and calculate the filter coefficients for a windows sinc filter. The coefficients can be used in the vhdl code for signal processing. |
+| 11 | 7 | 0 | 2 years ago | [Sha256_Hw_Accelerator](https://github.com/martinafogliato/Sha256_Hw_Accelerator)/421 | SHA256 hardware accelerator, synthesized for and mapped on the Zynq core of the Zybo board by Digilent |
+| 11 | 1 | 0 | 2 years ago | [prjtrellis-dvi](https://github.com/daveshah1/prjtrellis-dvi)/422 | DVI video out example for prjtrellis |
+| 11 | 7 | 0 | 6 years ago | [miniOV7670](https://github.com/ahmadabbas55/miniOV7670)/423 | Interfacing OV7670 Camera module to miniSpartan6+ |
+| 11 | 4 | 0 | 2 years ago | [GateKeeper](https://github.com/BilkentCompGen/GateKeeper)/424 | GateKeeper: Fast Alignment Filter for DNA Short Read Mapping |
+| 11 | 0 | 2 | 9 years ago | [Papilio-Master-System](https://github.com/ben0109/Papilio-Master-System)/425 | None |
+| 11 | 9 | 0 | 2 months ago | [NN_RGB_FPGA](https://github.com/Marco-Winzker/NN_RGB_FPGA)/426 | FPGA Design of a Neural Network for Color Detection |
+| 11 | 0 | 0 | 5 months ago | [xpm_vhdl](https://github.com/fransschreuder/xpm_vhdl)/427 | A translation of the Xilinx XPM library to VHDL for simulation purposes |
+| 11 | 5 | 0 | 6 years ago | [fpga-led-matrix](https://github.com/ncortot/fpga-led-matrix)/428 | HDMI decoder and LED matrix controller on a Spartan-6 FPGA |
+| 11 | 3 | 0 | 1 year, 10 months ago | [100cerebros](https://github.com/obiwit/100cerebros)/429 | Resoluções de exercícios e guiões de diversas disciplinas de MIECT, na UA |
+| 11 | 0 | 0 | 1 year, 6 days ago | [UK101onFPGA](https://github.com/emard/UK101onFPGA)/430 | Fork of the emulator for Compukit UK101 on FPGA |
+| 11 | 0 | 0 | 7 years ago | [xentral](https://github.com/drxzcl/xentral)/431 | XENTRAL is a simple Harvard Architecture CPU. |
+| 11 | 0 | 0 | 3 years ago | [SAYEH](https://github.com/aminrashidbeigi/SAYEH)/432 | SAYEH cpu-memory basic computer |
+| 11 | 14 | 1 | a month ago | [Arcade-Galaga_MiSTer](https://github.com/MiSTer-devel/Arcade-Galaga_MiSTer)/433 | Arcade: Galaga for MiSTer |
+| 11 | 10 | 0 | 4 years ago | [zybo_petalinux](https://github.com/andrewandrepowell/zybo_petalinux)/434 | Small projects intended to run on the Digilent Zybo development board, utilizing PetaLinux on the Zynq's ARM processor. |
+| 11 | 1 | 0 | 2 years ago | [VIIRF](https://github.com/MauererM/VIIRF)/435 | Hardware description (VHDL) and configuration scripts (Python) of a versatile IIR Filter implemented as cascaded SOS/biquads. No vendor-specific hardware constructs used.  |
+| 11 | 10 | 1 | 7 months ago | [OpenHT](https://github.com/TonyBrewer/OpenHT)/436 | Hybrid Threading Tool Set |
+| 11 | 13 | 0 | 5 years ago | [miilink](https://github.com/jsyk/miilink)/437 | Connecting FPGA and MCU using Ethernet RMII |
+| 11 | 1 | 0 | 2 years ago | [AnalogCPU](https://github.com/whoisnian/AnalogCPU)/438 | 8位模型机（数字电子课程设计） |
+| 11 | 3 | 1 | 3 months ago | [agc_monitor](https://github.com/thewonderidiot/agc_monitor)/439 | Modern implementation of the AGC Monitor, for use with a real Apollo Guidance Computer |
+| 11 | 2 | 0 | 3 years ago | [adpll](https://github.com/filipamator/adpll)/440 | All digital PLL |
+| 11 | 10 | 0 | 3 years ago | [SRAI_HW_ACCEL_WINDOWS10_PCIe](https://github.com/SanjayRai/SRAI_HW_ACCEL_WINDOWS10_PCIe)/441 | PCIe based accelerator for VCU1525  with xDMA based on Windows10 and Windows Server 2016 development environment |
+| 11 | 2 | 0 | 2 years ago | [Xilinx-Deep-Learning-Nexys4](https://github.com/TurtleTaco/Xilinx-Deep-Learning-Nexys4)/442 | Implemented Darius IP (originally target PYNQ) of convolution and maxpool on Xilinx FPGA with SDK |
+| 11 | 2 | 0 | 6 days ago | [osvb](https://github.com/umarcor/osvb)/443 | Open Source Verification Bundle for VHDL and System Verilog |
+| 11 | 9 | 1 | 6 years ago | [SpaceWireCODECIP_100MHz](https://github.com/shimafujigit/SpaceWireCODECIP_100MHz)/444 | None |
+| 11 | 8 | 0 | 4 years ago | [16-bit-HDLC-using-VHDL](https://github.com/shaan07/16-bit-HDLC-using-VHDL)/445 | High level Data Link Layer Control (HDLC) Protocol (16 bit) implementation using VHDL hardware description language. |
+| 11 | 2 | 1 | a month ago | [ZXNext_MISTer](https://github.com/MiSTer-devel/ZXNext_MISTer)/446 | None |
+| 10 | 2 | 0 | 11 years ago | [Pong](https://github.com/GarstgerUnhold/Pong)/447 | Pong for Spartan3 FPGA-Board written in VHDL |
+| 10 | 6 | 1 | 11 months ago | [ps2_cpld_kbd](https://github.com/andykarpov/ps2_cpld_kbd)/448 | ZX Spectrum PS/2 keyboard adapter |
+| 10 | 1 | 0 | 1 year, 7 days ago | [hardware-sort](https://github.com/mmattioli/hardware-sort)/449 | Hardware-accelerated sorting algorithm |
+| 10 | 10 | 4 | 4 months ago | [TRS-80_MiSTer](https://github.com/MiSTer-devel/TRS-80_MiSTer)/450 | Tandy TRS-80 Model I (port of HT1080Z to MiSTer) |
+| 10 | 2 | 0 | 5 years ago | [vhdl_sincos_gen](https://github.com/jorisvr/vhdl_sincos_gen)/451 | Sine / cosine function core in VHDL |
+| 10 | 7 | 0 | 4 years ago | [wireless-mac-processor](https://github.com/ict-flavia/wireless-mac-processor)/452 | None |
+| 10 | 4 | 0 | 3 years ago | [Aeon-Lite](https://github.com/ILoveSpeccy/Aeon-Lite)/453 | Aeon Lite - Open Source Reconfigurable Computer |
+| 10 | 4 | 0 | 1 year, 11 months ago | [s4noc](https://github.com/t-crest/s4noc)/454 | A Statically-scheduled TDM Network-on-Chip for Real-Time Systems |
+| 10 | 5 | 1 | 9 months ago | [camera-filters](https://github.com/olivier-le-sage/camera-filters)/455 | Colorspace conversion, gamma correction, and more -- all integrated within a MIPI-to-HDMI pipeline in FPGA. |
+| 10 | 7 | 0 | 3 years ago | [pacedev](https://github.com/wsoltys/pacedev)/456 | Programmable Arcade Circuit Emulation |
+| 10 | 0 | 0 | 1 year, 1 month ago | [32-bit-Brent-Kung-architecture](https://github.com/sourabh-suri/32-bit-Brent-Kung-architecture)/457 | Brent Kung architecture for adding 32 bit operands. |
+| 10 | 1 | 0 | 7 years ago | [vsim](https://github.com/grwlf/vsim)/458 | VHDL simulator in Haskell |
+| 10 | 1 | 0 | 7 years ago | [PSP-Display-Driver](https://github.com/Hyvok/PSP-Display-Driver)/459 | VHDL code for driving a playstation portable display |
+| 10 | 4 | 2 | 5 years ago | [aes-fpga](https://github.com/parthpower/aes-fpga)/460 | AES implementation on FPGA  |
+| 10 | 0 | 0 | 1 year, 3 months ago | [cod19grp4](https://github.com/LyricZhao/cod19grp4)/461 | 奋战一学期 造台联网计算机（MIPS32 CPU + 硬件 RIP 路由器） |
+| 10 | 1 | 8 | 1 year, 6 months ago | [Arcade-DonkeyKongJunior_MiSTer](https://github.com/gaz68/Arcade-DonkeyKongJunior_MiSTer)/462 | Donkey Kong Junior arcade clone for MiSTer. |
+| 10 | 2 | 0 | 11 months ago | [360-NAND-X](https://github.com/Element18592/360-NAND-X)/463 | Clone of the NAND-X |
+| 10 | 2 | 1 | 4 years ago | [tetris-vhdl](https://github.com/primiano/tetris-vhdl)/464 | A bare-metal pure hardware implementation of the Tetris game for FPGA |
+| 10 | 4 | 1 | 7 years ago | [snes-flash](https://github.com/aiju/snes-flash)/465 | None |
+| 10 | 4 | 0 | 3 years ago | [srio_test](https://github.com/GOOD-Stuff/srio_test)/466 | Test SRIO connection between FPGA (Kintex-7) and DSP (C6678) |
+| 10 | 1 | 1 | 3 years ago | [argh2600](https://github.com/elpuri/argh2600)/467 | VHDL implementation of an Atari 2600 |
+| 10 | 95 | 0 | 11 days ago | [Digital-electronics-1](https://github.com/tomas-fryza/Digital-electronics-1)/468 | VHDL course at Brno University of Technology |
+| 10 | 8 | 1 | 2 years ago | [Zybo-Z7-20-base-linux](https://github.com/Digilent/Zybo-Z7-20-base-linux)/469 | None |
+| 10 | 1 | 0 | 3 years ago | [vu_meter](https://github.com/filipamator/vu_meter)/470 | FPGA-based FFT audio spectrum analyzer |
+| 10 | 0 | 2 | 8 years ago | [AlteraMeatBoyHD](https://github.com/alteraMeatBoy/AlteraMeatBoyHD)/471 | Quartus project files for an Altera DE2 Meat Boy game. Proper functionality not guaranteed. |
+| 10 | 8 | 0 | 5 years ago | [Cameralink-LPC-FMC-Module](https://github.com/roy77/Cameralink-LPC-FMC-Module)/472 | None |
+| 10 | 4 | 0 | 23 days ago | [fpga_cores](https://github.com/suoto/fpga_cores)/473 | None |
+| 10 | 8 | 0 | 6 years ago | [VGA](https://github.com/AntonZero/VGA)/474 | VGA Tutorial for DE1  |
+| 10 | 4 | 0 | 4 years ago | [MQP](https://github.com/glgauthier/MQP)/475 | Electrical and Computer Engineering Capstone |
+| 10 | 3 | 1 | 5 years ago | [FPGA_Mandelbrot](https://github.com/hamsternz/FPGA_Mandelbrot)/476 | A real-time Mandelbrot fractal viewer for FPGAs  |
+| 10 | 2 | 0 | 4 years ago | [absenc](https://github.com/texane/absenc)/477 | Absolute encoder VHDL core |
+| 10 | 6 | 0 | 10 years ago | [image_processing_examples](https://github.com/martinjthompson/image_processing_examples)/478 | Examples of image processing |
+| 10 | 3 | 0 | 3 years ago | [2DImageProcessing](https://github.com/Wissance/2DImageProcessing)/479 | 2d Images processing system with FPGA (Zynq 7k) from two dragster linescanner (DR-2k-7) |
+| 10 | 2 | 1 | 1 year, 10 months ago | [vextproj](https://github.com/wzab/vextproj)/480 | VEXTPROJ - the version control friendly system for creation of Vivado projects |
+| 10 | 3 | 0 | 1 year, 8 months ago | [FISC-VHDL](https://github.com/FISC-Project/FISC-VHDL)/481 | FISC - Flexible Instruction Set Computer - Is the new Instruction Set Architecture inspired by ARMv8 and x86-64 |
+| 10 | 2 | 0 | 9 years ago | [MIPS](https://github.com/buccolo/MIPS)/482 | A pipelined MIPS processor written in VHDL (Unicamp/MC542) |
+| 10 | 2 | 1 | 1 year, 10 months ago | [Tiffany](https://github.com/bradleyeckert/Tiffany)/483 | A scalable MachineForth for PCs, MCUs and FPGAs. |
+| 10 | 1 | 0 | 2 years ago | [8_bit_cpu](https://github.com/HellooYing/8_bit_cpu)/484 | ALINX ALTERA FPGA黑金开发学习板 CYCLONE IV 数电课设八位模型机 |
+| 10 | 3 | 0 | 2 years ago | [RealTimeVideo](https://github.com/MaksGolub/RealTimeVideo)/485 | High-speed real time streaming video on Zybo Z7-10 |
+| 10 | 6 | 1 | 2 months ago | [psi_common](https://github.com/paulscherrerinstitute/psi_common)/486 | Common elements for FPGA Design (FIFOs, RAMs, etc.) |
+| 10 | 1 | 0 | 1 year, 5 months ago | [naiverouter](https://github.com/jiegec/naiverouter)/487 | A router IP written in Verilog. |
+| 10 | 2 | 0 | 7 months ago | [FPGA-X68k-DE0CV](https://github.com/kunichiko/FPGA-X68k-DE0CV)/488 | None |
+| 10 | 5 | 0 | 6 years ago | [NfcEmu](https://github.com/0xee/NfcEmu)/489 | SDR/FPGA-based NFC/RFID Emulator |
+| 10 | 2 | 2 | 28 days ago | [AtariLynx_MiSTer](https://github.com/MiSTer-devel/AtariLynx_MiSTer)/490 | None |
+| 9 | 6 | 0 | 9 months ago | [pipelineCPU](https://github.com/HandsomeBrotherShuaiLi/pipelineCPU)/491 | Five-Stage Pipeline CPU Implemented by Verilog on FPGA  Written By LI Shuai, it supports static and dynamic pipeline cpu. I am not  maintaining this repo for years. If there are bugs when you try it, debug by youself! :) |
+| 9 | 8 | 0 | 11 months ago | [FPGA-Vision](https://github.com/Marco-Winzker/FPGA-Vision)/492 | Learn about image processing with an FPGA. Video lectures explain algorithm and implementation of lane detection for automotive driving. Real hardware is available as a remote lab.  |
+| 9 | 2 | 0 | 9 months ago | [FPGA-SPI-Flash](https://github.com/GOOD-Stuff/FPGA-SPI-Flash)/493 | Various projects of SPI loader module for xilinx fpga |
+| 9 | 4 | 1 | 1 year, 5 months ago | [T-DLA](https://github.com/microideax/T-DLA)/494 | None |
+| 9 | 1 | 0 | 3 years ago | [SimpleComputer](https://github.com/WilliamYi96/SimpleComputer)/495 | The design and implementation of simple computer by quartus. |
+| 9 | 7 | 0 | 4 years ago | [fpga](https://github.com/labnation/fpga)/496 | None |
+| 9 | 2 | 0 | 7 months ago | [cocotbExamples](https://github.com/qarlosalberto/cocotbExamples)/497 | None |
+| 9 | 5 | 1 | 2 years ago | [aws-fpga-miner](https://github.com/fpga-guide/aws-fpga-miner)/498 | None |
+| 9 | 2 | 0 | 1 year, 9 months ago | [RISC-CPU](https://github.com/alirezakay/RISC-CPU)/499 | A multi cycle RISC CPU (processor) like MIPS CPU in VHDL ( a hardware side code implementation ) |
+| 9 | 1 | 0 | 1 year, 28 days ago | [ImpeccableCircuits](https://github.com/emsec/ImpeccableCircuits)/500 | Hardware designs for fault detection |
+| 9 | 0 | 0 | 1 year, 7 months ago | [seqpu](https://github.com/pepijndevos/seqpu)/501 | A bit-serial CPU |
+| 9 | 3 | 0 | 8 years ago | [fpgasynth](https://github.com/ksnieck/fpgasynth)/502 | VHDL for an FPGA based MIDI music synthesizer |
+| 9 | 6 | 0 | 3 years ago | [bce-fpga-dev-kit](https://github.com/Cwndmiao/bce-fpga-dev-kit)/503 | bce-fpga-dev-kit |
+| 9 | 10 | 0 | 5 years ago | [HLS-Axi-Master-on-Microzed-with-Yocto-Linux-device-driver](https://github.com/Architech-Silica/HLS-Axi-Master-on-Microzed-with-Yocto-Linux-device-driver)/504 | Creation of a AXI Master and Yocto device driver for Zynq, using High Level Synthesis (HLS) techniques. |
+| 9 | 0 | 0 | 6 years ago | [macMonitor](https://github.com/bobparadiso/macMonitor)/505 | Xilinx VHDL project to drive a Mac Classic CRT |
+| 9 | 3 | 2 | 7 years ago | [vhdl-csv-file-reader](https://github.com/ricardo-jasinski/vhdl-csv-file-reader)/506 | VHDL package for reading formatted data from comma-separated-values (CSV) files |
+| 9 | 2 | 1 | 6 months ago | [vhdl-cfg](https://github.com/eine/vhdl-cfg)/507 | Playground to explore and compare how configuration is handled by different tools for development of VHDL projects |
+| 9 | 2 | 0 | 4 days ago | [atari_system1_fpga](https://github.com/d18c7db/atari_system1_fpga)/508 | FPGA implementation of Atari System 1 LSI arcade |
+| 9 | 6 | 0 | 2 years ago | [LeNet-on-Zynq](https://github.com/flymin/LeNet-on-Zynq)/509 | Simulating implement of LeNet network on Zynq-7020 FPGA |
+| 9 | 4 | 0 | 10 years ago | [coded_aperture_vhdl](https://github.com/xcthulhu/coded_aperture_vhdl)/510 | vhdl code for simulating/synthesizing an FPGA backend of a coded aperture |
+| 9 | 3 | 0 | 4 years ago | [uCPUvhdl](https://github.com/reed-foster/uCPUvhdl)/511 | An 8-bit soft processor in VHDL |
+| 9 | 1 | 0 | 6 years ago | [ZPUino_miniSpartn6_plus](https://github.com/ahmadabbas55/ZPUino_miniSpartn6_plus)/512 | ZPUino for miniSpartan6+  |
+| 9 | 1 | 0 | 6 years ago | [siphash](https://github.com/pemb/siphash)/513 | A VHDL implementation of SipHash |
+| 9 | 1 | 0 | 8 years ago | [fp68060](https://github.com/amigabill/fp68060)/514 | PCB to plug FPGA softcore CPU into 68060 microprocessor socket |
+| 9 | 0 | 0 | 1 year, 4 months ago | [tangnano_sample](https://github.com/osafune/tangnano_sample)/515 | Tang-nano LCD sample |
+| 9 | 0 | 1 | 4 years ago | [vertcl](https://github.com/kevinpt/vertcl)/516 | VHDL Tcl interpreter |
+| 9 | 10 | 0 | 6 years ago | [VHDL_IP-Cores](https://github.com/OpenAutomationTechnologies/VHDL_IP-Cores)/517 | None |
+| 9 | 8 | 0 | 2 months ago | [Learn-FPGA-Programming](https://github.com/PacktPublishing/Learn-FPGA-Programming)/518 | Learn FPGA Programming, published by Packt |
+| 9 | 3 | 0 | 7 years ago | [gandalf-miner](https://github.com/FrankBuss/gandalf-miner)/519 | bitcoin miner for the A3255-Q48 chip |
+| 9 | 2 | 1 | 5 years ago | [UART](https://github.com/Domipheus/UART)/520 | Simple UART implementation in VHDL |
+| 9 | 14 | 4 | 17 days ago | [Arcade-Galaxian_MiSTer](https://github.com/MiSTer-devel/Arcade-Galaxian_MiSTer)/521 | Arcade: Galaxian for MiSTer |
+| 9 | 0 | 0 | 1 year, 11 months ago | [PingPongGame_CAD_VGA](https://github.com/avestura/PingPongGame_CAD_VGA)/522 | 🏓 A Ping Pong game written in VHDL with VGA support |
+| 9 | 3 | 0 | 2 years ago | [UniversalPPU](https://github.com/RetroEmbedded/UniversalPPU)/523 | An FPGA replacement for the graphics chip used in the NES and related systems |
+| 9 | 6 | 17 | 7 years ago | [ECE383](https://github.com/toddbranch/ECE383)/524 | USAFA ECE383 course website. |
+| 9 | 13 | 0 | 4 years ago | [SDSoC-platforms](https://github.com/Digilent/SDSoC-platforms)/525 | SDSoC platforms for Digilent Zynq boards |
+| 9 | 3 | 0 | 1 year, 11 months ago | [robotter](https://github.com/robotter/robotter)/526 | Rob'Otter's code for Eurobot and the Coupe de France de robotique |
+| 9 | 5 | 1 | 8 months ago | [CryptoHDL](https://github.com/hadipourh/CryptoHDL)/527 | A list of VHDL codes implementing cryptographic algorithms |
+| 9 | 25 | 0 | a day ago | [riscv-multicycle](https://github.com/xtarke/riscv-multicycle)/528 | None |
+| 9 | 7 | 1 | 6 years ago | [BeMicro-CV](https://github.com/tommythorn/BeMicro-CV)/529 | A "hello world" style designs for the Cyclone V based $49 Arrow BeMicro CV |
+| 9 | 4 | 0 | 1 year, 3 months ago | [vhdl-digital-design](https://github.com/fcayci/vhdl-digital-design)/530 | VHDL code examples for a digital design course |
+| 9 | 5 | 0 | 1 year, 11 months ago | [cmips](https://github.com/rhexsel/cmips)/531 | All things related to cMIPS, a synthesizable VHDL model for the 5-stage pipeline, MIPS32r2 core. |
+| 9 | 3 | 0 | 2 months ago | [LMAC_CORE1](https://github.com/lewiz-support/LMAC_CORE1)/532 | LMAC Core1 - Ethernet 1G/100M/10M |
+| 9 | 2 | 1 | 7 months ago | [ulx3s-ghdl-examples](https://github.com/kost/ulx3s-ghdl-examples)/533 | ulx3s ghdl examples |
+| 9 | 2 | 0 | 7 years ago | [zpu-lattice](https://github.com/iabdalkader/zpu-lattice)/534 | ZPU Core for Lattice ICE40HX8K |
+| 9 | 15 | 0 | 7 years ago | [VinxFs](https://github.com/baranovmv/VinxFs)/535 | Small FAT16/FAT32 filesystem for ATMega8 (AVR / STM / PIC) with create/delete file |
+| 9 | 1 | 0 | 5 years ago | [vhdl_verification](https://github.com/tmeissner/vhdl_verification)/536 | Examples and design pattern for VHDL verification |
+| 9 | 1 | 0 | 4 years ago | [bcomp](https://github.com/MJoergen/bcomp)/537 | 8-bit computer |
+| 9 | 4 | 0 | 4 years ago | [VGA_1.0](https://github.com/andrewandrepowell/VGA_1.0)/538 | AXI memory-mapped VGA module originally designed for the Avent Zedboard  |
+| 9 | 8 | 2 | 6 years ago | [VHDL-Project-16-bit-RISC-Processor](https://github.com/sameersondur/VHDL-Project-16-bit-RISC-Processor)/539 | Designed a RISC processor with 16 bit instruction set, 4-stage pipeline and a non-pre-emptive interrupt handler. Implemented it in VHDL and tested it by simulating in ModelSim. |
+| 9 | 6 | 0 | 5 years ago | [wavelet-image-compression](https://github.com/isovic/wavelet-image-compression)/540 | Simple FPGA-based Wavelet Image Compression |
+| 9 | 6 | 0 | 9 years ago | [simple-mips](https://github.com/tcamolesi/simple-mips)/541 | Simple MIPS processor written in VHDL |
+| 9 | 8 | 1 | 4 months ago | [go2uvm](https://github.com/go2uvm/go2uvm)/542 | Main repo for Go2UVM source code, examples and apps |
+| 9 | 5 | 0 | 4 years ago | [vhdl2008c](https://github.com/peteut/vhdl2008c)/543 | VHDL ieee_proposed library, imported as is. See also https://github.com/FPHDL/fphdl |
+| 9 | 0 | 0 | 2 years ago | [courses](https://github.com/mmaghajani/courses)/544 | About university courses and homeworks ... |
+| 9 | 6 | 0 | 4 years ago | [VHDL](https://github.com/fabiopjve/VHDL)/545 | Some VHDL code |
+| 9 | 2 | 0 | 3 years ago | [Ultrasound-Beamforming-](https://github.com/abhishekgb/Ultrasound-Beamforming-)/546 | This project is basically ultrasound Beamformer prototype and FPGA is used to control all the modules of the Hardware. |
+| 9 | 6 | 5 | 1 year, 1 day ago | [cnn_vhdl_generator](https://github.com/mhamdan91/cnn_vhdl_generator)/547 | AUTOMATIC VHDL GENERATION FOR CNN MODELS |
+| 9 | 4 | 1 | 3 years ago | [CPU-Adelie](https://github.com/Adelie-project/CPU-Adelie)/548 | None |
+| 9 | 5 | 2 | 1 year, 4 months ago | [DivGMX](https://github.com/mvvproject/DivGMX)/549 | Development Kit |
+| 9 | 2 | 0 | 4 years ago | [msgpack-vhdl](https://github.com/ikwzm/msgpack-vhdl)/550 | MessagePack  implementation for VHDL |
+| 9 | 7 | 0 | 1 year, 6 months ago | [COD-Resources-2017](https://github.com/ustc-cs/COD-Resources-2017)/551 | 中科大 2017 级数字电路实验/组成原理实验的同学经验和资料分享 |
+| 9 | 5 | 0 | 10 months ago | [de10-nano-examples](https://github.com/nullobject/de10-nano-examples)/552 | DE10 Nano Sample Cores |
+| 9 | 2 | 4 | 13 days ago | [Intv_MiSTer](https://github.com/Grabulosaure/Intv_MiSTer)/553 | Intellivision for MiSTer |
+| 9 | 7 | 0 | 6 years ago | [aeshw](https://github.com/szanni/aeshw)/554 | None |
+| 8 | 0 | 0 | 7 years ago | [i2s-interface-vhdl](https://github.com/meriororen/i2s-interface-vhdl)/555 | A simplified i2s interface taken from OpenCores' I2S Interface. Aimed for Altera Avalon Streaming interface.  |
+| 8 | 4 | 0 | 1 year, 2 months ago | [can-lite-vhdl](https://github.com/bggardner/can-lite-vhdl)/556 | A lightweight Controller Area Network (CAN) controller in VHDL |
+| 8 | 11 | 5 | 2 months ago | [VIC20_MiSTer](https://github.com/MiSTer-devel/VIC20_MiSTer)/557 | Commodore VIC-20 for MiSTer |
+| 8 | 0 | 0 | 5 years ago | [ADC_Sigma_Delta_VHDL](https://github.com/akukulanski/ADC_Sigma_Delta_VHDL)/558 | Sigma-Delta Analog to Digital Converter in FPGA (VHDL) |
+| 8 | 2 | 0 | 1 year, 8 months ago | [Zynq_HLS_DDR_Dataflow_kernel_2mm](https://github.com/zslwyuan/Zynq_HLS_DDR_Dataflow_kernel_2mm)/559 | This is a project integrating HLS IP and CortexA9 on Zynq. This CPU-FPGA project, for a Matrix Multiplication Dataflow, is implemented with dataflow and DDR3  access with HLS. The Cortex A9 will print the result via UART and check the result by comparing the data with the one from CPU compuation |
+| 8 | 3 | 2 | 2 years ago | [pim-vhdl](https://github.com/RandomReaper/pim-vhdl)/560 | My VHDL code |
+| 8 | 4 | 1 | 2 years ago | [Nexys-4-DDR-GPIO](https://github.com/Digilent/Nexys-4-DDR-GPIO)/561 | None |
+| 8 | 3 | 0 | 10 months ago | [leon3-grlib-gpl-mirror](https://github.com/TUT-ASI/leon3-grlib-gpl-mirror)/562 | Git mirror of Gaisler's GRLIB/Leon3 releases |
+| 8 | 3 | 1 | 2 years ago | [Space-Invaders-for-MiSTer](https://github.com/davewoo999/Space-Invaders-for-MiSTer)/563 | None |
+| 8 | 8 | 0 | 6 years ago | [SHA3-VHDL](https://github.com/vishpbharadwaj/SHA3-VHDL)/564 | Hardware implementation of cryptographic Hash function SHA-3 (keccak) using VHDL |
+| 8 | 2 | 0 | 6 years ago | [vhdl-game-engine](https://github.com/ricardo-jasinski/vhdl-game-engine)/565 | A game engine implemented purely in hardware using the VHDL language |
+| 8 | 1 | 0 | 4 years ago | [16x2-LCD-Controller-VHDL](https://github.com/Maeur1/16x2-LCD-Controller-VHDL)/566 | A little program I wrote to control the LCD on my FPGA |
+| 8 | 8 | 1 | a month ago | [QL_MiSTer](https://github.com/MiSTer-devel/QL_MiSTer)/567 | Sinclair QL for MiSTer |
+| 8 | 4 | 1 | 3 years ago | [Nexys-4-OOB](https://github.com/Digilent/Nexys-4-OOB)/568 | None |
+| 8 | 0 | 0 | 3 months ago | [chisel-study](https://github.com/horie-t/chisel-study)/569 | ハードウェア構築言語Chiselでちょっとしたコードを書き溜めておくプロジェクト |
+| 8 | 4 | 0 | 3 years ago | [SECURE_HASH](https://github.com/ikwzm/SECURE_HASH)/570 | SHA-1,SHA-256,SHA-512 Secure Hash Generator written in VHDL(RTL) for FPGA(Xilinx and Altera). |
+| 8 | 1 | 0 | 3 months ago | [imagesensor_system](https://github.com/Kopei/imagesensor_system)/571 | This document is a project of cmos image sensor system. The doc mainly includes LUPA4000 Cmos sensor driving, SDRAM storage, LVDS data readout etc. The code is written in VHDL. |
+| 8 | 3 | 0 | 4 years ago | [mdsynth](https://github.com/dcliche/mdsynth)/572 | FPGA-based synthesizer in VHDL for the Xilinx Spartan-3A and Spartan-3E Starter Kits |
+| 8 | 12 | 1 | 2 years ago | [cnn-fpga-rtl](https://github.com/jhrabovsky/cnn-fpga-rtl)/573 | The CNN architecture elements implemented with RTL approach in VHDL. |
+| 8 | 7 | 0 | 1 year, 8 months ago | [SidewinderFPGA](https://github.com/ManuFerHi/SidewinderFPGA)/574 | Sidewinder FPGA |
+| 8 | 1 | 0 | 5 months ago | [VHDL](https://github.com/datacipy/VHDL)/575 | Příklady ke knize Data, čipy, procesory |
+| 8 | 1 | 0 | 3 years ago | [Team-SDK-545](https://github.com/kkudrolli/Team-SDK-545)/576 | An FPGA design project by Kais Kudrolli, Sohil Shah, and DongJoon Park for 18-545 at Carnegie Mellon University. |
+| 8 | 1 | 2 | 5 years ago | [oram_fpga](https://github.com/kwonalbert/oram_fpga)/577 | FPGA related files for ORAM |
+| 8 | 2 | 0 | 4 years ago | [ImageCaptureSystem](https://github.com/Wissance/ImageCaptureSystem)/578 | A Xilinx IP Core and App for line scanner image capture and store |
+| 8 | 1 | 0 | a month ago | [Pynq-Accelerator](https://github.com/LeiWang1999/Pynq-Accelerator)/579 | A easy general acc. |
+| 8 | 8 | 2 | 7 months ago | [Arcade-Tecmo_MiSTer](https://github.com/MiSTer-devel/Arcade-Tecmo_MiSTer)/580 | MiSTer arcade core for Tecmo arcade classics: Rygar (1986), Gemini Wing (1987), and Silkworm (1988). |
+| 8 | 0 | 0 | 6 months ago | [VGA-6502](https://github.com/LIV2/VGA-6502)/581 | A VGA card for my homebrew 65C02 based computer |
+| 8 | 1 | 0 | 8 months ago | [zxuno](https://github.com/spark2k06/zxuno)/582 | None |
+| 8 | 3 | 0 | 1 year, 10 months ago | [DES-cracker](https://github.com/aletempiac/DES-cracker)/583 | DES cracking machine on FPGA |
+| 8 | 0 | 1 | 3 years ago | [maplebus](https://github.com/ismell/maplebus)/584 | Sega Dreamcast Maplebus Transceiver |
+| 8 | 3 | 0 | 5 years ago | [FPGA-LCD-Driver](https://github.com/goran-mahovlic/FPGA-LCD-Driver)/585 | FPGA LVDS LCD driver |
+| 8 | 0 | 1 | 1 year, 2 months ago | [posit_blas_hdl](https://github.com/lvandam/posit_blas_hdl)/586 | Posit Arithmetic Accelerator interfacing with Apache Arrow & CAPI SNAP |
+| 8 | 10 | 0 | 3 years ago | [WM8731-Audio-codec-on-DE10Standard-FPGA-board](https://github.com/AntonZero/WM8731-Audio-codec-on-DE10Standard-FPGA-board)/587 | None |
+| 8 | 0 | 0 | 3 years ago | [zlogan](https://github.com/eltvor/zlogan)/588 | High-througput logic analyzer for FPGA |
+| 8 | 3 | 0 | 3 years ago | [Arty-Pmod-VGA](https://github.com/Digilent/Arty-Pmod-VGA)/589 | None |
+| 8 | 5 | 0 | 8 years ago | [soc_leon3](https://github.com/teeshina/soc_leon3)/590 | System on Chip SPARC V8 using leon3 CPU by Gaisler. C++, vhdl, v files. |
+| 8 | 2 | 0 | 8 years ago | [sdr](https://github.com/rcls/sdr)/591 | A software-defined radio. |
+| 8 | 4 | 0 | 5 years ago | [rdsfpga](https://github.com/emard/rdsfpga)/592 | RDS FM modulator for FPGA |
+| 8 | 2 | 1 | 3 years ago | [FpgaMicrotubule](https://github.com/urock/FpgaMicrotubule)/593 | HPC Implementation of dynamic microtubules calculations on CPU, GPU and FPGA Platforms |
+| 8 | 0 | 0 | 6 years ago | [AM2901](https://github.com/Amrnasr/AM2901)/594 | None |
+| 8 | 7 | 0 | 6 years ago | [Xilinx-GPIO-Interrupt](https://github.com/Micro-Studios/Xilinx-GPIO-Interrupt)/595 | It is a GPIO interrupt example for xilinx ZYNQ FPGA.  |
+| 8 | 5 | 0 | 1 year, 7 months ago | [Zedboard-DMA](https://github.com/Digilent/Zedboard-DMA)/596 | None |
+| 8 | 3 | 0 | 1 year, 7 months ago | [Hardware-Course](https://github.com/yujincheng08/Hardware-Course)/597 | All the verilog code I wrote in hardware Course |
+| 8 | 9 | 0 | 2 years ago | [AX7015](https://github.com/alinxalinx/AX7015)/598 | AX7015 |
+| 8 | 2 | 0 | 7 months ago | [RedPitaya_Acquisition](https://github.com/alex123go/RedPitaya_Acquisition)/599 | Transform the Red Pitaya in an acquisition card |
+| 8 | 0 | 0 | 2 years ago | [OscilloscopeBoom](https://github.com/wtywtykk/OscilloscopeBoom)/600 | Display something on an analog oscilloscope |
+| 8 | 0 | 4 | 5 years ago | [tis100cpu](https://github.com/jdryg/tis100cpu)/601 | TIS-100 CPU in VHDL |
+| 8 | 9 | 1 | 5 years ago | [zycap](https://github.com/warclab/zycap)/602 | Zynq PR Management |
+| 8 | 4 | 0 | 7 years ago | [mbc5-clone](https://github.com/sth0r/mbc5-clone)/603 | this is a clone of zakos mbcx found at https://gitorious.org/mbcx/mbcx. I'll try to make my own itteration of the mbcx. |
+| 8 | 15 | 0 | 1 year, 9 months ago | [GlobalCorrelator](https://github.com/p2l1pfp/GlobalCorrelator)/604 | Firmware for Level-1 Particle Reconstruction |
+| 8 | 13 | 4 | 2 months ago | [Vectrex_MiSTer](https://github.com/MiSTer-devel/Vectrex_MiSTer)/605 | Vectrex for MiSTer |
+| 8 | 5 | 0 | 3 months ago | [TMS5220_FPGA](https://github.com/d18c7db/TMS5220_FPGA)/606 | VHDL model of TMS5220 voice synthesizer processor |
+| 8 | 2 | 5 | 4 months ago | [cpu](https://github.com/bit-mips/cpu)/607 | MIPS CPU |
+| 8 | 0 | 0 | Unknown | [Digital-Recognition](https://github.com/liuweistrong/Digital-Recognition)/608 | 2019年Xilinx FPGA暑期学校项目学习 数字识别项目 Digital Recognition  |
+| 8 | 1 | 1 | 4 months ago | [Brutzelkarte_FPGA](https://github.com/jago85/Brutzelkarte_FPGA)/609 | The Brutzelkarte FPGA description code in VHDL |
+| 8 | 5 | 0 | 7 days ago | [dsd](https://github.com/kevinwlu/dsd)/610 | Digital System Design |
+| 8 | 0 | 0 | 8 years ago | [rekonstrukt](https://github.com/hanshuebner/rekonstrukt)/611 | FPGA based Forth development environment / Forth based FPGA development environment |
+| 8 | 2 | 0 | Unknown | [hls_stream](https://github.com/sukinull/hls_stream)/612 | Xilinx HLS video library using hls::stream w/ Vivado 2014.4 or Later |
+| 8 | 1 | 0 | Unknown | [ws2812b-vhdl](https://github.com/m42uko/ws2812b-vhdl)/613 | A controller for the WorldSemi WS2812B RGB LEDs written in plain VHDL. |
+| 8 | 6 | 0 | 4 years ago | [GBA](https://github.com/neildryan/GBA)/614 | GameBoy Advance Zedboard Implementation |
+| 8 | 2 | 7 | Unknown | [R32V2020](https://github.com/douggilliland/R32V2020)/615 | My 32-bit RISC CPU for smallish FPGAs |
+| 8 | 3 | 0 | Unknown | [acoustic-levitation](https://github.com/leastrobino/acoustic-levitation)/616 | Acoustic levitation on SoC FPGA (DE0-Nano-SoC). Notice: this repository has moved to GitLab. All issues and pull requests should be created there. |
+| 8 | 0 | 0 | Unknown | [MiSTer-Arcade-AtariTetris](https://github.com/MrX-8B/MiSTer-Arcade-AtariTetris)/617 | FPGA implementation of ATARI's Tetris arcade game |
+| 8 | 2 | 2 | 4 years ago | [VHDL-FIR-filters](https://github.com/BBN-Q/VHDL-FIR-filters)/618 | Synthesizable FIR filters in VHDL |
+| 8 | 2 | 0 | Unknown | [hdl_string_format](https://github.com/suoto/hdl_string_format)/619 | VHDL package to provide C-like string formatting |
+| 8 | 4 | 0 | 6 years ago | [AVR-Processor](https://github.com/agural/AVR-Processor)/620 | VHDL implementation of an AVR processor. |
+| 8 | 2 | 0 | Unknown | [dmkonst](https://github.com/lionleaf/dmkonst)/621 | An optimized pipelined MIPS CPU written in VHDL |
+| 8 | 2 | 0 | Unknown | [udp_ip_stack](https://github.com/LarsAsplund/udp_ip_stack)/622 | UDP IP stack example project from this VUnit getting started blog (https://www.linkedin.com/pulse/vunit-best-value-initial-effort-lars-asplund) |
+| 8 | 2 | 0 | 3 months ago | [fsva](https://github.com/m-kru/fsva)/623 | FuseSoc Verification Automation |
+| 8 | 6 | 0 | Unknown | [vhdl-project](https://github.com/alessandro-montanari/vhdl-project)/624 | Implementation in VHDL of the Sobel edge detection operator |
+| 8 | 4 | 0 | Unknown | [AX7035](https://github.com/alinxalinx/AX7035)/625 | None |
+| 8 | 1 | 0 | 10 months ago | [CycloneV_UnAmiga_v2](https://github.com/benitoss/CycloneV_UnAmiga_v2)/626 | Cyclone V FPGA board for UnAmiga project with new addon 6 Buttons Megadrive Joystick |
+| 8 | 2 | 3 | Unknown | [SAMCoupe_MIST](https://github.com/sorgelig/SAMCoupe_MIST)/627 | SAM Coupe for MiST board |
+| 8 | 4 | 0 | Unknown | [vhdI2CMaster](https://github.com/tirfil/vhdI2CMaster)/628 | I2C Master FSM (vhdl) |
+| 8 | 0 | 1 | Unknown | [pipemania-fpga-game](https://github.com/jakubcabal/pipemania-fpga-game)/629 | Pipe Mania - Game for FPGA written in VHDL |
+| 8 | 4 | 0 | Unknown | [kvcordic](https://github.com/nkkav/kvcordic)/630 | Multi-function, universal, fixed-point CORDIC |
+| 8 | 5 | 0 | Unknown | [lzw_verilog](https://github.com/arshadri/lzw_verilog)/631 | LZW Compressoion algorithm in verilog |
+| 8 | 7 | 1 | Unknown | [OLED_on_ZedBoard](https://github.com/faab64/OLED_on_ZedBoard)/632 | OLED test code from Digilink modified to work on the Zedboard |
+| 8 | 5 | 0 | Unknown | [FPGA-shared-mem](https://github.com/FelixWinterstein/FPGA-shared-mem)/633 | Exploring Shared Virtual Memory Abstractions in OpenCL Tools for FPGAs |
+| 8 | 10 | 0 | Unknown | [AX7020](https://github.com/alinxalinx/AX7020)/634 | None |
+| 8 | 0 | 0 | Unknown | [VHDLMatrixMultiplier](https://github.com/federicorossifr/VHDLMatrixMultiplier)/635 | VHDL implementation for a Matrix Multiplier |
+| 8 | 1 | 0 | Unknown | [XNOR-net-Binary-connect](https://github.com/prateek22sri/XNOR-net-Binary-connect)/636 | A hardware implementation of a feed-forward Convolutional Neural Network called XNOR-Net which has faster execution due to the replacement of vector-matrix multiplication to “XNOR + Popcount” operation  |
+| 8 | 6 | 0 | Unknown | [AD9361_TX_GMSK](https://github.com/Grootzz/AD9361_TX_GMSK)/637 | A project demonstrate how to config ad9361 to TX mode and how to transmit GMSK |
+| 8 | 8 | 1 | 1 year, 6 days ago | [capi2-bsp](https://github.com/open-power/capi2-bsp)/638 | CAPI 2.0 Board Support Package |
+| 8 | 8 | 0 | 10 years ago | [udp_ip__core](https://github.com/freecores/udp_ip__core)/639 | UDP/IP Core |
+| 8 | 12 | 0 | a month ago | [realtimeEMTP](https://github.com/dickler/realtimeEMTP)/640 | FPGA and CPU-Based power system's simulator |
+| 8 | 2 | 1 | Unknown | [gpib](https://github.com/brouhaha/gpib)/641 | IEEE-488 (GP-IB, HP-IB) synthesizable core in VHDL |
+| 7 | 0 | 0 | Unknown | [Brainfuck-Processor](https://github.com/konne88/Brainfuck-Processor)/642 | A simple brainfuck processor implemented in VHDL. |
+| 7 | 5 | 0 | Unknown | [ofdm](https://github.com/freecores/ofdm)/643 | OFDM modem |
+| 7 | 2 | 0 | Unknown | [NexysPsram](https://github.com/andrewsil1/NexysPsram)/644 | AXI PSRAM Controller IP for use with Digilent Nexys 4 |
+| 7 | 4 | 0 | Unknown | [vhdl](https://github.com/texane/vhdl)/645 | vhdl related contents |
+| 7 | 4 | 0 | Unknown | [Circuitos_Reconfiguraveis](https://github.com/DanielMunozArboleda/Circuitos_Reconfiguraveis)/646 | Repositório da disciplina de Projeto com Circuitos Reconfiguráveis do curso de Engenharia Eletrônica da Faculdade UnB Gama. | Repository for the discipline  Reconfigurable Circuits Design at the Electronics Engineering course at Faculty of Gama, UnB. |
+| 7 | 1 | 0 | Unknown | [Amiga600GALFirmware](https://github.com/fdivitto/Amiga600GALFirmware)/647 | Amiga 600 with Gayle 1: VHDL implementation of PAL16L8B (XU1) with Lattice GAL16V8 |
+| 7 | 1 | 0 | 2 years ago | [I2S_sender](https://github.com/dwjbosman/I2S_sender)/648 | VHDL I2S transmitter |
+| 7 | 0 | 0 | 1 year, 7 months ago | [DIYPOV](https://github.com/im-pro-at/DIYPOV)/649 |  One POV Display to rule them all! |
+| 7 | 1 | 1 | Unknown | [metamachine](https://github.com/losfair/metamachine)/650 | Experimental CPU with software-defined instruction set. |
+| 7 | 1 | 0 | Unknown | [USTC-tMIPS](https://github.com/suquark/USTC-tMIPS)/651 | None |
+| 7 | 0 | 0 | Unknown | [TicksPicker](https://github.com/DrSchottky/TicksPicker)/652 | Tiny VHDL  postbit length extractor |
+| 7 | 10 | 1 | Unknown | [OFDM_Synchronization](https://github.com/NeilJudson/OFDM_Synchronization)/653 | Design a new OFDM synchronization algorithm, and implement it with both Matlab and Verilog. |
+| 7 | 0 | 0 | Unknown | [adc_configurator](https://github.com/capitanov/adc_configurator)/654 | ADC configurator to 7-series Xilinx FPGA (has parameters: NCHAN, SERDES MODE, SDR/DDR, DATA WIDTH, DEPTH and so on) |
+| 7 | 12 | 0 | Unknown | [RTL-collection](https://github.com/xiamike/RTL-collection)/655 | a collection of open sourced VHDL for cryptography |
+| 7 | 1 | 0 | Unknown | [NeoVGA](https://github.com/Mikejmoffitt/NeoVGA)/656 | Old / abandoned NeoVGA VHDL source. Will not be maintained. |
+| 7 | 4 | 1 | Unknown | [digital-storage-oscilloscope](https://github.com/Gripnook/digital-storage-oscilloscope)/657 | An FPGA implementation of a digital storage oscilloscope. |
+| 7 | 5 | 0 | Unknown | [FPGA_ADC](https://github.com/digibird1/FPGA_ADC)/658 | Interface the AD9057 with a cyclone III FPGA |
+| 7 | 2 | 0 | Unknown | [FPGA_Flappy_Bird](https://github.com/lukehsiao/FPGA_Flappy_Bird)/659 | :bird: a simple hardware-implementation of the viral game "Flappy Bird" built for use on the Digilent NEXYS 2 Development Board (XC3S500E-FG320) |
+| 7 | 3 | 0 | Unknown | [Stepper-Motor-Control](https://github.com/gismo141/Stepper-Motor-Control)/660 | System on a Chip - Design for a stepper-motor-control with NIOS II/s µC on Cyclone IV/V FPGA |
+| 7 | 4 | 2 | Unknown | [ethernet_mac](https://github.com/pabennett/ethernet_mac)/661 | A VHDL implementation of an Ethernet MAC |
+| 7 | 2 | 1 | Unknown | [light8080](https://github.com/jaruiz/light8080)/662 | Synthesizable i8080-compatible CPU core. |
+| 7 | 2 | 0 | Unknown | [ADC_LCD_FPGA](https://github.com/jaspreetsingh009/ADC_LCD_FPGA)/663 | ADC & LCD Interfacing using Verilog & VHDL |
+| 7 | 1 | 0 | Unknown | [CPLD_USBHxCFloppyEmulator](https://github.com/jfdelnero/CPLD_USBHxCFloppyEmulator)/664 | CPLD USB HxC Floppy Emulator |
+| 7 | 4 | 0 | Unknown | [ece5775-final](https://github.com/shivarajagopal/ece5775-final)/665 | Voice Recognition using FPGA-Based Neural Networks |
+| 7 | 2 | 0 | Unknown | [blp](https://github.com/Martoni/blp)/666 | Blinking Led Project |
+| 7 | 5 | 5 | Unknown | [dsp-cores](https://github.com/lnls-dig/dsp-cores)/667 | Repository containing the DSP gateware cores |
+| 7 | 3 | 0 | 7 years ago | [FIX](https://github.com/sufengniu/FIX)/668 | FIX for (High Frequency Trading) HFT |
+| 7 | 0 | 0 | 4 years ago | [UART_in_VHDL](https://github.com/ttsiodras/UART_in_VHDL)/669 | My successful first experiment in VHDL - creating my own UART |
+| 7 | 0 | 2 | Unknown | [big80](https://github.com/toptensoftware/big80)/670 | FPGA Implementation of a TRS-80 Model 1 |
+| 7 | 0 | 0 | 3 years ago | [SAYEH-Cache](https://github.com/aminrashidbeigi/SAYEH-Cache)/671 | implementing SAYEH cache using VHDL |
+| 7 | 1 | 0 | Unknown | [MasterThesis](https://github.com/SpyrosMouselinos/MasterThesis)/672 | VHDL implementation of a customizable CNN |
+| 7 | 4 | 1 | Unknown | [kvm-ip-zynq](https://github.com/ssincan/kvm-ip-zynq)/673 | KVM over IP Gateway targeting Zynq-7000 SoC |
+| 7 | 0 | 1 | 2 years ago | [fpga_mpu401](https://github.com/ElectronAsh/fpga_mpu401)/674 | MPU-401 Implementation on FPGA. Based on the System68 CPU core by John E. Kent. |
+| 7 | 4 | 0 | Unknown | [reloc](https://github.com/bgottschall/reloc)/675 | Designing Relocatable FPGA Partitions with Vivado Design Suite |
+| 7 | 5 | 3 | Unknown | [Zybo-hdmi-in](https://github.com/Digilent/Zybo-hdmi-in)/676 | None |
+| 7 | 8 | 0 | Unknown | [Amstrad_MiST](https://github.com/sorgelig/Amstrad_MiST)/677 | None |
+| 7 | 4 | 0 | Unknown | [MSHR-rich](https://github.com/m-asiatici/MSHR-rich)/678 | A multi-banked non-blocking cache that handles efficiently thousands of outstanding misses, especially suited for bandwidth-bound latency-insensitive hardware accelerators with irregular memory access patterns. |
+| 7 | 5 | 0 | Unknown | [Backup-of-undergraduate-study-materials](https://github.com/JairZhu/Backup-of-undergraduate-study-materials)/679 | 本科学习资料备份 |
+| 7 | 0 | 0 | Unknown | [PIC16C6XX](https://github.com/Ernegien/PIC16C6XX)/680 | Original Xbox SMC Power Glitching Attack (WIP) |
+| 7 | 2 | 0 | 1 year, 4 months ago | [Handwritten-Digit-Recognition-Painter](https://github.com/j3soon/Handwritten-Digit-Recognition-Painter)/681 | A handwritten digit recognition painter implementation on Basys 3 Artix-7 FPGA using Verilog. |
+| 7 | 2 | 1 | 8 years ago | [gbcpu](https://github.com/jdeblese/gbcpu)/682 | A CPU and peripherals implementing the Gameboy (TM) instruction set and functionality |
+| 7 | 0 | 0 | Unknown | [MyRISC](https://github.com/bigbrett/MyRISC)/683 | VHDL implementation of a 16-bit RISC processor targeting the BASYS3 FPGA |
+| 7 | 2 | 0 | Unknown | [SNN_vhdl](https://github.com/isadorasophia/SNN_vhdl)/684 | Implementation of an Artificial Neural Network (ANN) on FPGA using VHDL |
+| 7 | 6 | 0 | Unknown | [aes-dom](https://github.com/hgrosz/aes-dom)/685 | DOM Protected Hardware Implementation of AES |
+| 7 | 1 | 0 | Unknown | [PothosFPGA](https://github.com/pothosware/PothosFPGA)/686 | Pothos FPGA computational offload and buffer integration support |
+| 7 | 6 | 0 | Unknown | [montecarlo-fpga](https://github.com/cyenko/montecarlo-fpga)/687 | Black-Scholes style options pricing using Monte Carlo methods. Written in VHDL for the Cyclone IV FPGA board. |
+| 7 | 8 | 0 | Unknown | [TE0720-GigaZee-Reference-Designs](https://github.com/Trenz-Electronic/TE0720-GigaZee-Reference-Designs)/688 | Reference Projects for TE0720 ZYNQ module |
+| 7 | 6 | 0 | Unknown | [grlib](https://github.com/trondd/grlib)/689 | None |
+| 7 | 2 | 0 | Unknown | [VGA_mem_mapped](https://github.com/delhatch/VGA_mem_mapped)/690 | Memory-mapped VGA display for Xilinx/Zynq/Zedboard, with demo code for using it. |
+| 7 | 4 | 2 | Unknown | [riffa](https://github.com/farhanrahman/riffa)/691 | RIFFA (Reusable Integration Framework for FPGA Accelerators) is a framework developed in University of California, San Diego. This project utilises the RIFFA framework to define an interface to interact with a user's IP core on the FPGA to send and receive data to and from the PC. This particular project is being developed under Imperial College London. |
 | 7 | 2 | 0 | Unknown | [GNSS-VHDL](https://github.com/danipascual/GNSS-VHDL)/692 | VHDL codes to generate GPS L1 C/A and Galileo E1OS and E5 PRNs and dataless signals. Secondary codes not included. |
 | 7 | 1 | 2 | Unknown | [S76D](https://github.com/domoritz/S76D)/693 | Singing Very High Speed Integrated Circuit Hardware Description Language Board |
 | 7 | 7 | 4 | Unknown | [aws-fpga-firesim](https://github.com/firesim/aws-fpga-firesim)/694 | AWS Shell for FireSim |
 | 7 | 2 | 0 | Unknown | [fpga_fifo](https://github.com/bradkahn/fpga_fifo)/695 | Asynchronous FIFO for FPGAs |
-| 7 | 0 | 0 | Unknown | [hw-sike](https://github.com/pmassolino/hw-sike)/696 | FPGA implementation of the Supersingular Isogeny Key Encapsulation |
-| 7 | 3 | 0 | Unknown | [single-cycle-processor](https://github.com/spencerwooo/single-cycle-processor)/697 | An implementation of the simplest single cycle processor. |
+| 7 | 3 | 0 | Unknown | [single-cycle-processor](https://github.com/spencerwooo/single-cycle-processor)/696 | An implementation of the simplest single cycle processor. |
+| 7 | 0 | 0 | Unknown | [hw-sike](https://github.com/pmassolino/hw-sike)/697 | FPGA implementation of the Supersingular Isogeny Key Encapsulation |
 | 7 | 0 | 0 | Unknown | [2021_CQU_NSCSCC](https://github.com/wang-sy/2021_CQU_NSCSCC)/698 | 2021_CQU_NSCSCC_RTL_CODE |
 | 7 | 1 | 5 | Unknown | [ProjectZ](https://github.com/AasthaGupta/ProjectZ)/699 | Attempt to implement MultiLayer Perceptron in hardware descriptive language like VHDL. |
 | 7 | 1 | 0 | Unknown | [Zybo-Linux](https://github.com/Kampi/Zybo-Linux)/700 | A complete Linux project for the ZYBO. This project helps me during my first steps with embedded Linux. You can find anything necessary to run your own embedded Linux on your ZYBO here. |
@@ -707,297 +707,297 @@
 | 7 | 4 | 0 | 1 year, 8 months ago | [Nexys-A7-100T-OOB](https://github.com/Digilent/Nexys-A7-100T-OOB)/704 | None |
 | 7 | 3 | 3 | 4 months ago | [SharpMZ_MiSTer](https://github.com/MiSTer-devel/SharpMZ_MiSTer)/705 | Sharp MZ Series Personal/Business Computer Emulator for FPGA |
 | 7 | 3 | 0 | 1 year, 6 months ago | [VHDL-CPU](https://github.com/murilodepa/VHDL-CPU)/706 | Simple CPU written in VHDL. |
-| 7 | 1 | 0 | 1 year, 6 months ago | [LSTM_FPGA](https://github.com/mahi97/LSTM_FPGA)/707 | ~ Implementation of LSTM ANN in FPGA with VHDL |
+| 7 | 1 | 0 | 1 year, 7 months ago | [LSTM_FPGA](https://github.com/mahi97/LSTM_FPGA)/707 | ~ Implementation of LSTM ANN in FPGA with VHDL |
 | 7 | 4 | 0 | a month ago | [CrowdSupplyWorkShop1](https://github.com/ATaylorCEngFIET/CrowdSupplyWorkShop1)/708 | None |
 | 7 | 1 | 0 | 5 years ago | [scanline-stereo-vision-FPGA](https://github.com/euler2dot7/scanline-stereo-vision-FPGA)/709 | Implementazione VHDL dell’algoritmo Scanline |
 | 7 | 5 | 2 | 5 years ago | [purisc](https://github.com/purisc-group/purisc)/710 | Pipelined Ultimate Reduced Instruction Set Computer |
 | 7 | 0 | 0 | 3 years ago | [patmos_HLS](https://github.com/A-T-Kristensen/patmos_HLS)/711 | Hardware Accelerators (HwAs) constructed in Vivado HLS |
 | 7 | 2 | 0 | 3 years ago | [Bitmap-VHDL-Package](https://github.com/mr-kenhoff/Bitmap-VHDL-Package)/712 | A vhdl package for reading and writing bitmap files. |
-| 7 | 8 | 0 | 7 years ago | [fpga](https://github.com/HighlandersFRC/fpga)/713 | This repository holds all the projects and docs relating to our work with the Xilinx Zynq 7000 series FPGAs. |
-| 7 | 2 | 0 | 3 years ago | [GNSS-VHDL](https://github.com/ganlubbq/GNSS-VHDL)/714 | GNSS codes and signal generation for VHDL. GPS (L1 C/A, L5), Galileo (E1OS, E5). Includes Xilinx ISE testbench and wave configuration files. |
-| 7 | 0 | 0 | 1 year, 2 months ago | [Basic-Computer-design](https://github.com/Pooryamn/Basic-Computer-design)/715 | A Computer description using VHDL and ModelSim software |
-| 7 | 1 | 0 | 3 years ago | [iir-audio-filter-fpga](https://github.com/gabrielebaris/iir-audio-filter-fpga)/716 | Academic project for the course of Digital Systems Design. The aim of the project was to design and implement an IIR audio filter on FPGA |
-| 7 | 5 | 0 | 6 years ago | [SDRAM-and-FIFO-for-DE1-SoC](https://github.com/AntonZero/SDRAM-and-FIFO-for-DE1-SoC)/717 | tutorial |
-| 7 | 0 | 0 | 5 years ago | [65816_Interface_System](https://github.com/tropical-peach/65816_Interface_System)/718 | Soft Core of 65816 in VHDL |
-| 7 | 1 | 0 | 8 years ago | [Mandelbrot-VHDL](https://github.com/imr/Mandelbrot-VHDL)/719 | Mandelbrot Set in VHDL targetting the Cyclone IVE found on a DE2-115 board. |
-| 7 | 1 | 0 | 5 years ago | [MT32_Rand_Gen](https://github.com/ikwzm/MT32_Rand_Gen)/720 | Mersenne Twister Pseudo Random Number Generator written in VHDL(RTL) for FPGA(Xilinx and Altera). |
-| 7 | 2 | 0 | 4 years ago | [FPGADisplay-ipcore](https://github.com/zxcmehran/FPGADisplay-ipcore)/721 | FPGA VGA Display Handler - IP Core Repository |
-| 7 | 1 | 1 | 4 months ago | [vhlib](https://github.com/abs-tudelft/vhlib)/722 | Package of miscellaneous VHDL libraries |
-| 7 | 5 | 0 | 1 year, 3 months ago | [UVVM_Community_VIPs](https://github.com/UVVM/UVVM_Community_VIPs)/723 | Repository for the UVVM community to share VIPs.      Community forum: https://forum.uvvm.org/    UVVM.org: https://uvvm.org/ |
-| 7 | 2 | 0 | 8 months ago | [RISCV-32I](https://github.com/NikosDelijohn/RISCV-32I)/724 | RISC V 32 bit Base ISA Implementation.  |
-| 7 | 1 | 0 | 3 years ago | [Mandelbrot-Explorer](https://github.com/elkayem/Mandelbrot-Explorer)/725 | An FPGA-based Mandelbrot Set explorer using the Papilio Duo board from Gadget Factory. |
-| 7 | 11 | 2 | a month ago | [Arcade-BombJack_MiSTer](https://github.com/MiSTer-devel/Arcade-BombJack_MiSTer)/726 | Arcade: Bomb Jack for MiSTer |
+| 7 | 0 | 0 | 2 months ago | [hitsz-eie-codes](https://github.com/bugstep/hitsz-eie-codes)/713 | 哈工大深圳 电信学院 通信工程 部分实验课程代码仓库 |
+| 7 | 8 | 0 | 7 years ago | [fpga](https://github.com/HighlandersFRC/fpga)/714 | This repository holds all the projects and docs relating to our work with the Xilinx Zynq 7000 series FPGAs. |
+| 7 | 2 | 0 | 3 years ago | [GNSS-VHDL](https://github.com/ganlubbq/GNSS-VHDL)/715 | GNSS codes and signal generation for VHDL. GPS (L1 C/A, L5), Galileo (E1OS, E5). Includes Xilinx ISE testbench and wave configuration files. |
+| 7 | 0 | 0 | 1 year, 3 months ago | [Basic-Computer-design](https://github.com/Pooryamn/Basic-Computer-design)/716 | A Computer description using VHDL and ModelSim software |
+| 7 | 1 | 0 | 3 years ago | [iir-audio-filter-fpga](https://github.com/gabrielebaris/iir-audio-filter-fpga)/717 | Academic project for the course of Digital Systems Design. The aim of the project was to design and implement an IIR audio filter on FPGA |
+| 7 | 5 | 0 | 6 years ago | [SDRAM-and-FIFO-for-DE1-SoC](https://github.com/AntonZero/SDRAM-and-FIFO-for-DE1-SoC)/718 | tutorial |
+| 7 | 0 | 0 | 5 years ago | [65816_Interface_System](https://github.com/tropical-peach/65816_Interface_System)/719 | Soft Core of 65816 in VHDL |
+| 7 | 1 | 0 | 8 years ago | [Mandelbrot-VHDL](https://github.com/imr/Mandelbrot-VHDL)/720 | Mandelbrot Set in VHDL targetting the Cyclone IVE found on a DE2-115 board. |
+| 7 | 1 | 0 | 5 years ago | [MT32_Rand_Gen](https://github.com/ikwzm/MT32_Rand_Gen)/721 | Mersenne Twister Pseudo Random Number Generator written in VHDL(RTL) for FPGA(Xilinx and Altera). |
+| 7 | 2 | 0 | 4 years ago | [FPGADisplay-ipcore](https://github.com/zxcmehran/FPGADisplay-ipcore)/722 | FPGA VGA Display Handler - IP Core Repository |
+| 7 | 1 | 1 | 4 months ago | [vhlib](https://github.com/abs-tudelft/vhlib)/723 | Package of miscellaneous VHDL libraries |
+| 7 | 6 | 0 | 1 year, 4 months ago | [UVVM_Community_VIPs](https://github.com/UVVM/UVVM_Community_VIPs)/724 | Repository for the UVVM community to share VIPs.      Community forum: https://forum.uvvm.org/    UVVM.org: https://uvvm.org/ |
+| 7 | 2 | 0 | 8 months ago | [RISCV-32I](https://github.com/NikosDelijohn/RISCV-32I)/725 | RISC V 32 bit Base ISA Implementation.  |
+| 7 | 11 | 2 | 2 months ago | [Arcade-BombJack_MiSTer](https://github.com/MiSTer-devel/Arcade-BombJack_MiSTer)/726 | Arcade: Bomb Jack for MiSTer |
 | 7 | 2 | 0 | 2 years ago | [snickerdoodle-hls-data-mover](https://github.com/krtkl/snickerdoodle-hls-data-mover)/727 | A parameterizable Vivado HLS project (C/C++) that implements a master and slave AXI-Stream to AXI-Memory-Mapped data mover (AXI-S defaults to 8 bits and AXI-MM to 64 bits) |
 | 7 | 2 | 0 | 3 years ago | [pqhw](https://github.com/mupq/pqhw)/728 | None |
-| 7 | 3 | 24 | 11 months ago | [FPGA_MNIST](https://github.com/marbleton/FPGA_MNIST)/729 | None |
-| 7 | 2 | 0 | 23 days ago | [6_semestre](https://github.com/aMurryFly/6_semestre)/730 | Repositorio de todo el material del 6° semestre de Ingeniería en Computación, Facultad de Ingeniería, UNAM |
-| 7 | 2 | 0 | 8 years ago | [bf_cpu](https://github.com/Ttl/bf_cpu)/731 | Brainfuck microprocessor |
-| 7 | 3 | 0 | 8 months ago | [Async-Click-Library](https://github.com/zuzkajelcicova/Async-Click-Library)/732 | None |
-| 6 | 28 | 3 | 5 years ago | [vhdl-exercise](https://github.com/laurivosandi/vhdl-exercise)/733 | A little exercise for VHDL newbies |
-| 6 | 2 | 0 | 4 years ago | [ECE368-Lab](https://github.com/Reiuiji/ECE368-Lab)/734 | ECE368 | Lab |
-| 6 | 2 | 0 | 3 years ago | [SHA-256-HDL](https://github.com/lostpfg/SHA-256-HDL)/735 | An implementation of original SHA-256 hash function in (RTL) VHDL |
-| 6 | 0 | 0 | 4 years ago | [ov7670_zybo](https://github.com/kkumt93/ov7670_zybo)/736 | None |
-| 6 | 3 | 1 | 1 year, 8 months ago | [mining-shell](https://github.com/allmine-pub/mining-shell)/737 | Development shell repo for creation of fpga bitstreams |
-| 6 | 2 | 0 | 1 year, 8 months ago | [efficient_checksum-offload-engine](https://github.com/hpcn-uam/efficient_checksum-offload-engine)/738 | Checksum plays a key role in the TCP/IP headers. In this repo you'll find a efficient FPGA-based solution for a 512-bit AXI4-Stream interface. |
-| 6 | 2 | 0 | 5 days ago | [VHDPlus_Libraries_and_Examples](https://github.com/leonbeier/VHDPlus_Libraries_and_Examples)/739 | This is a collection of the built in libraries of the VHDPlus IDE toghether with examples. Commits will be featured in the IDE with future updates. |
-| 6 | 1 | 0 | 11 years ago | [sdram_controller](https://github.com/freecores/sdram_controller)/740 | Scratch DDR SDRAM Controller |
-| 6 | 5 | 0 | 5 years ago | [VHDL-Emporium](https://github.com/Reiuiji/VHDL-Emporium)/741 | Collection of Various created VHDL code |
-| 6 | 7 | 2 | 5 years ago | [bluedbm_connectald](https://github.com/sangwoojun/bluedbm_connectald)/742 | BlueDBM |
-| 6 | 3 | 0 | 3 years ago | [axi_stream_master](https://github.com/chclau/axi_stream_master)/743 | Source files for AXI Stream tutorial |
-| 6 | 8 | 0 | 2 years ago | [Zybo-Z7-20-DMA](https://github.com/Digilent/Zybo-Z7-20-DMA)/744 | None |
-| 6 | 1 | 0 | 7 months ago | [pld](https://github.com/xtarke/pld)/745 | VHDL examples. IFSC lecture notes.  |
-| 6 | 0 | 0 | 2 years ago | [4Bit-Calculator](https://github.com/aryclenio/4Bit-Calculator)/746 | A bit calculator, implemented in VDHL that provides 4 bits sum, subtraction, inversion, major and minor verification. The result is shown in a 7 segment display on a FPGA board. This code was tested in Altera Quartus II. |
-| 6 | 0 | 0 | 1 year, 11 months ago | [Computer-Organization-and-Architecture-Course-Design](https://github.com/Jyxseu/Computer-Organization-and-Architecture-Course-Design)/747 | 这是东南大学信息学院本科三年级开设的计算机组织与结构课程的后续配套实验课程，包含POC设计和简单CPU设计。以下是我与小组完成的POC与CPU的设计，采用vivado2018.2的设计环境。 |
-| 6 | 2 | 0 | 5 years ago | [vhdl_TCPIP](https://github.com/craighaywood/vhdl_TCPIP)/748 | TCP IP Stack (including DHCP) implemented in VHDL |
-| 6 | 6 | 0 | 7 years ago | [MIPS-CPU-System](https://github.com/xxr3376/MIPS-CPU-System)/749 | my mips cpu design in vhdl. support vga and PS/2 keyboard |
-| 6 | 1 | 0 | 10 years ago | [usb11_phy_translation](https://github.com/freecores/usb11_phy_translation)/750 | USB 1.1  PHY  (VHDL) |
-| 6 | 2 | 0 | 1 year, 3 months ago | [MoxieLite](https://github.com/toptensoftware/MoxieLite)/751 | Lightweight VHDL implementation of a Moxie Processor |
-| 6 | 3 | 0 | 7 years ago | [Plong](https://github.com/armandas/Plong)/752 | Simple pong implementation in vhdl |
-| 6 | 6 | 0 | 4 years ago | [Rhino-Processing-Blocks](https://github.com/lekhobola/Rhino-Processing-Blocks)/753 | A library of IP cores needed for FPGA-based SDR development using RHINO board with SPARTAN-6 xc6slx150t device. |
-| 6 | 1 | 0 | 2 years ago | [blake2](https://github.com/christian-krieg/blake2)/754 | VHDL implementation of BLAKE2 cryptographic hash and message authentication code (MAC) |
-| 6 | 0 | 0 | 2 years ago | [Connect4VHDL](https://github.com/pcruiher08/Connect4VHDL)/755 | Spartan3 implementation of the popular game Connect 4 written in VHDL |
-| 6 | 4 | 0 | 10 months ago | [vercolib_pcie](https://github.com/TI-Bonn/vercolib_pcie)/756 | VHDL PCIe Transceiver |
-| 6 | 2 | 0 | 3 months ago | [PDP-11](https://github.com/Moodrammer/PDP-11)/757 | :computer: Simulation for the architecture of a processor inspired by the ideas of PDP-11 processor |
-| 6 | 0 | 0 | 6 years ago | [Cache-CPU](https://github.com/JamisHoo/Cache-CPU)/758 | MIPS32 instruction subset based processor |
-| 6 | 0 | 0 | 7 years ago | [ws2812](https://github.com/freecores/ws2812)/759 | WS2812 RGB LED string driver |
-| 6 | 6 | 0 | 5 years ago | [pre-mipsfpga](https://github.com/MIPSfpga/pre-mipsfpga)/760 | Various Verilog examples to gain knowledge and basic skills before working with MIPSfpga |
-| 6 | 2 | 0 | 5 years ago | [LED-Matrix-with-DE0-Nano-SoC-Board](https://github.com/AntonZero/LED-Matrix-with-DE0-Nano-SoC-Board)/761 | tutorial |
-| 6 | 1 | 0 | 3 years ago | [MIPS16_CPU](https://github.com/Jackey-Huo/MIPS16_CPU)/762 | cpu project for  principles of computer organization |
-| 6 | 5 | 0 | 3 years ago | [ZYBO_IoT_Vivado](https://github.com/iwatake2222/ZYBO_IoT_Vivado)/763 | This is a Vivado project to create an IoT device with ZYBO (Zynq). |
-| 6 | 0 | 0 | 2 years ago | [computer_aid_design_assignments_CAD](https://github.com/mehran75/computer_aid_design_assignments_CAD)/764 | None |
-| 6 | 1 | 0 | 1 year, 7 months ago | [riscv-fpga](https://github.com/shenyaming/riscv-fpga)/765 | Share JTAG chain within RISCV core and Xilinx FPGA. |
-| 6 | 1 | 0 | 1 year, 3 months ago | [snes_cic_fpga](https://github.com/rgalland/snes_cic_fpga)/766 | snes cic implementation with FPGA FireAnt board |
-| 6 | 1 | 0 | 9 months ago | [SABER_HW](https://github.com/sujoyetc/SABER_HW)/767 | Hardware implementation of Saber |
-| 6 | 0 | 0 | 7 years ago | [Malinki](https://github.com/32bitmicro/Malinki)/768 | Malinki - Hardware Cluster with Switch Fabric for Raspberry Pi |
-| 6 | 2 | 1 | 6 years ago | [mz80b_de0](https://github.com/NibblesLab/mz80b_de0)/769 | MZ-80B/MZ-2000 series implementation for Altera DE0 board |
-| 6 | 1 | 0 | 10 years ago | [simplifiedmipscpu](https://github.com/davidscolgan/simplifiedmipscpu)/770 | Complete working simulation of both a single-cycle and pipelined CPU.  Implements a subset of the MIPS instruction set. |
-| 6 | 3 | 0 | 4 years ago | [mips--](https://github.com/jevinskie/mips--)/771 | A dual core MIPS subset CPU written in behavioral, synthesizable VHDL |
-| 6 | 0 | 0 | 11 years ago | [backplane](https://github.com/somaproject/backplane)/772 | Soma Backplane Hardware |
-| 6 | 1 | 0 | 1 year, 20 days ago | [THCOMIPS16e](https://github.com/twd2/THCOMIPS16e)/773 | Yet Another Implementation of THCO MIPS16e |
-| 6 | 8 | 4 | 27 days ago | [PandABlocks-FPGA](https://github.com/PandABlocks/PandABlocks-FPGA)/774 | VHDL functional blocks with their simulations and test sequences |
-| 6 | 2 | 1 | 1 year, 11 months ago | [Bonfire](https://github.com/Project-Bonfire/Bonfire)/775 | A implementation of a NoC router with credit based flow control |
-| 6 | 5 | 0 | 1 year, 10 months ago | [Silicon_Peasant](https://github.com/NingHeChuan/Silicon_Peasant)/776 | None |
-| 6 | 0 | 0 | 7 months ago | [A500-EXT-CFIDE](https://github.com/EmberHeavyIndustries/A500-EXT-CFIDE)/777 | None |
-| 6 | 4 | 0 | 1 year, 3 months ago | [LPC2LCD](https://github.com/Kekule-OXC/LPC2LCD)/778 | LCD adapter for the LPC bus of the OG xbox |
-| 6 | 2 | 5 | 2 months ago | [pocket-cnn](https://github.com/marph91/pocket-cnn)/779 | CNN-to-FPGA-framework for small CNN, written in VHDL and Python |
-| 6 | 0 | 0 | 3 months ago | [risc63](https://github.com/dominiksalvet/risc63)/780 | 💻 Custom 64-bit pipelined RISC processor. |
-| 6 | 3 | 0 | 6 years ago | [CPME48](https://github.com/DeathKing/CPME48)/781 | Why CP-YOU? Let's CP-ME! 非常简单的8位CPU的VHDL实现，拥有精简的RISC式指令集。更有配套扩展指令集IR48*、汇编器DASM48、高级语言Cheme，你值得拥有。（课程作业，仅供交流，切勿抄袭！） |
-| 6 | 2 | 0 | 5 years ago | [hdmi2usb_designs](https://github.com/hamsternz/hdmi2usb_designs)/782 | Various HDL designs for the Numato Labs/Timvideos HDMI2USB FPGA board |
-| 6 | 6 | 0 | 1 year, 3 months ago | [SDAccel](https://github.com/zakinder/SDAccel)/783 | SDAccel: Architecture to enable CPU/GPU developers to easily migrate their applications to FPGAs while maintaining and reusing their OpenCL, C, and C++ code in a familiar workflow.  |
-| 6 | 1 | 0 | 1 year, 1 month ago | [canopen-vhdl](https://github.com/bggardner/canopen-vhdl)/784 | A lightweight CANopen controller in VHDL |
-| 6 | 2 | 0 | 4 months ago | [theremin](https://github.com/fpga-theremin/theremin)/785 | Open source digital FPGA based theremin project |
-| 6 | 1 | 0 | 1 year, 8 months ago | [Basys3-Pulse-Generator](https://github.com/soundjuice/Basys3-Pulse-Generator)/786 | Pulse generator on Basys 3 FPGA board |
-| 6 | 0 | 0 | 11 months ago | [VHDL-FPGA-LAB_PROJECTS](https://github.com/mcagriaksoy/VHDL-FPGA-LAB_PROJECTS)/787 | Lab Assigments, Projects for digital systems II Lecture (EEM334) |
-| 6 | 1 | 0 | 6 years ago | [FreeRTOS-Zybo](https://github.com/circuitsenses/FreeRTOS-Zybo)/788 | FreeRTOS implemented on the Digilent ZYBO Zynq 7000 |
-| 6 | 4 | 0 | 5 years ago | [minispartan6](https://github.com/ultraembedded/minispartan6)/789 | Projects for the Scarab Minispartan6+ FPGA board |
-| 6 | 1 | 2 | 3 years ago | [mz80c_de0](https://github.com/NibblesLab/mz80c_de0)/790 | MZ-80 series implementation for Altera DE0 board |
-| 6 | 1 | 0 | 9 years ago | [casper_myhdl](https://github.com/amitbansod/casper_myhdl)/791 | Development of DSP blocks found in CASPER library using MyHDL package and Python |
-| 6 | 3 | 2 | 3 years ago | [ZedBoardAudio](https://github.com/Laxer3a/ZedBoardAudio)/792 | AXI Slave Audio Component. |
-| 6 | 3 | 5 | 2 years ago | [CuckooHashingHLS](https://github.com/AakashKT/CuckooHashingHLS)/793 | HLS implementation of cuckoo hashing. Refer to paper : https://ieeexplore.ieee.org/document/7577355/ |
-| 6 | 3 | 1 | 2 years ago | [FPGA_1942](https://github.com/d18c7db/FPGA_1942)/794 | FPGA 1942 arcade game |
-| 6 | 9 | 2 | 7 days ago | [Arcade-Defender_MiSTer](https://github.com/MiSTer-devel/Arcade-Defender_MiSTer)/795 | Arcade: Defender for MiSTer |
-| 6 | 1 | 0 | 9 months ago | [vhdl-maze-solver](https://github.com/mohamin1995/vhdl-maze-solver)/796 | Cellular Automata Maze Solver Hardware Implementation |
-| 6 | 0 | 0 | 1 year, 7 months ago | [CA-AUT](https://github.com/University-Archive/CA-AUT)/797 | Computer Architecture Course @ AUT |
-| 6 | 0 | 0 | 2 months ago | [8-bit-Computer](https://github.com/oddek/8-bit-Computer)/798 | Implementation of an 8-bit computer in VHDL, along with a minimal assembler |
-| 6 | 3 | 0 | 10 years ago | [VHDL-Snake-Game](https://github.com/freaktm/VHDL-Snake-Game)/799 | A simple snake game in vhdl - designed for the Spartan-3 Starter Board (work in progress) |
-| 6 | 4 | 2 | 4 years ago | [C64_MIST](https://github.com/sorgelig/C64_MIST)/800 | None |
-| 6 | 4 | 2 | 4 years ago | [C64_MIST](https://github.com/sorgelig/C64_MIST)/801 | None |
-| 6 | 0 | 0 | 10 months ago | [VHDL-LAB](https://github.com/AdeboyeOyeniyi/VHDL-LAB)/802 | Some basic electronic structures implemented in VHDL |
-| 6 | 0 | 0 | 1 year, 8 months ago | [SoC-Nios](https://github.com/ihabadly/SoC-Nios)/803 | Building an example System on Chip (SoC) using Nios II processor. |
-| 6 | 3 | 1 | 5 months ago | [CoreAmstrad](https://github.com/renaudhelias/CoreAmstrad)/804 | CoreAmstrad source code, a physical clone of Amstrad from JavaCPC Markus's emulator, currently running on a final FPGA end-user platform : MiST-board. |
-| 6 | 3 | 0 | 7 years ago | [Vampire600](https://github.com/robinsonb5/Vampire600)/805 | Core for the Vampire 600 Amiga accelerator project |
-| 6 | 4 | 0 | 7 years ago | [busblaster_v4](https://github.com/dergraaf/busblaster_v4)/806 | CPLD designs for the BusBlaster v4 from Dangerous Prototypes |
-| 6 | 3 | 2 | 1 year, 9 months ago | [fast-p2a](https://github.com/Mythir/fast-p2a)/807 | None |
-| 6 | 1 | 0 | 2 years ago | [Restoring-Divider](https://github.com/Hardware-Lab/Restoring-Divider)/808 | Implementation of restoring division algorithm with VHDL. |
-| 6 | 2 | 0 | 3 months ago | [apple2fpga](https://github.com/emard/apple2fpga)/809 | port of Stephen A. Edwards apple2fpga to ULX3S |
-| 6 | 0 | 0 | 4 years ago | [ipxact](https://github.com/tudortimi/ipxact)/810 | IP-XACT XML binding library |
-| 6 | 1 | 0 | 7 years ago | [VHDL-School](https://github.com/armandas/VHDL-School)/811 | My VHDL sources |
-| 6 | 1 | 0 | 4 years ago | [Template-Matching-FPGA](https://github.com/ralbertazzi/Template-Matching-FPGA)/812 | None |
-| 6 | 11 | 1 | a month ago | [Arcade-Xevious_MiSTer](https://github.com/MiSTer-devel/Arcade-Xevious_MiSTer)/813 | Arcade: Xevious for MiSTer |
-| 6 | 1 | 0 | 2 years ago | [DDS](https://github.com/spr02/DDS)/814 | A DDS core written in VHDL. |
-| 6 | 6 | 0 | 3 months ago | [mrf-openevr](https://github.com/jpietari/mrf-openevr)/815 | Open source Event Receiver implementation |
-| 6 | 1 | 0 | 3 months ago | [spu-mark-ii](https://github.com/MasterQ32/spu-mark-ii)/816 | CPU and home computer project |
-| 6 | 2 | 3 | 2 months ago | [stdcores](https://github.com/rftafas/stdcores)/817 | Standard and Curated cores, tested and working. |
-| 6 | 1 | 0 | 9 months ago | [Binocular-Stereo-Vision-PYNQ](https://github.com/marshmallow911/Binocular-Stereo-Vision-PYNQ)/818 | None |
-| 6 | 15 | 0 | 5 years ago | [xapp1026](https://github.com/tmatsuya/xapp1026)/819 | LightWeight IP Application Examples for Xilinx FPGA |
-| 6 | 1 | 0 | 4 years ago | [ftdi-async-fifo](https://github.com/rohitk-singh/ftdi-async-fifo)/820 | FTDI FT2232H Asynchronous FIFO communication with FPGA over USB |
-| 6 | 3 | 0 | 3 years ago | [Scalable-Bilateral-Filtering-on-FPGA](https://github.com/swapnildabhade/Scalable-Bilateral-Filtering-on-FPGA)/821 | VHDL implimentation of A Reconfigurable and Scalable FPGA Architecture for Bilateral Filtering. |
-| 6 | 7 | 0 | 3 years ago | [multicore-architecture](https://github.com/kevinsala/multicore-architecture)/822 | Simple multicore processor implemented in VHDL |
-| 6 | 1 | 0 | 4 years ago | [1802-pico-basic](https://github.com/Steve-Teal/1802-pico-basic)/823 | VHDL 1802 Core with TinyBASIC for the Lattice MachXO2 Pico board |
-| 6 | 14 | 1 | 1 year, 25 days ago | [KC705-AD9371](https://github.com/coralhu123/KC705-AD9371)/824 | The implementation of AD9371 on KC705 |
-| 6 | 16 | 2 | 3 years ago | [NexysVideo](https://github.com/Digilent/NexysVideo)/825 | None |
-| 6 | 0 | 0 | 8 years ago | [vhdl-svf](https://github.com/hansiglaser/vhdl-svf)/826 | SVF (Serial Vector Format) interpreter to control a JTAG TAP |
-| 6 | 0 | 0 | 5 years ago | [SysAlloc](https://github.com/Hilx/SysAlloc)/827 | SysAlloc, a FPGA implemented hardware memory allocator for heterogeneous systems. |
-| 6 | 1 | 0 | 2 years ago | [Architecture-of-CPU-projects](https://github.com/MaorAssayag/Architecture-of-CPU-projects)/828 | VHDL , ModelSIM, Quartus, FPGA, Image Processing |
-| 6 | 12 | 1 | 1 year, 3 months ago | [sysdesign](https://github.com/luojike/sysdesign)/829 | Code base for computer system design |
-| 6 | 2 | 0 | 1 year, 2 months ago | [Verilog_Module](https://github.com/WayneGong/Verilog_Module)/830 | 常用Verilog模块 |
-| 6 | 0 | 0 | 4 months ago | [MicroCodeCompiler](https://github.com/zpekic/MicroCodeCompiler)/831 | Initial publish |
-| 6 | 2 | 0 | 22 days ago | [UVVM_Light](https://github.com/UVVM/UVVM_Light)/832 | This repository is a subset of UVVM with Utility library and BFMs, and is intended as a UVVM starting platform for thos who only need the Utility Library and BFMs.    Community forum: https://forum.uvvm.org/    UVVM.org: https://uvvm.org/ |
-| 6 | 4 | 0 | 7 years ago | [THCO-MIPS-CPU](https://github.com/Piasy/THCO-MIPS-CPU)/833 | Computer Organization course project:THCO-MIPS CPU |
-| 6 | 1 | 0 | 3 years ago | [PWM-in-VHDL](https://github.com/kiranjose/PWM-in-VHDL)/834 | PWM in VHDL |
-| 6 | 4 | 0 | 4 years ago | [zybo-examples](https://github.com/coldnew/zybo-examples)/835 | A series of examples on zybo board for my blog tutorials. |
-| 6 | 3 | 0 | 4 years ago | [VGA_example](https://github.com/andrewandrepowell/VGA_example)/836 | This repository contains a Vivado 2015.3 Project that runs an example application for the VGA_1.0 IP core. Althrough the core had originally been created for the Avnet Zedboard, this example was created for the Digilent Zybo. |
-| 6 | 2 | 0 | 2 years ago | [My_Design](https://github.com/gehujun/My_Design)/837 | 带有tlb的五级流水CPU |
-| 6 | 6 | 0 | 5 years ago | [Papilio-Schematic-Library](https://github.com/GadgetFactory/Papilio-Schematic-Library)/838 | A library of Soft Processors and peripherals that can be used with Webpack schematic editor to build a custom SOC for the Papilio |
-| 6 | 0 | 0 | 3 years ago | [vhdl-snake](https://github.com/xtrinch/vhdl-snake)/839 | Snake game with PS2 and VGA drivers written in VHDL for the Nexys 2 development board |
-| 6 | 2 | 0 | 2 years ago | [FPGA_Harris_Corner](https://github.com/chaotaklon/FPGA_Harris_Corner)/840 | An efficient FPGA implementation of the Harris Corner feature detector |
-| 6 | 1 | 0 | 3 months ago | [rv16poc](https://github.com/AntonMause/rv16poc)/841 | 16 bit RISC-V proof of concept |
-| 6 | 1 | 0 | 10 months ago | [CQU_Computer_Organization](https://github.com/barryZZJ/CQU_Computer_Organization)/842 | 重庆大学计组实验vivado工程文件+项目汇编语言 |
-| 6 | 0 | 0 | 7 years ago | [PapilioPro-AnimatedShapes](https://github.com/kosak/PapilioPro-AnimatedShapes)/843 | Driving the VGA protocol, displaying some animated shapes on an FPGA |
-| 6 | 1 | 0 | 11 years ago | [AX8](https://github.com/G33KatWork/AX8)/844 | The AVR softcore from opencores.org with a makefile and some useable demo code |
-| 6 | 1 | 0 | 2 years ago | [vhdl_tarning](https://github.com/mehdisavari/vhdl_tarning)/845 | VHDL Source Code |
-| 6 | 0 | 4 | 1 year, 7 months ago | [fpga_lib](https://github.com/INTI-CMNB-FPGA/fpga_lib)/846 | Library of utilities such as cores, procedures and functions, commonly shared between FPGA projects. |
-| 6 | 0 | 0 | 5 years ago | [2D-Image-Filtering-on-FPGA](https://github.com/fujy/2D-Image-Filtering-on-FPGA)/847 | None |
-| 6 | 2 | 0 | 3 years ago | [POV](https://github.com/im-pro-at/POV)/848 | 131*131*12bit 16FPS POV Display |
-| 6 | 4 | 0 | a month ago | [psi_fix](https://github.com/paulscherrerinstitute/psi_fix)/849 | Fixed-point library with bittrue implementations in VHDL (for FPGA) and python (for simulation) |
-| 6 | 0 | 0 | 3 months ago | [icestick-remote](https://github.com/marph91/icestick-remote)/850 | Remote control in VHDL, which fits on a Lattice icestick. |
-| 6 | 0 | 0 | 9 months ago | [multi-TB-progetto-Reti-PoliMi](https://github.com/Mark-Zampedroni/multi-TB-progetto-Reti-PoliMi)/851 | Test bench di test automatico per la prova finale del corso di Reti Logiche al Politecnico di Milano, anno 2019/2020. |
-| 6 | 10 | 8 | 16 days ago | [Arcade-IremM62_MiSTer](https://github.com/MiSTer-devel/Arcade-IremM62_MiSTer)/852 | Irem62 from pace, and mist including Lode Runner, etc |
-| 6 | 3 | 0 | 5 years ago | [hdmi-audio](https://github.com/fintros/hdmi-audio)/853 | HDMI Audio/Video signal generation for HW emulators of retro comuters |
-| 6 | 2 | 1 | 2 days ago | [b01lers-library](https://github.com/b01lers/b01lers-library)/854 | None |
-| 6 | 2 | 0 | 2 years ago | [ustogo-lsi](https://github.com/ibrahimaya/ustogo-lsi)/855 | The repository includes two main directories; (i) "ustogo": for our complete ultrasound processing pipeline (Matlab-based), and (ii) "fpgabeamformer": for the single-FPGA 3D/2D ultrasound digital imager;  hardware side (Vivado designs) and software side (Xilinx SDK applications + visual studio GUI). |
-| 6 | 5 | 0 | 5 years ago | [xilinx-zynq-zc702-linuxapplication](https://github.com/JunghoYoo/xilinx-zynq-zc702-linuxapplication)/856 | Linux application and Device driver porting on Xilinx Zynq ZC702 board |
-| 6 | 1 | 3 | 1 year, 10 months ago | [Music5000](https://github.com/hoglet67/Music5000)/857 | FPGA implementation of the 1980's "Music 5000" wavetable synthesiser |
-| 6 | 1 | 0 | 2 years ago | [kalman_mppt](https://github.com/diecaptain/kalman_mppt)/858 | mppt algorithm using kalman filter in VHDL |
-| 6 | 1 | 0 | 3 years ago | [ip_cores](https://github.com/Bucknalla/ip_cores)/859 | Verilog IP Cores & Tests |
-| 6 | 1 | 0 | 1 year, 11 months ago | [MIPS_Single_Cycle_CPU](https://github.com/jerrylususu/MIPS_Single_Cycle_CPU)/860 | MIPS Single Cycle CPU |
-| 6 | 4 | 3 | 15 days ago | [Oric_Mist_48K](https://github.com/rampa069/Oric_Mist_48K)/861 | Oric Atmos Mist core |
-| 6 | 0 | 0 | 3 months ago | [AES-128-with-an-Instruction-Set](https://github.com/wap12358/AES-128-with-an-Instruction-Set)/862 | None |
-| 6 | 0 | 0 | 10 months ago | [vhdl-experiments](https://github.com/PKazm/vhdl-experiments)/863 | All the mumbo jumbo code that is me learning VHDL. Primarily targeted for Microsemi Smartfusion2 |
-| 5 | 1 | 0 | 4 years ago | [Rotary-encoder-VHDL-design](https://github.com/Yourigh/Rotary-encoder-VHDL-design)/864 | VHDL design for rotary encoder. Can be used accessed via digital signals or AXI interface. |
-| 5 | 0 | 1 | 3 years ago | [VDHL-SD-Library](https://github.com/simon-77/VDHL-SD-Library)/865 | A VHDL-Library for reading a SD-Card with a FPGA in a small test project |
-| 5 | 23 | 0 | 1 year, 3 months ago | [cpudesign](https://github.com/luojike/cpudesign)/866 | CPU设计的代码站 |
-| 5 | 1 | 6 | 2 years ago | [OS2018spring-projects-g05](https://github.com/oscourse-tsinghua/OS2018spring-projects-g05)/867 | Dual-core MIPS CPU SoC |
-| 5 | 0 | 0 | 1 year, 8 months ago | [Grain-128AEAD-VHDL](https://github.com/Noxet/Grain-128AEAD-VHDL)/868 | The VHDL reference implementation along with optimized versions of the stream cipher Grain-128AEAD |
-| 5 | 0 | 0 | a month ago | [GettingStarted_Examples](https://github.com/Accelize/GettingStarted_Examples)/869 | This repository contains a collection of reference designs and software application to get starter with Accelize Distribution Platform |
-| 5 | 9 | 0 | 1 year, 5 months ago | [fpga_cyclone4](https://github.com/alientek-fpga/fpga_cyclone4)/870 | 正点原子开拓者&新起点FPGA开发板例程 |
-| 5 | 0 | 1 | 23 days ago | [t80](https://github.com/EisernSchild/t80)/871 | Configurable cpu core that supports Z80, 8080 and gameboy instruction sets. |
-| 5 | 6 | 1 | 30 days ago | [Oric_MiSTer](https://github.com/MiSTer-devel/Oric_MiSTer)/872 | Oric-1 and Oric Atmos for MiSTer |
-| 5 | 5 | 5 | 21 days ago | [Arcade-MarioBros_MiSTer](https://github.com/MiSTer-devel/Arcade-MarioBros_MiSTer)/873 | Mario Bros arcade core for MiSTer |
-| 5 | 2 | 0 | 6 years ago | [fpu](https://github.com/is-cpuex2014-5/fpu)/874 | FPU written in VHDL |
-| 5 | 0 | 0 | 3 years ago | [Arty_s7_example](https://github.com/ATaylorCEngFIET/Arty_s7_example)/875 | Arty S7 Example with Pmods and MTDS |
-| 5 | 4 | 0 | 2 years ago | [PYNQ-Z2project](https://github.com/Mculover666/PYNQ-Z2project)/876 | PYNQ-Z2工程 |
-| 5 | 2 | 0 | 1 year, 5 months ago | [rmii-firewall-fpga](https://github.com/jakubcabal/rmii-firewall-fpga)/877 | RMII Firewall FPGA |
-| 5 | 0 | 0 | 5 days ago | [SGen](https://github.com/fserre/SGen)/878 | SGen is a generator capable of producing efficient hardware designs operating on streaming datasets. “Streaming” means that the dataset is divided into several chunks that are processed during several cycles, thus allowing a reduced use of resources. The size of these chunks is referred as the streaming width. It outputs a Verilog file that can be used for FPGAs. |
-| 5 | 0 | 0 | 2 years ago | [InfraRed-LED-Controller](https://github.com/rj-jesus/InfraRed-LED-Controller)/879 | InfraRed decoder written in VHDL + Pulse width modulation on Green LEDs |
-| 5 | 7 | 0 | 1 year, 19 days ago | [WallTree](https://github.com/gagan405/WallTree)/880 | A VHDL code generator for wallace tree multiplier |
-| 5 | 1 | 0 | 6 years ago | [UART](https://github.com/AntonZero/UART)/881 | UEART Project for DE1 Board |
-| 5 | 3 | 0 | 1 year, 4 months ago | [SBA-Library](https://github.com/mriscoc/SBA-Library)/882 | SBA IP Cores  http://sba.accesus.com |
-| 5 | 3 | 0 | Unknown | [vhdl-examples](https://github.com/khaledhassan/vhdl-examples)/883 | VHDL example code |
-| 5 | 3 | 0 | Unknown | [fpga-colossus](https://github.com/bennorth/fpga-colossus)/884 | Implementation of part of the World-War-II code-breaking machine 'Colossus' on an FPGA |
-| 5 | 1 | 0 | Unknown | [RSA_Security_Token](https://github.com/GustaMagik/RSA_Security_Token)/885 | A Security token system for (two-factor) authentication to Linux / Unix using an FPGA and a PAM-module. Either A: 72-bit or B: 512-bit RSA. Version A is air-gapped. Version B uses USB UART. BSD-3 licensed. |
-| 5 | 1 | 0 | Unknown | [CADSD-homeworks](https://github.com/aminrashidbeigi/CADSD-homeworks)/886 | Solutions of Computer Aided Digital System Design (FPGA) Course Homeworks |
-| 5 | 3 | 0 | Unknown | [PongGameVHDL](https://github.com/efeacer/PongGameVHDL)/887 | Here is the code of my digital design term project, which is an implementation of the classic arcade game Pong in VGA using basys3 board. The game is implemented using VHDL hardware description language. You can find a video description from the link: https://www.youtube.com/watch?v=LqOlgilpCYc&t=36s |
-| 5 | 0 | 0 | Unknown | [unicamp](https://github.com/seijihirao/unicamp)/888 | My unicamp experience |
-| 5 | 1 | 0 | Unknown | [FPGA-Acceleration-of-Canny-Edge-Detection-Algorithm](https://github.com/deepaktabraham/FPGA-Acceleration-of-Canny-Edge-Detection-Algorithm)/889 | HW and SW based implementation of Canny Edge Detection Algorithm. |
-| 5 | 2 | 0 | Unknown | [mips-computer](https://github.com/joker-xii/mips-computer)/890 | A simple computer based on the design in "Digital Design and Computer Architecture - 2nd Edition" |
-| 5 | 1 | 0 | Unknown | [VCU1525_HLS_acceleration_framework](https://github.com/SanjayRai/VCU1525_HLS_acceleration_framework)/891 | VCU1525_HLS_acceleration_framework  |
-| 5 | 0 | 0 | Unknown | [USTC_CS_digital_labs](https://github.com/yuxguo/USTC_CS_digital_labs)/892 | Verilog code of Digital circuit lab in 2018 Fall |
-| 5 | 3 | 0 | Unknown | [firmware-ethernet](https://github.com/PsiStarPsi/firmware-ethernet)/893 | Firmware modules and packages for implementing Ethernet control and data acquisition interfaces on Xilinx FPGAs. |
-| 5 | 0 | 0 | Unknown | [fpgaSynths](https://github.com/LOGre/fpgaSynths)/894 | Making oldskool music with FPGA VHDL soundchips core and the ZPUino SoC |
-| 5 | 2 | 2 | Unknown | [h264](https://github.com/hdhzero/h264)/895 | motion estimation in VHDL |
-| 5 | 5 | 0 | Unknown | [1553-Firmware](https://github.com/phillipjohnston/1553-Firmware)/896 | Contains VHDL implementing an 8085, Holt HI-6130 1553 IC, and Memory.  Also includes firmware used to demo the system. |
-| 5 | 0 | 0 | Unknown | [t80](https://github.com/lipro/t80)/897 | The T80 (VHDL) synthesizable soft core of Zilog Z80 (forked from http://opencores.org/project,t80) |
-| 5 | 2 | 0 | Unknown | [afu-walkthrough](https://github.com/ibm-capi/afu-walkthrough)/898 |  Simple overview of the PSL-AFU Interface for CAPI |
-| 5 | 1 | 0 | Unknown | [IPDBG](https://github.com/IPDBG/IPDBG)/899 | IPDBG |
-| 5 | 0 | 0 | Unknown | [vhdl-aes-gcm](https://github.com/parrisha/vhdl-aes-gcm)/900 | VHDL implementation of GCM mode of AES |
-| 5 | 0 | 0 | 3 years ago | [SAYEH](https://github.com/1997alireza/SAYEH)/901 | SAYEH (Simple Architecture, Yet Enough Hardware) Basic Computer |
-| 5 | 2 | 0 | 4 years ago | [afu-walkthrough](https://github.com/ibm-capi/afu-walkthrough)/902 |  Simple overview of the PSL-AFU Interface for CAPI |
-| 5 | 0 | 0 | 2 years ago | [Arty-Z7-20-OOB](https://github.com/Digilent/Arty-Z7-20-OOB)/903 | None |
-| 5 | 4 | 0 | 2 years ago | [AX7103](https://github.com/alinxalinx/AX7103)/904 | None |
-| 5 | 1 | 0 | 1 year, 1 month ago | [super-reu](https://github.com/zeldin/super-reu)/905 | An advanced FPGA-based ram expansion module for C64/C128 |
-| 5 | 1 | 0 | 10 months ago | [erbium](https://github.com/fpgasystems/erbium)/906 | Business Rule Engine Hardware Accelerator |
-| 5 | 0 | 0 | 2 months ago | [AdderNet-FPGA](https://github.com/mqhuangGit/AdderNet-FPGA)/907 | None |
-| 5 | 3 | 0 | 10 years ago | [async_8b10b_encoder_decoder](https://github.com/freecores/async_8b10b_encoder_decoder)/908 | Async 8b/10b enc/dec |
-| 5 | 7 | 0 | 5 years ago | [Zynq-Configuration-Controller](https://github.com/Architech-Silica/Zynq-Configuration-Controller)/909 | A configuration controller solution allowing a Zynq device to configure downstream FPGAs |
-| 5 | 3 | 0 | 5 years ago | [CCD_Cam](https://github.com/AntonZero/CCD_Cam)/910 | Cam interface to FPGA using ADV7180 |
-| 5 | 8 | 1 | 7 years ago | [zynq_echo_servers](https://github.com/mohamed/zynq_echo_servers)/911 | UDP and TCP echo servers using lwIP RAW API running on Xilinx Zynq Platform |
-| 5 | 5 | 0 | 7 years ago | [fpga-sdr-platform](https://github.com/JacekGreniger/fpga-sdr-platform)/912 | FPGA SDR platform: AD9963 + XC6SLX9 + CY7C68013 |
-| 5 | 1 | 0 | 6 years ago | [speccy-wxeda](https://github.com/andykarpov/speccy-wxeda)/913 | Порт конфигурации Reverse u16_speccy на плату ZrTech WXEDA |
-| 5 | 12 | 6 | 30 days ago | [Arcade-Scramble_MiSTer](https://github.com/MiSTer-devel/Arcade-Scramble_MiSTer)/914 | Arcade: Scramble for MiSTer |
-| 5 | 2 | 0 | 3 years ago | [fpga-mmu](https://github.com/argos-research/fpga-mmu)/915 | internship |
-| 5 | 1 | 0 | 4 years ago | [present-vhdl](https://github.com/huljar/present-vhdl)/916 | Implementation of the PRESENT lightweight block cipher in VHDL. |
-| 5 | 1 | 0 | 1 year, 4 months ago | [ultrasonic-sensor](https://github.com/santifs/ultrasonic-sensor)/917 | Implemented an ultrasonic sensor to measure and visualize distances on the FPGA 7-seg Display and LEDs. |
-| 5 | 3 | 0 | 9 months ago | [MSXPi2](https://github.com/costarc/MSXPi2)/918 | An attempt to improve the MSXPi |
-| 5 | 1 | 1 | 7 years ago | [Guimauve2ooo](https://github.com/Torlus/Guimauve2ooo)/919 | VGA output for Apple //c computers |
-| 5 | 2 | 0 | 5 years ago | [simon_vhdl](https://github.com/samvartaka/simon_vhdl)/920 | VHDL implementations of various architectural designs of the SIMON 64/128 block cipher |
-| 5 | 0 | 0 | 4 years ago | [ledsign](https://github.com/sgstair/ledsign)/921 | A software/hardware stack to display information on a group of LED panels |
-| 5 | 2 | 0 | 7 years ago | [LevOS](https://github.com/levex/LevOS)/922 | A hobbyist operating system. |
-| 5 | 1 | 0 | 9 years ago | [Sump_Blaze_Core](https://github.com/GadgetFactory/Sump_Blaze_Core)/923 | VHDL Sump Logic Analyzer |
-| 5 | 2 | 0 | 3 months ago | [FPGA-MIPS-based-CPU-APP-Flappy-Bird](https://github.com/Ssssseason/FPGA-MIPS-based-CPU-APP-Flappy-Bird)/924 | Project for computer organization and design course, implementing a simple popular game flappy bird in FPGA. |
-| 5 | 3 | 0 | 11 months ago | [MIPS-Processor-VHDL](https://github.com/cm4233/MIPS-Processor-VHDL)/925 | Emulation of a 32-bit MIPS processor on Artix-7 FPGA using VHDL. The emulated MIPS processor is tested by executing RC5 encryption and decryption algorithms. |
-| 5 | 4 | 1 | 3 years ago | [grlib](https://github.com/jeandet/grlib)/926 | None |
-| 5 | 1 | 0 | 3 years ago | [arm_nyuzi](https://github.com/chuan573906361/arm_nyuzi)/927 | a multi-cpu with gpgpu project running on the xilinx zynq board(zc706) |
-| 5 | 3 | 0 | 2 years ago | [donkey-kong-fpga](https://github.com/d18c7db/donkey-kong-fpga)/928 | FPGA implementation of arcade game Donkey Kong |
-| 5 | 3 | 0 | 8 months ago | [LibHSA](https://github.com/HSA-on-FPGA/LibHSA)/929 | HSA compatible dispatch infrastructure for FPGAs |
-| 5 | 0 | 0 | 1 year, 5 months ago | [Computer-aided-Design](https://github.com/parsa-abbasi/Computer-aided-Design)/930 | The implementation of some modules and basic projects of CAD in VHDL |
-| 5 | 0 | 0 | 2 years ago | [vhdl_practices](https://github.com/aliyevorkhan/vhdl_practices)/931 | None |
-| 5 | 0 | 0 | 2 years ago | [VHSIC-Hardware-Description-Language](https://github.com/aliyevorkhan/VHSIC-Hardware-Description-Language)/932 | None |
-| 5 | 1 | 0 | 2 years ago | [Pmod-NIC100](https://github.com/carljohnsen/Pmod-NIC100)/933 | VHDL implementation of the SPI interface for Pmod NIC100 https://store.digilentinc.com/pmod-nic100-network-interface-controller/ |
-| 5 | 1 | 2 | 6 months ago | [yaaes](https://github.com/marph91/yaaes)/934 | Yet Another AES implementation in hardware. |
-| 5 | 0 | 2 | 1 year, 5 months ago | [vhdl_phoenix](https://github.com/emard/vhdl_phoenix)/935 | Phoenix arcade for FPGA forked from DarFPGA |
-| 5 | 0 | 0 | 2 months ago | [CRYSTALS-Kyber](https://github.com/xingyf14/CRYSTALS-Kyber)/936 | None |
-| 5 | 2 | 0 | 11 years ago | [acqboard](https://github.com/somaproject/acqboard)/937 | Soma 8+2 Acquisition Module, hardware and software |
-| 5 | 1 | 0 | 6 years ago | [cpu](https://github.com/xsoameix/cpu)/938 | a simple cpu written by vhdl. |
-| 5 | 1 | 0 | 5 months ago | [fixed_extensions](https://github.com/nkkav/fixed_extensions)/939 | VHDL fixed-point arithmetic extensions package |
-| 5 | 1 | 0 | 5 years ago | [sparcv8-monocycle](https://github.com/cgutierr3z/sparcv8-monocycle)/940 | Procesador monociclo arquitectura SPARC V8 modelado en VHDL. |
-| 5 | 0 | 0 | 2 years ago | [vhdllib](https://github.com/sinkswim/vhdllib)/941 | My own VHDL components library.  Anything from a flip flop to an ALU. |
-| 5 | 10 | 0 | 3 years ago | [ComputerOrganizationDesign](https://github.com/SWORDfpga/ComputerOrganizationDesign)/942 | 计算机组成课程资料 |
-| 5 | 10 | 0 | a month ago | [Arcade-Phoenix_MiSTer](https://github.com/MiSTer-devel/Arcade-Phoenix_MiSTer)/943 | Arcade: Phoenix for MiSTer |
-| 5 | 3 | 0 | 1 year, 3 months ago | [Gr0estl-Miner](https://github.com/atomminer/Gr0estl-Miner)/944 | Gr0estl mining algo FPGA implementation by AtomMiner |
-| 5 | 2 | 0 | 1 year, 11 months ago | [AXI_DMA_FIFO](https://github.com/absolutezero2730/AXI_DMA_FIFO)/945 | Transfer data from DDR memory to AXI4-Stream Data FIFO and back through AXI DMA |
-| 5 | 1 | 1 | 1 year, 4 months ago | [sdram](https://github.com/dnotq/sdram)/946 | Simple fixed-cycle SDRAM Controller |
-| 5 | 2 | 0 | 5 months ago | [vunit_action](https://github.com/VUnit/vunit_action)/947 | VUnit GitHub action |
-| 5 | 2 | 0 | 5 months ago | [UCAS-CS](https://github.com/Hambaobao/UCAS-CS)/948 | Undergraduate 2017-2021 |
-| 5 | 1 | 0 | 3 months ago | [myCPU](https://github.com/wzcboy/myCPU)/949 | make a simple mips CPU |
-| 5 | 4 | 0 | 1 year, 3 months ago | [AtomGodilVideo](https://github.com/hoglet67/AtomGodilVideo)/950 | New Video Adapter for Acorn Atom implemented in a GODIL FPGA |
-| 5 | 0 | 0 | 5 years ago | [2048-DE1](https://github.com/dokson/2048-DE1)/951 | VHDL implementation of 2048 Game on Altera DE1 FPGA Board |
-| 5 | 5 | 2 | 5 years ago | [logi-mt9v034](https://github.com/jpiat/logi-mt9v034)/952 | None |
-| 5 | 4 | 0 | 8 years ago | [umn_simaudio](https://github.com/mjbrown/umn_simaudio)/953 | Univ. of MN Simultaneous Audio Recording Interface Software and Firmware |
-| 5 | 1 | 0 | 10 years ago | [frogvivor](https://github.com/funchal/frogvivor)/954 | A frogger-clone, in hardware :) for the Papilio One FPGA |
+| 7 | 3 | 24 | 1 year, 4 days ago | [FPGA_MNIST](https://github.com/marbleton/FPGA_MNIST)/729 | None |
+| 7 | 2 | 0 | 30 days ago | [6_semestre](https://github.com/aMurryFly/6_semestre)/730 | Repositorio de todo el material del 6° semestre de Ingeniería en Computación, Facultad de Ingeniería, UNAM |
+| 7 | 10 | 8 | a day ago | [Arcade-IremM62_MiSTer](https://github.com/MiSTer-devel/Arcade-IremM62_MiSTer)/731 | Irem62 from pace, and mist including Lode Runner, etc |
+| 7 | 2 | 0 | 8 years ago | [bf_cpu](https://github.com/Ttl/bf_cpu)/732 | Brainfuck microprocessor |
+| 7 | 3 | 0 | 9 months ago | [Async-Click-Library](https://github.com/zuzkajelcicova/Async-Click-Library)/733 | None |
+| 6 | 28 | 3 | 5 years ago | [vhdl-exercise](https://github.com/laurivosandi/vhdl-exercise)/734 | A little exercise for VHDL newbies |
+| 6 | 2 | 0 | 4 years ago | [ECE368-Lab](https://github.com/Reiuiji/ECE368-Lab)/735 | ECE368 | Lab |
+| 6 | 2 | 0 | 3 years ago | [SHA-256-HDL](https://github.com/lostpfg/SHA-256-HDL)/736 | An implementation of original SHA-256 hash function in (RTL) VHDL |
+| 6 | 0 | 0 | 4 years ago | [ov7670_zybo](https://github.com/kkumt93/ov7670_zybo)/737 | None |
+| 6 | 3 | 1 | 1 year, 8 months ago | [mining-shell](https://github.com/allmine-pub/mining-shell)/738 | Development shell repo for creation of fpga bitstreams |
+| 6 | 2 | 0 | 1 year, 8 months ago | [efficient_checksum-offload-engine](https://github.com/hpcn-uam/efficient_checksum-offload-engine)/739 | Checksum plays a key role in the TCP/IP headers. In this repo you'll find a efficient FPGA-based solution for a 512-bit AXI4-Stream interface. |
+| 6 | 2 | 0 | a day ago | [VHDPlus_Libraries_and_Examples](https://github.com/leonbeier/VHDPlus_Libraries_and_Examples)/740 | This is a collection of the built in libraries of the VHDPlus IDE toghether with examples. Commits will be featured in the IDE with future updates. |
+| 6 | 1 | 0 | 11 years ago | [sdram_controller](https://github.com/freecores/sdram_controller)/741 | Scratch DDR SDRAM Controller |
+| 6 | 5 | 0 | 5 years ago | [VHDL-Emporium](https://github.com/Reiuiji/VHDL-Emporium)/742 | Collection of Various created VHDL code |
+| 6 | 7 | 2 | 5 years ago | [bluedbm_connectald](https://github.com/sangwoojun/bluedbm_connectald)/743 | BlueDBM |
+| 6 | 3 | 0 | 3 years ago | [axi_stream_master](https://github.com/chclau/axi_stream_master)/744 | Source files for AXI Stream tutorial |
+| 6 | 8 | 0 | 2 years ago | [Zybo-Z7-20-DMA](https://github.com/Digilent/Zybo-Z7-20-DMA)/745 | None |
+| 6 | 1 | 0 | 7 months ago | [pld](https://github.com/xtarke/pld)/746 | VHDL examples. IFSC lecture notes.  |
+| 6 | 0 | 0 | 2 years ago | [4Bit-Calculator](https://github.com/aryclenio/4Bit-Calculator)/747 | A bit calculator, implemented in VDHL that provides 4 bits sum, subtraction, inversion, major and minor verification. The result is shown in a 7 segment display on a FPGA board. This code was tested in Altera Quartus II. |
+| 6 | 0 | 0 | 2 years ago | [Computer-Organization-and-Architecture-Course-Design](https://github.com/Jyxseu/Computer-Organization-and-Architecture-Course-Design)/748 | 这是东南大学信息学院本科三年级开设的计算机组织与结构课程的后续配套实验课程，包含POC设计和简单CPU设计。以下是我与小组完成的POC与CPU的设计，采用vivado2018.2的设计环境。 |
+| 6 | 2 | 0 | 5 years ago | [vhdl_TCPIP](https://github.com/craighaywood/vhdl_TCPIP)/749 | TCP IP Stack (including DHCP) implemented in VHDL |
+| 6 | 6 | 0 | 7 years ago | [MIPS-CPU-System](https://github.com/xxr3376/MIPS-CPU-System)/750 | my mips cpu design in vhdl. support vga and PS/2 keyboard |
+| 6 | 1 | 0 | 10 years ago | [usb11_phy_translation](https://github.com/freecores/usb11_phy_translation)/751 | USB 1.1  PHY  (VHDL) |
+| 6 | 2 | 0 | 1 year, 3 months ago | [MoxieLite](https://github.com/toptensoftware/MoxieLite)/752 | Lightweight VHDL implementation of a Moxie Processor |
+| 6 | 3 | 0 | 7 years ago | [Plong](https://github.com/armandas/Plong)/753 | Simple pong implementation in vhdl |
+| 6 | 6 | 0 | 4 years ago | [Rhino-Processing-Blocks](https://github.com/lekhobola/Rhino-Processing-Blocks)/754 | A library of IP cores needed for FPGA-based SDR development using RHINO board with SPARTAN-6 xc6slx150t device. |
+| 6 | 1 | 0 | 2 years ago | [blake2](https://github.com/christian-krieg/blake2)/755 | VHDL implementation of BLAKE2 cryptographic hash and message authentication code (MAC) |
+| 6 | 0 | 0 | 2 years ago | [Connect4VHDL](https://github.com/pcruiher08/Connect4VHDL)/756 | Spartan3 implementation of the popular game Connect 4 written in VHDL |
+| 6 | 4 | 0 | 10 months ago | [vercolib_pcie](https://github.com/TI-Bonn/vercolib_pcie)/757 | VHDL PCIe Transceiver |
+| 6 | 2 | 0 | 3 months ago | [PDP-11](https://github.com/Moodrammer/PDP-11)/758 | :computer: Simulation for the architecture of a processor inspired by the ideas of PDP-11 processor |
+| 6 | 1 | 0 | 6 years ago | [UART](https://github.com/AntonZero/UART)/759 | UEART Project for DE1 Board |
+| 6 | 0 | 0 | 6 years ago | [Cache-CPU](https://github.com/JamisHoo/Cache-CPU)/760 | MIPS32 instruction subset based processor |
+| 6 | 0 | 0 | 7 years ago | [ws2812](https://github.com/freecores/ws2812)/761 | WS2812 RGB LED string driver |
+| 6 | 6 | 0 | 5 years ago | [pre-mipsfpga](https://github.com/MIPSfpga/pre-mipsfpga)/762 | Various Verilog examples to gain knowledge and basic skills before working with MIPSfpga |
+| 6 | 2 | 0 | 5 years ago | [LED-Matrix-with-DE0-Nano-SoC-Board](https://github.com/AntonZero/LED-Matrix-with-DE0-Nano-SoC-Board)/763 | tutorial |
+| 6 | 1 | 0 | 3 years ago | [MIPS16_CPU](https://github.com/Jackey-Huo/MIPS16_CPU)/764 | cpu project for  principles of computer organization |
+| 6 | 5 | 0 | 3 years ago | [ZYBO_IoT_Vivado](https://github.com/iwatake2222/ZYBO_IoT_Vivado)/765 | This is a Vivado project to create an IoT device with ZYBO (Zynq). |
+| 6 | 0 | 0 | 2 years ago | [computer_aid_design_assignments_CAD](https://github.com/mehran75/computer_aid_design_assignments_CAD)/766 | None |
+| 6 | 1 | 0 | 1 year, 7 months ago | [riscv-fpga](https://github.com/shenyaming/riscv-fpga)/767 | Share JTAG chain within RISCV core and Xilinx FPGA. |
+| 6 | 1 | 0 | 1 year, 4 months ago | [snes_cic_fpga](https://github.com/rgalland/snes_cic_fpga)/768 | snes cic implementation with FPGA FireAnt board |
+| 6 | 1 | 0 | 9 months ago | [SABER_HW](https://github.com/sujoyetc/SABER_HW)/769 | Hardware implementation of Saber |
+| 6 | 0 | 0 | 7 years ago | [Malinki](https://github.com/32bitmicro/Malinki)/770 | Malinki - Hardware Cluster with Switch Fabric for Raspberry Pi |
+| 6 | 2 | 1 | 6 years ago | [mz80b_de0](https://github.com/NibblesLab/mz80b_de0)/771 | MZ-80B/MZ-2000 series implementation for Altera DE0 board |
+| 6 | 1 | 0 | 10 years ago | [simplifiedmipscpu](https://github.com/davidscolgan/simplifiedmipscpu)/772 | Complete working simulation of both a single-cycle and pipelined CPU.  Implements a subset of the MIPS instruction set. |
+| 6 | 3 | 0 | 4 years ago | [mips--](https://github.com/jevinskie/mips--)/773 | A dual core MIPS subset CPU written in behavioral, synthesizable VHDL |
+| 6 | 0 | 0 | 11 years ago | [backplane](https://github.com/somaproject/backplane)/774 | Soma Backplane Hardware |
+| 6 | 1 | 0 | 1 year, 27 days ago | [THCOMIPS16e](https://github.com/twd2/THCOMIPS16e)/775 | Yet Another Implementation of THCO MIPS16e |
+| 6 | 8 | 4 | a month ago | [PandABlocks-FPGA](https://github.com/PandABlocks/PandABlocks-FPGA)/776 | VHDL functional blocks with their simulations and test sequences |
+| 6 | 2 | 1 | 1 year, 11 months ago | [Bonfire](https://github.com/Project-Bonfire/Bonfire)/777 | A implementation of a NoC router with credit based flow control |
+| 6 | 5 | 0 | 1 year, 10 months ago | [Silicon_Peasant](https://github.com/NingHeChuan/Silicon_Peasant)/778 | None |
+| 6 | 1 | 0 | 8 months ago | [A500-EXT-CFIDE](https://github.com/EmberHeavyIndustries/A500-EXT-CFIDE)/779 | None |
+| 6 | 4 | 0 | 1 year, 3 months ago | [LPC2LCD](https://github.com/Kekule-OXC/LPC2LCD)/780 | LCD adapter for the LPC bus of the OG xbox |
+| 6 | 2 | 5 | 2 months ago | [pocket-cnn](https://github.com/marph91/pocket-cnn)/781 | CNN-to-FPGA-framework for small CNN, written in VHDL and Python |
+| 6 | 0 | 0 | 4 months ago | [risc63](https://github.com/dominiksalvet/risc63)/782 | 💻 Custom 64-bit pipelined RISC processor. |
+| 6 | 3 | 0 | 6 years ago | [CPME48](https://github.com/DeathKing/CPME48)/783 | Why CP-YOU? Let's CP-ME! 非常简单的8位CPU的VHDL实现，拥有精简的RISC式指令集。更有配套扩展指令集IR48*、汇编器DASM48、高级语言Cheme，你值得拥有。（课程作业，仅供交流，切勿抄袭！） |
+| 6 | 2 | 0 | 5 years ago | [hdmi2usb_designs](https://github.com/hamsternz/hdmi2usb_designs)/784 | Various HDL designs for the Numato Labs/Timvideos HDMI2USB FPGA board |
+| 6 | 6 | 0 | 1 year, 3 months ago | [SDAccel](https://github.com/zakinder/SDAccel)/785 | SDAccel: Architecture to enable CPU/GPU developers to easily migrate their applications to FPGAs while maintaining and reusing their OpenCL, C, and C++ code in a familiar workflow.  |
+| 6 | 1 | 0 | 1 year, 1 month ago | [canopen-vhdl](https://github.com/bggardner/canopen-vhdl)/786 | A lightweight CANopen controller in VHDL |
+| 6 | 2 | 0 | 4 months ago | [theremin](https://github.com/fpga-theremin/theremin)/787 | Open source digital FPGA based theremin project |
+| 6 | 1 | 0 | 1 year, 8 months ago | [Basys3-Pulse-Generator](https://github.com/soundjuice/Basys3-Pulse-Generator)/788 | Pulse generator on Basys 3 FPGA board |
+| 6 | 2 | 0 | 5 years ago | [simon_vhdl](https://github.com/samvartaka/simon_vhdl)/789 | VHDL implementations of various architectural designs of the SIMON 64/128 block cipher |
+| 6 | 4 | 0 | 8 months ago | [LibHSA](https://github.com/HSA-on-FPGA/LibHSA)/790 | HSA compatible dispatch infrastructure for FPGAs |
+| 6 | 0 | 0 | 11 months ago | [VHDL-FPGA-LAB_PROJECTS](https://github.com/mcagriaksoy/VHDL-FPGA-LAB_PROJECTS)/791 | Lab Assigments, Projects for digital systems II Lecture (EEM334) |
+| 6 | 1 | 0 | 6 years ago | [FreeRTOS-Zybo](https://github.com/circuitsenses/FreeRTOS-Zybo)/792 | FreeRTOS implemented on the Digilent ZYBO Zynq 7000 |
+| 6 | 4 | 0 | 5 years ago | [minispartan6](https://github.com/ultraembedded/minispartan6)/793 | Projects for the Scarab Minispartan6+ FPGA board |
+| 6 | 1 | 2 | 3 years ago | [mz80c_de0](https://github.com/NibblesLab/mz80c_de0)/794 | MZ-80 series implementation for Altera DE0 board |
+| 6 | 1 | 0 | 9 years ago | [casper_myhdl](https://github.com/amitbansod/casper_myhdl)/795 | Development of DSP blocks found in CASPER library using MyHDL package and Python |
+| 6 | 3 | 2 | 3 years ago | [ZedBoardAudio](https://github.com/Laxer3a/ZedBoardAudio)/796 | AXI Slave Audio Component. |
+| 6 | 3 | 5 | 2 years ago | [CuckooHashingHLS](https://github.com/AakashKT/CuckooHashingHLS)/797 | HLS implementation of cuckoo hashing. Refer to paper : https://ieeexplore.ieee.org/document/7577355/ |
+| 6 | 3 | 1 | 2 years ago | [FPGA_1942](https://github.com/d18c7db/FPGA_1942)/798 | FPGA 1942 arcade game |
+| 6 | 8 | 2 | 14 days ago | [Arcade-Defender_MiSTer](https://github.com/MiSTer-devel/Arcade-Defender_MiSTer)/799 | Arcade: Defender for MiSTer |
+| 6 | 1 | 0 | 9 months ago | [vhdl-maze-solver](https://github.com/mohamin1995/vhdl-maze-solver)/800 | Cellular Automata Maze Solver Hardware Implementation |
+| 6 | 0 | 0 | 1 year, 8 months ago | [CA-AUT](https://github.com/University-Archive/CA-AUT)/801 | Computer Architecture Course @ AUT |
+| 6 | 0 | 0 | 2 months ago | [8-bit-Computer](https://github.com/oddek/8-bit-Computer)/802 | Implementation of an 8-bit computer in VHDL, along with a minimal assembler |
+| 6 | 4 | 2 | 4 years ago | [C64_MIST](https://github.com/sorgelig/C64_MIST)/803 | None |
+| 6 | 3 | 0 | 10 years ago | [VHDL-Snake-Game](https://github.com/freaktm/VHDL-Snake-Game)/804 | A simple snake game in vhdl - designed for the Spartan-3 Starter Board (work in progress) |
+| 6 | 1 | 0 | 3 years ago | [MDE2](https://github.com/livingcomputermuseum/MDE2)/805 | MASSBUS Disk Emulator Hardware |
+| 6 | 0 | 0 | 11 months ago | [VHDL-LAB](https://github.com/AdeboyeOyeniyi/VHDL-LAB)/806 | Some basic electronic structures implemented in VHDL |
+| 6 | 0 | 0 | 1 year, 8 months ago | [SoC-Nios](https://github.com/ihabadly/SoC-Nios)/807 | Building an example System on Chip (SoC) using Nios II processor. |
+| 6 | 3 | 1 | 5 months ago | [CoreAmstrad](https://github.com/renaudhelias/CoreAmstrad)/808 | CoreAmstrad source code, a physical clone of Amstrad from JavaCPC Markus's emulator, currently running on a final FPGA end-user platform : MiST-board. |
+| 6 | 3 | 0 | 7 years ago | [Vampire600](https://github.com/robinsonb5/Vampire600)/809 | Core for the Vampire 600 Amiga accelerator project |
+| 6 | 4 | 0 | 7 years ago | [busblaster_v4](https://github.com/dergraaf/busblaster_v4)/810 | CPLD designs for the BusBlaster v4 from Dangerous Prototypes |
+| 6 | 3 | 2 | 1 year, 9 months ago | [fast-p2a](https://github.com/Mythir/fast-p2a)/811 | None |
+| 6 | 2 | 0 | 3 months ago | [apple2fpga](https://github.com/emard/apple2fpga)/812 | port of Stephen A. Edwards apple2fpga to ULX3S |
+| 6 | 1 | 0 | 7 years ago | [VHDL-School](https://github.com/armandas/VHDL-School)/813 | My VHDL sources |
+| 6 | 0 | 0 | 4 years ago | [ipxact](https://github.com/tudortimi/ipxact)/814 | IP-XACT XML binding library |
+| 6 | 11 | 1 | a month ago | [Arcade-Xevious_MiSTer](https://github.com/MiSTer-devel/Arcade-Xevious_MiSTer)/815 | Arcade: Xevious for MiSTer |
+| 6 | 1 | 0 | 4 years ago | [Template-Matching-FPGA](https://github.com/ralbertazzi/Template-Matching-FPGA)/816 | None |
+| 6 | 1 | 0 | 2 years ago | [DDS](https://github.com/spr02/DDS)/817 | A DDS core written in VHDL. |
+| 6 | 6 | 0 | 3 months ago | [mrf-openevr](https://github.com/jpietari/mrf-openevr)/818 | Open source Event Receiver implementation |
+| 6 | 2 | 3 | 2 months ago | [stdcores](https://github.com/rftafas/stdcores)/819 | Standard and Curated cores, tested and working. |
+| 6 | 1 | 0 | 3 months ago | [spu-mark-ii](https://github.com/MasterQ32/spu-mark-ii)/820 | CPU and home computer project |
+| 6 | 1 | 0 | 9 months ago | [Binocular-Stereo-Vision-PYNQ](https://github.com/marshmallow911/Binocular-Stereo-Vision-PYNQ)/821 | None |
+| 6 | 15 | 0 | 5 years ago | [xapp1026](https://github.com/tmatsuya/xapp1026)/822 | LightWeight IP Application Examples for Xilinx FPGA |
+| 6 | 1 | 0 | 4 years ago | [ftdi-async-fifo](https://github.com/rohitk-singh/ftdi-async-fifo)/823 | FTDI FT2232H Asynchronous FIFO communication with FPGA over USB |
+| 6 | 7 | 0 | 3 years ago | [multicore-architecture](https://github.com/kevinsala/multicore-architecture)/824 | Simple multicore processor implemented in VHDL |
+| 6 | 3 | 0 | 3 years ago | [Scalable-Bilateral-Filtering-on-FPGA](https://github.com/swapnildabhade/Scalable-Bilateral-Filtering-on-FPGA)/825 | VHDL implimentation of A Reconfigurable and Scalable FPGA Architecture for Bilateral Filtering. |
+| 6 | 1 | 0 | 4 years ago | [1802-pico-basic](https://github.com/Steve-Teal/1802-pico-basic)/826 | VHDL 1802 Core with TinyBASIC for the Lattice MachXO2 Pico board |
+| 6 | 14 | 1 | 1 year, 1 month ago | [KC705-AD9371](https://github.com/coralhu123/KC705-AD9371)/827 | The implementation of AD9371 on KC705 |
+| 6 | 2 | 1 | 2 years ago | [Ethash](https://github.com/violetsolo/Ethash)/828 | ethash project in vhdl |
+| 6 | 0 | 0 | 8 years ago | [vhdl-svf](https://github.com/hansiglaser/vhdl-svf)/829 | SVF (Serial Vector Format) interpreter to control a JTAG TAP |
+| 6 | 0 | 0 | 5 years ago | [SysAlloc](https://github.com/Hilx/SysAlloc)/830 | SysAlloc, a FPGA implemented hardware memory allocator for heterogeneous systems. |
+| 6 | 16 | 2 | 3 years ago | [NexysVideo](https://github.com/Digilent/NexysVideo)/831 | None |
+| 6 | 1 | 0 | 2 years ago | [Architecture-of-CPU-projects](https://github.com/MaorAssayag/Architecture-of-CPU-projects)/832 | VHDL , ModelSIM, Quartus, FPGA, Image Processing |
+| 6 | 12 | 1 | 1 year, 3 months ago | [sysdesign](https://github.com/luojike/sysdesign)/833 | Code base for computer system design |
+| 6 | 2 | 0 | 1 year, 2 months ago | [Verilog_Module](https://github.com/WayneGong/Verilog_Module)/834 | 常用Verilog模块 |
+| 6 | 3 | 0 | 29 days ago | [UVVM_Light](https://github.com/UVVM/UVVM_Light)/835 | This repository is a subset of UVVM with Utility library and BFMs, and is intended as a UVVM starting platform for thos who only need the Utility Library and BFMs.    Community forum: https://forum.uvvm.org/    UVVM.org: https://uvvm.org/ |
+| 6 | 0 | 0 | 4 months ago | [MicroCodeCompiler](https://github.com/zpekic/MicroCodeCompiler)/836 | Initial publish |
+| 6 | 1 | 0 | Unknown | [PWM-in-VHDL](https://github.com/kiranjose/PWM-in-VHDL)/837 | PWM in VHDL |
+| 6 | 4 | 0 | Unknown | [THCO-MIPS-CPU](https://github.com/Piasy/THCO-MIPS-CPU)/838 | Computer Organization course project:THCO-MIPS CPU |
+| 6 | 4 | 0 | Unknown | [zybo-examples](https://github.com/coldnew/zybo-examples)/839 | A series of examples on zybo board for my blog tutorials. |
+| 6 | 3 | 0 | Unknown | [VGA_example](https://github.com/andrewandrepowell/VGA_example)/840 | This repository contains a Vivado 2015.3 Project that runs an example application for the VGA_1.0 IP core. Althrough the core had originally been created for the Avnet Zedboard, this example was created for the Digilent Zybo. |
+| 6 | 2 | 0 | Unknown | [My_Design](https://github.com/gehujun/My_Design)/841 | 带有tlb的五级流水CPU |
+| 6 | 0 | 0 | Unknown | [vhdl-snake](https://github.com/xtrinch/vhdl-snake)/842 | Snake game with PS2 and VGA drivers written in VHDL for the Nexys 2 development board |
+| 6 | 6 | 0 | Unknown | [Papilio-Schematic-Library](https://github.com/GadgetFactory/Papilio-Schematic-Library)/843 | A library of Soft Processors and peripherals that can be used with Webpack schematic editor to build a custom SOC for the Papilio |
+| 6 | 1 | 0 | Unknown | [rv16poc](https://github.com/AntonMause/rv16poc)/844 | 16 bit RISC-V proof of concept |
+| 6 | 2 | 0 | Unknown | [FPGA_Harris_Corner](https://github.com/chaotaklon/FPGA_Harris_Corner)/845 | An efficient FPGA implementation of the Harris Corner feature detector |
+| 6 | 1 | 0 | Unknown | [CQU_Computer_Organization](https://github.com/barryZZJ/CQU_Computer_Organization)/846 | 重庆大学计组实验vivado工程文件+项目汇编语言 |
+| 6 | 0 | 0 | Unknown | [EECS31_L](https://github.com/ffyuanda/EECS31_L)/847 | EECS 31 L course code and homework |
+| 6 | 6 | 0 | Unknown | [SHA-256](https://github.com/dsaves/SHA-256)/848 | An SHA-256 module implementation in VHDL.  Based on NIST FIPS 180-4. |
+| 6 | 0 | 0 | Unknown | [2D-Image-Filtering-on-FPGA](https://github.com/fujy/2D-Image-Filtering-on-FPGA)/849 | None |
+| 6 | 0 | 0 | Unknown | [PapilioPro-AnimatedShapes](https://github.com/kosak/PapilioPro-AnimatedShapes)/850 | Driving the VGA protocol, displaying some animated shapes on an FPGA |
+| 6 | 1 | 0 | Unknown | [AX8](https://github.com/G33KatWork/AX8)/851 | The AVR softcore from opencores.org with a makefile and some useable demo code |
+| 6 | 0 | 4 | Unknown | [fpga_lib](https://github.com/INTI-CMNB-FPGA/fpga_lib)/852 | Library of utilities such as cores, procedures and functions, commonly shared between FPGA projects. |
+| 6 | 1 | 0 | Unknown | [vhdl_tarning](https://github.com/mehdisavari/vhdl_tarning)/853 | VHDL Source Code |
+| 6 | 4 | 0 | Unknown | [psi_fix](https://github.com/paulscherrerinstitute/psi_fix)/854 | Fixed-point library with bittrue implementations in VHDL (for FPGA) and python (for simulation) |
+| 6 | 2 | 0 | Unknown | [POV](https://github.com/im-pro-at/POV)/855 | 131*131*12bit 16FPS POV Display |
+| 6 | 0 | 0 | Unknown | [icestick-remote](https://github.com/marph91/icestick-remote)/856 | Remote control in VHDL, which fits on a Lattice icestick. |
+| 6 | 0 | 0 | Unknown | [multi-TB-progetto-Reti-PoliMi](https://github.com/Mark-Zampedroni/multi-TB-progetto-Reti-PoliMi)/857 | Test bench di test automatico per la prova finale del corso di Reti Logiche al Politecnico di Milano, anno 2019/2020. |
+| 6 | 3 | 0 | Unknown | [hdmi-audio](https://github.com/fintros/hdmi-audio)/858 | HDMI Audio/Video signal generation for HW emulators of retro comuters |
+| 6 | 2 | 1 | Unknown | [b01lers-library](https://github.com/b01lers/b01lers-library)/859 | None |
+| 6 | 1 | 0 | Unknown | [Mandelbrot-Explorer](https://github.com/elkayem/Mandelbrot-Explorer)/860 | An FPGA-based Mandelbrot Set explorer using the Papilio Duo board from Gadget Factory. |
+| 6 | 1 | 3 | Unknown | [Music5000](https://github.com/hoglet67/Music5000)/861 | FPGA implementation of the 1980's "Music 5000" wavetable synthesiser |
+| 6 | 5 | 0 | Unknown | [xilinx-zynq-zc702-linuxapplication](https://github.com/JunghoYoo/xilinx-zynq-zc702-linuxapplication)/862 | Linux application and Device driver porting on Xilinx Zynq ZC702 board |
+| 6 | 1 | 0 | Unknown | [kalman_mppt](https://github.com/diecaptain/kalman_mppt)/863 | mppt algorithm using kalman filter in VHDL |
+| 6 | 1 | 0 | Unknown | [ip_cores](https://github.com/Bucknalla/ip_cores)/864 | Verilog IP Cores & Tests |
+| 6 | 2 | 0 | Unknown | [ustogo-lsi](https://github.com/ibrahimaya/ustogo-lsi)/865 | The repository includes two main directories; (i) "ustogo": for our complete ultrasound processing pipeline (Matlab-based), and (ii) "fpgabeamformer": for the single-FPGA 3D/2D ultrasound digital imager;  hardware side (Vivado designs) and software side (Xilinx SDK applications + visual studio GUI). |
+| 6 | 1 | 0 | Unknown | [MIPS_Single_Cycle_CPU](https://github.com/jerrylususu/MIPS_Single_Cycle_CPU)/866 | MIPS Single Cycle CPU |
+| 6 | 0 | 0 | Unknown | [vhdl-experiments](https://github.com/PKazm/vhdl-experiments)/867 | All the mumbo jumbo code that is me learning VHDL. Primarily targeted for Microsemi Smartfusion2 |
+| 6 | 4 | 3 | Unknown | [Oric_Mist_48K](https://github.com/rampa069/Oric_Mist_48K)/868 | Oric Atmos Mist core |
+| 6 | 0 | 0 | Unknown | [AES-128-with-an-Instruction-Set](https://github.com/wap12358/AES-128-with-an-Instruction-Set)/869 | None |
+| 5 | 1 | 0 | Unknown | [Rotary-encoder-VHDL-design](https://github.com/Yourigh/Rotary-encoder-VHDL-design)/870 | VHDL design for rotary encoder. Can be used accessed via digital signals or AXI interface. |
+| 5 | 0 | 1 | Unknown | [VDHL-SD-Library](https://github.com/simon-77/VDHL-SD-Library)/871 | A VHDL-Library for reading a SD-Card with a FPGA in a small test project |
+| 5 | 23 | 0 | Unknown | [cpudesign](https://github.com/luojike/cpudesign)/872 | CPU设计的代码站 |
+| 5 | 1 | 6 | Unknown | [OS2018spring-projects-g05](https://github.com/oscourse-tsinghua/OS2018spring-projects-g05)/873 | Dual-core MIPS CPU SoC |
+| 5 | 0 | 1 | Unknown | [t80](https://github.com/EisernSchild/t80)/874 | Configurable cpu core that supports Z80, 8080 and gameboy instruction sets. |
+| 5 | 9 | 0 | Unknown | [fpga_cyclone4](https://github.com/alientek-fpga/fpga_cyclone4)/875 | 正点原子开拓者&新起点FPGA开发板例程 |
+| 5 | 0 | 0 | Unknown | [Grain-128AEAD-VHDL](https://github.com/Noxet/Grain-128AEAD-VHDL)/876 | The VHDL reference implementation along with optimized versions of the stream cipher Grain-128AEAD |
+| 5 | 6 | 1 | Unknown | [Oric_MiSTer](https://github.com/MiSTer-devel/Oric_MiSTer)/877 | Oric-1 and Oric Atmos for MiSTer |
+| 5 | 5 | 5 | Unknown | [Arcade-MarioBros_MiSTer](https://github.com/MiSTer-devel/Arcade-MarioBros_MiSTer)/878 | Mario Bros arcade core for MiSTer |
+| 5 | 0 | 0 | Unknown | [GettingStarted_Examples](https://github.com/Accelize/GettingStarted_Examples)/879 | This repository contains a collection of reference designs and software application to get starter with Accelize Distribution Platform |
+| 5 | 2 | 0 | Unknown | [fpu](https://github.com/is-cpuex2014-5/fpu)/880 | FPU written in VHDL |
+| 5 | 4 | 0 | Unknown | [PYNQ-Z2project](https://github.com/Mculover666/PYNQ-Z2project)/881 | PYNQ-Z2工程 |
+| 5 | 0 | 0 | Unknown | [Arty_s7_example](https://github.com/ATaylorCEngFIET/Arty_s7_example)/882 | Arty S7 Example with Pmods and MTDS |
+| 5 | 2 | 0 | Unknown | [rmii-firewall-fpga](https://github.com/jakubcabal/rmii-firewall-fpga)/883 | RMII Firewall FPGA |
+| 5 | 0 | 0 | Unknown | [SGen](https://github.com/fserre/SGen)/884 | SGen is a generator capable of producing efficient hardware designs operating on streaming datasets. “Streaming” means that the dataset is divided into several chunks that are processed during several cycles, thus allowing a reduced use of resources. The size of these chunks is referred as the streaming width. It outputs a Verilog file that can be used for FPGAs. |
+| 5 | 3 | 0 | Unknown | [fpga-colossus](https://github.com/bennorth/fpga-colossus)/885 | Implementation of part of the World-War-II code-breaking machine 'Colossus' on an FPGA |
+| 5 | 0 | 0 | Unknown | [InfraRed-LED-Controller](https://github.com/rj-jesus/InfraRed-LED-Controller)/886 | InfraRed decoder written in VHDL + Pulse width modulation on Green LEDs |
+| 5 | 3 | 0 | Unknown | [vhdl-examples](https://github.com/khaledhassan/vhdl-examples)/887 | VHDL example code |
+| 5 | 3 | 0 | Unknown | [SBA-Library](https://github.com/mriscoc/SBA-Library)/888 | SBA IP Cores  http://sba.accesus.com |
+| 5 | 7 | 0 | Unknown | [WallTree](https://github.com/gagan405/WallTree)/889 | A VHDL code generator for wallace tree multiplier |
+| 5 | 1 | 0 | Unknown | [RSA_Security_Token](https://github.com/GustaMagik/RSA_Security_Token)/890 | A Security token system for (two-factor) authentication to Linux / Unix using an FPGA and a PAM-module. Either A: 72-bit or B: 512-bit RSA. Version A is air-gapped. Version B uses USB UART. BSD-3 licensed. |
+| 5 | 0 | 0 | Unknown | [unicamp](https://github.com/seijihirao/unicamp)/891 | My unicamp experience |
+| 5 | 1 | 0 | Unknown | [CADSD-homeworks](https://github.com/aminrashidbeigi/CADSD-homeworks)/892 | Solutions of Computer Aided Digital System Design (FPGA) Course Homeworks |
+| 5 | 3 | 0 | Unknown | [PongGameVHDL](https://github.com/efeacer/PongGameVHDL)/893 | Here is the code of my digital design term project, which is an implementation of the classic arcade game Pong in VGA using basys3 board. The game is implemented using VHDL hardware description language. You can find a video description from the link: https://www.youtube.com/watch?v=LqOlgilpCYc&t=36s |
+| 5 | 1 | 0 | Unknown | [FPGA-Acceleration-of-Canny-Edge-Detection-Algorithm](https://github.com/deepaktabraham/FPGA-Acceleration-of-Canny-Edge-Detection-Algorithm)/894 | HW and SW based implementation of Canny Edge Detection Algorithm. |
+| 5 | 2 | 0 | Unknown | [mips-computer](https://github.com/joker-xii/mips-computer)/895 | A simple computer based on the design in "Digital Design and Computer Architecture - 2nd Edition" |
+| 5 | 1 | 0 | Unknown | [VCU1525_HLS_acceleration_framework](https://github.com/SanjayRai/VCU1525_HLS_acceleration_framework)/896 | VCU1525_HLS_acceleration_framework  |
+| 5 | 0 | 0 | Unknown | [USTC_CS_digital_labs](https://github.com/yuxguo/USTC_CS_digital_labs)/897 | Verilog code of Digital circuit lab in 2018 Fall |
+| 5 | 2 | 2 | Unknown | [h264](https://github.com/hdhzero/h264)/898 | motion estimation in VHDL |
+| 5 | 0 | 0 | Unknown | [fpgaSynths](https://github.com/LOGre/fpgaSynths)/899 | Making oldskool music with FPGA VHDL soundchips core and the ZPUino SoC |
+| 5 | 3 | 0 | Unknown | [firmware-ethernet](https://github.com/PsiStarPsi/firmware-ethernet)/900 | Firmware modules and packages for implementing Ethernet control and data acquisition interfaces on Xilinx FPGAs. |
+| 5 | 2 | 2 | 8 years ago | [h264](https://github.com/hdhzero/h264)/901 | motion estimation in VHDL |
+| 5 | 5 | 0 | 6 years ago | [1553-Firmware](https://github.com/phillipjohnston/1553-Firmware)/902 | Contains VHDL implementing an 8085, Holt HI-6130 1553 IC, and Memory.  Also includes firmware used to demo the system. |
+| 5 | 2 | 0 | 4 years ago | [afu-walkthrough](https://github.com/ibm-capi/afu-walkthrough)/903 |  Simple overview of the PSL-AFU Interface for CAPI |
+| 5 | 0 | 0 | 3 years ago | [SAYEH](https://github.com/1997alireza/SAYEH)/904 | SAYEH (Simple Architecture, Yet Enough Hardware) Basic Computer |
+| 5 | 3 | 0 | 3 years ago | [Arty-GPIO](https://github.com/Digilent/Arty-GPIO)/905 | None |
+| 5 | 0 | 0 | 3 years ago | [vhdl-aes-gcm](https://github.com/parrisha/vhdl-aes-gcm)/906 | VHDL implementation of GCM mode of AES |
+| 5 | 4 | 0 | 2 years ago | [AX7103](https://github.com/alinxalinx/AX7103)/907 | None |
+| 5 | 0 | 0 | 2 years ago | [Arty-Z7-20-OOB](https://github.com/Digilent/Arty-Z7-20-OOB)/908 | None |
+| 5 | 1 | 0 | 10 months ago | [erbium](https://github.com/fpgasystems/erbium)/909 | Business Rule Engine Hardware Accelerator |
+| 5 | 1 | 0 | 1 year, 2 months ago | [super-reu](https://github.com/zeldin/super-reu)/910 | An advanced FPGA-based ram expansion module for C64/C128 |
+| 5 | 0 | 0 | 2 months ago | [AdderNet-FPGA](https://github.com/mqhuangGit/AdderNet-FPGA)/911 | None |
+| 5 | 1 | 0 | 3 days ago | [IPDBG](https://github.com/IPDBG/IPDBG)/912 | IPDBG |
+| 5 | 1 | 0 | 4 years ago | [Microprocessor-Projects](https://github.com/martiansideofthemoon/Microprocessor-Projects)/913 | A set of two microprocessor projects as a part of EE 309 / 337 at IIT Bombay. |
+| 5 | 3 | 0 | 10 years ago | [async_8b10b_encoder_decoder](https://github.com/freecores/async_8b10b_encoder_decoder)/914 | Async 8b/10b enc/dec |
+| 5 | 7 | 0 | 5 years ago | [Zynq-Configuration-Controller](https://github.com/Architech-Silica/Zynq-Configuration-Controller)/915 | A configuration controller solution allowing a Zynq device to configure downstream FPGAs |
+| 5 | 3 | 0 | 5 years ago | [CCD_Cam](https://github.com/AntonZero/CCD_Cam)/916 | Cam interface to FPGA using ADV7180 |
+| 5 | 1 | 0 | 6 years ago | [speccy-wxeda](https://github.com/andykarpov/speccy-wxeda)/917 | Порт конфигурации Reverse u16_speccy на плату ZrTech WXEDA |
+| 5 | 8 | 1 | 7 years ago | [zynq_echo_servers](https://github.com/mohamed/zynq_echo_servers)/918 | UDP and TCP echo servers using lwIP RAW API running on Xilinx Zynq Platform |
+| 5 | 5 | 0 | 7 years ago | [fpga-sdr-platform](https://github.com/JacekGreniger/fpga-sdr-platform)/919 | FPGA SDR platform: AD9963 + XC6SLX9 + CY7C68013 |
+| 5 | 2 | 0 | 3 years ago | [fpga-mmu](https://github.com/argos-research/fpga-mmu)/920 | internship |
+| 5 | 12 | 6 | a month ago | [Arcade-Scramble_MiSTer](https://github.com/MiSTer-devel/Arcade-Scramble_MiSTer)/921 | Arcade: Scramble for MiSTer |
+| 5 | 1 | 0 | 4 years ago | [present-vhdl](https://github.com/huljar/present-vhdl)/922 | Implementation of the PRESENT lightweight block cipher in VHDL. |
+| 5 | 1 | 0 | 1 year, 5 months ago | [ultrasonic-sensor](https://github.com/santifs/ultrasonic-sensor)/923 | Implemented an ultrasonic sensor to measure and visualize distances on the FPGA 7-seg Display and LEDs. |
+| 5 | 3 | 0 | 10 months ago | [MSXPi2](https://github.com/costarc/MSXPi2)/924 | An attempt to improve the MSXPi |
+| 5 | 1 | 0 | 9 years ago | [Sump_Blaze_Core](https://github.com/GadgetFactory/Sump_Blaze_Core)/925 | VHDL Sump Logic Analyzer |
+| 5 | 0 | 0 | 4 years ago | [ledsign](https://github.com/sgstair/ledsign)/926 | A software/hardware stack to display information on a group of LED panels |
+| 5 | 2 | 0 | 7 years ago | [LevOS](https://github.com/levex/LevOS)/927 | A hobbyist operating system. |
+| 5 | 1 | 1 | 7 years ago | [Guimauve2ooo](https://github.com/Torlus/Guimauve2ooo)/928 | VGA output for Apple //c computers |
+| 5 | 2 | 0 | 3 months ago | [FPGA-MIPS-based-CPU-APP-Flappy-Bird](https://github.com/Ssssseason/FPGA-MIPS-based-CPU-APP-Flappy-Bird)/929 | Project for computer organization and design course, implementing a simple popular game flappy bird in FPGA. |
+| 5 | 3 | 0 | 11 months ago | [MIPS-Processor-VHDL](https://github.com/cm4233/MIPS-Processor-VHDL)/930 | Emulation of a 32-bit MIPS processor on Artix-7 FPGA using VHDL. The emulated MIPS processor is tested by executing RC5 encryption and decryption algorithms. |
+| 5 | 4 | 1 | 3 years ago | [grlib](https://github.com/jeandet/grlib)/931 | None |
+| 5 | 1 | 0 | 3 years ago | [arm_nyuzi](https://github.com/chuan573906361/arm_nyuzi)/932 | a multi-cpu with gpgpu project running on the xilinx zynq board(zc706) |
+| 5 | 3 | 0 | 2 years ago | [donkey-kong-fpga](https://github.com/d18c7db/donkey-kong-fpga)/933 | FPGA implementation of arcade game Donkey Kong |
+| 5 | 0 | 0 | 1 year, 5 months ago | [Computer-aided-Design](https://github.com/parsa-abbasi/Computer-aided-Design)/934 | The implementation of some modules and basic projects of CAD in VHDL |
+| 5 | 0 | 0 | 2 years ago | [VHSIC-Hardware-Description-Language](https://github.com/aliyevorkhan/VHSIC-Hardware-Description-Language)/935 | None |
+| 5 | 1 | 0 | 2 years ago | [Pmod-NIC100](https://github.com/carljohnsen/Pmod-NIC100)/936 | VHDL implementation of the SPI interface for Pmod NIC100 https://store.digilentinc.com/pmod-nic100-network-interface-controller/ |
+| 5 | 0 | 0 | 2 years ago | [vhdl_practices](https://github.com/aliyevorkhan/vhdl_practices)/937 | None |
+| 5 | 1 | 2 | 6 months ago | [yaaes](https://github.com/marph91/yaaes)/938 | Yet Another AES implementation in hardware. |
+| 5 | 0 | 2 | 1 year, 5 months ago | [vhdl_phoenix](https://github.com/emard/vhdl_phoenix)/939 | Phoenix arcade for FPGA forked from DarFPGA |
+| 5 | 0 | 0 | 2 months ago | [CRYSTALS-Kyber](https://github.com/xingyf14/CRYSTALS-Kyber)/940 | None |
+| 5 | 2 | 0 | 11 years ago | [acqboard](https://github.com/somaproject/acqboard)/941 | Soma 8+2 Acquisition Module, hardware and software |
+| 5 | 1 | 0 | 6 months ago | [fixed_extensions](https://github.com/nkkav/fixed_extensions)/942 | VHDL fixed-point arithmetic extensions package |
+| 5 | 1 | 0 | 6 years ago | [cpu](https://github.com/xsoameix/cpu)/943 | a simple cpu written by vhdl. |
+| 5 | 0 | 0 | 2 years ago | [vhdllib](https://github.com/sinkswim/vhdllib)/944 | My own VHDL components library.  Anything from a flip flop to an ALU. |
+| 5 | 1 | 0 | 5 years ago | [sparcv8-monocycle](https://github.com/cgutierr3z/sparcv8-monocycle)/945 | Procesador monociclo arquitectura SPARC V8 modelado en VHDL. |
+| 5 | 10 | 0 | 2 months ago | [Arcade-Phoenix_MiSTer](https://github.com/MiSTer-devel/Arcade-Phoenix_MiSTer)/946 | Arcade: Phoenix for MiSTer |
+| 5 | 10 | 0 | 3 years ago | [ComputerOrganizationDesign](https://github.com/SWORDfpga/ComputerOrganizationDesign)/947 | 计算机组成课程资料 |
+| 5 | 3 | 0 | 1 year, 3 months ago | [Gr0estl-Miner](https://github.com/atomminer/Gr0estl-Miner)/948 | Gr0estl mining algo FPGA implementation by AtomMiner |
+| 5 | 2 | 0 | 1 year, 11 months ago | [AXI_DMA_FIFO](https://github.com/absolutezero2730/AXI_DMA_FIFO)/949 | Transfer data from DDR memory to AXI4-Stream Data FIFO and back through AXI DMA |
+| 5 | 1 | 1 | 1 year, 4 months ago | [sdram](https://github.com/dnotq/sdram)/950 | Simple fixed-cycle SDRAM Controller |
+| 5 | 2 | 0 | 5 months ago | [UCAS-CS](https://github.com/Hambaobao/UCAS-CS)/951 | Undergraduate 2017-2021 |
+| 5 | 2 | 0 | 5 months ago | [vunit_action](https://github.com/VUnit/vunit_action)/952 | VUnit GitHub action |
+| 5 | 1 | 0 | 4 months ago | [myCPU](https://github.com/wzcboy/myCPU)/953 | make a simple mips CPU |
+| 5 | 4 | 0 | 8 years ago | [umn_simaudio](https://github.com/mjbrown/umn_simaudio)/954 | Univ. of MN Simultaneous Audio Recording Interface Software and Firmware |
 | 5 | 0 | 0 | 10 years ago | [fpgapong](https://github.com/alecain/fpgapong)/955 | Fpga implementation of pong |
-| 5 | 5 | 0 | 5 years ago | [DE1-SoC-HPSFPGA](https://github.com/norxander/DE1-SoC-HPSFPGA)/956 | Image to column FPGA implementation (im2col by caffe) |
-| 5 | 8 | 0 | 3 years ago | [Zybo-Open-Source-Video-IP-Toolbox](https://github.com/lasalvavida/Zybo-Open-Source-Video-IP-Toolbox)/957 | A few tools for doing video processing on the Zybo FPGA board using VHDL |
-| 5 | 7 | 2 | 1 year, 17 days ago | [SPI-FPGA-VHDL](https://github.com/Nematollahi/SPI-FPGA-VHDL)/958 | SPI Master and Slave components to be used in all of FPGAs, written in VHDL. |
-| 5 | 3 | 0 | 4 years ago | [BLDC_Controller](https://github.com/nikhilbhelave/BLDC_Controller)/959 | Closed Loop BLDC motor Controller using FPGA |
-| 5 | 0 | 0 | 2 years ago | [dungeon-escape-vhdl-game](https://github.com/akgokce/dungeon-escape-vhdl-game)/960 | Dungeon Escape VHDL Game |
-| 5 | 2 | 0 | 11 months ago | [psi_tb](https://github.com/paulscherrerinstitute/psi_tb)/961 | Utilities to simplify writing VHDL testbenches for FPGA Designs |
-| 5 | 0 | 0 | 7 months ago | [DesertFoxCPU](https://github.com/lemofficial/DesertFoxCPU)/962 | None |
-| 5 | 2 | 0 | 5 years ago | [SysPy](https://github.com/evlog/SysPy)/963 | This project is based on my PhD thesis and is related to a Python tool called System Python (SysPy) developed to ease the hardware implementation of  processor-centric systems implemented on FGPA devices.  |
-| 5 | 1 | 0 | 4 years ago | [PPM-VHDL](https://github.com/ishailesh8/PPM-VHDL)/964 | Here i have written the vhdl code for different intensity modulation schemes which are used in optical communication. It includes modulator and demodulator code for OOK, PPM, DDPM and DPIM schemes.  |
-| 5 | 1 | 0 | 4 years ago | [color_maker-s3esk](https://github.com/nkkav/color_maker-s3esk)/965 | A simple VGA output tester for the Xilinx Spartan-3E starter kit board. |
-| 5 | 2 | 0 | 8 years ago | [YaGraphCon](https://github.com/FrankBuss/YaGraphCon)/966 | Yet Another Graphics Controller |
+| 5 | 1 | 0 | 10 years ago | [frogvivor](https://github.com/funchal/frogvivor)/956 | A frogger-clone, in hardware :) for the Papilio One FPGA |
+| 5 | 5 | 0 | 5 years ago | [DE1-SoC-HPSFPGA](https://github.com/norxander/DE1-SoC-HPSFPGA)/957 | Image to column FPGA implementation (im2col by caffe) |
+| 5 | 8 | 0 | 3 years ago | [Zybo-Open-Source-Video-IP-Toolbox](https://github.com/lasalvavida/Zybo-Open-Source-Video-IP-Toolbox)/958 | A few tools for doing video processing on the Zybo FPGA board using VHDL |
+| 5 | 4 | 0 | 1 year, 3 months ago | [AtomGodilVideo](https://github.com/hoglet67/AtomGodilVideo)/959 | New Video Adapter for Acorn Atom implemented in a GODIL FPGA |
+| 5 | 5 | 2 | 5 years ago | [logi-mt9v034](https://github.com/jpiat/logi-mt9v034)/960 | None |
+| 5 | 0 | 0 | 6 years ago | [2048-DE1](https://github.com/dokson/2048-DE1)/961 | VHDL implementation of 2048 Game on Altera DE1 FPGA Board |
+| 5 | 3 | 0 | 4 years ago | [BLDC_Controller](https://github.com/nikhilbhelave/BLDC_Controller)/962 | Closed Loop BLDC motor Controller using FPGA |
+| 5 | 7 | 2 | 1 year, 24 days ago | [SPI-FPGA-VHDL](https://github.com/Nematollahi/SPI-FPGA-VHDL)/963 | SPI Master and Slave components to be used in all of FPGAs, written in VHDL. |
+| 5 | 0 | 0 | 2 years ago | [dungeon-escape-vhdl-game](https://github.com/akgokce/dungeon-escape-vhdl-game)/964 | Dungeon Escape VHDL Game |
+| 5 | 2 | 0 | 1 year, 3 days ago | [psi_tb](https://github.com/paulscherrerinstitute/psi_tb)/965 | Utilities to simplify writing VHDL testbenches for FPGA Designs |
+| 5 | 0 | 0 | 7 months ago | [DesertFoxCPU](https://github.com/lemofficial/DesertFoxCPU)/966 | None |
 | 5 | 0 | 0 | 5 years ago | [libcapi](https://github.com/sbates130272/libcapi)/967 | A library of things IBM CAPI related including common C and RTL code for AFUs. |
-| 5 | 2 | 0 | 1 year, 2 months ago | [hashpipe](https://github.com/thinkski/hashpipe)/968 | SHA-256 Bitcoin hashing engine implemented as a systolic pipeline |
-| 5 | 2 | 0 | 9 years ago | [MIDI-Synthesizer](https://github.com/proland/MIDI-Synthesizer)/969 | None |
-| 5 | 6 | 0 | 6 years ago | [udp_ip_stack](https://github.com/simgunz/udp_ip_stack)/970 | This repository contains a copy of the "1G eth UDP / IP Stack" opencores.org project(http://opencores.org/project,udp_ip_stack) and add a fully working mac layer for the Virtex 6 ML605 board. Moreover it provides a Qt benchmark software. |
-| 5 | 1 | 0 | 5 years ago | [VHDL-Voice-Recognition](https://github.com/emrekaragozoglu/VHDL-Voice-Recognition)/971 | Speech Recognition System implemented in FPGA boards (BASYS2) using VHDL. I used 2 BASYS 2 FPGA boards to implement this project because project's required RAM space and processing capacity exceed BASYS2's recources. |
-| 5 | 0 | 0 | 3 years ago | [Cache](https://github.com/arminkz/Cache)/972 | 2 way set associative cache controller |
-| 5 | 3 | 0 | 3 years ago | [Game-of-Balance-on-Nexys4DDR](https://github.com/g0kul/Game-of-Balance-on-Nexys4DDR)/973 | Game of Balance is an accelerometer based maze navigation game, with added features of score and life, that is built on Nexys 4 DDR development board. |
-| 5 | 4 | 0 | 3 years ago | [Zybo-Z7-10-base-linux](https://github.com/Digilent/Zybo-Z7-10-base-linux)/974 | None |
-| 5 | 5 | 0 | 3 years ago | [CNN_DPR](https://github.com/KaestnerFlorian/CNN_DPR)/975 | Landmark Detection with CNN on FPGA including DPR |
-| 5 | 0 | 0 | 1 year, 11 months ago | [IGESC](https://github.com/bogdanseczkowski/IGESC)/976 | FPGA based 3phase ESC |
-| 5 | 6 | 0 | 1 year, 10 months ago | [iota_vhdl_pow](https://github.com/shufps/iota_vhdl_pow)/977 | None |
-| 5 | 1 | 0 | 1 year, 6 months ago | [CPU-VHDL](https://github.com/giulysanfins/CPU-VHDL)/978 | Um simples CPU desenvolvido em VHDL |
-| 5 | 2 | 0 | 1 year, 2 months ago | [bonfire-soc-fireant](https://github.com/ThomasHornschuh/bonfire-soc-fireant)/979 | Bonfire SoC running on FireAnt FPGA Board |
-| 5 | 0 | 0 | 29 days ago | [new6510](https://github.com/ThKattanek/new6510)/980 | new6510 is a mos6510 clone in a fpga |
-| 5 | 1 | 0 | 5 years ago | [ghdl](https://github.com/peteut/ghdl)/981 | A mirror of GHDL - a VHDL language front-end for GCC and LLVM |
-| 5 | 0 | 0 | 5 years ago | [SynADT](https://github.com/Hilx/SynADT)/982 | Data Structures (Linked List, Binary Tree, HashTable, Vectors) in HLS using SysAlloc. |
-| 5 | 0 | 0 | 7 years ago | [vhdl](https://github.com/DheerendraRathor/vhdl)/983 | This repository contains the codes for various type of circuits simulated in VHDL in Xilinx ISE Design.  |
-| 5 | 3 | 0 | 9 years ago | [mkjpeg](https://github.com/trondd/mkjpeg)/984 | EV_JPEG_ENC core is intended to encode raw bitmap images into JPEG compliant coded bit stream. JPEG baseline encoding method is used. •	LICENSE: GNU LGPL v3.0  |
-| 5 | 4 | 2 | 3 years ago | [colecofpga](https://github.com/fbelavenuto/colecofpga)/985 | Colecovision FGPA port from old PACE project. |
-| 5 | 0 | 0 | 4 years ago | [tinycomputer](https://github.com/zpekic/tinycomputer)/986 | Tiny 4-bit CPU using AMD2901 bit slice (https://github.com/Amrnasr/AM2901) and program memory initialized from a file |
-| 5 | 0 | 0 | 2 years ago | [snake-verilog](https://github.com/aryabartar/snake-verilog)/987 | This program is written in verilog . |
-| 5 | 1 | 0 | 1 year, 7 months ago | [rc2014_fpga](https://github.com/Hyiger-Designs/rc2014_fpga)/988 | A VHDL emulation of the RC2014 Z80 SBC |
-| 5 | 0 | 0 | 6 years ago | [vhdl-simple-processor](https://github.com/plorefice/vhdl-simple-processor)/989 | Implementation of a simple processor using VHDL for logic synthesis in FPGA |
-| 5 | 3 | 1 | 5 years ago | [TMC5130FPGA](https://github.com/magnifikus/TMC5130FPGA)/990 | None |
-| 5 | 2 | 1 | 9 months ago | [VHDL_Handbook_CNE](https://github.com/VHDLTool/VHDL_Handbook_CNE)/991 | CNES Edition of the VHDL Rules |
-| 5 | 0 | 0 | 11 years ago | [noc-ni](https://github.com/fvila/noc-ni)/992 | Network Interface for a NoC implemented in VHDL |
-| 5 | 7 | 1 | 6 years ago | [SOC_tutorial](https://github.com/AntonZero/SOC_tutorial)/993 | DE1-SOC |
-| 5 | 7 | 0 | 1 year, 1 month ago | [HDL](https://github.com/DeathByLogic/HDL)/994 | None |
-| 5 | 4 | 0 | 6 years ago | [hardware-traffic-generator](https://github.com/twisterss/hardware-traffic-generator)/995 | 10 Gbit/s flexible and extensible Ethernet FPGA-based traffic generator |
-| 5 | 11 | 1 | 10 years ago | [welecw2000a](https://github.com/Razer6/welecw2000a)/996 | Redesigned firmware for Welec W2000A series digital storage oscilloscopes |
-| 5 | 0 | 0 | 7 years ago | [sha256_core](https://github.com/osafune/sha256_core)/997 | None |
-| 5 | 4 | 1 | 4 years ago | [Petalinux-on-Zedboard-camera-streaming](https://github.com/nikkatsa7/Petalinux-on-Zedboard-camera-streaming)/998 | None |
-| 5 | 3 | 1 | 3 years ago | [OpenNX4](https://github.com/raplin/OpenNX4)/999 | New FPGA firmware for Barco NX4 LED video tiles, supporting many features handy for hackers, and use of an inexpensive linux SBC as a tile controller |
-| 5 | 2 | 3 | 3 years ago | [Zybo-DMA](https://github.com/Digilent/Zybo-DMA)/1000 | None |
+| 5 | 1 | 0 | 5 years ago | [VHDL-Voice-Recognition](https://github.com/emrekaragozoglu/VHDL-Voice-Recognition)/968 | Speech Recognition System implemented in FPGA boards (BASYS2) using VHDL. I used 2 BASYS 2 FPGA boards to implement this project because project's required RAM space and processing capacity exceed BASYS2's recources. |
+| 5 | 2 | 0 | 5 years ago | [SysPy](https://github.com/evlog/SysPy)/969 | This project is based on my PhD thesis and is related to a Python tool called System Python (SysPy) developed to ease the hardware implementation of  processor-centric systems implemented on FGPA devices.  |
+| 5 | 2 | 0 | 1 year, 2 months ago | [hashpipe](https://github.com/thinkski/hashpipe)/970 | SHA-256 Bitcoin hashing engine implemented as a systolic pipeline |
+| 5 | 1 | 0 | 4 years ago | [PPM-VHDL](https://github.com/ishailesh8/PPM-VHDL)/971 | Here i have written the vhdl code for different intensity modulation schemes which are used in optical communication. It includes modulator and demodulator code for OOK, PPM, DDPM and DPIM schemes.  |
+| 5 | 1 | 0 | 4 years ago | [color_maker-s3esk](https://github.com/nkkav/color_maker-s3esk)/972 | A simple VGA output tester for the Xilinx Spartan-3E starter kit board. |
+| 5 | 2 | 0 | 8 years ago | [YaGraphCon](https://github.com/FrankBuss/YaGraphCon)/973 | Yet Another Graphics Controller |
+| 5 | 6 | 0 | 6 years ago | [udp_ip_stack](https://github.com/simgunz/udp_ip_stack)/974 | This repository contains a copy of the "1G eth UDP / IP Stack" opencores.org project(http://opencores.org/project,udp_ip_stack) and add a fully working mac layer for the Virtex 6 ML605 board. Moreover it provides a Qt benchmark software. |
+| 5 | 2 | 0 | 9 years ago | [MIDI-Synthesizer](https://github.com/proland/MIDI-Synthesizer)/975 | None |
+| 5 | 0 | 0 | 3 years ago | [Cache](https://github.com/arminkz/Cache)/976 | 2 way set associative cache controller |
+| 5 | 3 | 0 | 3 years ago | [Game-of-Balance-on-Nexys4DDR](https://github.com/g0kul/Game-of-Balance-on-Nexys4DDR)/977 | Game of Balance is an accelerometer based maze navigation game, with added features of score and life, that is built on Nexys 4 DDR development board. |
+| 5 | 4 | 0 | 3 years ago | [Zybo-Z7-10-base-linux](https://github.com/Digilent/Zybo-Z7-10-base-linux)/978 | None |
+| 5 | 5 | 0 | 3 years ago | [CNN_DPR](https://github.com/KaestnerFlorian/CNN_DPR)/979 | Landmark Detection with CNN on FPGA including DPR |
+| 5 | 1 | 0 | 1 year, 6 months ago | [CPU-VHDL](https://github.com/giulysanfins/CPU-VHDL)/980 | Um simples CPU desenvolvido em VHDL |
+| 5 | 6 | 0 | 1 year, 10 months ago | [iota_vhdl_pow](https://github.com/shufps/iota_vhdl_pow)/981 | None |
+| 5 | 2 | 0 | 1 year, 2 months ago | [bonfire-soc-fireant](https://github.com/ThomasHornschuh/bonfire-soc-fireant)/982 | Bonfire SoC running on FireAnt FPGA Board |
+| 5 | 0 | 0 | 1 year, 11 months ago | [IGESC](https://github.com/bogdanseczkowski/IGESC)/983 | FPGA based 3phase ESC |
+| 5 | 0 | 0 | a month ago | [new6510](https://github.com/ThKattanek/new6510)/984 | new6510 is a mos6510 clone in a fpga |
+| 5 | 1 | 0 | 2 years ago | [Restoring-Divider](https://github.com/Hardware-Lab/Restoring-Divider)/985 | Implementation of restoring division algorithm with VHDL. |
+| 5 | 1 | 0 | 5 years ago | [ghdl](https://github.com/peteut/ghdl)/986 | A mirror of GHDL - a VHDL language front-end for GCC and LLVM |
+| 5 | 0 | 0 | 5 years ago | [SynADT](https://github.com/Hilx/SynADT)/987 | Data Structures (Linked List, Binary Tree, HashTable, Vectors) in HLS using SysAlloc. |
+| 5 | 4 | 2 | 3 years ago | [colecofpga](https://github.com/fbelavenuto/colecofpga)/988 | Colecovision FGPA port from old PACE project. |
+| 5 | 0 | 0 | 7 years ago | [vhdl](https://github.com/DheerendraRathor/vhdl)/989 | This repository contains the codes for various type of circuits simulated in VHDL in Xilinx ISE Design.  |
+| 5 | 0 | 0 | 4 years ago | [tinycomputer](https://github.com/zpekic/tinycomputer)/990 | Tiny 4-bit CPU using AMD2901 bit slice (https://github.com/Amrnasr/AM2901) and program memory initialized from a file |
+| 5 | 3 | 0 | 9 years ago | [mkjpeg](https://github.com/trondd/mkjpeg)/991 | EV_JPEG_ENC core is intended to encode raw bitmap images into JPEG compliant coded bit stream. JPEG baseline encoding method is used. •	LICENSE: GNU LGPL v3.0  |
+| 5 | 1 | 0 | 1 year, 7 months ago | [rc2014_fpga](https://github.com/Hyiger-Designs/rc2014_fpga)/992 | A VHDL emulation of the RC2014 Z80 SBC |
+| 5 | 4 | 0 | 7 years ago | [yac](https://github.com/freecores/yac)/993 | YAC - Yet Another CORDIC Core |
+| 5 | 7 | 1 | 6 years ago | [SOC_tutorial](https://github.com/AntonZero/SOC_tutorial)/994 | DE1-SOC |
+| 5 | 7 | 0 | 1 year, 1 month ago | [HDL](https://github.com/DeathByLogic/HDL)/995 | None |
+| 5 | 0 | 0 | 7 years ago | [sha256_core](https://github.com/osafune/sha256_core)/996 | None |
+| 5 | 0 | 0 | 6 years ago | [vhdl-simple-processor](https://github.com/plorefice/vhdl-simple-processor)/997 | Implementation of a simple processor using VHDL for logic synthesis in FPGA |
+| 5 | 2 | 1 | 9 months ago | [VHDL_Handbook_CNE](https://github.com/VHDLTool/VHDL_Handbook_CNE)/998 | CNES Edition of the VHDL Rules |
+| 5 | 4 | 1 | 4 years ago | [Petalinux-on-Zedboard-camera-streaming](https://github.com/nikkatsa7/Petalinux-on-Zedboard-camera-streaming)/999 | None |
+| 5 | 0 | 0 | 11 years ago | [noc-ni](https://github.com/fvila/noc-ni)/1000 | Network Interface for a NoC implemented in VHDL |
