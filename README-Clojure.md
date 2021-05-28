@@ -1,44 +1,44 @@
 ## This is a most popular repository list for Clojure sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 56212 | 2489 | 267 | 16 days ago | [FiraCode](https://github.com/tonsky/FiraCode)/1 | Free monospaced font with programming ligatures |
-| 24903 | 3337 | 2232 | 11 hours ago | [metabase](https://github.com/metabase/metabase)/2 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: |
-| 11555 | 941 | 170 | a month ago | [LightTable](https://github.com/LightTable/LightTable)/3 | The Light Table IDE ⛺ |
+| 56228 | 2491 | 269 | 16 days ago | [FiraCode](https://github.com/tonsky/FiraCode)/1 | Free monospaced font with programming ligatures |
+| 24909 | 3337 | 2231 | an hour ago | [metabase](https://github.com/metabase/metabase)/2 | The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum: |
+| 11554 | 941 | 170 | a month ago | [LightTable](https://github.com/LightTable/LightTable)/3 | The Light Table IDE ⛺ |
 | 8671 | 757 | 1 | 6 days ago | [clojurescript](https://github.com/clojure/clojurescript)/4 | Clojure to JS compiler |
-| 7019 | 1599 | 177 | an hour ago | [leiningen](https://github.com/technomancy/leiningen)/5 | Automate Clojure projects without setting your hair on fire. |
+| 7020 | 1599 | 177 | 12 hours ago | [leiningen](https://github.com/technomancy/leiningen)/5 | Automate Clojure projects without setting your hair on fire. |
 | 6679 | 377 | 80 | 1 year, 1 month ago | [om](https://github.com/omcljs/om)/6 | ClojureScript interface to Facebook's React |
-| 5242 | 595 | 43 | 11 hours ago | [jepsen](https://github.com/jepsen-io/jepsen)/7 | A framework for distributed systems verification, with fault injection |
+| 5243 | 595 | 43 | 22 hours ago | [jepsen](https://github.com/jepsen-io/jepsen)/7 | A framework for distributed systems verification, with fault injection |
 | 5163 | 435 | 112 | 9 months ago | [overtone](https://github.com/overtone/overtone)/8 | Collaborative Programmable Music  |
-| 4812 | 664 | 27 | 3 days ago | [re-frame](https://github.com/day8/re-frame)/9 | A ClojureScript framework for building user interfaces, leveraging React |
-| 4438 | 272 | 195 | 14 minutes ago | [athens](https://github.com/athensresearch/athens)/10 | Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/ |
-| 4334 | 203 | 73 | 12 hours ago | [penpot](https://github.com/penpot/penpot)/11 | Penpot - The Open-Source design & prototyping platform |
+| 4812 | 664 | 27 | 4 days ago | [re-frame](https://github.com/day8/re-frame)/9 | A ClojureScript framework for building user interfaces, leveraging React |
+| 4441 | 272 | 194 | 9 hours ago | [athens](https://github.com/athensresearch/athens)/10 | Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/ |
+| 4337 | 203 | 72 | 5 hours ago | [penpot](https://github.com/penpot/penpot)/11 | Penpot - The Open-Source design & prototyping platform |
 | 4224 | 375 | 49 | a month ago | [reagent](https://github.com/reagent-project/reagent)/12 | A minimalistic ClojureScript interface to React.js |
 | 4168 | 264 | 72 | 17 days ago | [datascript](https://github.com/tonsky/datascript)/13 | Immutable database and Datalog query engine for Clojure, ClojureScript and JS |
-| 4046 | 527 | 16 | 11 days ago | [riemann](https://github.com/riemann/riemann)/14 | A network event stream processing system, in Clojure. |
-| 3976 | 229 | 492 | 7 hours ago | [logseq](https://github.com/logseq/logseq)/15 | A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap |
-| 3882 | 255 | 5 | a month ago | [compojure](https://github.com/weavejester/compojure)/16 | A concise routing library for Ring/Clojure |
+| 4046 | 527 | 16 | 12 days ago | [riemann](https://github.com/riemann/riemann)/14 | A network event stream processing system, in Clojure. |
+| 3987 | 229 | 497 | 6 hours ago | [logseq](https://github.com/logseq/logseq)/15 | A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap |
+| 3881 | 255 | 5 | a month ago | [compojure](https://github.com/weavejester/compojure)/16 | A concise routing library for Ring/Clojure |
 | 3821 | 221 | 33 | 25 days ago | [alda](https://github.com/alda-lang/alda)/17 | A music programming language for musicians. :notes: |
 | 3806 | 218 | 26 | 3 years ago | [icepick](https://github.com/frankiesardo/icepick)/18 | Android Instance State made easy |
 | 3444 | 1997 | 8 | 10 months ago | [clojure-koans](https://github.com/functional-koans/clojure-koans)/19 | A set of exercises for learning Clojure |
 | 3323 | 149 | 63 | 5 years ago | [mori](https://github.com/swannodette/mori)/20 | ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript |
 | 3303 | 481 | 42 | a month ago | [ring](https://github.com/ring-clojure/ring)/21 | Clojure HTTP server abstraction |
-| 3133 | 794 | 325 | 2 days ago | [status-react](https://github.com/status-im/status-react)/22 | a free (libre) open source, mobile OS for Ethereum |
+| 3133 | 794 | 327 | a day ago | [status-react](https://github.com/status-im/status-react)/22 | a free (libre) open source, mobile OS for Ethereum |
 | 2884 | 309 | 38 | 3 years ago | [modern-cljs](https://github.com/magomimmo/modern-cljs)/23 | A series of tutorials on ClojureScript |
 | 2860 | 216 | 96 | 6 months ago | [lein-figwheel](https://github.com/bhauman/lein-figwheel)/24 | Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding! |
 | 2620 | 153 | 37 | 7 months ago | [quil](https://github.com/quil/quil)/25 | Main repo. Quil source code. |
-| 2588 | 128 | 79 | 3 months ago | [klipse](https://github.com/viebel/klipse)/26 | Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs. |
+| 2587 | 128 | 79 | 3 months ago | [klipse](https://github.com/viebel/klipse)/26 | Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs. |
 | 2415 | 132 | 39 | 2 years ago | [instaparse](https://github.com/Engelberg/instaparse)/27 | None |
 | 2383 | 273 | 43 | 18 days ago | [pedestal](https://github.com/pedestal/pedestal)/28 | The Pedestal Server-side Libraries |
 | 2363 | 426 | 40 | 3 years ago | [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)/29 | This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com |
 | 2352 | 226 | 66 | 2 months ago | [aleph](https://github.com/clj-commons/aleph)/30 | asynchronous communication for clojure |
-| 2261 | 164 | 41 | 6 days ago | [hiccup](https://github.com/weavejester/hiccup)/31 | Fast library for rendering HTML in Clojure |
-| 2201 | 87 | 30 | 7 months ago | [specter](https://github.com/redplanetlabs/specter)/32 | Clojure(Script)'s missing piece |
-| 2183 | 295 | 73 | 1 year, 4 months ago | [incanter](https://github.com/incanter/incanter)/33 | Clojure-based, R-like statistical computing and graphics environment for the JVM |
-| 2150 | 176 | 9 | a month ago | [awesome-clojure](https://github.com/razum2um/awesome-clojure)/34 | A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff |
+| 2261 | 164 | 41 | 7 days ago | [hiccup](https://github.com/weavejester/hiccup)/31 | Fast library for rendering HTML in Clojure |
+| 2202 | 87 | 30 | 7 months ago | [specter](https://github.com/redplanetlabs/specter)/32 | Clojure(Script)'s missing piece |
+| 2184 | 295 | 73 | 1 year, 4 months ago | [incanter](https://github.com/incanter/incanter)/33 | Clojure-based, R-like statistical computing and graphics environment for the JVM |
+| 2151 | 176 | 9 | a month ago | [awesome-clojure](https://github.com/razum2um/awesome-clojure)/34 | A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff |
 | 2130 | 248 | 24 | 1 year, 4 months ago | [schema](https://github.com/plumatic/schema)/35 | Clojure(Script) library for declarative data description and validation |
-| 2072 | 199 | 129 | 10 days ago | [swarmpit](https://github.com/swarmpit/swarmpit)/36 | Lightweight mobile-friendly Docker Swarm management UI |
+| 2072 | 198 | 129 | 11 days ago | [swarmpit](https://github.com/swarmpit/swarmpit)/36 | Lightweight mobile-friendly Docker Swarm management UI |
 | 1994 | 212 | 84 | 1 year, 8 months ago | [onyx](https://github.com/onyx-platform/onyx)/37 | Distributed, masterless, high performance, fault tolerant data processing |
-| 1989 | 122 | 62 | 9 hours ago | [babashka](https://github.com/babashka/babashka)/38 | Native, fast starting Clojure interpreter for scripting |
+| 1991 | 123 | 62 | 25 minutes ago | [babashka](https://github.com/babashka/babashka)/38 | Native, fast starting Clojure interpreter for scripting |
 | 1873 | 94 | 0 | 1 year, 2 months ago | [component](https://github.com/stuartsierra/component)/39 | Managed lifecycle of stateful objects in Clojure |
 | 1828 | 91 | 104 | 1 year, 4 months ago | [lumo](https://github.com/anmonteiro/lumo)/40 | Fast, cross-platform, standalone ClojureScript environment |
 | 1794 | 194 | 2 | a month ago | [core.async](https://github.com/clojure/core.async)/41 | Facilities for async programming and communication in Clojure |
@@ -47,24 +47,24 @@
 | 1713 | 179 | 12 | 4 months ago | [code-maat](https://github.com/adamtornhill/code-maat)/44 | A command line tool to mine and analyze data from version-control systems |
 | 1711 | 173 | 112 | a month ago | [boot](https://github.com/boot-clj/boot)/45 | Build tooling for Clojure. |
 | 1667 | 130 | 68 | a month ago | [kibit](https://github.com/jonase/kibit)/46 | There's a function for that! |
-| 1629 | 126 | 45 | 11 hours ago | [shadow-cljs](https://github.com/thheller/shadow-cljs)/47 | ClojureScript compilation made easy |
+| 1629 | 126 | 45 | 22 hours ago | [shadow-cljs](https://github.com/thheller/shadow-cljs)/47 | ClojureScript compilation made easy |
 | 1606 | 128 | 44 | 15 days ago | [Midje](https://github.com/marick/Midje)/48 | Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing |
 | 1591 | 174 | 34 | 2 months ago | [sente](https://github.com/ptaoussanis/sente)/49 | Realtime web comms for Clojure/Script |
-| 1580 | 381 | 45 | 3 days ago | [clj-http](https://github.com/dakrone/clj-http)/50 | An idiomatic clojure http client wrapping the apache client. Offically supported version. |
-| 1564 | 111 | 11 | a month ago | [lacinia](https://github.com/walmartlabs/lacinia)/51 | GraphQL implementation in pure Clojure |
+| 1579 | 381 | 45 | 3 days ago | [clj-http](https://github.com/dakrone/clj-http)/50 | An idiomatic clojure http client wrapping the apache client. Offically supported version. |
+| 1565 | 111 | 11 | a month ago | [lacinia](https://github.com/walmartlabs/lacinia)/51 | GraphQL implementation in pure Clojure |
 | 1554 | 102 | 50 | 1 year, 1 month ago | [Arcadia](https://github.com/arcadia-unity/Arcadia)/52 | Clojure in Unity |
 | 1542 | 147 | 29 | 1 year, 11 months ago | [enlive](https://github.com/cgrand/enlive)/53 | a selector-based (à la CSS) templating and transformation system for Clojure |
 | 1509 | 57 | 63 | 3 months ago | [closh](https://github.com/dundalek/closh)/54 | Bash-like shell based on Clojure |
-| 1459 | 234 | 82 | 3 years ago | [Korma](https://github.com/korma/Korma)/55 | Tasty SQL for Clojure. |
-| 1457 | 108 | 84 | 5 years ago | [drake](https://github.com/Factual/drake)/56 | Data workflow tool, like a "Make for data" |
+| 1459 | 108 | 84 | 5 years ago | [drake](https://github.com/Factual/drake)/55 | Data workflow tool, like a "Make for data" |
+| 1459 | 234 | 82 | 3 years ago | [Korma](https://github.com/korma/Korma)/56 | Tasty SQL for Clojure. |
 | 1448 | 105 | 32 | a year ago | [devcards](https://github.com/bhauman/devcards)/57 | Devcards aims to provide a visual REPL experience for ClojureScript |
 | 1398 | 74 | 14 | 1 year, 10 months ago | [konstellate](https://github.com/jeremykross/konstellate)/58 | Free and Open Source GUI to Visualize Kubernetes Applications. |
 | 1396 | 109 | 13 | 3 years ago | [plumbing](https://github.com/plumatic/plumbing)/59 | Prismatic's Clojure(Script) utility belt |
 | 1396 | 120 | 32 | 1 year, 3 months ago | [Nightcode](https://github.com/oakes/Nightcode)/60 | An IDE for Clojure |
 | 1391 | 87 | 11 | 4 years ago | [auto-parcel](https://github.com/frankiesardo/auto-parcel)/61 | Android Parcelable models made easy |
 | 1379 | 112 | 67 | 3 years ago | [yesql](https://github.com/krisajenkins/yesql)/62 | A Clojure library for using SQL. |
-| 1368 | 181 | 41 | 5 years ago | [cascalog](https://github.com/nathanmarz/cascalog)/63 | Data processing on Hadoop without the hassle. |
-| 1368 | 88 | 134 | 7 hours ago | [crux](https://github.com/juxt/crux)/64 | General purpose bitemporal database for SQL, Datalog & graph queries |
+| 1369 | 88 | 134 | 2 hours ago | [crux](https://github.com/juxt/crux)/63 | General purpose bitemporal database for SQL, Datalog & graph queries |
+| 1368 | 181 | 41 | 5 years ago | [cascalog](https://github.com/nathanmarz/cascalog)/64 | Data processing on Hadoop without the hassle. |
 | 1359 | 140 | 69 | 2 years ago | [seesaw](https://github.com/clj-commons/seesaw)/65 | Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library |
 | 1330 | 228 | 70 | 1 year, 11 months ago | [duckling_old](https://github.com/facebookarchive/duckling_old)/66 | Deprecated in favor of https://github.com/facebook/duckling |
 | 1314 | 127 | 5 | 6 days ago | [honeysql](https://github.com/seancorfield/honeysql)/67 | Turn Clojure data structures into SQL |
@@ -75,19 +75,19 @@
 | 1234 | 108 | 29 | 3 years ago | [cortex](https://github.com/originrose/cortex)/72 | Machine learning in Clojure |
 | 1224 | 134 | 61 | 1 year, 6 months ago | [liberator](https://github.com/clojure-liberator/liberator)/73 | Liberator is a Clojure library for building RESTful applications. |
 | 1219 | 44 | 3 | 2 days ago | [lux](https://github.com/LuxLang/lux)/74 | The Lux Programming Language |
-| 1217 | 74 | 1 | 15 days ago | [core.typed](https://github.com/clojure/core.typed)/75 | An optional type system for Clojure |
+| 1217 | 74 | 1 | 16 days ago | [core.typed](https://github.com/clojure/core.typed)/75 | An optional type system for Clojure |
 | 1216 | 32 | 8 | 2 years ago | [ultra](https://github.com/venantius/ultra)/76 | A Leiningen plugin for a superior development environment |
 | 1193 | 68 | 38 | 4 months ago | [garden](https://github.com/noprompt/garden)/77 | Generate CSS with Clojure |
-| 1166 | 125 | 31 | 2 months ago | [friend](https://github.com/cemerick/friend)/78 | An extensible authentication and authorization library for Clojure Ring web applications and services.  |
-| 1153 | 62 | 54 | 11 hours ago | [datahike](https://github.com/replikativ/datahike)/79 | A durable Datalog implementation adaptable for distribution.  |
+| 1167 | 125 | 31 | 2 months ago | [friend](https://github.com/cemerick/friend)/78 | An extensible authentication and authorization library for Clojure Ring web applications and services.  |
+| 1154 | 62 | 54 | 21 hours ago | [datahike](https://github.com/replikativ/datahike)/79 | A durable Datalog implementation adaptable for distribution.  |
 | 1152 | 225 | 24 | 3 years ago | [frontend](https://github.com/CircleCI-Archived/frontend)/80 | CircleCI's frontend |
-| 1145 | 166 | 166 | 14 days ago | [clj-kondo](https://github.com/clj-kondo/clj-kondo)/81 | A linter for Clojure code that sparks joy. |
+| 1145 | 166 | 166 | 15 days ago | [clj-kondo](https://github.com/clj-kondo/clj-kondo)/81 | A linter for Clojure code that sparks joy. |
 | 1100 | 40 | 1 | 2 years ago | [frak](https://github.com/noprompt/frak)/82 | Transform collections of strings into regular expressions. |
 | 1099 | 79 | 17 | 2 years ago | [hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree)/83 | Functional, persistent, off-heap, high performance data structure |
 | 1094 | 102 | 1 | 2 days ago | [fulcro](https://github.com/fulcrologic/fulcro)/84 | A library for development of single-page full-stack web applications in clj/cljs |
 | 1062 | 142 | 33 | a month ago | [compojure-api](https://github.com/metosin/compojure-api)/85 | Sweet web apis with Compojure & Swagger |
 | 1061 | 158 | 49 | 2 months ago | [lein-cljsbuild](https://github.com/emezeske/lein-cljsbuild)/86 | Leiningen plugin to make ClojureScript development easy. |
-| 1060 | 74 | 25 | 8 months ago | [mount](https://github.com/tolitius/mount)/87 | managing Clojure and ClojureScript app state since (reset) |
+| 1061 | 74 | 25 | 8 months ago | [mount](https://github.com/tolitius/mount)/87 | managing Clojure and ClojureScript app state since (reset) |
 | 1034 | 59 | 0 | a month ago | [core.match](https://github.com/clojure/core.match)/88 | None |
 | 1028 | 105 | 80 | 4 months ago | [clara-rules](https://github.com/cerner/clara-rules)/89 | Forward-chaining rules in Clojure(Script) |
 | 1024 | 107 | 0 | a month ago | [test.check](https://github.com/clojure/test.check)/90 | QuickCheck for Clojure |
@@ -100,8 +100,8 @@
 | 954 | 66 | 42 | 7 months ago | [hoplon](https://github.com/hoplon/hoplon)/97 | Hoplon web development tools and libraries. |
 | 944 | 91 | 56 | 1 year, 3 months ago | [bidi](https://github.com/juxt/bidi)/98 | Bidirectional URI routing |
 | 933 | 75 | 9 | 2 years ago | [play-clj](https://github.com/oakes/play-clj)/99 | A Clojure game library |
-| 932 | 49 | 6 | 28 days ago | [neanderthal](https://github.com/uncomplicate/neanderthal)/100 | Fast Clojure Matrix Library |
-| 931 | 161 | 100 | a day ago | [reitit](https://github.com/metosin/reitit)/101 | A fast data-driven router for Clojure/Script |
+| 932 | 49 | 6 | 29 days ago | [neanderthal](https://github.com/uncomplicate/neanderthal)/100 | Fast Clojure Matrix Library |
+| 931 | 161 | 100 | 2 days ago | [reitit](https://github.com/metosin/reitit)/101 | A fast data-driven router for Clojure/Script |
 | 928 | 81 | 14 | 5 years ago | [logic-tutorial](https://github.com/swannodette/logic-tutorial)/102 | A Very Gentle Introduction to Relational Programming |
 | 921 | 198 | 34 | a month ago | [amazonica](https://github.com/mcohen01/amazonica)/103 | A comprehensive Clojure client for the entire Amazon AWS api. |
 | 907 | 57 | 24 | 4 years ago | [markright](https://github.com/dvcrn/markright)/104 | ➡ Electron powered markdown editor with live preview |
@@ -110,15 +110,15 @@
 | 885 | 52 | 10 | 3 years ago | [pulsar](https://github.com/puniverse/pulsar)/107 | Fibers, Channels and Actors for Clojure |
 | 885 | 73 | 31 | 6 months ago | [cats](https://github.com/funcool/cats)/108 | Category Theory and Algebraic abstractions for Clojure and ClojureScript. |
 | 884 | 51 | 38 | 2 days ago | [braid](https://github.com/braidchat/braid)/109 |  Braid is a team-chat app with a novel UI that leads to better conversations. |
-| 880 | 83 | 45 | 7 days ago | [cljfmt](https://github.com/weavejester/cljfmt)/110 | A tool for formatting Clojure code |
-| 868 | 36 | 12 | 4 days ago | [liquid](https://github.com/mogenslund/liquid)/111 | Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim. |
+| 881 | 83 | 45 | 7 days ago | [cljfmt](https://github.com/weavejester/cljfmt)/110 | A tool for formatting Clojure code |
+| 868 | 36 | 12 | 5 days ago | [liquid](https://github.com/mogenslund/liquid)/111 | Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim. |
 | 865 | 126 | 10 | 6 years ago | [lt-cljs-tutorial](https://github.com/swannodette/lt-cljs-tutorial)/112 | A ClojureScript Programming Language Tutorial for Light Table Users |
 | 857 | 66 | 15 | 1 year, 22 days ago | [environ](https://github.com/weavejester/environ)/113 | Library for managing environment variables in Clojure |
 | 853 | 95 | 38 | a month ago | [manifold](https://github.com/clj-commons/manifold)/114 | a compatibility layer for event-driven abstractions |
 | 843 | 54 | 2 | 6 months ago | [nippy](https://github.com/ptaoussanis/nippy)/115 | High-performance serialization library for Clojure |
-| 841 | 64 | 16 | 10 months ago | [clojuredocs](https://github.com/zk/clojuredocs)/116 | clojuredocs.org web app |
-| 824 | 98 | 20 | a day ago | [Selmer](https://github.com/yogthos/Selmer)/117 | A fast, Django inspired template system in Clojure. |
-| 816 | 19 | 12 | 19 days ago | [expound](https://github.com/bhb/expound)/118 | Human-optimized error messages for clojure.spec |
+| 842 | 64 | 16 | 10 months ago | [clojuredocs](https://github.com/zk/clojuredocs)/116 | clojuredocs.org web app |
+| 823 | 98 | 20 | 2 days ago | [Selmer](https://github.com/yogthos/Selmer)/117 | A fast, Django inspired template system in Clojure. |
+| 815 | 19 | 12 | 19 days ago | [expound](https://github.com/bhb/expound)/118 | Human-optimized error messages for clojure.spec |
 | 810 | 40 | 3 | 2 months ago | [tesser](https://github.com/aphyr/tesser)/119 | Clojure reducers, but for parallel execution: locally and on distributed systems. |
 | 806 | 37 | 4 | 2 months ago | [titanoboa](https://github.com/mikub/titanoboa)/120 | Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant. |
 | 796 | 123 | 126 | 5 years ago | [pallet](https://github.com/pallet/pallet)/121 | Automates controlling and provisioning cloud server instances. DevOps for the JVM. |
@@ -127,30 +127,30 @@
 | 788 | 494 | 4 | 9 months ago | [wonderland-clojure-katas](https://github.com/gigasquid/wonderland-clojure-katas)/124 | Clojure Katas inspired by Alice in Wonderland |
 | 788 | 79 | 2 | 4 days ago | [reagent-cookbook](https://github.com/reagent-project/reagent-cookbook)/125 | Examples of how to accomplish specific tasks in a Reagent webapp. |
 | 780 | 37 | 3 | 25 days ago | [buddy](https://github.com/funcool/buddy)/126 | Security library for Clojure |
-| 777 | 352 | 327 | 14 days ago | [netrunner](https://github.com/mtgred/netrunner)/127 | None |
+| 777 | 352 | 326 | 14 days ago | [netrunner](https://github.com/mtgred/netrunner)/127 | None |
 | 768 | 68 | 18 | 7 days ago | [geom](https://github.com/thi-ng/geom)/128 | 2D/3D geometry toolkit for Clojure/Clojurescript |
 | 766 | 105 | 37 | a month ago | [loom](https://github.com/aysylu/loom)/129 | Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj |
 | 764 | 64 | 23 | 5 months ago | [secretary](https://github.com/clj-commons/secretary)/130 | A client-side router for ClojureScript. |
 | 754 | 100 | 37 | 2 years ago | [pronoun.is](https://github.com/witch-house/pronoun.is)/131 | Show people how to use pronouns! |
 | 751 | 79 | 16 | 5 years ago | [dommy](https://github.com/plumatic/dommy)/132 | A tiny ClojureScript DOM manipulation and event library |
-| 747 | 85 | 75 | 19 hours ago | [malli](https://github.com/metosin/malli)/133 | Data-Driven Schemas for Clojure/Script. |
+| 747 | 85 | 76 | a day ago | [malli](https://github.com/metosin/malli)/133 | Data-Driven Schemas for Clojure/Script. |
 | 747 | 84 | 23 | 8 years ago | [noir](https://github.com/noir-clojure/noir)/134 | A framework for writing web applications in clojure. |
 | 740 | 32 | 15 | 5 months ago | [dirac](https://github.com/binaryage/dirac)/135 | A Chrome DevTools fork for ClojureScript developers |
 | 734 | 180 | 4 | 3 months ago | [citysdk](https://github.com/uscensusbureau/citysdk)/136 | Convenient JavaScript utilities for working with Census APIs: Statistics, Cartographic GeoJSON, lat/lng -> FIPS, and other niceties (written in ClojureScript) |
 | 728 | 45 | 8 | 1 year, 2 months ago | [javelin](https://github.com/hoplon/javelin)/137 | Spreadsheet-like dataflow programming in ClojureScript. |
 | 716 | 79 | 4 | 2 years ago | [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)/138 | Natural Language Processing in Clojure (opennlp) |
 | 711 | 58 | 0 | 6 years ago | [lamina](https://github.com/ztellman/lamina)/139 | not under active development - event-driven workflows for clojure |
-| 702 | 44 | 11 | 5 days ago | [libpython-clj](https://github.com/clj-python/libpython-clj)/140 | Python bindings for Clojure |
+| 703 | 44 | 11 | 5 days ago | [libpython-clj](https://github.com/clj-python/libpython-clj)/140 | Python bindings for Clojure |
 | 702 | 140 | 48 | 2 days ago | [re-com](https://github.com/day8/re-com)/141 | A ClojureScript library of reusable components for Reagent |
 | 690 | 85 | 17 | 4 months ago | [clojupyter](https://github.com/clojupyter/clojupyter)/142 | a Jupyter kernel for Clojure |
 | 672 | 63 | 17 | 1 year, 9 days ago | [sablono](https://github.com/r0man/sablono)/143 | Lisp/Hiccup style templating for Facebook's React in ClojureScript. |
 | 666 | 33 | 21 | 23 days ago | [meander](https://github.com/noprompt/meander)/144 | Tools for transparent data transformation |
 | 664 | 137 | 0 | a month ago | [java.jdbc](https://github.com/clojure/java.jdbc)/145 | JDBC from Clojure (formerly clojure.contrib.sql) |
 | 664 | 84 | 0 | 11 months ago | [tools.nrepl](https://github.com/clojure/tools.nrepl)/146 | A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments. |
-| 656 | 35 | 17 | 2 days ago | [cljfx](https://github.com/cljfx/cljfx)/147 | Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame |
-| 654 | 60 | 23 | 18 days ago | [lambdacd](https://github.com/flosell/lambdacd)/148 | a library to define a continuous delivery pipeline in code |
-| 652 | 114 | 65 | 7 days ago | [core.matrix](https://github.com/mikera/core.matrix)/149 | core.matrix : Multi-dimensional array programming API for Clojure |
-| 650 | 45 | 32 | 10 hours ago | [sci](https://github.com/borkdude/sci)/150 | Configurable Clojure interpreter suitable for scripting and Clojure DSLs. |
+| 656 | 35 | 17 | 3 days ago | [cljfx](https://github.com/cljfx/cljfx)/147 | Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame |
+| 654 | 60 | 23 | 19 days ago | [lambdacd](https://github.com/flosell/lambdacd)/148 | a library to define a continuous delivery pipeline in code |
+| 652 | 114 | 65 | 8 days ago | [core.matrix](https://github.com/mikera/core.matrix)/149 | core.matrix : Multi-dimensional array programming API for Clojure |
+| 651 | 45 | 32 | 2 hours ago | [sci](https://github.com/borkdude/sci)/150 | Configurable Clojure interpreter suitable for scripting and Clojure DSLs. |
 | 645 | 57 | 26 | 4 years ago | [lein-droid](https://github.com/clojure-android/lein-droid)/151 | A Leiningen plugin for building Clojure/Android projects |
 | 641 | 0 | 0 | 4 years ago | [vr-logorrhoe](https://github.com/voicerepublic/vr-logorrhoe)/152 | None |
 | 638 | 49 | 3 | 4 months ago | [medley](https://github.com/weavejester/medley)/153 | A lightweight library of useful Clojure functions |
@@ -158,14 +158,14 @@
 | 628 | 29 | 36 | 2 years ago | [precept](https://github.com/CoNarrative/precept)/155 | A declarative programming framework |
 | 626 | 67 | 11 | 3 months ago | [etaoin](https://github.com/igrishaev/etaoin)/156 | Pure Clojure Webdriver protocol implementation |
 | 622 | 50 | 1 | a month ago | [tools.cli](https://github.com/clojure/tools.cli)/157 | Command-line processing |
-| 610 | 112 | 32 | 22 days ago | [ethlance](https://github.com/district0x/ethlance)/158 | Ethlance is the first job market platform built entirely on the Ethereum blockchain. Free to use forever! |
+| 610 | 112 | 32 | 23 days ago | [ethlance](https://github.com/district0x/ethlance)/158 | Ethlance is the first job market platform built entirely on the Ethereum blockchain. Free to use forever! |
 | 610 | 25 | 23 | 9 years ago | [atea](https://github.com/pkamenarsky/atea)/159 | A minimalistic menu bar time tracker for MacOS |
 | 609 | 44 | 4 | 5 years ago | [quiescent](https://github.com/levand/quiescent)/160 | A lightweight ClojureScript abstraction over ReactJS |
 | 607 | 89 | 13 | 2 years ago | [flambo](https://github.com/sorenmacbeth/flambo)/161 | A Clojure DSL for Apache Spark |
 | 604 | 124 | 18 | a month ago | [cljs-ajax](https://github.com/JulianBirch/cljs-ajax)/162 | simple asynchronous Ajax client for ClojureScript and Clojure |
 | 601 | 24 | 9 | 2 years ago | [klangmeister](https://github.com/ctford/klangmeister)/163 | A musical scratchpad. |
 | 600 | 77 | 20 | 6 years ago | [enlive-tutorial](https://github.com/swannodette/enlive-tutorial)/164 | An Easy Introduction to Enlive |
-| 598 | 74 | 26 | 7 hours ago | [clojure-lsp](https://github.com/clojure-lsp/clojure-lsp)/165 | Language Server (LSP) for Clojure |
+| 598 | 74 | 26 | 18 hours ago | [clojure-lsp](https://github.com/clojure-lsp/clojure-lsp)/165 | Language Server (LSP) for Clojure |
 | 596 | 49 | 7 | 11 months ago | [clojurecademy](https://github.com/clojurecademy/clojurecademy)/166 | Clojurecademy Web Application |
 | 595 | 24 | 9 | 1 year, 7 months ago | [slingshot](https://github.com/scgilardi/slingshot)/167 | Enhanced try and throw for Clojure leveraging Clojure's capabilities |
 | 588 | 70 | 9 | 3 months ago | [trapperkeeper](https://github.com/puppetlabs/trapperkeeper)/168 | A services framework for Clojure / JVM applications. |
@@ -173,18 +173,18 @@
 | 585 | 40 | 8 | 3 months ago | [precursor](https://github.com/PrecursorApp/precursor)/170 | Create mockups with real-time collaboration |
 | 585 | 136 | 6 | 3 years ago | [programming-clojure](https://github.com/stuarthalloway/programming-clojure)/171 | Sample code for the book |
 | 585 | 72 | 14 | 3 months ago | [system](https://github.com/danielsz/system)/172 | Reloaded components à la carte |
-| 580 | 156 | 30 | 2 days ago | [luminus-template](https://github.com/luminus-framework/luminus-template)/173 | a template project for the Luminus framework |
+| 581 | 156 | 30 | 2 days ago | [luminus-template](https://github.com/luminus-framework/luminus-template)/173 | a template project for the Luminus framework |
 | 579 | 91 | 37 | 24 days ago | [clj-pdf](https://github.com/clj-pdf/clj-pdf)/174 | PDF generation library for Clojure |
 | 577 | 39 | 71 | 1 year, 10 days ago | [rebel-readline](https://github.com/bhauman/rebel-readline)/175 | Terminal readline library for Clojure dialects |
-| 576 | 29 | 2 | 21 days ago | [maelstrom](https://github.com/jepsen-io/maelstrom)/176 | A workbench for writing toy implementations of distributed systems. |
+| 577 | 29 | 2 | 21 days ago | [maelstrom](https://github.com/jepsen-io/maelstrom)/176 | A workbench for writing toy implementations of distributed systems. |
 | 576 | 23 | 9 | 4 months ago | [orchestra](https://github.com/jeaye/orchestra)/177 | Complete instrumentation for clojure.spec |
-| 573 | 52 | 49 | 2 years ago | [proton](https://github.com/dvcrn/proton)/178 | space-atom. spacemacs and sublimious style editing in atom |
+| 574 | 52 | 49 | 2 years ago | [proton](https://github.com/dvcrn/proton)/178 | space-atom. spacemacs and sublimious style editing in atom |
 | 569 | 56 | 0 | 1 year, 1 month ago | [cljs-electron](https://github.com/Gonzih/cljs-electron)/179 | ClojureScript + Electron + Figwheel + Reagent  = ❤❤❤ |
 | 567 | 47 | 15 | 3 years ago | [automat](https://github.com/ztellman/automat)/180 | better automata through combinators |
 | 563 | 17 | 14 | a month ago | [spectrum](https://github.com/arohner/spectrum)/181 | None |
 | 562 | 12 | 17 | 2 years ago | [ghostwheel](https://github.com/gnl/ghostwheel)/182 | Hassle-free inline clojure.spec with semi-automatic generative testing and side effect detection |
-| 560 | 84 | 9 | 3 years ago | [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform)/183 | None |
-| 559 | 52 | 48 | 5 days ago | [kaocha](https://github.com/lambdaisland/kaocha)/184 | Full featured next gen Clojure test runner |
+| 561 | 83 | 9 | 3 years ago | [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform)/183 | None |
+| 559 | 52 | 48 | 6 days ago | [kaocha](https://github.com/lambdaisland/kaocha)/184 | Full featured next gen Clojure test runner |
 | 554 | 66 | 45 | a month ago | [aws-api](https://github.com/cognitect-labs/aws-api)/185 | AWS, data driven |
 | 551 | 20 | 6 | 2 years ago | [clojure-scheme](https://github.com/takeoutweight/clojure-scheme)/186 | Clojure to Scheme to C to the bare metal. |
 | 549 | 153 | 24 | a month ago | [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl)/187 | A collection of nREPL middleware to enhance Clojure editors with common functionality like definition lookup, code completion, etc.  |
@@ -209,25 +209,25 @@
 | 509 | 54 | 0 | a month ago | [tools.namespace](https://github.com/clojure/tools.namespace)/206 | None |
 | 506 | 49 | 10 | 7 years ago | [codeq](https://github.com/Datomic/codeq)/207 | Creates Datomic dbs from git repos |
 | 505 | 82 | 2 | 10 years ago | [clojure-contrib](https://github.com/richhickey/clojure-contrib)/208 | NOTE - the contrib libraries have moved to individual repos under Clojure: |
-| 504 | 54 | 44 | a day ago | [re-frame-10x](https://github.com/day8/re-frame-10x)/209 | A debugging dashboard for re-frame.  X-ray vision as tooling. |
+| 504 | 54 | 44 | 2 days ago | [re-frame-10x](https://github.com/day8/re-frame-10x)/209 | A debugging dashboard for re-frame.  X-ray vision as tooling. |
 | 502 | 23 | 3 | a month ago | [prone](https://github.com/magnars/prone)/210 | Better exception reporting middleware for Ring. |
 | 502 | 83 | 3 | 6 years ago | [labrepl](https://github.com/relevance/labrepl)/211 | None |
 | 500 | 34 | 24 | 3 years ago | [hickory](https://github.com/davidsantiago/hickory)/212 | HTML as data |
 | 499 | 47 | 14 | 5 months ago | [potemkin](https://github.com/clj-commons/potemkin)/213 | some ideas which are almost good |
 | 498 | 71 | 38 | a month ago | [nrepl](https://github.com/nrepl/nrepl)/214 | A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments. |
 | 495 | 76 | 9 | 7 years ago | [Nightweb](https://github.com/oakes/Nightweb)/215 | An anonymous P2P social network in Clojure |
-| 492 | 54 | 12 | 16 days ago | [pathom](https://github.com/wilkerlucio/pathom)/216 | Pathom is a Clojure(script) engine for processing EQL requests. |
-| 492 | 22 | 10 | 1 year, 3 days ago | [spec-provider](https://github.com/stathissideris/spec-provider)/217 | Infer Clojure specs from sample data. Inspired by F#'s type providers. |
-| 492 | 62 | 22 | a month ago | [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo)/218 | config karabiner with ease |
+| 493 | 62 | 22 | a month ago | [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo)/216 | config karabiner with ease |
+| 492 | 54 | 12 | 16 days ago | [pathom](https://github.com/wilkerlucio/pathom)/217 | Pathom is a Clojure(script) engine for processing EQL requests. |
+| 492 | 22 | 10 | 1 year, 3 days ago | [spec-provider](https://github.com/stathissideris/spec-provider)/218 | Infer Clojure specs from sample data. Inspired by F#'s type providers. |
 | 491 | 50 | 7 | 2 years ago | [lib-noir](https://github.com/noir-clojure/lib-noir)/219 | A set of libraries for ring apps, including stateful sessions. |
 | 489 | 22 | 2 | 4 months ago | [claypoole](https://github.com/TheClimateCorporation/claypoole)/220 | Claypoole: Threadpool tools for Clojure |
 | 487 | 82 | 15 | 2 months ago | [migratus](https://github.com/yogthos/migratus)/221 | MIGRATE ALL THE THINGS! |
-| 487 | 47 | 60 | 5 hours ago | [sicmutils](https://github.com/sicmutils/sicmutils)/222 | Scmutils in Clojure |
+| 487 | 47 | 60 | 16 hours ago | [sicmutils](https://github.com/sicmutils/sicmutils)/222 | Scmutils in Clojure |
 | 486 | 97 | 45 | 8 months ago | [lein-ring](https://github.com/weavejester/lein-ring)/223 | Ring plugin for Leiningen |
-| 486 | 22 | 4 | 10 days ago | [pretty](https://github.com/AvisoNovate/pretty)/224 | Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions |
+| 486 | 22 | 4 | 11 days ago | [pretty](https://github.com/AvisoNovate/pretty)/224 | Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions |
 | 485 | 151 | 21 | 2 years ago | [zk-web](https://github.com/qiuxiafei/zk-web)/225 | A web UI for zookeeper |
 | 482 | 90 | 0 | 9 days ago | [dot-clojure](https://github.com/seancorfield/dot-clojure)/226 | My .clojure/deps.edn file |
-| 477 | 19 | 11 | 5 years ago | [dire](https://github.com/MichaelDrogalis/dire)/227 | Erlang-style supervisor error handling for Clojure |
+| 478 | 19 | 11 | 5 years ago | [dire](https://github.com/MichaelDrogalis/dire)/227 | Erlang-style supervisor error handling for Clojure |
 | 476 | 55 | 0 | 6 days ago | [next-jdbc](https://github.com/seancorfield/next-jdbc)/228 | A modern low-level Clojure wrapper for JDBC-based access to databases. |
 | 475 | 99 | 5 | 1 year, 8 months ago | [day-of-datomic](https://github.com/Datomic/day-of-datomic)/229 | Sample Code for Day of Datomic presentation |
 | 472 | 105 | 18 | a month ago | [markdown-clj](https://github.com/yogthos/markdown-clj)/230 | Markdown parser in Clojure |
@@ -251,8 +251,8 @@
 | 440 | 42 | 8 | 2 years ago | [spacewar](https://github.com/unclebob/spacewar)/248 | Space War starting in Episode 55 of cleancoders.com |
 | 439 | 97 | 59 | 3 months ago | [cloverage](https://github.com/cloverage/cloverage)/249 | Clojure test coverage tool |
 | 437 | 57 | 1 | 3 years ago | [immutant](https://github.com/immutant/immutant)/250 | A suite of libraries for Clojure apps |
-| 435 | 19 | 1 | 7 months ago | [defun](https://github.com/killme2008/defun)/251 | A macro to define clojure functions with parameter pattern matching just like erlang or elixir. |
-| 434 | 56 | 12 | a month ago | [pomegranate](https://github.com/clj-commons/pomegranate)/252 | A sane Clojure API for Aether / Maven Resolver + dynamic runtime modification of the classpath |
+| 435 | 56 | 12 | a month ago | [pomegranate](https://github.com/clj-commons/pomegranate)/251 | A sane Clojure API for Aether / Maven Resolver + dynamic runtime modification of the classpath |
+| 435 | 19 | 1 | 7 months ago | [defun](https://github.com/killme2008/defun)/252 | A macro to define clojure functions with parameter pattern matching just like erlang or elixir. |
 | 434 | 61 | 1 | 9 months ago | [conduit](https://github.com/jacekschae/conduit)/253 | Real world application built with ClojureScript + re-frame |
 | 431 | 41 | 22 | 1 year, 7 months ago | [posh](https://github.com/mpdairy/posh)/254 | A luxuriously simple and powerful way to make front-ends with DataScript and Reagent in Clojure. |
 | 430 | 36 | 18 | a month ago | [tick](https://github.com/juxt/tick)/255 | Time as a value. |
@@ -262,44 +262,44 @@
 | 426 | 43 | 18 | 6 years ago | [domina](https://github.com/levand/domina)/259 | A DOM manipulation library for ClojureScript |
 | 425 | 21 | 4 | 2 months ago | [clojure2d](https://github.com/Clojure2D/clojure2d)/260 | Java2D wrapper + creative coding supporting functions (based on Processing and openFrameworks) |
 | 425 | 25 | 4 | 1 year, 8 months ago | [leipzig](https://github.com/ctford/leipzig)/261 | A music composition library for Clojure and Clojurescript. |
-| 423 | 13 | 18 | 11 days ago | [datalevin](https://github.com/juji-io/datalevin)/262 | A simple, fast and durable Datalog database |
+| 424 | 13 | 18 | 12 days ago | [datalevin](https://github.com/juji-io/datalevin)/262 | A simple, fast and durable Datalog database |
 | 421 | 39 | 18 | 7 months ago | [slamhound](https://github.com/technomancy/slamhound)/263 | Slamhound rips your namespace form apart and reconstructs it. |
-| 421 | 68 | 59 | Unknown | [cljdoc](https://github.com/cljdoc/cljdoc)/264 | 📚 A central documentation hub for the Clojure community |
-| 420 | 37 | 7 | Unknown | [chord](https://github.com/jarohen/chord)/265 | A library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async. |
-| 419 | 26 | 3 | Unknown | [chocolatier](https://github.com/alexkehayias/chocolatier)/266 | WIP ClojureScript game/engine using Pixi.js for rendering. |
-| 419 | 68 | 15 | Unknown | [sparkling](https://github.com/gorillalabs/sparkling)/267 | A Clojure library for Apache Spark: fast, fully-features, and developer friendly  |
+| 421 | 68 | 59 | 3 days ago | [cljdoc](https://github.com/cljdoc/cljdoc)/264 | 📚 A central documentation hub for the Clojure community |
+| 420 | 37 | 7 | 10 months ago | [chord](https://github.com/jarohen/chord)/265 | A library designed to bridge the gap between the triad of CLJ/CLJS, web-sockets and core.async. |
+| 419 | 26 | 3 | 1 year, 11 months ago | [chocolatier](https://github.com/alexkehayias/chocolatier)/266 | WIP ClojureScript game/engine using Pixi.js for rendering. |
+| 419 | 68 | 15 | 1 year, 2 months ago | [sparkling](https://github.com/gorillalabs/sparkling)/267 | A Clojure library for Apache Spark: fast, fully-features, and developer friendly  |
 | 418 | 12 | 4 | a month ago | [tupelo](https://github.com/cloojure/tupelo)/268 | Tupelo:  Clojure With A Spoonful of Honey |
-| 415 | 39 | 20 | 2 hours ago | [rewrite-clj](https://github.com/clj-commons/rewrite-clj)/269 | Rewrite Clojure Code and EDN! |
+| 415 | 39 | 20 | 13 hours ago | [rewrite-clj](https://github.com/clj-commons/rewrite-clj)/269 | Rewrite Clojure Code and EDN! |
 | 413 | 36 | 2 | 8 months ago | [fluokitten](https://github.com/uncomplicate/fluokitten)/270 | Category theory concepts in Clojure - Functors, Applicatives, Monads, Monoids and more. |
-| 413 | 27 | 8 | Unknown | [avout](https://github.com/liebke/avout)/271 | Avout: Distributed State in Clojure |
-| 412 | 50 | 67 | Unknown | [clooj](https://github.com/arthuredelstein/clooj)/272 | clooj, a lightweight IDE for clojure |
+| 413 | 27 | 8 | 6 years ago | [avout](https://github.com/liebke/avout)/271 | Avout: Distributed State in Clojure |
+| 412 | 50 | 67 | 6 years ago | [clooj](https://github.com/arthuredelstein/clooj)/272 | clooj, a lightweight IDE for clojure |
 | 412 | 42 | 4 | 4 months ago | [algo.monads](https://github.com/clojure/algo.monads)/273 | None |
 | 411 | 56 | 0 | 3 years ago | [jayq](https://github.com/ibdknox/jayq)/274 | A ClojureScript wrapper for jQuery |
 | 410 | 56 | 30 | 4 years ago | [speclj](https://github.com/slagyr/speclj)/275 | pronounced "speckle": a TDD/BDD framework for Clojure. |
 | 410 | 33 | 2 | 5 years ago | [om-cookbook](https://github.com/omcljs/om-cookbook)/276 | Home of Om recipes |
 | 410 | 18 | 0 | 2 months ago | [tufte](https://github.com/ptaoussanis/tufte)/277 | Simple profiling and performance monitoring for Clojure/Script |
-| 409 | 38 | 16 | Unknown | [camel-snake-kebab](https://github.com/clj-commons/camel-snake-kebab)/278 | A Clojure[Script] library for word case conversions |
-| 408 | 39 | 12 | Unknown | [kioo](https://github.com/ckirkendall/kioo)/279 | Enlive/Enfocus  style templating for Facebook's React and Om in ClojureScript. |
-| 408 | 113 | 50 | 6 days ago | [clojars-web](https://github.com/clojars/clojars-web)/280 | A community repository for open-source Clojure libraries |
-| 407 | 36 | 16 | Unknown | [clojure-turtle](https://github.com/google/clojure-turtle)/281 | A Clojure library that implements the Logo programming language in a Clojure context |
+| 409 | 38 | 16 | 5 months ago | [camel-snake-kebab](https://github.com/clj-commons/camel-snake-kebab)/278 | A Clojure[Script] library for word case conversions |
+| 408 | 39 | 12 | 3 years ago | [kioo](https://github.com/ckirkendall/kioo)/279 | Enlive/Enfocus  style templating for Facebook's React and Om in ClojureScript. |
+| 408 | 113 | 50 | 7 days ago | [clojars-web](https://github.com/clojars/clojars-web)/280 | A community repository for open-source Clojure libraries |
+| 407 | 36 | 16 | 3 years ago | [clojure-turtle](https://github.com/google/clojure-turtle)/281 | A Clojure library that implements the Logo programming language in a Clojure context |
 | 406 | 36 | 15 | 3 years ago | [tenzing](https://github.com/martinklepsch/tenzing)/282 | ⚡️ Clojurescript application template using Boot |
 | 403 | 10 | 8 | 9 months ago | [scope-capture](https://github.com/vvvvalvalval/scope-capture)/283 | Project your Clojure(Script) REPL into the same context as your code when it ran |
 | 401 | 35 | 11 | 4 years ago | [cljx](https://github.com/lynaghk/cljx)/284 | Write a portable codebase targeting Clojure/ClojureScript |
 | 398 | 10 | 2 | 5 years ago | [zelkova](https://github.com/jamesmacaulay/zelkova)/285 | Elm-style FRP for Clojure and ClojureScript |
 | 394 | 34 | 4 | 8 days ago | [chime](https://github.com/jarohen/chime)/286 | A really lightweight Clojure scheduler |
 | 393 | 17 | 6 | 4 years ago | [lein_template_descjop](https://github.com/karad/lein_template_descjop)/287 | A Leiningen template(Clojure/ClojureScript Project) for Web based desktop application with Electron (atom-shell). |
-| 391 | 26 | 20 | Unknown | [freactive](https://github.com/aaronc/freactive)/288 | High-performance, pure Clojurescript, declarative DOM library |
+| 391 | 26 | 20 | 5 years ago | [freactive](https://github.com/aaronc/freactive)/288 | High-performance, pure Clojurescript, declarative DOM library |
 | 391 | 25 | 0 | 1 year, 5 months ago | [expectations](https://github.com/clojure-expectations/expectations)/289 | A minimalist's unit testing framework ("classic" version) |
 | 389 | 61 | 7 | 6 years ago | [book-source](https://github.com/joyofclojure/book-source)/290 | The source code for "The Joy of Clojure" |
 | 389 | 24 | 18 | 5 months ago | [cljss](https://github.com/clj-commons/cljss)/291 | Clojure Style Sheets — CSS-in-JS for ClojureScript |
 | 387 | 22 | 0 | 2 years ago | [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet)/292 | A C++14 cheat-sheet on lvalues, rvalues, xvalues, and more |
-| 386 | 9 | 15 | Unknown | [walkable](https://github.com/walkable-server/walkable)/293 | A Clojure(script) SQL library for building APIs: Datomic® (GraphQL-ish) pull syntax, data driven configuration, dynamic filtering with relations in mind |
+| 386 | 9 | 15 | 3 months ago | [walkable](https://github.com/walkable-server/walkable)/293 | A Clojure(script) SQL library for building APIs: Datomic® (GraphQL-ish) pull syntax, data driven configuration, dynamic filtering with relations in mind |
 | 385 | 86 | 8 | 7 years ago | [ClojureProgramming](https://github.com/clojurebook/ClojureProgramming)/294 | Example projects and sample code featured in Clojure Programming (1st ed.) from O'Reilly |
 | 384 | 13 | 5 | 28 days ago | [krell](https://github.com/vouch-opensource/krell)/295 | Simple ClojureScript React Native Tooling |
-| 383 | 140 | 12 | Unknown | [elastisch](https://github.com/clojurewerkz/elastisch)/296 | A minimalistic Clojure client for ElasticSearch, supports both HTTP and native transports |
-| 383 | 4 | 1 | Unknown | [thread-first-thread-last-backwards-question-mark-as-arrow-cond-arrow-bang](https://github.com/randomcorp/thread-first-thread-last-backwards-question-mark-as-arrow-cond-arrow-bang)/297 | The exciting new ->->><?as->cond->! macro |
-| 381 | 67 | 2 | Unknown | [pepa](https://github.com/bevuta/pepa)/298 | A document management system |
-| 380 | 40 | 8 | 17 days ago | [magento-cache-clean](https://github.com/mage2tv/magento-cache-clean)/299 | A faster drop in replacement for bin/magento cache:clean with file watcher |
+| 383 | 140 | 12 | 1 year, 8 months ago | [elastisch](https://github.com/clojurewerkz/elastisch)/296 | A minimalistic Clojure client for ElasticSearch, supports both HTTP and native transports |
+| 383 | 4 | 1 | 2 years ago | [thread-first-thread-last-backwards-question-mark-as-arrow-cond-arrow-bang](https://github.com/randomcorp/thread-first-thread-last-backwards-question-mark-as-arrow-cond-arrow-bang)/297 | The exciting new ->->><?as->cond->! macro |
+| 381 | 67 | 2 | 3 years ago | [pepa](https://github.com/bevuta/pepa)/298 | A document management system |
+| 380 | 40 | 8 | 18 days ago | [magento-cache-clean](https://github.com/mage2tv/magento-cache-clean)/299 | A faster drop in replacement for bin/magento cache:clean with file watcher |
 | 376 | 49 | 0 | a month ago | [core.cache](https://github.com/clojure/core.cache)/300 | A caching library for Clojure implementing various cache strategies |
 | 376 | 31 | 11 | a month ago | [re-graph](https://github.com/oliyh/re-graph)/301 | A graphql client for clojurescript and clojure |
 | 376 | 32 | 33 | 2 years ago | [fn-fx](https://github.com/fn-fx/fn-fx)/302 | A Functional API around JavaFX / OpenJFX. |
@@ -307,14 +307,14 @@
 | 375 | 29 | 17 | 3 years ago | [t3tr0s](https://github.com/imalooney/t3tr0s)/304 | 30th anniversary tetris in ClojureScript |
 | 373 | 31 | 33 | 27 days ago | [zprint](https://github.com/kkinnear/zprint)/305 | Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions. |
 | 373 | 35 | 7 | 5 years ago | [shadertone](https://github.com/overtone/shadertone)/306 | A mix of www.shadertoy.com and Overtone |
-| 372 | 56 | 10 | 6 hours ago | [reagent-template](https://github.com/reagent-project/reagent-template)/307 | A Leiningen template for projects using Reagent. |
+| 372 | 56 | 10 | 16 hours ago | [reagent-template](https://github.com/reagent-project/reagent-template)/307 | A Leiningen template for projects using Reagent. |
 | 371 | 35 | 17 | 13 days ago | [eftest](https://github.com/weavejester/eftest)/308 | Fast and pretty Clojure test runner |
-| 371 | 15 | 11 | 3 months ago | [sequence](https://github.com/runopsio/sequence)/309 | Immutable, scalable, and easy to use ledger service. |
+| 371 | 16 | 11 | 3 months ago | [sequence](https://github.com/runopsio/sequence)/309 | Immutable, scalable, and easy to use ledger service. |
 | 369 | 22 | 15 | a month ago | [sayid](https://github.com/clojure-emacs/sayid)/310 | A debugger for Clojure |
 | 368 | 18 | 8 | a month ago | [workspaces](https://github.com/nubank/workspaces)/311 | Live development environment for Clojurescript |
 | 367 | 96 | 15 | 8 months ago | [qu](https://github.com/cfpb/qu)/312 | :warning: This project was archived on September 25th, 2020 and is no longer maintained |
 | 366 | 50 | 2 | 2 years ago | [mies](https://github.com/swannodette/mies)/313 | Minimal ClojureScript project template |
-| 365 | 15 | 47 | 7 hours ago | [asami](https://github.com/threatgrid/asami)/314 | A graph store for Clojure and ClojureScript |
+| 365 | 15 | 47 | 17 hours ago | [asami](https://github.com/threatgrid/asami)/314 | A graph store for Clojure and ClojureScript |
 | 362 | 40 | 13 | 3 years ago | [enfocus](https://github.com/ckirkendall/enfocus)/315 | DOM manipulation and templating library for ClojureScript inspired by Enlive. |
 | 360 | 13 | 0 | 3 months ago | [debux](https://github.com/philoskim/debux)/316 | A trace-based debugging library for Clojure and ClojureScript. |
 | 359 | 25 | 7 | 2 months ago | [byte-streams](https://github.com/clj-commons/byte-streams)/317 | a rosetta stone for jvm byte representations |
@@ -360,14 +360,14 @@
 | 324 | 19 | 8 | 1 year, 3 days ago | [afterglow](https://github.com/Deep-Symmetry/afterglow)/357 | A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone. |
 | 324 | 13 | 4 | 3 months ago | [failjure](https://github.com/adambard/failjure)/358 | Monadic error utilities for general use in Clojure(script) projects |
 | 323 | 65 | 50 | 3 months ago | [doo](https://github.com/bensu/doo)/359 | doo is a library and lein plugin to run cljs.test on different js environments. |
-| 322 | 10 | 2 | 6 years ago | [islaclj](https://github.com/maryrosecook/islaclj)/360 | A programming language for young children |
-| 321 | 34 | 20 | 5 days ago | [muuntaja](https://github.com/metosin/muuntaja)/361 | Clojure library for fast http api format negotiation, encoding and decoding. |
-| 321 | 18 | 22 | 2 months ago | [npm-force-resolutions](https://github.com/rogeriochaves/npm-force-resolutions)/362 | Force npm to install a specific transitive dependency version |
+| 322 | 18 | 22 | 2 months ago | [npm-force-resolutions](https://github.com/rogeriochaves/npm-force-resolutions)/360 | Force npm to install a specific transitive dependency version |
+| 322 | 10 | 2 | 6 years ago | [islaclj](https://github.com/maryrosecook/islaclj)/361 | A programming language for young children |
+| 321 | 34 | 20 | 5 days ago | [muuntaja](https://github.com/metosin/muuntaja)/362 | Clojure library for fast http api format negotiation, encoding and decoding. |
 | 320 | 30 | 0 | a month ago | [tools.trace](https://github.com/clojure/tools.trace)/363 | 1.3 update of clojure.contrib.trace |
 | 320 | 48 | 4 | 4 years ago | [om-tutorial](https://github.com/awkay/om-tutorial)/364 | WORK IN PROGRESS |
 | 318 | 50 | 23 | 6 months ago | [reply](https://github.com/trptcolin/reply)/365 | REPL-y: A fitter, happier, more productive REPL for Clojure. |
 | 318 | 25 | 4 | a month ago | [slacker](https://github.com/sunng87/slacker)/366 | Transparent, non-incursive RPC by clojure and for clojure |
-| 318 | 58 | 110 | 12 hours ago | [Cook](https://github.com/twosigma/Cook)/367 | Fair job scheduler on Kubernetes and Mesos for batch workloads and Spark |
+| 318 | 58 | 110 | 22 hours ago | [Cook](https://github.com/twosigma/Cook)/367 | Fair job scheduler on Kubernetes and Mesos for batch workloads and Spark |
 | 316 | 13 | 7 | 1 year, 6 months ago | [specmonstah](https://github.com/reifyhealth/specmonstah)/368 | Specmonstah will eat the face off your test fixtures |
 | 316 | 5 | 8 | 2 years ago | [pyro](https://github.com/venantius/pyro)/369 | Light up your Clojure stacktraces |
 | 315 | 81 | 5 | 3 months ago | [cftbat-code](https://github.com/braveclojure/cftbat-code)/370 | None |
@@ -396,8 +396,8 @@
 | 303 | 16 | 2 | 1 year, 10 months ago | [Excel-REPL](https://github.com/whamtet/Excel-REPL)/393 | Clojure Development Environment for Excel |
 | 302 | 6 | 3 | 1 year, 18 days ago | [schism](https://github.com/aredington/schism)/394 | CRDTs in Clojure(Script) with EDN Serialization |
 | 299 | 29 | 1 | 3 months ago | [math.combinatorics](https://github.com/clojure/math.combinatorics)/395 | None |
-| 298 | 19 | 22 | 4 years ago | [gamma](https://github.com/kovasb/gamma)/396 | glsl shaders made simple |
-| 298 | 19 | 14 | 25 days ago | [jsonista](https://github.com/metosin/jsonista)/397 | Clojure library for fast JSON encoding and decoding. |
+| 299 | 19 | 14 | 25 days ago | [jsonista](https://github.com/metosin/jsonista)/396 | Clojure library for fast JSON encoding and decoding. |
+| 298 | 19 | 22 | 4 years ago | [gamma](https://github.com/kovasb/gamma)/397 | glsl shaders made simple |
 | 297 | 25 | 4 | a month ago | [stasis](https://github.com/magnars/stasis)/398 | Some Clojure functions for creating static websites. |
 | 296 | 23 | 10 | 1 year, 10 months ago | [kerodon](https://github.com/xeqi/kerodon)/399 | interaction and testing library for html based ring apps. |
 | 296 | 17 | 8 | 4 years ago | [expresso](https://github.com/clojure-numerics/expresso)/400 | Clojure library for symbolic computation |
@@ -417,18 +417,18 @@
 | 291 | 44 | 10 | 3 years ago | [lein-npm](https://github.com/RyanMcG/lein-npm)/414 | Manage Node dependencies for CLJS projects |
 | 288 | 47 | 8 | 2 months ago | [ring-json](https://github.com/ring-clojure/ring-json)/415 | Ring middleware for handling JSON |
 | 288 | 24 | 10 | 1 year, 5 days ago | [ring-defaults](https://github.com/ring-clojure/ring-defaults)/416 | A library to provide sensible Ring middleware defaults |
-| 288 | 46 | 18 | 16 days ago | [ziggurat](https://github.com/gojek/ziggurat)/417 | A stream processing framework to build stateless applications on Kafka |
+| 288 | 46 | 18 | 17 days ago | [ziggurat](https://github.com/gojek/ziggurat)/417 | A stream processing framework to build stateless applications on Kafka |
 | 287 | 19 | 1 | 6 years ago | [riemann-jvm-profiler](https://github.com/riemann/riemann-jvm-profiler)/418 | Sends stacktrace-level performance data from a JVM process to Riemann. |
 | 285 | 9 | 1 | 7 years ago | [clojurem](https://github.com/joshaber/clojurem)/419 | Clojure to Objective-C compiler |
 | 285 | 10 | 6 | a month ago | [odoyle-rules](https://github.com/oakes/odoyle-rules)/420 | A rules engine for Clojure(Script) |
 | 285 | 18 | 0 | 7 years ago | [simple-check](https://github.com/reiddraper/simple-check)/421 | QuickCheck for Clojure |
 | 284 | 41 | 10 | 14 days ago | [promesa](https://github.com/funcool/promesa)/422 | A promise library for Clojure(Script) |
 | 283 | 39 | 20 | 3 years ago | [clojureql](https://github.com/LauJensen/clojureql)/423 | ClojureQL is superior SQL integration for Clojure |
-| 282 | 10 | 11 | 9 hours ago | [stylefy](https://github.com/Jarzka/stylefy)/424 | Clojure(Script) library for styling user interface components with ease. |
-| 282 | 21 | 3 | 2 months ago | [humane-test-output](https://github.com/pjstadig/humane-test-output)/425 | Humane test output for clojure.test. |
-| 282 | 35 | 5 | 1 year, 9 months ago | [expo-cljs-template](https://github.com/seantempesta/expo-cljs-template)/426 | Expo template for Clojurescript React Native |
-| 282 | 23 | 11 | 1 year, 18 days ago | [graphql-clj](https://github.com/tendant/graphql-clj)/427 | A Clojure library that provides GraphQL implementation. |
-| 281 | 24 | 2 | 5 days ago | [portal](https://github.com/djblue/portal)/428 | A clojure tool to navigate through your data. |
+| 282 | 10 | 11 | 19 hours ago | [stylefy](https://github.com/Jarzka/stylefy)/424 | Clojure(Script) library for styling user interface components with ease. |
+| 282 | 24 | 2 | 6 days ago | [portal](https://github.com/djblue/portal)/425 | A clojure tool to navigate through your data. |
+| 282 | 21 | 3 | 2 months ago | [humane-test-output](https://github.com/pjstadig/humane-test-output)/426 | Humane test output for clojure.test. |
+| 282 | 35 | 5 | 1 year, 9 months ago | [expo-cljs-template](https://github.com/seantempesta/expo-cljs-template)/427 | Expo template for Clojurescript React Native |
+| 282 | 23 | 11 | 1 year, 19 days ago | [graphql-clj](https://github.com/tendant/graphql-clj)/428 | A Clojure library that provides GraphQL implementation. |
 | 281 | 35 | 1 | 4 years ago | [luno-react-native](https://github.com/alwx/luno-react-native)/429 | Cross-platform React Native application written in ClojureScript |
 | 280 | 20 | 14 | 1 year, 16 days ago | [cprop](https://github.com/tolitius/cprop)/430 | likes properties, environments, configs, profiles..  |
 | 280 | 19 | 1 | 1 year, 10 months ago | [flare](https://github.com/aria42/flare)/431 | Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.) |
@@ -442,7 +442,7 @@
 | 274 | 14 | 3 | 7 months ago | [geo](https://github.com/Factual/geo)/439 | Clojure library for working with geohashes, polygons, and other world geometry |
 | 273 | 30 | 9 | 6 years ago | [es2unix](https://github.com/elastic/es2unix)/440 | Command-line ES |
 | 272 | 35 | 15 | 5 years ago | [om-bootstrap](https://github.com/racehub/om-bootstrap)/441 | Bootstrap 3 Components built with Om. |
-| 272 | 15 | 3 | 5 days ago | [js-interop](https://github.com/applied-science/js-interop)/442 | A JavaScript-interop library for ClojureScript. |
+| 272 | 15 | 3 | 6 days ago | [js-interop](https://github.com/applied-science/js-interop)/442 | A JavaScript-interop library for ClojureScript. |
 | 270 | 12 | 5 | 3 years ago | [clisk](https://github.com/mikera/clisk)/443 | The Clojure Image Synthesis Kit |
 | 270 | 14 | 6 | 8 months ago | [tongue](https://github.com/tonsky/tongue)/444 | Do-it-yourself i18n library for Clojure/Script |
 | 269 | 39 | 9 | 1 year, 11 months ago | [http.async.client](https://github.com/cch1/http.async.client)/445 | Async Http Client - Clojure |
@@ -453,10 +453,10 @@
 | 266 | 12 | 9 | 9 months ago | [dali](https://github.com/stathissideris/dali)/450 | dali is a Clojure library for representing, exporting and manipulating the SVG graphics format. |
 | 266 | 45 | 5 | 1 year, 3 months ago | [conformity](https://github.com/avescodes/conformity)/451 | A Clojure/Datomic library for idempotently transacting norms into your database – be they schema, data, or otherwise |
 | 265 | 224 | 17 | a day ago | [puppetdb](https://github.com/puppetlabs/puppetdb)/452 | Centralized Puppet Storage |
-| 265 | 23 | 11 | Unknown | [tower](https://github.com/ptaoussanis/tower)/453 | i18n & L10n library for Clojure/Script |
+| 265 | 23 | 11 | 7 months ago | [tower](https://github.com/ptaoussanis/tower)/453 | i18n & L10n library for Clojure/Script |
 | 264 | 14 | 11 | 8 years ago | [mjolnir](https://github.com/halgari/mjolnir)/454 | None |
 | 264 | 25 | 9 | 2 years ago | [throttler](https://github.com/brunoV/throttler)/455 | Control the throughput of function calls and core.async channels |
-| 262 | 16 | 4 | Unknown | [clojure-jna](https://github.com/Chouser/clojure-jna)/456 | Dynamically load and use native C libs from Clojure using JNA |
+| 262 | 16 | 4 | 6 years ago | [clojure-jna](https://github.com/Chouser/clojure-jna)/456 | Dynamically load and use native C libs from Clojure using JNA |
 | 262 | 18 | 1 | 6 years ago | [juxt-accounting](https://github.com/juxt/juxt-accounting)/457 | Double-entry accounting software written in Clojure with Datomic. |
 | 262 | 12 | 11 | 6 years ago | [no.disassemble](https://github.com/gtrak/no.disassemble)/458 | None |
 | 261 | 2 | 1 | 3 years ago | [datawalk](https://github.com/eggsyntax/datawalk)/459 | Interactively explore complex data structures at the REPL with minimum keystrokes |
@@ -467,44 +467,44 @@
 | 259 | 19 | 2 | 5 years ago | [parkour](https://github.com/damballa/parkour)/464 | Hadoop MapReduce in idiomatic Clojure. |
 | 259 | 52 | 9 | 3 years ago | [clj-oauth](https://github.com/mattrepl/clj-oauth)/465 | OAuth Consumer support for Clojure |
 | 258 | 13 | 10 | 2 years ago | [virgil](https://github.com/ztellman/virgil)/466 | your own personal JVM psychopomp |
-| 256 | 12 | 6 | Unknown | [vscode-theme-alabaster](https://github.com/tonsky/vscode-theme-alabaster)/467 | A light theme for Visual Studio Code |
+| 256 | 12 | 6 | 5 days ago | [vscode-theme-alabaster](https://github.com/tonsky/vscode-theme-alabaster)/467 | A light theme for Visual Studio Code |
 | 256 | 36 | 11 | 2 years ago | [imagez](https://github.com/mikera/imagez)/468 | Image processing library for Clojure |
-| 255 | 36 | 19 | Unknown | [url](https://github.com/cemerick/url)/469 | Makes working with URLs in Clojure and ClojureScript easy |
+| 255 | 36 | 19 | 7 years ago | [url](https://github.com/cemerick/url)/469 | Makes working with URLs in Clojure and ClojureScript easy |
 | 255 | 24 | 28 | 10 months ago | [cli-matic](https://github.com/l3nz/cli-matic)/470 | Compact, hands-free [sub]command line parsing library for Clojure. |
 | 254 | 13 | 8 | 6 years ago | [alembic](https://github.com/pallet/alembic)/471 | A library for distilling (resolving and adding to the classpath) dependencies |
-| 254 | 11 | 2 | Unknown | [px3d](https://github.com/infinitelives/px3d)/472 | Experimental pixel 3d engine |
-| 253 | 27 | 14 | Unknown | [helix](https://github.com/lilactown/helix)/473 | A simple, easy to use library for React development in ClojureScript. |
+| 254 | 11 | 2 | 1 year, 2 months ago | [px3d](https://github.com/infinitelives/px3d)/472 | Experimental pixel 3d engine |
+| 254 | 27 | 14 | 5 days ago | [helix](https://github.com/lilactown/helix)/473 | A simple, easy to use library for React development in ClojureScript. |
 | 252 | 21 | 7 | 5 months ago | [citrus](https://github.com/clj-commons/citrus)/474 | State management library for Rum |
 | 252 | 17 | 35 | 3 years ago | [advenjure](https://github.com/facundoolano/advenjure)/475 | Text adventure engine written in Clojure and ClojureScript |
 | 251 | 18 | 8 | 2 years ago | [pegasus](https://github.com/shriphani/pegasus)/476 | :racehorse:✈️  Pegasus is a scalable, modular, polite web-crawler for Clojure |
-| 251 | 28 | 11 | Unknown | [mulog](https://github.com/BrunoBonacci/mulog)/477 | μ/log is a micro-logging library that logs events and data, not words! |
-| 250 | 10 | 23 | Unknown | [graphqlize](https://github.com/graphqlize/graphqlize)/478 | A Clojure & JVM library for developing GraphQL API instantly from Postgres and MySQL databases |
+| 251 | 28 | 11 | 10 days ago | [mulog](https://github.com/BrunoBonacci/mulog)/477 | μ/log is a micro-logging library that logs events and data, not words! |
+| 250 | 10 | 23 | 6 months ago | [graphqlize](https://github.com/graphqlize/graphqlize)/478 | A Clojure & JVM library for developing GraphQL API instantly from Postgres and MySQL databases |
 | 250 | 66 | 7 | 16 days ago | [buddy-auth](https://github.com/funcool/buddy-auth)/479 | Authentication and Authorization facilities for ring and ring based web applications. |
-| 250 | 26 | 1 | Unknown | [harmonikit](https://github.com/richhickey/harmonikit)/480 | An additive synth for Clojure and overtone |
-| 250 | 73 | 8 | 14 hours ago | [Common-Metadata-Repository](https://github.com/nasa/Common-Metadata-Repository)/481 | None |
+| 250 | 26 | 1 | 7 years ago | [harmonikit](https://github.com/richhickey/harmonikit)/480 | An additive synth for Clojure and overtone |
+| 250 | 73 | 8 | a day ago | [Common-Metadata-Repository](https://github.com/nasa/Common-Metadata-Repository)/481 | None |
 | 249 | 6 | 0 | 4 years ago | [herbert](https://github.com/miner/herbert)/482 | Clojure library defining a schema for edn values |
-| 248 | 17 | 10 | Unknown | [konserve](https://github.com/replikativ/konserve)/483 | A clojuresque key-value/document store protocol with core.async.  |
+| 248 | 17 | 10 | a month ago | [konserve](https://github.com/replikativ/konserve)/483 | A clojuresque key-value/document store protocol with core.async.  |
 | 247 | 40 | 4 | 1 year, 2 months ago | [scad-clj](https://github.com/farrellm/scad-clj)/484 | OpenSCAD DSL in Clojure |
-| 246 | 30 | 8 | Unknown | [at-at](https://github.com/overtone/at-at)/485 | Ahead-of-time function scheduler |
-| 246 | 25 | 5 | Unknown | [memory-hole](https://github.com/yogthos/memory-hole)/486 | Memory Hole is a support issue organizer application |
-| 246 | 10 | 2 | Unknown | [clj-debugger](https://github.com/razum2um/clj-debugger)/487 | The missing tool |
-| 246 | 21 | 24 | Unknown | [mach](https://github.com/juxt/mach)/488 | A remake of make (in ClojureScript) |
-| 246 | 9 | 1 | Unknown | [structural-typing](https://github.com/marick/structural-typing)/489 | Structural typing for Clojure, somewhat inspired by Elm. Tailored to "flow-style" programming, where complex structures flow through a series of functions, each of which makes a smallish change. Can also be used in testing tools and the like that need to describe how a nested structure differs from a description. |
-| 245 | 13 | 5 | Unknown | [reanimated](https://github.com/timothypratley/reanimated)/490 | An animation library for Reagent (ClojureScript) |
+| 246 | 25 | 5 | 11 months ago | [memory-hole](https://github.com/yogthos/memory-hole)/485 | Memory Hole is a support issue organizer application |
+| 246 | 30 | 8 | 4 years ago | [at-at](https://github.com/overtone/at-at)/486 | Ahead-of-time function scheduler |
+| 246 | 10 | 2 | 2 years ago | [clj-debugger](https://github.com/razum2um/clj-debugger)/487 | The missing tool |
+| 246 | 21 | 24 | 3 years ago | [mach](https://github.com/juxt/mach)/488 | A remake of make (in ClojureScript) |
+| 246 | 9 | 1 | 4 years ago | [structural-typing](https://github.com/marick/structural-typing)/489 | Structural typing for Clojure, somewhat inspired by Elm. Tailored to "flow-style" programming, where complex structures flow through a series of functions, each of which makes a smallish change. Can also be used in testing tools and the like that need to describe how a nested structure differs from a description. |
+| 245 | 13 | 5 | 3 years ago | [reanimated](https://github.com/timothypratley/reanimated)/490 | An animation library for Reagent (ClojureScript) |
 | 245 | 34 | 15 | 1 year, 9 months ago | [clojurescript-koans](https://github.com/lazerwalker/clojurescript-koans)/491 | A ClojureScript adaptation of the Clojure koans that runs purely in-browser |
 | 245 | 23 | 3 | 4 months ago | [uberdeps](https://github.com/tonsky/uberdeps)/492 | Uberjar builder for deps.edn |
 | 245 | 10 | 3 | 20 days ago | [regal](https://github.com/lambdaisland/regal)/493 | Royally reified regular expressions |
 | 244 | 23 | 5 | 5 years ago | [meteor-load-test](https://github.com/alanning/meteor-load-test)/494 | Load testing tool for Meteor applications |
-| 243 | 54 | 17 | 9 months ago | [antizer](https://github.com/priornix/antizer)/495 | ClojureScript library for Ant Design React UI components |
-| 242 | 41 | 13 | 4 years ago | [learndatalogtoday](https://github.com/jonase/learndatalogtoday)/496 | Interactive Datalog Tutorial |
+| 243 | 41 | 13 | 4 years ago | [learndatalogtoday](https://github.com/jonase/learndatalogtoday)/495 | Interactive Datalog Tutorial |
+| 243 | 54 | 17 | 9 months ago | [antizer](https://github.com/priornix/antizer)/496 | ClojureScript library for Ant Design React UI components |
 | 241 | 15 | 3 | 2 months ago | [clj.native-image](https://github.com/taylorwood/clj.native-image)/497 | Build GraalVM native images with Clojure Deps and CLI tools |
 | 241 | 10 | 2 | 6 years ago | [trammel](https://github.com/fogus/trammel)/498 | Contracts programming with Clojure |
-| 241 | 19 | 1 | Unknown | [spec-alpha2](https://github.com/clojure/spec-alpha2)/499 | None |
-| 241 | 9 | 1 | Unknown | [truss](https://github.com/ptaoussanis/truss)/500 | Assertions API for Clojure/Script |
+| 241 | 19 | 1 | a month ago | [spec-alpha2](https://github.com/clojure/spec-alpha2)/499 | None |
+| 241 | 9 | 1 | 7 months ago | [truss](https://github.com/ptaoussanis/truss)/500 | Assertions API for Clojure/Script |
 | 241 | 7 | 3 | 7 years ago | [enliven](https://github.com/cgrand/enliven)/501 | Enlive next: faster, better, broader |
 | 240 | 18 | 10 | a month ago | [hx](https://github.com/lilactown/hx)/502 | A simple, easy to use library for React development in ClojureScript. |
 | 239 | 39 | 3 | 1 year, 7 months ago | [accountant](https://github.com/venantius/accountant)/503 | ClojureScript navigation for single-page applications, made simple. |
-| 238 | 193 | 9 | 18 hours ago | [puppetserver](https://github.com/puppetlabs/puppetserver)/504 | Server automation framework and application |
+| 238 | 193 | 9 | 3 hours ago | [puppetserver](https://github.com/puppetlabs/puppetserver)/504 | Server automation framework and application |
 | 237 | 31 | 0 | a month ago | [core.memoize](https://github.com/clojure/core.memoize)/505 | A manipulable, pluggable, memoization framework for Clojure |
 | 235 | 18 | 9 | 7 years ago | [jig](https://github.com/juxt/jig)/506 | Jig is an application harness providing a beautifully interactive development experience for Clojure projects. |
 | 235 | 12 | 4 | 5 years ago | [reduce-fsm](https://github.com/cdorrat/reduce-fsm)/507 | A clojure finite state machine library |
@@ -522,15 +522,15 @@
 | 229 | 5 | 5 | 4 months ago | [hanami](https://github.com/jsa-aerial/hanami)/519 | Interactive arts and charts plotting with Clojure(Script) and Vega-lite / Vega. Flower viewing 花見 (hanami) |
 | 229 | 13 | 2 | 7 years ago | [nurokit](https://github.com/nuroko/nurokit)/520 | Toolkit for machine learning in Clojure |
 | 229 | 24 | 5 | 5 months ago | [clj-fuzzy](https://github.com/Yomguithereal/clj-fuzzy)/521 | A handy collection of algorithms dealing with fuzzy strings and phonetics. |
-| 227 | 11 | 3 | 5 months ago | [clj-async-profiler](https://github.com/clojure-goes-fast/clj-async-profiler)/522 | Embeddable Clojure profiler built on https://github.com/jvm-profiling-tools/async-profiler |
-| 226 | 6 | 0 | 3 years ago | [transcriptor](https://github.com/cognitect-labs/transcriptor)/523 | Convert REPL interactions into example-based tests. |
-| 226 | 26 | 2 | a month ago | [clojure-polylith-realworld-example-app](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app)/524 | Clojure, Polylith and Ring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API. |
+| 228 | 26 | 2 | a month ago | [clojure-polylith-realworld-example-app](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app)/522 | Clojure, Polylith and Ring codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API. |
+| 227 | 11 | 3 | 5 months ago | [clj-async-profiler](https://github.com/clojure-goes-fast/clj-async-profiler)/523 | Embeddable Clojure profiler built on https://github.com/jvm-profiling-tools/async-profiler |
+| 226 | 6 | 0 | 3 years ago | [transcriptor](https://github.com/cognitect-labs/transcriptor)/524 | Convert REPL interactions into example-based tests. |
 | 226 | 21 | 4 | 3 days ago | [diehard](https://github.com/sunng87/diehard)/525 | Clojure library of flexible retry, circuit breaker and rate limiter |
-| 226 | 46 | 3 | a month ago | [alia](https://github.com/mpenet/alia)/526 | High performance Cassandra client for clojure |
-| 225 | 12 | 0 | 2 years ago | [flyer.js](https://github.com/benzap/flyer.js)/527 | Broadcast Messaging Library that works between iFrames, Frames, and Windows |
-| 225 | 12 | 40 | 8 months ago | [spire](https://github.com/epiccastle/spire)/528 | pragmatic provisioning using clojure |
-| 225 | 17 | 19 | 3 years ago | [huri](https://github.com/sbelak/huri)/529 | Tools for the lazy data scientist |
-| 225 | 31 | 19 | 2 months ago | [metabase-clickhouse-driver](https://github.com/enqueue/metabase-clickhouse-driver)/530 | ClickHouse database driver for the Metabase business intelligence front-end |
+| 226 | 31 | 19 | 2 months ago | [metabase-clickhouse-driver](https://github.com/enqueue/metabase-clickhouse-driver)/526 | ClickHouse database driver for the Metabase business intelligence front-end |
+| 226 | 46 | 3 | a month ago | [alia](https://github.com/mpenet/alia)/527 | High performance Cassandra client for clojure |
+| 225 | 12 | 0 | 2 years ago | [flyer.js](https://github.com/benzap/flyer.js)/528 | Broadcast Messaging Library that works between iFrames, Frames, and Windows |
+| 225 | 12 | 40 | 8 hours ago | [spire](https://github.com/epiccastle/spire)/529 | pragmatic provisioning using clojure |
+| 225 | 17 | 19 | 3 years ago | [huri](https://github.com/sbelak/huri)/530 | Tools for the lazy data scientist |
 | 225 | 7 | 24 | 7 days ago | [biff](https://github.com/jacobobryant/biff)/531 | A batteries-included web framework for Clojure. |
 | 223 | 12 | 1 | 7 years ago | [omchaya](https://github.com/sgrove/omchaya)/532 | ClojureScript + Om client for Kandan (http://kandanapp.com/) |
 | 222 | 11 | 4 | 7 years ago | [reagi](https://github.com/weavejester/reagi)/533 | An FRP library for Clojure and ClojureScript |
@@ -582,13 +582,13 @@
 | 206 | 16 | 0 | 1 year, 5 months ago | [nomad](https://github.com/jarohen/nomad)/579 |  A configuration library designed to allow Clojure applications to travel painlessly between different environments. |
 | 206 | 12 | 0 | 7 years ago | [react-tutorial-om](https://github.com/jalehman/react-tutorial-om)/580 | The react tutorial rewritten in Om |
 | 205 | 5 | 5 | a month ago | [Dynadoc](https://github.com/oakes/Dynadoc)/581 | Dynamic documentation for Clojure(Script) |
-| 205 | 36 | 14 | 3 years ago | [cljs-react-material-ui](https://github.com/madvas/cljs-react-material-ui)/582 | Clojurescript library for using material-ui.com |
-| 205 | 15 | 6 | 3 years ago | [avi](https://github.com/maitria/avi)/583 | a lively vi |
+| 205 | 15 | 6 | 3 years ago | [avi](https://github.com/maitria/avi)/582 | a lively vi |
+| 205 | 36 | 14 | 3 years ago | [cljs-react-material-ui](https://github.com/madvas/cljs-react-material-ui)/583 | Clojurescript library for using material-ui.com |
 | 205 | 5 | 0 | 2 years ago | [tea-time](https://github.com/aphyr/tea-time)/584 | Lightweight Clojure task scheduler |
 | 204 | 29 | 9 | 8 years ago | [clojail](https://github.com/Raynes/clojail)/585 | A control freak's best friend |
 | 202 | 7 | 1 | 1 year, 1 month ago | [datascope](https://github.com/walmartlabs/datascope)/586 | Visualization of Clojure data structures using Graphviz |
 | 202 | 22 | 12 | 3 months ago | [sqlingvo](https://github.com/r0man/sqlingvo)/587 | A Clojure & ClojureScript DSL for SQL |
-| 202 | 13 | 6 | 11 days ago | [carve](https://github.com/borkdude/carve)/588 | Carve out the essentials of your Clojure app |
+| 202 | 13 | 6 | 12 days ago | [carve](https://github.com/borkdude/carve)/588 | Carve out the essentials of your Clojure app |
 | 201 | 37 | 4 | 5 months ago | [ordered](https://github.com/clj-commons/ordered)/589 | Ordered sets and maps, implemented in pure clojure |
 | 201 | 21 | 0 | 1 year, 10 months ago | [lymchat](https://github.com/tiensonqin/lymchat)/590 | Lymchat - learn different cultures.  |
 | 201 | 14 | 6 | 1 year, 7 months ago | [clj-org-analyzer](https://github.com/rksm/clj-org-analyzer)/591 | Fun with org data |
@@ -597,7 +597,7 @@
 | 200 | 13 | 21 | 1 year, 6 months ago | [kekkonen](https://github.com/metosin/kekkonen)/594 | A remote (CQRS) API library for Clojure. |
 | 200 | 8 | 21 | 8 months ago | [atom-parinfer](https://github.com/oakmac/atom-parinfer)/595 | Parinfer for Atom |
 | 200 | 10 | 1 | a month ago | [data.finger-tree](https://github.com/clojure/data.finger-tree)/596 | Finger Tree data structure |
-| 199 | 21 | 4 | 15 days ago | [spandex](https://github.com/mpenet/spandex)/597 | Elasticsearch client for Clojure (built on new ES 7.x java client) |
+| 199 | 21 | 4 | 16 days ago | [spandex](https://github.com/mpenet/spandex)/597 | Elasticsearch client for Clojure (built on new ES 7.x java client) |
 | 199 | 11 | 0 | 6 years ago | [synthread](https://github.com/LonoCloud/synthread)/598 | Syntax threading macros for Clojure |
 | 199 | 18 | 20 | 7 months ago | [formative](https://github.com/jkk/formative)/599 | Web forms for Clojure and ClojureScript  - rendering, parsing, and validating |
 | 198 | 7 | 2 | 2 years ago | [cljs-tui-template](https://github.com/eccentric-j/cljs-tui-template)/600 | A leiningen template to generate ClojureScript Terminal-User-Interface applications built on web technologies you already know. |
@@ -629,7 +629,7 @@
 | 190 | 30 | 2 | a month ago | [tesla-microservice](https://github.com/otto-de/tesla-microservice)/626 | Common basis for some of otto.de's clojure microservices |
 | 189 | 3 | 1 | 1 year, 5 months ago | [supdate](https://github.com/vvvvalvalval/supdate)/627 | Clojure's update with superpowers. |
 | 189 | 42 | 8 | 4 years ago | [clojure-lanterna](https://github.com/MultiMUD/clojure-lanterna)/628 | A Clojurey wrapper around the Lanterna terminal output library. |
-| 188 | 18 | 0 | 3 days ago | [boodle](https://github.com/manuel-uberti/boodle)/629 | Accounting SPA in Clojure and ClojureScript |
+| 188 | 18 | 0 | 4 days ago | [boodle](https://github.com/manuel-uberti/boodle)/629 | Accounting SPA in Clojure and ClojureScript |
 | 188 | 25 | 12 | 10 days ago | [test.chuck](https://github.com/gfredericks/test.chuck)/630 | A utility library for test.check |
 | 188 | 14 | 0 | 3 days ago | [crypto-password](https://github.com/weavejester/crypto-password)/631 | Library for securely hashing passwords |
 | 188 | 10 | 7 | 9 years ago | [pinot](https://github.com/ibdknox/pinot)/632 | the ClojureScript client-side web framework |
@@ -650,7 +650,7 @@
 | 182 | 9 | 7 | 2 years ago | [calvin](https://github.com/eginez/calvin)/647 | A minimalistic build tool for clojurescript projects that does not require the jvm |
 | 182 | 9 | 1 | 8 years ago | [timelike](https://github.com/aphyr/timelike)/648 | A library for simulating parallel systems, in Clojure |
 | 181 | 18 | 21 | 3 years ago | [venia](https://github.com/Vincit/venia)/649 | Clojure(Script) graphql query generation |
-| 181 | 8 | 0 | 14 days ago | [fork](https://github.com/luciodale/fork)/650 | A non-intrusive Clojurescript form management library for Re-frame and Reagent. |
+| 181 | 8 | 0 | 15 days ago | [fork](https://github.com/luciodale/fork)/650 | A non-intrusive Clojurescript form management library for Re-frame and Reagent. |
 | 180 | 34 | 1 | 3 years ago | [mbrainz-sample](https://github.com/Datomic/mbrainz-sample)/651 | Example queries and rules for working with the Datomic mbrainz example database |
 | 180 | 16 | 12 | a month ago | [geni](https://github.com/zero-one-group/geni)/652 | A Clojure dataframe library that runs on Spark |
 | 180 | 43 | 2 | 6 months ago | [kinsky](https://github.com/pyr/kinsky)/653 | Kafka Clojure client library |
@@ -679,41 +679,41 @@
 | 173 | 7 | 1 | 7 years ago | [reflex](https://github.com/lynaghk/reflex)/676 | Automatic state propogation in ClojureScript |
 | 173 | 8 | 0 | 4 months ago | [closp](https://github.com/sveri/closp)/677 | Clojure template for web development (with SPA support) |
 | 173 | 9 | 30 | 6 years ago | [clj-ns-browser](https://github.com/franks42/clj-ns-browser)/678 | Smalltalk-like namespace/class/var/function browser for clojure docs and source-code based on seesaw |
-| 172 | 22 | 0 | Unknown | [core.rrb-vector](https://github.com/clojure/core.rrb-vector)/679 | RRB-Trees in Clojure |
-| 172 | 19 | 4 | Unknown | [kafka-fast](https://github.com/gerritjvv/kafka-fast)/680 | fast kafka api for JVM languages implemented in clojure |
-| 172 | 31 | 5 | Unknown | [itsy](https://github.com/dakrone/itsy)/681 | A threaded web-spider written in Clojure |
-| 171 | 61 | 7 | Unknown | [clucy](https://github.com/weavejester/clucy)/682 | Clojure interface to Lucene |
-| 171 | 24 | 6 | Unknown | [riddley](https://github.com/ztellman/riddley)/683 | code-walking without caveats |
-| 171 | 19 | 4 | Unknown | [async-webinar](https://github.com/cognitect/async-webinar)/684 | Repository for the front end core.async webinar |
-| 171 | 11 | 3 | Unknown | [panthera](https://github.com/alanmarazzi/panthera)/685 | Data-frames & arrays on Clojure |
-| 171 | 10 | 2 | Unknown | [analemma](https://github.com/liebke/analemma)/686 | Analemma is a Clojure library for generating charts and Scalable Vector Graphics (SVG) |
-| 171 | 6 | 4 | Unknown | [oj](https://github.com/taylorlapeyre/oj)/687 | :tropical_drink: A Clojure library for talking to your database. |
-| 171 | 18 | 1 | Unknown | [sulolive](https://github.com/eponai/sulolive)/688 | SULO Live online marketplace. See DEMO on   |
-| 171 | 6 | 1 | Unknown | [brute](https://github.com/markmandel/brute)/689 | A simple and lightweight Entity Component System library for writing games with Clojure and ClojureScript. |
-| 170 | 20 | 8 | Unknown | [jet](https://github.com/mpenet/jet)/690 | [not maintained, use at own risk] Jetty9 ring server adapter with WebSocket support via core.async and Jetty9 based HTTP & WebSocket clients (jvm based, no cljs) |
-| 170 | 12 | 4 | Unknown | [reloaded.repl](https://github.com/weavejester/reloaded.repl)/691 | REPL functions to support the reloaded workflow |
-| 170 | 12 | 0 | Unknown | [cake](https://github.com/ninjudd/cake)/692 | A tasty build tool for Clojure. |
-| 170 | 25 | 9 | Unknown | [cljstyle](https://github.com/greglook/cljstyle)/693 | A tool for formatting Clojure code |
-| 170 | 6 | 4 | Unknown | [reforms](https://github.com/bilus/reforms)/694 | Beautiful Bootstrap 3 forms for Om, Reagent and Rum. |
-| 169 | 5 | 4 | Unknown | [shrubbery](https://github.com/bguthrie/shrubbery)/695 | Mocks, stubs, and spies for Clojure protocols. |
-| 169 | 8 | 1 | Unknown | [mesh](https://github.com/facjure/mesh)/696 | A toolkit for Kinetic Web Typography |
-| 169 | 13 | 4 | Unknown | [arachne-core](https://github.com/arachne-framework/arachne-core)/697 | The core module for the Arachne web framework |
-| 169 | 11 | 4 | Unknown | [om-sync](https://github.com/swannodette/om-sync)/698 | A reusable Om component for keeping local application state in sync with server application state |
-| 169 | 8 | 1 | Unknown | [solar-system-of-js](https://github.com/shaunlebron/solar-system-of-js)/699 | Visualize the languages on the JS platform |
-| 168 | 11 | 7 | Unknown | [clojure-tco](https://github.com/cjfrisz/clojure-tco)/700 | Expanding support for constant-space tail calls in the Clojure language. |
+| 172 | 22 | 0 | 3 months ago | [core.rrb-vector](https://github.com/clojure/core.rrb-vector)/679 | RRB-Trees in Clojure |
+| 172 | 19 | 4 | 4 years ago | [kafka-fast](https://github.com/gerritjvv/kafka-fast)/680 | fast kafka api for JVM languages implemented in clojure |
+| 172 | 31 | 5 | 5 years ago | [itsy](https://github.com/dakrone/itsy)/681 | A threaded web-spider written in Clojure |
+| 171 | 61 | 7 | 8 years ago | [clucy](https://github.com/weavejester/clucy)/682 | Clojure interface to Lucene |
+| 171 | 24 | 6 | 2 years ago | [riddley](https://github.com/ztellman/riddley)/683 | code-walking without caveats |
+| 171 | 19 | 4 | 6 years ago | [async-webinar](https://github.com/cognitect/async-webinar)/684 | Repository for the front end core.async webinar |
+| 171 | 11 | 3 | 1 year, 24 days ago | [panthera](https://github.com/alanmarazzi/panthera)/685 | Data-frames & arrays on Clojure |
+| 171 | 25 | 9 | a month ago | [cljstyle](https://github.com/greglook/cljstyle)/686 | A tool for formatting Clojure code |
+| 171 | 10 | 2 | 1 year, 2 months ago | [analemma](https://github.com/liebke/analemma)/687 | Analemma is a Clojure library for generating charts and Scalable Vector Graphics (SVG) |
+| 171 | 6 | 4 | 6 years ago | [oj](https://github.com/taylorlapeyre/oj)/688 | :tropical_drink: A Clojure library for talking to your database. |
+| 171 | 18 | 1 | 2 years ago | [sulolive](https://github.com/eponai/sulolive)/689 | SULO Live online marketplace. See DEMO on   |
+| 171 | 6 | 1 | 5 years ago | [brute](https://github.com/markmandel/brute)/690 | A simple and lightweight Entity Component System library for writing games with Clojure and ClojureScript. |
+| 170 | 20 | 8 | 4 years ago | [jet](https://github.com/mpenet/jet)/691 | [not maintained, use at own risk] Jetty9 ring server adapter with WebSocket support via core.async and Jetty9 based HTTP & WebSocket clients (jvm based, no cljs) |
+| 170 | 12 | 0 | 8 years ago | [cake](https://github.com/ninjudd/cake)/692 | A tasty build tool for Clojure. |
+| 170 | 12 | 4 | 3 years ago | [reloaded.repl](https://github.com/weavejester/reloaded.repl)/693 | REPL functions to support the reloaded workflow |
+| 170 | 6 | 4 | 5 years ago | [reforms](https://github.com/bilus/reforms)/694 | Beautiful Bootstrap 3 forms for Om, Reagent and Rum. |
+| 169 | 5 | 4 | 3 years ago | [shrubbery](https://github.com/bguthrie/shrubbery)/695 | Mocks, stubs, and spies for Clojure protocols. |
+| 169 | 8 | 1 | 2 years ago | [mesh](https://github.com/facjure/mesh)/696 | A toolkit for Kinetic Web Typography |
+| 169 | 13 | 4 | 2 years ago | [arachne-core](https://github.com/arachne-framework/arachne-core)/697 | The core module for the Arachne web framework |
+| 169 | 11 | 4 | 6 years ago | [om-sync](https://github.com/swannodette/om-sync)/698 | A reusable Om component for keeping local application state in sync with server application state |
+| 169 | 8 | 1 | 5 years ago | [solar-system-of-js](https://github.com/shaunlebron/solar-system-of-js)/699 | Visualize the languages on the JS platform |
+| 168 | 11 | 7 | 7 years ago | [clojure-tco](https://github.com/cjfrisz/clojure-tco)/700 | Expanding support for constant-space tail calls in the Clojure language. |
 | 168 | 17 | 3 | 7 years ago | [fleetdb](https://github.com/mmcgrana/fleetdb)/701 | A schema-free database implemented in Clojure |
 | 167 | 15 | 11 | 3 months ago | [clj-gatling](https://github.com/mhjort/clj-gatling)/702 | Load testing library for Clojure |
 | 167 | 15 | 1 | 2 months ago | [graphql-builder](https://github.com/retro/graphql-builder)/703 | GraphQL client library for Clojure and ClojureScript |
 | 167 | 44 | 2 | 1 year, 6 months ago | [mire](https://github.com/technomancy/mire)/704 | Mire is a simple MUD written in Clojure |
 | 167 | 32 | 1 | 5 years ago | [clojurescript.test](https://github.com/cemerick/clojurescript.test)/705 | A maximal port of `clojure.test` to ClojureScript. DEPRECATED |
-| 167 | 9 | 7 | 14 days ago | [state-flow](https://github.com/nubank/state-flow)/706 | Integration testing framework using a state monad in the backend for building and composing flows |
+| 167 | 9 | 7 | 15 days ago | [state-flow](https://github.com/nubank/state-flow)/706 | Integration testing framework using a state monad in the backend for building and composing flows |
 | 167 | 9 | 1 | a month ago | [dativity](https://github.com/agentbellnorm/dativity)/707 | data driven, stateless, process engine |
 | 166 | 48 | 9 | 2 years ago | [ring-middleware-format](https://github.com/ngrunwald/ring-middleware-format)/708 | Ring middleware for parsing parameters and emitting responses in JSON or other formats |
 | 166 | 15 | 8 | 2 months ago | [clj-docker-client](https://github.com/into-docker/clj-docker-client)/709 | An idiomatic, data-driven, REPL friendly Clojure Docker client |
 | 166 | 9 | 0 | 2 months ago | [glue](https://github.com/Gonzih/glue)/710 | Configure Vue.js components using ClojureScript, manage global state using Atoms. |
 | 165 | 12 | 2 | 2 years ago | [playphraseme-site](https://github.com/potapenko/playphraseme-site)/711 | None |
-| 165 | 11 | 2 | 9 years ago | [swarmiji](https://github.com/amitrathore/swarmiji)/712 | A distributed computing system that helps writing and running Clojure code in parallel - across cores and processors |
-| 165 | 15 | 1 | 9 years ago | [scriptjure](https://github.com/arohner/scriptjure)/713 | a Clojure library for generating javascript |
+| 165 | 15 | 1 | 9 years ago | [scriptjure](https://github.com/arohner/scriptjure)/712 | a Clojure library for generating javascript |
+| 165 | 11 | 2 | 9 years ago | [swarmiji](https://github.com/amitrathore/swarmiji)/713 | A distributed computing system that helps writing and running Clojure code in parallel - across cores and processors |
 | 165 | 38 | 1 | a month ago | [spec.alpha](https://github.com/clojure/spec.alpha)/714 | None |
 | 165 | 7 | 4 | 2 years ago | [codax](https://github.com/dscarpetti/codax)/715 | An idiomatic transactional embedded database for clojure |
 | 164 | 22 | 0 | 8 years ago | [clj-record](https://github.com/duelinmarkers/clj-record)/716 | DEPRECATED: A pseudo-port of ActiveRecord to the Clojure programming language |
@@ -732,12 +732,12 @@
 | 162 | 8 | 1 | a month ago | [clojurecuda](https://github.com/uncomplicate/clojurecuda)/729 | Clojure library for CUDA development |
 | 162 | 16 | 1 | 8 years ago | [lazytest](https://github.com/stuartsierra/lazytest)/730 | (archived) New test framework for Clojure |
 | 162 | 13 | 0 | 1 year, 10 months ago | [JS-Workshop](https://github.com/ClojureTO/JS-Workshop)/731 | Reagent Workshop for React developers |
-| 161 | 38 | 3 | 1 year, 11 months ago | [boot-new](https://github.com/boot-clj/boot-new)/732 | Generate new projects based on Boot Templates and/or Leiningen Templates! |
-| 161 | 44 | 6 | 7 years ago | [org-html-slideshow](https://github.com/relevance/org-html-slideshow)/733 | JavaScript presentation slides generated from Emacs org-mode |
-| 161 | 14 | 0 | a month ago | [data.priority-map](https://github.com/clojure/data.priority-map)/734 | None |
-| 161 | 4 | 0 | 1 year, 6 months ago | [salt](https://github.com/Viasat/salt)/735 | None |
+| 162 | 4 | 0 | 1 year, 6 months ago | [salt](https://github.com/Viasat/salt)/732 | None |
+| 161 | 38 | 3 | 1 year, 11 months ago | [boot-new](https://github.com/boot-clj/boot-new)/733 | Generate new projects based on Boot Templates and/or Leiningen Templates! |
+| 161 | 44 | 6 | 7 years ago | [org-html-slideshow](https://github.com/relevance/org-html-slideshow)/734 | JavaScript presentation slides generated from Emacs org-mode |
+| 161 | 14 | 0 | a month ago | [data.priority-map](https://github.com/clojure/data.priority-map)/735 | None |
 | 160 | 23 | 1 | 5 years ago | [datascript-chat](https://github.com/tonsky/datascript-chat)/736 | Sample SPA using DataScript and core.async |
-| 160 | 23 | 16 | 30 days ago | [mastodon-bot](https://github.com/yogthos/mastodon-bot)/737 | a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon |
+| 160 | 23 | 16 | a month ago | [mastodon-bot](https://github.com/yogthos/mastodon-bot)/737 | a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon |
 | 160 | 51 | 3 | 4 months ago | [lacinia-pedestal](https://github.com/walmartlabs/lacinia-pedestal)/738 | Expose Lacinia GraphQL as Pedestal endpoints |
 | 160 | 30 | 1 | 2 years ago | [functional-composition](https://github.com/ctford/functional-composition)/739 | A live-coding presentation on music theory and Bach's "Canone alla Quarta". |
 | 160 | 43 | 35 | 2 years ago | [grimoire](https://github.com/clojure-grimoire/grimoire)/740 | Community documentation of Clojure |
@@ -769,9 +769,9 @@
 | 153 | 21 | 13 | 9 days ago | [lein-nvd](https://github.com/rm-hull/lein-nvd)/766 | National Vulnerability Database dependency-checker plugin for Leiningen |
 | 153 | 5 | 10 | 9 years ago | [mug](https://github.com/tcr/mug)/767 | A self-hosted JavaScript compiler for the JVM. Written in CoffeeScript. |
 | 153 | 16 | 0 | 18 days ago | [usermanager-example](https://github.com/seancorfield/usermanager-example)/768 | A little demo web app in Clojure, using Component, Ring, Compojure, Selmer (and a database) |
-| 152 | 2 | 7 | 8 years ago | [nimrod](https://github.com/sbtourist/nimrod)/769 | Not Invasive MetRics, Oh Dear! |
-| 152 | 6 | 1 | 5 years ago | [narrator](https://github.com/ztellman/narrator)/770 | expressive, composable stream analysis |
-| 152 | 23 | 0 | 10 days ago | [dotfiles](https://github.com/camspiers/dotfiles)/771 | Dotfiles (macOS, stow, brew, yabai, nvim, kitty, tmux) |
+| 152 | 6 | 1 | 5 years ago | [narrator](https://github.com/ztellman/narrator)/769 | expressive, composable stream analysis |
+| 152 | 2 | 7 | 8 years ago | [nimrod](https://github.com/sbtourist/nimrod)/770 | Not Invasive MetRics, Oh Dear! |
+| 152 | 23 | 0 | 11 days ago | [dotfiles](https://github.com/camspiers/dotfiles)/771 | Dotfiles (macOS, stow, brew, yabai, nvim, kitty, tmux) |
 | 152 | 18 | 10 | 7 years ago | [lein-bin](https://github.com/Raynes/lein-bin)/772 | Standalone console executables for your project. |
 | 152 | 15 | 5 | 2 months ago | [re-frame-async-flow-fx](https://github.com/day8/re-frame-async-flow-fx)/773 | A re-frame effects handler for coordinating the kind of async control flow which often happens on app startup. |
 | 152 | 5 | 4 | 3 years ago | [perseverance](https://github.com/grammarly/perseverance)/774 | Flexible retries library for Clojure |
@@ -785,8 +785,8 @@
 | 150 | 7 | 2 | 10 months ago | [domino](https://github.com/domino-clj/domino)/782 | A Clojure/Script data flow engine |
 | 150 | 27 | 6 | 4 years ago | [comportex](https://github.com/htm-community/comportex)/783 | Hierarchical Temporal Memory in Clojure |
 | 150 | 5 | 0 | 4 years ago | [intension](https://github.com/alandipert/intension)/784 | Query nested maps/vectors with Datalog |
-| 150 | 57 | 3 | 5 years ago | [clj-ml](https://github.com/antoniogarrote/clj-ml)/785 | A machine learning library for Clojure built on top of Weka and friends |
-| 150 | 39 | 25 | 7 years ago | [lein-beanstalk](https://github.com/weavejester/lein-beanstalk)/786 | Leiningen plugin for Amazon's Elastic Beanstalk service |
+| 150 | 39 | 25 | 7 years ago | [lein-beanstalk](https://github.com/weavejester/lein-beanstalk)/785 | Leiningen plugin for Amazon's Elastic Beanstalk service |
+| 150 | 57 | 3 | 5 years ago | [clj-ml](https://github.com/antoniogarrote/clj-ml)/786 | A machine learning library for Clojure built on top of Weka and friends |
 | 150 | 6 | 14 | a month ago | [punk](https://github.com/lilactown/punk)/787 | A data REBL built for the web |
 | 149 | 6 | 0 | 1 year, 11 months ago | [carry](https://github.com/metametadata/carry)/788 | ClojureScript application framework. |
 | 149 | 12 | 1 | 7 years ago | [debug-repl](https://github.com/GeorgeJahad/debug-repl)/789 | Clojure REPL that is aware of surrounding lexical scope |
@@ -801,11 +801,11 @@
 | 148 | 7 | 1 | 2 years ago | [haslett](https://github.com/weavejester/haslett)/798 | A lightweight WebSocket library for ClojureScript |
 | 147 | 12 | 4 | 4 years ago | [primitive-math](https://github.com/ztellman/primitive-math)/799 | for the discerning arithmetician |
 | 147 | 22 | 4 | 1 year, 7 months ago | [electron-and-clojurescript](https://github.com/martinklepsch/electron-and-clojurescript)/800 | 💡 Make an electron app with nothing but ClojureScript! |
-| 147 | 10 | 0 | 2 years ago | [bridge](https://github.com/robert-stuttaford/bridge)/801 | A ClojureBridge event registration system - see readme for blog posts |
-| 147 | 8 | 1 | 3 years ago | [wah](https://github.com/tmcw/wah)/802 | a slightly higher-level language superset of webassembly |
-| 146 | 21 | 0 | 5 years ago | [riemann-config](https://github.com/guardian/riemann-config)/803 | Configuration for alerting and event processing in Riemann |
-| 146 | 25 | 31 | 7 years ago | [vmfest](https://github.com/tbatchelli/vmfest)/804 | manage your local VMs from the repl |
-| 146 | 7 | 3 | 7 days ago | [db](https://github.com/fluree/db)/805 | Fluree database / query server source |
+| 147 | 7 | 3 | 7 days ago | [db](https://github.com/fluree/db)/801 | Fluree database / query server source |
+| 147 | 10 | 0 | 2 years ago | [bridge](https://github.com/robert-stuttaford/bridge)/802 | A ClojureBridge event registration system - see readme for blog posts |
+| 147 | 8 | 1 | 3 years ago | [wah](https://github.com/tmcw/wah)/803 | a slightly higher-level language superset of webassembly |
+| 146 | 21 | 0 | 5 years ago | [riemann-config](https://github.com/guardian/riemann-config)/804 | Configuration for alerting and event processing in Riemann |
+| 146 | 25 | 31 | 7 years ago | [vmfest](https://github.com/tbatchelli/vmfest)/805 | manage your local VMs from the repl |
 | 146 | 21 | 8 | 1 year, 8 months ago | [datomic-schema](https://github.com/Yuppiechef/datomic-schema)/806 | Makes it easier to see your Datomic schema without sacrificing any features. |
 | 146 | 9 | 6 | a month ago | [omniconf](https://github.com/grammarly/omniconf)/807 | Configuration library for Clojure that favors explicitness |
 | 146 | 7 | 12 | 6 years ago | [revise](https://github.com/bitemyapp/revise)/808 | RethinkDB client for Clojure |
@@ -835,7 +835,7 @@
 | 142 | 4 | 2 | 15 days ago | [fastmath](https://github.com/generateme/fastmath)/832 | Fast primitive based math library |
 | 142 | 14 | 6 | 7 months ago | [clj-postgresql](https://github.com/remodoy/clj-postgresql)/833 | PostgreSQL helpers for Clojure projects |
 | 141 | 27 | 6 | 4 months ago | [clj-antlr](https://github.com/aphyr/clj-antlr)/834 | Clojure bindings for the ANTLR 4 parser |
-| 141 | 11 | 1 | 7 months ago | [prototyping-with-clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)/835 | A series of tutorials on creating a full-stack app with Clojure and Clojurescript |
+| 141 | 11 | 1 | 8 months ago | [prototyping-with-clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)/835 | A series of tutorials on creating a full-stack app with Clojure and Clojurescript |
 | 141 | 23 | 11 | a month ago | [caesium](https://github.com/lvh/caesium)/836 | Modern cryptography (libsodium/NaCl) for Clojure |
 | 141 | 7 | 3 | 8 years ago | [clojurescript-lua](https://github.com/raph-amiard/clojurescript-lua)/837 | Clojurescript running on lua ! In construction |
 | 141 | 18 | 26 | 5 years ago | [satellite](https://github.com/twosigma/satellite)/838 | Satellite monitors, alerts on, and self-heals your Mesos cluster. |
@@ -847,66 +847,66 @@
 | 140 | 62 | 2 | a month ago | [google-search-console-bulk-url-removal](https://github.com/noitcudni/google-search-console-bulk-url-removal)/844 | A chrome extension that allows for bulk url removal. |
 | 140 | 6 | 1 | 7 months ago | [nano-id](https://github.com/zelark/nano-id)/845 | A unique string ID generator for Clojure and ClojureScript (・_・)ノ |
 | 140 | 11 | 1 | 7 years ago | [propaganda](https://github.com/tgk/propaganda)/846 | A propagator library for Clojure |
-| 140 | 5 | 1 | Unknown | [ripley](https://github.com/tatut/ripley)/847 | Ring live pages experiment |
-| 139 | 7 | 2 | Unknown | [seqex](https://github.com/jclaggett/seqex)/848 | Sequence Expressions |
-| 139 | 10 | 2 | Unknown | [janus](https://github.com/gga/janus)/849 | Consumer-driven contracts, both ways |
-| 139 | 5 | 3 | Unknown | [lacij](https://github.com/pallix/lacij)/850 | Lacij is a graph visualization library for Clojure  with automatic layouts, edition and undo/redo support. |
-| 139 | 15 | 1 | Unknown | [badigeon](https://github.com/EwenG/badigeon)/851 | A Clojure build library based on tools.deps. |
-| 139 | 7 | 19 | Unknown | [portkey](https://github.com/portkey-cloud/portkey)/852 | Live-coding the Cloud |
-| 139 | 28 | 6 | Unknown | [vijual](https://github.com/drcode/vijual)/853 | Graph Layout Library For Clojure |
-| 138 | 10 | 3 | Unknown | [factui](https://github.com/arachne-framework/factui)/854 | Declarative UI State Management for React |
-| 138 | 6 | 5 | Unknown | [clip](https://github.com/juxt/clip)/855 | Light structure and support for dependency injection |
-| 138 | 4 | 15 | Unknown | [clograms](https://github.com/jpmonettas/clograms)/856 | Clojure[Script] source code diagrams |
-| 138 | 10 | 3 | Unknown | [autochrome](https://github.com/ladderlife/autochrome)/857 | Structural diffs for clojure source code |
-| 138 | 7 | 2 | Unknown | [full.async](https://github.com/fullcontact/full.async)/858 | Extensions and helpers for core.async. |
-| 138 | 10 | 10 | Unknown | [lein-uberimage](https://github.com/palletops/lein-uberimage)/859 | A Leiningen plugin to generate a docker image that runs a project's uberjar. |
-| 138 | 15 | 6 | Unknown | [jiraph](https://github.com/ninjudd/jiraph)/860 | A graph database with pluggable backends, written in Clojure. |
-| 138 | 2 | 1 | Unknown | [brutha](https://github.com/weavejester/brutha)/861 | Simple ClojureScript interface to React |
-| 137 | 10 | 0 | Unknown | [enclog](https://github.com/jimpil/enclog)/862 | Clojure wrapper for Encog (v3) (Machine-Learning framework that specialises in neural-nets) |
-| 137 | 9 | 9 | Unknown | [postgres.async](https://github.com/alaisi/postgres.async)/863 | Asynchronous PostgreSQL client for Clojure |
-| 137 | 5 | 1 | Unknown | [readme](https://github.com/seancorfield/readme)/864 | A testing library that turns your README into executable Clojure tests! |
-| 137 | 5 | 3 | Unknown | [claro](https://github.com/xsc/claro)/865 | Powerful Data Access for Clojure |
-| 137 | 7 | 6 | Unknown | [frinj](https://github.com/martintrojer/frinj)/866 | Practical unit-of-measure calculator DSL for Clojure / ClojureScript |
-| 137 | 13 | 1 | Unknown | [okku](https://github.com/gaverhae/okku)/867 | Akka wrapper for the Clojure programming language. |
-| 137 | 6 | 2 | Unknown | [rid3](https://github.com/gadfly361/rid3)/868 | Reagent Interface to D3 |
-| 137 | 45 | 2 | Unknown | [om-next-demo](https://github.com/swannodette/om-next-demo)/869 | TodoMVC with Om Next |
-| 137 | 8 | 3 | Unknown | [traversy](https://github.com/ctford/traversy)/870 | Multilenses for Clojure |
-| 137 | 9 | 1 | Unknown | [llvm-clojure-bindings](https://github.com/jasonjckn/llvm-clojure-bindings)/871 | LLVM Clojure Bindings and Toy Language. |
-| 136 | 2 | 6 | Unknown | [flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger)/872 | A debugger for Clojure and ClojureScript with some unique features. |
-| 136 | 14 | 13 | Unknown | [sieppari](https://github.com/metosin/sieppari)/873 | Small, fast, and complete interceptor library for Clojure/Script |
-| 136 | 19 | 2 | Unknown | [saapas](https://github.com/Deraen/saapas)/874 | Example project for Cljs using Boot instead of Lein. Inspired by Chestnut. |
-| 136 | 2 | 4 | Unknown | [cljs4excel](https://github.com/cfelde/cljs4excel)/875 | Run a ClojureScript REPL within Microsoft Excel |
-| 136 | 11 | 12 | Unknown | [civs](https://github.com/ftomassetti/civs)/876 | Civ simulator |
-| 136 | 23 | 16 | Unknown | [dieter](https://github.com/edgecase/dieter)/877 | Asset pipeline ring middleware |
-| 136 | 3 | 0 | Unknown | [tapestry](https://github.com/teknql/tapestry)/878 | Weave loom fibers into your Clojure |
-| 136 | 3 | 0 | Unknown | [flow](https://github.com/fmnoise/flow)/879 | Functional (and opinionated) errors handling in Clojure |
-| 135 | 14 | 0 | Unknown | [clj-digest](https://github.com/tebeka/clj-digest)/880 | Digest algorithms (md5, sha1 ...) for Clojure |
-| 135 | 15 | 3 | Unknown | [clodiuno](https://github.com/nakkaya/clodiuno)/881 | Clojure API for the firmata protocol. |
-| 135 | 16 | 14 | Unknown | [grumpy](https://github.com/tonsky/grumpy)/882 | Minimalistic blog engine |
-| 135 | 9 | 8 | Unknown | [clojure-control](https://github.com/killme2008/clojure-control)/883 | Fabric in clojure |
-| 135 | 16 | 2 | Unknown | [tilakone](https://github.com/metosin/tilakone)/884 | Minimalistic finite state machine (FSM) in Clojure |
-| 134 | 3 | 23 | Unknown | [lucene-grep](https://github.com/dainiusjocas/lucene-grep)/885 | Grep-like utility based on Lucene Monitor compiled with GraalVM native-image |
-| 134 | 19 | 3 | Unknown | [less-awful-ssl](https://github.com/aphyr/less-awful-ssl)/886 | Sssh no tears, only TLS now. For Clojure. |
-| 134 | 18 | 8 | Unknown | [epitaph](https://github.com/mkremins/epitaph)/887 | https://mkremins.itch.io/epitaph |
-| 134 | 8 | 6 | Unknown | [paren-soup](https://github.com/oakes/paren-soup)/888 | A browser-based editor for ClojureScript |
-| 133 | 9 | 1 | Unknown | [flake](https://github.com/maxcountryman/flake)/889 | Decentralized, k-ordered unique IDs in Clojure |
-| 133 | 8 | 2 | Unknown | [eep](https://github.com/clojurewerkz/eep)/890 | Embedded Event Processing in Clojure |
-| 133 | 8 | 8 | Unknown | [re-learn](https://github.com/oliyh/re-learn)/891 | A library for integrating tutorials into your re-frame/reagent application |
-| 133 | 5 | 4 | Unknown | [kitchen-async](https://github.com/athos/kitchen-async)/892 | A Promise library for ClojureScript, or a poor man's core.async |
-| 133 | 17 | 3 | Unknown | [image-resizer](https://github.com/josephwilk/image-resizer)/893 | Resize/Crop/Rotate/Pad images in Clojure without any native install. Oh and do it Fast. |
-| 133 | 18 | 3 | Unknown | [peridot](https://github.com/xeqi/peridot)/894 | a basic api for interacting with ring apps |
-| 133 | 9 | 2 | Unknown | [hicada](https://github.com/rauhs/hicada)/895 | Hiccup compiler similar to sablono |
-| 133 | 12 | 0 | Unknown | [restQL-clojure](https://github.com/b2wdigital/restQL-clojure)/896 | Microservice query language |
-| 133 | 7 | 2 | Unknown | [spy](https://github.com/alexanderjamesking/spy)/897 | Clojure/ClojureScript library for stubs, spies and mocks. |
-| 133 | 31 | 25 | Unknown | [refheap](https://github.com/Raynes/refheap)/898 | The Reference Heap. A Clojure pastebin powered by Compojure, MongoDB, and Pygments. |
-| 133 | 2 | 2 | Unknown | [serene](https://github.com/paren-com/serene)/899 | Generate clojure.spec with GraphQL and extend GraphQL with clojure.spec |
-| 133 | 7 | 1 | Unknown | [bacwn](https://github.com/fogus/bacwn)/900 | clojure + datalog = <3 |
+| 140 | 5 | 1 | 20 days ago | [ripley](https://github.com/tatut/ripley)/847 | Ring live pages experiment |
+| 139 | 7 | 2 | 3 years ago | [seqex](https://github.com/jclaggett/seqex)/848 | Sequence Expressions |
+| 139 | 10 | 2 | 7 years ago | [janus](https://github.com/gga/janus)/849 | Consumer-driven contracts, both ways |
+| 139 | 5 | 3 | 5 years ago | [lacij](https://github.com/pallix/lacij)/850 | Lacij is a graph visualization library for Clojure  with automatic layouts, edition and undo/redo support. |
+| 139 | 15 | 1 | 16 days ago | [badigeon](https://github.com/EwenG/badigeon)/851 | A Clojure build library based on tools.deps. |
+| 139 | 7 | 19 | 2 years ago | [portkey](https://github.com/portkey-cloud/portkey)/852 | Live-coding the Cloud |
+| 139 | 28 | 6 | 11 years ago | [vijual](https://github.com/drcode/vijual)/853 | Graph Layout Library For Clojure |
+| 138 | 10 | 3 | 2 years ago | [factui](https://github.com/arachne-framework/factui)/854 | Declarative UI State Management for React |
+| 138 | 6 | 5 | 19 days ago | [clip](https://github.com/juxt/clip)/855 | Light structure and support for dependency injection |
+| 138 | 4 | 15 | 10 months ago | [clograms](https://github.com/jpmonettas/clograms)/856 | Clojure[Script] source code diagrams |
+| 138 | 7 | 2 | 1 year, 3 months ago | [full.async](https://github.com/fullcontact/full.async)/857 | Extensions and helpers for core.async. |
+| 138 | 10 | 3 | 3 years ago | [autochrome](https://github.com/ladderlife/autochrome)/858 | Structural diffs for clojure source code |
+| 138 | 10 | 10 | 6 years ago | [lein-uberimage](https://github.com/palletops/lein-uberimage)/859 | A Leiningen plugin to generate a docker image that runs a project's uberjar. |
+| 138 | 15 | 6 | 7 years ago | [jiraph](https://github.com/ninjudd/jiraph)/860 | A graph database with pluggable backends, written in Clojure. |
+| 138 | 2 | 1 | 4 years ago | [brutha](https://github.com/weavejester/brutha)/861 | Simple ClojureScript interface to React |
+| 137 | 10 | 0 | 5 years ago | [enclog](https://github.com/jimpil/enclog)/862 | Clojure wrapper for Encog (v3) (Machine-Learning framework that specialises in neural-nets) |
+| 137 | 9 | 9 | 4 years ago | [postgres.async](https://github.com/alaisi/postgres.async)/863 | Asynchronous PostgreSQL client for Clojure |
+| 137 | 5 | 1 | 18 days ago | [readme](https://github.com/seancorfield/readme)/864 | A testing library that turns your README into executable Clojure tests! |
+| 137 | 5 | 3 | 3 years ago | [claro](https://github.com/xsc/claro)/865 | Powerful Data Access for Clojure |
+| 137 | 13 | 1 | 5 years ago | [okku](https://github.com/gaverhae/okku)/866 | Akka wrapper for the Clojure programming language. |
+| 137 | 7 | 6 | 5 years ago | [frinj](https://github.com/martintrojer/frinj)/867 | Practical unit-of-measure calculator DSL for Clojure / ClojureScript |
+| 137 | 6 | 2 | 1 year, 1 month ago | [rid3](https://github.com/gadfly361/rid3)/868 | Reagent Interface to D3 |
+| 137 | 45 | 2 | 5 years ago | [om-next-demo](https://github.com/swannodette/om-next-demo)/869 | TodoMVC with Om Next |
+| 137 | 9 | 1 | 9 years ago | [llvm-clojure-bindings](https://github.com/jasonjckn/llvm-clojure-bindings)/870 | LLVM Clojure Bindings and Toy Language. |
+| 137 | 8 | 3 | 3 years ago | [traversy](https://github.com/ctford/traversy)/871 | Multilenses for Clojure |
+| 136 | 2 | 6 | 5 months ago | [flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger)/872 | A debugger for Clojure and ClojureScript with some unique features. |
+| 136 | 14 | 13 | 1 year, 10 days ago | [sieppari](https://github.com/metosin/sieppari)/873 | Small, fast, and complete interceptor library for Clojure/Script |
+| 136 | 19 | 2 | 2 years ago | [saapas](https://github.com/Deraen/saapas)/874 | Example project for Cljs using Boot instead of Lein. Inspired by Chestnut. |
+| 136 | 2 | 4 | 1 year, 8 months ago | [cljs4excel](https://github.com/cfelde/cljs4excel)/875 | Run a ClojureScript REPL within Microsoft Excel |
+| 136 | 11 | 12 | 4 years ago | [civs](https://github.com/ftomassetti/civs)/876 | Civ simulator |
+| 136 | 23 | 16 | 7 years ago | [dieter](https://github.com/edgecase/dieter)/877 | Asset pipeline ring middleware |
+| 136 | 3 | 0 | 3 months ago | [tapestry](https://github.com/teknql/tapestry)/878 | Weave loom fibers into your Clojure |
+| 136 | 3 | 0 | 2 months ago | [flow](https://github.com/fmnoise/flow)/879 | Functional (and opinionated) errors handling in Clojure |
+| 135 | 14 | 0 | 5 months ago | [clj-digest](https://github.com/tebeka/clj-digest)/880 | Digest algorithms (md5, sha1 ...) for Clojure |
+| 135 | 15 | 3 | 7 years ago | [clodiuno](https://github.com/nakkaya/clodiuno)/881 | Clojure API for the firmata protocol. |
+| 135 | 16 | 14 | a month ago | [grumpy](https://github.com/tonsky/grumpy)/882 | Minimalistic blog engine |
+| 135 | 9 | 8 | 5 years ago | [clojure-control](https://github.com/killme2008/clojure-control)/883 | Fabric in clojure |
+| 135 | 16 | 2 | a day ago | [tilakone](https://github.com/metosin/tilakone)/884 | Minimalistic finite state machine (FSM) in Clojure |
+| 134 | 3 | 23 | 4 days ago | [lucene-grep](https://github.com/dainiusjocas/lucene-grep)/885 | Grep-like utility based on Lucene Monitor compiled with GraalVM native-image |
+| 134 | 19 | 3 | 1 year, 2 months ago | [less-awful-ssl](https://github.com/aphyr/less-awful-ssl)/886 | Sssh no tears, only TLS now. For Clojure. |
+| 134 | 9 | 2 | 6 months ago | [hicada](https://github.com/rauhs/hicada)/887 | Hiccup compiler similar to sablono |
+| 134 | 18 | 3 | 1 year, 1 month ago | [peridot](https://github.com/xeqi/peridot)/888 | a basic api for interacting with ring apps |
+| 134 | 18 | 8 | 2 years ago | [epitaph](https://github.com/mkremins/epitaph)/889 | https://mkremins.itch.io/epitaph |
+| 134 | 8 | 6 | 5 months ago | [paren-soup](https://github.com/oakes/paren-soup)/890 | A browser-based editor for ClojureScript |
+| 133 | 9 | 1 | 3 years ago | [flake](https://github.com/maxcountryman/flake)/891 | Decentralized, k-ordered unique IDs in Clojure |
+| 133 | 8 | 2 | 5 years ago | [eep](https://github.com/clojurewerkz/eep)/892 | Embedded Event Processing in Clojure |
+| 133 | 8 | 8 | 1 year, 2 months ago | [re-learn](https://github.com/oliyh/re-learn)/893 | A library for integrating tutorials into your re-frame/reagent application |
+| 133 | 5 | 4 | 1 year, 6 months ago | [kitchen-async](https://github.com/athos/kitchen-async)/894 | A Promise library for ClojureScript, or a poor man's core.async |
+| 133 | 17 | 3 | 3 years ago | [image-resizer](https://github.com/josephwilk/image-resizer)/895 | Resize/Crop/Rotate/Pad images in Clojure without any native install. Oh and do it Fast. |
+| 133 | 12 | 0 | 11 months ago | [restQL-clojure](https://github.com/b2wdigital/restQL-clojure)/896 | Microservice query language |
+| 133 | 7 | 2 | 4 days ago | [spy](https://github.com/alexanderjamesking/spy)/897 | Clojure/ClojureScript library for stubs, spies and mocks. |
+| 133 | 31 | 25 | 6 years ago | [refheap](https://github.com/Raynes/refheap)/898 | The Reference Heap. A Clojure pastebin powered by Compojure, MongoDB, and Pygments. |
+| 133 | 2 | 2 | 2 years ago | [serene](https://github.com/paren-com/serene)/899 | Generate clojure.spec with GraphQL and extend GraphQL with clojure.spec |
+| 133 | 7 | 1 | 11 months ago | [bacwn](https://github.com/fogus/bacwn)/900 | clojure + datalog = <3 |
 | 132 | 7 | 2 | 4 months ago | [specviz](https://github.com/jebberjeb/specviz)/901 | Generate Graphviz images from clojure.spec |
 | 132 | 9 | 7 | 2 years ago | [javascript-externs-generator](https://github.com/jmmk/javascript-externs-generator)/902 | Generate externs for use with Google Closure Compiler |
 | 132 | 15 | 5 | 3 years ago | [money](https://github.com/clojurewerkz/money)/903 | A Clojure library that deals with monetary values and currencies. Built on top of Joda Money. |
 | 132 | 15 | 3 | 4 years ago | [finagle-clojure](https://github.com/finagle/finagle-clojure)/904 | A thin Clojure wrapper around Finagle |
 | 132 | 20 | 39 | 1 year, 6 months ago | [samsara](https://github.com/samsara/samsara)/905 | Samsara is a real-time analytics platform |
-| 132 | 31 | 15 | a month ago | [fricas](https://github.com/fricas/fricas)/906 | Official repository of the FriCAS computer algebra system |
+| 132 | 31 | 16 | a month ago | [fricas](https://github.com/fricas/fricas)/906 | Official repository of the FriCAS computer algebra system |
 | 131 | 13 | 5 | 5 years ago | [petrol](https://github.com/krisajenkins/petrol)/907 | A simple event-handling framework for ClojureScript projects. |
 | 131 | 11 | 0 | 4 months ago | [one-time](https://github.com/suvash/one-time)/908 | One Time Password (TOTP and HOTP) library for Clojure. TOTP/HOTP is widely used for Two Factor / Multi Factor Authentication. |
 | 131 | 11 | 5 | 1 year, 3 months ago | [vizdeps](https://github.com/walmartlabs/vizdeps)/909 | Visualize Leiningen dependencies using Graphviz |
@@ -946,27 +946,27 @@
 | 126 | 4 | 3 | 5 years ago | [aprint](https://github.com/razum2um/aprint)/943 | Awesome print: like clojure.pprint, but awesome |
 | 126 | 6 | 1 | 30 days ago | [herb](https://github.com/roosta/herb)/944 |  🌿 Clojurescript CSS styling using functions. |
 | 126 | 6 | 12 | 6 years ago | [spiral](https://github.com/dgrnbrg/spiral)/945 | Like Ring, but built for core.async |
-| 126 | 6 | 0 | 5 years ago | [double-check](https://github.com/cemerick/double-check)/946 | @reiddraper's test.check (née simple-check), made Clojure/ClojureScript-portable DEPRECATED |
-| 126 | 8 | 9 | 6 years ago | [bolt](https://github.com/juxt/bolt)/947 | An integrated security system for applications built on component |
-| 126 | 7 | 6 | 7 months ago | [flower](https://github.com/PositiveTechnologies/flower)/948 | Flower is a Clojure (and Emacs) library for integration with Github, Gitlab, Atlassian Jira, Microsoft TFS, Microsoft Exchange and Slack. It also may be used from Java. More integrations with task trackers, repositories and messaging systems coming soon! |
-| 125 | 36 | 4 | 9 years ago | [Noir-blog](https://github.com/ibdknox/Noir-blog)/949 | A fully functioning blog written as an example of a noir project. |
-| 125 | 41 | 7 | 2 years ago | [district0x-network-token](https://github.com/district0x/district0x-network-token)/950 | Smart Contracts and web app for district0x contribution |
-| 125 | 2 | 12 | 6 years ago | [oxcart](https://github.com/arrdem/oxcart)/951 | [ABANDONED] An optimizing Clojure compiler |
-| 125 | 12 | 5 | 13 days ago | [polylith](https://github.com/polyfy/polylith)/952 | A tool used to develop Polylith based architectures in Clojure. |
+| 126 | 12 | 5 | 14 days ago | [polylith](https://github.com/polyfy/polylith)/946 | A tool used to develop Polylith based architectures in Clojure. |
+| 126 | 6 | 0 | 5 years ago | [double-check](https://github.com/cemerick/double-check)/947 | @reiddraper's test.check (née simple-check), made Clojure/ClojureScript-portable DEPRECATED |
+| 126 | 8 | 9 | 6 years ago | [bolt](https://github.com/juxt/bolt)/948 | An integrated security system for applications built on component |
+| 126 | 7 | 6 | 7 months ago | [flower](https://github.com/PositiveTechnologies/flower)/949 | Flower is a Clojure (and Emacs) library for integration with Github, Gitlab, Atlassian Jira, Microsoft TFS, Microsoft Exchange and Slack. It also may be used from Java. More integrations with task trackers, repositories and messaging systems coming soon! |
+| 125 | 36 | 4 | 9 years ago | [Noir-blog](https://github.com/ibdknox/Noir-blog)/950 | A fully functioning blog written as an example of a noir project. |
+| 125 | 41 | 7 | 2 years ago | [district0x-network-token](https://github.com/district0x/district0x-network-token)/951 | Smart Contracts and web app for district0x contribution |
+| 125 | 2 | 12 | 6 years ago | [oxcart](https://github.com/arrdem/oxcart)/952 | [ABANDONED] An optimizing Clojure compiler |
 | 125 | 6 | 2 | 3 months ago | [proxy-plus](https://github.com/redplanetlabs/proxy-plus)/953 | A replacement for Clojure's proxy that's 10x faster and more usable |
-| 124 | 10 | 0 | 1 year, 2 months ago | [reaver](https://github.com/mischov/reaver)/954 | A Clojure library for extracting data from HTML. |
+| 124 | 10 | 0 | 1 year, 3 months ago | [reaver](https://github.com/mischov/reaver)/954 | A Clojure library for extracting data from HTML. |
 | 124 | 9 | 1 | 8 months ago | [core.unify](https://github.com/clojure/core.unify)/955 | Unification library |
 | 124 | 14 | 0 | 11 years ago | [practical-cl-clojure](https://github.com/stuarthalloway/practical-cl-clojure)/956 | Port of Practical Common Lisp samples to Clojure |
 | 123 | 6 | 12 | 6 months ago | [cljplot](https://github.com/generateme/cljplot)/957 | JVM Clojure charting library |
 | 123 | 7 | 12 | 3 months ago | [gungnir](https://github.com/kwrooijen/gungnir)/958 | A fully featured, data-driven database library for Clojure. |
-| 123 | 4 | 7 | 13 hours ago | [holy-lambda](https://github.com/FieryCod/holy-lambda)/959 | The micro framework that integrates Clojure with AWS Lambda on either Java, Clojure Native, or Babashka runtime. |
+| 123 | 4 | 7 | 22 hours ago | [holy-lambda](https://github.com/FieryCod/holy-lambda)/959 | The micro framework that integrates Clojure with AWS Lambda on either Java, Clojure Native, or Babashka runtime. |
 | 123 | 4 | 4 | 2 years ago | [datomock](https://github.com/vvvvalvalval/datomock)/960 | Mocking and forking Datomic Peer connections in-memory. |
 | 123 | 16 | 6 | 6 years ago | [laser](https://github.com/Raynes/laser)/961 | HTML transformation/templating for people who do that sort of thing and stuff |
 | 123 | 29 | 4 | 9 years ago | [kafka-deploy](https://github.com/nathanmarz/kafka-deploy)/962 | Automated deploy for Kafka on AWS |
 | 123 | 8 | 0 | 6 years ago | [om-data-vis](https://github.com/annapawlicka/om-data-vis)/963 | Data visualisations using Om and JavaScript libraries |
 | 123 | 17 | 6 | 5 years ago | [franzy](https://github.com/ymilky/franzy)/964 | Clojure Kafka client with support for Kafka producer, consumer, rebalancing, administration, and validation. |
-| 122 | 11 | 1 | 8 years ago | [gaka](https://github.com/cdaddr/gaka)/965 | A CSS-generating library for Clojure |
-| 122 | 10 | 1 | 6 years ago | [ignite](https://github.com/meta-ex/ignite)/966 | Meta-eX Ignite - Performance Source |
+| 122 | 10 | 1 | 6 years ago | [ignite](https://github.com/meta-ex/ignite)/965 | Meta-eX Ignite - Performance Source |
+| 122 | 11 | 1 | 8 years ago | [gaka](https://github.com/cdaddr/gaka)/966 | A CSS-generating library for Clojure |
 | 122 | 2 | 0 | 5 years ago | [cljs-vdom](https://github.com/brandonbloom/cljs-vdom)/967 | Yet another (but somewhat novel) virtual DOM library |
 | 122 | 9 | 1 | 2 months ago | [schema-cartographer](https://github.com/JarrodCTaylor/schema-cartographer)/968 | Schema Cartographer provides a means to visualize, navigate, create, edit and share the relationships that exist in your Datomic schema. |
 | 122 | 12 | 0 | 6 years ago | [omelette](https://github.com/domkm/omelette)/969 | Isomorphic Clojure[Script] Example |
@@ -974,7 +974,7 @@
 | 122 | 10 | 3 | 9 years ago | [cssgen](https://github.com/paraseba/cssgen)/971 | Generate CSS from clojure code with an embedded DSL |
 | 122 | 3 | 1 | 5 years ago | [lein-oneoff](https://github.com/mtyaka/lein-oneoff)/972 | Dependency management for one-off, single-file clojure programs. |
 | 121 | 35 | 6 | 7 years ago | [clojure-twitter](https://github.com/mattrepl/clojure-twitter)/973 | Clojure client for Twitter API |
-| 121 | 29 | 2 | 27 days ago | [clj-slack](https://github.com/julienXX/clj-slack)/974 | Use Slack REST API from Clojure |
+| 121 | 29 | 2 | 28 days ago | [clj-slack](https://github.com/julienXX/clj-slack)/974 | Use Slack REST API from Clojure |
 | 121 | 7 | 12 | 5 years ago | [planjure](https://github.com/elben/planjure)/975 | :checkered_flag:Path-planning algorithms (Dijkstra, A*, etc); a study in ClojureScript, Om and core.async. |
 | 121 | 6 | 2 | 2 years ago | [special](https://github.com/clojureman/special)/976 | Special (Conditions).  A condition system for Clojure |
 | 121 | 21 | 8 | a day ago | [discljord](https://github.com/IGJoshua/discljord)/977 | A Clojure wrapper library for the Discord API, with full API coverage (except voice, for now), and high scalability |
