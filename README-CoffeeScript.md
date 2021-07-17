@@ -7,7 +7,7 @@
 | 15913 | 2011 | 64 | 1 year, 1 month ago | [coffeescript](https://github.com/jashkenas/coffeescript)/4 | Unfancy JavaScript |
 | 12169 | 839 | 122 | 3 years ago | [zxcvbn](https://github.com/dropbox/zxcvbn)/5 | Low-Budget Password Strength Estimation |
 | 9831 | 1475 | 36 | 1 year, 10 months ago | [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)/6 | Chinese copywriting guidelines for better written communication／中文文案排版指北 |
-| 7418 | 3899 | 440 | 7 hours ago | [codecombat](https://github.com/codecombat/codecombat)/7 | Game for learning how to code. |
+| 7418 | 3899 | 440 | 9 hours ago | [codecombat](https://github.com/codecombat/codecombat)/7 | Game for learning how to code. |
 | 7349 | 412 | 10 | 4 years ago | [dynamics.js](https://github.com/michaelvillar/dynamics.js)/8 | Javascript library to create physics-based animations |
 | 6968 | 1268 | 325 | 4 years ago | [morris.js](https://github.com/morrisjs/morris.js)/9 | Pretty time-series line graphs |
 | 5288 | 714 | 158 | 2 years ago | [At.js](https://github.com/ichord/At.js)/10 | Add Github like mentions autocomplete to your application. |
@@ -35,12 +35,12 @@
 | 2763 | 837 | 10 | 3 years ago | [talk-os](https://github.com/jianliaoim/talk-os)/32 | Open source version of jianliao.com |
 | 2568 | 1063 | 337 | 2 years ago | [angular-google-maps](https://github.com/angular-ui/angular-google-maps)/33 | AngularJS directives for the Google Maps Javascript API |
 | 2458 | 334 | 110 | 3 years ago | [hallo](https://github.com/bergie/hallo)/34 | Simple rich text editor (contentEditable) for jQuery UI |
-| 2440 | 246 | 19 | 1 year, 2 days ago | [cloudtunes](https://github.com/jakubroztocil/cloudtunes)/35 | Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc. |
+| 2440 | 246 | 19 | 1 year, 3 days ago | [cloudtunes](https://github.com/jakubroztocil/cloudtunes)/35 | Web-based music player for the cloud :cloud: :notes: Play music from YouTube, Dropbox, etc. |
 | 2385 | 207 | 9 | 3 years ago | [oriDomi](https://github.com/dmotz/oriDomi)/36 | 📃 Fold up DOM elements like paper |
 | 2254 | 652 | 34 | 5 months ago | [hubot-slack](https://github.com/slackapi/hubot-slack)/37 | Slack Developer Kit for Hubot |
 | 2102 | 326 | 139 | 6 months ago | [psd.js](https://github.com/meltingice/psd.js)/38 | A Photoshop PSD file parser for NodeJS and browsers |
 | 2092 | 250 | 23 | 2 years ago | [QuoJS](https://github.com/soyjavi/QuoJS)/39 | Micro #JavaScript Library for Mobile Devices |
-| 2080 | 212 | 97 | 4 years ago | [js2coffee](https://github.com/js2coffee/js2coffee)/40 | Compile JavaScript to CoffeeScript |
+| 2080 | 212 | 98 | 4 years ago | [js2coffee](https://github.com/js2coffee/js2coffee)/40 | Compile JavaScript to CoffeeScript |
 | 2022 | 1257 | 2 | 6 years ago | [shadowsocks-gui](https://github.com/shadowsocks/shadowsocks-gui)/41 | Shadowsocks GUI client |
 | 1846 | 120 | 102 | 4 years ago | [CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux)/42 | :sweat: rewrite of the CoffeeScript compiler with proper compiler design principles and a focus on robustness and extensibility |
 | 1837 | 249 | 112 | 1 year, 8 months ago | [ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth)/43 | Token based authentication module for angular.js. |
@@ -206,7 +206,7 @@
 | 391 | 141 | 5 | 6 years ago | [slip.js](https://github.com/binnng/slip.js)/203 | 移动端跟随手指滑动组件，零依赖。 |
 | 391 | 67 | 70 | 3 years ago | [meteor-job-collection](https://github.com/vsivsi/meteor-job-collection)/204 | A persistent and reactive job queue for Meteor, supporting distributed workers that can run anywhere. |
 | 384 | 30 | 5 | 8 years ago | [backbone_query](https://github.com/davidgtonge/backbone_query)/205 | A lightweight query api for Backbone Collections |
-| 383 | 72 | 10 | 11 days ago | [HyperDown.js](https://github.com/SegmentFault/HyperDown.js)/206 | None |
+| 383 | 72 | 10 | 12 days ago | [HyperDown.js](https://github.com/SegmentFault/HyperDown.js)/206 | None |
 | 379 | 54 | 17 | 1 year, 2 months ago | [codedoodl.es](https://github.com/fluuuid/codedoodl.es)/207 | A curated showcase of creative coding sketches |
 | 376 | 11 | 10 | 1 year, 8 months ago | [jadelet](https://github.com/STRd6/jadelet)/208 | Pure and simple clientside templates |
 | 374 | 54 | 14 | 1 year, 11 months ago | [twix.js](https://github.com/icambron/twix.js)/209 | :hourglass::left_right_arrow: A date range plugin for moment.js |
@@ -249,15 +249,15 @@
 | 309 | 26 | 9 | 5 years ago | [fuzzaldrin](https://github.com/atom/fuzzaldrin)/246 | Fuzzy filtering and string scoring |
 | 309 | 24 | 9 | 6 years ago | [joosy](https://github.com/joosy/joosy)/247 | Joosy is a browser applications framework. That is based on Rails, CoffeeScript and love. |
 | 308 | 29 | 12 | 2 years ago | [vimtronner](https://github.com/carbonfive/vimtronner)/248 | A multi-player Vim trainer. |
-| 308 | 138 | 11 | Unknown | [hubot-irc](https://github.com/nandub/hubot-irc)/249 | IRC adapter for Hubot |
+| 308 | 138 | 11 | 7 months ago | [hubot-irc](https://github.com/nandub/hubot-irc)/249 | IRC adapter for Hubot |
 | 308 | 35 | 9 | 10 months ago | [testium](https://github.com/groupon/testium)/250 | ⛔️ [DEPRECATED] see https://github.com/testiumjs/testium-mocha |
-| 306 | 104 | 7 | 10 months ago | [uebersicht-widgets](https://github.com/felixhageloh/uebersicht-widgets)/251 | A collection of community widgets for Übersicht  |
-| 306 | 78 | 11 | 4 years ago | [apiaxle](https://github.com/apiaxle/apiaxle)/252 | The apiaxle project |
-| 306 | 14 | 10 | 4 years ago | [gulp-sketch](https://github.com/cognitom/gulp-sketch)/253 | A SketchTool plugin for gulp |
+| 306 | 104 | 7 | Unknown | [uebersicht-widgets](https://github.com/felixhageloh/uebersicht-widgets)/251 | A collection of community widgets for Übersicht  |
+| 306 | 78 | 11 | Unknown | [apiaxle](https://github.com/apiaxle/apiaxle)/252 | The apiaxle project |
+| 306 | 14 | 10 | Unknown | [gulp-sketch](https://github.com/cognitom/gulp-sketch)/253 | A SketchTool plugin for gulp |
 | 306 | 196 | 114 | Unknown | [accounts-entry](https://github.com/Differential/accounts-entry)/254 | Meteor sign up and sign in pages |
 | 306 | 63 | 35 | Unknown | [epub-gen](https://github.com/cyrilis/epub-gen)/255 | Generate EPUB books from HTML with simple API in Node.js. |
-| 306 | 124 | 67 | 5 months ago | [saml2](https://github.com/Clever/saml2)/256 | Node module to abstract away the complexities of the SAML protocol behind an easy to use interface. |
-| 302 | 50 | 29 | 8 years ago | [instagram-node-lib](https://github.com/mckelvey/instagram-node-lib)/257 | The Instagram Node Lib is a helper library for node that makes communicating with the Instagram API easy. |
+| 306 | 124 | 67 | Unknown | [saml2](https://github.com/Clever/saml2)/256 | Node module to abstract away the complexities of the SAML protocol behind an easy to use interface. |
+| 302 | 50 | 29 | Unknown | [instagram-node-lib](https://github.com/mckelvey/instagram-node-lib)/257 | The Instagram Node Lib is a helper library for node that makes communicating with the Instagram API easy. |
 | 301 | 27 | 7 | Unknown | [jwalk](https://github.com/nkohari/jwalk)/258 | command-line json inspector |
 | 301 | 22 | 4 | Unknown | [gleemail](https://github.com/groupon/gleemail)/259 | Making email template development fun! Sort of! |
 | 300 | 31 | 20 | Unknown | [Thera](https://github.com/alibaba/Thera)/260 | Thera is an integrated development environment(IDE) powered by Alibaba.com aimed for improving  mobile hybrid solution develop experience, such as weex, luaview, react native. |
@@ -265,40 +265,40 @@
 | 298 | 66 | 0 | Unknown | [atom-term2](https://github.com/f/atom-term2)/262 | THIS PROJECT IS NO LONGER MAINTAINED. PLEASE USE ATOM TERM3 PACKAGE |
 | 298 | 87 | 12 | Unknown | [restify-oauth2](https://github.com/domenic/restify-oauth2)/263 | A simple OAuth 2 endpoint for Restify |
 | 297 | 111 | 42 | Unknown | [sketch.js](https://github.com/mobomo/sketch.js)/264 | A jQuery plugin for dead simple Canvas-based drawing. |
-| 297 | 36 | 75 | 4 years ago | [node-client](https://github.com/keybase/node-client)/265 | CLI for keybase.io written in/for Node.js |
-| 293 | 100 | 46 | 1 year, 4 months ago | [daterangepicker](https://github.com/sensortower/daterangepicker)/266 | Date range picker component for the modern web |
+| 297 | 36 | 75 | Unknown | [node-client](https://github.com/keybase/node-client)/265 | CLI for keybase.io written in/for Node.js |
+| 293 | 100 | 46 | Unknown | [daterangepicker](https://github.com/sensortower/daterangepicker)/266 | Date range picker component for the modern web |
 | 293 | 101 | 72 | Unknown | [plunker_www](https://github.com/filearts/plunker_www)/267 | The public-facing website for http://plnkr.co |
-| 291 | 50 | 21 | 3 years ago | [AngularJS-Atom](https://github.com/angular-ui/AngularJS-Atom)/268 | An AngularJS package for Github's Atom editor |
-| 291 | 51 | 14 | 3 days ago | [json0](https://github.com/ottypes/json0)/269 | Version 0 of the JSON OT type |
-| 288 | 27 | 30 | 4 years ago | [nesh](https://github.com/danielgtaylor/nesh)/270 | An enhanced, extensible interactive shell for Node.js and CoffeeScript |
+| 292 | 51 | 14 | Unknown | [json0](https://github.com/ottypes/json0)/268 | Version 0 of the JSON OT type |
+| 291 | 50 | 21 | Unknown | [AngularJS-Atom](https://github.com/angular-ui/AngularJS-Atom)/269 | An AngularJS package for Github's Atom editor |
+| 288 | 27 | 30 | Unknown | [nesh](https://github.com/danielgtaylor/nesh)/270 | An enhanced, extensible interactive shell for Node.js and CoffeeScript |
 | 287 | 68 | 13 | Unknown | [pyregex](https://github.com/rscarvalho/pyregex)/271 | pyregex is a Python Regular Expression Online Tester |
-| 285 | 52 | 24 | 4 years ago | [beautiful-docs](https://github.com/beautiful-docs/beautiful-docs)/272 | A beautiful way to read documentation |
+| 285 | 52 | 24 | Unknown | [beautiful-docs](https://github.com/beautiful-docs/beautiful-docs)/272 | A beautiful way to read documentation |
 | 284 | 47 | 9 | Unknown | [node-browserchannel](https://github.com/josephg/node-browserchannel)/273 | An implementation of a google browserchannel server in node.js |
-| 284 | 57 | 3 | 8 years ago | [youtube-video](https://github.com/endlesshack/youtube-video)/274 | A Javascript library to access webm, mp4 sources for Youtube Videos. |
-| 284 | 71 | 6 | Unknown | [brunch-with-chaplin](https://github.com/paulmillr/brunch-with-chaplin)/275 | Boilerplate application for Brunch with Chaplin framework included. |
-| 283 | 59 | 80 | 1 year, 4 months ago | [livecodelab](https://github.com/davidedc/livecodelab)/276 | a web based livecoding environment |
+| 284 | 71 | 6 | Unknown | [brunch-with-chaplin](https://github.com/paulmillr/brunch-with-chaplin)/274 | Boilerplate application for Brunch with Chaplin framework included. |
+| 284 | 57 | 3 | Unknown | [youtube-video](https://github.com/endlesshack/youtube-video)/275 | A Javascript library to access webm, mp4 sources for Youtube Videos. |
+| 283 | 59 | 80 | Unknown | [livecodelab](https://github.com/davidedc/livecodelab)/276 | a web based livecoding environment |
 | 281 | 70 | 50 | Unknown | [atom-runner](https://github.com/lsegal/atom-runner)/277 | This package will run various script files inside of Atom. It currently supports JavaScript, CoffeeScript, Ruby, and Python. You can add more. |
 | 281 | 14 | 1 | Unknown | [ready.js](https://github.com/dsimard/ready.js)/278 | OBSOLETE - continuous javascript integration |
-| 281 | 19 | 3 | 3 years ago | [satella.io](https://github.com/yui540/satella.io)/279 | イラストに「命」を吹き込むソフトウェア |
-| 278 | 47 | 33 | 3 years ago | [angular-light](https://github.com/lega911/angular-light)/280 | Alight is a library for building interactive MVVM web interfaces/applications. (project is deprecated) |
+| 281 | 19 | 3 | Unknown | [satella.io](https://github.com/yui540/satella.io)/279 | イラストに「命」を吹き込むソフトウェア |
+| 278 | 47 | 33 | Unknown | [angular-light](https://github.com/lega911/angular-light)/280 | Alight is a library for building interactive MVVM web interfaces/applications. (project is deprecated) |
 | 277 | 6 | 4 | Unknown | [unregistered](https://github.com/thiagopnts/unregistered)/281 | :registered: Best Atom plugin for sublime text users |
 | 276 | 28 | 31 | Unknown | [neovim-e](https://github.com/coolwanglu/neovim-e)/282 | Electron UI for Neovim |
 | 273 | 18 | 5 | Unknown | [ghostbuster](https://github.com/joshbuddy/ghostbuster)/283 | Integration testing ftw |
-| 273 | 76 | 59 | 3 years ago | [S3](https://github.com/Lepozepo/S3)/284 | A simple helper for easily uploading files to Amazon S3 from Meteor. This package will also make Knox available server-side. |
+| 273 | 76 | 59 | Unknown | [S3](https://github.com/Lepozepo/S3)/284 | A simple helper for easily uploading files to Amazon S3 from Meteor. This package will also make Knox available server-side. |
 | 272 | 19 | 0 | Unknown | [rails-behaviors](https://github.com/josh/rails-behaviors)/285 | Rails UJS Behaviors for jQuery and Zepto |
 | 270 | 114 | 79 | Unknown | [karma-ng-html2js-preprocessor](https://github.com/karma-runner/karma-ng-html2js-preprocessor)/286 | A Karma plugin. Compile AngularJS 1.x and 2.x templates to JavaScript on the fly. |
 | 270 | 35 | 82 | Unknown | [atom-node-debugger](https://github.com/kiddkai/atom-node-debugger)/287 | A Nodejs Debugger For Atom |
-| 269 | 23 | 1 | 6 years ago | [linear-partition](https://github.com/zaikio/linear-partition)/288 | Linear partition in Coffeescript (Javascript) |
-| 269 | 73 | 0 | 1 year, 7 months ago | [derby-examples](https://github.com/derbyjs/derby-examples)/289 | Example applications for the Derby framework |
-| 269 | 27 | 11 | 2 years ago | [fresh-url](https://github.com/wistia/fresh-url)/290 | Drop this script on your page and enjoy the freshest of URLs |
+| 269 | 23 | 1 | Unknown | [linear-partition](https://github.com/zaikio/linear-partition)/288 | Linear partition in Coffeescript (Javascript) |
+| 269 | 73 | 0 | Unknown | [derby-examples](https://github.com/derbyjs/derby-examples)/289 | Example applications for the Derby framework |
+| 269 | 27 | 11 | Unknown | [fresh-url](https://github.com/wistia/fresh-url)/290 | Drop this script on your page and enjoy the freshest of URLs |
 | 267 | 39 | 17 | Unknown | [node-datapumps](https://github.com/agmen-hu/node-datapumps)/291 | Node.js ETL (Extract, Transform, Load) toolkit for easy data import, export or transfer between systems. |
 | 266 | 12 | 6 | Unknown | [async-profile](https://github.com/ConradIrwin/async-profile)/292 | Asynchronous CPU profiling for node |
 | 266 | 23 | 2 | Unknown | [violin](https://github.com/latentflip/violin)/293 | Violin |
-| 264 | 24 | 21 | 1 year, 1 month ago | [uRequire](https://github.com/anodynos/uRequire)/294 | The Ultimate JavaScript Module Builder & Automagical Task Runner. Convert AMD & CommonJS/NodeJS modules to UMD, AMD, CommonJS or bundle them as `combined.js` (rjs & almond, AMDclean soon) & automagically run/test/watch them on nodejs, Web/AMD or Web/Script. Declarative & DRY config with inheritance. Manipulate & inject dependencies, module code, banners, version etc while building with a single line. Support two kinds of plugins, ResourceConverter (i.e file level) and AfterBuilder (i.e the whole bundle). Transparent support for Coffeescript, IcedCoffeescript, Coco, LiveScript – they’re just JavaScript :-) |
+| 264 | 24 | 21 | Unknown | [uRequire](https://github.com/anodynos/uRequire)/294 | The Ultimate JavaScript Module Builder & Automagical Task Runner. Convert AMD & CommonJS/NodeJS modules to UMD, AMD, CommonJS or bundle them as `combined.js` (rjs & almond, AMDclean soon) & automagically run/test/watch them on nodejs, Web/AMD or Web/Script. Declarative & DRY config with inheritance. Manipulate & inject dependencies, module code, banners, version etc while building with a single line. Support two kinds of plugins, ResourceConverter (i.e file level) and AfterBuilder (i.e the whole bundle). Transparent support for Coffeescript, IcedCoffeescript, Coco, LiveScript – they’re just JavaScript :-) |
 | 264 | 62 | 30 | Unknown | [wiki](https://github.com/fedwiki/wiki)/295 | Federated Wiki - node server as npm package |
-| 263 | 45 | 15 | 2 months ago | [syno](https://github.com/kwent/syno)/296 | Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x. |
+| 263 | 45 | 15 | Unknown | [syno](https://github.com/kwent/syno)/296 | Simple Node.js wrapper and CLI for Synology  DSM REST API 5.x and 6.x. |
 | 262 | 19 | 12 | Unknown | [jsog](https://github.com/jsog/jsog)/297 | JavaScript Object Graph |
-| 262 | 35 | 7 | 7 years ago | [node-di](https://github.com/vojtajina/node-di)/298 | Dependency Injection framework for Node.js |
+| 262 | 35 | 7 | Unknown | [node-di](https://github.com/vojtajina/node-di)/298 | Dependency Injection framework for Node.js |
 | 262 | 71 | 8 | Unknown | [jquery.qeditor](https://github.com/huacnlee/jquery.qeditor)/299 | This is a simple WYSIWYG editor with jQuery. |
 | 260 | 41 | 10 | Unknown | [orona](https://github.com/stephank/orona)/300 | Bolo, a game of tank warfare, rewritten for modern browsers. |
 | 258 | 23 | 13 | 2 years ago | [textLayer-for-Framer](https://github.com/awt2542/textLayer-for-Framer)/301 | Framer.js module that simplifies the process of adding text to your prototypes. |
@@ -398,26 +398,26 @@
 | 187 | 25 | 9 | 6 years ago | [viff](https://github.com/winsonwq/viff)/395 | Viff Testing Framework. Find visual differences between web pages in different environments(developing, staging, production) and browsers. |
 | 186 | 130 | 65 | 5 years ago | [msexcel-builder](https://github.com/chuanyi/msexcel-builder)/396 | A simple and fast library to create MS Office Excel(>2007) xlsx files. |
 | 186 | 20 | 10 | 5 years ago | [autocode](https://github.com/ctate/autocode)/397 | spec-driven code generator |
-| 186 | 4324 | 4 | 8 years ago | [shadowsocks-dotcloud](https://github.com/shadowsocks/shadowsocks-dotcloud)/398 | a port of shadowsocks via websockets protocol, able to tunnel through HTTP proxy |
+| 186 | 4325 | 4 | 8 years ago | [shadowsocks-dotcloud](https://github.com/shadowsocks/shadowsocks-dotcloud)/398 | a port of shadowsocks via websockets protocol, able to tunnel through HTTP proxy |
 | 186 | 22 | 1 | 7 years ago | [coffeedoc](https://github.com/omarkhan/coffeedoc)/399 | An API documentation generator for CoffeeScript |
 | 185 | 31 | 21 | 1 year, 6 months ago | [atom-todo-show](https://github.com/mrodalgaard/atom-todo-show)/400 | Atom package that shows a list of todos from your project. |
-| 185 | 43 | 7 | Unknown | [language-elixir](https://github.com/elixir-editors/language-elixir)/401 | Elixir language support for the Atom editor. |
-| 185 | 42 | 9 | Unknown | [mongoose-encryption](https://github.com/joegoldbeck/mongoose-encryption)/402 | Simple encryption and authentication plugin for Mongoose |
-| 184 | 142 | 40 | Unknown | [language-python](https://github.com/atom/language-python)/403 | Python package for Atom |
+| 185 | 43 | 7 | 1 year, 4 months ago | [language-elixir](https://github.com/elixir-editors/language-elixir)/401 | Elixir language support for the Atom editor. |
+| 185 | 42 | 9 | 3 months ago | [mongoose-encryption](https://github.com/joegoldbeck/mongoose-encryption)/402 | Simple encryption and authentication plugin for Mongoose |
+| 184 | 142 | 40 | 5 months ago | [language-python](https://github.com/atom/language-python)/403 | Python package for Atom |
 | 183 | 9 | 8 | 8 years ago | [YouAreDaChef](https://github.com/raganwald/YouAreDaChef)/404 | Coffeescript/Javascript method combinations for Underscore projects |
 | 183 | 59 | 6 | 8 years ago | [spine.contacts](https://github.com/maccman/spine.contacts)/405 | Spine demo contact manager |
 | 183 | 23 | 6 | 1 year, 2 months ago | [fibrous](https://github.com/goodeggs/fibrous)/406 | Easily mix asynchronous and synchronous programming styles in node.js. |
 | 183 | 41 | 20 | 6 months ago | [podigee-podcast-player](https://github.com/podigee/podigee-podcast-player)/407 | Podcast Web Player |
 | 183 | 55 | 0 | 2 years ago | [windows-framer-toolkit](https://github.com/microsoft/windows-framer-toolkit)/408 | Windows 10 UWP framer prototyping toolkit.  |
-| 183 | 10 | 0 | Unknown | [VRComponent](https://github.com/jonastreub/VRComponent)/409 | A virtual reality component for Framer. |
-| 182 | 23 | 4 | Unknown | [typetype](https://github.com/iamdanfox/typetype)/410 | human typing with jQuery |
-| 181 | 84 | 21 | Unknown | [react-countdown-clock](https://github.com/pughpugh/react-countdown-clock)/411 | HTML5 canvas countdown clock React component |
+| 183 | 10 | 0 | 4 years ago | [VRComponent](https://github.com/jonastreub/VRComponent)/409 | A virtual reality component for Framer. |
+| 182 | 23 | 4 | 6 years ago | [typetype](https://github.com/iamdanfox/typetype)/410 | human typing with jQuery |
+| 181 | 84 | 21 | 6 months ago | [react-countdown-clock](https://github.com/pughpugh/react-countdown-clock)/411 | HTML5 canvas countdown clock React component |
 | 181 | 42 | 5 | 3 years ago | [json2json](https://github.com/joelvh/json2json)/412 | Transform (reformat) JSON structures from one to another using JavaScript |
 | 180 | 49 | 1 | 6 years ago | [heartbot](https://github.com/digitalocean/heartbot)/413 | A shot of love for your favorite chat client. |
 | 178 | 10 | 6 | 4 years ago | [eventric](https://github.com/efacilitation/eventric)/414 | Minimalist JavaScript framework to build applications based on DDD, CQRS and Event Sourcing.  |
 | 178 | 13 | 7 | 5 years ago | [invisible](https://github.com/invisiblejs/invisible)/415 | Invisible.js: Reusable models for the client and the server |
-| 178 | 8 | 1 | Unknown | [fine.sh-cli](https://github.com/just-fine/fine.sh-cli)/416 | generate your static website in 3 seconds |
-| 178 | 56 | 25 | Unknown | [angular-contenteditable](https://github.com/akatov/angular-contenteditable)/417 | angular model for the "contenteditable" attribute |
+| 178 | 8 | 1 | 2 years ago | [fine.sh-cli](https://github.com/just-fine/fine.sh-cli)/416 | generate your static website in 3 seconds |
+| 178 | 56 | 25 | 5 years ago | [angular-contenteditable](https://github.com/akatov/angular-contenteditable)/417 | angular model for the "contenteditable" attribute |
 | 178 | 6 | 0 | 7 years ago | [nack](https://github.com/josh/nack)/418 | Node powered Rack server |
 | 177 | 17 | 2 | 3 years ago | [zui53](https://github.com/florianguenther/zui53)/419 | ZUI53 is a JavaScript Library to create powerfull webbased Zoomable User Interfaces (ZUIs) with new technologies like HTML5 and CSS3. |
 | 177 | 27 | 23 | 1 year, 4 months ago | [markdown-img-paste](https://github.com/cocoakekeyu/markdown-img-paste)/420 | 一个可以快速粘贴剪贴板里的照片到markdown的插件，并且可以设置使用七牛存储照片。 |
@@ -425,99 +425,99 @@
 | 176 | 26 | 10 | 7 years ago | [node-tumblr](https://github.com/meritt/node-tumblr)/422 | A node.js wrapper for the Tumblr API |
 | 176 | 33 | 3 | 6 years ago | [react-starter-template](https://github.com/johnthethird/react-starter-template)/423 | React (reactjs), Gulp, Webpack, Bootstrap, LiveReload, all tied up in a bow. |
 | 176 | 60 | 34 | 4 years ago | [grunt-phonegap](https://github.com/logankoester/grunt-phonegap)/424 | A Grunt plugin to provide local build tasks for Phonegap applications |
-| 175 | 59 | 14 | Unknown | [node-whois](https://github.com/FurqanSoftware/node-whois)/425 | A simple WHOIS client for NodeJS |
-| 175 | 118 | 5 | Unknown | [flappy](https://github.com/hyspace/flappy)/426 | flappy bird in html5 |
+| 175 | 59 | 14 | a month ago | [node-whois](https://github.com/FurqanSoftware/node-whois)/425 | A simple WHOIS client for NodeJS |
+| 175 | 118 | 5 | 7 years ago | [flappy](https://github.com/hyspace/flappy)/426 | flappy bird in html5 |
 | 174 | 22 | 2 | 8 years ago | [workflow.js](https://github.com/kendagriff/workflow.js)/427 | JS-based Finite State Machine for Backbone.js |
-| 174 | 30 | 13 | Unknown | [jasmine-given](https://github.com/searls/jasmine-given)/428 | Like rspec-given, but for jasmine |
-| 174 | 24 | 10 | Unknown | [bot-brother](https://github.com/SerjoPepper/bot-brother)/429 | Node.js framework for telegram bots |
+| 174 | 30 | 13 | 5 years ago | [jasmine-given](https://github.com/searls/jasmine-given)/428 | Like rspec-given, but for jasmine |
+| 174 | 24 | 10 | 3 years ago | [bot-brother](https://github.com/SerjoPepper/bot-brother)/429 | Node.js framework for telegram bots |
 | 173 | 13 | 0 | 7 years ago | [triangular.js](https://github.com/balena-io/triangular.js)/430 | A natural fusion between d3 and angular.js. See http://alexandros.resin.io/angular-d3-svg/ for more information |
-| 173 | 15 | 4 | Unknown | [FramerModules](https://github.com/joshpuckett/FramerModules)/431 | Modules that extend Framer.js |
-| 173 | 25 | 16 | Unknown | [dockerlint](https://github.com/RedCoolBeans/dockerlint)/432 | Linting tool for Dockerfiles |
-| 173 | 17 | 1 | Unknown | [node-parameters](https://github.com/adaltas/node-parameters)/433 | Nice looking shell applications with pluggable middlewares for Node.js |
-| 173 | 26 | 1 | Unknown | [revolver](https://github.com/johnnyfreeman/revolver)/434 | A javascript library for building your own content slider. |
-| 172 | 57 | 0 | Unknown | [nerdbar.widget](https://github.com/herrbischoff/nerdbar.widget)/435 | Übersicht system information bar for use with kwm window manager (or without). |
-| 172 | 6 | 9 | Unknown | [Katy](https://github.com/raganwald/Katy)/436 | CoffeeScript and JavaScript Combinators |
+| 173 | 15 | 4 | 2 years ago | [FramerModules](https://github.com/joshpuckett/FramerModules)/431 | Modules that extend Framer.js |
+| 173 | 25 | 16 | 2 years ago | [dockerlint](https://github.com/RedCoolBeans/dockerlint)/432 | Linting tool for Dockerfiles |
+| 173 | 17 | 1 | 3 years ago | [node-parameters](https://github.com/adaltas/node-parameters)/433 | Nice looking shell applications with pluggable middlewares for Node.js |
+| 173 | 26 | 1 | 6 years ago | [revolver](https://github.com/johnnyfreeman/revolver)/434 | A javascript library for building your own content slider. |
+| 172 | 57 | 0 | 7 months ago | [nerdbar.widget](https://github.com/herrbischoff/nerdbar.widget)/435 | Übersicht system information bar for use with kwm window manager (or without). |
+| 172 | 6 | 9 | 8 years ago | [Katy](https://github.com/raganwald/Katy)/436 | CoffeeScript and JavaScript Combinators |
 | 172 | 7 | 6 | 4 years ago | [vue-materialize](https://github.com/paulpflug/vue-materialize)/437 | materialize - done in vue |
 | 171 | 7 | 1 | 3 years ago | [lottie-framer](https://github.com/72/lottie-framer)/438 | A Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files) |
-| 171 | 58 | 63 | Unknown | [ex-mode](https://github.com/lloeki/ex-mode)/439 | Ex mode for Atom |
-| 170 | 24 | 6 | Unknown | [legacy](https://github.com/meteor-activeroute/legacy)/440 | Active route helpers for the most popular routers in Meteor |
+| 171 | 58 | 63 | 2 years ago | [ex-mode](https://github.com/lloeki/ex-mode)/439 | Ex mode for Atom |
+| 170 | 24 | 6 | 4 years ago | [legacy](https://github.com/meteor-activeroute/legacy)/440 | Active route helpers for the most popular routers in Meteor |
 | 169 | 48 | 13 | 2 years ago | [jquery.ns-autogrow](https://github.com/ro31337/jquery.ns-autogrow)/441 | Automatically adjust textarea width/height based on user input. Non-sucking version. |
 | 168 | 33 | 7 | 3 years ago | [slack-node-sdk](https://github.com/clonn/slack-node-sdk)/442 | slack.com, slack, node sdk |
-| 167 | 33 | 4 | Unknown | [component-store-example](https://github.com/nylas/component-store-example)/443 | An example of the topics covered in Building for Plugins with React & Flux |
+| 167 | 33 | 4 | 5 years ago | [component-store-example](https://github.com/nylas/component-store-example)/443 | An example of the topics covered in Building for Plugins with React & Flux |
 | 167 | 38 | 14 | 6 years ago | [angular-pouchdb](https://github.com/wspringer/angular-pouchdb)/444 | Angular wrapper for PouchDB, making sure that callbacks are called within $rootScope.$apply(), and using $q promises instead of callbacks. On top of that, it supports an `ng-repeat`-alike directive for traversing the contents of your database. |
-| 167 | 32 | 2 | Unknown | [Kosmos](https://github.com/judnich/Kosmos)/445 | A virtual 3D universe in your web browser. |
-| 167 | 74 | 13 | Unknown | [htmldiff.js](https://github.com/tnwinc/htmldiff.js)/446 | Diff algorithm that understands HTML, in the browser. |
+| 167 | 32 | 2 | 7 years ago | [Kosmos](https://github.com/judnich/Kosmos)/445 | A virtual 3D universe in your web browser. |
+| 167 | 74 | 13 | 8 years ago | [htmldiff.js](https://github.com/tnwinc/htmldiff.js)/446 | Diff algorithm that understands HTML, in the browser. |
 | 167 | 28 | 36 | 4 years ago | [amd-optimize](https://github.com/scalableminds/amd-optimize)/447 | An AMD (RequireJS) optimizer that's stream-friendly. Made for gulp. |
 | 167 | 75 | 132 | 2 years ago | [atom-html-preview](https://github.com/harmsk/atom-html-preview)/448 | Atom HTML Live Preview Package |
 | 166 | 29 | 5 | 2 months ago | [yayson](https://github.com/confetti/yayson)/449 | A library for serializing and reading JSON API data in JavaScript. |
-| 166 | 9 | 6 | Unknown | [jquery.fillwidth](https://github.com/craigspaeth/jquery.fillwidth)/450 | Line up images to the edge of their container (like google images) without cropping |
-| 166 | 39 | 9 | Unknown | [hapiger](https://github.com/grahamjenson/hapiger)/451 | HapiGer is an http-wrapper around the Good Enough Recommendation engine using the Hapi.js framework |
+| 166 | 9 | 6 | 7 years ago | [jquery.fillwidth](https://github.com/craigspaeth/jquery.fillwidth)/450 | Line up images to the edge of their container (like google images) without cropping |
+| 166 | 39 | 9 | 3 years ago | [hapiger](https://github.com/grahamjenson/hapiger)/451 | HapiGer is an http-wrapper around the Good Enough Recommendation engine using the Hapi.js framework |
 | 165 | 31 | 0 | 5 years ago | [citygen](https://github.com/t-mw/citygen)/452 | Procedural city generation demo  |
-| 164 | 31 | 13 | Unknown | [meteor-publish-with-relations](https://github.com/svasva/meteor-publish-with-relations)/453 | Meteor.js SmartPackage to publish associated collections at once. |
+| 164 | 31 | 13 | 7 years ago | [meteor-publish-with-relations](https://github.com/svasva/meteor-publish-with-relations)/453 | Meteor.js SmartPackage to publish associated collections at once. |
 | 164 | 16 | 13 | 3 years ago | [gulp-order](https://github.com/sirlantis/gulp-order)/454 | This gulp plugin allows you to reorder a stream of files via globs. |
-| 163 | 46 | 23 | Unknown | [angular-validator](https://github.com/kelp404/angular-validator)/455 | AngularJS form validation. |
-| 163 | 37 | 38 | Unknown | [pm2-meteor](https://github.com/andruschka/pm2-meteor)/456 | Simplest way to deploy, scale and run Meteor Apps with PM2. |
+| 163 | 46 | 23 | 3 years ago | [angular-validator](https://github.com/kelp404/angular-validator)/455 | AngularJS form validation. |
+| 163 | 37 | 38 | 7 months ago | [pm2-meteor](https://github.com/andruschka/pm2-meteor)/456 | Simplest way to deploy, scale and run Meteor Apps with PM2. |
 | 163 | 37 | 19 | 5 years ago | [instagram-screen-scrape](https://github.com/notslang/instagram-screen-scrape)/457 | scrape public instagram data w/out API access |
 | 163 | 20 | 9 | 1 year, 1 month ago | [manager-for-upyun](https://github.com/layerssss/manager-for-upyun)/458 | 又拍云资源管理器 |
-| 162 | 15 | 16 | Unknown | [jsck](https://github.com/pandastrike/jsck)/459 | JSON Schema Compiled checK |
+| 162 | 15 | 16 | 3 years ago | [jsck](https://github.com/pandastrike/jsck)/459 | JSON Schema Compiled checK |
 | 162 | 23 | 4 | 8 years ago | [deprecated-flexible-nav](https://github.com/gre/deprecated-flexible-nav)/460 | NOT MAINTAINED – Improve your navigation experience - this jQuery lib improves a webpage navigation and helps to visualize different sections. of a document, an article,.. any web page. |
-| 161 | 19 | 0 | Unknown | [react-reflux-boilerplate-with-webpack](https://github.com/iroy2000/react-reflux-boilerplate-with-webpack)/461 | React + Reflux + CoffeeScript + Stylus Boilerplate with Webpack |
-| 161 | 27 | 6 | Unknown | [clabot](https://github.com/clabot/clabot)/462 | A bot to take the pain out of Contributor License Agreements |
+| 161 | 19 | 0 | 4 years ago | [react-reflux-boilerplate-with-webpack](https://github.com/iroy2000/react-reflux-boilerplate-with-webpack)/461 | React + Reflux + CoffeeScript + Stylus Boilerplate with Webpack |
+| 161 | 27 | 6 | 5 years ago | [clabot](https://github.com/clabot/clabot)/462 | A bot to take the pain out of Contributor License Agreements |
 | 161 | 64 | 0 | 1 year, 4 months ago | [docker-image](https://github.com/overleaf/docker-image)/463 | A Dockerfile for building the official Overleaf Community Edition docker image |
-| 161 | 92 | 3 | 2 years ago | [sfz](https://github.com/joyqi/sfz)/464 | 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件） |
-| 161 | 45 | 40 | 4 years ago | [atom-tablr](https://github.com/abe33/atom-tablr)/465 | Edit CSV files using a table editor |
+| 161 | 92 | 3 | Unknown | [sfz](https://github.com/joyqi/sfz)/464 | 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件） |
+| 161 | 45 | 40 | Unknown | [atom-tablr](https://github.com/abe33/atom-tablr)/465 | Edit CSV files using a table editor |
 | 160 | 11 | 14 | Unknown | [pry.js](https://github.com/bayleedev/pry.js)/466 | :microscope: A REPL for Node. |
 | 160 | 38 | 57 | 3 years ago | [meteor-file-collection](https://github.com/vsivsi/meteor-file-collection)/467 | Extends Meteor Collections to handle file data using MongoDB gridFS. |
 | 159 | 39 | 10 | Unknown | [iap_verifier](https://github.com/pcrawfor/iap_verifier)/468 | Node.js implementation of iOS In App Purchase receipt verification |
 | 159 | 26 | 19 | Unknown | [performance-now](https://github.com/myrne/performance-now)/469 | Implements performance.now (based on process.hrtime). |
-| 159 | 20 | 43 | 3 years ago | [atomatigit](https://github.com/diiq/atomatigit)/470 | Atom-ati-Git. Git intergration for Atom.io, in the style of Magit. UNMAINTAINED. SEEKING NEW MAINTAINER. |
-| 159 | 246 | 3 | 2 years ago | [graph-api-webhooks-samples](https://github.com/fbsamples/graph-api-webhooks-samples)/471 | These are sample clients for Facebook's Graph API Webhooks and Instagram's Real-time Photo Updates API. |
-| 158 | 32 | 8 | 7 years ago | [Jitter](https://github.com/TrevorBurnham/Jitter)/472 | A simple CoffeeScript compilation utility |
-| 158 | 13 | 9 | 11 months ago | [gulp-tap](https://github.com/geejs/gulp-tap)/473 | Easily tap into a gulp pipeline without creating a plugin. |
+| 159 | 20 | 43 | Unknown | [atomatigit](https://github.com/diiq/atomatigit)/470 | Atom-ati-Git. Git intergration for Atom.io, in the style of Magit. UNMAINTAINED. SEEKING NEW MAINTAINER. |
+| 159 | 246 | 3 | Unknown | [graph-api-webhooks-samples](https://github.com/fbsamples/graph-api-webhooks-samples)/471 | These are sample clients for Facebook's Graph API Webhooks and Instagram's Real-time Photo Updates API. |
+| 158 | 32 | 8 | Unknown | [Jitter](https://github.com/TrevorBurnham/Jitter)/472 | A simple CoffeeScript compilation utility |
+| 158 | 13 | 9 | Unknown | [gulp-tap](https://github.com/geejs/gulp-tap)/473 | Easily tap into a gulp pipeline without creating a plugin. |
 | 158 | 26 | 16 | 5 years ago | [grunt-angular-phonegap](https://github.com/dsimard/grunt-angular-phonegap)/474 | Combine yeoman/generator-angular and phonegap |
 | 158 | 93 | 14 | 7 years ago | [number-polyfill](https://github.com/jonstipe/number-polyfill)/475 | A polyfill for implementing the HTML5 <input type="number"> element in browsers that do not currently support it. |
 | 157 | 49 | 23 | 2 years ago | [dynasty](https://github.com/victorquinn/dynasty)/476 | Dynasty - Promise-based, clean DynamoDB API |
 | 157 | 38 | 4 | 5 years ago | [angular-d3](https://github.com/WealthBar/angular-d3)/477 | AngularJS directives for declaratively using D3 |
-| 157 | 26 | 1 | 4 years ago | [moment-countdown](https://github.com/icambron/moment-countdown)/478 | Use Countdown.js from Moment.js |
-| 157 | 10 | 15 | Unknown | [dictionaries](https://github.com/pnlpal/dictionaries)/479 | One dictionary to rule them all -- a browser extension to help you learn languages |
+| 157 | 26 | 1 | Unknown | [moment-countdown](https://github.com/icambron/moment-countdown)/478 | Use Countdown.js from Moment.js |
+| 157 | 10 | 15 | a month ago | [dictionaries](https://github.com/pnlpal/dictionaries)/479 | One dictionary to rule them all -- a browser extension to help you learn languages |
 | 156 | 50 | 13 | 4 years ago | [ngOnboarding](https://github.com/adamalbrecht/ngOnboarding)/480 | A tooltip-tutorial / onboarding framework for Angular.js |
 | 155 | 24 | 23 | Unknown | [atom-tasks](https://github.com/irrationalistic/atom-tasks)/481 | Handle tasks/todo files in atom |
-| 155 | 21 | 14 | 7 years ago | [commonjs-everywhere](https://github.com/michaelficarra/commonjs-everywhere)/482 | :rainbow: minimal CommonJS browser bundler with aliasing, extensibility, and source maps |
+| 155 | 21 | 14 | Unknown | [commonjs-everywhere](https://github.com/michaelficarra/commonjs-everywhere)/482 | :rainbow: minimal CommonJS browser bundler with aliasing, extensibility, and source maps |
 | 155 | 70 | 8 | 5 years ago | [ksp](https://github.com/alexmoon/ksp)/483 | Kerbal Space Program Mission Plotter |
-| 154 | 44 | 38 | 2 months ago | [wifi-control-node](https://github.com/msolters/wifi-control-node)/484 | A NodeJS module that allows you to scan for, connect to and disconnect from wireless access points near the server. Great for offline or local apps. |
-| 154 | 17 | 21 | 9 months ago | [meteor-partitioner](https://github.com/Meteor-Community-Packages/meteor-partitioner)/485 | Transparently divide a single meteor app into several different instances shared between different groups of users. |
-| 154 | 14 | 21 | 5 years ago | [ship](https://github.com/carrot/ship)/486 | ⛔️ currently unmaintained ⛔️ |
+| 154 | 44 | 38 | Unknown | [wifi-control-node](https://github.com/msolters/wifi-control-node)/484 | A NodeJS module that allows you to scan for, connect to and disconnect from wireless access points near the server. Great for offline or local apps. |
+| 154 | 17 | 21 | Unknown | [meteor-partitioner](https://github.com/Meteor-Community-Packages/meteor-partitioner)/485 | Transparently divide a single meteor app into several different instances shared between different groups of users. |
+| 154 | 14 | 21 | Unknown | [ship](https://github.com/carrot/ship)/486 | ⛔️ currently unmaintained ⛔️ |
 | 154 | 17 | 0 | 8 years ago | [shaky](https://github.com/dbushong/shaky)/487 | Converted dart shaky boxes demo to coffeescript |
 | 153 | 11 | 1 | Unknown | [jade-react](https://github.com/duncanbeevers/jade-react)/488 | Compile Jade templates to React.DOM expressions |
-| 153 | 35 | 0 | Unknown | [starry](https://github.com/sadne/starry)/489 | starry.so 完成一个故事 |
-| 151 | 19 | 3 | 1 year, 8 months ago | [tutor](https://github.com/davidchambers/tutor)/490 | JavaScript interface for the Gatherer card database |
-| 150 | 22 | 75 | Unknown | [cocreate](https://github.com/edemaine/cocreate)/491 | Cocreate Shared Whiteboard/Drawing |
-| 150 | 22 | 15 | Unknown | [docopt.coffee](https://github.com/docopt/docopt.coffee)/492 | docopt - A command line option parser that will make you smile. |
+| 153 | 35 | 0 | 6 years ago | [starry](https://github.com/sadne/starry)/489 | starry.so 完成一个故事 |
+| 151 | 19 | 3 | Unknown | [tutor](https://github.com/davidchambers/tutor)/490 | JavaScript interface for the Gatherer card database |
+| 150 | 22 | 75 | 2 days ago | [cocreate](https://github.com/edemaine/cocreate)/491 | Cocreate Shared Whiteboard/Drawing |
+| 150 | 22 | 15 | 8 years ago | [docopt.coffee](https://github.com/docopt/docopt.coffee)/492 | docopt - A command line option parser that will make you smile. |
 | 150 | 22 | 13 | 5 years ago | [iron-router-progress](https://github.com/Multiply/iron-router-progress)/493 | Progressbar for iron-router |
-| 150 | 47 | 5 | Unknown | [accept-bitcoin](https://github.com/sagivo/accept-bitcoin)/494 | Accept bitcoin payments using Node.js |
+| 150 | 47 | 5 | 4 years ago | [accept-bitcoin](https://github.com/sagivo/accept-bitcoin)/494 | Accept bitcoin payments using Node.js |
 | 149 | 9 | 1 | 1 year, 2 months ago | [galley](https://github.com/google-fabric/galley)/495 | Orchestrator for local Docker containers |
-| 149 | 33 | 9 | a month ago | [wiki-server](https://github.com/fedwiki/wiki-server)/496 | Federated Wiki client and server in Node.js |
+| 149 | 33 | 9 | Unknown | [wiki-server](https://github.com/fedwiki/wiki-server)/496 | Federated Wiki client and server in Node.js |
 | 149 | 43 | 6 | Unknown | [node-stanford-simple-nlp](https://github.com/xissy/node-stanford-simple-nlp)/497 | A simple node.js wrapper for stanford-core-nlp. |
-| 148 | 31 | 0 | 8 years ago | [meteor-bbs](https://github.com/chuangbo/meteor-bbs)/498 | A Clone of Project Babel 3 in Meteor |
+| 148 | 31 | 0 | Unknown | [meteor-bbs](https://github.com/chuangbo/meteor-bbs)/498 | A Clone of Project Babel 3 in Meteor |
 | 148 | 33 | 15 | 6 years ago | [svg-input-elements](https://github.com/engelfrost/svg-input-elements)/499 | A JavaScript implementation of an SVG textarea. WIP. |
 | 148 | 21 | 4 | 5 years ago | [piler](https://github.com/esamattis/piler)/500 | Deprecated Asset Manager for Node.js |
-| 148 | 17 | 2 | 5 years ago | [framer-path](https://github.com/slitrobo/framer-path)/501 | Create custom svg shapes and animate each point individually in Framer JS. |
-| 147 | 22 | 16 | Unknown | [formstamp](https://github.com/formstamp/formstamp)/502 | Pure AngularJS widgets |
+| 148 | 17 | 2 | Unknown | [framer-path](https://github.com/slitrobo/framer-path)/501 | Create custom svg shapes and animate each point individually in Framer JS. |
+| 147 | 22 | 16 | 5 years ago | [formstamp](https://github.com/formstamp/formstamp)/502 | Pure AngularJS widgets |
 | 147 | 12 | 3 | Unknown | [react-sparkline](https://github.com/KyleAMathews/react-sparkline)/503 | React component for rendering simple sparklines |
-| 147 | 14 | 0 | Unknown | [meteor-any-db](https://github.com/ccorcos/meteor-any-db)/504 | A database API for Meteor |
-| 147 | 58 | 20 | Unknown | [ionic-rating](https://github.com/fraserxu/ionic-rating)/505 |  An angularjs directive that take care of visualising a star rating bar |
-| 147 | 45 | 5 | Unknown | [RootPanel](https://github.com/HackPlan/RootPanel)/506 | A pluggable PaaS service development framework. |
-| 147 | 57 | 10 | 6 months ago | [hubot-auth](https://github.com/hubot-scripts/hubot-auth)/507 | Assign roles to users and restrict command access in other scripts |
+| 147 | 14 | 0 | 4 years ago | [meteor-any-db](https://github.com/ccorcos/meteor-any-db)/504 | A database API for Meteor |
+| 147 | 58 | 20 | 4 years ago | [ionic-rating](https://github.com/fraserxu/ionic-rating)/505 |  An angularjs directive that take care of visualising a star rating bar |
+| 147 | 45 | 5 | 6 years ago | [RootPanel](https://github.com/HackPlan/RootPanel)/506 | A pluggable PaaS service development framework. |
+| 147 | 57 | 10 | Unknown | [hubot-auth](https://github.com/hubot-scripts/hubot-auth)/507 | Assign roles to users and restrict command access in other scripts |
 | 146 | 15 | 3 | 4 years ago | [Framer-AudioPlayer](https://github.com/benjamindenboer/Framer-AudioPlayer)/508 | AudioPlayer Module for Framer. See the new, Design-compatible Audio module here: https://github.com/benjamindenboer/FramerAudio |
 | 146 | 33 | 26 | 4 years ago | [treema](https://github.com/codecombat/treema)/509 | jQuery plugin that generates HTML interfaces to edit JSON data defined by json-schema. |
 | 146 | 60 | 90 | 4 years ago | [remote-edit](https://github.com/sveale/remote-edit)/510 | remote-edit |
-| 146 | 8 | 3 | Unknown | [nubnub](https://github.com/technoweenie/nubnub)/511 | Node.js PubSubHubbub client/server implementation |
-| 145 | 18 | 10 | 3 years ago | [angular-bacon](https://github.com/lauripiispanen/angular-bacon)/512 | Angular-bacon.js bindings |
+| 146 | 8 | 3 | 7 years ago | [nubnub](https://github.com/technoweenie/nubnub)/511 | Node.js PubSubHubbub client/server implementation |
+| 145 | 18 | 10 | Unknown | [angular-bacon](https://github.com/lauripiispanen/angular-bacon)/512 | Angular-bacon.js bindings |
 | 145 | 32 | 16 | 6 years ago | [bitrated](https://github.com/shesek/bitrated)/513 | Bitrated v1 |
-| 144 | 15 | 18 | 3 years ago | [FramerInput](https://github.com/benjamindenboer/FramerInput)/514 | Design with Inputs in Framer. |
+| 144 | 15 | 18 | Unknown | [FramerInput](https://github.com/benjamindenboer/FramerInput)/514 | Design with Inputs in Framer. |
 | 144 | 45 | 14 | 24 days ago | [hubot-grafana](https://github.com/stephenyeargin/hubot-grafana)/515 | 📈🤖 Query Grafana dashboards |
 | 144 | 19 | 9 | Unknown | [presentz.js](https://github.com/ffissore/presentz.js)/516 | A js library to show synchronized video and slides presentations, powering presentz.org |
-| 144 | 25 | 6 | Unknown | [offCanvasMenu](https://github.com/cloudfour/offCanvasMenu)/517 | A jQuery/Zepto plugin that provides an easy way to implement an off-canvas toggling menu, a navigation metaphor made popular by mobile applications. |
+| 144 | 25 | 6 | 7 years ago | [offCanvasMenu](https://github.com/cloudfour/offCanvasMenu)/517 | A jQuery/Zepto plugin that provides an easy way to implement an off-canvas toggling menu, a navigation metaphor made popular by mobile applications. |
 | 143 | 11 | 2 | a month ago | [RenderKid](https://github.com/AriaMinaei/RenderKid)/518 | Stylish console.log for node |
 | 143 | 15 | 32 | 7 years ago | [deprecated-buddycloud-server](https://github.com/buddycloud/deprecated-buddycloud-server)/519 | A buddycloud server written in Node. |
 | 143 | 16 | 3 | 2 years ago | [lsd](https://github.com/franzenzenhofer/lsd)/520 | LSD - line-square-dot: an addicting game |
@@ -525,81 +525,81 @@
 | 142 | 28 | 23 | 2 years ago | [coffee-coverage](https://github.com/benbria/coffee-coverage)/522 | Istanbul and JSCoverage-style instrumentation for CoffeeScript files. |
 | 141 | 49 | 6 | 1 year, 2 months ago | [bibviz](https://github.com/bibviz/bibviz)/523 | BibViz.com Website and Scripts |
 | 141 | 21 | 2 | 4 years ago | [client](https://github.com/trailbot/client)/524 | Trailbot tracks files and logs in your servers and triggers Smart Policies upon unwanted modification. |
-| 141 | 39 | 4 | 7 years ago | [oculus-drone](https://github.com/daraosn/oculus-drone)/525 | Oculus Rift + AR Drone 2.0 controller with live video feed and head-motion controller. |
-| 141 | 30 | 16 | 7 years ago | [hogan-express](https://github.com/vol4ok/hogan-express)/526 | Mustache template engine for express 3.x. Support partials and layout |
+| 141 | 39 | 4 | Unknown | [oculus-drone](https://github.com/daraosn/oculus-drone)/525 | Oculus Rift + AR Drone 2.0 controller with live video feed and head-motion controller. |
+| 141 | 30 | 16 | Unknown | [hogan-express](https://github.com/vol4ok/hogan-express)/526 | Mustache template engine for express 3.x. Support partials and layout |
 | 141 | 10 | 4 | 2 years ago | [chromatic-sass](https://github.com/bugsnag/chromatic-sass)/527 | Advanced color manipulation for node sass |
 | 141 | 36 | 132 | 4 years ago | [atom-autocomplete-php](https://github.com/Peekmo/atom-autocomplete-php)/528 | Autocomplete for PHP in atom editor |
 | 140 | 36 | 7 | 6 years ago | [facewall](https://github.com/HubSpot/facewall)/529 | Grid visualization of Gravatars for an organization |
-| 140 | 18 | 1 | 7 years ago | [FlappyTube](https://github.com/flynngao/FlappyTube)/530 | Crazy H5 Game which Tube kill birds |
-| 140 | 159 | 17 | 4 years ago | [ynab-csv](https://github.com/halloffame/ynab-csv)/531 | Tool for making your CSV files ready to import into YNAB |
+| 140 | 18 | 1 | Unknown | [FlappyTube](https://github.com/flynngao/FlappyTube)/530 | Crazy H5 Game which Tube kill birds |
+| 140 | 159 | 17 | Unknown | [ynab-csv](https://github.com/halloffame/ynab-csv)/531 | Tool for making your CSV files ready to import into YNAB |
 | 139 | 20 | 6 | 5 years ago | [wikidata-graph-builder](https://github.com/AngryLoki/wikidata-graph-builder)/532 | Visualize Wikidata items using d3.js |
-| 139 | 16 | 93 | 4 years ago | [policeman](https://github.com/futpib/policeman)/533 | Firefox extention for cross-site requests control (kind of RequestPolicy clone) |
+| 139 | 16 | 93 | Unknown | [policeman](https://github.com/futpib/policeman)/533 | Firefox extention for cross-site requests control (kind of RequestPolicy clone) |
 | 139 | 15 | 1 | Unknown | [TuringType](https://github.com/dmotz/TuringType)/534 | ⌨️ Simple human typing effect |
 | 139 | 47 | 72 | Unknown | [balena-raspberrypi](https://github.com/balena-os/balena-raspberrypi)/535 | Balena support for RaspberryPI boards |
-| 138 | 35 | 0 | Unknown | [atom-keyboard-localization](https://github.com/andischerer/atom-keyboard-localization)/536 | [DEPRECATED] Keyboard localization package for non US-Keyboard Layouts |
+| 138 | 35 | 0 | 4 years ago | [atom-keyboard-localization](https://github.com/andischerer/atom-keyboard-localization)/536 | [DEPRECATED] Keyboard localization package for non US-Keyboard Layouts |
 | 138 | 49 | 21 | 3 years ago | [hubot-natural](https://github.com/RocketChat/hubot-natural)/537 | Natural Language Processing Chatbot for RocketChat |
 | 138 | 28 | 46 | 3 years ago | [ensime-atom](https://github.com/ensime/ensime-atom)/538 | ENSIME Atom plugin for Scala developers |
-| 138 | 44 | 1 | 1 year, 11 months ago | [microphone](https://github.com/wit-ai/microphone)/539 | Microphone in the browser using WebRTC and WebSockets |
-| 137 | 9 | 3 | 5 years ago | [rel](https://github.com/yang/rel)/540 | Arel ported to node js — with some changes |
-| 137 | 30 | 3 | 3 years ago | [hexaflip](https://github.com/dmotz/hexaflip)/541 | 🧊 Visualizes arrays as cube interfaces |
+| 138 | 44 | 1 | Unknown | [microphone](https://github.com/wit-ai/microphone)/539 | Microphone in the browser using WebRTC and WebSockets |
+| 137 | 9 | 3 | Unknown | [rel](https://github.com/yang/rel)/540 | Arel ported to node js — with some changes |
+| 137 | 30 | 3 | Unknown | [hexaflip](https://github.com/dmotz/hexaflip)/541 | 🧊 Visualizes arrays as cube interfaces |
 | 137 | 29 | 13 | Unknown | [oskar](https://github.com/wearehanno/oskar)/542 | Oskar was a Slackbot that helped track happiness in remote teams. He has now been retired. |
-| 137 | 29 | 54 | Unknown | [accord](https://github.com/jescalan/accord)/543 | (unmaintained) a unified interface for compiled languages and templates in javascript |
-| 137 | 37 | 59 | Unknown | [atom-asciidoc-preview](https://github.com/asciidoctor/atom-asciidoc-preview)/544 | ⚛ AsciiDoc preview for the Atom editor. |
-| 136 | 12 | 10 | 6 years ago | [messenger](https://github.com/marekhrabe/messenger)/545 | Unofficial Facebook Mesenger for Mac |
-| 136 | 28 | 3 | 2 years ago | [simply-deferred](https://github.com/sudhirj/simply-deferred)/546 | A deferred library for Node.js and the browser with a jQuery compatible API |
+| 137 | 29 | 54 | 2 years ago | [accord](https://github.com/jescalan/accord)/543 | (unmaintained) a unified interface for compiled languages and templates in javascript |
+| 137 | 37 | 59 | 11 months ago | [atom-asciidoc-preview](https://github.com/asciidoctor/atom-asciidoc-preview)/544 | ⚛ AsciiDoc preview for the Atom editor. |
+| 136 | 12 | 10 | Unknown | [messenger](https://github.com/marekhrabe/messenger)/545 | Unofficial Facebook Mesenger for Mac |
+| 136 | 28 | 3 | Unknown | [simply-deferred](https://github.com/sudhirj/simply-deferred)/546 | A deferred library for Node.js and the browser with a jQuery compatible API |
 | 135 | 54 | 8 | 2 years ago | [twitter-sentiment-visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation)/547 | :earth_africa: The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends. |
-| 135 | 26 | 6 | 8 years ago | [shortly](https://github.com/lucaspiller/shortly)/548 | Shortly: a Serverless Pastebin Service - All Data is Stored in the URL  |
+| 135 | 26 | 6 | Unknown | [shortly](https://github.com/lucaspiller/shortly)/548 | Shortly: a Serverless Pastebin Service - All Data is Stored in the URL  |
 | 135 | 15 | 9 | 3 years ago | [mongofb](https://github.com/lessthan3/mongofb)/549 | MongoFirebase - MongoDB + Firebase security/updates |
 | 135 | 68 | 173 | 5 years ago | [appchan-x](https://github.com/zixaphir/appchan-x)/550 | The most comprehensive, feature filled 4chan userscript. |
-| 135 | 15 | 67 | Unknown | [msgflo](https://github.com/msgflo/msgflo)/551 | Distributed Flow-Based Programming via message queues |
+| 135 | 15 | 67 | 2 years ago | [msgflo](https://github.com/msgflo/msgflo)/551 | Distributed Flow-Based Programming via message queues |
 | 133 | 87 | 1 | Unknown | [gates_bubbles](https://github.com/vlandham/gates_bubbles)/552 | animated bubble charts in D3 |
-| 133 | 48 | 7 | Unknown | [hubot-skype](https://github.com/netpro2k/hubot-skype)/553 | Skype adapter for hubot |
-| 133 | 32 | 13 | Unknown | [mail-listener](https://github.com/circuithub/mail-listener)/554 | Mail listener library for node.js. Get notification when new email arrived. |
+| 133 | 48 | 7 | 7 years ago | [hubot-skype](https://github.com/netpro2k/hubot-skype)/553 | Skype adapter for hubot |
+| 133 | 32 | 13 | 7 years ago | [mail-listener](https://github.com/circuithub/mail-listener)/554 | Mail listener library for node.js. Get notification when new email arrived. |
 | 132 | 27 | 4 | Unknown | [inbox-scaffold-html5](https://github.com/nylas/inbox-scaffold-html5)/555 | The Inbox HTML5 App Scaffold - a foundation for building great mail apps. |
-| 131 | 9 | 3 | 3 years ago | [nerdbar.widget](https://github.com/apierz/nerdbar.widget)/556 | Customizable bar(s) for OSX. |
-| 131 | 25 | 0 | 3 years ago | [socket-pipe](https://github.com/joyqi/socket-pipe)/557 | None |
-| 131 | 15 | 0 | 7 years ago | [tumbler](https://github.com/ndrwhr/tumbler)/558 | A simple physics simulation/meditation/relaxation experiment. |
+| 131 | 9 | 3 | Unknown | [nerdbar.widget](https://github.com/apierz/nerdbar.widget)/556 | Customizable bar(s) for OSX. |
+| 131 | 25 | 0 | Unknown | [socket-pipe](https://github.com/joyqi/socket-pipe)/557 | None |
+| 131 | 15 | 0 | Unknown | [tumbler](https://github.com/ndrwhr/tumbler)/558 | A simple physics simulation/meditation/relaxation experiment. |
 | 131 | 13 | 0 | 2 years ago | [node-vortex](https://github.com/websecurify/node-vortex)/559 | None |
 | 130 | 12 | 1 | 3 years ago | [toa](https://github.com/yui540/toa)/560 | シンプルで可愛いミュージックプレイヤー「兎亜」 |
 | 130 | 30 | 0 | 4 years ago | [Plasmatic-Isosurface](https://github.com/soulwire/Plasmatic-Isosurface)/561 | A 2 dimensional plasma simulation running on the GPU, written in GLSL and CoffeeScript and rendered with WebGL. |
 | 129 | 6 | 1 | 6 years ago | [backbone.statemanager](https://github.com/crashlytics/backbone.statemanager)/562 | Backbone module for adding states to objects |
 | 129 | 41 | 2 | 7 years ago | [noreferrer](https://github.com/knu/noreferrer)/563 | Cross-browser support for HTML5's noreferrer link type. |
 | 129 | 21 | 9 | 3 years ago | [meteor-flow-router-helpers](https://github.com/arillo/meteor-flow-router-helpers)/564 | Template helpers for meteorhacks:flow-router, pathFor, subsReady, urlFor, queryParam |
-| 129 | 17 | 10 | Unknown | [DVL](https://github.com/vogievetsky/DVL)/565 | Dynamic Visualization LEGO |
-| 129 | 9 | 5 | Unknown | [gsap-react-plugin](https://github.com/hzdg/gsap-react-plugin)/566 | A GSAP plugin for tweening React.js component state. |
-| 129 | 28 | 0 | Unknown | [react-express-template](https://github.com/khaled/react-express-template)/567 | Full stack web app starter template using React, ES6, CoffeeScript, Express, and more |
-| 129 | 20 | 1 | Unknown | [tapas-with-ember](https://github.com/mutewinter/tapas-with-ember)/568 | 🚫 UNMAINTAINED: A Brunch skeleton for rapid Ember development. Including Ember installation scripts, environment-specific JS builds, generators, and Ember.vim support. |
+| 129 | 17 | 10 | 4 years ago | [DVL](https://github.com/vogievetsky/DVL)/565 | Dynamic Visualization LEGO |
+| 129 | 9 | 5 | 7 years ago | [gsap-react-plugin](https://github.com/hzdg/gsap-react-plugin)/566 | A GSAP plugin for tweening React.js component state. |
+| 129 | 28 | 0 | 5 years ago | [react-express-template](https://github.com/khaled/react-express-template)/567 | Full stack web app starter template using React, ES6, CoffeeScript, Express, and more |
+| 129 | 20 | 1 | 6 years ago | [tapas-with-ember](https://github.com/mutewinter/tapas-with-ember)/568 | 🚫 UNMAINTAINED: A Brunch skeleton for rapid Ember development. Including Ember installation scripts, environment-specific JS builds, generators, and Ember.vim support. |
 | 129 | 12 | 6 | 7 years ago | [vm.js](https://github.com/tarruda/vm.js)/569 | Javascript bytecode compiler and VM implemented in pure coffeescript |
 | 128 | 13 | 1 | 9 years ago | [hubot-minecraft](https://github.com/minefold/hubot-minecraft)/570 | A Minecraft hubot adapter |
-| 128 | 30 | 8 | 1 year, 1 month ago | [chai-webdriver](https://github.com/goodeggs/chai-webdriver)/571 | Build more expressive integration tests with webdriver sugar for chai.js |
-| 128 | 15 | 15 | Unknown | [meteor-peerdb](https://github.com/peerlibrary/meteor-peerdb)/572 | Reactive database layer with references, generators, triggers, migrations, etc. |
+| 128 | 30 | 8 | Unknown | [chai-webdriver](https://github.com/goodeggs/chai-webdriver)/571 | Build more expressive integration tests with webdriver sugar for chai.js |
+| 128 | 15 | 15 | 1 year, 5 months ago | [meteor-peerdb](https://github.com/peerlibrary/meteor-peerdb)/572 | Reactive database layer with references, generators, triggers, migrations, etc. |
 | 128 | 3 | 18 | Unknown | [hanzo.js](https://github.com/hanzoai/hanzo.js)/573 | 🚀 Hanzo JavaScript SDK. Develop cutting-edge decentralized applications. |
-| 128 | 7 | 9 | Unknown | [glist](https://github.com/jcouyang/glist)/574 | Taking notes with :octocat: Gist from Atom |
-| 127 | 12 | 2 | Unknown | [gearsketch](https://github.com/frankleenaars/gearsketch)/575 | GearSketch sandbox in CoffeeScript |
-| 127 | 18 | 5 | Unknown | [crispyfi](https://github.com/zaikio/crispyfi)/576 | Makes music. Loud. https://www.crispymtn.com/stories/let-the-music-play |
-| 127 | 29 | 1 | Unknown | [brauhausjs](https://github.com/homebrewing/brauhausjs)/577 | A beer recipe calculator for homebrewing on servers and in browsers |
+| 128 | 7 | 9 | 4 years ago | [glist](https://github.com/jcouyang/glist)/574 | Taking notes with :octocat: Gist from Atom |
+| 127 | 12 | 2 | 7 years ago | [gearsketch](https://github.com/frankleenaars/gearsketch)/575 | GearSketch sandbox in CoffeeScript |
+| 127 | 18 | 5 | 5 years ago | [crispyfi](https://github.com/zaikio/crispyfi)/576 | Makes music. Loud. https://www.crispymtn.com/stories/let-the-music-play |
+| 127 | 29 | 1 | 6 years ago | [brauhausjs](https://github.com/homebrewing/brauhausjs)/577 | A beer recipe calculator for homebrewing on servers and in browsers |
 | 126 | 59 | 0 | 4 years ago | [d3examples](https://github.com/kbroman/d3examples)/578 | Examples of interactive graphics using d3.js |
-| 126 | 8 | 4 | 4 years ago | [birch-outline](https://github.com/jessegrosjean/birch-outline)/579 | Cross-platform scripting for TaskPaper |
-| 126 | 42 | 15 | 2 years ago | [excel-as-json](https://github.com/stevetarver/excel-as-json)/580 | npm package that converts excel data to json |
+| 126 | 8 | 4 | Unknown | [birch-outline](https://github.com/jessegrosjean/birch-outline)/579 | Cross-platform scripting for TaskPaper |
+| 126 | 42 | 15 | Unknown | [excel-as-json](https://github.com/stevetarver/excel-as-json)/580 | npm package that converts excel data to json |
 | 125 | 25 | 19 | 9 years ago | [docco-husky](https://github.com/mbrevoort/docco-husky)/581 | A fork of docco for generating documentation for a whole project |
-| 125 | 24 | 9 | 3 years ago | [electron-cookies](https://github.com/hstove/electron-cookies)/582 | Adds support for cookies in Electron. Cookies are persisted through localStorage. |
-| 125 | 9 | 4 | 9 years ago | [Paige](https://github.com/rthauby/Paige)/583 | Super simple project page generation |
-| 125 | 6 | 6 | 4 years ago | [mocha-cakes](https://github.com/quangv/mocha-cakes)/584 | (inactive) BDD mocha test framework add-on, stories with Cucumber style Given/When/Then syntax for Node.js |
-| 123 | 12 | 8 | 6 years ago | [grunt-build-atom-shell](https://github.com/anaisbetts/grunt-build-atom-shell)/585 | Grunt task to build Electron and rebuild node modules |
-| 123 | 29 | 22 | 1 year, 3 months ago | [fabricjs-viewport](https://github.com/SoftwareBrothers/fabricjs-viewport)/586 | allows zooming and viewport manipulation in fabricjs |
+| 125 | 24 | 9 | Unknown | [electron-cookies](https://github.com/hstove/electron-cookies)/582 | Adds support for cookies in Electron. Cookies are persisted through localStorage. |
+| 125 | 9 | 4 | Unknown | [Paige](https://github.com/rthauby/Paige)/583 | Super simple project page generation |
+| 125 | 6 | 6 | Unknown | [mocha-cakes](https://github.com/quangv/mocha-cakes)/584 | (inactive) BDD mocha test framework add-on, stories with Cucumber style Given/When/Then syntax for Node.js |
+| 123 | 12 | 8 | Unknown | [grunt-build-atom-shell](https://github.com/anaisbetts/grunt-build-atom-shell)/585 | Grunt task to build Electron and rebuild node modules |
+| 123 | 29 | 22 | Unknown | [fabricjs-viewport](https://github.com/SoftwareBrothers/fabricjs-viewport)/586 | allows zooming and viewport manipulation in fabricjs |
 | 123 | 7 | 3 | 8 years ago | [chromatist](https://github.com/jrus/chromatist)/587 | A JavaScript library for working with colors and color spaces |
-| 123 | 57 | 12 | 5 years ago | [node-pagseguro](https://github.com/alanhoff/node-pagseguro)/588 | Integração ao Pagseguro para sistemas usando o Node.js |
-| 123 | 31 | 7 | 2 years ago | [pixel-editor](https://github.com/STRd6/pixel-editor)/589 | It edits pixels |
-| 123 | 23 | 16 | 5 years ago | [Ask-Stack-Atom](https://github.com/Chris911/Ask-Stack-Atom)/590 | Ask Stack Overflow for Atom |
-| 123 | 26 | 0 | 7 years ago | [jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text)/591 | Make your text sizing responsive! |
-| 123 | 34 | 10 | 4 years ago | [request-json](https://github.com/cozy/request-json)/592 | Http Client to deal easily with JSON API |
-| 122 | 39 | 12 | 7 years ago | [snockets](https://github.com/pthrasher/snockets)/593 | Sprockets-style script concatenation for Node |
-| 122 | 69 | 7 | 5 years ago | [s3upload-coffee-javascript](https://github.com/tadruj/s3upload-coffee-javascript)/594 | Client Side S3 CORS Upload for Amazon S3 - CoffeeScript and JavaScript Class |
+| 123 | 31 | 7 | Unknown | [pixel-editor](https://github.com/STRd6/pixel-editor)/588 | It edits pixels |
+| 123 | 57 | 12 | Unknown | [node-pagseguro](https://github.com/alanhoff/node-pagseguro)/589 | Integração ao Pagseguro para sistemas usando o Node.js |
+| 123 | 23 | 16 | Unknown | [Ask-Stack-Atom](https://github.com/Chris911/Ask-Stack-Atom)/590 | Ask Stack Overflow for Atom |
+| 123 | 26 | 0 | Unknown | [jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text)/591 | Make your text sizing responsive! |
+| 123 | 34 | 10 | Unknown | [request-json](https://github.com/cozy/request-json)/592 | Http Client to deal easily with JSON API |
+| 122 | 39 | 12 | Unknown | [snockets](https://github.com/pthrasher/snockets)/593 | Sprockets-style script concatenation for Node |
+| 122 | 69 | 7 | Unknown | [s3upload-coffee-javascript](https://github.com/tadruj/s3upload-coffee-javascript)/594 | Client Side S3 CORS Upload for Amazon S3 - CoffeeScript and JavaScript Class |
 | 122 | 16 | 6 | 1 year, 9 months ago | [meteor-reactive-publish](https://github.com/peerlibrary/meteor-reactive-publish)/595 | Reactive publish endpoints |
-| 122 | 76 | 11 | 4 years ago | [hubot-google-images](https://github.com/hubot-scripts/hubot-google-images)/596 | A hubot script that interacts with the Google Images API |
-| 121 | 11 | 0 | 5 years ago | [Slash](https://github.com/oott123/Slash)/597 | Read your documents cross platform. |
-| 121 | 62 | 10 | 24 days ago | [h2o-flow](https://github.com/h2oai/h2o-flow)/598 | Web based interactive computing environment for H2O |
-| 121 | 22 | 12 | 7 years ago | [node-mocks](https://github.com/vojtajina/node-mocks)/599 | Suite of mocks for node.js (fs, http) + some testing utils... |
+| 122 | 76 | 11 | Unknown | [hubot-google-images](https://github.com/hubot-scripts/hubot-google-images)/596 | A hubot script that interacts with the Google Images API |
+| 121 | 11 | 0 | Unknown | [Slash](https://github.com/oott123/Slash)/597 | Read your documents cross platform. |
+| 121 | 62 | 10 | Unknown | [h2o-flow](https://github.com/h2oai/h2o-flow)/598 | Web based interactive computing environment for H2O |
+| 121 | 22 | 12 | Unknown | [node-mocks](https://github.com/vojtajina/node-mocks)/599 | Suite of mocks for node.js (fs, http) + some testing utils... |
 | 121 | 10 | 12 | 7 years ago | [method-combinators](https://github.com/raganwald/method-combinators)/600 | None |
 | 121 | 8 | 5 | 9 years ago | [dynasaur](https://github.com/tglines/dynasaur)/601 | DynamoDB ORM for Node.js |
 | 121 | 18 | 1 | 8 years ago | [fontBomb](https://github.com/plehoux/fontBomb)/602 | An html 5 experiment where you can destroy any webpage with bombs! |
@@ -630,7 +630,7 @@
 | 116 | 51 | 11 | 3 years ago | [ngModal](https://github.com/adamalbrecht/ngModal)/627 | Very basic modal dialog directive for Angular.js |
 | 116 | 161 | 89 | 2 months ago | [language-c](https://github.com/atom/language-c)/628 | C support in Atom |
 | 116 | 18 | 2 | 4 years ago | [django-turbolinks](https://github.com/dgladkov/django-turbolinks)/629 | Drop-in turbolinks implementation for Django |
-| 116 | 25 | 4 | 1 year, 17 days ago | [redis-sessions](https://github.com/smrchy/redis-sessions)/630 | An advanced session store for NodeJS and Redis |
+| 116 | 25 | 4 | 1 year, 18 days ago | [redis-sessions](https://github.com/smrchy/redis-sessions)/630 | An advanced session store for NodeJS and Redis |
 | 116 | 49 | 129 | 4 years ago | [symbols-tree-view](https://github.com/xndcn/symbols-tree-view)/631 | A symbols view like taglist for Atom.io |
 | 116 | 21 | 21 | 3 years ago | [organized](https://github.com/MattFlower/organized)/632 | Outlining, scheduling, and todos inside of the Atom Editor |
 | 115 | 19 | 4 | 7 years ago | [brunch-with-hipsters](https://github.com/elving/brunch-with-hipsters)/633 | Brunch with Hipsters is a rad Brunch app skeleton that comes with unicorns out of the box. |
@@ -649,7 +649,7 @@
 | 113 | 30 | 29 | 1 year, 11 months ago | [atom-markdown-mindmap](https://github.com/dundalek/atom-markdown-mindmap)/646 | Visualize markdown files as mindmaps in Atom editor |
 | 113 | 46 | 27 | 4 years ago | [jquery-mentions](https://github.com/ivirabyan/jquery-mentions)/647 | Adds mentioning support to your text fields. |
 | 113 | 11 | 0 | 8 years ago | [luca](https://github.com/datapimp/luca)/648 | A UI / Component Framework and Application Architecture for Backbone.js which uses twitter's bootstrap for styling |
-| 113 | 3 | 6 | a day ago | [Fizzygum](https://github.com/davidedc/Fizzygum)/649 | a new web framework, an entire platform really, designed from the ground up to handle complex things easily. Put the power of an entire Operating System at your fingertips. |
+| 113 | 3 | 6 | 54 minutes ago | [Fizzygum](https://github.com/davidedc/Fizzygum)/649 | a new web framework, an entire platform really, designed from the ground up to handle complex things easily. Put the power of an entire Operating System at your fingertips. |
 | 113 | 11 | 16 | 6 years ago | [observatory](https://github.com/superstringsoftware/observatory)/650 | Powerful, yet easy to use, logging, monitoring and application management package for Meteor framework. Some docs below, for details -  |
 | 113 | 23 | 4 | 6 years ago | [hoardd](https://github.com/coredump/hoardd)/651 | Hoardd is extensible daemon designed to collect server data and inject into Graphite/Carbon |
 | 112 | 35 | 0 | 7 days ago | [autocomplete-clang](https://github.com/yasuyuky/autocomplete-clang)/652 | None |
@@ -712,10 +712,10 @@
 | 102 | 16 | 2 | 9 years ago | [knockout-rails](https://github.com/dnagir/knockout-rails)/709 | KnockoutJS for Rails with Sweetness |
 | 102 | 37 | 11 | 30 days ago | [fs-plus](https://github.com/atom/fs-plus)/710 | node's fs module with some helpful additions |
 | 102 | 21 | 2 | 3 years ago | [photoslog](https://github.com/michaelvillar/photoslog)/711 | A simple page to show a log of your photos. |
-| 102 | 30 | 9 | 3 years ago | [hubot-bearychat](https://github.com/bearyinnovative/hubot-bearychat)/712 | BearyChat Adapter for Hubot |
-| 102 | 14 | 1 | 5 years ago | [OrientationEvents](https://github.com/joshmtucker/OrientationEvents)/713 | Module for Framer Studio to handle device orientation events. |
-| 101 | 6 | 2 | 6 years ago | [Look-Alike](https://github.com/axiomzen/Look-Alike)/714 | A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries. |
-| 101 | 60 | 12 | 14 days ago | [srvpro](https://github.com/mycard/srvpro)/715 | A server for YGOPro |
+| 102 | 60 | 12 | 14 days ago | [srvpro](https://github.com/mycard/srvpro)/712 | A server for YGOPro |
+| 102 | 30 | 9 | 3 years ago | [hubot-bearychat](https://github.com/bearyinnovative/hubot-bearychat)/713 | BearyChat Adapter for Hubot |
+| 102 | 14 | 1 | 5 years ago | [OrientationEvents](https://github.com/joshmtucker/OrientationEvents)/714 | Module for Framer Studio to handle device orientation events. |
+| 101 | 6 | 2 | 6 years ago | [Look-Alike](https://github.com/axiomzen/Look-Alike)/715 | A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries. |
 | 100 | 38 | 11 | 6 years ago | [moment.twitter](https://github.com/hijonathan/moment.twitter)/716 | A Twitter-like date formatter for moment.js |
 | 100 | 44 | 11 | 4 years ago | [atom-turbo-javascript](https://github.com/extrabacon/atom-turbo-javascript)/717 | Commands and snippets for faster Javascript and Typescript with the Atom Editor |
 | 100 | 119 | 152 | 2 years ago | [xwing](https://github.com/geordanr/xwing)/718 | Squad builder for the First Edition X-Wing Miniatures game by Fantasy Flight Games. |
@@ -810,10 +810,10 @@
 | 87 | 14 | 3 | 6 years ago | [particle-saga](https://github.com/blakecarroll/particle-saga)/807 | A gallery for images and models rendered as particles with three.js |
 | 87 | 10 | 2 | 5 years ago | [mitm-omegle](https://github.com/olegberman/mitm-omegle)/808 | Watch strangers talk on Omegle (man in the middle attack) |
 | 87 | 28 | 1 | 4 years ago | [atom](https://github.com/nornagon/atom)/809 | a <canvas> game framework that does as little as possible |
-| 87 | 29 | 12 | 6 years ago | [jquery-fullsizable](https://github.com/MSchmidt/jquery-fullsizable)/810 | Take advantage of full available browser space to display images! |
-| 87 | 41 | 16 | 6 years ago | [hubot-twitter](https://github.com/MathildeLemee/hubot-twitter)/811 | Twitter adapter for Hubot |
-| 87 | 5 | 1 | 5 years ago | [domo](https://github.com/rikukissa/domo)/812 | Domo the incredible irc-bot |
-| 87 | 15 | 7 | 5 years ago | [gridwax](https://github.com/itsthatguy/gridwax)/813 | None |
+| 87 | 41 | 16 | 6 years ago | [hubot-twitter](https://github.com/MathildeLemee/hubot-twitter)/810 | Twitter adapter for Hubot |
+| 87 | 29 | 12 | 6 years ago | [jquery-fullsizable](https://github.com/MSchmidt/jquery-fullsizable)/811 | Take advantage of full available browser space to display images! |
+| 87 | 15 | 7 | 5 years ago | [gridwax](https://github.com/itsthatguy/gridwax)/812 | None |
+| 87 | 5 | 1 | 5 years ago | [domo](https://github.com/rikukissa/domo)/813 | Domo the incredible irc-bot |
 | 87 | 8 | 1 | 10 years ago | [css-terminal](https://github.com/barberboy/css-terminal)/814 | CSS Terminal is a bookmarklet for rapid CSS development, prototyping and debugging. |
 | 87 | 8 | 0 | 7 years ago | [hubot-mysql-chatops](https://github.com/samlambert/hubot-mysql-chatops)/815 | ChatOps for MySQL. |
 | 86 | 8 | 0 | 6 years ago | [angular-webpack-example](https://github.com/jeffling/angular-webpack-example)/816 | This is sort of a shrine to what was cutting edge front-end in 2014. Simple template with webpack (run from gulp) that supports angular (from bower), with some common settings.  |
@@ -827,8 +827,8 @@
 | 86 | 32 | 11 | 5 years ago | [leapjs-rigged-hand](https://github.com/leapmotion/leapjs-rigged-hand)/824 | Control hand models with the Leap Motion |
 | 86 | 20 | 10 | a month ago | [tab-ahead](https://github.com/janraasch/tab-ahead)/825 | Web Browser Extension that helps you to quickly find open tabs by title and URL. |
 | 86 | 15 | 2 | 3 years ago | [egghead-downloader](https://github.com/markbrown4/egghead-downloader)/826 | downloads egghead |
-| 85 | 1 | 4 | 6 years ago | [mixen](https://github.com/HubSpot/mixen)/827 | Combine Javascript classes on the fly |
-| 85 | 17 | 3 | 6 years ago | [node-backbone-skeleton](https://github.com/brikis98/node-backbone-skeleton)/828 | A skeleton project for creating applications that use node.js server-side, backbone.js client-side, underscore.js templates, CoffeeScript as a JS pre-processor and Compass/SASS as a CSS pre-processor.. |
+| 85 | 17 | 3 | 6 years ago | [node-backbone-skeleton](https://github.com/brikis98/node-backbone-skeleton)/827 | A skeleton project for creating applications that use node.js server-side, backbone.js client-side, underscore.js templates, CoffeeScript as a JS pre-processor and Compass/SASS as a CSS pre-processor.. |
+| 85 | 1 | 4 | 6 years ago | [mixen](https://github.com/HubSpot/mixen)/828 | Combine Javascript classes on the fly |
 | 85 | 28 | 20 | 5 years ago | [agentscript0](https://github.com/backspaces/agentscript0)/829 | Minimalist Agent Based Modeling (ABM) framework based on NetLogo |
 | 85 | 5 | 0 | 10 years ago | [html5edit](https://github.com/bevry-archive/html5edit)/830 | Lightweight R&D project surrounding HTML5's contenteditable feature |
 | 85 | 29 | 19 | 2 months ago | [vtex.js](https://github.com/vtex/vtex.js)/831 | VTEX SDK for JavaScript |
@@ -840,37 +840,37 @@
 | 84 | 10 | 5 | 2 years ago | [esarea](https://github.com/fukayatsu/esarea)/837 | Enjoy (\( ⁰⊖⁰)/) markdown! |
 | 84 | 45 | 5 | 5 years ago | [ingress-exporter](https://github.com/bwbwbwbw/ingress-exporter)/838 | Export all portals, links, fields and system broadcasts in a specific area. |
 | 84 | 6 | 3 | 1 year, 11 months ago | [CameraLayer](https://github.com/ktcy/CameraLayer)/839 | Framer layer displaying image from a camera device |
-| 84 | 9 | 36 | 1 year, 7 months ago | [Termination](https://github.com/bus-stop/Termination)/840 | Integrated terminal for Atom. Looks like terminal-plus, acts like your native terminal (except every other Friday). Looking for collaborators! :-) |
-| 83 | 42 | 28 | 2 years ago | [subtotal](https://github.com/nagarajanchinnasamy/subtotal)/841 | A JavaScript plugin for PivotTable.js. It renders subtotals of rows and columns with the ability to expand and collapse rows and columns |
-| 83 | 33 | 11 | 4 years ago | [RedmineTimeTracker](https://github.com/ujiro99/RedmineTimeTracker)/842 | Chrome/Electron app for tracking work time. |
-| 83 | 3 | 0 | 3 years ago | [Casing](https://github.com/nataliemarleny/Casing)/843 | The UI Framework for Framer Classic. Manages data, components and views |
-| 83 | 6 | 2 | 6 years ago | [gap](https://github.com/rockymadden/gap)/844 | :nut_and_bolt: Fix default Google Analytics tracking methodologies and track micro user behaviors. |
-| 83 | 4 | 0 | 7 years ago | [mixin](https://github.com/kmalakoff/mixin)/845 | Mixin.js is the 'reuse more' Javascript nano-framework. Stay DRY...mixin! |
+| 84 | 9 | 36 | Unknown | [Termination](https://github.com/bus-stop/Termination)/840 | Integrated terminal for Atom. Looks like terminal-plus, acts like your native terminal (except every other Friday). Looking for collaborators! :-) |
+| 83 | 42 | 28 | Unknown | [subtotal](https://github.com/nagarajanchinnasamy/subtotal)/841 | A JavaScript plugin for PivotTable.js. It renders subtotals of rows and columns with the ability to expand and collapse rows and columns |
+| 83 | 33 | 11 | Unknown | [RedmineTimeTracker](https://github.com/ujiro99/RedmineTimeTracker)/842 | Chrome/Electron app for tracking work time. |
+| 83 | 3 | 0 | Unknown | [Casing](https://github.com/nataliemarleny/Casing)/843 | The UI Framework for Framer Classic. Manages data, components and views |
+| 83 | 4 | 0 | 7 years ago | [mixin](https://github.com/kmalakoff/mixin)/844 | Mixin.js is the 'reuse more' Javascript nano-framework. Stay DRY...mixin! |
+| 83 | 6 | 2 | 6 years ago | [gap](https://github.com/rockymadden/gap)/845 | :nut_and_bolt: Fix default Google Analytics tracking methodologies and track micro user behaviors. |
 | 83 | 44 | 6 | 2 years ago | [hubot-discord](https://github.com/thetimpanist/hubot-discord)/846 | Hubot adapter for Discord |
-| 83 | 11 | 6 | 5 years ago | [react-layout](https://github.com/jsdf/react-layout)/847 | Dynamic subview layout for React |
-| 83 | 8 | 13 | 3 years ago | [itad_importer](https://github.com/ssokolow/itad_importer)/848 | A userscript helper for importing game collections into IsThereAnyDeal.com |
-| 83 | 24 | 40 | 4 years ago | [roots-contentful](https://github.com/carrot/roots-contentful)/849 | A roots extension to work with data from Contentful's API. https://www.contentful.com/ |
+| 83 | 24 | 40 | Unknown | [roots-contentful](https://github.com/carrot/roots-contentful)/847 | A roots extension to work with data from Contentful's API. https://www.contentful.com/ |
+| 83 | 11 | 6 | Unknown | [react-layout](https://github.com/jsdf/react-layout)/848 | Dynamic subview layout for React |
+| 83 | 8 | 13 | Unknown | [itad_importer](https://github.com/ssokolow/itad_importer)/849 | A userscript helper for importing game collections into IsThereAnyDeal.com |
 | 83 | 37 | 28 | 5 years ago | [atom-bootstrap3](https://github.com/f/atom-bootstrap3)/850 | Twitter Bootstrap 3 Snippets for Atom |
 | 83 | 13 | 19 | 2 years ago | [remote-atom](https://github.com/randy3k/remote-atom)/851 | rmate for atom |
 | 82 | 45 | 8 | 3 years ago | [hubot-gitter2](https://github.com/huafu/hubot-gitter2)/852 | Hubot adapter for Gitter |
-| 82 | 37 | 10 | 6 years ago | [node-scoped-http-client](https://github.com/technoweenie/node-scoped-http-client)/853 | Unmaintained.  Free push/npm access to anyone interested. |
-| 82 | 29 | 26 | 3 days ago | [qtlcharts](https://github.com/kbroman/qtlcharts)/854 | R/qtlcharts: An R package for interactive QTL graphics |
-| 82 | 7 | 4 | 3 years ago | [hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc)/855 | Register servers to provide chatops over a simple HTTP protocol |
+| 82 | 37 | 10 | Unknown | [node-scoped-http-client](https://github.com/technoweenie/node-scoped-http-client)/853 | Unmaintained.  Free push/npm access to anyone interested. |
+| 82 | 29 | 26 | Unknown | [qtlcharts](https://github.com/kbroman/qtlcharts)/854 | R/qtlcharts: An R package for interactive QTL graphics |
+| 82 | 7 | 4 | Unknown | [hubot-chatops-rpc](https://github.com/bhuga/hubot-chatops-rpc)/855 | Register servers to provide chatops over a simple HTTP protocol |
 | 82 | 31 | 15 | 7 months ago | [atom-youcompleteme](https://github.com/Qusic/atom-youcompleteme)/856 | YouCompleteMe for Atom Editor |
 | 82 | 10 | 5 | 8 years ago | [hotnode](https://github.com/saschagehlich/hotnode)/857 | Hot code loading for node.js |
-| 82 | 5 | 8 | 2 years ago | [iocat](https://github.com/moul/iocat)/858 | :wrench: Socket.io & WebSocket netcat-like utility |
-| 82 | 23 | 5 | 8 years ago | [ember-brunch](https://github.com/icholy/ember-brunch)/859 | None |
+| 82 | 23 | 5 | Unknown | [ember-brunch](https://github.com/icholy/ember-brunch)/858 | None |
+| 82 | 5 | 8 | 2 years ago | [iocat](https://github.com/moul/iocat)/859 | :wrench: Socket.io & WebSocket netcat-like utility |
 | 81 | 51 | 40 | 2 years ago | [language-latex](https://github.com/area/language-latex)/860 | Syntax highlighting for LaTeX for Atom. |
-| 81 | 17 | 2 | 1 year, 10 months ago | [mikes-modal-library](https://github.com/MikeSilvis/mikes-modal-library)/861 | This is a library for creating a facebook like modal box to be used. It features an image on the left and content on the right. The image scales to the largest size possible while still fiting in your monitors resultion |
-| 81 | 86 | 5 | 3 years ago | [coinnext](https://github.com/doomhz/coinnext)/862 | Crypto currency exchange - Bitcoin to altcoins |
-| 81 | 10 | 1 | 3 years ago | [supernerd.widget](https://github.com/blahsd/supernerd.widget)/863 | Extensible, customisable, menubar replacement Ubersicht widget. |
+| 81 | 17 | 2 | Unknown | [mikes-modal-library](https://github.com/MikeSilvis/mikes-modal-library)/861 | This is a library for creating a facebook like modal box to be used. It features an image on the left and content on the right. The image scales to the largest size possible while still fiting in your monitors resultion |
+| 81 | 86 | 5 | Unknown | [coinnext](https://github.com/doomhz/coinnext)/862 | Crypto currency exchange - Bitcoin to altcoins |
+| 81 | 10 | 1 | Unknown | [supernerd.widget](https://github.com/blahsd/supernerd.widget)/863 | Extensible, customisable, menubar replacement Ubersicht widget. |
 | 81 | 11 | 8 | 4 years ago | [vue-icons](https://github.com/vue-comps/vue-icons)/864 | webpack based - load only what you need - svg inline icons |
-| 81 | 15 | 5 | 3 years ago | [season](https://github.com/atom/season)/865 | CSON Node Module |
-| 81 | 2 | 3 | 8 years ago | [otter](https://github.com/bfirsh/otter)/866 | A server that runs your client-side apps. |
+| 81 | 2 | 3 | 8 years ago | [otter](https://github.com/bfirsh/otter)/865 | A server that runs your client-side apps. |
+| 81 | 15 | 5 | 3 years ago | [season](https://github.com/atom/season)/866 | CSON Node Module |
 | 81 | 10 | 6 | 8 years ago | [node-chain-gang](https://github.com/technoweenie/node-chain-gang)/867 | None |
 | 81 | 3 | 0 | 6 years ago | [backbone-bind-to](https://github.com/RStankov/backbone-bind-to)/868 | Backbone.js extension for automatic binding and unbinding of model events to views. |
 | 81 | 60 | 10 | 3 years ago | [simple-uploader](https://github.com/mycolorway/simple-uploader)/869 | A HTML5 upload component without UI |
-| 81 | 91 | 2 | 16 hours ago | [meteor-accounts-t9n](https://github.com/softwarerero/meteor-accounts-t9n)/870 | Translations for meteor account's error messages |
+| 81 | 91 | 2 | 18 hours ago | [meteor-accounts-t9n](https://github.com/softwarerero/meteor-accounts-t9n)/870 | Translations for meteor account's error messages |
 | 81 | 21 | 19 | 4 years ago | [grunt-ftpush](https://github.com/inossidabile/grunt-ftpush)/871 | Grunt task for incremental code deployment over ftp |
 | 80 | 7 | 10 | 4 years ago | [meteor-transitioner](https://github.com/ccorcos/meteor-transitioner)/872 | Meteor page transitions integrated with Iron Router. |
 | 80 | 7 | 4 | 5 years ago | [ratelimit.js](https://github.com/dudleycarr/ratelimit.js)/873 | NodeJS library for rate limiting using sliding windows stored in Redis |
@@ -947,8 +947,8 @@
 | 72 | 24 | 19 | 2 years ago | [jira-cli](https://github.com/tebriel/jira-cli)/944 | Simple Command Line Jira Client in Node.js |
 | 72 | 18 | 33 | 5 years ago | [webbooost](https://github.com/mr-mig/webbooost)/945 | Chrome extension for faster web browsing. |
 | 72 | 17 | 2 | 7 years ago | [Backbone.TableView](https://github.com/LinkedInAttic/Backbone.TableView)/946 | Backbone View to render collections as tables |
-| 71 | 30 | 54 | 6 years ago | [atom-terminal](https://github.com/karan/atom-terminal)/947 | Atom package to open terminal on current file's directory with "ctrl-shift-t" |
-| 71 | 7 | 4 | 7 years ago | [node-bufferstream](https://github.com/dodo/node-bufferstream)/948 | painless stream buffering, cutting and piping |
+| 71 | 7 | 4 | 7 years ago | [node-bufferstream](https://github.com/dodo/node-bufferstream)/947 | painless stream buffering, cutting and piping |
+| 71 | 30 | 54 | 6 years ago | [atom-terminal](https://github.com/karan/atom-terminal)/948 | Atom package to open terminal on current file's directory with "ctrl-shift-t" |
 | 71 | 25 | 2 | 7 years ago | [MachinePoker](https://github.com/mdp/MachinePoker)/949 | Gambling.js |
 | 71 | 7 | 8 | 7 years ago | [atom-rubymotion](https://github.com/satococoa/atom-rubymotion)/950 | RubyMotion support in Atom |
 | 71 | 50 | 17 | 5 years ago | [angular-date-range-picker](https://github.com/monterail/angular-date-range-picker)/951 | Pure Angular date range picker, no jQuery |
@@ -978,8 +978,8 @@
 | 68 | 96 | 14 | 17 days ago | [hubot-pager-me](https://github.com/hubot-scripts/hubot-pager-me)/975 | PagerDuty integration for Hubot |
 | 68 | 20 | 5 | 5 months ago | [node-lipsum](https://github.com/traviskaufman/node-lipsum)/976 | lipsum.org Service CLI/NodeJS Module |
 | 68 | 4 | 0 | 6 years ago | [autocomplete](https://github.com/atom-archive/autocomplete)/977 | See https://github.com/atom/autocomplete-plus for the package currently bundled with Atom |
-| 67 | 13 | 2 | 7 years ago | [background](https://github.com/kmalakoff/background)/978 | CoffeeScript / JavaScript background job / task / worker library. Provides implementations for jobs, a job queue, a job list, and single and multiple array iterators. |
-| 67 | 13 | 5 | 5 years ago | [documentdb-lumenize](https://github.com/lmaccherone/documentdb-lumenize)/979 | Aggregations (Group-by, Pivot-table, and N-dimensional Cube) and Time Series Transformations as Stored Procedures in DocumentDB |
+| 67 | 13 | 5 | 5 years ago | [documentdb-lumenize](https://github.com/lmaccherone/documentdb-lumenize)/978 | Aggregations (Group-by, Pivot-table, and N-dimensional Cube) and Time Series Transformations as Stored Procedures in DocumentDB |
+| 67 | 13 | 2 | 7 years ago | [background](https://github.com/kmalakoff/background)/979 | CoffeeScript / JavaScript background job / task / worker library. Provides implementations for jobs, a job queue, a job list, and single and multiple array iterators. |
 | 67 | 13 | 6 | 4 years ago | [browserify-transform-tools](https://github.com/benbria/browserify-transform-tools)/980 | Utilities for writing browserify transforms. |
 | 67 | 3 | 17 | 8 months ago | [zorium](https://github.com/Zorium/zorium)/981 | (╯°□°)╯︵ ┻━┻ The CoffeeScript Web Framework |
 | 67 | 3 | 0 | 5 years ago | [atom-css-to-inline](https://github.com/kepta/atom-css-to-inline)/982 | Atom plugin for converting css to inline for react/JSX |
@@ -990,14 +990,14 @@
 | 67 | 4 | 13 | 6 months ago | [ferro](https://github.com/ferro/ferro)/987 | Do stuff with your keyboard in Chrome |
 | 67 | 18 | 0 | 7 years ago | [anvil](https://github.com/ddollar/anvil)/988 | Generic build server |
 | 66 | 0 | 1 | 2 years ago | [handroll](https://github.com/zeekay/handroll)/989 | 🍣 Expertly rolled JavaScript. CLI + library for bundling JavaScript with Rollup.js |
-| 66 | 0 | 0 | 9 years ago | [vows-bdd](https://github.com/jmreidy/vows-bdd)/990 | A BDD wrapper for Vows, allowing for easy writing of tests in a given-when-then format |
+| 66 | 38 | 13 | 2 years ago | [flow-db-admin](https://github.com/sachinbhutani/flow-db-admin)/990 | Meteor Database Admin package for use with Flow Router |
 | 66 | 10 | 0 | 9 years ago | [CMSploit](https://github.com/feross/CMSploit)/991 | Security scanner to find temporary config files that contain passwords on public websites |
-| 66 | 38 | 13 | 2 years ago | [flow-db-admin](https://github.com/sachinbhutani/flow-db-admin)/992 | Meteor Database Admin package for use with Flow Router |
+| 66 | 0 | 0 | 9 years ago | [vows-bdd](https://github.com/jmreidy/vows-bdd)/992 | A BDD wrapper for Vows, allowing for easy writing of tests in a given-when-then format |
 | 66 | 41 | 40 | 5 years ago | [meteor-autoform-modals](https://github.com/yogiben/meteor-autoform-modals)/993 | Adds modals to insert/update/delete Meteor collections |
 | 66 | 4 | 0 | 6 years ago | [marionette-behaviors](https://github.com/samccone/marionette-behaviors)/994 | a collection of useful marionette behaviors |
 | 66 | 10 | 2 | 9 years ago | [mosho](https://github.com/pdehn/mosho)/995 | HTML5/CSS3/JS Presentation Framework |
 | 66 | 32 | 2 | 4 years ago | [hubot-chatwork](https://github.com/akiomik/hubot-chatwork)/996 | A hubot adapter for chatwork |
-| 66 | 13 | 5 | 1 year, 5 months ago | [cake-flour](https://github.com/ricardobeat/cake-flour)/997 | Javascript build tools |
-| 66 | 18 | 60 | 6 years ago | [terminal-status](https://github.com/guileen/terminal-status)/998 | Atom terminal status |
+| 66 | 18 | 60 | 6 years ago | [terminal-status](https://github.com/guileen/terminal-status)/997 | Atom terminal status |
+| 66 | 13 | 5 | 1 year, 5 months ago | [cake-flour](https://github.com/ricardobeat/cake-flour)/998 | Javascript build tools |
 | 66 | 5 | 0 | 5 years ago | [github-red-alert](https://github.com/bitoiu/github-red-alert)/999 | Changes the GitHub notification icon to red if you have unread participating notifications. |
 | 66 | 10 | 3 | a month ago | [cnodejs-reader](https://github.com/cnodejs/cnodejs-reader)/1000 | CNode.js reader in React |
