@@ -1,14 +1,14 @@
 ## This is a most popular repository list for Scala sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 30416 | 24238 | 216 | 36 minutes ago | [spark](https://github.com/apache/spark)/1 | Apache Spark - A unified analytics engine for large-scale data processing |
+| 30416 | 24238 | 216 | 39 minutes ago | [spark](https://github.com/apache/spark)/1 | Apache Spark - A unified analytics engine for large-scale data processing |
 | 16853 | 941 | 606 | 6 months ago | [prisma1](https://github.com/prisma/prisma1)/2 | 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) |
 | 13399 | 3054 | 15 | 3 days ago | [scala](https://github.com/scala/scala)/3 | Scala 2 compiler and standard library. For bugs, see scala/bug |
 | 12513 | 2021 | 80 | 1 year, 7 months ago | [predictionio](https://github.com/apache/predictionio)/4 | PredictionIO, a machine learning server for developers and ML engineers. |
 | 11935 | 3971 | 482 | 2 days ago | [playframework](https://github.com/playframework/playframework)/5 | Play Framework |
 | 11671 | 3411 | 924 | 10 hours ago | [akka](https://github.com/akka/akka)/6 | Build highly concurrent, distributed, and resilient message-driven applications on the JVM |
 | 10202 | 2322 | 477 | 10 months ago | [CMAK](https://github.com/yahoo/CMAK)/7 | CMAK is a tool for managing Apache Kafka clusters |
-| 9739 | 1389 | 533 | 13 hours ago | [lila](https://github.com/ornicar/lila)/8 | ♞ lichess.org: the forever free, adless and open source chess server ♞ |
+| 9739 | 1389 | 533 | 14 hours ago | [lila](https://github.com/ornicar/lila)/8 | ♞ lichess.org: the forever free, adless and open source chess server ♞ |
 | 8415 | 1185 | 326 | a day ago | [gitbucket](https://github.com/gitbucket/gitbucket)/9 | A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility |
 | 8003 | 1383 | 48 | a day ago | [finagle](https://github.com/twitter/finagle)/10 | A fault tolerant, protocol-agnostic RPC system |
 | 7781 | 434 | 238 | 4 months ago | [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner)/11 | Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala |
@@ -83,7 +83,7 @@
 | 1651 | 225 | 52 | 28 days ago | [shadowsocksr-v2ray-trojan-android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android)/80 | A ShadowsocksR, V2Ray and Trojan client for Android |
 | 1639 | 240 | 176 | 7 days ago | [spire](https://github.com/typelevel/spire)/81 | Powerful new number types and numeric abstractions for Scala. |
 | 1619 | 218 | 45 | 3 days ago | [giter8](https://github.com/foundweekends/giter8)/82 | a command line tool to apply templates defined on GitHub  |
-| 1602 | 224 | 127 | 17 hours ago | [mill](https://github.com/com-lihaoyi/mill)/83 | Your shiny new Java/Scala build tool! |
+| 1602 | 224 | 127 | 18 hours ago | [mill](https://github.com/com-lihaoyi/mill)/83 | Your shiny new Java/Scala build tool! |
 | 1557 | 645 | 39 | a month ago | [elastic4s](https://github.com/sksamuel/elastic4s)/84 | Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client |
 | 1542 | 220 | 84 | 9 months ago | [finch](https://github.com/finagle/finch)/85 | Scala combinator library for building Finagle HTTP services |
 | 1539 | 105 | 47 | 6 months ago | [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala)/86 | Reactive data-binding for Scala |
@@ -164,7 +164,7 @@
 | 922 | 168 | 21 | 5 days ago | [elasticsearch-readonlyrest-plugin](https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin)/161 | Free Elasticsearch security plugin and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing |
 | 918 | 62 | 29 | a month ago | [simulacrum](https://github.com/typelevel/simulacrum)/162 | First class syntax support for type classes in Scala |
 | 910 | 171 | 67 | 1 year, 1 month ago | [BIDMach](https://github.com/BIDData/BIDMach)/163 | CPU and GPU-accelerated Machine Learning Library |
-| 909 | 196 | 144 | 8 hours ago | [scalameta](https://github.com/scalameta/scalameta)/164 | Library to read, analyze, transform and generate Scala programs |
+| 909 | 196 | 144 | 9 hours ago | [scalameta](https://github.com/scalameta/scalameta)/164 | Library to read, analyze, transform and generate Scala programs |
 | 900 | 363 | 23 | 7 days ago | [sparkling-water](https://github.com/h2oai/sparkling-water)/165 | Sparkling Water provides H2O functionality inside Spark cluster |
 | 897 | 179 | 44 | 1 year, 11 months ago | [flint](https://github.com/twosigma/flint)/166 | A Time Series Library for Apache Spark |
 | 896 | 296 | 84 | 23 hours ago | [adam](https://github.com/bigdatagenomics/adam)/167 | ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed. |
@@ -339,7 +339,7 @@
 | 462 | 26 | 17 | 1 year, 2 months ago | [scala-newtype](https://github.com/estatico/scala-newtype)/336 | NewTypes for Scala with no runtime overhead |
 | 460 | 63 | 26 | 7 days ago | [sourcecode](https://github.com/com-lihaoyi/sourcecode)/337 | Scala library providing "source" metadata to your program, similar to Python's __name__, C++'s __LINE__ or Ruby's __FILE__.  |
 | 460 | 132 | 8 | 2 years ago | [spring-scala](https://github.com/spring-projects/spring-scala)/338 | None |
-| 460 | 46 | 15 | 20 hours ago | [fetch](https://github.com/47degrees/fetch)/339 | Simple & Efficient data access for Scala and Scala.js |
+| 460 | 46 | 15 | 21 hours ago | [fetch](https://github.com/47degrees/fetch)/339 | Simple & Efficient data access for Scala and Scala.js |
 | 460 | 79 | 79 | 2 years ago | [storehaus](https://github.com/twitter/storehaus)/340 | Storehaus is a library that makes it easy to work with asynchronous key value stores |
 | 459 | 35 | 7 | 2 months ago | [akka.js](https://github.com/akka-js/akka.js)/341 | Akka, for Scala.js |
 | 459 | 44 | 83 | 11 hours ago | [izumi](https://github.com/7mind/izumi)/342 | Productivity-oriented collection of lightweight fancy stuff for Scala toolchain |
@@ -383,7 +383,7 @@
 | 412 | 101 | 136 | a day ago | [guardrail](https://github.com/guardrail-dev/guardrail)/380 | Principled code generation from OpenAPI specifications |
 | 410 | 135 | 2 | 12 days ago | [Play-ReactiveMongo](https://github.com/ReactiveMongo/Play-ReactiveMongo)/381 | :leaves: ReactiveMongo plugin for Playframework |
 | 410 | 111 | 1 | 7 years ago | [scala](https://github.com/mbonaci/scala)/382 | Scala reference (as seen by Java developer) |
-| 410 | 26 | 12 | 12 days ago | [Laminar](https://github.com/raquo/Laminar)/383 | Simple, expressive, and safe UI library for Scala.js |
+| 410 | 26 | 12 | 13 days ago | [Laminar](https://github.com/raquo/Laminar)/383 | Simple, expressive, and safe UI library for Scala.js |
 | 410 | 113 | 2 | 19 days ago | [play-scalajs.g8](https://github.com/vmunier/play-scalajs.g8)/384 |  Giter8 template to get started with Play and Scala.js. |
 | 408 | 32 | 32 | a day ago | [udash-core](https://github.com/UdashFramework/udash-core)/385 | Scala framework for building beautiful and maintainable web applications. |
 | 405 | 66 | 14 | 7 days ago | [jawn](https://github.com/typelevel/jawn)/386 | Jawn is for parsing jay-sawn (JSON) |
@@ -405,7 +405,7 @@
 | 383 | 86 | 1 | 6 years ago | [sse-chat](https://github.com/matthiasn/sse-chat)/402 | Chat example app using Server Sent Events plus REST calls. Scala, Play Framework 2.3, AngularJS or React (alternatively). |
 | 383 | 31 | 21 | 13 days ago | [scalapy](https://github.com/shadaj/scalapy)/403 | Use the world of Python from the comfort of Scala! |
 | 382 | 103 | 6 | 6 days ago | [xsbt-web-plugin](https://github.com/earldouglas/xsbt-web-plugin)/404 | Servlet support for sbt |
-| 380 | 42 | 50 | 9 hours ago | [outwatch](https://github.com/OutWatch/outwatch)/405 | A purely functional and reactive UI framework |
+| 380 | 42 | 50 | 10 hours ago | [outwatch](https://github.com/OutWatch/outwatch)/405 | A purely functional and reactive UI framework |
 | 379 | 70 | 36 | a month ago | [algebra](https://github.com/typelevel/algebra)/406 | Experimental project to lay out basic algebra type classes |
 | 377 | 123 | 98 | a month ago | [play-swagger](https://github.com/iheartradio/play-swagger)/407 | Swagger spec generator for play framework |
 | 375 | 39 | 23 | 2 years ago | [larray](https://github.com/xerial/larray)/408 | Large off-heap arrays and mmap files for Scala and Java |
@@ -430,87 +430,87 @@
 | 356 | 63 | 28 | 1 year, 3 days ago | [sbt-web](https://github.com/sbt/sbt-web)/427 | Library for building sbt plugins for the web |
 | 352 | 40 | 30 | a day ago | [boopickle](https://github.com/suzaku-io/boopickle)/428 | Binary serialization library for efficient network communication |
 | 351 | 45 | 0 | 11 days ago | [links](https://github.com/velvia/links)/429 | Just a bunch of useful links |
-| 350 | 75 | 5 | 3 years ago | [eventsim](https://github.com/Interana/eventsim)/430 | Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic. |
-| 348 | 116 | 21 | 1 year, 5 months ago | [scala-kafka-client](https://github.com/cakesolutions/scala-kafka-client)/431 | Scala helper modules for operating the Apache Kafka client library (0.9.x - 2.1.0) |
-| 348 | 29 | 12 | 6 years ago | [ordasity](https://github.com/boundary/ordasity)/432 | Ordasity is Boundary's library for building stateful clustered services on the JVM. |
-| 347 | 31 | 16 | 2 months ago | [cask](https://github.com/com-lihaoyi/cask)/433 | Cask: a Scala HTTP micro-framework |
-| 347 | 58 | 23 | 11 days ago | [atto](https://github.com/tpolecat/atto)/434 | friendly little parsers |
-| 347 | 51 | 19 | 1 year, 2 months ago | [bloom-filter-scala](https://github.com/alexandrnikitin/bloom-filter-scala)/435 | Bloom filter for Scala, the fastest for JVM |
-| 346 | 83 | 116 | a month ago | [aprsdroid](https://github.com/ge0rg/aprsdroid)/436 | APRSdroid - Geo-Location for Radio Amateurs |
-| 344 | 10 | 10 | 1 year, 7 months ago | [idea-composer-plugin](https://github.com/psliwa/idea-composer-plugin)/437 | PhpStorm plugin that adds code completion in composer.json file |
-| 343 | 105 | 25 | 7 years ago | [graphx](https://github.com/amplab/graphx)/438 | Former GraphX development repository. GraphX has been merged into Apache Spark; please submit pull requests there. |
-| 343 | 81 | 0 | 1 year, 1 month ago | [ScalNet](https://github.com/deeplearning4j/ScalNet)/439 | A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs |
-| 343 | 132 | 50 | 4 years ago | [spark-jobserver](https://github.com/ooyala/spark-jobserver)/440 | REST job server for Spark.  Note that this is *not* the mainline open source version.  For that, go to https://github.com/spark-jobserver/spark-jobserver.  This fork now serves as a semi-private repo for Ooyala. |
-| 342 | 60 | 17 | 12 hours ago | [tofu](https://github.com/tofu-tf/tofu)/441 | Functional programming toolbox  |
-| 342 | 48 | 57 | a month ago | [tsec](https://github.com/jmcardon/tsec)/442 | Type-safe general-cryptography library - https://jmcardon.github.io/tsec/ |
-| 341 | 78 | 40 | 4 days ago | [endpoints4s](https://github.com/endpoints4s/endpoints4s)/443 | Scala library to define HTTP-based communication protocols |
-| 340 | 86 | 12 | 5 years ago | [nak](https://github.com/scalanlp/nak)/444 | The Nak Machine Learning Library |
-| 335 | 57 | 4 | 3 years ago | [akka-ddd](https://github.com/pawelkaczor/akka-ddd)/445 | Akka CQRS/ES framework |
-| 335 | 39 | 3 | a day ago | [ciris](https://github.com/vlovgr/ciris)/446 | Functional Configurations for Scala |
-| 334 | 46 | 16 | 3 years ago | [osstracker](https://github.com/Netflix/osstracker)/447 | Github organization OSS metrics collector and metrics dashboard |
-| 334 | 139 | 11 | 5 years ago | [scala-kafka](https://github.com/elodina/scala-kafka)/448 | Quick up and running using Scala for Apache Kafka |
-| 333 | 68 | 51 | 2 years ago | [scala_school2](https://github.com/twitter/scala_school2)/449 | Scala School 2 |
-| 333 | 49 | 7 | 3 years ago | [chana](https://github.com/dcaoyuan/chana)/450 | Avro Data Store based on Akka |
-| 333 | 79 | 70 | 11 days ago | [scastie](https://github.com/scalacenter/scastie)/451 | An interactive playground for Scala |
-| 333 | 95 | 3 | 3 years ago | [koober](https://github.com/jamesward/koober)/452 | None |
-| 329 | 107 | 56 | 24 days ago | [spline](https://github.com/AbsaOSS/spline)/453 | Data Lineage Tracking And Visualization Solution |
-| 328 | 49 | 7 | 10 months ago | [fun-cqrs](https://github.com/fun-cqrs/fun-cqrs)/454 | Fun.CQRS is a Scala CQRS/ES framework. It provides the basic blocks to build event driven aggregates with Event Sourcing. |
-| 327 | 23 | 21 | 2 months ago | [scribe](https://github.com/outr/scribe)/455 | The fastest logging library in the world. Built from scratch in Scala and programmatically configurable. |
-| 327 | 58 | 3 | 11 months ago | [akka-http-scala-js-websocket-chat](https://github.com/jrudolph/akka-http-scala-js-websocket-chat)/456 | An example app that integrates akka-http and scala-js to implement a websocket chat |
-| 326 | 30 | 20 | 6 months ago | [scala-activerecord](https://github.com/aselab/scala-activerecord)/457 | ActiveRecord-like ORM library for Scala |
-| 325 | 41 | 81 | 1 year, 2 months ago | [intellij-lsp](https://github.com/gtache/intellij-lsp)/458 | Plugin adding Language Server Protocol support for IntelliJ |
-| 324 | 64 | 0 | 5 months ago | [DeepLearningForFun](https://github.com/Ldpe2G/DeepLearningForFun)/459 | Implementation of some interesting ideas of deeplearning. |
-| 323 | 81 | 15 | 3 years ago | [sparklint](https://github.com/groupon/sparklint)/460 | A tool for monitoring and tuning Spark jobs for efficiency. |
-| 323 | 96 | 450 | 5 hours ago | [spark-rapids](https://github.com/NVIDIA/spark-rapids)/461 | Spark RAPIDS plugin - accelerate Apache Spark with GPUs |
-| 322 | 52 | 26 | 6 years ago | [IScala](https://github.com/mattpap/IScala)/462 | Scala backend for IPython |
-| 322 | 60 | 6 | 5 months ago | [rudder](https://github.com/Normation/rudder)/463 | Continuous Auditing & Configuration |
-| 321 | 163 | 6 | 5 years ago | [Spark-SQL-on-HBase](https://github.com/Huawei-Spark/Spark-SQL-on-HBase)/464 | Native, optimized access to HBase Data through Spark SQL/Dataframe Interfaces |
-| 320 | 82 | 5 | 29 days ago | [telegram](https://github.com/bot4s/telegram)/465 | Telegram Bot API Wrapper for Scala |
-| 316 | 28 | 10 | 7 months ago | [retry](https://github.com/softwaremill/retry)/466 | because you should never give up, at least not on the first try |
-| 315 | 101 | 71 | 1 year, 1 month ago | [s3mock](https://github.com/findify/s3mock)/467 | Embedded S3 server for easy mocking |
-| 315 | 64 | 10 | 4 years ago | [ping-play](https://github.com/brikis98/ping-play)/468 | BigPipe streaming for the Play Framework |
-| 315 | 55 | 3 | 4 years ago | [openie-standalone](https://github.com/allenai/openie-standalone)/469 | Quality information extraction at web scale. Edit |
-| 314 | 35 | 22 | 3 years ago | [akka-tracing](https://github.com/levkhomich/akka-tracing)/470 | A distributed tracing extension for Akka. Provides integration with Play framework, Spray and Akka HTTP. |
-| 314 | 56 | 84 | a month ago | [webjars](https://github.com/webjars/webjars)/471 | Client-side web libraries packaged into JARs |
-| 313 | 68 | 31 | 1 year, 9 months ago | [mist](https://github.com/Hydrospheredata/mist)/472 | Serverless proxy for Spark cluster |
-| 312 | 90 | 30 | 2 months ago | [sbt-git](https://github.com/sbt/sbt-git)/473 | A git plugin for SBT |
-| 311 | 19 | 14 | 2 years ago | [scala-clippy](https://github.com/softwaremill/scala-clippy)/474 | Good advice for Scala compiler errors |
-| 311 | 154 | 175 | 4 years ago | [rpgboss](https://github.com/rpgboss/rpgboss)/475 | point and click rpg game editor and engine |
-| 311 | 44 | 38 | 4 days ago | [zio-http](https://github.com/dream11/zio-http)/476 | A scala library to write Http apps. |
-| 309 | 27 | 41 | 5 months ago | [kantan.csv](https://github.com/nrinaudo/kantan.csv)/477 | CSV handling library for Scala |
-| 309 | 56 | 28 | 10 months ago | [morpheus](https://github.com/opencypher/morpheus)/478 | Morpheus brings the leading graph query language, Cypher, onto the leading distributed processing platform, Spark. |
-| 308 | 137 | 151 | 3 months ago | [scalaxb](https://github.com/eed3si9n/scalaxb)/479 | scalaxb is an XML data binding tool for Scala. |
-| 308 | 176 | 4 | 7 months ago | [bahir](https://github.com/apache/bahir)/480 | Mirror of Apache Bahir |
-| 307 | 47 | 40 | 5 years ago | [activate](https://github.com/fwbrasil/activate)/481 | Abandoned: Pluggable persistence in Scala |
-| 307 | 126 | 68 | 11 days ago | [akka-persistence-cassandra](https://github.com/akka/akka-persistence-cassandra)/482 | A replicated Akka Persistence journal backed by Apache Cassandra |
-| 306 | 48 | 17 | 20 hours ago | [droste](https://github.com/higherkindness/droste)/483 | recursion schemes for cats; to iterate is human, to recurse, divine |
-| 306 | 101 | 45 | 4 years ago | [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB)/484 | Spark library for easy MongoDB access |
-| 304 | 34 | 16 | 9 years ago | [Scalala](https://github.com/scalala/Scalala)/485 | Scalala has been superseded by dlwh/breeze. Scalala is a high performance numeric linear algebra library for Scala, with rich Matlab-like operators on vectors and matrices; a library of numerical routines; support for plotting. |
-| 304 | 36 | 9 | 3 days ago | [scalikejdbc-async](https://github.com/scalikejdbc/scalikejdbc-async)/486 | ScalikeJDBC Extension: Non-blocking APIs in the JDBC way |
-| 304 | 88 | 105 | 2 months ago | [vinyldns](https://github.com/vinyldns/vinyldns)/487 | DNS Governance for streamlining DNS operations and enabling safe and secure DNS self-service |
-| 303 | 26 | 17 | 4 years ago | [lmvtfy](https://github.com/cvrebert/lmvtfy)/488 | LMVTFY: Let Me Validate That For You |
-| 303 | 38 | 14 | 4 years ago | [remotely](https://github.com/Verizon/remotely)/489 | An elegant RPC system for reasonable people |
-| 303 | 53 | 2 | 1 year, 1 month ago | [nd4s](https://github.com/deeplearning4j/nd4s)/490 | ND4S: N-Dimensional Arrays for Scala. Scientific Computing a la Numpy. Based on ND4J. |
-| 302 | 19 | 3 | 1 year, 29 days ago | [enso-archive](https://github.com/enso-org/enso-archive)/491 | Looking for Enso, the visual programming language? ➡️ https://github.com/enso-org/enso |
-| 302 | 45 | 5 | 1 year, 19 days ago | [khipu](https://github.com/khipu-io/khipu)/492 | An enterprise blockchain platform based on Ethereum |
-| 302 | 104 | 1 | 2 days ago | [pfps-shopping-cart](https://github.com/gvolpe/pfps-shopping-cart)/493 | :shopping_cart: The Shopping Cart application developed in the book "Practical FP in Scala: A hands-on approach" |
-| 302 | 56 | 13 | 4 years ago | [zinc](https://github.com/typesafehub/zinc)/494 | ⛔️ [DEPRECATED] sbt's scala incremental compiler |
-| 302 | 34 | 20 | 2 months ago | [degraph](https://github.com/riy/degraph)/495 | Test and Visualize and Manage Dependencies of classes and packages in JVM Byte Code (think Scala and Java) |
-| 301 | 88 | 28 | 3 years ago | [virtualization-lms-core](https://github.com/TiarkRompf/virtualization-lms-core)/496 | A Framework for Runtime Code Generation and Compiled DSLs |
-| 301 | 95 | 29 | a day ago | [skuber](https://github.com/doriordan/skuber)/497 | A Scala Kubernetes client library |
-| 300 | 58 | 0 | 4 years ago | [classic](https://github.com/dispatch/classic)/498 | [UNSUPPORTED] Dispatch Classic. See dispatch/reboot for the modern Dispatch for Scala 2.11/2.12 |
-| 300 | 33 | 66 | 3 months ago | [aecor](https://github.com/notxcain/aecor)/499 | Pure functional event sourcing runtime |
-| 299 | 49 | 46 | 21 days ago | [scalacss](https://github.com/japgolly/scalacss)/500 | Super type-safe CSS for Scala and Scala.JS. |
+| 350 | 75 | 5 | Unknown | [eventsim](https://github.com/Interana/eventsim)/430 | Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic. |
+| 348 | 116 | 21 | Unknown | [scala-kafka-client](https://github.com/cakesolutions/scala-kafka-client)/431 | Scala helper modules for operating the Apache Kafka client library (0.9.x - 2.1.0) |
+| 348 | 29 | 12 | Unknown | [ordasity](https://github.com/boundary/ordasity)/432 | Ordasity is Boundary's library for building stateful clustered services on the JVM. |
+| 347 | 31 | 16 | Unknown | [cask](https://github.com/com-lihaoyi/cask)/433 | Cask: a Scala HTTP micro-framework |
+| 347 | 58 | 23 | Unknown | [atto](https://github.com/tpolecat/atto)/434 | friendly little parsers |
+| 347 | 51 | 19 | Unknown | [bloom-filter-scala](https://github.com/alexandrnikitin/bloom-filter-scala)/435 | Bloom filter for Scala, the fastest for JVM |
+| 346 | 83 | 116 | Unknown | [aprsdroid](https://github.com/ge0rg/aprsdroid)/436 | APRSdroid - Geo-Location for Radio Amateurs |
+| 344 | 10 | 10 | Unknown | [idea-composer-plugin](https://github.com/psliwa/idea-composer-plugin)/437 | PhpStorm plugin that adds code completion in composer.json file |
+| 343 | 105 | 25 | Unknown | [graphx](https://github.com/amplab/graphx)/438 | Former GraphX development repository. GraphX has been merged into Apache Spark; please submit pull requests there. |
+| 343 | 81 | 0 | Unknown | [ScalNet](https://github.com/deeplearning4j/ScalNet)/439 | A Scala wrapper for Deeplearning4j, inspired by Keras. Scala + DL + Spark + GPUs |
+| 343 | 132 | 50 | Unknown | [spark-jobserver](https://github.com/ooyala/spark-jobserver)/440 | REST job server for Spark.  Note that this is *not* the mainline open source version.  For that, go to https://github.com/spark-jobserver/spark-jobserver.  This fork now serves as a semi-private repo for Ooyala. |
+| 342 | 60 | 17 | Unknown | [tofu](https://github.com/tofu-tf/tofu)/441 | Functional programming toolbox  |
+| 342 | 48 | 57 | Unknown | [tsec](https://github.com/jmcardon/tsec)/442 | Type-safe general-cryptography library - https://jmcardon.github.io/tsec/ |
+| 341 | 78 | 40 | Unknown | [endpoints4s](https://github.com/endpoints4s/endpoints4s)/443 | Scala library to define HTTP-based communication protocols |
+| 340 | 86 | 12 | Unknown | [nak](https://github.com/scalanlp/nak)/444 | The Nak Machine Learning Library |
+| 335 | 57 | 4 | Unknown | [akka-ddd](https://github.com/pawelkaczor/akka-ddd)/445 | Akka CQRS/ES framework |
+| 335 | 39 | 3 | Unknown | [ciris](https://github.com/vlovgr/ciris)/446 | Functional Configurations for Scala |
+| 334 | 46 | 16 | Unknown | [osstracker](https://github.com/Netflix/osstracker)/447 | Github organization OSS metrics collector and metrics dashboard |
+| 334 | 139 | 11 | Unknown | [scala-kafka](https://github.com/elodina/scala-kafka)/448 | Quick up and running using Scala for Apache Kafka |
+| 333 | 68 | 51 | Unknown | [scala_school2](https://github.com/twitter/scala_school2)/449 | Scala School 2 |
+| 333 | 49 | 7 | Unknown | [chana](https://github.com/dcaoyuan/chana)/450 | Avro Data Store based on Akka |
+| 333 | 79 | 70 | Unknown | [scastie](https://github.com/scalacenter/scastie)/451 | An interactive playground for Scala |
+| 333 | 95 | 3 | Unknown | [koober](https://github.com/jamesward/koober)/452 | None |
+| 329 | 107 | 56 | Unknown | [spline](https://github.com/AbsaOSS/spline)/453 | Data Lineage Tracking And Visualization Solution |
+| 328 | 49 | 7 | Unknown | [fun-cqrs](https://github.com/fun-cqrs/fun-cqrs)/454 | Fun.CQRS is a Scala CQRS/ES framework. It provides the basic blocks to build event driven aggregates with Event Sourcing. |
+| 327 | 23 | 21 | Unknown | [scribe](https://github.com/outr/scribe)/455 | The fastest logging library in the world. Built from scratch in Scala and programmatically configurable. |
+| 327 | 58 | 3 | Unknown | [akka-http-scala-js-websocket-chat](https://github.com/jrudolph/akka-http-scala-js-websocket-chat)/456 | An example app that integrates akka-http and scala-js to implement a websocket chat |
+| 326 | 30 | 20 | Unknown | [scala-activerecord](https://github.com/aselab/scala-activerecord)/457 | ActiveRecord-like ORM library for Scala |
+| 325 | 41 | 81 | Unknown | [intellij-lsp](https://github.com/gtache/intellij-lsp)/458 | Plugin adding Language Server Protocol support for IntelliJ |
+| 324 | 64 | 0 | Unknown | [DeepLearningForFun](https://github.com/Ldpe2G/DeepLearningForFun)/459 | Implementation of some interesting ideas of deeplearning. |
+| 323 | 81 | 15 | Unknown | [sparklint](https://github.com/groupon/sparklint)/460 | A tool for monitoring and tuning Spark jobs for efficiency. |
+| 323 | 96 | 450 | Unknown | [spark-rapids](https://github.com/NVIDIA/spark-rapids)/461 | Spark RAPIDS plugin - accelerate Apache Spark with GPUs |
+| 322 | 52 | 26 | Unknown | [IScala](https://github.com/mattpap/IScala)/462 | Scala backend for IPython |
+| 322 | 60 | 6 | Unknown | [rudder](https://github.com/Normation/rudder)/463 | Continuous Auditing & Configuration |
+| 321 | 163 | 6 | Unknown | [Spark-SQL-on-HBase](https://github.com/Huawei-Spark/Spark-SQL-on-HBase)/464 | Native, optimized access to HBase Data through Spark SQL/Dataframe Interfaces |
+| 320 | 82 | 5 | Unknown | [telegram](https://github.com/bot4s/telegram)/465 | Telegram Bot API Wrapper for Scala |
+| 316 | 28 | 10 | Unknown | [retry](https://github.com/softwaremill/retry)/466 | because you should never give up, at least not on the first try |
+| 315 | 101 | 71 | Unknown | [s3mock](https://github.com/findify/s3mock)/467 | Embedded S3 server for easy mocking |
+| 315 | 64 | 10 | Unknown | [ping-play](https://github.com/brikis98/ping-play)/468 | BigPipe streaming for the Play Framework |
+| 315 | 55 | 3 | Unknown | [openie-standalone](https://github.com/allenai/openie-standalone)/469 | Quality information extraction at web scale. Edit |
+| 314 | 35 | 22 | Unknown | [akka-tracing](https://github.com/levkhomich/akka-tracing)/470 | A distributed tracing extension for Akka. Provides integration with Play framework, Spray and Akka HTTP. |
+| 314 | 56 | 84 | Unknown | [webjars](https://github.com/webjars/webjars)/471 | Client-side web libraries packaged into JARs |
+| 313 | 68 | 31 | Unknown | [mist](https://github.com/Hydrospheredata/mist)/472 | Serverless proxy for Spark cluster |
+| 312 | 90 | 30 | Unknown | [sbt-git](https://github.com/sbt/sbt-git)/473 | A git plugin for SBT |
+| 311 | 19 | 14 | Unknown | [scala-clippy](https://github.com/softwaremill/scala-clippy)/474 | Good advice for Scala compiler errors |
+| 311 | 154 | 175 | Unknown | [rpgboss](https://github.com/rpgboss/rpgboss)/475 | point and click rpg game editor and engine |
+| 311 | 44 | 38 | Unknown | [zio-http](https://github.com/dream11/zio-http)/476 | A scala library to write Http apps. |
+| 309 | 27 | 41 | Unknown | [kantan.csv](https://github.com/nrinaudo/kantan.csv)/477 | CSV handling library for Scala |
+| 309 | 56 | 28 | Unknown | [morpheus](https://github.com/opencypher/morpheus)/478 | Morpheus brings the leading graph query language, Cypher, onto the leading distributed processing platform, Spark. |
+| 308 | 137 | 151 | Unknown | [scalaxb](https://github.com/eed3si9n/scalaxb)/479 | scalaxb is an XML data binding tool for Scala. |
+| 308 | 126 | 68 | Unknown | [akka-persistence-cassandra](https://github.com/akka/akka-persistence-cassandra)/480 | A replicated Akka Persistence journal backed by Apache Cassandra |
+| 308 | 176 | 4 | Unknown | [bahir](https://github.com/apache/bahir)/481 | Mirror of Apache Bahir |
+| 307 | 47 | 40 | Unknown | [activate](https://github.com/fwbrasil/activate)/482 | Abandoned: Pluggable persistence in Scala |
+| 306 | 48 | 17 | Unknown | [droste](https://github.com/higherkindness/droste)/483 | recursion schemes for cats; to iterate is human, to recurse, divine |
+| 306 | 101 | 45 | Unknown | [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB)/484 | Spark library for easy MongoDB access |
+| 304 | 34 | 16 | Unknown | [Scalala](https://github.com/scalala/Scalala)/485 | Scalala has been superseded by dlwh/breeze. Scalala is a high performance numeric linear algebra library for Scala, with rich Matlab-like operators on vectors and matrices; a library of numerical routines; support for plotting. |
+| 304 | 36 | 9 | Unknown | [scalikejdbc-async](https://github.com/scalikejdbc/scalikejdbc-async)/486 | ScalikeJDBC Extension: Non-blocking APIs in the JDBC way |
+| 304 | 88 | 105 | Unknown | [vinyldns](https://github.com/vinyldns/vinyldns)/487 | DNS Governance for streamlining DNS operations and enabling safe and secure DNS self-service |
+| 303 | 26 | 17 | Unknown | [lmvtfy](https://github.com/cvrebert/lmvtfy)/488 | LMVTFY: Let Me Validate That For You |
+| 303 | 38 | 14 | Unknown | [remotely](https://github.com/Verizon/remotely)/489 | An elegant RPC system for reasonable people |
+| 303 | 53 | 2 | Unknown | [nd4s](https://github.com/deeplearning4j/nd4s)/490 | ND4S: N-Dimensional Arrays for Scala. Scientific Computing a la Numpy. Based on ND4J. |
+| 302 | 19 | 3 | Unknown | [enso-archive](https://github.com/enso-org/enso-archive)/491 | Looking for Enso, the visual programming language? ➡️ https://github.com/enso-org/enso |
+| 302 | 45 | 5 | Unknown | [khipu](https://github.com/khipu-io/khipu)/492 | An enterprise blockchain platform based on Ethereum |
+| 302 | 104 | 1 | Unknown | [pfps-shopping-cart](https://github.com/gvolpe/pfps-shopping-cart)/493 | :shopping_cart: The Shopping Cart application developed in the book "Practical FP in Scala: A hands-on approach" |
+| 302 | 56 | 13 | Unknown | [zinc](https://github.com/typesafehub/zinc)/494 | ⛔️ [DEPRECATED] sbt's scala incremental compiler |
+| 302 | 34 | 20 | Unknown | [degraph](https://github.com/riy/degraph)/495 | Test and Visualize and Manage Dependencies of classes and packages in JVM Byte Code (think Scala and Java) |
+| 301 | 88 | 28 | Unknown | [virtualization-lms-core](https://github.com/TiarkRompf/virtualization-lms-core)/496 | A Framework for Runtime Code Generation and Compiled DSLs |
+| 301 | 95 | 29 | Unknown | [skuber](https://github.com/doriordan/skuber)/497 | A Scala Kubernetes client library |
+| 300 | 58 | 0 | Unknown | [classic](https://github.com/dispatch/classic)/498 | [UNSUPPORTED] Dispatch Classic. See dispatch/reboot for the modern Dispatch for Scala 2.11/2.12 |
+| 300 | 33 | 66 | Unknown | [aecor](https://github.com/notxcain/aecor)/499 | Pure functional event sourcing runtime |
+| 299 | 49 | 46 | Unknown | [scalacss](https://github.com/japgolly/scalacss)/500 | Super type-safe CSS for Scala and Scala.JS. |
 | 299 | 96 | 9 | 2 years ago | [incubator-retired-gearpump](https://github.com/apache/incubator-retired-gearpump)/501 | Mirror of Apache Gearpump (Incubating) |
 | 296 | 49 | 26 | a month ago | [sirius](https://github.com/Comcast/sirius)/502 | A distributed system library for managing application reference data |
 | 296 | 114 | 37 | 3 years ago | [spark-hbase-connector](https://github.com/nerdammer/spark-hbase-connector)/503 | Connect Spark to HBase for reading and writing data with ease |
-| 294 | 84 | 110 | 13 hours ago | [cloudflow](https://github.com/lightbend/cloudflow)/504 | Cloudflow enables users to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes. |
-| 294 | 64 | 57 | 12 hours ago | [zio-prelude](https://github.com/zio/zio-prelude)/505 | A lightweight, distinctly Scala take on functional abstractions, with tight ZIO integration |
+| 294 | 84 | 110 | 14 hours ago | [cloudflow](https://github.com/lightbend/cloudflow)/504 | Cloudflow enables users to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes. |
+| 294 | 64 | 57 | 14 hours ago | [zio-prelude](https://github.com/zio/zio-prelude)/505 | A lightweight, distinctly Scala take on functional abstractions, with tight ZIO integration |
 | 293 | 26 | 6 | 1 year, 4 months ago | [hamsters](https://github.com/scala-hamsters/hamsters)/506 | A mini Scala utility library |
 | 293 | 14 | 5 | 4 years ago | [sqltyped](https://github.com/jonifreeman/sqltyped)/507 | Embedding SQL as an external DSL into Scala |
 | 293 | 85 | 19 | 2 years ago | [scalatest-embedded-kafka](https://github.com/manub/scalatest-embedded-kafka)/508 | A library that provides an in-memory Kafka instance to run your tests against. |
 | 292 | 69 | 119 | 18 days ago | [hyperspace](https://github.com/microsoft/hyperspace)/509 | An open source indexing subsystem that brings index-based query acceleration to Apache Spark™ and big data workloads. |
-| 292 | 65 | 20 | 20 hours ago | [sbt-microsites](https://github.com/47degrees/sbt-microsites)/510 | An sbt plugin to create awesome microsites for your project |
+| 292 | 65 | 20 | 22 hours ago | [sbt-microsites](https://github.com/47degrees/sbt-microsites)/510 | An sbt plugin to create awesome microsites for your project |
 | 289 | 43 | 4 | 7 days ago | [discipline](https://github.com/typelevel/discipline)/511 | Flexible law checking for Scala |
 | 288 | 54 | 39 | a month ago | [ratatool](https://github.com/spotify/ratatool)/512 | A tool for data sampling, data generation, and data diffing |
 | 288 | 36 | 29 | 1 year, 5 months ago | [Scalatex](https://github.com/lihaoyi/Scalatex)/513 | Programmable, Typesafe Document Generation |
@@ -526,8 +526,8 @@
 | 283 | 96 | 0 | 2 years ago | [spark-druid-olap](https://github.com/hbutani/spark-druid-olap)/523 | Sparkline BI Accelerator provides fast ad-hoc query capability over Logical Cubes. This has been folded into our SNAP Platform(http://bit.ly/2oBJSpP) an Integrated BI platform on Apache Spark. |
 | 283 | 52 | 26 | 7 days ago | [blaze](https://github.com/http4s/blaze)/524 | Blazing fast NIO microframework and Http Parser |
 | 281 | 166 | 7 | 1 year, 3 months ago | [scala-labs](https://github.com/scala-labs/scala-labs)/525 | A collection of hands-on programming exercises aimed at teaching you to program in Scala |
-| 281 | 238 | 2 | 14 days ago | [scala-dist](https://github.com/scala/scala-dist)/526 | sbt project that packages the Scala distribution |
-| 281 | 31 | 49 | 20 hours ago | [mu-scala](https://github.com/higherkindness/mu-scala)/527 | Mu is a purely functional library for building RPC endpoint based services with support for RPC and HTTP/2 |
+| 281 | 238 | 2 | 15 days ago | [scala-dist](https://github.com/scala/scala-dist)/526 | sbt project that packages the Scala distribution |
+| 281 | 31 | 49 | 22 hours ago | [mu-scala](https://github.com/higherkindness/mu-scala)/527 | Mu is a purely functional library for building RPC endpoint based services with support for RPC and HTTP/2 |
 | 281 | 23 | 24 | a month ago | [scaldi](https://github.com/scaldi/scaldi)/528 | Lightweight Scala Dependency Injection Library |
 | 279 | 182 | 0 | 2 years ago | [SparkOnHBase](https://github.com/cloudera-labs/SparkOnHBase)/529 | SparkOnHBase  |
 | 279 | 39 | 0 | 1 year, 1 month ago | [boilerplay](https://github.com/KyleU/boilerplay)/530 | Using the latest technology in the Scala ecosystem, Boilerplay is a reactive web application built on Play Framework, ScalaJS, Silhouette, Sangria/GraphQL, and PostgreSQL. It provides a good starting point for whatever you want to build. |
@@ -540,7 +540,7 @@
 | 277 | 44 | 9 | 8 months ago | [streamz](https://github.com/krasserm/streamz)/537 | A combinator library for integrating Functional Streams for Scala (FS2), Akka Streams and Apache Camel |
 | 277 | 121 | 37 | 9 years ago | [jerkson](https://github.com/codahale/jerkson)/538 | [ABANDONED] The Scala applewood bacon to Jackson's chicken breast: JSON cordon bleu. |
 | 275 | 85 | 2 | 3 years ago | [Scala-Algorithms](https://github.com/garyaiki/Scala-Algorithms)/539 | Scala translations of Robert Sedgewick's Java Algorthms |
-| 275 | 49 | 28 | 16 hours ago | [mdoc](https://github.com/scalameta/mdoc)/540 | Typechecked markdown documentation for Scala |
+| 275 | 49 | 28 | 18 hours ago | [mdoc](https://github.com/scalameta/mdoc)/540 | Typechecked markdown documentation for Scala |
 | 275 | 238 | 1 | 10 days ago | [scala-2-beginners](https://github.com/rockthejvm/scala-2-beginners)/541 | The official repository for the Rock the JVM Scala 2 for beginners course |
 | 275 | 44 | 12 | a month ago | [sbt-sonatype](https://github.com/xerial/sbt-sonatype)/542 | A sbt plugin for publishing Scala/Java projects to the Maven central. |
 | 274 | 20 | 17 | a day ago | [diffx](https://github.com/softwaremill/diffx)/543 | Pretty diffs for scala case classes |
@@ -550,7 +550,7 @@
 | 272 | 33 | 4 | a month ago | [Laika](https://github.com/planet42/Laika)/547 | Text Markup Transformer for sbt and Scala applications, transforming Markdown and reStructuredText to HTML, EPUB and PDF |
 | 272 | 33 | 22 | 4 years ago | [linter](https://github.com/HairyFotr/linter)/548 | Static Analysis Compiler Plugin for Scala |
 | 271 | 108 | 43 | 6 days ago | [play-json](https://github.com/playframework/play-json)/549 | The Play JSON library |
-| 271 | 48 | 34 | 11 hours ago | [codepropertygraph](https://github.com/ShiftLeftSecurity/codepropertygraph)/550 | Semantic Code Property Graph: specification, query language, and utilities |
+| 271 | 48 | 34 | 13 hours ago | [codepropertygraph](https://github.com/ShiftLeftSecurity/codepropertygraph)/550 | Semantic Code Property Graph: specification, query language, and utilities |
 | 271 | 88 | 33 | 22 days ago | [kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler)/551 | Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb |
 | 270 | 19 | 14 | 3 years ago | [debox](https://github.com/non/debox)/552 | Fast, deboxed, specialized data structures for Scala |
 | 270 | 37 | 9 | 4 years ago | [scala-uri](https://github.com/NET-A-PORTER/scala-uri)/553 | Simple scala library for building and parsing URIs |
@@ -584,12 +584,12 @@
 | 255 | 133 | 5 | 6 years ago | [bugatti](https://github.com/QianmiOpen/bugatti)/581 | 运维自动化部署监控平台 |
 | 255 | 18 | 20 | a month ago | [riff-raff](https://github.com/guardian/riff-raff)/582 | The Guardian's deployment platform |
 | 253 | 53 | 5 | 4 years ago | [ScalaStorm](https://github.com/velvia/ScalaStorm)/583 | Harness the power and elegance of Scala with nathanmarz's Storm real-time system |
-| 253 | 30 | 2 | 18 hours ago | [scala-uri](https://github.com/lemonlabsuk/scala-uri)/584 | Simple scala library for building and parsing URIs |
+| 253 | 30 | 2 | 20 hours ago | [scala-uri](https://github.com/lemonlabsuk/scala-uri)/584 | Simple scala library for building and parsing URIs |
 | 253 | 124 | 7 | 6 years ago | [scalania](https://github.com/jaceklaskowski/scalania)/585 | Learn Scala by examples |
 | 252 | 96 | 88 | 18 days ago | [zinc](https://github.com/sbt/zinc)/586 | Scala incremental compiler library, originally part of sbt |
 | 252 | 39 | 6 | 1 year, 10 days ago | [kmq](https://github.com/softwaremill/kmq)/587 | Kafka-based message queue |
 | 252 | 80 | 21 | 4 years ago | [spark-indexedrdd](https://github.com/amplab/spark-indexedrdd)/588 | An efficient updatable key-value store for Apache Spark |
-| 252 | 33 | 29 | 14 hours ago | [case-app](https://github.com/alexarchambault/case-app)/589 | Type-level & seamless command-line argument parsing for Scala |
+| 252 | 33 | 29 | 16 hours ago | [case-app](https://github.com/alexarchambault/case-app)/589 | Type-level & seamless command-line argument parsing for Scala |
 | 251 | 54 | 13 | 1 year, 5 months ago | [riscv-mini](https://github.com/ucb-bar/riscv-mini)/590 | Simple RISC-V 3-stage Pipeline in Chisel |
 | 250 | 35 | 12 | 2 years ago | [chaos](https://github.com/mesosphere/chaos)/591 | A lightweight framework for writing REST services in Scala. |
 | 250 | 92 | 4 | 3 years ago | [kafka-exactly-once](https://github.com/koeninger/kafka-exactly-once)/592 | None |
@@ -656,51 +656,51 @@
 | 232 | 113 | 3 | 4 years ago | [Netflix-Recommender-with-Spark](https://github.com/LeechanX/Netflix-Recommender-with-Spark)/653 | 基于Apache Spark的Netflix电影的离线与实时推荐系统 |
 | 231 | 49 | 4 | 4 years ago | [dockerworker](https://github.com/iron-io/dockerworker)/654 | The new IronWorker workflow examples. Test locally, then upload and start queuing jobs! |
 | 231 | 30 | 1 | 3 days ago | [embedded-kafka](https://github.com/embeddedkafka/embedded-kafka)/655 | A library that provides an in-memory Kafka instance to run your tests against. |
-| 231 | 21 | 0 | 11 days ago | [sbt-fresh](https://github.com/sbt/sbt-fresh)/656 | sbt-plugin to create an opinionated fresh sbt project |
-| 230 | 48 | 12 | 3 years ago | [workbench](https://github.com/lihaoyi/workbench)/657 | Tooling around scala-js |
-| 230 | 51 | 16 | 14 days ago | [scala-ssh](https://github.com/sirthias/scala-ssh)/658 | Remote shell access via SSH for your Scala applications |
-| 230 | 42 | 32 | a day ago | [munit](https://github.com/scalameta/munit)/659 | Scala testing library with actionable errors and extensible APIs |
-| 230 | 71 | 3 | a month ago | [akka-kryo-serialization](https://github.com/altoo-ag/akka-kryo-serialization)/660 | Kryo-based serialization for Akka |
+| 231 | 21 | 0 | Unknown | [sbt-fresh](https://github.com/sbt/sbt-fresh)/656 | sbt-plugin to create an opinionated fresh sbt project |
+| 230 | 48 | 12 | Unknown | [workbench](https://github.com/lihaoyi/workbench)/657 | Tooling around scala-js |
+| 230 | 51 | 16 | Unknown | [scala-ssh](https://github.com/sirthias/scala-ssh)/658 | Remote shell access via SSH for your Scala applications |
+| 230 | 42 | 32 | Unknown | [munit](https://github.com/scalameta/munit)/659 | Scala testing library with actionable errors and extensible APIs |
+| 230 | 71 | 3 | Unknown | [akka-kryo-serialization](https://github.com/altoo-ag/akka-kryo-serialization)/660 | Kryo-based serialization for Akka |
 | 230 | 129 | 54 | 9 days ago | [scala-js-dom](https://github.com/scala-js/scala-js-dom)/661 | Statically typed DOM API for Scala.js |
 | 229 | 21 | 17 | 3 months ago | [evilplot](https://github.com/cibotech/evilplot)/662 | A Scala combinator-based plotting library. |
-| 229 | 64 | 9 | 8 months ago | [akka-rabbitmq](https://github.com/NewMotion/akka-rabbitmq)/663 | RabbitMq client in Scala and Akka actors |
-| 229 | 21 | 6 | 13 hours ago | [Scurses](https://github.com/Tenchi2xh/Scurses)/664 | Scurses, terminal drawing API for Scala, and Onions, a Scurses framework for easy terminal UI |
-| 228 | 139 | 8 | 5 years ago | [flink-streaming-demo](https://github.com/dataArtisans/flink-streaming-demo)/665 | None |
-| 228 | 83 | 3 | 2 years ago | [ReactiveMessagingPatterns_ActorModel](https://github.com/VaughnVernon/ReactiveMessagingPatterns_ActorModel)/666 | The examples for the book "Reactive Messaging Patterns with the Actor Model" |
+| 229 | 64 | 9 | Unknown | [akka-rabbitmq](https://github.com/NewMotion/akka-rabbitmq)/663 | RabbitMq client in Scala and Akka actors |
+| 229 | 21 | 6 | Unknown | [Scurses](https://github.com/Tenchi2xh/Scurses)/664 | Scurses, terminal drawing API for Scala, and Onions, a Scurses framework for easy terminal UI |
+| 228 | 139 | 8 | Unknown | [flink-streaming-demo](https://github.com/dataArtisans/flink-streaming-demo)/665 | None |
+| 228 | 83 | 3 | Unknown | [ReactiveMessagingPatterns_ActorModel](https://github.com/VaughnVernon/ReactiveMessagingPatterns_ActorModel)/666 | The examples for the book "Reactive Messaging Patterns with the Actor Model" |
 | 228 | 86 | 24 | 3 days ago | [scala-xml](https://github.com/scala/scala-xml)/667 | The standard Scala XML library |
-| 228 | 66 | 346 | 8 hours ago | [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s)/668 | Bitcoin Implementation in Scala |
+| 228 | 66 | 346 | Unknown | [bitcoin-s](https://github.com/bitcoin-s/bitcoin-s)/668 | Bitcoin Implementation in Scala |
 | 227 | 61 | 12 | 4 years ago | [akka-persistence-cassandra](https://github.com/krasserm/akka-persistence-cassandra)/669 | A replicated Akka Persistence journal backed by Apache Cassandra |
 | 227 | 48 | 22 | 8 months ago | [fsqio](https://github.com/foursquare/fsqio)/670 | A monorepo that holds all of Foursquare's opensource projects |
-| 226 | 54 | 4 | 1 year, 3 months ago | [sbt-native-packager-examples](https://github.com/muuki88/sbt-native-packager-examples)/671 | A set of sbt-native-pakager examples |
-| 226 | 31 | 25 | 2 months ago | [scalacheck-shapeless](https://github.com/alexarchambault/scalacheck-shapeless)/672 | Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless |
-| 226 | 29 | 12 | 6 years ago | [sjson](https://github.com/debasishg/sjson)/673 | Scala Json with capabilities for Scala Object Serialization |
-| 224 | 141 | 127 | 11 days ago | [akka-management](https://github.com/akka/akka-management)/674 | Akka Management is a suite of tools for operating Akka Clusters. |
+| 226 | 54 | 4 | Unknown | [sbt-native-packager-examples](https://github.com/muuki88/sbt-native-packager-examples)/671 | A set of sbt-native-pakager examples |
+| 226 | 31 | 25 | Unknown | [scalacheck-shapeless](https://github.com/alexarchambault/scalacheck-shapeless)/672 | Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless |
+| 226 | 29 | 12 | Unknown | [sjson](https://github.com/debasishg/sjson)/673 | Scala Json with capabilities for Scala Object Serialization |
+| 224 | 141 | 127 | Unknown | [akka-management](https://github.com/akka/akka-management)/674 | Akka Management is a suite of tools for operating Akka Clusters. |
 | 223 | 116 | 4 | 2 years ago | [play-scala-rest-api-example](https://github.com/playframework/play-scala-rest-api-example)/675 | Example Play Scala application showing REST API |
-| 222 | 79 | 42 | 3 years ago | [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff)/676 | the scala protocol buffers (protobuf) compiler |
+| 222 | 79 | 42 | Unknown | [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff)/676 | the scala protocol buffers (protobuf) compiler |
 | 222 | 18 | 3 | 5 years ago | [akka-data-replication](https://github.com/patriknw/akka-data-replication)/677 | Replication of CRDTs in Akka Cluster |
 | 221 | 44 | 28 | 11 days ago | [zio-actors](https://github.com/zio/zio-actors)/678 | A high-performance, purely-functional library for building, composing, and supervising typed actors based on ZIO |
-| 221 | 67 | 39 | a month ago | [zio-microservice](https://github.com/zio/zio-microservice)/679 | ZIO-powered microservices via HTTP and other protocols. |
-| 221 | 149 | 2 | 3 years ago | [LayIM](https://github.com/scalad/LayIM)/680 | 基于HTML5 WebSocket的一款IM即时通讯软件，使用Gradle集成了Scala、SpringBoot、Spring MVC、Mybatis、Redis等，前端使用了LayIm框架 |
-| 221 | 18 | 22 | 7 months ago | [sbt-explicit-dependencies](https://github.com/cb372/sbt-explicit-dependencies)/681 | None |
+| 221 | 67 | 39 | Unknown | [zio-microservice](https://github.com/zio/zio-microservice)/679 | ZIO-powered microservices via HTTP and other protocols. |
+| 221 | 149 | 2 | Unknown | [LayIM](https://github.com/scalad/LayIM)/680 | 基于HTML5 WebSocket的一款IM即时通讯软件，使用Gradle集成了Scala、SpringBoot、Spring MVC、Mybatis、Redis等，前端使用了LayIm框架 |
+| 221 | 18 | 22 | Unknown | [sbt-explicit-dependencies](https://github.com/cb372/sbt-explicit-dependencies)/681 | None |
 | 221 | 26 | 21 | 6 months ago | [Dsl.scala](https://github.com/ThoughtWorksInc/Dsl.scala)/682 | A framework to create embedded Domain-Specific Languages in Scala |
-| 220 | 54 | 8 | 6 years ago | [spray-websocket](https://github.com/dcaoyuan/spray-websocket)/683 | WebSocket for spray-can |
-| 219 | 22 | 8 | 4 years ago | [active-slick](https://github.com/strongtyped/active-slick)/684 | Slick extensions for record lifecycle management |
-| 219 | 31 | 0 | 5 years ago | [akka-crdt](https://github.com/jboner/akka-crdt)/685 | Server-managed CRDTs based on Akka |
-| 218 | 125 | 63 | 2 years ago | [spark-bench](https://github.com/CODAIT/spark-bench)/686 | Benchmark Suite for Apache Spark |
-| 218 | 9 | 184 | 2 days ago | [apalache](https://github.com/informalsystems/apalache)/687 | APALACHE: symbolic model checker for TLA+ |
-| 218 | 69 | 5 | 4 years ago | [neo4j-scala](https://github.com/FaKod/neo4j-scala)/688 | Scala wrapper for Neo4j Graph Database |
-| 217 | 35 | 14 | 3 years ago | [constructr](https://github.com/hseeberger/constructr)/689 | Coordinated (etcd, ...) cluster construction for dynamic (cloud, containers) environments |
-| 217 | 52 | 22 | 4 years ago | [trifecta](https://github.com/ldaniels528/trifecta)/690 | Trifecta is a web-based and CLI tool that simplifies inspecting Kafka messages and Zookeeper data. Additionally, the CLI tool provides the capability to import/export data to/from ElasticSearch and MongoDB. |
-| 217 | 49 | 7 | 3 days ago | [zio-todo-backend](https://github.com/mschuwalow/zio-todo-backend)/691 | Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s and circe |
-| 217 | 6 | 12 | 6 years ago | [Scalaxy](https://github.com/nativelibs4java/Scalaxy)/692 | Compiler plugin goodies for Scala (continuation of non-OpenCL part of ScalaCL) |
-| 216 | 24 | 9 | 1 year, 3 months ago | [play-auto-refresh](https://github.com/jamesward/play-auto-refresh)/693 | None |
-| 216 | 62 | 17 | 10 years ago | [querulous](https://github.com/nkallen/querulous)/694 | An agreeable way to talk to your database. |
-| 216 | 86 | 12 | 2 months ago | [gimel](https://github.com/paypal/gimel)/695 | Big Data Processing Framework - Unified Data API or SQL on Any Storage |
-| 216 | 31 | 5 | 2 years ago | [ckite](https://github.com/pablosmedina/ckite)/696 | CKite - A JVM implementation of the Raft distributed consensus algorithm written in Scala |
-| 215 | 42 | 41 | 2 months ago | [EventStore.JVM](https://github.com/EventStore/EventStore.JVM)/697 | Event Store JVM Client  |
-| 215 | 33 | 0 | 6 years ago | [ddd-leaven-akka](https://github.com/pawelkaczor/ddd-leaven-akka)/698 | Reactive DDD with Akka |
-| 215 | 78 | 12 | 16 hours ago | [mantis](https://github.com/input-output-hk/mantis)/699 | A Scala based client for Ethereum-like Blockchains.  |
-| 215 | 39 | 39 | 4 months ago | [reactive](https://github.com/nafg/reactive)/700 | A simple FRP library and a web UI framework built on it |
+| 220 | 54 | 8 | Unknown | [spray-websocket](https://github.com/dcaoyuan/spray-websocket)/683 | WebSocket for spray-can |
+| 219 | 22 | 8 | Unknown | [active-slick](https://github.com/strongtyped/active-slick)/684 | Slick extensions for record lifecycle management |
+| 219 | 31 | 0 | Unknown | [akka-crdt](https://github.com/jboner/akka-crdt)/685 | Server-managed CRDTs based on Akka |
+| 218 | 125 | 63 | Unknown | [spark-bench](https://github.com/CODAIT/spark-bench)/686 | Benchmark Suite for Apache Spark |
+| 218 | 9 | 184 | Unknown | [apalache](https://github.com/informalsystems/apalache)/687 | APALACHE: symbolic model checker for TLA+ |
+| 218 | 69 | 5 | Unknown | [neo4j-scala](https://github.com/FaKod/neo4j-scala)/688 | Scala wrapper for Neo4j Graph Database |
+| 217 | 35 | 14 | Unknown | [constructr](https://github.com/hseeberger/constructr)/689 | Coordinated (etcd, ...) cluster construction for dynamic (cloud, containers) environments |
+| 217 | 52 | 22 | Unknown | [trifecta](https://github.com/ldaniels528/trifecta)/690 | Trifecta is a web-based and CLI tool that simplifies inspecting Kafka messages and Zookeeper data. Additionally, the CLI tool provides the capability to import/export data to/from ElasticSearch and MongoDB. |
+| 217 | 49 | 7 | Unknown | [zio-todo-backend](https://github.com/mschuwalow/zio-todo-backend)/691 | Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s and circe |
+| 217 | 6 | 12 | Unknown | [Scalaxy](https://github.com/nativelibs4java/Scalaxy)/692 | Compiler plugin goodies for Scala (continuation of non-OpenCL part of ScalaCL) |
+| 216 | 24 | 9 | Unknown | [play-auto-refresh](https://github.com/jamesward/play-auto-refresh)/693 | None |
+| 216 | 62 | 17 | Unknown | [querulous](https://github.com/nkallen/querulous)/694 | An agreeable way to talk to your database. |
+| 216 | 86 | 12 | Unknown | [gimel](https://github.com/paypal/gimel)/695 | Big Data Processing Framework - Unified Data API or SQL on Any Storage |
+| 216 | 31 | 5 | Unknown | [ckite](https://github.com/pablosmedina/ckite)/696 | CKite - A JVM implementation of the Raft distributed consensus algorithm written in Scala |
+| 215 | 42 | 41 | Unknown | [EventStore.JVM](https://github.com/EventStore/EventStore.JVM)/697 | Event Store JVM Client  |
+| 215 | 33 | 0 | Unknown | [ddd-leaven-akka](https://github.com/pawelkaczor/ddd-leaven-akka)/698 | Reactive DDD with Akka |
+| 215 | 78 | 12 | Unknown | [mantis](https://github.com/input-output-hk/mantis)/699 | A Scala based client for Ethereum-like Blockchains.  |
+| 215 | 39 | 39 | Unknown | [reactive](https://github.com/nafg/reactive)/700 | A simple FRP library and a web UI framework built on it |
 | 215 | 51 | 19 | 2 months ago | [gu-who](https://github.com/guardian/gu-who)/701 | answering: who are all these users in my GitHub org? |
 | 214 | 23 | 4 | 7 years ago | [twirl](https://github.com/spray/twirl)/702 | The Play framework Scala template engine, stand-alone and packaged as an SBT plugin |
 | 214 | 92 | 73 | a month ago | [scalajs-bundler](https://github.com/scalacenter/scalajs-bundler)/703 | None |
@@ -721,7 +721,7 @@
 | 209 | 194 | 1 | 2 years ago | [spark2.0-examples](https://github.com/phatak-dev/spark2.0-examples)/718 | Examples of Spark 2.0  |
 | 208 | 76 | 8 | 3 years ago | [flink-tensorflow](https://github.com/FlinkML/flink-tensorflow)/719 | flink-tensorflow - TensorFlow support for Apache Flink |
 | 208 | 67 | 17 | 2 months ago | [cloudformation-template-generator](https://github.com/Bayer-Group/cloudformation-template-generator)/720 | A type-safe Scala DSL for generating CloudFormation templates |
-| 207 | 26 | 6 | an hour ago | [delta-sharing](https://github.com/delta-io/delta-sharing)/721 | An open protocol for secure data sharing |
+| 207 | 26 | 6 | 3 hours ago | [delta-sharing](https://github.com/delta-io/delta-sharing)/721 | An open protocol for secure data sharing |
 | 207 | 75 | 22 | 6 days ago | [zio-kafka](https://github.com/zio/zio-kafka)/722 | A Kafka client for ZIO and ZIO Streams |
 | 206 | 39 | 36 | 3 years ago | [scala-redis-nb](https://github.com/debasishg/scala-redis-nb)/723 | Implementation of a non blocking Redis client in Scala using Akka IO |
 | 206 | 46 | 0 | 6 months ago | [courier](https://github.com/dmurvihill/courier)/724 | send electronic mail with scala |
@@ -731,10 +731,10 @@
 | 205 | 17 | 9 | 4 years ago | [emm](https://github.com/djspiewak/emm)/728 | A general monad for managing stacking effects |
 | 205 | 23 | 18 | 3 months ago | [monadic-html](https://github.com/OlivierBlanvillain/monadic-html)/729 | Tiny DOM binding library for Scala.js |
 | 205 | 50 | 6 | a day ago | [redis4cats](https://github.com/profunktor/redis4cats)/730 | :bookmark: Redis client built on top of Cats Effect, Fs2 and Lettuce |
-| 205 | 61 | 9 | 6 years ago | [akka-persistence-kafka](https://github.com/krasserm/akka-persistence-kafka)/731 | A replicated Akka Persistence journal backed by Apache Kafka |
-| 205 | 104 | 7 | 9 months ago | [learning-examples](https://github.com/concurrent-programming-in-scala/learning-examples)/732 | Code examples for the book Learning Concurrent Programming in Scala |
+| 205 | 104 | 7 | 9 months ago | [learning-examples](https://github.com/concurrent-programming-in-scala/learning-examples)/731 | Code examples for the book Learning Concurrent Programming in Scala |
+| 205 | 61 | 9 | 6 years ago | [akka-persistence-kafka](https://github.com/krasserm/akka-persistence-kafka)/732 | A replicated Akka Persistence journal backed by Apache Kafka |
 | 204 | 69 | 0 | 8 years ago | [link-prediction](https://github.com/echen/link-prediction)/733 | Solution to Facebook's link prediction contest on Kaggle. |
-| 204 | 67 | 30 | 20 hours ago | [github4s](https://github.com/47degrees/github4s)/734 | A GitHub API wrapper written in Scala |
+| 204 | 67 | 30 | 22 hours ago | [github4s](https://github.com/47degrees/github4s)/734 | A GitHub API wrapper written in Scala |
 | 204 | 47 | 10 | a month ago | [sbt-ci-release](https://github.com/olafurpg/sbt-ci-release)/735 | sbt plugin to automate Sonatype releases from Travis CI |
 | 203 | 129 | 2 | 5 years ago | [example-spark](https://github.com/mkuthan/example-spark)/736 | Spark, Spark Streaming and Spark SQL unit testing strategies |
 | 203 | 133 | 13 | 2 years ago | [online-auction-scala](https://github.com/lagom/online-auction-scala)/737 | None |
@@ -766,9 +766,9 @@
 | 196 | 37 | 4 | 3 years ago | [quiver](https://github.com/Verizon/quiver)/763 | A reasonable library for modeling multi-graphs in Scala |
 | 195 | 27 | 5 | 3 years ago | [Full-Stack-Scala-Starter](https://github.com/Algomancer/Full-Stack-Scala-Starter)/764 | Play 2.5, ScalaJS, Binding.scala starter project. |
 | 194 | 32 | 3 | 2 years ago | [validation](https://github.com/jto/validation)/765 | validation api extracted from play |
-| 194 | 54 | 87 | 6 hours ago | [nussknacker](https://github.com/TouK/nussknacker)/766 | Process authoring tool for Apache Flink |
-| 194 | 51 | 4 | 4 years ago | [shelldroid](https://github.com/wuhx/shelldroid)/767 | Create Virtual Environment for your Android Apps |
-| 194 | 79 | 64 | 8 days ago | [play-ws](https://github.com/playframework/play-ws)/768 | Standalone Play WS, an async HTTP client with fluent API |
+| 194 | 54 | 87 | 8 hours ago | [nussknacker](https://github.com/TouK/nussknacker)/766 | Process authoring tool for Apache Flink |
+| 194 | 79 | 64 | 8 days ago | [play-ws](https://github.com/playframework/play-ws)/767 | Standalone Play WS, an async HTTP client with fluent API |
+| 194 | 51 | 4 | 4 years ago | [shelldroid](https://github.com/wuhx/shelldroid)/768 | Create Virtual Environment for your Android Apps |
 | 194 | 16 | 3 | 10 days ago | [zio-magic](https://github.com/kitlangton/zio-magic)/769 | Construct ZLayers automagically (w/ helpful compile-time errors) |
 | 194 | 76 | 5 | 2 years ago | [play-scala-websocket-example](https://github.com/playframework/play-scala-websocket-example)/770 | Example Play Scala application showing WebSocket use with Akka actors |
 | 194 | 60 | 24 | 3 years ago | [drunken-data-quality](https://github.com/FRosner/drunken-data-quality)/771 | Spark package for checking data quality |
@@ -787,57 +787,57 @@
 | 191 | 189 | 3 | 4 months ago | [spark-scala-examples](https://github.com/spark-examples/spark-scala-examples)/784 | This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language |
 | 191 | 35 | 6 | 2 years ago | [scheduler](https://github.com/PagerDuty/scheduler)/785 | A Scala library for scheduling arbitrary code to run at an arbitrary time. |
 | 190 | 78 | 2 | 9 months ago | [functional-design](https://github.com/jdegoes/functional-design)/786 | Exercises for the course 'Functional Design by John A. De Goes |
-| 190 | 181 | 8 | 3 years ago | [txbits](https://github.com/txbits/txbits)/787 | DISCLAIMER: TxBits is not affiliated with any active exchanges. Use them at your own risk and beware of any that violate the AGPL license terms by not releasing their source code as required. |
-| 190 | 43 | 4 | 10 years ago | [scala-json](https://github.com/stevej/scala-json)/788 | Scala JSON toolkit. Originally from the Odersky "Stairway" Book, tightened up and tests added by Twitter, Inc. |
+| 190 | 181 | 8 | Unknown | [txbits](https://github.com/txbits/txbits)/787 | DISCLAIMER: TxBits is not affiliated with any active exchanges. Use them at your own risk and beware of any that violate the AGPL license terms by not releasing their source code as required. |
+| 190 | 43 | 4 | Unknown | [scala-json](https://github.com/stevej/scala-json)/788 | Scala JSON toolkit. Originally from the Odersky "Stairway" Book, tightened up and tests added by Twitter, Inc. |
 | 190 | 28 | 6 | 4 months ago | [remora](https://github.com/zalando-incubator/remora)/789 | Kafka consumer lag-checking application for monitoring, written in Scala and Akka HTTP; a wrap around the Kafka consumer group command. Integrations with Cloudwatch and Datadog. Authentication recently added |
-| 190 | 28 | 30 | 2 months ago | [Potigol](https://github.com/potigol/Potigol)/790 | Linguagem Potigol - Linguagem de programação funcional moderna para iniciantes - A Functional Programming Language for Beginners |
+| 190 | 28 | 30 | Unknown | [Potigol](https://github.com/potigol/Potigol)/790 | Linguagem Potigol - Linguagem de programação funcional moderna para iniciantes - A Functional Programming Language for Beginners |
 | 190 | 29 | 12 | a day ago | [youi](https://github.com/outr/youi)/791 | Next generation user interface and application development in Scala and Scala.js for web, mobile, and desktop. |
-| 189 | 28 | 44 | a day ago | [otoroshi](https://github.com/MAIF/otoroshi)/792 | Lightweight api management on top of a modern http reverse proxy |
+| 189 | 28 | 44 | Unknown | [otoroshi](https://github.com/MAIF/otoroshi)/792 | Lightweight api management on top of a modern http reverse proxy |
 | 189 | 31 | 0 | 7 years ago | [eventsourced-example](https://github.com/eligosource/eventsourced-example)/793 | A Scala web application demonstrating event-sourcing best practices |
 | 189 | 22 | 3 | 7 years ago | [expecty](https://github.com/pniederw/expecty)/794 | Power assertions (as known from Groovy and Spock) for the Scala language. |
 | 189 | 51 | 9 | 2 years ago | [knobs](https://github.com/Verizon/knobs)/795 | A reasonable configuration library for Scala |
 | 189 | 62 | 16 | 5 years ago | [akka-kafka](https://github.com/sclasen/akka-kafka)/796 | None |
 | 189 | 41 | 41 | a month ago | [plotly-scala](https://github.com/alexarchambault/plotly-scala)/797 | Scala bindings for plotly.js |
-| 188 | 95 | 47 | 2 years ago | [spark-atlas-connector](https://github.com/hortonworks-spark/spark-atlas-connector)/798 | A Spark Atlas connector to track data lineage in Apache Atlas |
+| 188 | 95 | 47 | Unknown | [spark-atlas-connector](https://github.com/hortonworks-spark/spark-atlas-connector)/798 | A Spark Atlas connector to track data lineage in Apache Atlas |
 | 188 | 39 | 63 | 3 years ago | [rapture](https://github.com/propensive/rapture)/799 | Rapture |
 | 187 | 16 | 0 | 6 years ago | [Structures](https://github.com/mpilquist/Structures)/800 | Functional type classes for Scala |
-| 187 | 42 | 63 | 2 years ago | [iglu](https://github.com/snowplow/iglu)/801 | A schema registry system |
+| 187 | 42 | 63 | Unknown | [iglu](https://github.com/snowplow/iglu)/801 | A schema registry system |
 | 186 | 58 | 7 | 5 years ago | [ficus](https://github.com/ceedubs/ficus)/802 | Scala-friendly companion to Typesafe config - moved to https://github.com/iheartradio/ficus |
 | 186 | 38 | 7 | 3 years ago | [Hasher](https://github.com/Nycto/Hasher)/803 | A small Scala library for easily generating hashes (md5, sha1, sha256, sha512, crc32, bcrypt, hmacs, pbkdf2) |
-| 186 | 41 | 2 | 17 days ago | [parametric-face-image-generator](https://github.com/unibas-gravis/parametric-face-image-generator)/804 | Generate fully parametric face images from the Basel Face Model 2017 |
-| 186 | 43 | 9 | 11 months ago | [reactive-rabbit](https://github.com/ScalaConsultants/reactive-rabbit)/805 | Reactive Streams driver for AMQP protocol. Powered by RabbitMQ library. |
-| 186 | 20 | 11 | 10 days ago | [iteratee](https://github.com/travisbrown/iteratee)/806 | Iteratees for Cats |
-| 186 | 20 | 9 | 5 years ago | [smoke](https://github.com/mDialog/smoke)/807 | Simple, asynchronous HTTP using Scala. |
+| 186 | 41 | 2 | Unknown | [parametric-face-image-generator](https://github.com/unibas-gravis/parametric-face-image-generator)/804 | Generate fully parametric face images from the Basel Face Model 2017 |
+| 186 | 43 | 9 | Unknown | [reactive-rabbit](https://github.com/ScalaConsultants/reactive-rabbit)/805 | Reactive Streams driver for AMQP protocol. Powered by RabbitMQ library. |
+| 186 | 20 | 11 | Unknown | [iteratee](https://github.com/travisbrown/iteratee)/806 | Iteratees for Cats |
+| 186 | 20 | 9 | Unknown | [smoke](https://github.com/mDialog/smoke)/807 | Simple, asynchronous HTTP using Scala. |
 | 186 | 97 | 6 | 2 years ago | [kraps-rpc](https://github.com/neoremind/kraps-rpc)/808 | A RPC framework leveraging Spark RPC module |
-| 185 | 30 | 1 | 4 years ago | [akka-sse](https://github.com/hseeberger/akka-sse)/809 | Akka HTTP now includes Akka SSE, this project is at EOL |
+| 185 | 30 | 1 | Unknown | [akka-sse](https://github.com/hseeberger/akka-sse)/809 | Akka HTTP now includes Akka SSE, this project is at EOL |
 | 185 | 7 | 3 | 10 days ago | [scala-gopher](https://github.com/rssh/scala-gopher)/810 | Implementation of CSP constructions (Communication Sequence Process, i.e. go-like channels) in scala |
-| 185 | 34 | 44 | 1 year, 5 months ago | [play-json-extensions](https://github.com/xdotai/play-json-extensions)/811 | +22 field case class formatter and more for play-json |
+| 185 | 34 | 44 | Unknown | [play-json-extensions](https://github.com/xdotai/play-json-extensions)/811 | +22 field case class formatter and more for play-json |
 | 185 | 27 | 5 | 2 months ago | [sbt-web-scalajs](https://github.com/vmunier/sbt-web-scalajs)/812 | SBT plugin to use Scala.js along with any sbt-web server. |
 | 185 | 25 | 7 | 6 months ago | [mockedstreams](https://github.com/jpzk/mockedstreams)/813 | Scala DSL for Unit-Testing Processing Topologies in Kafka Streams |
-| 184 | 61 | 34 | 5 months ago | [lojinha](https://github.com/jcranky/lojinha)/814 | A small store application, developed using Play 2 and Akka 2. At least temporary archived, get in touch if you want to contribute and I'll gladly un-archive it. |
-| 184 | 118 | 1 | 3 years ago | [spark-streaming-with-kafka](https://github.com/spirom/spark-streaming-with-kafka)/815 | Self-contained examples of Apache Spark streaming integrated with Apache Kafka. |
+| 184 | 61 | 34 | Unknown | [lojinha](https://github.com/jcranky/lojinha)/814 | A small store application, developed using Play 2 and Akka 2. At least temporary archived, get in touch if you want to contribute and I'll gladly un-archive it. |
+| 184 | 118 | 1 | Unknown | [spark-streaming-with-kafka](https://github.com/spirom/spark-streaming-with-kafka)/815 | Self-contained examples of Apache Spark streaming integrated with Apache Kafka. |
 | 184 | 26 | 14 | 1 year, 2 months ago | [scala-forklift](https://github.com/lastland/scala-forklift)/816 | Type-safe data migration tool for Slick, Git and beyond. |
 | 184 | 19 | 11 | a month ago | [ScalaCollider](https://github.com/Sciss/ScalaCollider)/817 | A Scala sound synthesis library based on SuperCollider. |
 | 184 | 66 | 2 | 4 years ago | [reactive-web-applications](https://github.com/manuelbernhardt/reactive-web-applications)/818 | Sources of the sample applications of the Reactive Web Application book |
 | 184 | 46 | 199 | a day ago | [nexus](https://github.com/BlueBrain/nexus)/819 | Blue Brain Nexus - A knowledge graph for data-driven science |
-| 183 | 55 | 61 | 2 days ago | [silk](https://github.com/silk-framework/silk)/820 | Silk Linked Data Integration Framework |
-| 183 | 39 | 1 | 4 months ago | [play2-hands-on](https://github.com/bizreach-inc/play2-hands-on)/821 | Play2 + Slick / ScalikeJDBCを使ってWebアプリケーションを作成するハンズオンです。 |
+| 183 | 55 | 61 | Unknown | [silk](https://github.com/silk-framework/silk)/820 | Silk Linked Data Integration Framework |
+| 183 | 39 | 1 | Unknown | [play2-hands-on](https://github.com/bizreach-inc/play2-hands-on)/821 | Play2 + Slick / ScalikeJDBCを使ってWebアプリケーションを作成するハンズオンです。 |
 | 183 | 74 | 11 | 5 years ago | [spark-streamingsql](https://github.com/Intel-bigdata/spark-streamingsql)/822 | Manipulate Spark-streaming by SQL |
 | 183 | 52 | 1 | 6 years ago | [akka-dddd-template](https://github.com/boldradius/akka-dddd-template)/823 | Akka DDDD template using CQRS/ES with a Distributed Domain |
 | 182 | 22 | 0 | 5 years ago | [store](https://github.com/Treode/store)/824 | The DB that's replicated, sharded and transactional. |
 | 182 | 27 | 7 | 21 days ago | [sbt-crossproject](https://github.com/portable-scala/sbt-crossproject)/825 | Cross-platform compilation support for sbt. |
 | 182 | 28 | 16 | 2 months ago | [play-json-derived-codecs](https://github.com/julienrf/play-json-derived-codecs)/826 | None |
 | 181 | 32 | 10 | 7 years ago | [browse](https://github.com/harrah/browse)/827 | A Scala source code browser |
-| 181 | 31 | 12 | a day ago | [build-server-protocol](https://github.com/build-server-protocol/build-server-protocol)/828 | Protocol for IDEs and build tools to communicate about compile, run, test, debug and more. |
+| 181 | 31 | 12 | Unknown | [build-server-protocol](https://github.com/build-server-protocol/build-server-protocol)/828 | Protocol for IDEs and build tools to communicate about compile, run, test, debug and more. |
 | 181 | 49 | 12 | a month ago | [eggroll](https://github.com/WeBankFinTech/eggroll)/829 | A Simple High Performance Computing Framework for [Federated] Machine Learning |
 | 181 | 39 | 75 | 9 days ago | [fgbio](https://github.com/fulcrumgenomics/fgbio)/830 | Tools for working with genomic and high throughput sequencing data. |
 | 181 | 54 | 0 | 5 months ago | [sbt-bintray](https://github.com/sbt/sbt-bintray)/831 | fresh packages delivered from your sbt console |
 | 181 | 12 | 17 | 7 months ago | [squid](https://github.com/epfldata/squid)/832 | Squid – type-safe metaprogramming and compilation framework for Scala |
-| 181 | 21 | 6 | 7 days ago | [fansi](https://github.com/com-lihaoyi/fansi)/833 | Scala/Scala.js library for manipulating Fancy Ansi colored strings |
-| 181 | 20 | 0 | 2 years ago | [nine-cards-v2](https://github.com/47degrees/nine-cards-v2)/834 | An Open Source Android Launcher built with Scala on Android |
-| 180 | 56 | 3 | 4 years ago | [effective_akka](https://github.com/jamie-allen/effective_akka)/835 | Source code from my Effective Akka work |
+| 181 | 21 | 6 | Unknown | [fansi](https://github.com/com-lihaoyi/fansi)/833 | Scala/Scala.js library for manipulating Fancy Ansi colored strings |
+| 181 | 20 | 0 | Unknown | [nine-cards-v2](https://github.com/47degrees/nine-cards-v2)/834 | An Open Source Android Launcher built with Scala on Android |
+| 180 | 56 | 3 | Unknown | [effective_akka](https://github.com/jamie-allen/effective_akka)/835 | Source code from my Effective Akka work |
 | 180 | 21 | 15 | 7 years ago | [scalalogging](https://github.com/typesafehub/scalalogging)/836 | Convenient and performant logging in Scala |
-| 180 | 19 | 2 | 13 days ago | [lunatech-scala-2-to-scala3-course](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course)/837 | Lunatech course - "Moving forward from Scala 2 to Scala 3" |
+| 180 | 19 | 2 | Unknown | [lunatech-scala-2-to-scala3-course](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course)/837 | Lunatech course - "Moving forward from Scala 2 to Scala 3" |
 | 179 | 28 | 12 | 10 days ago | [sbt-doctest](https://github.com/tkawachi/sbt-doctest)/838 | Doctest for scala |
 | 179 | 13 | 6 | a month ago | [scala-typed-holes](https://github.com/cb372/scala-typed-holes)/839 | None |
 | 179 | 18 | 12 | 2 years ago | [diff](https://github.com/xdotai/diff)/840 | Visually compare Scala data structures with out of the box support for arbitrary case classes. |
@@ -846,55 +846,55 @@
 | 178 | 32 | 27 | 14 days ago | [zio-keeper](https://github.com/zio/zio-keeper)/843 | A ZIO library for building distributed systems |
 | 178 | 39 | 11 | 1 year, 7 months ago | [berkeley-entity](https://github.com/gregdurrett/berkeley-entity)/844 | The Berkeley Entity Resolution System jointly solves the problems of named entity recognition, coreference resolution, and entity linking with a feature-rich discriminative model. |
 | 178 | 82 | 0 | 3 months ago | [sparkstreaming](https://github.com/LinMingQiang/sparkstreaming)/845 | :boom: :rocket:  封装sparkstreaming动态调节batch time(有数据就执行计算)；:rocket:  支持运行过程中增删topic；:rocket:  封装sparkstreaming 1.6 - kafka 010 用以支持 SSL。 |
-| 178 | 18 | 14 | 19 minutes ago | [elastiknn](https://github.com/alexklibisz/elastiknn)/846 | Elasticsearch plugin for nearest neighbor search. Store vectors and run similarity search using exact and approximate algorithms. |
-| 178 | 75 | 1 | 9 months ago | [spark-iforest](https://github.com/titicaca/spark-iforest)/847 | Isolation Forest on Spark |
+| 178 | 18 | 14 | Unknown | [elastiknn](https://github.com/alexklibisz/elastiknn)/846 | Elasticsearch plugin for nearest neighbor search. Store vectors and run similarity search using exact and approximate algorithms. |
+| 178 | 75 | 1 | Unknown | [spark-iforest](https://github.com/titicaca/spark-iforest)/847 | Isolation Forest on Spark |
 | 178 | 124 | 0 | 10 months ago | [allaboutscala](https://github.com/nadimbahadoor/allaboutscala)/848 | Source code for www.allaboutscala.com tutorials |
-| 178 | 14 | 24 | 25 days ago | [millfork](https://github.com/KarolS/millfork)/849 | Millfork: a middle-level programming language targeting 6502- and Z80-based microcomputers and home consoles |
-| 177 | 24 | 10 | 6 years ago | [scala-blitz](https://github.com/scala-blitz/scala-blitz)/850 | Scala framework for efficient sequential and data-parallel collections - |
+| 178 | 14 | 24 | Unknown | [millfork](https://github.com/KarolS/millfork)/849 | Millfork: a middle-level programming language targeting 6502- and Z80-based microcomputers and home consoles |
+| 177 | 24 | 10 | Unknown | [scala-blitz](https://github.com/scala-blitz/scala-blitz)/850 | Scala framework for efficient sequential and data-parallel collections - |
 | 177 | 108 | 2 | 1 year, 7 months ago | [functional-scala](https://github.com/jdegoes/functional-scala)/851 | The repository for the Functional Scala workshop. |
 | 177 | 19 | 7 | 3 years ago | [scuruto](https://github.com/atware/scuruto)/852 | An internal knowledge sharing app |
-| 177 | 24 | 2 | 4 years ago | [stateless-future](https://github.com/qifun/stateless-future)/853 | Asynchronous programming in fully featured Scala syntax. |
-| 176 | 68 | 11 | a month ago | [spark-kafka-writer](https://github.com/BenFradet/spark-kafka-writer)/854 | Write your Spark data to Kafka seamlessly |
-| 176 | 21 | 13 | 1 year, 6 months ago | [parseback](https://github.com/djspiewak/parseback)/855 | A Scala implementation of parsing with derivatives |
+| 177 | 24 | 2 | Unknown | [stateless-future](https://github.com/qifun/stateless-future)/853 | Asynchronous programming in fully featured Scala syntax. |
+| 176 | 68 | 11 | Unknown | [spark-kafka-writer](https://github.com/BenFradet/spark-kafka-writer)/854 | Write your Spark data to Kafka seamlessly |
+| 176 | 21 | 13 | Unknown | [parseback](https://github.com/djspiewak/parseback)/855 | A Scala implementation of parsing with derivatives |
 | 176 | 10 | 10 | 7 years ago | [adept](https://github.com/adept-dm/adept)/856 | Adept - the predictable dependency management system  |
 | 176 | 106 | 18 | a month ago | [slack-scala-client](https://github.com/slack-scala-client/slack-scala-client)/857 | A scala library for interacting with the slack api and real time messaging interface |
 | 175 | 23 | 24 | 5 months ago | [hammock](https://github.com/pepegar/hammock)/858 | Purely functional HTTP client |
 | 175 | 113 | 93 | a month ago | [azure-cosmosdb-spark](https://github.com/Azure/azure-cosmosdb-spark)/859 | Apache Spark Connector for Azure Cosmos DB |
 | 175 | 70 | 2 | 2 years ago | [spark-scala-maven-2.4.0](https://github.com/opensourceteams/spark-scala-maven-2.4.0)/860 | Spark2.4.0 学习笔记分享 |
-| 175 | 45 | 4 | 8 months ago | [scrypto](https://github.com/input-output-hk/scrypto)/861 | Cryptographic primitives for Scala |
-| 175 | 56 | 35 | 7 months ago | [creative-scala](https://github.com/creativescala/creative-scala)/862 | Quick, graphical, fun introduction to programming in Scala. |
-| 174 | 34 | 0 | 1 year, 9 months ago | [s4](https://github.com/jacobus/s4)/863 | Spray Slick Starter Stack |
+| 175 | 45 | 4 | Unknown | [scrypto](https://github.com/input-output-hk/scrypto)/861 | Cryptographic primitives for Scala |
+| 175 | 56 | 35 | Unknown | [creative-scala](https://github.com/creativescala/creative-scala)/862 | Quick, graphical, fun introduction to programming in Scala. |
+| 174 | 34 | 0 | Unknown | [s4](https://github.com/jacobus/s4)/863 | Spray Slick Starter Stack |
 | 174 | 22 | 8 | 3 years ago | [swave](https://github.com/sirthias/swave)/864 | A lightweight Reactive Streams Infrastructure Toolkit for Scala. |
 | 174 | 36 | 5 | a month ago | [minitest](https://github.com/monix/minitest)/865 | The super light testing library for Scala and Scala.js |
 | 174 | 67 | 9 | 1 year, 11 months ago | [Spark-2.3.1](https://github.com/CrestOfWave/Spark-2.3.1)/866 | Spark-2.3.1源码解读 |
 | 174 | 87 | 5 | 6 years ago | [reactivemongo-demo-app](https://github.com/sgodbillon/reactivemongo-demo-app)/867 | Full web application built upon Play 2.0 and ReactiveMongo |
 | 174 | 7 | 3 | 5 years ago | [effectful](https://github.com/pelotom/effectful)/868 | A syntax for type-safe effectful computations in Scala |
 | 174 | 21 | 20 | 1 year, 11 months ago | [iota](https://github.com/frees-io/iota)/869 | Fast [co]product types with a clean syntax. For Cats & Scalaz. |
-| 174 | 15 | 1 | 7 years ago | [scala-workflow](https://github.com/aztek/scala-workflow)/870 | Boilerplate-free syntax for computations with effects |
-| 174 | 8 | 9 | 4 years ago | [thyme](https://github.com/Ichoran/thyme)/871 | Thyme is a microbenchmark utility for Scala.  It includes Parsley, a (simple) local profiling tool. |
-| 173 | 52 | 35 | 5 months ago | [mbknor-jackson-jsonSchema](https://github.com/mbknor/mbknor-jackson-jsonSchema)/872 | Generate JSON Schema with Polymorphism using Jackson annotations |
-| 173 | 15 | 8 | 2 days ago | [scala-server-toolkit](https://github.com/avast/scala-server-toolkit)/873 | Functional programming toolkit for building server applications in Scala. |
+| 174 | 15 | 1 | Unknown | [scala-workflow](https://github.com/aztek/scala-workflow)/870 | Boilerplate-free syntax for computations with effects |
+| 174 | 8 | 9 | Unknown | [thyme](https://github.com/Ichoran/thyme)/871 | Thyme is a microbenchmark utility for Scala.  It includes Parsley, a (simple) local profiling tool. |
+| 173 | 52 | 35 | Unknown | [mbknor-jackson-jsonSchema](https://github.com/mbknor/mbknor-jackson-jsonSchema)/872 | Generate JSON Schema with Polymorphism using Jackson annotations |
+| 173 | 15 | 8 | Unknown | [scala-server-toolkit](https://github.com/avast/scala-server-toolkit)/873 | Functional programming toolkit for building server applications in Scala. |
 | 173 | 72 | 32 | 3 months ago | [akka-stream-contrib](https://github.com/akka/akka-stream-contrib)/874 | Add-ons to Akka Stream |
-| 173 | 149 | 5 | 1 year, 2 months ago | [play-silhouette-seed](https://github.com/mohiva/play-silhouette-seed)/875 | The Silhouette Seed project is an Activator template which shows how Silhouette can be implemented in a Play Framework application. |
+| 173 | 149 | 5 | Unknown | [play-silhouette-seed](https://github.com/mohiva/play-silhouette-seed)/875 | The Silhouette Seed project is an Activator template which shows how Silhouette can be implemented in a Play Framework application. |
 | 172 | 69 | 4 | 2 years ago | [Spark-Structured-Streaming-Examples](https://github.com/polomarcus/Spark-Structured-Streaming-Examples)/876 | Spark Structured Streaming / Kafka / Cassandra / Elastic  |
 | 172 | 15 | 14 | 4 months ago | [shims](https://github.com/djspiewak/shims)/877 | Seamless interop layer between cats and scalaz |
 | 171 | 78 | 28 | 2 years ago | [zen](https://github.com/cloudml/zen)/878 | Zen aims to provide the largest scale and the most efficient machine learning platform on top of Spark, including but not limited to logistic regression, latent dirichilet allocation, factorization machines and DNN. |
 | 171 | 12 | 0 | 4 years ago | [sentinel](https://github.com/gideondk/sentinel)/879 | Boilerplate for creating reactive TCP clients / servers on Akka Streams |
 | 171 | 46 | 27 | 2 years ago | [jamr](https://github.com/jflanigan/jamr)/880 | JAMR Parser and Generator |
 | 171 | 48 | 38 | 16 days ago | [glow](https://github.com/projectglow/glow)/881 | An open-source toolkit for large-scale genomic analysis |
-| 170 | 27 | 2 | 1 year, 4 months ago | [Spark-The-Definitive-Guide-Chinese-Traslation-2019](https://github.com/AlanTur1ng/Spark-The-Definitive-Guide-Chinese-Traslation-2019)/882 | Spark权威指南( Spark The Definitive Guide) -中文版翻译项目 |
+| 170 | 27 | 2 | Unknown | [Spark-The-Definitive-Guide-Chinese-Traslation-2019](https://github.com/AlanTur1ng/Spark-The-Definitive-Guide-Chinese-Traslation-2019)/882 | Spark权威指南( Spark The Definitive Guide) -中文版翻译项目 |
 | 170 | 53 | 8 | 1 year, 8 months ago | [crossdata](https://github.com/Stratio/crossdata)/883 | DISCONTINUED - Easy access to big things. Library for Apache Spark extending and improving its capabilities |
-| 169 | 108 | 0 | 3 years ago | [scala-js-example-app](https://github.com/sjrd/scala-js-example-app)/884 | Example application built with Scala.js |
+| 169 | 108 | 0 | Unknown | [scala-js-example-app](https://github.com/sjrd/scala-js-example-app)/884 | Example application built with Scala.js |
 | 169 | 11 | 1 | 6 years ago | [sauron](https://github.com/pathikrit/sauron)/885 | Yet another Scala lens macro |
 | 169 | 38 | 12 | 9 years ago | [anti-xml](https://github.com/djspiewak/anti-xml)/886 | The scala.xml library has some very annoying issues.  Time for a clean-room replacement! |
-| 169 | 71 | 1 | 1 year, 7 months ago | [zio-workshop](https://github.com/jdegoes/zio-workshop)/887 | Real World Functional Programming with ZIO |
-| 169 | 33 | 24 | 1 year, 5 months ago | [dana](https://github.com/bu-icsg/dana)/888 | Dynamically Allocated Neural Network Accelerator for the RISC-V Rocket Microprocessor in Chisel |
+| 169 | 71 | 1 | Unknown | [zio-workshop](https://github.com/jdegoes/zio-workshop)/887 | Real World Functional Programming with ZIO |
+| 169 | 33 | 24 | Unknown | [dana](https://github.com/bu-icsg/dana)/888 | Dynamically Allocated Neural Network Accelerator for the RISC-V Rocket Microprocessor in Chisel |
 | 168 | 30 | 16 | 1 year, 9 months ago | [sbt-docker-compose](https://github.com/Tapad/sbt-docker-compose)/889 | Integrates Docker Compose functionality into sbt |
 | 168 | 223 | 0 | 17 days ago | [gatling-maven-plugin-demo](https://github.com/gatling/gatling-maven-plugin-demo)/890 | Showcase of the Gatling Plugin for Maven |
-| 168 | 9 | 2 | 5 years ago | [bond](https://github.com/fwbrasil/bond)/891 | Type-level validation for Scala |
-| 168 | 18 | 13 | a day ago | [nyaya](https://github.com/japgolly/nyaya)/892 | Random Data Generation and/or Property Testing in Scala & Scala.JS. |
+| 168 | 9 | 2 | Unknown | [bond](https://github.com/fwbrasil/bond)/891 | Type-level validation for Scala |
+| 168 | 18 | 13 | 2 days ago | [nyaya](https://github.com/japgolly/nyaya)/892 | Random Data Generation and/or Property Testing in Scala & Scala.JS. |
 | 168 | 24 | 9 | 2 months ago | [random-data-generator](https://github.com/DanielaSfregola/random-data-generator)/893 | Random generator of test data in Scala based on Scalacheck and Shapeless |
-| 168 | 104 | 1 | 4 years ago | [SparkDemo](https://github.com/baifendian/SparkDemo)/894 | spark example code, has some production practice. |
+| 168 | 104 | 1 | Unknown | [SparkDemo](https://github.com/baifendian/SparkDemo)/894 | spark example code, has some production practice. |
 | 168 | 57 | 7 | 6 months ago | [News_recommend](https://github.com/luochana/News_recommend)/895 | 基于Spark的新闻推荐系统，包含爬虫项目、web网站以及spark推荐系统 |
 | 168 | 70 | 10 | 3 years ago | [scalajs-react-components](https://github.com/chandu0101/scalajs-react-components)/896 | Reusable scalajs-react components |
 | 168 | 42 | 26 | a month ago | [gemmini](https://github.com/ucb-bar/gemmini)/897 | Berkeley's Systolic Array Generator |
@@ -911,7 +911,7 @@
 | 165 | 30 | 11 | 3 years ago | [PureCSV](https://github.com/melrief/PureCSV)/908 | A type-safe and boilerplate-free CSV library for Scala |
 | 165 | 14 | 12 | 3 months ago | [relate](https://github.com/lucidsoftware/relate)/909 | Performant database access in Scala |
 | 165 | 41 | 2 | 5 years ago | [MachineLearning](https://github.com/Xyclade/MachineLearning)/910 | Literature Study |
-| 165 | 42 | 6 | 17 hours ago | [cosine-lsh-join-spark](https://github.com/soundcloud/cosine-lsh-join-spark)/911 | Approximate Nearest Neighbors in Spark |
+| 165 | 42 | 6 | 20 hours ago | [cosine-lsh-join-spark](https://github.com/soundcloud/cosine-lsh-join-spark)/911 | Approximate Nearest Neighbors in Spark |
 | 165 | 33 | 2 | 4 years ago | [play-api-rest-seed](https://github.com/adrianhurt/play-api-rest-seed)/912 | This Play 2.5 template tries to be a skeleton for a simple Json API REST. Please, check the readme file for more details. |
 | 165 | 50 | 12 | 11 days ago | [sbt-header](https://github.com/sbt/sbt-header)/913 | sbt-header is an sbt plugin for creating file headers, e.g. copyright headers |
 | 165 | 29 | 3 | 9 months ago | [sangria-subscriptions-example](https://github.com/sangria-graphql/sangria-subscriptions-example)/914 | An example of GraphQL akka-http server with stream-based subscriptions |
@@ -937,15 +937,15 @@
 | 161 | 19 | 5 | 3 years ago | [innkeeper](https://github.com/zalando/innkeeper)/934 | Simple route management API for Skipper |
 | 161 | 74 | 22 | 1 year, 6 months ago | [play2-memcached](https://github.com/mumoshu/play2-memcached)/935 | A memcached plugin for Play 2.x |
 | 161 | 28 | 5 | a month ago | [fs2-grpc](https://github.com/typelevel/fs2-grpc)/936 | gRPC implementation for FS2/cats-effect |
-| 161 | 39 | 11 | a month ago | [spoiwo](https://github.com/norbert-radyk/spoiwo)/937 | Scala POI Wrapper for the spreadsheet generation in Excel: |
-| 161 | 19 | 11 | 10 days ago | [sup](https://github.com/kubukoz/sup)/938 | Composable, purely functional healthchecks in Scala. |
+| 161 | 19 | 11 | 10 days ago | [sup](https://github.com/kubukoz/sup)/937 | Composable, purely functional healthchecks in Scala. |
+| 161 | 39 | 11 | a month ago | [spoiwo](https://github.com/norbert-radyk/spoiwo)/938 | Scala POI Wrapper for the spreadsheet generation in Excel: |
 | 161 | 19 | 20 | 1 year, 5 months ago | [schemaz](https://github.com/spartanz/schemaz)/939 | A purely-functional library for defining type-safe schemas for algebraic data types, providing free generators, SQL queries, JSON codecs, binary codecs, and migration from this schema definition |
 | 160 | 63 | 12 | 4 years ago | [squant](https://github.com/eryk/squant)/940 | SQuant是使用scala语言编写的量化开发工具箱，提供开箱即用的A股股票数据和外汇数据（docker镜像），以及高效的回测框架与交易模块。方便Java/Scala爱好者进行量化投资研究。 QQ群：281599099，微信公众号：Python量化交易实战。对，我已经转python了。。。 |
 | 160 | 28 | 8 | 10 years ago | [configgy](https://github.com/robey/configgy)/941 | simple config and logging setup for scala |
 | 159 | 73 | 16 | 7 years ago | [slick-examples](https://github.com/slick/slick-examples)/942 | A sample project for getting started with Slick |
 | 159 | 13 | 19 | 2 years ago | [scala-records](https://github.com/scala-records/scala-records)/943 | Labeled records for Scala based on structural refinement types and macros. |
-| 159 | 19 | 7 | 3 months ago | [tapl-scala](https://github.com/ilya-klyuchnikov/tapl-scala)/944 | Code from the book "Types and Programming Languages" in Scala |
-| 159 | 22 | 2 | 3 years ago | [scage](https://github.com/dunnololda/scage)/945 | game engine written in Scala |
+| 159 | 22 | 2 | 3 years ago | [scage](https://github.com/dunnololda/scage)/944 | game engine written in Scala |
+| 159 | 19 | 7 | 3 months ago | [tapl-scala](https://github.com/ilya-klyuchnikov/tapl-scala)/945 | Code from the book "Types and Programming Languages" in Scala |
 | 159 | 21 | 0 | 7 years ago | [SprayLearning](https://github.com/karthik20522/SprayLearning)/946 | Learning |
 | 158 | 28 | 2 | a day ago | [paiges](https://github.com/typelevel/paiges)/947 | an implementation of Wadler's a prettier printer |
 | 158 | 110 | 7 | 4 months ago | [hbase-connectors](https://github.com/apache/hbase-connectors)/948 | Apache HBase Connectors |
@@ -966,7 +966,7 @@
 | 155 | 35 | 1 | 2 years ago | [play-scala-isolated-slick-example](https://github.com/playframework/play-scala-isolated-slick-example)/963 | Example Play Slick Project |
 | 155 | 8 | 5 | 25 days ago | [kaleidoscope](https://github.com/propensive/kaleidoscope)/964 | Statically-checked inline matching on regular expressions |
 | 155 | 59 | 3 | 4 years ago | [MLI](https://github.com/amplab/MLI)/965 | An API for Distributed Machine Learning |
-| 155 | 2 | 22 | a day ago | [scala-graal](https://github.com/japgolly/scala-graal)/966 | Make usage of Graal features easy and safe from Scala. Also features Scala-based React SSR. |
+| 155 | 2 | 22 | 2 days ago | [scala-graal](https://github.com/japgolly/scala-graal)/966 | Make usage of Graal features easy and safe from Scala. Also features Scala-based React SSR. |
 | 154 | 21 | 15 | 5 years ago | [hammersmith](https://github.com/bwmcadams/hammersmith)/967 | Pure asynchronous MongoDB Driver for Scala. |
 | 154 | 60 | 76 | 10 days ago | [scaladex](https://github.com/scalacenter/scaladex)/968 | The Scala Package Index |
 | 154 | 12 | 7 | a month ago | [sbt-native-image](https://github.com/scalameta/sbt-native-image)/969 | Plugin to generate native-image binaries with sbt |
@@ -991,10 +991,10 @@
 | 150 | 53 | 34 | 2 years ago | [spark-bigquery](https://github.com/spotify/spark-bigquery)/988 | Google BigQuery support for Spark, SQL, and DataFrames |
 | 150 | 51 | 9 | 3 months ago | [spark-binlog](https://github.com/allwefantasy/spark-binlog)/989 | A library for querying Binlog with Apache Spark structure streaming,   for Spark SQL , DataFrames and [MLSQL](https://www.mlsql.tech). |
 | 150 | 8 | 1 | 6 years ago | [Scalite](https://github.com/lihaoyi/Scalite)/990 | An experimental whitespace-delimited syntax for the Scala programming language |
-| 150 | 16 | 1 | 7 days ago | [meow-mtl](https://github.com/oleg-py/meow-mtl)/991 | Next Level MTL for Scala |
-| 150 | 92 | 7 | 9 months ago | [functional-effects](https://github.com/jdegoes/functional-effects)/992 | The exercises for the Functional Effects workshop |
+| 150 | 92 | 7 | 9 months ago | [functional-effects](https://github.com/jdegoes/functional-effects)/991 | The exercises for the Functional Effects workshop |
+| 150 | 16 | 1 | 7 days ago | [meow-mtl](https://github.com/oleg-py/meow-mtl)/992 | Next Level MTL for Scala |
 | 149 | 26 | 17 | 16 days ago | [canoe](https://github.com/augustjune/canoe)/993 | Functional Telegram Bot API for Scala  |
-| 149 | 22 | 192 | 13 hours ago | [renku](https://github.com/SwissDataScienceCenter/renku)/994 | The Renku Project provides a platform and tools for reproducible and collaborative data analysis. |
+| 149 | 22 | 192 | 15 hours ago | [renku](https://github.com/SwissDataScienceCenter/renku)/994 | The Renku Project provides a platform and tools for reproducible and collaborative data analysis. |
 | 149 | 84 | 12 | 5 years ago | [ScalaMl](https://github.com/prnicolas/ScalaMl)/995 | Project, source code and data files for 1st edition "Scala for Machine Learning" |
 | 149 | 11 | 1 | 11 days ago | [dijon](https://github.com/jvican/dijon)/996 | A Dynamically Typed Scala Json Library |
 | 149 | 37 | 2 | 5 years ago | [spark-ext](https://github.com/collectivemedia/spark-ext)/997 | Spark Extension : ML transformers, SQL aggregations, etc that are missing in Apache Spark |
