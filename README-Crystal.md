@@ -1,197 +1,197 @@
 ## This is a most popular repository list for Crystal sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 16632 | 1275 | 1345 | 2 hours ago | [crystal](https://github.com/crystal-lang/crystal)/1 | The Crystal Programming Language |
-| 5501 | 431 | 330 | 5 hours ago | [invidious](https://github.com/iv-org/invidious)/2 | Invidious is an alternative front-end to YouTube |
-| 3381 | 93 | 32 | 3 days ago | [mint](https://github.com/mint-lang/mint)/3 | :leaves: A refreshing programming language for the front-end web. |
-| 3157 | 165 | 18 | 3 months ago | [kemal](https://github.com/kemalcr/kemal)/4 | Fast, Effective, Simple Web Framework |
-| 2823 | 280 | 1 | 24 days ago | [awesome-crystal](https://github.com/veelenga/awesome-crystal)/5 | :gem: A collection of awesome Crystal libraries, tools, frameworks and software |
-| 2293 | 177 | 44 | a month ago | [amber](https://github.com/amberframework/amber)/6 | A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started with quick prototyping, less bugs, and blazing fast performance. |
-| 2097 | 133 | 91 | 2 hours ago | [lucky](https://github.com/luckyframework/lucky)/7 | A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts. |
+| 16655 | 1274 | 1342 | 8 minutes ago | [crystal](https://github.com/crystal-lang/crystal)/1 | The Crystal Programming Language |
+| 5520 | 433 | 332 | 19 hours ago | [invidious](https://github.com/iv-org/invidious)/2 | Invidious is an alternative front-end to YouTube |
+| 3388 | 93 | 32 | 6 days ago | [mint](https://github.com/mint-lang/mint)/3 | :leaves: A refreshing programming language for the front-end web. |
+| 3160 | 165 | 18 | 3 months ago | [kemal](https://github.com/kemalcr/kemal)/4 | Fast, Effective, Simple Web Framework |
+| 2824 | 280 | 1 | a month ago | [awesome-crystal](https://github.com/veelenga/awesome-crystal)/5 | :gem: A collection of awesome Crystal libraries, tools, frameworks and software |
+| 2295 | 176 | 44 | a month ago | [amber](https://github.com/amberframework/amber)/6 | A Crystal web framework that makes building applications fast, simple, and enjoyable. Get started with quick prototyping, less bugs, and blazing fast performance. |
+| 2106 | 134 | 90 | 20 hours ago | [lucky](https://github.com/luckyframework/lucky)/7 | A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts. |
 | 1094 | 23 | 11 | 1 year, 3 months ago | [lilith](https://github.com/ffwff/lilith)/8 | x86-64 os made in crystal |
-| 792 | 290 | 1 | a month ago | [List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)/9 | List of All Programming Telegram Group |
-| 778 | 60 | 41 | 4 months ago | [Mango](https://github.com/hkalexling/Mango)/10 | Mango is a self-hosted manga server and web reader |
-| 716 | 65 | 5 | a month ago | [sidekiq.cr](https://github.com/mperham/sidekiq.cr)/11 | Simple, efficient job processing for Crystal |
-| 672 | 82 | 62 | 28 days ago | [shards](https://github.com/crystal-lang/shards)/12 | Dependency manager for the Crystal language |
+| 794 | 291 | 2 | a month ago | [List-All-Programming-Telegram-Group](https://github.com/hendisantika/List-All-Programming-Telegram-Group)/9 | List of All Programming Telegram Group |
+| 784 | 61 | 41 | 4 months ago | [Mango](https://github.com/hkalexling/Mango)/10 | Mango is a self-hosted manga server and web reader |
+| 716 | 65 | 5 | 2 months ago | [sidekiq.cr](https://github.com/mperham/sidekiq.cr)/11 | Simple, efficient job processing for Crystal |
+| 674 | 82 | 62 | a month ago | [shards](https://github.com/crystal-lang/shards)/12 | Dependency manager for the Crystal language |
 | 643 | 40 | 12 | 3 years ago | [amethyst](https://github.com/amethyst-framework/amethyst)/13 | Amethyst is a Rails inspired web-framework for Crystal language |
 | 493 | 43 | 5 | 1 year, 1 month ago | [crystal-by-example](https://github.com/askn/crystal-by-example)/14 | Crystal By Example |
-| 468 | 40 | 12 | 6 days ago | [icr](https://github.com/crystal-community/icr)/15 | Interactive console for Crystal programming language |
-| 395 | 64 | 31 | 7 days ago | [crystal-pg](https://github.com/will/crystal-pg)/16 | a postgres driver for crystal |
-| 375 | 24 | 17 | 25 days ago | [ameba](https://github.com/crystal-ameba/ameba)/17 | A static code analysis tool for Crystal |
-| 352 | 58 | 4 | a day ago | [crystal-redis](https://github.com/stefanwille/crystal-redis)/18 | Full featured Redis client for Crystal |
-| 331 | 46 | 8 | 6 days ago | [jennifer.cr](https://github.com/imdrasil/jennifer.cr)/19 | Crystal ORM using ActiveRecord pattern with flexible query DSL |
-| 331 | 42 | 29 | Unknown | [crecto](https://github.com/Crecto/crecto)/20 | Database wrapper and ORM for Crystal, inspired by Ecto |
-| 309 | 30 | 34 | Unknown | [scry](https://github.com/crystal-lang-tools/scry)/21 | Scry is a code analysis server for https://crystal-lang.org |
-| 288 | 15 | 0 | 2 months ago | [crsfml](https://github.com/oprypin/crsfml)/22 | Crystal bindings to SFML multimedia/game library |
-| 285 | 29 | 4 | 16 days ago | [irs](https://github.com/cooperhammond/irs)/23 | :guitar: :notes: A music downloader that understands your metadata needs. |
-| 285 | 55 | 33 | 1 year, 14 days ago | [policr](https://github.com/Hentioe/policr)/24 | 专注于审核群成员的 Telegram 机器人 |
-| 266 | 24 | 9 | Unknown | [guardian](https://github.com/f/guardian)/25 | Guardian watches over your files and run assigned tasks. |
-| 250 | 76 | 47 | Unknown | [granite](https://github.com/amberframework/granite)/26 | ORM Model with Adapters for mysql, pg, sqlite in the Crystal Language. |
-| 249 | 29 | 21 | Unknown | [sentry](https://github.com/samueleaton/sentry)/27 | Build/Runs your crystal application, watches files, and rebuilds/restarts app on file changes |
-| 239 | 33 | 34 | Unknown | [clear](https://github.com/anykeyh/clear)/28 | Advanced ORM between postgreSQL and Crystal |
-| 238 | 9 | 0 | 1 year, 6 months ago | [crystal-patterns](https://github.com/crystal-community/crystal-patterns)/29 | :book: Examples of GOF patterns written in Crystal |
-| 232 | 16 | 7 | Unknown | [router.cr](https://github.com/tbrand/router.cr)/30 | Minimum High Performance Middleware for Crystal Web Server. |
+| 469 | 40 | 12 | 13 days ago | [icr](https://github.com/crystal-community/icr)/15 | Interactive console for Crystal programming language |
+| 395 | 64 | 31 | 14 days ago | [crystal-pg](https://github.com/will/crystal-pg)/16 | a postgres driver for crystal |
+| 376 | 24 | 17 | a month ago | [ameba](https://github.com/crystal-ameba/ameba)/17 | A static code analysis tool for Crystal |
+| 354 | 58 | 4 | 8 days ago | [crystal-redis](https://github.com/stefanwille/crystal-redis)/18 | Full featured Redis client for Crystal |
+| 331 | 46 | 8 | 2 days ago | [jennifer.cr](https://github.com/imdrasil/jennifer.cr)/19 | Crystal ORM using ActiveRecord pattern with flexible query DSL |
+| 331 | 42 | 29 | a month ago | [crecto](https://github.com/Crecto/crecto)/20 | Database wrapper and ORM for Crystal, inspired by Ecto |
+| 309 | 30 | 34 | 4 months ago | [scry](https://github.com/crystal-lang-tools/scry)/21 | Scry is a code analysis server for https://crystal-lang.org |
+| 289 | 14 | 0 | 3 months ago | [crsfml](https://github.com/oprypin/crsfml)/22 | Crystal bindings to SFML multimedia/game library |
+| 285 | 54 | 33 | 1 year, 21 days ago | [policr](https://github.com/Hentioe/policr)/23 | 专注于审核群成员的 Telegram 机器人 |
+| 284 | 29 | 3 | 23 days ago | [irs](https://github.com/cooperhammond/irs)/24 | :guitar: :notes: A music downloader that understands your metadata needs. |
+| 266 | 24 | 9 | 2 months ago | [guardian](https://github.com/f/guardian)/25 | Guardian watches over your files and run assigned tasks. |
+| 250 | 76 | 47 | a month ago | [granite](https://github.com/amberframework/granite)/26 | ORM Model with Adapters for mysql, pg, sqlite in the Crystal Language. |
+| 249 | 29 | 21 | 29 days ago | [sentry](https://github.com/samueleaton/sentry)/27 | Build/Runs your crystal application, watches files, and rebuilds/restarts app on file changes |
+| 239 | 33 | 36 | 4 months ago | [clear](https://github.com/anykeyh/clear)/28 | Advanced ORM between postgreSQL and Crystal |
+| 238 | 9 | 0 | 1 year, 7 months ago | [crystal-patterns](https://github.com/crystal-community/crystal-patterns)/29 | :book: Examples of GOF patterns written in Crystal |
+| 232 | 16 | 7 | 3 months ago | [router.cr](https://github.com/tbrand/router.cr)/30 | Minimum High Performance Middleware for Crystal Web Server. |
 | 223 | 41 | 32 | a month ago | [crystal-db](https://github.com/crystal-lang/crystal-db)/31 | Common db api for crystal |
 | 212 | 7 | 13 | 7 months ago | [celestite](https://github.com/noahlh/celestite)/32 | Beautifully reactive, server-side rendered Svelte apps w/ a Crystal backend |
-| 211 | 17 | 9 | Unknown | [graphql-crystal](https://github.com/ziprandom/graphql-crystal)/33 | a graphql implementation for crystal |
-| 207 | 28 | 12 | Unknown | [slang](https://github.com/jeromegn/slang)/34 | Slim-inspired templating language for Crystal |
-| 197 | 8 | 4 | Unknown | [hoop](https://github.com/0x73/hoop)/35 | Building native OSX apps. |
-| 190 | 16 | 15 | Unknown | [active_record.cr](https://github.com/waterlink/active_record.cr)/36 | Active Record pattern implementation for Crystal. |
-| 188 | 21 | 14 | 11 days ago | [qt5.cr](https://github.com/Papierkorb/qt5.cr)/37 | Qt5 bindings for Crystal, based on Bindgen |
-| 187 | 8 | 14 | Unknown | [charly](https://github.com/charly-lang/charly)/38 | 🐈 The Charly Programming Language | Written by @KCreate |
-| 187 | 19 | 21 | a month ago | [Axentro](https://github.com/Axentro/Axentro)/39 | To be the go to platform for building dApps quickly and cheaply for business and gaming |
-| 184 | 10 | 4 | Unknown | [immutable](https://github.com/lucaong/immutable)/40 | Thread-safe, persistent, immutable collections for the Crystal language |
-| 184 | 10 | 2 | Unknown | [crest](https://github.com/mamantoha/crest)/41 | HTTP and REST client for Crystal |
-| 181 | 4 | 5 | Unknown | [crystalline](https://github.com/elbywan/crystalline)/42 | A Language Server Protocol implementation for Crystal. 🔮 |
-| 180 | 6 | 3 | Unknown | [neph](https://github.com/tbrand/neph)/43 |  A modern command line job processor, similar with make command |
-| 177 | 14 | 9 | Unknown | [cadmium](https://github.com/cadmiumcr/cadmium)/44 | Natural Language Processing (NLP) library for Crystal |
-| 177 | 17 | 0 | Unknown | [kemalyst](https://github.com/kemalyst/kemalyst)/45 | A rails like framework based on kemal |
-| 175 | 21 | 2 | Unknown | [jwt](https://github.com/crystal-community/jwt)/46 | JWT implementation in Crystal |
-| 175 | 7 | 10 | Unknown | [raze](https://github.com/samueleaton/raze)/47 | Modular, light web framework for Crystal |
-| 169 | 9 | 1 | Unknown | [kamber](https://github.com/f/kamber)/48 | Static site server (basically blogs) with Crystal Language |
-| 168 | 15 | 5 | Unknown | [libui.cr](https://github.com/Fusion/libui.cr)/49 | Crystal-lang bindings for libui |
-| 166 | 11 | 0 | Unknown | [grip](https://github.com/grip-framework/grip)/50 | The microframework for writing powerful web applications. |
-| 165 | 12 | 22 | Unknown | [read-rust](https://github.com/wezm/read-rust)/51 | Read Rust allows you to keep up with articles about the Rust programming language. |
-| 157 | 11 | 2 | Unknown | [halite](https://github.com/icyleaf/halite)/52 | 💎HTTP Requests Client with a chainable REST API, built-in sessions and middlewares. |
-| 153 | 13 | 8 | a month ago | [mosquito](https://github.com/mosquito-cr/mosquito)/53 | A generic background task runner for crystal applications supporting periodic (CRON) and manually queued jobs |
-| 149 | 20 | 6 | 1 year, 23 days ago | [shainet](https://github.com/NeuraLegion/shainet)/54 | SHAInet - a pure Crystal machine learning library |
-| 149 | 19 | 26 | Unknown | [bindgen](https://github.com/Papierkorb/bindgen)/55 | Binding and wrapper generator for C/C++ libraries |
-| 147 | 10 | 0 | Unknown | [fast-http-server](https://github.com/sdogruyol/fast-http-server)/56 | Super fast, zero configuration command line HTTP Server. |
-| 147 | 9 | 1 | Unknown | [myhtml](https://github.com/kostya/myhtml)/57 | Fast HTML5 Parser with css selectors for Crystal language |
-| 146 | 7 | 2 | 6 months ago | [fast-crystal](https://github.com/icyleaf/fast-crystal)/58 | 💨 Writing Fast Crystal 😍 -- Collect Common Crystal idioms.  |
-| 145 | 16 | 4 | Unknown | [baked_file_system](https://github.com/schovi/baked_file_system)/59 | Virtual File System for Crystal language. Embedding your assets into final binary. |
-| 145 | 10 | 10 | Unknown | [oq](https://github.com/Blacksmoke16/oq)/60 | A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using jq filters to transform the data. |
-| 144 | 6 | 0 | Unknown | [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle)/61 | A Rails esque web framework with a focus on speed and extensibility for crystal lang |
+| 211 | 17 | 9 | 1 year, 3 months ago | [graphql-crystal](https://github.com/ziprandom/graphql-crystal)/33 | a graphql implementation for crystal |
+| 207 | 28 | 12 | 2 months ago | [slang](https://github.com/jeromegn/slang)/34 | Slim-inspired templating language for Crystal |
+| 197 | 8 | 4 | 3 years ago | [hoop](https://github.com/0x73/hoop)/35 | Building native OSX apps. |
+| 190 | 16 | 15 | 4 years ago | [active_record.cr](https://github.com/waterlink/active_record.cr)/36 | Active Record pattern implementation for Crystal. |
+| 188 | 21 | 14 | 18 days ago | [qt5.cr](https://github.com/Papierkorb/qt5.cr)/37 | Qt5 bindings for Crystal, based on Bindgen |
+| 187 | 8 | 14 | 1 year, 4 months ago | [charly](https://github.com/charly-lang/charly)/38 | 🐈 The Charly Programming Language | Written by @KCreate |
+| 187 | 19 | 21 | 2 months ago | [Axentro](https://github.com/Axentro/Axentro)/39 | To be the go to platform for building dApps quickly and cheaply for business and gaming |
+| 184 | 10 | 4 | 2 months ago | [immutable](https://github.com/lucaong/immutable)/40 | Thread-safe, persistent, immutable collections for the Crystal language |
+| 184 | 10 | 1 | an hour ago | [crest](https://github.com/mamantoha/crest)/41 | HTTP and REST client for Crystal |
+| 182 | 4 | 5 | 8 days ago | [crystalline](https://github.com/elbywan/crystalline)/42 | A Language Server Protocol implementation for Crystal. 🔮 |
+| 180 | 6 | 3 | 1 year, 5 months ago | [neph](https://github.com/tbrand/neph)/43 |  A modern command line job processor, similar with make command |
+| 177 | 14 | 9 | 1 year, 4 months ago | [cadmium](https://github.com/cadmiumcr/cadmium)/44 | Natural Language Processing (NLP) library for Crystal |
+| 177 | 17 | 0 | 3 years ago | [kemalyst](https://github.com/kemalyst/kemalyst)/45 | A rails like framework based on kemal |
+| 175 | 21 | 2 | a month ago | [jwt](https://github.com/crystal-community/jwt)/46 | JWT implementation in Crystal |
+| 175 | 7 | 10 | 7 months ago | [raze](https://github.com/samueleaton/raze)/47 | Modular, light web framework for Crystal |
+| 169 | 9 | 1 | 4 years ago | [kamber](https://github.com/f/kamber)/48 | Static site server (basically blogs) with Crystal Language |
+| 168 | 15 | 5 | 1 year, 3 months ago | [libui.cr](https://github.com/Fusion/libui.cr)/49 | Crystal-lang bindings for libui |
+| 167 | 11 | 0 | 17 days ago | [grip](https://github.com/grip-framework/grip)/50 | The microframework for writing powerful web applications. |
+| 166 | 12 | 22 | 6 months ago | [read-rust](https://github.com/wezm/read-rust)/51 | Read Rust allows you to keep up with articles about the Rust programming language. |
+| 158 | 11 | 2 | 4 months ago | [halite](https://github.com/icyleaf/halite)/52 | 💎HTTP Requests Client with a chainable REST API, built-in sessions and middlewares. |
+| 153 | 13 | 8 | 2 months ago | [mosquito](https://github.com/mosquito-cr/mosquito)/53 | A generic background task runner for crystal applications supporting periodic (CRON) and manually queued jobs |
+| 149 | 20 | 6 | 1 year, 29 days ago | [shainet](https://github.com/NeuraLegion/shainet)/54 | SHAInet - a pure Crystal machine learning library |
+| 149 | 19 | 26 | 4 months ago | [bindgen](https://github.com/Papierkorb/bindgen)/55 | Binding and wrapper generator for C/C++ libraries |
+| 149 | 9 | 1 | 2 hours ago | [myhtml](https://github.com/kostya/myhtml)/56 | Fast HTML5 Parser with css selectors for Crystal language |
+| 147 | 16 | 4 | 4 months ago | [baked_file_system](https://github.com/schovi/baked_file_system)/57 | Virtual File System for Crystal language. Embedding your assets into final binary. |
+| 147 | 10 | 0 | 4 months ago | [fast-http-server](https://github.com/sdogruyol/fast-http-server)/58 | Super fast, zero configuration command line HTTP Server. |
+| 146 | 10 | 10 | 2 days ago | [oq](https://github.com/Blacksmoke16/oq)/59 | A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using jq filters to transform the data. |
+| 146 | 7 | 2 | 7 months ago | [fast-crystal](https://github.com/icyleaf/fast-crystal)/60 | 💨 Writing Fast Crystal 😍 -- Collect Common Crystal idioms.  |
+| 144 | 6 | 0 | 2 months ago | [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle)/61 | A Rails esque web framework with a focus on speed and extensibility for crystal lang |
 | 142 | 17 | 14 | 11 months ago | [prax.cr](https://github.com/ysbaddaden/prax.cr)/62 | Rack proxy server for development (Crystal port) |
-| 142 | 46 | 28 | 1 year, 2 months ago | [discordcr](https://github.com/discordcr/discordcr)/63 | Minimalist Discord library for Crystal. (Still WIP, but usable) |
-| 140 | 13 | 2 | Unknown | [kilt](https://github.com/jeromegn/kilt)/64 | Generic template interface for Crystal |
-| 138 | 12 | 7 | Unknown | [http](https://github.com/onyxframework/http)/65 | An opinionated framework for scalable web 🌎 |
+| 142 | 45 | 28 | 1 year, 2 months ago | [discordcr](https://github.com/discordcr/discordcr)/63 | Minimalist Discord library for Crystal. (Still WIP, but usable) |
+| 140 | 13 | 2 | 4 months ago | [kilt](https://github.com/jeromegn/kilt)/64 | Generic template interface for Crystal |
+| 138 | 12 | 7 | 1 year, 11 months ago | [http](https://github.com/onyxframework/http)/65 | An opinionated framework for scalable web 🌎 |
 | 137 | 10 | 4 | 4 years ago | [card_game](https://github.com/jasonl99/card_game)/66 | An demo app for lattice-core |
-| 133 | 14 | 1 | Unknown | [faker](https://github.com/askn/faker)/67 | Faker is a Crystal library that generates fake data for you |
-| 133 | 9 | 1 | 2 months ago | [marionette](https://github.com/watzon/marionette)/68 | Selenium alternative for Crystal. Browser manipulation without the Java overhead. |
-| 133 | 25 | 2 | 2 months ago | [micrate](https://github.com/amberframework/micrate)/69 | Database migration tool written in Crystal |
-| 132 | 26 | 4 | Unknown | [amqproxy](https://github.com/cloudamqp/amqproxy)/70 | An intelligent AMQP proxy, with connection and channel pooling/reusing |
-| 131 | 13 | 0 | 4 months ago | [minitest.cr](https://github.com/ysbaddaden/minitest.cr)/71 | Test Unit for the Crystal programming language |
+| 133 | 14 | 1 | 3 months ago | [faker](https://github.com/askn/faker)/67 | Faker is a Crystal library that generates fake data for you |
+| 133 | 9 | 2 | 3 months ago | [marionette](https://github.com/watzon/marionette)/68 | Selenium alternative for Crystal. Browser manipulation without the Java overhead. |
+| 133 | 25 | 2 | 3 months ago | [micrate](https://github.com/amberframework/micrate)/69 | Database migration tool written in Crystal |
+| 133 | 26 | 4 | a month ago | [amqproxy](https://github.com/cloudamqp/amqproxy)/70 | An intelligent AMQP proxy, with connection and channel pooling/reusing |
+| 132 | 13 | 0 | 4 months ago | [minitest.cr](https://github.com/ysbaddaden/minitest.cr)/71 | Test Unit for the Crystal programming language |
 | 131 | 25 | 22 | 3 months ago | [crystal_lib](https://github.com/crystal-lang/crystal_lib)/72 | Automatic binding generator for native libraries in Crystal |
 | 125 | 10 | 0 | 2 years ago | [progress](https://github.com/askn/progress)/73 | [==..] Progress bar for Crystal Programming Language |
-| 123 | 16 | 3 | 17 days ago | [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal)/74 | MessagePack implementation in Crystal msgpack.org[Crystal] |
-| 123 | 11 | 5 | Unknown | [Moonshine](https://github.com/dhruvrajvanshi/Moonshine)/75 | Web framework for Crystal language [DEPRECATED in favour of kemal] |
-| 123 | 7 | 3 | 11 days ago | [athena](https://github.com/athena-framework/athena)/76 | A web framework comprised of reusable, independent components |
-| 122 | 6 | 2 | Unknown | [Crystagiri](https://github.com/madeindjs/Crystagiri)/77 | An Html parser library for Crystal (like Nokogiri for Ruby) |
-| 120 | 14 | 2 | 13 days ago | [admiral.cr](https://github.com/jwaldrip/admiral.cr)/78 | A robust DSL for writing command line interfaces written in Crystal. |
-| 119 | 19 | 0 | 1 year, 9 months ago | [crystalline](https://github.com/jtomschroeder/crystalline)/79 | A collection of containers & algorithms for the Crystal programming language |
-| 119 | 54 | 140 | Unknown | [avram](https://github.com/luckyframework/avram)/80 | A Crystal database wrapper for reading, writing, and migrating Postgres databases. |
-| 118 | 2 | 4 | Unknown | [nightly.link](https://github.com/oprypin/nightly.link)/81 | Downloads the latest "nightly" build/artifact from a continuous testing workflow |
-| 117 | 14 | 4 | Unknown | [cryload](https://github.com/sdogruyol/cryload)/82 | HTTP benchmarking tool written in Crystal |
-| 117 | 12 | 2 | a month ago | [duktape.cr](https://github.com/jessedoyle/duktape.cr)/83 | Evaluate JavaScript from Crystal! |
-| 117 | 8 | 8 | 3 months ago | [commander](https://github.com/mrrooijen/commander)/84 | Command-line interface builder for the Crystal programming language. |
-| 116 | 4 | 15 | 1 year, 8 months ago | [hosted-danger](https://github.com/yahoojapan/hosted-danger)/85 | :zap: Danger as a Service :zap: |
-| 113 | 14 | 10 | a month ago | [crystal-gobject](https://github.com/jhass/crystal-gobject)/86 | gobject-introspection for Crystal |
-| 112 | 13 | 2 | 1 year, 1 month ago | [crul](https://github.com/porras/crul)/87 | Command line HTTP client written in Crystal |
-| 112 | 6 | 0 | 2 months ago | [toro](https://github.com/soveran/toro)/88 | Tree oriented routing |
-| 109 | 5 | 10 | Unknown | [frost](https://github.com/ysbaddaden/frost)/89 | Full Featured Web Framework for the Crystal Programming Language |
-| 108 | 14 | 15 | Unknown | [myst](https://github.com/myst-lang/myst)/90 | A structured, dynamic, general-purpose language. |
-| 108 | 5 | 4 | Unknown | [orion](https://github.com/obsidian/orion)/91 | A Crystal router |
-| 106 | 10 | 3 | a day ago | [psykube](https://github.com/psykube/psykube)/92 | A faster way to deploy to Kubernetes! |
-| 106 | 4 | 1 | Unknown | [tren](https://github.com/sdogruyol/tren)/93 | Give your SQL some love |
-| 104 | 25 | 7 | Unknown | [tourmaline](https://github.com/protoncr/tourmaline)/94 | Telegram Bot framework for Crystal |
-| 103 | 19 | 7 | Unknown | [raven.cr](https://github.com/Sija/raven.cr)/95 | Raven is a Crystal client for Sentry |
-| 102 | 10 | 2 | Unknown | [bojack](https://github.com/marceloboeira/bojack)/96 | 🐴 The unreliable key-value store |
+| 123 | 16 | 3 | 24 days ago | [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal)/74 | MessagePack implementation in Crystal msgpack.org[Crystal] |
+| 123 | 11 | 5 | 5 years ago | [Moonshine](https://github.com/dhruvrajvanshi/Moonshine)/75 | Web framework for Crystal language [DEPRECATED in favour of kemal] |
+| 123 | 7 | 3 | 18 days ago | [athena](https://github.com/athena-framework/athena)/76 | A web framework comprised of reusable, independent components |
+| 122 | 2 | 4 | 18 days ago | [nightly.link](https://github.com/oprypin/nightly.link)/77 | Downloads the latest "nightly" build/artifact from a continuous testing workflow |
+| 122 | 6 | 2 | 1 year, 10 months ago | [Crystagiri](https://github.com/madeindjs/Crystagiri)/78 | An Html parser library for Crystal (like Nokogiri for Ruby) |
+| 120 | 14 | 2 | 20 days ago | [admiral.cr](https://github.com/jwaldrip/admiral.cr)/79 | A robust DSL for writing command line interfaces written in Crystal. |
+| 119 | 19 | 0 | 1 year, 9 months ago | [crystalline](https://github.com/jtomschroeder/crystalline)/80 | A collection of containers & algorithms for the Crystal programming language |
+| 119 | 54 | 141 | 3 days ago | [avram](https://github.com/luckyframework/avram)/81 | A Crystal database wrapper for reading, writing, and migrating Postgres databases. |
+| 118 | 12 | 2 | 2 months ago | [duktape.cr](https://github.com/jessedoyle/duktape.cr)/82 | Evaluate JavaScript from Crystal! |
+| 117 | 14 | 4 | 4 months ago | [cryload](https://github.com/sdogruyol/cryload)/83 | HTTP benchmarking tool written in Crystal |
+| 117 | 4 | 15 | 1 year, 8 months ago | [hosted-danger](https://github.com/yahoojapan/hosted-danger)/84 | :zap: Danger as a Service :zap: |
+| 117 | 8 | 8 | 4 months ago | [commander](https://github.com/mrrooijen/commander)/85 | Command-line interface builder for the Crystal programming language. |
+| 113 | 14 | 10 | 2 months ago | [crystal-gobject](https://github.com/jhass/crystal-gobject)/86 | gobject-introspection for Crystal |
+| 112 | 13 | 2 | 1 year, 2 months ago | [crul](https://github.com/porras/crul)/87 | Command line HTTP client written in Crystal |
+| 112 | 6 | 0 | 3 months ago | [toro](https://github.com/soveran/toro)/88 | Tree oriented routing |
+| 109 | 5 | 10 | 5 years ago | [frost](https://github.com/ysbaddaden/frost)/89 | Full Featured Web Framework for the Crystal Programming Language |
+| 108 | 14 | 15 | 2 years ago | [myst](https://github.com/myst-lang/myst)/90 | A structured, dynamic, general-purpose language. |
+| 108 | 5 | 4 | 19 days ago | [orion](https://github.com/obsidian/orion)/91 | A Crystal router |
+| 106 | 10 | 3 | 2 days ago | [psykube](https://github.com/psykube/psykube)/92 | A faster way to deploy to Kubernetes! |
+| 106 | 4 | 1 | 4 months ago | [tren](https://github.com/sdogruyol/tren)/93 | Give your SQL some love |
+| 104 | 25 | 7 | 13 days ago | [tourmaline](https://github.com/protoncr/tourmaline)/94 | Telegram Bot framework for Crystal |
+| 103 | 19 | 7 | 4 months ago | [raven.cr](https://github.com/Sija/raven.cr)/95 | Raven is a Crystal client for Sentry |
+| 102 | 10 | 2 | 3 years ago | [bojack](https://github.com/marceloboeira/bojack)/96 | 🐴 The unreliable key-value store |
 | 102 | 7 | 0 | 3 months ago | [clim](https://github.com/at-grandpa/clim)/97 | Slim command line interface builder for Crystal. |
-| 102 | 22 | 16 | Unknown | [spec2.cr](https://github.com/waterlink/spec2.cr)/98 | Enhanced `spec` testing library for [Crystal](http://crystal-lang.org/). |
-| 101 | 9 | 9 | Unknown | [cossack](https://github.com/crystal-community/cossack)/99 | Simple and flexible HTTP client for Crystal with middleware and test support. |
-| 100 | 8 | 4 | Unknown | [cli](https://github.com/mosop/cli)/100 | Yet another Crystal library for building command-line interface applications. |
-| 99 | 36 | 26 | 1 year, 6 months ago | [mongo.cr](https://github.com/datanoise/mongo.cr)/101 | Crystal binding for MongoDB C Driver |
-| 99 | 23 | 13 | 4 months ago | [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3)/102 | SQLite3 bindings for Crystal |
+| 102 | 22 | 16 | 4 years ago | [spec2.cr](https://github.com/waterlink/spec2.cr)/98 | Enhanced `spec` testing library for [Crystal](http://crystal-lang.org/). |
+| 101 | 9 | 9 | 3 years ago | [cossack](https://github.com/crystal-community/cossack)/99 | Simple and flexible HTTP client for Crystal with middleware and test support. |
+| 100 | 8 | 4 | 3 years ago | [cli](https://github.com/mosop/cli)/100 | Yet another Crystal library for building command-line interface applications. |
+| 99 | 36 | 26 | 1 year, 7 months ago | [mongo.cr](https://github.com/datanoise/mongo.cr)/101 | Crystal binding for MongoDB C Driver |
+| 99 | 23 | 13 | 5 months ago | [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3)/102 | SQLite3 bindings for Crystal |
 | 98 | 10 | 2 | 4 years ago | [crystal_ruby](https://github.com/manastech/crystal_ruby)/103 | Write Ruby extensions in Crystal |
 | 98 | 11 | 0 | 4 months ago | [crystal-email](https://github.com/arcage/crystal-email)/104 | Simple e-mail sending library |
 | 96 | 23 | 19 | 6 months ago | [webmock.cr](https://github.com/manastech/webmock.cr)/105 | Mock HTTP::Client |
-| 95 | 8 | 21 | 19 hours ago | [savi](https://github.com/savi-lang/savi)/106 | A fast language for programmers who are passionate about their craft. |
+| 95 | 8 | 21 | 5 days ago | [savi](https://github.com/savi-lang/savi)/106 | A fast language for programmers who are passionate about their craft. |
 | 94 | 8 | 1 | 3 years ago | [rocky](https://github.com/codingphasedotcom/rocky)/107 | React Over Crystal Kemal and Yarn |
-| 94 | 8 | 5 | 16 days ago | [num.cr](https://github.com/crystal-data/num.cr)/108 | Scientific computing in pure Crystal |
+| 94 | 8 | 5 | 23 days ago | [num.cr](https://github.com/crystal-data/num.cr)/108 | Scientific computing in pure Crystal |
 | 93 | 16 | 1 | 2 months ago | [stumpy_png](https://github.com/stumpycr/stumpy_png)/109 | Read/Write PNG images in pure Crystal |
 | 93 | 20 | 3 | 2 months ago | [multi_auth](https://github.com/msa7/multi_auth)/110 | Standardized multi-provider OAuth authentication |
 | 92 | 12 | 0 | 4 months ago | [radix](https://github.com/luislavena/radix)/111 | Radix Tree implementation for Crystal |
 | 92 | 30 | 21 | 6 months ago | [crystal-mysql](https://github.com/crystal-lang/crystal-mysql)/112 | MySQL connector for Crystal |
 | 92 | 3 | 1 | 3 years ago | [bifrost](https://github.com/alternatelabs/bifrost)/113 | Simple and fast websocket server written in Crystal |
-| 91 | 4 | 3 | 1 year, 9 months ago | [earl](https://github.com/ysbaddaden/earl)/114 | Service Objects for Crystal (Agents, Artists, Supervisors, Pools, ...) |
-| 91 | 10 | 5 | 12 days ago | [crinja](https://github.com/straight-shoota/crinja)/115 | Implementation of Jinja2 template language in Crystal |
+| 91 | 4 | 3 | 1 year, 10 months ago | [earl](https://github.com/ysbaddaden/earl)/114 | Service Objects for Crystal (Agents, Artists, Supervisors, Pools, ...) |
+| 91 | 10 | 5 | 19 days ago | [crinja](https://github.com/straight-shoota/crinja)/115 | Implementation of Jinja2 template language in Crystal |
 | 90 | 6 | 29 | 1 year, 11 months ago | [sql](https://github.com/onyxframework/sql)/116 | A delightful SQL ORM ☺️ |
-| 88 | 8 | 0 | 1 year, 18 days ago | [dppm](https://github.com/DFabric/dppm)/117 | An easy way to install and manage server applications |
-| 86 | 13 | 0 | 4 months ago | [cr-dotenv](https://github.com/gdotdesign/cr-dotenv)/118 | Loads ".env" files |
-| 86 | 8 | 4 | a month ago | [cable](https://github.com/cable-cr/cable)/119 | It's like ActionCable (100% compatible with JS Client), but you know, for Crystal |
+| 89 | 8 | 0 | 1 year, 25 days ago | [dppm](https://github.com/DFabric/dppm)/117 | An easy way to install and manage server applications |
+| 88 | 8 | 4 | a month ago | [cable](https://github.com/cable-cr/cable)/118 | It's like ActionCable (100% compatible with JS Client), but you know, for Crystal |
+| 86 | 13 | 0 | 4 months ago | [cr-dotenv](https://github.com/gdotdesign/cr-dotenv)/119 | Loads ".env" files |
 | 85 | 10 | 2 | 1 year, 3 months ago | [http2](https://github.com/ysbaddaden/http2)/120 | HTTP/2 Protocol Implementation for the Crystal Language |
 | 84 | 6 | 3 | 2 years ago | [hedron](https://github.com/hedron-crystal/hedron)/121 | An extendable UI library in Crystal, with markup capabilities. |
-| 81 | 18 | 12 | 12 days ago | [protobuf.cr](https://github.com/jeromegn/protobuf.cr)/122 | Protobuf generator, encoder and decoder. |
+| 81 | 18 | 12 | 19 days ago | [protobuf.cr](https://github.com/jeromegn/protobuf.cr)/122 | Protobuf generator, encoder and decoder. |
 | 80 | 15 | 3 | 3 years ago | [twitter-crystal](https://github.com/sferik/twitter-crystal)/123 | A library to access the Twitter API using Crystal |
-| 79 | 4 | 0 | 3 months ago | [debug.cr](https://github.com/Sija/debug.cr)/124 | Debug macro for Crystal |
-| 77 | 18 | 1 | 4 months ago | [markd](https://github.com/icyleaf/markd)/125 | Yet another markdown parser, Compliant to CommonMark specification, written in Crystal. |
-| 77 | 5 | 3 | 3 years ago | [crystal-fann](https://github.com/NeuraLegion/crystal-fann)/126 | FANN (Fast Artifical Neural Network) binding in Crystal |
-| 77 | 6 | 3 | 2 months ago | [crz](https://github.com/dhruvrajvanshi/crz)/127 | Functional programming library for https://github.com/crystal-lang/crystal |
-| 77 | 7 | 8 | 7 months ago | [docker-escape-tool](https://github.com/PercussiveElbow/docker-escape-tool)/128 | Tool to test if you're in a Docker container and attempt simple breakouts |
-| 77 | 6 | 1 | 5 months ago | [fincher](https://github.com/maxfierke/fincher)/129 | A steganography tool for text |
-| 75 | 1 | 3 | 1 year, 11 months ago | [onyx](https://github.com/onyxframework/onyx)/130 | Powerful framework for modern applications 💪 |
-| 75 | 9 | 4 | 5 years ago | [frank](https://github.com/manastech/frank)/131 | A small Sinatra clone for Crystal |
-| 75 | 25 | 14 | a month ago | [sdl.cr](https://github.com/ysbaddaden/sdl.cr)/132 | SDL2 bindings for Crystal |
+| 80 | 4 | 0 | 4 months ago | [debug.cr](https://github.com/Sija/debug.cr)/124 | Debug macro for Crystal |
+| 78 | 7 | 1 | 5 months ago | [fincher](https://github.com/maxfierke/fincher)/125 | A steganography tool for text |
+| 77 | 18 | 1 | a day ago | [markd](https://github.com/icyleaf/markd)/126 | Yet another markdown parser, Compliant to CommonMark specification, written in Crystal. |
+| 77 | 5 | 3 | 3 years ago | [crystal-fann](https://github.com/NeuraLegion/crystal-fann)/127 | FANN (Fast Artifical Neural Network) binding in Crystal |
+| 77 | 6 | 3 | 2 months ago | [crz](https://github.com/dhruvrajvanshi/crz)/128 | Functional programming library for https://github.com/crystal-lang/crystal |
+| 77 | 7 | 8 | 7 months ago | [docker-escape-tool](https://github.com/PercussiveElbow/docker-escape-tool)/129 | Tool to test if you're in a Docker container and attempt simple breakouts |
+| 76 | 25 | 15 | a month ago | [sdl.cr](https://github.com/ysbaddaden/sdl.cr)/130 | SDL2 bindings for Crystal |
+| 75 | 1 | 3 | 1 year, 11 months ago | [onyx](https://github.com/onyxframework/onyx)/131 | Powerful framework for modern applications 💪 |
+| 75 | 9 | 4 | 5 years ago | [frank](https://github.com/manastech/frank)/132 | A small Sinatra clone for Crystal |
 | 74 | 2 | 16 | 6 months ago | [prism](https://github.com/da1nerd/prism)/133 | A 3D game engine written in crystal |
-| 74 | 5 | 2 | 30 days ago | [sam.cr](https://github.com/imdrasil/sam.cr)/134 | Rake-like task manager |
-| 74 | 41 | 9 | 25 days ago | [awscr-s3](https://github.com/taylorfinnell/awscr-s3)/135 | A Crystal shard for S3. |
-| 73 | 15 | 0 | 1 year, 3 months ago | [telegram_bot](https://github.com/hangyas/telegram_bot)/136 | (deprecated) see https://github.com/protoncr/tourmaline instead |
-| 73 | 10 | 3 | a month ago | [crustache](https://github.com/MakeNowJust/crustache)/137 | {{Mustache}} for Crystal :gem: |
-| 72 | 1 | 4 | 2 years ago | [Leafgem](https://github.com/tfcat/Leafgem)/138 | 🌿💎 The humble beginnings of a 2D game engine in Crystal! [in-progress] |
-| 72 | 7 | 3 | 2 years ago | [cltk](https://github.com/ziprandom/cltk)/139 | A crystal port of the Ruby Language Toolkit |
-| 72 | 6 | 0 | 3 months ago | [audible.cr](https://github.com/omarroth/audible.cr)/140 | Interface for Audible's internal API |
-| 72 | 1 | 12 | 17 days ago | [spectator](https://github.com/icy-arctic-fox/spectator)/141 | Feature-rich testing framework for Crystal based on RSpec. |
+| 74 | 5 | 2 | a month ago | [sam.cr](https://github.com/imdrasil/sam.cr)/134 | Rake-like task manager |
+| 74 | 41 | 9 | a month ago | [awscr-s3](https://github.com/taylorfinnell/awscr-s3)/135 | A Crystal shard for S3. |
+| 73 | 6 | 0 | 4 months ago | [audible.cr](https://github.com/omarroth/audible.cr)/136 | Interface for Audible's internal API |
+| 73 | 15 | 0 | 1 year, 3 months ago | [telegram_bot](https://github.com/hangyas/telegram_bot)/137 | (deprecated) see https://github.com/protoncr/tourmaline instead |
+| 73 | 10 | 3 | a month ago | [crustache](https://github.com/MakeNowJust/crustache)/138 | {{Mustache}} for Crystal :gem: |
+| 72 | 1 | 4 | 2 years ago | [Leafgem](https://github.com/tfcat/Leafgem)/139 | 🌿💎 The humble beginnings of a 2D game engine in Crystal! [in-progress] |
+| 72 | 7 | 3 | 2 years ago | [cltk](https://github.com/ziprandom/cltk)/140 | A crystal port of the Ruby Language Toolkit |
+| 72 | 1 | 12 | 24 days ago | [spectator](https://github.com/icy-arctic-fox/spectator)/141 | Feature-rich testing framework for Crystal based on RSpec. |
 | 71 | 7 | 0 | 1 year, 1 month ago | [arachnid](https://github.com/watzon/arachnid)/142 | Powerful web scraping framework for Crystal |
 | 71 | 4 | 52 | 4 years ago | [onyx-lang](https://github.com/ozra/onyx-lang)/143 | The Onyx Programming Language |
 | 70 | 8 | 3 | 2 years ago | [aws](https://github.com/sdogruyol/aws)/144 | Unofficial AWS SDK for Crystal |
-| 69 | 2 | 1 | 30 days ago | [tijolo](https://github.com/hugopl/tijolo)/145 | Simple and fast keyboard focused IDE written in Crystal and GTK. |
-| 69 | 7 | 3 | 4 years ago | [completion](https://github.com/f/completion)/146 | Easy Command Line Completion for Crystal |
-| 69 | 5 | 0 | 4 months ago | [http-protection](https://github.com/rogeriozambon/http-protection)/147 | This library protects against typical web attacks. It was inspired in rack-protection Ruby gem. |
-| 68 | 5 | 17 | a month ago | [kindmetrics](https://github.com/kindmetrics/kindmetrics)/148 | Kind metrics analytics for your website |
-| 68 | 5 | 2 | 1 year, 8 months ago | [glove](https://github.com/ddfreyne/glove)/149 | Crystal framework for making games |
-| 68 | 16 | 10 | 17 days ago | [carbon](https://github.com/luckyframework/carbon)/150 | Email library for Crystal. Testable, adapter-based, and catches bugs for you. Comes with an adapter for SendGrid. |
-| 68 | 4 | 1 | 5 months ago | [await_async](https://github.com/anykeyh/await_async)/151 | Provide await and async methods to Crystal Lang |
-| 68 | 8 | 4 | 4 months ago | [ohm-crystal](https://github.com/soveran/ohm-crystal)/152 | Ohm for Crystal |
-| 67 | 4 | 4 | 9 months ago | [schedule.cr](https://github.com/hugoabonizio/schedule.cr)/153 | :clock3: Run periodic tasks in Crystal |
-| 66 | 4 | 0 | 2 months ago | [CryBoy](https://github.com/mattrberry/CryBoy)/154 | A Game Boy (Color) emulator written in Crystal |
-| 66 | 9 | 6 | 25 days ago | [libgen](https://github.com/olbat/libgen)/155 | Automatic C-bindings generator for the Crystal language |
-| 66 | 7 | 1 | 1 year, 10 months ago | [envoy-ui](https://github.com/Nitro/envoy-ui)/156 | Dead simple server-side UI for Envoy proxy (like HAproxy stats) |
-| 66 | 3 | 1 | a month ago | [graphql](https://github.com/graphql-crystal/graphql)/157 | GraphQL server library for Crystal |
-| 66 | 10 | 5 | a day ago | [shrine.cr](https://github.com/jetrockets/shrine.cr)/158 | File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby. |
-| 65 | 4 | 0 | 2 months ago | [rethinkdb-lite](https://github.com/lbguilherme/rethinkdb-lite)/159 | A RethinkDB-compatible database written in Crystal |
-| 65 | 43 | 37 | 5 days ago | [lucky_cli](https://github.com/luckyframework/lucky_cli)/160 | A Crystal library for creating and running tasks. Also generates Lucky projects |
-| 65 | 5 | 0 | 1 year, 9 months ago | [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal)/161 | Crystal C bindings for MagickWand library |
-| 65 | 7 | 7 | 11 days ago | [habitat](https://github.com/luckyframework/habitat)/162 | Easily configure settings for Crystal projects |
+| 70 | 5 | 0 | 4 months ago | [http-protection](https://github.com/rogeriozambon/http-protection)/145 | This library protects against typical web attacks. It was inspired in rack-protection Ruby gem. |
+| 69 | 2 | 1 | 9 days ago | [tijolo](https://github.com/hugopl/tijolo)/146 | Simple and fast keyboard focused IDE written in Crystal and GTK. |
+| 69 | 9 | 4 | 4 months ago | [ohm-crystal](https://github.com/soveran/ohm-crystal)/147 | Ohm for Crystal |
+| 69 | 7 | 3 | 4 years ago | [completion](https://github.com/f/completion)/148 | Easy Command Line Completion for Crystal |
+| 68 | 6 | 18 | a month ago | [kindmetrics](https://github.com/kindmetrics/kindmetrics)/149 | Kind metrics analytics for your website |
+| 68 | 17 | 10 | 24 days ago | [carbon](https://github.com/luckyframework/carbon)/150 | Email library for Crystal. Testable, adapter-based, and catches bugs for you. Comes with an adapter for SendGrid. |
+| 68 | 5 | 2 | 3 days ago | [glove](https://github.com/ddfreyne/glove)/151 | Crystal framework for making games |
+| 68 | 4 | 1 | 5 months ago | [await_async](https://github.com/anykeyh/await_async)/152 | Provide await and async methods to Crystal Lang |
+| 67 | 3 | 1 | 2 months ago | [graphql](https://github.com/graphql-crystal/graphql)/153 | GraphQL server library for Crystal |
+| 67 | 4 | 4 | 9 months ago | [schedule.cr](https://github.com/hugoabonizio/schedule.cr)/154 | :clock3: Run periodic tasks in Crystal |
+| 66 | 4 | 0 | 2 months ago | [CryBoy](https://github.com/mattrberry/CryBoy)/155 | A Game Boy (Color) emulator written in Crystal |
+| 66 | 43 | 35 | 4 hours ago | [lucky_cli](https://github.com/luckyframework/lucky_cli)/156 | A Crystal library for creating and running tasks. Also generates Lucky projects |
+| 66 | 9 | 6 | a month ago | [libgen](https://github.com/olbat/libgen)/157 | Automatic C-bindings generator for the Crystal language |
+| 66 | 7 | 1 | 1 year, 10 months ago | [envoy-ui](https://github.com/Nitro/envoy-ui)/158 | Dead simple server-side UI for Envoy proxy (like HAproxy stats) |
+| 66 | 11 | 5 | 8 days ago | [shrine.cr](https://github.com/jetrockets/shrine.cr)/159 | File Attachment toolkit for Crystal applications. Heavily inspired by Shrine for Ruby. |
+| 65 | 4 | 0 | 2 months ago | [rethinkdb-lite](https://github.com/lbguilherme/rethinkdb-lite)/160 | A RethinkDB-compatible database written in Crystal |
+| 65 | 7 | 7 | 18 days ago | [habitat](https://github.com/luckyframework/habitat)/161 | Easily configure settings for Crystal projects |
+| 65 | 5 | 0 | 1 year, 9 months ago | [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal)/162 | Crystal C bindings for MagickWand library |
 | 65 | 4 | 0 | 4 years ago | [crystal-design-patterns](https://github.com/bthachdev/crystal-design-patterns)/163 | Design Patterns in Crystal programming language |
-| 65 | 32 | 122 | 5 days ago | [cnf-testsuite](https://github.com/cncf/cnf-testsuite)/164 | 📞📱☎️📡🌐 CNF Test Suite is a tool to check for and provide feedback on the use of K8s + cloud native best practices in networking applications and platforms. |
+| 65 | 32 | 126 | 18 hours ago | [cnf-testsuite](https://github.com/cncf/cnf-testsuite)/164 | 📞📱☎️📡🌐 CNF Test Suite is a tool to check for and provide feedback on the use of K8s + cloud native best practices in networking applications and platforms. |
 | 65 | 5 | 6 | 4 years ago | [crystal_api](https://github.com/akwiatkowski/crystal_api)/165 | Simple PostgreSQL REST API in Crystal with devise-like auth. |
-| 63 | 5 | 7 | 3 months ago | [carc.in](https://github.com/jhass/carc.in)/166 | Compile & run code in |
-| 63 | 1 | 0 | 7 days ago | [layout](https://github.com/grkek/layout)/167 | Build native apps using GTK3+ and a dialect of HTML, declarative format allows you to create advanced structures with ease. |
+| 63 | 5 | 7 | 4 months ago | [carc.in](https://github.com/jhass/carc.in)/166 | Compile & run code in |
+| 63 | 1 | 0 | 14 days ago | [layout](https://github.com/grkek/layout)/167 | Build native apps using GTK3+ and a dialect of HTML, declarative format allows you to create advanced structures with ease. |
 | 62 | 4 | 2 | 3 years ago | [parallel.cr](https://github.com/RX14/parallel.cr)/168 | Parallelism for crystal as a shard |
-| 62 | 35 | 24 | 14 days ago | [crystal](https://github.com/exercism/crystal)/169 | Exercism exercises in Crystal. |
-| 60 | 7 | 3 | 18 days ago | [fancyline](https://github.com/Papierkorb/fancyline)/170 | Readline-esque library with fancy features |
-| 60 | 9 | 1 | 3 months ago | [pool](https://github.com/ysbaddaden/pool)/171 | Generic (connection) pools for Crystal |
-| 60 | 2 | 0 | 10 months ago | [live_view](https://github.com/jgaskins/live_view)/172 | Server-rendering for client-side interactions |
+| 62 | 2 | 0 | 10 months ago | [live_view](https://github.com/jgaskins/live_view)/169 | Server-rendering for client-side interactions |
+| 62 | 35 | 24 | 21 days ago | [crystal](https://github.com/exercism/crystal)/170 | Exercism exercises in Crystal. |
+| 60 | 7 | 3 | 24 days ago | [fancyline](https://github.com/Papierkorb/fancyline)/171 | Readline-esque library with fancy features |
+| 60 | 9 | 1 | 3 months ago | [pool](https://github.com/ysbaddaden/pool)/172 | Generic (connection) pools for Crystal |
 | 60 | 12 | 2 | 2 years ago | [concourse-summary](https://github.com/dgodd/concourse-summary)/173 | None |
-| 59 | 8 | 9 | 4 years ago | [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS)/174 | An OS kernel written in Crystal. |
+| 59 | 7 | 9 | 4 years ago | [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS)/174 | An OS kernel written in Crystal. |
 | 58 | 7 | 2 | 5 years ago | [equiv](https://github.com/f/equiv)/175 | It finds equivalents of the things. |
 | 58 | 12 | 11 | 3 years ago | [amqp.cr](https://github.com/datanoise/amqp.cr)/176 | AMQP client for Crystal language |
-| 57 | 6 | 4 | 2 years ago | [cake](https://github.com/axvm/cake)/177 | Cake is a powerful and flexible Make-like utility tool. Make Tasks Great Again! |
-| 57 | 8 | 5 | 2 months ago | [hardware](https://github.com/crystal-community/hardware)/178 | Get CPU, Memory and Network informations of the running OS and its processes |
-| 56 | 4 | 3 | 3 years ago | [topaz](https://github.com/topaz-crystal/topaz)/179 | A simple and useful db wrapper for Crystal-lang |
-| 56 | 3 | 0 | 22 days ago | [simple_rpc](https://github.com/kostya/simple_rpc)/180 | RPC Server and Client for Crystal. Implements msgpack-rpc protocol. |
-| 56 | 4 | 0 | 3 years ago | [utero](https://github.com/UteroOS/utero)/181 | The Operating System (for x86_64) written in Crystal as much as possible |
-| 55 | 8 | 2 | 2 years ago | [awesome-osx](https://github.com/marceloboeira/awesome-osx)/182 | :package: Awesome stuff for OSX |
-| 55 | 6 | 2 | 2 years ago | [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api)/183 | Crystal library to create REST API with Kemal |
-| 55 | 3 | 0 | 4 years ago | [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures)/184 | Future type implementation for Crystal language |
-| 55 | 8 | 1 | 2 years ago | [crambda](https://github.com/lambci/crambda)/185 | Crystal AWS Lambda custom runtime |
-| 55 | 6 | 1 | 3 years ago | [temel](https://github.com/f/temel)/186 | Extensible Markup DSL for Crystal |
-| 55 | 7 | 0 | 20 days ago | [celestine](https://github.com/celestinecr/celestine)/187 | An SVG library written in Crystal. Can be used to make cool animations, as well as other kinds of uses. |
+| 58 | 6 | 4 | 2 years ago | [cake](https://github.com/axvm/cake)/177 | Cake is a powerful and flexible Make-like utility tool. Make Tasks Great Again! |
+| 57 | 3 | 0 | 29 days ago | [simple_rpc](https://github.com/kostya/simple_rpc)/178 | RPC Server and Client for Crystal. Implements msgpack-rpc protocol. |
+| 57 | 8 | 5 | 2 months ago | [hardware](https://github.com/crystal-community/hardware)/179 | Get CPU, Memory and Network informations of the running OS and its processes |
+| 57 | 7 | 0 | 27 days ago | [celestine](https://github.com/celestinecr/celestine)/180 | An SVG library written in Crystal. Can be used to make cool animations, as well as other kinds of uses. |
+| 56 | 4 | 3 | 3 years ago | [topaz](https://github.com/topaz-crystal/topaz)/181 | A simple and useful db wrapper for Crystal-lang |
+| 56 | 4 | 0 | 3 years ago | [utero](https://github.com/UteroOS/utero)/182 | The Operating System (for x86_64) written in Crystal as much as possible |
+| 55 | 8 | 2 | 2 years ago | [awesome-osx](https://github.com/marceloboeira/awesome-osx)/183 | :package: Awesome stuff for OSX |
+| 55 | 6 | 2 | 2 years ago | [kemal-rest-api](https://github.com/blocknotes/kemal-rest-api)/184 | Crystal library to create REST API with Kemal |
+| 55 | 3 | 0 | 4 years ago | [crystal-futures](https://github.com/dhruvrajvanshi/crystal-futures)/185 | Future type implementation for Crystal language |
+| 55 | 8 | 1 | 2 years ago | [crambda](https://github.com/lambci/crambda)/186 | Crystal AWS Lambda custom runtime |
+| 55 | 6 | 1 | 3 years ago | [temel](https://github.com/f/temel)/187 | Extensible Markup DSL for Crystal |
 | 54 | 2 | 2 | 4 years ago | [lattice-core](https://github.com/jasonl99/lattice-core)/188 | A WebSocket-first object-oriented framework for Crystal |
 | 54 | 4 | 0 | 3 months ago | [totem](https://github.com/icyleaf/totem)/189 | Crystal configuration with spirit. Load and parse configuration in JSON, YAML, dotenv formats. |
 | 54 | 2 | 3 | 4 years ago | [cannon](https://github.com/Papierkorb/cannon)/190 | Lightning fast data serialization and RPC for Crystal |
-| 54 | 4 | 2 | 1 year, 8 months ago | [praetorian](https://github.com/ilanusse/praetorian)/191 | A minimalist Crystal authorization system inspired by https://github.com/varvet/pundit. |
+| 54 | 4 | 2 | 1 year, 9 months ago | [praetorian](https://github.com/ilanusse/praetorian)/191 | A minimalist Crystal authorization system inspired by https://github.com/varvet/pundit. |
 | 54 | 12 | 9 | 1 year, 1 month ago | [selenium-webdriver-crystal](https://github.com/ysbaddaden/selenium-webdriver-crystal)/192 | Selenium Webdriver client for the Crystal programming language |
 | 54 | 6 | 1 | 4 years ago | [arguing-robots](https://github.com/christophemarois/arguing-robots)/193 | 🤖  Watch and hear macOS robots argue live in your terminal 🤖  |
 | 54 | 13 | 3 | a month ago | [toml.cr](https://github.com/crystal-community/toml.cr)/194 | TOML parser for Crystal |
@@ -199,7 +199,7 @@
 | 53 | 6 | 5 | 2 years ago | [intellij-crystal-lang](https://github.com/crystal-lang-tools/intellij-crystal-lang)/196 | Intellij Idea plugin for the Crystal language |
 | 52 | 1 | 0 | 2 months ago | [design-pattern-examples-in-crystal](https://github.com/takaakit/design-pattern-examples-in-crystal)/197 | UML model and code examples of design patterns for Crystal. The model is created with Astah. |
 | 52 | 7 | 2 | 1 year, 5 months ago | [artanis](https://github.com/ysbaddaden/artanis)/198 | Sinatra-like DSL for the Crystal language (abusing macros) |
-| 52 | 7 | 0 | 17 days ago | [crotp](https://github.com/philnash/crotp)/199 | CrOTP - One Time Passwords for Crystal |
+| 52 | 7 | 0 | 24 days ago | [crotp](https://github.com/philnash/crotp)/199 | CrOTP - One Time Passwords for Crystal |
 | 52 | 2 | 2 | 2 years ago | [kiwi](https://github.com/crystal-community/kiwi)/200 | A unified Crystal interface for key-value stores. |
 | 52 | 6 | 0 | 4 years ago | [nes.cr](https://github.com/romeroadrian/nes.cr)/201 | A NES emulator written in Crystal |
 | 51 | 2 | 2 | 2 years ago | [gcf.cr](https://github.com/sam0x17/gcf.cr)/202 | gcf.cr provides serverless execution and deployment of crystal language code in Google Cloud Functions |
@@ -212,170 +212,170 @@
 | 50 | 3 | 1 | 3 years ago | [spinner](https://github.com/askn/spinner)/209 | Terminal Spinner for Crystal Programming Language |
 | 50 | 22 | 3 | 2 years ago | [lucky_record](https://github.com/luckyframework/lucky_record)/210 | Renamed to Avram ->> https://github.com/luckyframework/avram |
 | 50 | 2 | 0 | 3 months ago | [defense](https://github.com/defense-cr/defense)/211 | 🔮 A Crystal HTTP handler for throttling, blocking and tracking malicious requests. |
-| 49 | 6 | 1 | 5 months ago | [crsfml-examples](https://github.com/oprypin/crsfml-examples)/212 | Simple games made with CrSFML |
-| 49 | 16 | 15 | 2 years ago | [mocks.cr](https://github.com/waterlink/mocks.cr)/213 | General purpose mocking library for Crystal. |
-| 49 | 7 | 6 | 1 year, 3 months ago | [crystal-coverage](https://github.com/anykeyh/crystal-coverage)/214 | Coverage tool for Crystal lang |
-| 49 | 3 | 9 | 2 years ago | [cracker](https://github.com/TechMagister/cracker)/215 | Auto-completion client/server for the Crystal language. |
-| 48 | 3 | 2 | 2 years ago | [modest](https://github.com/kostya/modest)/216 | CSS selectors for HTML5 Parser myhtml |
-| 48 | 10 | 8 | 2 months ago | [liquid.cr](https://github.com/TechMagister/liquid.cr)/217 | Kind of liquid template engine for Crystal [WIP] |
+| 49 | 6 | 1 | 6 months ago | [crsfml-examples](https://github.com/oprypin/crsfml-examples)/212 | Simple games made with CrSFML |
+| 49 | 10 | 8 | 2 months ago | [liquid.cr](https://github.com/TechMagister/liquid.cr)/213 | Kind of liquid template engine for Crystal [WIP] |
+| 49 | 16 | 15 | 2 years ago | [mocks.cr](https://github.com/waterlink/mocks.cr)/214 | General purpose mocking library for Crystal. |
+| 49 | 7 | 6 | 1 year, 3 months ago | [crystal-coverage](https://github.com/anykeyh/crystal-coverage)/215 | Coverage tool for Crystal lang |
+| 49 | 3 | 9 | 2 years ago | [cracker](https://github.com/TechMagister/cracker)/216 | Auto-completion client/server for the Crystal language. |
+| 48 | 3 | 2 | 3 years ago | [modest](https://github.com/kostya/modest)/217 | CSS selectors for HTML5 Parser myhtml |
 | 48 | 16 | 5 | 3 months ago | [spec-kemal](https://github.com/kemalcr/spec-kemal)/218 | Easy testing for Kemal |
 | 48 | 3 | 6 | 4 years ago | [crow](https://github.com/geppetto-apps/crow)/219 | Transpile/compile Crystal to Flow |
 | 48 | 4 | 0 | a month ago | [vcr.cr](https://github.com/spoved/vcr.cr)/220 | VCR for Crystal! |
-| 48 | 9 | 22 | 11 days ago | [lucky_flow](https://github.com/luckyframework/lucky_flow)/221 | Automated browser tests for web applications. Similar to Ruby's Capybara. |
-| 48 | 4 | 2 | 5 months ago | [grpc](https://github.com/jgaskins/grpc)/222 | Pure-Crystal implementation of gRPC |
-| 47 | 9 | 2 | 2 years ago | [query-builder](https://github.com/izniburak/query-builder)/223 | sql query builder library for crystal-lang |
-| 47 | 4 | 3 | 3 months ago | [lua.cr](https://github.com/veelenga/lua.cr)/224 | Crystal to Lua bridge |
-| 47 | 29 | 4 | 30 days ago | [kemal-session](https://github.com/kemalcr/kemal-session)/225 | Simple session handler for Kemal |
-| 47 | 4 | 3 | 1 year, 6 months ago | [aasm.cr](https://github.com/veelenga/aasm.cr)/226 | :arrows_clockwise: Easy to use finite state machine for Crystal classes |
-| 46 | 0 | 0 | 1 year, 11 months ago | [raytracer](https://github.com/l3kn/raytracer)/227 | CPU Raytracer written in the crystal language |
-| 46 | 2 | 2 | 1 year, 6 months ago | [crystal_on_steroids](https://github.com/werner/crystal_on_steroids)/228 | A group of methods to make Crystal more programmer friendly (extracted from Rails ActiveSupport, Powerpack and others) |
-| 46 | 7 | 2 | 7 days ago | [fez](https://github.com/jwoertink/fez)/229 | A Kemal application generator |
-| 45 | 5 | 1 | 1 year, 1 month ago | [crank](https://github.com/arktisklada/crank)/230 | Foreman port to crystal. |
-| 45 | 11 | 4 | 2 years ago | [html_builder](https://github.com/crystal-lang/html_builder)/231 | DSL for creating HTML |
+| 48 | 9 | 22 | 18 days ago | [lucky_flow](https://github.com/luckyframework/lucky_flow)/221 | Automated browser tests for web applications. Similar to Ruby's Capybara. |
+| 48 | 4 | 3 | 5 months ago | [grpc](https://github.com/jgaskins/grpc)/222 | Pure-Crystal implementation of gRPC |
+| 48 | 2 | 3 | 2 days ago | [anyolite](https://github.com/Anyolite/anyolite)/223 | Embedded mruby for Crystal |
+| 47 | 9 | 2 | 2 years ago | [query-builder](https://github.com/izniburak/query-builder)/224 | sql query builder library for crystal-lang |
+| 47 | 4 | 3 | 4 months ago | [lua.cr](https://github.com/veelenga/lua.cr)/225 | Crystal to Lua bridge |
+| 47 | 29 | 4 | a month ago | [kemal-session](https://github.com/kemalcr/kemal-session)/226 | Simple session handler for Kemal |
+| 47 | 4 | 3 | 1 year, 7 months ago | [aasm.cr](https://github.com/veelenga/aasm.cr)/227 | :arrows_clockwise: Easy to use finite state machine for Crystal classes |
+| 46 | 5 | 1 | 1 year, 1 month ago | [crank](https://github.com/arktisklada/crank)/228 | Foreman port to crystal. |
+| 46 | 0 | 0 | 1 year, 11 months ago | [raytracer](https://github.com/l3kn/raytracer)/229 | CPU Raytracer written in the crystal language |
+| 46 | 2 | 2 | 1 year, 6 months ago | [crystal_on_steroids](https://github.com/werner/crystal_on_steroids)/230 | A group of methods to make Crystal more programmer friendly (extracted from Rails ActiveSupport, Powerpack and others) |
+| 46 | 7 | 2 | 14 days ago | [fez](https://github.com/jwoertink/fez)/231 | A Kemal application generator |
 | 45 | 8 | 19 | 1 year, 2 months ago | [sdkgen](https://github.com/cubos/sdkgen)/232 | [ DEPRECATED, SEE https://github.com/sdkgen/sdkgen ] Tool that aims on solving client-server communication and data layout sharing between server, web, android and ios using a description language also called sdkgen. |
-| 45 | 7 | 3 | 4 years ago | [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal)/233 | Bindings, wrapper, and utilities for termbox (terminal interface library) in Crystal |
-| 44 | 16 | 5 | 1 year, 2 months ago | [zeromq-crystal](https://github.com/crystal-community/zeromq-crystal)/234 | None |
-| 44 | 8 | 3 | 4 years ago | [crystal-gl](https://github.com/ggiraldez/crystal-gl)/235 | OpenGL bindings for the Crystal language |
-| 44 | 3 | 0 | 2 years ago | [asexual](https://github.com/alexwlchan/asexual)/236 | 🖤💜 Asexual Pride in GitHub repository languages |
+| 45 | 11 | 4 | 2 years ago | [html_builder](https://github.com/crystal-lang/html_builder)/233 | DSL for creating HTML |
+| 45 | 7 | 3 | 4 years ago | [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal)/234 | Bindings, wrapper, and utilities for termbox (terminal interface library) in Crystal |
+| 44 | 16 | 5 | 1 year, 2 months ago | [zeromq-crystal](https://github.com/crystal-community/zeromq-crystal)/235 | None |
+| 44 | 8 | 3 | 4 years ago | [crystal-gl](https://github.com/ggiraldez/crystal-gl)/236 | OpenGL bindings for the Crystal language |
 | 44 | 19 | 1 | 1 year, 3 months ago | [megadecrypter](https://github.com/denysvitali/megadecrypter)/237 | Decrypt mega://enc2 links |
-| 44 | 2 | 1 | 6 months ago | [pegasus](https://github.com/DanilaFe/pegasus)/238 | A parser generator for C and Crystal. |
-| 44 | 4 | 0 | 5 years ago | [carbon-crystal](https://github.com/benoist/carbon-crystal)/239 | Carbon Crystal - Web framework for Crystal Lang |
-| 43 | 5 | 1 | 1 year, 25 days ago | [rcm.cr](https://github.com/maiha/rcm.cr)/240 | Redis Cluster Manager in Crystal |
-| 43 | 3 | 0 | 2 months ago | [cryomongo](https://github.com/elbywan/cryomongo)/241 | A MongoDB driver written in pure Crystal. ❄️ |
-| 43 | 8 | 2 | 3 months ago | [amqp-client.cr](https://github.com/cloudamqp/amqp-client.cr)/242 | An AMQP 0-9-1 client for Crystal |
-| 43 | 2 | 3 | Unknown | [anyolite](https://github.com/Anyolite/anyolite)/243 | Embedded mruby for Crystal |
-| 42 | 1 | 0 | Unknown | [jbuilder](https://github.com/shootingfly/jbuilder)/244 | Generate JSON objects with a Builder-style DSL, inspired by jbuilder |
-| 42 | 3 | 6 | a month ago | [thyme](https://github.com/hughbien/thyme)/245 | Pomodoro timer for tmux |
-| 42 | 4 | 0 | Unknown | [cron_scheduler](https://github.com/kostya/cron_scheduler)/246 | Simple job scheduler with crontab patterns for Crystal Language. |
-| 42 | 1 | 0 | 3 months ago | [duo](https://github.com/azutoolkit/duo)/247 | A Pure HTTP 2 Server for the Crystal Language with full support for H2Load and H2Spec test coverage |
-| 42 | 4 | 0 | Unknown | [tallboy](https://github.com/epoch/tallboy)/248 | Declarative API for drawing unicode/ascii character tables in crystal lang |
-| 42 | 3 | 3 | 5 years ago | [fikri](https://github.com/askn/fikri)/249 | Simple CLI To-Do App written in Crystal |
-| 42 | 2 | 0 | a month ago | [ktistec](https://github.com/toddsundsted/ktistec)/250 | Single user ActivityPub (https://www.w3.org/TR/activitypub/) server. |
-| 42 | 2 | 0 | 20 days ago | [emoji.cr](https://github.com/veelenga/emoji.cr)/251 |  :green_heart: Emoji for Crystal |
-| 42 | 4 | 2 | 3 months ago | [motion.cr](https://github.com/awcrotwell/motion.cr)/252 | Motion is a framework for building reactive, real-time frontend UI components in your Amber application using pure Crystal that are reusable, testable & encapsulated. |
-| 42 | 1 | 26 | Unknown | [fluence](https://github.com/docelic/fluence)/253 | WYSIWYG wiki powered by Crystal, markdown, and Git |
-| 41 | 3 | 0 | Unknown | [iu](https://github.com/grkek/iu)/254 | UI framework based on the Fusion/libui.cr library, with elements from watzon/cru. |
-| 41 | 3 | 1 | Unknown | [crystal-clear](https://github.com/Groogy/crystal-clear)/255 | Design by Contract for Crystal |
-| 41 | 1 | 0 | 3 months ago | [monads](https://github.com/alex-lairan/monads)/256 | Monads for Crystal |
-| 41 | 7 | 3 | Unknown | [crystalla](https://github.com/mverzilli/crystalla)/257 | Crystal library for Numerical Methods. It binds to LAPACK and is unashamedly inspired by Numpy.  |
-| 41 | 3 | 6 | Unknown | [linalg](https://github.com/konovod/linalg)/258 | Linear algebra library based on LAPACK |
-| 41 | 5 | 0 | Unknown | [llvm-tutorial-book](https://github.com/Virtual-Machine/llvm-tutorial-book)/259 | In Progress. Building a front end for llvm. |
-| 41 | 4 | 5 | Unknown | [tensorflow.cr](https://github.com/fazibear/tensorflow.cr)/260 | Crystal binding for TensorFlow. |
-| 41 | 13 | 13 | Unknown | [ssh2.cr](https://github.com/datanoise/ssh2.cr)/261 | libssh2 binding for Crystal language |
-| 41 | 1 | 0 | Unknown | [zipstream](https://github.com/mamantoha/zipstream)/262 | A command line tool that allows you to easily share files and directories over the network |
-| 41 | 6 | 2 | Unknown | [faktory.cr](https://github.com/nulldotpro/faktory.cr)/263 | A Faktory Worker library for Crystal |
-| 40 | 22 | 2 | Unknown | [crystalshards](https://github.com/zamith/crystalshards)/264 | A listing of all crystal shards |
-| 40 | 6 | 5 | Unknown | [machine](https://github.com/mathieulaporte/machine)/265 | Simple machine learning algorithm for crystal lang |
-| 40 | 3 | 1 | Unknown | [tasker](https://github.com/spider-gazelle/tasker)/266 | Scheduled tasks for crystal lang |
-| 40 | 2 | 0 | Unknown | [cride](https://github.com/j8r/cride)/267 | A light CLI text editor/IDE written in Crystal |
-| 39 | 5 | 10 | Unknown | [biplane](https://github.com/articulate/biplane)/268 | A configuration-based management and automation tool for Kong |
-| 39 | 4 | 7 | Unknown | [mssh](https://github.com/tbrand/mssh)/269 | Simple and powerful job executor on remote nodes. :rocket: |
-| 39 | 4 | 1 | Unknown | [torrent](https://github.com/Papierkorb/torrent)/270 | A BitTorrent library in pure Crystal |
-| 39 | 6 | 1 | Unknown | [power_assert.cr](https://github.com/rosylilly/power_assert.cr)/271 | PowerAssert provides the more powerful assertion to you. |
-| 39 | 2 | 0 | Unknown | [ishi](https://github.com/toddsundsted/ishi)/272 | Graph plotting package with a small API and sensible defaults powered by gnuplot. |
-| 39 | 6 | 9 | Unknown | [kakoune.cr](https://github.com/alexherbo2/kakoune.cr)/273 | A command-line tool for Kakoune |
-| 39 | 3 | 2 | Unknown | [shield](https://github.com/GrottoPress/shield)/274 | Comprehensive security for Lucky framework |
-| 38 | 5 | 0 | Unknown | [rcpu](https://github.com/ddfreyne/rcpu)/275 | VM emulator and assembler written in Crystal |
-| 38 | 1 | 1 | Unknown | [vicr](https://github.com/veelenga/vicr)/276 | :v: Vim-like Interactive CRystal |
-| 38 | 5 | 1 | Unknown | [crystal-learn](https://github.com/pbrusco/crystal-learn)/277 | Machine Learning in Crystal  |
-| 38 | 2 | 0 | Unknown | [camo.cr](https://github.com/RX14/camo.cr)/278 | A crystal version of atmos/camo, faster and with better request lifecycle tracing |
-| 37 | 1 | 3 | Unknown | [stackvm](https://github.com/KCreate/stackvm)/279 | Virtual Machine with a 240x160 VRAM display. |
-| 37 | 4 | 4 | Unknown | [cpomf](https://github.com/nya/cpomf)/280 | Pomf API compatible file host written in Crystal - The software behind nya.is. |
-| 37 | 1 | 0 | Unknown | [crysterm](https://github.com/crystallabs/crysterm)/281 | Console / terminal GUI toolkit for Crystal. |
-| 37 | 0 | 1 | Unknown | [sharn](https://github.com/nedpals/sharn)/282 | Managing shards made easier. |
-| 37 | 4 | 1 | Unknown | [crystalworld](https://github.com/vladfaust/crystalworld)/283 | RealWorld back-end API implementation 👍 |
-| 37 | 3 | 2 | Unknown | [ipaddress.cr](https://github.com/Sija/ipaddress.cr)/284 | A Crystal library to handle IPv4 and IPv6 addresses in a modern and productive way. |
-| 36 | 4 | 1 | Unknown | [leveldb](https://github.com/crystal-community/leveldb)/285 | Crystal binding for LevelDB |
-| 36 | 4 | 1 | Unknown | [clang.cr](https://github.com/crystal-lang/clang.cr)/286 | libclang bindings for crystal (including automatic C bindings generator) |
-| 36 | 10 | 1 | Unknown | [sodium.cr](https://github.com/didactic-drunk/sodium.cr)/287 | Crystal wrapper for the libsodium crypto API |
-| 36 | 4 | 5 | Unknown | [rethinkdb.cr](https://github.com/cubos/rethinkdb.cr)/288 | RethinkDB Driver for Crystal |
-| 35 | 1 | 0 | Unknown | [CrSerializer](https://github.com/Blacksmoke16/CrSerializer)/289 | Extensible annotation based serialization/deserialization library |
-| 35 | 1 | 0 | Unknown | [lambda.cr](https://github.com/f/lambda.cr)/290 | Uniformed function call syntax for Crystal Language. |
-| 35 | 1 | 3 | Unknown | [crun](https://github.com/Val/crun)/291 | Crystal Run : shebang wrapper for Crystal |
-| 35 | 3 | 1 | Unknown | [crystal-parsec](https://github.com/dhruvrajvanshi/crystal-parsec)/292 | Parsing DSL for Crystal language inspired by Haskell library Parsec |
-| 35 | 4 | 1 | Unknown | [bindata](https://github.com/spider-gazelle/bindata)/293 | BinData - Parsing Binary Data in Crystal Lang |
-| 35 | 7 | 10 | Unknown | [discordcr](https://github.com/shardlab/discordcr)/294 | Minimalist Discord library for Crystal |
-| 35 | 0 | 0 | Unknown | [runcobo](https://github.com/runcobo/runcobo)/295 | An api framework with simple, intuitive and consistent DSL, using jbuilder to render json. https://runcobo.github.io/docs/ |
-| 35 | 4 | 2 | Unknown | [ftp](https://github.com/LeChatErrant/ftp)/296 | lightweight RFC959 FTP server written in crystal lang |
-| 35 | 10 | 1 | Unknown | [DeBot](https://github.com/jhass/DeBot)/297 | My IRC Bot |
-| 34 | 11 | 4 | Unknown | [nats.cr](https://github.com/nats-io/nats.cr)/298 | Crystal client for NATS |
-| 34 | 5 | 7 | Unknown | [spotify.cr](https://github.com/marceloboeira/spotify.cr)/299 | :headphones: A Crystal wrapper for the Spotify Web API |
-| 34 | 3 | 0 | Unknown | [cute](https://github.com/Papierkorb/cute)/300 | An event-centric publisher/subscribe model for objects inspired by the Qt framework |
-| 34 | 6 | 0 | 7 days ago | [inflector.cr](https://github.com/phoffer/inflector.cr)/301 | Inflector shard for Crystal. A port of ActiveSupport::Inflector |
-| 34 | 2 | 0 | 7 days ago | [nanoid.cr](https://github.com/mamantoha/nanoid.cr)/302 | Crystal implementation of Nanoid, secure URL-friendly unique ID generator. |
-| 34 | 3 | 1 | 2 years ago | [kafka.cr](https://github.com/maiha/kafka.cr)/303 | kafka utilities written in crystal |
-| 34 | 1 | 0 | a month ago | [alizarin](https://github.com/TheEEs/alizarin)/304 | A library for making Linux GUI applications using Web Technologies. Extending JavaScript with native functionalities. |
+| 44 | 4 | 0 | 3 months ago | [cryomongo](https://github.com/elbywan/cryomongo)/238 | A MongoDB driver written in pure Crystal. ❄️ |
+| 44 | 2 | 1 | 6 months ago | [pegasus](https://github.com/DanilaFe/pegasus)/239 | A parser generator for C and Crystal. |
+| 44 | 4 | 0 | 5 years ago | [carbon-crystal](https://github.com/benoist/carbon-crystal)/240 | Carbon Crystal - Web framework for Crystal Lang |
+| 43 | 3 | 6 | 2 months ago | [thyme](https://github.com/hughbien/thyme)/241 | Pomodoro timer for tmux |
+| 43 | 3 | 0 | 2 years ago | [asexual](https://github.com/alexwlchan/asexual)/242 | 🖤💜 Asexual Pride in GitHub repository languages |
+| 43 | 2 | 0 | a month ago | [ktistec](https://github.com/toddsundsted/ktistec)/243 | Single user ActivityPub (https://www.w3.org/TR/activitypub/) server. |
+| 43 | 5 | 1 | 1 year, 1 month ago | [rcm.cr](https://github.com/maiha/rcm.cr)/244 | Redis Cluster Manager in Crystal |
+| 43 | 8 | 2 | 4 months ago | [amqp-client.cr](https://github.com/cloudamqp/amqp-client.cr)/245 | An AMQP 0-9-1 client for Crystal |
+| 42 | 1 | 0 | 24 days ago | [jbuilder](https://github.com/shootingfly/jbuilder)/246 | Generate JSON objects with a Builder-style DSL, inspired by jbuilder |
+| 42 | 4 | 0 | 4 months ago | [cron_scheduler](https://github.com/kostya/cron_scheduler)/247 | Simple job scheduler with crontab patterns for Crystal Language. |
+| 42 | 3 | 0 | 2 months ago | [iu](https://github.com/grkek/iu)/248 | UI framework based on the Fusion/libui.cr library, with elements from watzon/cru. |
+| 42 | 1 | 0 | 3 months ago | [duo](https://github.com/azutoolkit/duo)/249 | A Pure HTTP 2 Server for the Crystal Language with full support for H2Load and H2Spec test coverage |
+| 42 | 4 | 0 | 3 months ago | [tallboy](https://github.com/epoch/tallboy)/250 | Declarative API for drawing unicode/ascii character tables in crystal lang |
+| 42 | 1 | 0 | 4 months ago | [monads](https://github.com/alex-lairan/monads)/251 | Monads for Crystal |
+| 42 | 3 | 3 | 5 years ago | [fikri](https://github.com/askn/fikri)/252 | Simple CLI To-Do App written in Crystal |
+| 42 | 2 | 0 | 27 days ago | [emoji.cr](https://github.com/veelenga/emoji.cr)/253 |  :green_heart: Emoji for Crystal |
+| 42 | 4 | 2 | 3 months ago | [motion.cr](https://github.com/awcrotwell/motion.cr)/254 | Motion is a framework for building reactive, real-time frontend UI components in your Amber application using pure Crystal that are reusable, testable & encapsulated. |
+| 42 | 1 | 26 | 1 year, 2 months ago | [fluence](https://github.com/docelic/fluence)/255 | WYSIWYG wiki powered by Crystal, markdown, and Git |
+| 41 | 3 | 1 | 2 months ago | [crystal-clear](https://github.com/Groogy/crystal-clear)/256 | Design by Contract for Crystal |
+| 41 | 7 | 3 | 4 years ago | [crystalla](https://github.com/mverzilli/crystalla)/257 | Crystal library for Numerical Methods. It binds to LAPACK and is unashamedly inspired by Numpy.  |
+| 41 | 3 | 6 | 1 year, 7 months ago | [linalg](https://github.com/konovod/linalg)/258 | Linear algebra library based on LAPACK |
+| 41 | 5 | 0 | 2 years ago | [llvm-tutorial-book](https://github.com/Virtual-Machine/llvm-tutorial-book)/259 | In Progress. Building a front end for llvm. |
+| 41 | 4 | 5 | 2 years ago | [tensorflow.cr](https://github.com/fazibear/tensorflow.cr)/260 | Crystal binding for TensorFlow. |
+| 41 | 13 | 13 | 3 years ago | [ssh2.cr](https://github.com/datanoise/ssh2.cr)/261 | libssh2 binding for Crystal language |
+| 41 | 1 | 0 | 7 days ago | [zipstream](https://github.com/mamantoha/zipstream)/262 | A command line tool that allows you to easily share files and directories over the network |
+| 41 | 6 | 2 | 6 months ago | [faktory.cr](https://github.com/nulldotpro/faktory.cr)/263 | A Faktory Worker library for Crystal |
+| 40 | 22 | 2 | 5 years ago | [crystalshards](https://github.com/zamith/crystalshards)/264 | A listing of all crystal shards |
+| 40 | 6 | 5 | 4 years ago | [machine](https://github.com/mathieulaporte/machine)/265 | Simple machine learning algorithm for crystal lang |
+| 40 | 3 | 1 | 2 months ago | [tasker](https://github.com/spider-gazelle/tasker)/266 | Scheduled tasks for crystal lang |
+| 40 | 2 | 0 | 2 months ago | [cride](https://github.com/j8r/cride)/267 | A light CLI text editor/IDE written in Crystal |
+| 40 | 3 | 2 | 5 days ago | [shield](https://github.com/GrottoPress/shield)/268 | Comprehensive security for Lucky framework |
+| 39 | 5 | 10 | 4 years ago | [biplane](https://github.com/articulate/biplane)/269 | A configuration-based management and automation tool for Kong |
+| 39 | 4 | 7 | 2 years ago | [mssh](https://github.com/tbrand/mssh)/270 | Simple and powerful job executor on remote nodes. :rocket: |
+| 39 | 4 | 1 | 3 years ago | [torrent](https://github.com/Papierkorb/torrent)/271 | A BitTorrent library in pure Crystal |
+| 39 | 6 | 1 | 5 years ago | [power_assert.cr](https://github.com/rosylilly/power_assert.cr)/272 | PowerAssert provides the more powerful assertion to you. |
+| 39 | 6 | 9 | 2 days ago | [kakoune.cr](https://github.com/alexherbo2/kakoune.cr)/273 | A command-line tool for Kakoune |
+| 39 | 2 | 0 | 25 days ago | [ishi](https://github.com/toddsundsted/ishi)/274 | Graph plotting package with a small API and sensible defaults powered by gnuplot. |
+| 39 | 8 | 9 | 3 days ago | [discordcr](https://github.com/shardlab/discordcr)/275 | Minimalist Discord library for Crystal |
+| 38 | 1 | 1 | 13 days ago | [crysterm](https://github.com/crystallabs/crysterm)/276 | Console / terminal GUI toolkit for Crystal. |
+| 38 | 5 | 0 | 4 years ago | [rcpu](https://github.com/ddfreyne/rcpu)/277 | VM emulator and assembler written in Crystal |
+| 38 | 1 | 1 | 1 year, 7 months ago | [vicr](https://github.com/veelenga/vicr)/278 | :v: Vim-like Interactive CRystal |
+| 38 | 5 | 1 | 4 years ago | [crystal-learn](https://github.com/pbrusco/crystal-learn)/279 | Machine Learning in Crystal  |
+| 38 | 2 | 0 | 2 months ago | [camo.cr](https://github.com/RX14/camo.cr)/280 | A crystal version of atmos/camo, faster and with better request lifecycle tracing |
+| 38 | 4 | 2 | 11 months ago | [ipaddress.cr](https://github.com/Sija/ipaddress.cr)/281 | A Crystal library to handle IPv4 and IPv6 addresses in a modern and productive way. |
+| 37 | 1 | 3 | 1 year, 4 months ago | [stackvm](https://github.com/KCreate/stackvm)/282 | Virtual Machine with a 240x160 VRAM display. |
+| 37 | 4 | 4 | 4 years ago | [cpomf](https://github.com/nya/cpomf)/283 | Pomf API compatible file host written in Crystal - The software behind nya.is. |
+| 37 | 0 | 1 | 1 year, 18 days ago | [sharn](https://github.com/nedpals/sharn)/284 | Managing shards made easier. |
+| 37 | 4 | 1 | 3 months ago | [crystalworld](https://github.com/vladfaust/crystalworld)/285 | RealWorld back-end API implementation 👍 |
+| 36 | 4 | 1 | 2 years ago | [leveldb](https://github.com/crystal-community/leveldb)/286 | Crystal binding for LevelDB |
+| 36 | 4 | 1 | 3 months ago | [clang.cr](https://github.com/crystal-lang/clang.cr)/287 | libclang bindings for crystal (including automatic C bindings generator) |
+| 36 | 10 | 1 | a month ago | [sodium.cr](https://github.com/didactic-drunk/sodium.cr)/288 | Crystal wrapper for the libsodium crypto API |
+| 36 | 4 | 5 | 3 years ago | [rethinkdb.cr](https://github.com/cubos/rethinkdb.cr)/289 | RethinkDB Driver for Crystal |
+| 35 | 1 | 0 | 1 year, 28 days ago | [CrSerializer](https://github.com/Blacksmoke16/CrSerializer)/290 | Extensible annotation based serialization/deserialization library |
+| 35 | 1 | 0 | 5 years ago | [lambda.cr](https://github.com/f/lambda.cr)/291 | Uniformed function call syntax for Crystal Language. |
+| 35 | 1 | 3 | 3 months ago | [crun](https://github.com/Val/crun)/292 | Crystal Run : shebang wrapper for Crystal |
+| 35 | 3 | 1 | 2 years ago | [crystal-parsec](https://github.com/dhruvrajvanshi/crystal-parsec)/293 | Parsing DSL for Crystal language inspired by Haskell library Parsec |
+| 35 | 4 | 1 | 4 days ago | [bindata](https://github.com/spider-gazelle/bindata)/294 | BinData - Parsing Binary Data in Crystal Lang |
+| 35 | 1 | 0 | a month ago | [alizarin](https://github.com/TheEEs/alizarin)/295 | A library for making Linux GUI applications using Web Technologies. Extending JavaScript with native functionalities. |
+| 35 | 0 | 0 | 24 days ago | [runcobo](https://github.com/runcobo/runcobo)/296 | An api framework with simple, intuitive and consistent DSL, using jbuilder to render json. https://runcobo.github.io/docs/ |
+| 35 | 10 | 1 | 2 months ago | [DeBot](https://github.com/jhass/DeBot)/297 | My IRC Bot |
+| 35 | 4 | 2 | 2 years ago | [ftp](https://github.com/LeChatErrant/ftp)/298 | lightweight RFC959 FTP server written in crystal lang |
+| 34 | 11 | 4 | 1 year, 2 months ago | [nats.cr](https://github.com/nats-io/nats.cr)/299 | Crystal client for NATS |
+| 34 | 5 | 7 | 4 years ago | [spotify.cr](https://github.com/marceloboeira/spotify.cr)/300 | :headphones: A Crystal wrapper for the Spotify Web API |
+| 34 | 3 | 0 | 24 days ago | [cute](https://github.com/Papierkorb/cute)/301 | An event-centric publisher/subscribe model for objects inspired by the Qt framework |
+| 34 | 2 | 0 | 14 days ago | [nanoid.cr](https://github.com/mamantoha/nanoid.cr)/302 | Crystal implementation of Nanoid, secure URL-friendly unique ID generator. |
+| 34 | 6 | 0 | 14 days ago | [inflector.cr](https://github.com/phoffer/inflector.cr)/303 | Inflector shard for Crystal. A port of ActiveSupport::Inflector |
+| 34 | 3 | 1 | 2 years ago | [kafka.cr](https://github.com/maiha/kafka.cr)/304 | kafka utilities written in crystal |
 | 34 | 1 | 2 | 11 months ago | [microgit](https://github.com/microgit-com/microgit)/305 | Git hosting service made in Crystal and Lucky |
 | 33 | 2 | 0 | 3 months ago | [rucksack](https://github.com/busyloop/rucksack)/306 | Attach static files to your compiled crystal binary and access them at runtime. |
 | 33 | 6 | 3 | 6 months ago | [crystal-diff](https://github.com/MakeNowJust/crystal-diff)/307 | A Crystal sequence differencing implementation |
-| 33 | 2 | 0 | 4 years ago | [crystal_samples](https://github.com/tbpgr/crystal_samples)/308 | None |
-| 33 | 2 | 0 | 3 years ago | [kemal-vue-chat](https://github.com/ChangJoo-Park/kemal-vue-chat)/309 | this is experimental repo for Kemal and Vue.js (+ WebSocket) |
-| 33 | 2 | 0 | 2 months ago | [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk)/310 | Crystal bindings to Chipmunk, a fast and lightweight 2D game physics library |
-| 33 | 4 | 1 | a month ago | [privpage](https://github.com/Priv-Page/privpage)/311 | PrivPage main repository |
-| 33 | 11 | 10 | 4 years ago | [crystal-mysql](https://github.com/waterlink/crystal-mysql)/312 | Basic mysql bindings for crystal. |
-| 33 | 1 | 0 | 3 years ago | [evented](https://github.com/krisleech/evented)/313 | Publish and Subscribe for Crystal objects |
-| 33 | 4 | 0 | a month ago | [Crisp](https://github.com/rhysd/Crisp)/314 | Lisp dialect implemented with Crystal |
-| 32 | 1 | 1 | 1 year, 3 months ago | [promise.cr](https://github.com/jwaldrip/promise.cr)/315 | A Promise Implementation in Crystal |
-| 32 | 5 | 3 | 1 year, 9 months ago | [elasticsearch-crystal](https://github.com/paktek123/elasticsearch-crystal)/316 | Converting the Ruby Elasticsearch Library to Crystal |
-| 32 | 11 | 3 | 17 days ago | [stripe.cr](https://github.com/confact/stripe.cr)/317 | Stripe API Wrapper for crystal |
-| 32 | 12 | 6 | a month ago | [i18n.cr](https://github.com/TechMagister/i18n.cr)/318 | Internationalization API ( i18n ) |
+| 33 | 2 | 1 | 5 years ago | [crake](https://github.com/MakeNowJust/crake)/308 | CRystal mAKE library |
+| 33 | 2 | 0 | 4 years ago | [crystal_samples](https://github.com/tbpgr/crystal_samples)/309 | None |
+| 33 | 2 | 0 | 3 years ago | [kemal-vue-chat](https://github.com/ChangJoo-Park/kemal-vue-chat)/310 | this is experimental repo for Kemal and Vue.js (+ WebSocket) |
+| 33 | 2 | 0 | 2 months ago | [crystal-chipmunk](https://github.com/oprypin/crystal-chipmunk)/311 | Crystal bindings to Chipmunk, a fast and lightweight 2D game physics library |
+| 33 | 4 | 1 | a month ago | [privpage](https://github.com/Priv-Page/privpage)/312 | PrivPage main repository |
+| 33 | 11 | 10 | 4 years ago | [crystal-mysql](https://github.com/waterlink/crystal-mysql)/313 | Basic mysql bindings for crystal. |
+| 33 | 1 | 0 | 3 years ago | [evented](https://github.com/krisleech/evented)/314 | Publish and Subscribe for Crystal objects |
+| 33 | 4 | 0 | a month ago | [Crisp](https://github.com/rhysd/Crisp)/315 | Lisp dialect implemented with Crystal |
+| 32 | 1 | 1 | 1 year, 3 months ago | [promise.cr](https://github.com/jwaldrip/promise.cr)/316 | A Promise Implementation in Crystal |
+| 32 | 5 | 3 | 1 year, 9 months ago | [elasticsearch-crystal](https://github.com/paktek123/elasticsearch-crystal)/317 | Converting the Ruby Elasticsearch Library to Crystal |
+| 32 | 12 | 1 | a day ago | [stripe.cr](https://github.com/confact/stripe.cr)/318 | Stripe API Wrapper for crystal |
 | 32 | 5 | 8 | 1 year, 9 months ago | [crecto-admin](https://github.com/Crecto/crecto-admin)/319 | Crecto Admin |
-| 32 | 8 | 3 | 4 months ago | [swagger](https://github.com/icyleaf/swagger)/320 | Swagger contains a OpenAPI / Swagger universal documentation generator and HTTP server handler. |
+| 32 | 2 | 1 | 2 months ago | [moongoon](https://github.com/elbywan/moongoon)/320 | An object-document mapper for MongoDB.  🌙 |
 | 32 | 2 | 0 | 3 months ago | [crystalg](https://github.com/tobyapi/crystalg)/321 | Algorithm Library for Crystal |
-| 32 | 1 | 0 | 17 days ago | [entitas.cr](https://github.com/spoved/entitas.cr)/322 | Entity Component System Framework writen in crystal |
-| 32 | 4 | 2 | 1 year, 5 months ago | [aquaplot](https://github.com/crystal-data/aquaplot)/323 | AquaPlot is a data visualization library for crystal-lang (https://crystal-lang.org/).  Currently in very early development and the API is not at all stable. |
-| 32 | 0 | 0 | 3 months ago | [dataclass](https://github.com/lbarasti/dataclass)/324 | Data class macro for the Crystal Language. |
-| 32 | 4 | 4 | 1 year, 9 months ago | [kave](https://github.com/jwoertink/kave)/325 | Kemal API Version Extension |
-| 32 | 2 | 1 | 5 years ago | [crake](https://github.com/MakeNowJust/crake)/326 | CRystal mAKE library |
-| 32 | 2 | 0 | 4 years ago | [mustafa](https://github.com/guvencenanguvenal/mustafa)/327 | Mustafa is Simple and Fast MVC Framework for Crystal |
+| 32 | 8 | 3 | 4 months ago | [swagger](https://github.com/icyleaf/swagger)/322 | Swagger contains a OpenAPI / Swagger universal documentation generator and HTTP server handler. |
+| 32 | 1 | 0 | 23 days ago | [entitas.cr](https://github.com/spoved/entitas.cr)/323 | Entity Component System Framework writen in crystal |
+| 32 | 4 | 2 | 1 year, 5 months ago | [aquaplot](https://github.com/crystal-data/aquaplot)/324 | AquaPlot is a data visualization library for crystal-lang (https://crystal-lang.org/).  Currently in very early development and the API is not at all stable. |
+| 32 | 0 | 0 | 3 months ago | [dataclass](https://github.com/lbarasti/dataclass)/325 | Data class macro for the Crystal Language. |
+| 32 | 4 | 4 | 1 year, 9 months ago | [kave](https://github.com/jwoertink/kave)/326 | Kemal API Version Extension |
+| 32 | 1 | 0 | 4 years ago | [mustafa](https://github.com/guvencenanguvenal/mustafa)/327 | Mustafa is Simple and Fast MVC Framework for Crystal |
 | 32 | 5 | 1 | 8 months ago | [crystalshards](https://github.com/crystalshards/crystalshards)/328 | None |
-| 31 | 0 | 1 | 4 years ago | [unix-web](https://github.com/hackervera/unix-web)/329 | Unix Philosophy Webserver |
-| 31 | 2 | 1 | 2 months ago | [moongoon](https://github.com/elbywan/moongoon)/330 | An object-document mapper for MongoDB.  🌙 |
+| 31 | 10 | 3 | 2 days ago | [i18n.cr](https://github.com/crimson-knight/i18n.cr)/329 | Internationalization API ( i18n ) |
+| 31 | 0 | 1 | 4 years ago | [unix-web](https://github.com/hackervera/unix-web)/330 | Unix Philosophy Webserver |
 | 31 | 9 | 0 | 1 year, 2 months ago | [mongo_orm](https://github.com/sam0x17/mongo_orm)/331 | Mongo ORM: A simple ORM for using MongoDB with the crystal programming language, designed for use with Amber. Based loosely on Granite ORM. Supports Rails-esque models, associations and embedded documents. |
 | 31 | 1 | 0 | 3 months ago | [limiter](https://github.com/kostya/limiter)/332 | Rate limiter for Crystal. Memory and Redis based. |
-| 31 | 7 | 1 | 22 days ago | [rocksdb.cr](https://github.com/maiha/rocksdb.cr)/333 | RocksDB client for Crystal |
-| 31 | 2 | 0 | 1 year, 9 months ago | [dispatch](https://github.com/bmulvihill/dispatch)/334 | Dispatch - in memory asynchronous job processing |
+| 31 | 7 | 1 | 29 days ago | [rocksdb.cr](https://github.com/maiha/rocksdb.cr)/333 | RocksDB client for Crystal |
+| 31 | 2 | 0 | 1 year, 10 months ago | [dispatch](https://github.com/bmulvihill/dispatch)/334 | Dispatch - in memory asynchronous job processing |
 | 31 | 5 | 1 | 2 years ago | [bloom_filter](https://github.com/crystal-community/bloom_filter)/335 | Bloom filter implementation in Crystal lang |
-| 31 | 0 | 0 | 1 year, 6 months ago | [lime](https://github.com/r00ster91/lime)/336 | A library for drawing graphics on the console screen |
+| 31 | 0 | 0 | 1 year, 7 months ago | [lime](https://github.com/r00ster91/lime)/336 | A library for drawing graphics on the console screen |
 | 31 | 2 | 1 | 1 year, 10 months ago | [lirith](https://github.com/eltanin-engine/lirith)/337 | Graphics engine written in Crystal. |
-| 31 | 4 | 0 | 1 year, 3 days ago | [inotify.cr](https://github.com/petoem/inotify.cr)/338 | Inotify bindings for Crystal |
+| 31 | 4 | 0 | 1 year, 10 days ago | [inotify.cr](https://github.com/petoem/inotify.cr)/338 | Inotify bindings for Crystal |
 | 31 | 2 | 1 | 3 years ago | [h2o.cr](https://github.com/S-YOU/h2o.cr)/339 | h2o bindings for Crystal |
-| 31 | 4 | 8 | 1 year, 21 days ago | [trello-cli](https://github.com/geolessel/trello-cli)/340 | It's Trello, but snappy! |
+| 31 | 4 | 8 | 1 year, 28 days ago | [trello-cli](https://github.com/geolessel/trello-cli)/340 | It's Trello, but snappy! |
 | 30 | 1 | 0 | 4 years ago | [cppize](https://github.com/unn4m3d/cppize)/341 | Crystal-to-C++ transpiler [WIP] |
 | 30 | 2 | 0 | 3 months ago | [mpngin](https://github.com/thewalkingtoast/mpngin)/342 | A simple and fast URL shortener with built in stats. |
 | 30 | 5 | 0 | a month ago | [crymagick](https://github.com/imdrasil/crymagick)/343 | A crystal wrapper for ImageMagick command line. |
-| 30 | 2 | 0 | 5 days ago | [batch](https://github.com/alexherbo2/batch)/344 | A command-line program for batch processing |
+| 30 | 2 | 0 | 12 days ago | [batch](https://github.com/alexherbo2/batch)/344 | A command-line program for batch processing |
 | 30 | 3 | 0 | 3 months ago | [x11-cr](https://github.com/TamasSzekeres/x11-cr)/345 | X11 bindings for Crystal language. |
 | 30 | 2 | 1 | 2 years ago | [stats](https://github.com/Nephos/stats)/346 | An expressive crystal implementation of statistical distributions and usual math functions. :bar_chart:  |
 | 30 | 4 | 1 | 4 years ago | [crystalmq](https://github.com/crystalmq/crystalmq)/347 | None |
 | 30 | 8 | 3 | 7 months ago | [posix](https://github.com/ysbaddaden/posix)/348 | POSIX/C bindings generator for the Crystal programming language |
 | 30 | 5 | 1 | 4 months ago | [matrix](https://github.com/Exilor/matrix)/349 | A Matrix class for the Crystal programming language. |
 | 30 | 8 | 4 | 1 year, 11 months ago | [ncurses.cr](https://github.com/agatan/ncurses.cr)/350 | NCurses bindings for Crystal |
-| 30 | 4 | 1 | 30 days ago | [hermes.cr](https://github.com/imdrasil/hermes.cr)/351 | Datamapper like Crystal ORM and adapter for Elasticsearch |
+| 30 | 4 | 1 | a month ago | [hermes.cr](https://github.com/imdrasil/hermes.cr)/351 | Datamapper like Crystal ORM and adapter for Elasticsearch |
 | 30 | 2 | 0 | 4 months ago | [any_hash.cr](https://github.com/Sija/any_hash.cr)/352 | Better JSON::Any for Crystal |
 | 30 | 3 | 3 | a month ago | [retriable.cr](https://github.com/Sija/retriable.cr)/353 | Retriable.cr is a simple DSL to retry failed code blocks |
 | 30 | 0 | 0 | 3 years ago | [crystal-di](https://github.com/funk-yourself/crystal-di)/354 | Lightweight DI Container for Crystal |
-| 30 | 4 | 2 | a month ago | [crystal-aws-lambda](https://github.com/spinscale/crystal-aws-lambda)/355 | Create and deploy AWS lambdas written in Crystal |
-| 29 | 8 | 0 | 26 days ago | [git-version](https://github.com/codacy/git-version)/356 | Git versioning used in Codacy |
-| 29 | 8 | 6 | 2 months ago | [instances-api](https://github.com/iv-org/instances-api)/357 | Instances API website for Invidious. |
+| 30 | 4 | 2 | 2 months ago | [crystal-aws-lambda](https://github.com/spinscale/crystal-aws-lambda)/355 | Create and deploy AWS lambdas written in Crystal |
+| 29 | 8 | 0 | a month ago | [git-version](https://github.com/codacy/git-version)/356 | Git versioning used in Codacy |
+| 29 | 8 | 6 | 3 months ago | [instances-api](https://github.com/iv-org/instances-api)/357 | Instances API website for Invidious. |
 | 29 | 4 | 0 | 1 year, 6 months ago | [crystal-routing](https://github.com/bcardiff/crystal-routing)/358 | Extensible library to deal with http request and string based routing in Crystal |
 | 29 | 12 | 1 | 9 months ago | [cry](https://github.com/elorest/cry)/359 | Ability to execute crystal code in a fashion similar to pry edit. |
-| 29 | 2 | 0 | 8 months ago | [clicr](https://github.com/j8r/clicr)/360 | A simple declarative command line interface builder |
-| 29 | 0 | 1 | 1 year, 1 month ago | [meet](https://github.com/ryanprior/meet)/361 | Start a meeting quickly from the comfort of your command line. 👩‍👩‍👧‍👦️💨️ |
+| 29 | 2 | 0 | 9 months ago | [clicr](https://github.com/j8r/clicr)/360 | A simple declarative command line interface builder |
+| 29 | 0 | 1 | 1 year, 2 months ago | [meet](https://github.com/ryanprior/meet)/361 | Start a meeting quickly from the comfort of your command line. 👩‍👩‍👧‍👦️💨️ |
 | 29 | 2 | 0 | 1 year, 3 months ago | [compiler](https://github.com/runic-lang/compiler)/362 | None |
 | 29 | 2 | 1 | 4 months ago | [crystar](https://github.com/naqvis/crystar)/363 | Crystal language Tar Module implements access to tar archives. |
 | 29 | 4 | 2 | 4 years ago | [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token)/364 | Kemal middleware to authentication via HTTP header token using JWT |
-| 29 | 9 | 7 | 21 days ago | [crystal-memcached](https://github.com/comandeo/crystal-memcached)/365 | Memcached client for Crystal language |
-| 29 | 0 | 2 | 4 months ago | [umberbar](https://github.com/yazgoo/umberbar)/366 | :ram: minimalistic xmobar inspired status bar, running in terminal emulator |
-| 28 | 6 | 3 | 2 months ago | [stumpy_core](https://github.com/stumpycr/stumpy_core)/367 | Core components for working with images  |
-| 28 | 10 | 5 | 4 months ago | [crt.cr](https://github.com/maiha/crt.cr)/368 | Bindings for libncursesw and crt class |
-| 28 | 0 | 11 | 2 months ago | [boleite](https://github.com/Groogy/boleite)/369 | Framework for developing Games in Crystal |
-| 28 | 1 | 0 | 2 years ago | [ruby2crystal](https://github.com/faustinoaq/ruby2crystal)/370 | A proof of concept tool to help porting gems to shards |
-| 28 | 4 | 6 | 1 year, 11 months ago | [migrate.cr](https://github.com/vladfaust/migrate.cr)/371 | A database migration solution 🚜 |
-| 28 | 46 | 51 | 3 hours ago | [website](https://github.com/luckyframework/website)/372 | The Lucky website |
-| 28 | 1 | 1 | 9 months ago | [crystal-examples](https://github.com/maiha/crystal-examples)/373 | This has been completely rewritten in 2019. The old implementation has moved to the alpha branch. |
-| 28 | 0 | 1 | 2 years ago | [AgentSmith](https://github.com/nilsding/AgentSmith)/374 | 🕴 An IRC server that is actually a Matrix client.  Use your favourite IRC client to communicate with the Matrix. |
-| 28 | 0 | 0 | 2 years ago | [lupin](https://github.com/lupincr/lupin)/375 | 🐺 All in one Crystal Task Runner. |
+| 29 | 0 | 0 | 2 years ago | [lupin](https://github.com/lupincr/lupin)/365 | 🐺 All in one Crystal Task Runner. |
+| 29 | 9 | 7 | 28 days ago | [crystal-memcached](https://github.com/comandeo/crystal-memcached)/366 | Memcached client for Crystal language |
+| 29 | 0 | 2 | 4 months ago | [umberbar](https://github.com/yazgoo/umberbar)/367 | :ram: minimalistic xmobar inspired status bar, running in terminal emulator |
+| 28 | 6 | 3 | 2 months ago | [stumpy_core](https://github.com/stumpycr/stumpy_core)/368 | Core components for working with images  |
+| 28 | 10 | 5 | 4 months ago | [crt.cr](https://github.com/maiha/crt.cr)/369 | Bindings for libncursesw and crt class |
+| 28 | 0 | 11 | 2 months ago | [boleite](https://github.com/Groogy/boleite)/370 | Framework for developing Games in Crystal |
+| 28 | 1 | 0 | 2 years ago | [ruby2crystal](https://github.com/faustinoaq/ruby2crystal)/371 | A proof of concept tool to help porting gems to shards |
+| 28 | 4 | 6 | 1 year, 11 months ago | [migrate.cr](https://github.com/vladfaust/migrate.cr)/372 | A database migration solution 🚜 |
+| 28 | 46 | 40 | 8 hours ago | [website](https://github.com/luckyframework/website)/373 | The Lucky website |
+| 28 | 1 | 1 | 9 months ago | [crystal-examples](https://github.com/maiha/crystal-examples)/374 | This has been completely rewritten in 2019. The old implementation has moved to the alpha branch. |
+| 28 | 0 | 1 | 2 years ago | [AgentSmith](https://github.com/nilsding/AgentSmith)/375 | 🕴 An IRC server that is actually a Matrix client.  Use your favourite IRC client to communicate with the Matrix. |
 | 28 | 5 | 1 | 4 months ago | [neo4j.cr](https://github.com/jgaskins/neo4j.cr)/376 | Pure-Crystal implementation of Neo4j's Bolt protocol |
 | 28 | 1 | 0 | 3 months ago | [qrencode.cr](https://github.com/woodruffw/qrencode.cr)/377 | Crystal bindings for libqrencode (qrencode), a library for QR code generation |
 | 28 | 9 | 1 | 3 months ago | [CrystGLFW](https://github.com/nulldotpro/CrystGLFW)/378 | An object-oriented API for GLFW in Crystal. |
@@ -387,7 +387,7 @@
 | 27 | 4 | 1 | 3 years ago | [crystal-helmet](https://github.com/EvanHahn/crystal-helmet)/384 | a port of the Node Helmet module to the Crystal programming language |
 | 27 | 0 | 0 | 2 years ago | [roadshow](https://github.com/rf-/roadshow)/385 | A language-agnostic tool for testing code in different environments. |
 | 27 | 1 | 0 | 2 months ago | [fzy](https://github.com/hugopl/fzy)/386 | A Crystal port of awesome Fzy project fuzzy finder algorithm. |
-| 27 | 3 | 0 | 3 months ago | [future.cr](https://github.com/crystal-community/future.cr)/387 | None |
+| 27 | 3 | 0 | 4 months ago | [future.cr](https://github.com/crystal-community/future.cr)/387 | None |
 | 27 | 5 | 1 | 2 months ago | [crinder](https://github.com/c910335/crinder)/388 | Class based json renderer in Crystal |
 | 27 | 5 | 2 | 2 months ago | [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr)/389 | libssh2 binding for Crystal language |
 | 27 | 6 | 1 | 4 years ago | [panzer](https://github.com/ysbaddaden/panzer)/390 | Multi-process, zero-downtime service monitor for Crystal |
@@ -399,339 +399,339 @@
 | 26 | 5 | 0 | 3 months ago | [cairo-cr](https://github.com/TamasSzekeres/cairo-cr)/396 | Cairo bindings for Crystal language. |
 | 26 | 1 | 0 | 5 months ago | [phoenix.cr](https://github.com/dtcristo/phoenix.cr)/397 | Phoenix Channels client for Crystal |
 | 26 | 8 | 0 | 3 months ago | [statsd.cr](https://github.com/miketheman/statsd.cr)/398 | A statsd client library for Crystal. |
-| 26 | 3 | 1 | 24 days ago | [sass.cr](https://github.com/straight-shoota/sass.cr)/399 | Compile Sass/SCSS to CSS in Crystal (libsass binding) |
+| 26 | 3 | 1 | a month ago | [sass.cr](https://github.com/straight-shoota/sass.cr)/399 | Compile Sass/SCSS to CSS in Crystal (libsass binding) |
 | 26 | 8 | 2 | 1 year, 3 months ago | [money](https://github.com/crystal-money/money)/400 | Crystal shard for dealing with money and currency conversion |
 | 25 | 4 | 0 | 2 years ago | [bson.cr](https://github.com/jeromegn/bson.cr)/401 | BSON implementation written in Crystal |
 | 25 | 1 | 0 | 3 months ago | [crystal-imgui](https://github.com/oprypin/crystal-imgui)/402 | Crystal bindings to Dear ImGui |
 | 25 | 3 | 2 | 1 year, 4 months ago | [libnotify.cr](https://github.com/splattael/libnotify.cr)/403 | Libnotify for Crystal |
 | 25 | 1 | 1 | 2 months ago | [tablo](https://github.com/hutou/tablo)/404 | Crystal text table generator |
-| 25 | 7 | 6 | 2 days ago | [action-controller](https://github.com/spider-gazelle/action-controller)/405 | A rails-esque controller framework for crystal lang |
-| 25 | 1 | 0 | 10 months ago | [hackerviews](https://github.com/jessehorne/hackerviews)/406 | A social platform inspired by Hacker News written in Crystal using the Kemal framework. |
+| 25 | 7 | 6 | 9 days ago | [action-controller](https://github.com/spider-gazelle/action-controller)/405 | A rails-esque controller framework for crystal lang |
+| 25 | 1 | 0 | 11 months ago | [hackerviews](https://github.com/jessehorne/hackerviews)/406 | A social platform inspired by Hacker News written in Crystal using the Kemal framework. |
 | 25 | 0 | 3 | 5 months ago | [cache](https://github.com/crystal-cache/cache)/407 | A key/value store where pairs can expire after a specified interval |
 | 25 | 1 | 1 | 4 months ago | [poncho](https://github.com/icyleaf/poncho)/408 | A .env parser/loader improved for performance. |
 | 25 | 5 | 0 | 2 years ago | [zhenxiang](https://github.com/Hentioe/zhenxiang)/409 | 真香蛋炒饭（生成器） |
 | 25 | 1 | 1 | 3 months ago | [form_builder.cr](https://github.com/westonganger/form_builder.cr)/410 | Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap |
 | 25 | 2 | 1 | 3 months ago | [crystalizer](https://github.com/j8r/crystalizer)/411 | (De)serialize any Crystal object - out of the box. Supports JSON, YAML and Byte format. |
 | 25 | 7 | 0 | a month ago | [docker.cr](https://github.com/jeromegn/docker.cr)/412 | Docker API client in Crystal. |
-| 25 | 6 | 1 | 19 days ago | [crystal-koans](https://github.com/ilmanzo/crystal-koans)/413 | The Crystal Programming Language Koans |
+| 25 | 6 | 1 | 25 days ago | [crystal-koans](https://github.com/ilmanzo/crystal-koans)/413 | The Crystal Programming Language Koans |
 | 25 | 4 | 0 | 2 years ago | [arangocr](https://github.com/solisoft/arangocr)/414 | ArangoDB client for Crystal Lang |
 | 25 | 7 | 0 | 1 year, 8 months ago | [spellout](https://github.com/sferik/spellout)/415 | A command-line tool that converts input into the International Radiotelephony Spelling Alphabet |
-| 25 | 5 | 0 | 4 months ago | [crystaledge](https://github.com/unn4m3d/crystaledge)/416 | A pure Crystal Vector Math library |
-| 25 | 1 | 0 | 9 months ago | [azula](https://github.com/azula-lang/azula)/417 | A fast, statically typed compiled language |
-| 25 | 2 | 0 | 30 days ago | [ngrok.cr](https://github.com/watzon/ngrok.cr)/418 | Ngrok wrapper for Crystal |
+| 25 | 5 | 0 | 5 months ago | [crystaledge](https://github.com/unn4m3d/crystaledge)/416 | A pure Crystal Vector Math library |
+| 25 | 1 | 0 | 10 months ago | [azula](https://github.com/azula-lang/azula)/417 | A fast, statically typed compiled language |
+| 25 | 2 | 0 | a month ago | [ngrok.cr](https://github.com/watzon/ngrok.cr)/418 | Ngrok wrapper for Crystal |
 | 24 | 5 | 5 | 2 years ago | [optarg](https://github.com/mosop/optarg)/419 | Yet another Crystal library for parsing command-line options and arguments. |
-| 24 | 2 | 0 | 29 days ago | [cr_zip_tricks](https://github.com/WeTransfer/cr_zip_tricks)/420 | Alternate ZIP writer for Crystal, ported from zip_tricks for Ruby |
+| 24 | 2 | 0 | a month ago | [cr_zip_tricks](https://github.com/WeTransfer/cr_zip_tricks)/420 | Alternate ZIP writer for Crystal, ported from zip_tricks for Ruby |
 | 24 | 2 | 0 | 2 months ago | [microtest](https://github.com/Ragmaanir/microtest)/421 | Smaller test framework, because it has power asserts as the only assertion. |
 | 24 | 0 | 0 | 3 years ago | [ROT26](https://github.com/watzon/ROT26)/422 | Pure Crystal implementation of the ROT26 encryption algorithm |
-| 24 | 2 | 2 | 1 year, 3 months ago | [accord](https://github.com/neovintage/accord)/423 | Validations for Crystal Objects |
-| 24 | 7 | 0 | Unknown | [influxdb.cr](https://github.com/jeromegn/influxdb.cr)/424 | InfluxDB driver for Crystal |
-| 24 | 4 | 5 | Unknown | [i18n.cr](https://github.com/vladfaust/i18n.cr)/425 | Internationalization shard 🌍 |
-| 24 | 2 | 1 | Unknown | [packetz](https://github.com/picatz/packetz)/426 | 🦈 Packet capturing library built with LibPcap |
-| 24 | 1 | 0 | Unknown | [circuit_breaker](https://github.com/TPei/circuit_breaker)/427 | Implementation of the circuit breaker pattern in crystal |
-| 24 | 6 | 1 | Unknown | [bitfields](https://github.com/elorest/bitfields)/428 | Bit Fields for Crystal Language |
-| 24 | 4 | 7 | Unknown | [noir](https://github.com/MakeNowJust/noir)/429 | NOIR - Syntax Highlight Library for Crystal |
-| 24 | 2 | 0 | Unknown | [denetmen](https://github.com/izniburak/denetmen)/430 | useful micro check library for Crystal Language. |
-| 24 | 0 | 1 | Unknown | [cru](https://github.com/watzon/cru)/431 | LibUI based GUI framework for Crystal |
-| 24 | 5 | 0 | Unknown | [ac-library.cr](https://github.com/google/ac-library.cr)/432 | Port of ac-library implemented in Crystal Programming Language |
-| 24 | 4 | 3 | Unknown | [ai4cr](https://github.com/drhuffman12/ai4cr)/433 | Artificial Intelligence for Crystal (based on https://github.com/SergioFierens/ai4r) |
-| 24 | 7 | 4 | Unknown | [http_proxy](https://github.com/mamantoha/http_proxy)/434 | A HTTP Proxy server and client written in Crystal |
-| 24 | 10 | 3 | Unknown | [libgit2.cr](https://github.com/smacker/libgit2.cr)/435 | Crystal-lang binding to libgit2 with interface similar to rugged |
-| 24 | 0 | 2 | Unknown | [trashman](https://github.com/Groogy/trashman)/436 | Garbage Collector Profiler for Crystal |
-| 24 | 1 | 0 | Unknown | [moola](https://github.com/dorkrawk/moola)/437 | Deal with money in Crystal |
-| 24 | 1 | 1 | Unknown | [dazzlie](https://github.com/obskyr/dazzlie)/438 | Encode and decode graphics from a variety of retro video game systems! |
-| 24 | 3 | 3 | Unknown | [dexter](https://github.com/luckyframework/dexter)/439 | A logger with maximum customizability and surgical precision |
-| 23 | 5 | 0 | Unknown | [crotest](https://github.com/emancu/crotest)/440 | A tiny and simple test framework for crystal |
-| 23 | 7 | 5 | Unknown | [Crirc](https://github.com/Meoowww/Crirc)/441 | Migrated to https://git.sceptique.eu/Sceptique/Crirc |
-| 23 | 7 | 7 | Unknown | [secp256k1.cr](https://github.com/q9f/secp256k1.cr)/442 | a native library implementing secp256k1 purely for the crystal language |
-| 23 | 5 | 0 | Unknown | [Portforge](https://github.com/Beyarz/Portforge)/443 | Lightweight utility to fool port scanners |
-| 23 | 6 | 2 | Unknown | [ncurses-crystal](https://github.com/repomaa/ncurses-crystal)/444 | ncurses bindings for crystal |
-| 23 | 0 | 0 | Unknown | [json_on_steroids](https://github.com/anykeyh/json_on_steroids)/445 | [Crystal Lang] Handle and mutate JSON document easily |
-| 23 | 1 | 0 | Unknown | [popcorn](https://github.com/icyleaf/popcorn)/446 | Easy and Safe popping from one type to another. |
-| 23 | 3 | 1 | Unknown | [crab](https://github.com/mattrberry/crab)/447 | A Game Boy, Game Boy Color, and Game Boy Advance emulator in Crystal Lang |
-| 23 | 0 | 0 | Unknown | [mel](https://github.com/GrottoPress/mel)/448 | A scalable asynchronous event-driven jobs engine |
-| 23 | 2 | 0 | Unknown | [crystal-html5](https://github.com/naqvis/crystal-html5)/449 | Crystal implementation of HTML5-Compliant Tokenizer and Parser with XPath & CSS Selector support |
-| 23 | 2 | 0 | Unknown | [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars)/450 | ⭐️ Web frameworks for Crystal, most starred on Github |
-| 23 | 5 | 0 | Unknown | [terminal_table.cr](https://github.com/benoist/terminal_table.cr)/451 | Terminal Table is a simple ASCII table generator written in Crystal. |
-| 23 | 0 | 0 | Unknown | [crystal-api-backend](https://github.com/dantebronto/crystal-api-backend)/452 | Proof-of-concept JSON API written in Crystal |
-| 23 | 0 | 0 | Unknown | [epilog](https://github.com/molnarmark/epilog)/453 | 🏆 Elegant, fancy console logger for Crystal |
-| 23 | 4 | 3 | Unknown | [shards-info](https://github.com/mamantoha/shards-info)/454 | Source code of https://shards.info/ |
-| 22 | 3 | 2 | Unknown | [sitemapper](https://github.com/jwoertink/sitemapper)/455 | Sitemap generator for Crystal apps |
-| 22 | 2 | 2 | Unknown | [sox](https://github.com/wontruefree/sox)/456 | SOCKS client and server for Crystal |
-| 22 | 1 | 0 | Unknown | [crystal-ast-helper](https://github.com/bcardiff/crystal-ast-helper)/457 | Helper tool to debug parser and formatter |
-| 22 | 1 | 0 | Unknown | [nanvault](https://github.com/marcobellaccini/nanvault)/458 | A standalone CLI tool to encrypt and decrypt files in the Ansible Vault format |
-| 22 | 2 | 0 | Unknown | [katip](https://github.com/guvencenanguvenal/katip)/459 | Katip is JSONBase Logger for Crystal |
-| 22 | 3 | 2 | Unknown | [pcap.cr](https://github.com/maiha/pcap.cr)/460 | Crystal bindings for libpcap |
-| 22 | 6 | 2 | Unknown | [redis](https://github.com/jgaskins/redis)/461 | Pure-Crystal Redis client |
-| 22 | 2 | 0 | Unknown | [schema](https://github.com/azutoolkit/schema)/462 | Schemas come to solve a simple problem. Sometimes we would like to have type-safe guarantee params when parsing HTTP parameters or Hash(String, String) for a request moreover; Schemas is to resolve precisely this problem with the added benefit of performing business rules validation to have the params adhere to a "business schema." |
-| 22 | 22 | 13 | Unknown | [discordtipbot](https://github.com/greenbigfrog/discordtipbot)/463 | A tip bot for use on discordapp.com |
-| 22 | 2 | 0 | Unknown | [crystal-validator](https://github.com/Nicolab/crystal-validator)/464 | :gem: Data validation module for Crystal lang |
-| 22 | 4 | 1 | Unknown | [maxminddb.cr](https://github.com/delef/maxminddb.cr)/465 | MaxMind DB Reader for Crystal |
-| 22 | 2 | 0 | Unknown | [crystal-two-factor-auth](https://github.com/Axentro/crystal-two-factor-auth)/466 | Two Factor Authentication Crystal code implementing the Time-based One-time Password Algorithm |
-| 22 | 0 | 0 | Unknown | [crystal-chalk-box](https://github.com/azukiapp-labs/crystal-chalk-box)/467 | Terminal string styling done right for crystal-lang |
-| 22 | 1 | 0 | Unknown | [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr)/468 | Mount multiple web applications 🚦 |
-| 21 | 1 | 4 | Unknown | [tlcr](https://github.com/porras/tlcr)/469 | Simple terminal-based client for TLDR pages, written in Crystal.  TLDR pages is a collection of simplified and community-driven man pages. |
-| 21 | 3 | 2 | Unknown | [smtp.cr](https://github.com/raynerdls/smtp.cr)/470 | smtp shard |
-| 21 | 1 | 9 | Unknown | [active-model](https://github.com/spider-gazelle/active-model)/471 | A rails-esque model framework for crystal lang |
-| 21 | 1 | 0 | Unknown | [serve](https://github.com/SuperPaintman/serve)/472 | Command line static HTTP server |
-| 21 | 9 | 1 | Unknown | [crystal-mime](https://github.com/spalger/crystal-mime)/473 | Mimetypes for Crystal, based on node-mime. |
-| 21 | 3 | 1 | Unknown | [durian.cr](https://github.com/636f7374/durian.cr)/474 | ⛵️ Available - Crystal Domain Name System Resolver |
-| 21 | 1 | 1 | Unknown | [java.cr](https://github.com/ysbaddaden/java.cr)/475 | Java Native Interface (JNI) bindings (and generator) for Crystal |
-| 21 | 5 | 1 | Unknown | [burocracia.cr](https://github.com/vinibrsl/burocracia.cr)/476 | No dependency Crystal shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP |
-| 21 | 1 | 0 | Unknown | [con](https://github.com/j8r/con)/477 | A simple, fast and readable JSON-compatible serialization format |
-| 21 | 3 | 0 | Unknown | [flipper](https://github.com/metaware/flipper)/478 | Feature Flipper, Feature Flags, Rollout Flags, Feature Toggles for Crystal |
-| 21 | 2 | 0 | Unknown | [android.cr](https://github.com/ysbaddaden/android.cr)/479 | Create Android applications using Crystal and the NDK |
-| 21 | 1 | 0 | Unknown | [crystal_live_view_example](https://github.com/jgaskins/crystal_live_view_example)/480 | Proof of concept for a Crystal version of Phoenix Live View |
-| 21 | 2 | 0 | Unknown | [concurrent.cr](https://github.com/didactic-drunk/concurrent.cr)/481 | Modern concurrency tools for Crystal |
-| 21 | 4 | 0 | Unknown | [lucky_jumpstart](https://github.com/stephendolan/lucky_jumpstart)/482 | Get up and running quickly with Lucky! |
-| 21 | 1 | 2 | Unknown | [generate](https://github.com/generate-cr/generate)/483 | Generic tool for generating whole Crystal project structure, or any part of it during lifetime of project |
-| 21 | 2 | 0 | Unknown | [session](https://github.com/porras/session)/484 | Cookie based sessions in Crystal HTTP applications |
-| 20 | 7 | 2 | Unknown | [har](https://github.com/NeuraLegion/har)/485 | HAR (HTTP Archive) parser in Crystal |
-| 20 | 0 | 1 | Unknown | [zir](https://github.com/tbrand/zir)/486 | Realizes to write macros in any scripts into any languages. |
-| 20 | 0 | 0 | Unknown | [torrent_client](https://github.com/lbarasti/torrent_client)/487 | A Bit Torrent downloader written in Crystal. |
-| 20 | 1 | 0 | Unknown | [annotation.cr](https://github.com/GrottoPress/annotation.cr)/488 | Crystal annotations |
-| 20 | 1 | 0 | Unknown | [markov](https://github.com/mccallofthewild/markov)/489 | ⛓ A Crystal library for building Markov Chains and running Markov Processes. |
-| 20 | 5 | 0 | Unknown | [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb)/490 | driver for rethinkdb / rebirthdb |
-| 20 | 3 | 6 | Unknown | [wikicr](https://github.com/Nephos/wikicr)/491 | Wiki in crystal, using Markdown and Git, inspired by dokuwiki. Last features to build are pretty hard, if you have some time to help... :) |
-| 20 | 3 | 0 | Unknown | [zincir-crystal](https://github.com/oguzbilgic/zincir-crystal)/492 | Simple distributed blockchain experiment written in Crystal |
-| 20 | 9 | 3 | Unknown | [quartz-mailer](https://github.com/amberframework/quartz-mailer)/493 | A library to get started in sending and receiving emails from and to your Crystal application |
-| 20 | 3 | 5 | Unknown | [mpp](https://github.com/foca/mpp)/494 | The mini pre processor parses files and resolves C-style #include and #define macros |
-| 20 | 13 | 8 | Unknown | [openssl.cr](https://github.com/datanoise/openssl.cr)/495 | OpenSSL binding for Crystal language |
-| 20 | 5 | 0 | Unknown | [device_detector](https://github.com/creadone/device_detector)/496 | Crystal shard for device detection by User-Agent string |
-| 20 | 2 | 1 | Unknown | [crystal-mastery](https://github.com/paulcsmith/crystal-mastery)/497 | Screencasts for learning Crystal |
-| 20 | 0 | 1 | Unknown | [Glass](https://github.com/nilsmartel/Glass)/498 | Gui Library written in Crystal |
-| 20 | 1 | 0 | Unknown | [kemal-pg](https://github.com/sdogruyol/kemal-pg)/499 | Easily add Postgresql database to Kemal |
-| 20 | 19 | 5 | Unknown | [kemal-csrf](https://github.com/kemalcr/kemal-csrf)/500 | Add CSRF protection to your Kemal application |
-| 20 | 6 | 2 | 8 days ago | [lucky_router](https://github.com/luckyframework/lucky_router)/501 | The router for the Lucky framework, can be used outside Lucky |
-| 20 | 5 | 1 | 7 days ago | [wafalyzer](https://github.com/NeuraLegion/wafalyzer)/502 | Web Application Firewall (WAF) Detector |
-| 20 | 0 | 0 | 6 months ago | [tremolite](https://github.com/akwiatkowski/tremolite)/503 | Blog generator |
-| 20 | 0 | 2 | 8 months ago | [mochi](https://github.com/awcrotwell/mochi)/504 | Mochi is a authentication shard inspired by devise. Mochi is designed for the Amber framework with support for both Granite & Jennifer ORM's. |
-| 20 | 1 | 2 | 1 year, 7 months ago | [devmail](https://github.com/tijn/devmail)/505 | An SMTP/POP3-server that keeps every email you send it until you fetch it |
-| 19 | 2 | 0 | 3 years ago | [auto_json](https://github.com/kostya/auto_json)/506 | Auto JSON convertations for classes and structs, based on auto_constructor fields |
-| 19 | 3 | 1 | 1 year, 15 days ago | [icrystal](https://github.com/RomainFranceschini/icrystal)/507 | Jupyter kernel for the Crystal language |
-| 19 | 2 | 0 | 1 year, 5 months ago | [crystal_maze](https://github.com/Demonstrandum/crystal_maze)/508 | A* Path finding for PNG mazes, from Ruby now in Crystal. Using StumpyPNG |
-| 19 | 0 | 0 | 2 years ago | [iemon](https://github.com/tbrand/iemon)/509 | None |
-| 19 | 2 | 2 | 9 months ago | [snipcli](https://github.com/snipline/snipcli)/510 | Snipline CLI is the command-line tool for Snipline |
-| 19 | 1 | 1 | 3 years ago | [crystal_library](https://github.com/ysbaddaden/crystal_library)/511 | Static/Shared libraries written in Crystal (Proof of Concept) |
-| 19 | 0 | 0 | 1 year, 1 month ago | [tdiff](https://github.com/aleandros/tdiff)/512 | CLI tool for comparing tree like structures |
-| 19 | 7 | 14 | a month ago | [jasper-helpers](https://github.com/amberframework/jasper-helpers)/513 | A library of helpers for working with html for apps Crystal |
-| 19 | 3 | 8 | 1 year, 11 months ago | [http-params-serializable](https://github.com/vladfaust/http-params-serializable)/514 | The HTTP params parsing module for Crystal 🤓 |
-| 19 | 3 | 1 | 3 years ago | [watcher](https://github.com/faustinoaq/watcher)/515 | Crystal shard to watch file changes using File.stat |
-| 19 | 8 | 4 | 4 months ago | [crystal_slack](https://github.com/manastech/crystal_slack)/516 | Parse Slack slash commands or send incoming web hooks from Crystal |
-| 19 | 1 | 1 | 3 years ago | [sense-api.cr](https://github.com/chendo/sense-api.cr)/517 | None |
-| 19 | 2 | 1 | 3 years ago | [kemal-watcher](https://github.com/faustinoaq/kemal-watcher)/518 | Kemal plugin to watch files and live-reload the browser |
-| 19 | 0 | 1 | 21 days ago | [fastimage.cr](https://github.com/jetrockets/fastimage.cr)/519 | A Crystal implementation of fastimage – library that finds the dimensions and type of an image fetching as little as needed |
-| 19 | 1 | 11 | 13 days ago | [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm)/520 | RethinkDB ORM for Crystal lang |
-| 19 | 4 | 0 | 2 years ago | [ficha](https://github.com/codenoid/ficha)/521 | An super secret chat app for any body who need privacy ✉ |
-| 19 | 0 | 2 | 3 years ago | [sonicri](https://github.com/mjago/sonicri)/522 | Audio Player |
-| 19 | 0 | 0 | 3 months ago | [crystime](https://github.com/crystallabs/crystime)/523 | Advanced time, calendar, schedule, and remind library for Crystal |
-| 19 | 2 | 1 | 13 days ago | [github-action](https://github.com/crystal-ameba/github-action)/524 | A GitHub Action that lints Crystal shards with Ameba |
-| 19 | 5 | 0 | 3 years ago | [soegen](https://github.com/Ragmaanir/soegen)/525 | Elasticsearch client library for crystal, similar to rubys stretcher gem |
-| 19 | 2 | 0 | 2 years ago | [salt](https://github.com/icyleaf/salt)/526 | **Unmaintained** A Human Friendly Interface for HTTP server written in Crystal. |
-| 19 | 0 | 0 | a month ago | [tput.cr](https://github.com/crystallabs/tput.cr)/527 | Low-level component for building term/console applications in Crystal |
-| 19 | 0 | 0 | 17 days ago | [water](https://github.com/shootingfly/water)/528 | A library for writing HTML in plain Crystal. |
-| 19 | 2 | 0 | 2 years ago | [text](https://github.com/johnjansen/text)/529 | A collection of phonetic algorithms for Crystal. Including; Porter-Stemmer, Soundex, Metaphone, Double Metaphone & White Similarity |
-| 19 | 0 | 0 | 1 year, 11 days ago | [gripen](https://github.com/grip-framework/gripen)/530 | Minimal Web Framework/Router in Crystal, with automatic Swagger/OpenAPI API docs generation. |
-| 19 | 2 | 0 | 5 years ago | [beryl](https://github.com/luislavena/beryl)/531 | Action-focused HTTP routing library for Crystal |
-| 19 | 2 | 1 | 10 months ago | [openai-crystal](https://github.com/sferik/openai-crystal)/532 | OpenAI API client library to access GPT-3 in Crystal |
-| 19 | 0 | 0 | a month ago | [event_handler](https://github.com/crystallabs/event_handler)/533 | Application event model for Crystal |
-| 18 | 1 | 0 | 13 days ago | [lexbor](https://github.com/kostya/lexbor)/534 | Experimental html parser for Crystal based on new lexborisov's HTML5 parser lexbor. |
-| 18 | 0 | 0 | 4 months ago | [nya](https://github.com/nya-engine/nya)/535 | [WIP] Game Engine written in Crystal |
-| 18 | 3 | 0 | 19 days ago | [CRelease](https://github.com/elorest/CRelease)/536 | Application to simpify versioning and releasing crystal projects. |
-| 18 | 0 | 0 | 4 months ago | [triki](https://github.com/josacar/triki)/537 | Mysql, PostgreSQL and SQL dump obfuscator aka anonimizer |
-| 18 | 0 | 2 | 9 months ago | [pars3k](https://github.com/voximity/pars3k)/538 | Crystal parser combinator library |
-| 18 | 6 | 1 | 2 years ago | [lingo](https://github.com/rmosolgo/lingo)/539 | parser generator  |
-| 18 | 5 | 1 | 1 year, 3 months ago | [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal)/540 | Crystal C bindings and wrapper for libwkhtmltox library |
-| 18 | 1 | 1 | 4 months ago | [crafana.cr](https://github.com/spoved/crafana.cr)/541 | Crystal library to help autogenerate Grafana dashboards |
-| 18 | 7 | 0 | 2 years ago | [timecop.cr](https://github.com/waterlink/timecop.cr)/542 | Mock with `Time.now` with the power of time travel, time freeze and time scale. |
-| 18 | 3 | 3 | 2 months ago | [openapi-generator](https://github.com/elbywan/openapi-generator)/543 | An OpenAPI document generator. ⚙️ |
-| 18 | 7 | 2 | 10 months ago | [pub-relay](https://github.com/noellabo/pub-relay)/544 | A service-type ActivityPub actor that will re-broadcast anything sent to it to anyone who subscribes to it. |
-| 18 | 7 | 2 | 4 years ago | [crystal-sdl2](https://github.com/weskinner/crystal-sdl2)/545 | None |
-| 18 | 2 | 0 | 1 year, 8 months ago | [syscall.cr](https://github.com/kubo39/syscall.cr)/546 | syscall interface for Crystal |
-| 18 | 1 | 0 | 5 years ago | [pdf.cr](https://github.com/marceloboeira/pdf.cr)/547 | :pencil: PDF writer for Crystal  |
-| 18 | 2 | 0 | 3 months ago | [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser)/548 | Binary parser for Crystal |
-| 18 | 2 | 0 | 6 years ago | [crocoa](https://github.com/manastech/crocoa)/549 | Cocoa for crystal |
-| 18 | 1 | 1 | 5 months ago | [crystal-molinillo](https://github.com/crystal-lang/crystal-molinillo)/550 | A generic dependency resolution algorithm. Ported from https://github.com/CocoaPods/Molinillo/ |
-| 18 | 2 | 0 | 1 year, 3 months ago | [scrypt-crystal](https://github.com/ysbaddaden/scrypt-crystal)/551 | Crystal bindings for Colin Percival's scrypt key derivation function |
-| 18 | 4 | 0 | 3 years ago | [docopt.cr](https://github.com/chenkovsky/docopt.cr)/552 | docopt for crystal-lang |
-| 18 | 3 | 5 | 1 year, 5 months ago | [click](https://github.com/calebporzio/click)/553 | The podcast recording and editing suite of your dreams. Featuring just the one button. |
-| 18 | 3 | 0 | 1 year, 3 months ago | [cocol](https://github.com/cocol-project/cocol)/554 | Rapid blockchain prototyping  |
-| 18 | 6 | 2 | 4 months ago | [ncurses](https://github.com/SamualLB/ncurses)/555 | Ncurses bindings for Crystal |
-| 17 | 1 | 0 | 3 years ago | [mos_game](https://github.com/bararchy/mos_game)/556 | Mini Offline Singleplayer game in Crystal |
-| 17 | 3 | 0 | 4 months ago | [fast_irc.cr](https://github.com/RX14/fast_irc.cr)/557 | A fast IRC parsing library for crystal. |
-| 17 | 2 | 3 | 3 years ago | [psutil.cr](https://github.com/aablinov/psutil.cr)/558 | Psutils.cr is a Crystal port of https://github.com/shirou/gopsutil |
-| 17 | 0 | 1 | a month ago | [hardwire](https://github.com/jerometwell/hardwire)/559 | A compile-time, non-intrusive dependency injection system. |
-| 17 | 3 | 1 | 4 years ago | [watchbird](https://github.com/agatan/watchbird)/560 | file monitoring library with Crystal |
-| 17 | 1 | 0 | 3 years ago | [redisoid](https://github.com/kostya/redisoid)/561 | Redis client for Crystal with auto-reconnection and pool (wrapper for stefanwille/crystal-redis, kostya/redis-reconnect, ysbaddaden/pool). Ready to use in production. |
-| 17 | 3 | 1 | 5 years ago | [slack-invite](https://github.com/crystal-jp/slack-invite)/562 | Automatic inviting in Slack Team for Crystal-JP. |
-| 17 | 1 | 0 | 2 months ago | [shivneri](https://github.com/ujjwalguptaofficial/shivneri)/563 | Component based MVC web framework based on fort architecture targeting good code structures, modularity & performance. |
-| 17 | 3 | 1 | 1 year, 9 months ago | [stumpy_gif](https://github.com/stumpycr/stumpy_gif)/564 | Write GIF images in pure Crystal |
-| 17 | 0 | 0 | 3 months ago | [run_with_fork](https://github.com/kostya/run_with_fork)/565 | Some simple parallelism for Crystal. Run some heavy or blocked thread operations in background fork. |
-| 17 | 2 | 7 | 3 years ago | [pegasus](https://github.com/pawandubey/pegasus)/566 | PEG based parser generator library in Crystal |
-| 17 | 1 | 0 | 2 years ago | [crystal_coin](https://github.com/eqbal/crystal_coin)/567 | Building blockchain from scratch using crystal for Toptal Blog (https://www.toptal.com/blockchain/crystal-programming-language-tutorial) |
-| 17 | 7 | 0 | 3 years ago | [timecop.cr](https://github.com/tobyapi/timecop.cr)/568 | A timecop inspire library allowing "time travel", "freezing time" and "time acceleration". |
-| 17 | 3 | 0 | 2 years ago | [google_maps_api](https://github.com/fridgerator/google_maps_api)/569 | Crystal library for the Google Maps API. |
-| 17 | 1 | 1 | 1 year, 8 months ago | [json-tools](https://github.com/impatienttraveller/json-tools)/570 | An implementation of RFC-6901 and RFC-6902 in Crystal Lang |
-| 17 | 13 | 3 | 3 months ago | [awscr-signer](https://github.com/taylorfinnell/awscr-signer)/571 | AWS request signing in Crystal |
-| 17 | 1 | 1 | 2 years ago | [crystal-dfa](https://github.com/ziprandom/crystal-dfa)/572 | A Crystal Implementation of a Thompson NFA/DFA Regex Matcher  |
-| 17 | 2 | 1 | 2 months ago | [kemal-github-api](https://github.com/sdogruyol/kemal-github-api)/573 | Github API routes benchmark for Kemal |
-| 17 | 0 | 0 | 7 days ago | [humanize_time](https://github.com/mamantoha/humanize_time)/574 | Adds the humanize method to reports the approximate distance in time between two Time. humanize supports i18n translations too so it can be used in internationalized apps. |
-| 17 | 4 | 0 | 1 year, 1 month ago | [slack.cr](https://github.com/DougEverly/slack.cr)/575 | Slack Real Time Messaging API in Crystal  |
-| 17 | 0 | 0 | 1 year, 17 days ago | [reader](https://github.com/crystal-term/reader)/576 | A set of methods for processing keyboard input in character, line and multiline modes. |
-| 17 | 1 | 0 | 2 years ago | [crystal-sensor](https://github.com/instana/crystal-sensor)/577 | 🔮 Crystal Distributed Tracing & Metrics Sensor for Instana  |
-| 17 | 3 | 0 | a month ago | [graphlb](https://github.com/mettuaditya/graphlb)/578 | graphlb is a crystal library which contains all the graph Data-Structures and Algorithms implemented in crystal-lang. |
-| 17 | 4 | 3 | 1 year, 2 months ago | [github_desktop_notifications](https://github.com/jhass/github_desktop_notifications)/579 | Display your Github notifications via libnotify |
-| 17 | 2 | 1 | 4 years ago | [protokol](https://github.com/teodor-pripoae/protokol)/580 | Protocol buffers for Crystal |
-| 17 | 14 | 13 | 2 years ago | [lucky_migrator](https://github.com/luckyframework/lucky_migrator)/581 | LuckyMigrator has been merged into LuckyRecord |
-| 17 | 4 | 3 | 2 years ago | [tarantool.cr](https://github.com/vladfaust/tarantool.cr)/582 | The Tarantool driver (a.k.a. connector) 🕷 |
-| 17 | 0 | 2 | 1 year, 9 months ago | [crono](https://github.com/jwoertink/crono)/583 | 2D Video Game framework |
-| 16 | 0 | 2 | 1 year, 2 months ago | [prompt](https://github.com/crystal-term/prompt)/584 | A beautiful and powerful interactive command line prompt |
-| 16 | 0 | 0 | a day ago | [azu](https://github.com/azutoolkit/azu)/585 | Application Development Toolkit for Crystal Language  |
-| 16 | 6 | 0 | 2 years ago | [crystal-blockchain](https://github.com/bradford-hamilton/crystal-blockchain)/586 | None |
-| 16 | 3 | 0 | 2 years ago | [raylib-cr](https://github.com/AregevDev/raylib-cr)/587 | Crystal wrapper around raylib |
-| 16 | 0 | 0 | 1 year, 7 months ago | [sonic-crystal](https://github.com/babelian/sonic-crystal)/588 | A Crystal client for Sonic search backend (Ported from https://github.com/atipugin/sonic-ruby) |
-| 16 | 0 | 5 | 3 months ago | [authly](https://github.com/azutoolkit/authly)/589 | OAuth2 Provider Library - Authly is an OAuth2 Library for creating Authorization Servers that follows OAuth2 authorization mechanisms. |
-| 16 | 4 | 0 | 2 months ago | [transfer_more](https://github.com/Nephos/transfer_more)/590 | Fast and temporary file uploader :signal_strength: UPSTREAM ON https://git.sceptique.eu/Sceptique/transfer_more |
-| 16 | 3 | 3 | 4 months ago | [crystal-gsl](https://github.com/ruivieira/crystal-gsl)/591 | GNU Scientific Library bindings for Crystal |
-| 16 | 2 | 2 | 3 years ago | [libgit2](https://github.com/crystal-git/libgit2)/592 | Yet another Crystal library for manipulating Git repositories in an object-oriented way. |
-| 16 | 1 | 0 | 1 year, 3 months ago | [crylog](https://github.com/Blacksmoke16/crylog)/593 | Flexible logging framework based on Monolog |
-| 16 | 4 | 0 | 1 year, 2 months ago | [autolink.cr](https://github.com/crystal-community/autolink.cr)/594 | :link: Auto link for Crystal |
-| 16 | 0 | 0 | 3 years ago | [crystal-notifications](https://github.com/crystal-community/crystal-notifications)/595 | A library for notifications, this started as a port from ActiveSupport::Notifications |
-| 16 | 0 | 0 | 1 year, 6 months ago | [prorate-cr](https://github.com/WJWH/prorate-cr)/596 | Redis-based throttling and rate limiting for Crystal |
-| 16 | 5 | 3 | 3 years ago | [cache-hash](https://github.com/samueleaton/cache-hash)/597 | A simple key/value store where pairs can expire after a specified interval |
-| 16 | 0 | 0 | 22 days ago | [opengl_with_crystal](https://github.com/gummybears/opengl_with_crystal)/598 | None |
-| 16 | 3 | 0 | 26 days ago | [Hashbrown](https://github.com/GeopJr/Hashbrown)/599 | A simple GUI tool to generate, compare and verify MD5, SHA1 & SHA256 hashes. |
-| 16 | 0 | 0 | 3 months ago | [x_do.cr](https://github.com/woodruffw/x_do.cr)/600 | Crystal bindings for libxdo (xdotool) |
-| 16 | 1 | 2 | 18 days ago | [castblock](https://github.com/erdnaxeli/castblock)/601 | Automatically skip sponsor segments in YouTube videos playing on Chromecast. |
-| 16 | 0 | 0 | 3 years ago | [md2pdf](https://github.com/straight-shoota/md2pdf)/602 | Convert markdown files to pdf with flexible template and stylesheet |
+| 24 | 2 | 2 | 1 year, 4 months ago | [accord](https://github.com/neovintage/accord)/423 | Validations for Crystal Objects |
+| 24 | 7 | 0 | 1 year, 4 months ago | [influxdb.cr](https://github.com/jeromegn/influxdb.cr)/424 | InfluxDB driver for Crystal |
+| 24 | 4 | 5 | 2 years ago | [i18n.cr](https://github.com/vladfaust/i18n.cr)/425 | Internationalization shard 🌍 |
+| 24 | 2 | 1 | 3 years ago | [packetz](https://github.com/picatz/packetz)/426 | 🦈 Packet capturing library built with LibPcap |
+| 24 | 1 | 0 | 1 year, 4 months ago | [circuit_breaker](https://github.com/TPei/circuit_breaker)/427 | Implementation of the circuit breaker pattern in crystal |
+| 24 | 6 | 1 | 9 months ago | [bitfields](https://github.com/elorest/bitfields)/428 | Bit Fields for Crystal Language |
+| 24 | 4 | 7 | a month ago | [noir](https://github.com/MakeNowJust/noir)/429 | NOIR - Syntax Highlight Library for Crystal |
+| 24 | 3 | 0 | 3 days ago | [crystal-html5](https://github.com/naqvis/crystal-html5)/430 | Crystal implementation of HTML5-Compliant Tokenizer and Parser with XPath & CSS Selector support |
+| 24 | 2 | 0 | 4 years ago | [denetmen](https://github.com/izniburak/denetmen)/431 | useful micro check library for Crystal Language. |
+| 24 | 0 | 1 | 1 year, 3 months ago | [cru](https://github.com/watzon/cru)/432 | LibUI based GUI framework for Crystal |
+| 24 | 5 | 0 | a month ago | [ac-library.cr](https://github.com/google/ac-library.cr)/433 | Port of ac-library implemented in Crystal Programming Language |
+| 24 | 4 | 3 | 2 months ago | [ai4cr](https://github.com/drhuffman12/ai4cr)/434 | Artificial Intelligence for Crystal (based on https://github.com/SergioFierens/ai4r) |
+| 24 | 7 | 4 | 6 months ago | [http_proxy](https://github.com/mamantoha/http_proxy)/435 | A HTTP Proxy server and client written in Crystal |
+| 24 | 10 | 3 | a month ago | [libgit2.cr](https://github.com/smacker/libgit2.cr)/436 | Crystal-lang binding to libgit2 with interface similar to rugged |
+| 24 | 0 | 2 | 1 year, 7 months ago | [trashman](https://github.com/Groogy/trashman)/437 | Garbage Collector Profiler for Crystal |
+| 24 | 1 | 0 | 2 years ago | [moola](https://github.com/dorkrawk/moola)/438 | Deal with money in Crystal |
+| 24 | 1 | 1 | 1 year, 1 month ago | [dazzlie](https://github.com/obskyr/dazzlie)/439 | Encode and decode graphics from a variety of retro video game systems! |
+| 24 | 3 | 3 | 4 months ago | [dexter](https://github.com/luckyframework/dexter)/440 | A logger with maximum customizability and surgical precision |
+| 23 | 5 | 0 | a month ago | [crotest](https://github.com/emancu/crotest)/441 | A tiny and simple test framework for crystal |
+| 23 | 2 | 2 | 1 year, 4 months ago | [sox](https://github.com/wontruefree/sox)/442 | SOCKS client and server for Crystal |
+| 23 | 7 | 5 | 6 months ago | [Crirc](https://github.com/Meoowww/Crirc)/443 | Migrated to https://git.sceptique.eu/Sceptique/Crirc |
+| 23 | 7 | 7 | 5 months ago | [secp256k1.cr](https://github.com/q9f/secp256k1.cr)/444 | a native library implementing secp256k1 purely for the crystal language |
+| 23 | 5 | 0 | 1 year, 9 months ago | [Portforge](https://github.com/Beyarz/Portforge)/445 | Lightweight utility to fool port scanners |
+| 23 | 6 | 2 | 3 years ago | [ncurses-crystal](https://github.com/repomaa/ncurses-crystal)/446 | ncurses bindings for crystal |
+| 23 | 0 | 0 | 5 months ago | [json_on_steroids](https://github.com/anykeyh/json_on_steroids)/447 | [Crystal Lang] Handle and mutate JSON document easily |
+| 23 | 1 | 0 | 4 months ago | [popcorn](https://github.com/icyleaf/popcorn)/448 | Easy and Safe popping from one type to another. |
+| 23 | 3 | 1 | 2 days ago | [crab](https://github.com/mattrberry/crab)/449 | A Game Boy, Game Boy Color, and Game Boy Advance emulator in Crystal Lang |
+| 23 | 1 | 2 | 25 days ago | [castblock](https://github.com/erdnaxeli/castblock)/450 | Automatically skip sponsor segments in YouTube videos playing on Chromecast. |
+| 23 | 0 | 0 | 7 days ago | [mel](https://github.com/GrottoPress/mel)/451 | A scalable asynchronous event-driven jobs engine |
+| 23 | 2 | 0 | 3 days ago | [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars)/452 | ⭐️ Web frameworks for Crystal, most starred on Github |
+| 23 | 5 | 0 | 4 years ago | [terminal_table.cr](https://github.com/benoist/terminal_table.cr)/453 | Terminal Table is a simple ASCII table generator written in Crystal. |
+| 23 | 0 | 0 | 4 years ago | [crystal-api-backend](https://github.com/dantebronto/crystal-api-backend)/454 | Proof-of-concept JSON API written in Crystal |
+| 23 | 0 | 0 | 5 days ago | [epilog](https://github.com/molnarmark/epilog)/455 | 🏆 Elegant, fancy console logger for Crystal |
+| 23 | 4 | 3 | a day ago | [shards-info](https://github.com/mamantoha/shards-info)/456 | Source code of https://shards.info/ |
+| 23 | 5 | 0 | 7 hours ago | [lucky_jumpstart](https://github.com/stephendolan/lucky_jumpstart)/457 | Get up and running quickly with Lucky! |
+| 22 | 3 | 2 | 2 months ago | [sitemapper](https://github.com/jwoertink/sitemapper)/458 | Sitemap generator for Crystal apps |
+| 22 | 1 | 0 | 1 year, 7 months ago | [crystal-ast-helper](https://github.com/bcardiff/crystal-ast-helper)/459 | Helper tool to debug parser and formatter |
+| 22 | 1 | 0 | 4 months ago | [nanvault](https://github.com/marcobellaccini/nanvault)/460 | A standalone CLI tool to encrypt and decrypt files in the Ansible Vault format |
+| 22 | 2 | 0 | 1 year, 4 months ago | [katip](https://github.com/guvencenanguvenal/katip)/461 | Katip is JSONBase Logger for Crystal |
+| 22 | 3 | 2 | 1 year, 2 months ago | [pcap.cr](https://github.com/maiha/pcap.cr)/462 | Crystal bindings for libpcap |
+| 22 | 6 | 2 | 2 months ago | [redis](https://github.com/jgaskins/redis)/463 | Pure-Crystal Redis client |
+| 22 | 2 | 0 | 3 months ago | [schema](https://github.com/azutoolkit/schema)/464 | Schemas come to solve a simple problem. Sometimes we would like to have type-safe guarantee params when parsing HTTP parameters or Hash(String, String) for a request moreover; Schemas is to resolve precisely this problem with the added benefit of performing business rules validation to have the params adhere to a "business schema." |
+| 22 | 22 | 13 | 2 years ago | [discordtipbot](https://github.com/greenbigfrog/discordtipbot)/465 | A tip bot for use on discordapp.com |
+| 22 | 2 | 0 | a month ago | [crystal-validator](https://github.com/Nicolab/crystal-validator)/466 | :gem: Data validation module for Crystal lang |
+| 22 | 4 | 1 | 4 months ago | [maxminddb.cr](https://github.com/delef/maxminddb.cr)/467 | MaxMind DB Reader for Crystal |
+| 22 | 2 | 0 | 1 year, 9 months ago | [crystal-two-factor-auth](https://github.com/Axentro/crystal-two-factor-auth)/468 | Two Factor Authentication Crystal code implementing the Time-based One-time Password Algorithm |
+| 22 | 0 | 0 | 4 years ago | [crystal-chalk-box](https://github.com/azukiapp-labs/crystal-chalk-box)/469 | Terminal string styling done right for crystal-lang |
+| 22 | 1 | 0 | 2 years ago | [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr)/470 | Mount multiple web applications 🚦 |
+| 21 | 1 | 4 | 4 years ago | [tlcr](https://github.com/porras/tlcr)/471 | Simple terminal-based client for TLDR pages, written in Crystal.  TLDR pages is a collection of simplified and community-driven man pages. |
+| 21 | 3 | 2 | 3 years ago | [smtp.cr](https://github.com/raynerdls/smtp.cr)/472 | smtp shard |
+| 21 | 1 | 10 | a month ago | [active-model](https://github.com/spider-gazelle/active-model)/473 | A rails-esque model framework for crystal lang |
+| 21 | 1 | 0 | 4 years ago | [serve](https://github.com/SuperPaintman/serve)/474 | Command line static HTTP server |
+| 21 | 9 | 1 | 2 years ago | [crystal-mime](https://github.com/spalger/crystal-mime)/475 | Mimetypes for Crystal, based on node-mime. |
+| 21 | 3 | 1 | 4 months ago | [durian.cr](https://github.com/636f7374/durian.cr)/476 | ⛵️ Available - Crystal Domain Name System Resolver |
+| 21 | 1 | 1 | 4 years ago | [java.cr](https://github.com/ysbaddaden/java.cr)/477 | Java Native Interface (JNI) bindings (and generator) for Crystal |
+| 21 | 5 | 1 | 1 year, 5 months ago | [burocracia.cr](https://github.com/vinibrsl/burocracia.cr)/478 | No dependency Crystal shard to validate, generate and format Brazilian burocracias such as CPF, CNPJ and CEP |
+| 21 | 1 | 0 | 1 year, 8 months ago | [con](https://github.com/j8r/con)/479 | A simple, fast and readable JSON-compatible serialization format |
+| 21 | 3 | 0 | 2 years ago | [flipper](https://github.com/metaware/flipper)/480 | Feature Flipper, Feature Flags, Rollout Flags, Feature Toggles for Crystal |
+| 21 | 5 | 0 | 14 days ago | [wafalyzer](https://github.com/NeuraLegion/wafalyzer)/481 | Web Application Firewall (WAF) Detector |
+| 21 | 2 | 0 | 4 years ago | [android.cr](https://github.com/ysbaddaden/android.cr)/482 | Create Android applications using Crystal and the NDK |
+| 21 | 1 | 0 | 2 years ago | [crystal_live_view_example](https://github.com/jgaskins/crystal_live_view_example)/483 | Proof of concept for a Crystal version of Phoenix Live View |
+| 21 | 2 | 0 | a month ago | [concurrent.cr](https://github.com/didactic-drunk/concurrent.cr)/484 | Modern concurrency tools for Crystal |
+| 21 | 0 | 2 | 8 months ago | [mochi](https://github.com/awcrotwell/mochi)/485 | Mochi is a authentication shard inspired by devise. Mochi is designed for the Amber framework with support for both Granite & Jennifer ORM's. |
+| 21 | 1 | 2 | 6 years ago | [generate](https://github.com/generate-cr/generate)/486 | Generic tool for generating whole Crystal project structure, or any part of it during lifetime of project |
+| 21 | 2 | 0 | 5 years ago | [session](https://github.com/porras/session)/487 | Cookie based sessions in Crystal HTTP applications |
+| 20 | 7 | 1 | 6 days ago | [har](https://github.com/NeuraLegion/har)/488 | HAR (HTTP Archive) parser in Crystal |
+| 20 | 0 | 1 | 4 years ago | [zir](https://github.com/tbrand/zir)/489 | Realizes to write macros in any scripts into any languages. |
+| 20 | 0 | 0 | 8 months ago | [torrent_client](https://github.com/lbarasti/torrent_client)/490 | A Bit Torrent downloader written in Crystal. |
+| 20 | 1 | 0 | 3 months ago | [annotation.cr](https://github.com/GrottoPress/annotation.cr)/491 | Crystal annotations |
+| 20 | 1 | 0 | 5 months ago | [markov](https://github.com/mccallofthewild/markov)/492 | ⛓ A Crystal library for building Markov Chains and running Markov Processes. |
+| 20 | 5 | 0 | 4 months ago | [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb)/493 | driver for rethinkdb / rebirthdb |
+| 20 | 3 | 6 | 4 months ago | [wikicr](https://github.com/Nephos/wikicr)/494 | Wiki in crystal, using Markdown and Git, inspired by dokuwiki. Last features to build are pretty hard, if you have some time to help... :) |
+| 20 | 3 | 0 | 2 years ago | [zincir-crystal](https://github.com/oguzbilgic/zincir-crystal)/495 | Simple distributed blockchain experiment written in Crystal |
+| 20 | 9 | 3 | a month ago | [quartz-mailer](https://github.com/amberframework/quartz-mailer)/496 | A library to get started in sending and receiving emails from and to your Crystal application |
+| 20 | 1 | 1 | 4 months ago | [crafana.cr](https://github.com/spoved/crafana.cr)/497 | Crystal library to help autogenerate Grafana dashboards |
+| 20 | 3 | 5 | 4 years ago | [mpp](https://github.com/foca/mpp)/498 | The mini pre processor parses files and resolves C-style #include and #define macros |
+| 20 | 13 | 8 | 5 years ago | [openssl.cr](https://github.com/datanoise/openssl.cr)/499 | OpenSSL binding for Crystal language |
+| 20 | 5 | 0 | 2 months ago | [device_detector](https://github.com/creadone/device_detector)/500 | Crystal shard for device detection by User-Agent string |
+| 20 | 2 | 1 | 2 years ago | [crystal-mastery](https://github.com/paulcsmith/crystal-mastery)/501 | Screencasts for learning Crystal |
+| 20 | 0 | 1 | 7 months ago | [Glass](https://github.com/nilsmartel/Glass)/502 | Gui Library written in Crystal |
+| 20 | 1 | 0 | 4 years ago | [kemal-pg](https://github.com/sdogruyol/kemal-pg)/503 | Easily add Postgresql database to Kemal |
+| 20 | 19 | 5 | 4 months ago | [kemal-csrf](https://github.com/kemalcr/kemal-csrf)/504 | Add CSRF protection to your Kemal application |
+| 20 | 6 | 2 | 15 days ago | [lucky_router](https://github.com/luckyframework/lucky_router)/505 | The router for the Lucky framework, can be used outside Lucky |
+| 20 | 0 | 0 | 6 months ago | [tremolite](https://github.com/akwiatkowski/tremolite)/506 | Blog generator |
+| 20 | 1 | 2 | 1 year, 7 months ago | [devmail](https://github.com/tijn/devmail)/507 | An SMTP/POP3-server that keeps every email you send it until you fetch it |
+| 19 | 2 | 0 | 3 years ago | [auto_json](https://github.com/kostya/auto_json)/508 | Auto JSON convertations for classes and structs, based on auto_constructor fields |
+| 19 | 1 | 0 | 20 days ago | [lexbor](https://github.com/kostya/lexbor)/509 | Experimental html parser for Crystal based on new lexborisov's HTML5 parser lexbor. |
+| 19 | 3 | 1 | 1 year, 21 days ago | [icrystal](https://github.com/RomainFranceschini/icrystal)/510 | Jupyter kernel for the Crystal language |
+| 19 | 2 | 0 | 1 year, 5 months ago | [crystal_maze](https://github.com/Demonstrandum/crystal_maze)/511 | A* Path finding for PNG mazes, from Ruby now in Crystal. Using StumpyPNG |
+| 19 | 0 | 0 | 2 years ago | [iemon](https://github.com/tbrand/iemon)/512 | None |
+| 19 | 2 | 2 | 9 months ago | [snipcli](https://github.com/snipline/snipcli)/513 | Snipline CLI is the command-line tool for Snipline |
+| 19 | 1 | 1 | 3 years ago | [crystal_library](https://github.com/ysbaddaden/crystal_library)/514 | Static/Shared libraries written in Crystal (Proof of Concept) |
+| 19 | 0 | 0 | 1 year, 2 months ago | [tdiff](https://github.com/aleandros/tdiff)/515 | CLI tool for comparing tree like structures |
+| 19 | 7 | 14 | a month ago | [jasper-helpers](https://github.com/amberframework/jasper-helpers)/516 | A library of helpers for working with html for apps Crystal |
+| 19 | 3 | 8 | 1 year, 11 months ago | [http-params-serializable](https://github.com/vladfaust/http-params-serializable)/517 | The HTTP params parsing module for Crystal 🤓 |
+| 19 | 3 | 1 | 3 years ago | [watcher](https://github.com/faustinoaq/watcher)/518 | Crystal shard to watch file changes using File.stat |
+| 19 | 8 | 4 | 4 months ago | [crystal_slack](https://github.com/manastech/crystal_slack)/519 | Parse Slack slash commands or send incoming web hooks from Crystal |
+| 19 | 1 | 1 | 3 years ago | [sense-api.cr](https://github.com/chendo/sense-api.cr)/520 | None |
+| 19 | 2 | 1 | 3 years ago | [kemal-watcher](https://github.com/faustinoaq/kemal-watcher)/521 | Kemal plugin to watch files and live-reload the browser |
+| 19 | 0 | 1 | 28 days ago | [fastimage.cr](https://github.com/jetrockets/fastimage.cr)/522 | A Crystal implementation of fastimage – library that finds the dimensions and type of an image fetching as little as needed |
+| 19 | 1 | 11 | 20 days ago | [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm)/523 | RethinkDB ORM for Crystal lang |
+| 19 | 4 | 0 | 2 years ago | [ficha](https://github.com/codenoid/ficha)/524 | An super secret chat app for any body who need privacy ✉ |
+| 19 | 0 | 2 | 3 years ago | [sonicri](https://github.com/mjago/sonicri)/525 | Audio Player |
+| 19 | 0 | 0 | 3 months ago | [crystime](https://github.com/crystallabs/crystime)/526 | Advanced time, calendar, schedule, and remind library for Crystal |
+| 19 | 2 | 1 | 20 days ago | [github-action](https://github.com/crystal-ameba/github-action)/527 | A GitHub Action that lints Crystal shards with Ameba |
+| 19 | 5 | 0 | 3 years ago | [soegen](https://github.com/Ragmaanir/soegen)/528 | Elasticsearch client library for crystal, similar to rubys stretcher gem |
+| 19 | 2 | 0 | 2 years ago | [salt](https://github.com/icyleaf/salt)/529 | **Unmaintained** A Human Friendly Interface for HTTP server written in Crystal. |
+| 19 | 0 | 0 | a month ago | [tput.cr](https://github.com/crystallabs/tput.cr)/530 | Low-level component for building term/console applications in Crystal |
+| 19 | 0 | 0 | 24 days ago | [water](https://github.com/shootingfly/water)/531 | A library for writing HTML in plain Crystal. |
+| 19 | 2 | 0 | 2 years ago | [text](https://github.com/johnjansen/text)/532 | A collection of phonetic algorithms for Crystal. Including; Porter-Stemmer, Soundex, Metaphone, Double Metaphone & White Similarity |
+| 19 | 0 | 0 | 1 year, 18 days ago | [gripen](https://github.com/grip-framework/gripen)/533 | Minimal Web Framework/Router in Crystal, with automatic Swagger/OpenAPI API docs generation. |
+| 19 | 2 | 0 | 5 years ago | [beryl](https://github.com/luislavena/beryl)/534 | Action-focused HTTP routing library for Crystal |
+| 19 | 2 | 1 | 11 months ago | [openai-crystal](https://github.com/sferik/openai-crystal)/535 | OpenAI API client library to access GPT-3 in Crystal |
+| 19 | 0 | 0 | a month ago | [event_handler](https://github.com/crystallabs/event_handler)/536 | Application event model for Crystal |
+| 18 | 0 | 0 | 5 months ago | [nya](https://github.com/nya-engine/nya)/537 | [WIP] Game Engine written in Crystal |
+| 18 | 3 | 0 | 26 days ago | [CRelease](https://github.com/elorest/CRelease)/538 | Application to simpify versioning and releasing crystal projects. |
+| 18 | 0 | 0 | 4 months ago | [triki](https://github.com/josacar/triki)/539 | Mysql, PostgreSQL and SQL dump obfuscator aka anonimizer |
+| 18 | 0 | 2 | 10 months ago | [pars3k](https://github.com/voximity/pars3k)/540 | Crystal parser combinator library |
+| 18 | 6 | 1 | 2 years ago | [lingo](https://github.com/rmosolgo/lingo)/541 | parser generator  |
+| 18 | 5 | 1 | 1 year, 3 months ago | [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal)/542 | Crystal C bindings and wrapper for libwkhtmltox library |
+| 18 | 3 | 0 | 19 hours ago | [Hashbrown](https://github.com/GeopJr/Hashbrown)/543 | A simple GUI tool to generate, compare and verify MD5, SHA1 & SHA256 hashes. |
+| 18 | 7 | 0 | 2 years ago | [timecop.cr](https://github.com/waterlink/timecop.cr)/544 | Mock with `Time.now` with the power of time travel, time freeze and time scale. |
+| 18 | 3 | 3 | 2 months ago | [openapi-generator](https://github.com/elbywan/openapi-generator)/545 | An OpenAPI document generator. ⚙️ |
+| 18 | 7 | 2 | 10 months ago | [pub-relay](https://github.com/noellabo/pub-relay)/546 | A service-type ActivityPub actor that will re-broadcast anything sent to it to anyone who subscribes to it. |
+| 18 | 7 | 2 | 4 years ago | [crystal-sdl2](https://github.com/weskinner/crystal-sdl2)/547 | None |
+| 18 | 2 | 0 | 1 year, 8 months ago | [syscall.cr](https://github.com/kubo39/syscall.cr)/548 | syscall interface for Crystal |
+| 18 | 1 | 0 | 5 years ago | [pdf.cr](https://github.com/marceloboeira/pdf.cr)/549 | :pencil: PDF writer for Crystal  |
+| 18 | 2 | 0 | 4 months ago | [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser)/550 | Binary parser for Crystal |
+| 18 | 2 | 0 | 6 years ago | [crocoa](https://github.com/manastech/crocoa)/551 | Cocoa for crystal |
+| 18 | 1 | 0 | 5 days ago | [joobq](https://github.com/azutoolkit/joobq)/552 | JoobQ is a fast, efficient asynchronous reliable job queue scheduler library processing. Jobs are submitted to a job queue, where they reside until they are able to be scheduled to run in a computing environment. |
+| 18 | 1 | 1 | 5 months ago | [crystal-molinillo](https://github.com/crystal-lang/crystal-molinillo)/553 | A generic dependency resolution algorithm. Ported from https://github.com/CocoaPods/Molinillo/ |
+| 18 | 2 | 0 | 1 year, 3 months ago | [scrypt-crystal](https://github.com/ysbaddaden/scrypt-crystal)/554 | Crystal bindings for Colin Percival's scrypt key derivation function |
+| 18 | 4 | 0 | 3 years ago | [docopt.cr](https://github.com/chenkovsky/docopt.cr)/555 | docopt for crystal-lang |
+| 18 | 3 | 5 | 1 year, 5 months ago | [click](https://github.com/calebporzio/click)/556 | The podcast recording and editing suite of your dreams. Featuring just the one button. |
+| 18 | 3 | 0 | 1 year, 3 months ago | [cocol](https://github.com/cocol-project/cocol)/557 | Rapid blockchain prototyping  |
+| 18 | 6 | 2 | 4 months ago | [ncurses](https://github.com/SamualLB/ncurses)/558 | Ncurses bindings for Crystal |
+| 17 | 1 | 0 | 3 years ago | [mos_game](https://github.com/bararchy/mos_game)/559 | Mini Offline Singleplayer game in Crystal |
+| 17 | 3 | 0 | 4 months ago | [fast_irc.cr](https://github.com/RX14/fast_irc.cr)/560 | A fast IRC parsing library for crystal. |
+| 17 | 2 | 3 | 3 years ago | [psutil.cr](https://github.com/aablinov/psutil.cr)/561 | Psutils.cr is a Crystal port of https://github.com/shirou/gopsutil |
+| 17 | 0 | 1 | 2 months ago | [hardwire](https://github.com/jerometwell/hardwire)/562 | A compile-time, non-intrusive dependency injection system. |
+| 17 | 3 | 1 | 4 years ago | [watchbird](https://github.com/agatan/watchbird)/563 | file monitoring library with Crystal |
+| 17 | 1 | 0 | 3 years ago | [redisoid](https://github.com/kostya/redisoid)/564 | Redis client for Crystal with auto-reconnection and pool (wrapper for stefanwille/crystal-redis, kostya/redis-reconnect, ysbaddaden/pool). Ready to use in production. |
+| 17 | 1 | 5 | 16 hours ago | [authly](https://github.com/azutoolkit/authly)/565 | OAuth2 Provider Library - Authly is an OAuth2 Library for creating Authorization Servers that follows OAuth2 authorization mechanisms. |
+| 17 | 3 | 1 | 5 years ago | [slack-invite](https://github.com/crystal-jp/slack-invite)/566 | Automatic inviting in Slack Team for Crystal-JP. |
+| 17 | 1 | 0 | 2 months ago | [shivneri](https://github.com/ujjwalguptaofficial/shivneri)/567 | Component based MVC web framework based on fort architecture targeting good code structures, modularity & performance. |
+| 17 | 3 | 1 | 1 year, 9 months ago | [stumpy_gif](https://github.com/stumpycr/stumpy_gif)/568 | Write GIF images in pure Crystal |
+| 17 | 0 | 0 | 3 months ago | [run_with_fork](https://github.com/kostya/run_with_fork)/569 | Some simple parallelism for Crystal. Run some heavy or blocked thread operations in background fork. |
+| 17 | 2 | 7 | 3 years ago | [pegasus](https://github.com/pawandubey/pegasus)/570 | PEG based parser generator library in Crystal |
+| 17 | 1 | 0 | 2 years ago | [crystal_coin](https://github.com/eqbal/crystal_coin)/571 | Building blockchain from scratch using crystal for Toptal Blog (https://www.toptal.com/blockchain/crystal-programming-language-tutorial) |
+| 17 | 7 | 0 | 3 years ago | [timecop.cr](https://github.com/tobyapi/timecop.cr)/572 | A timecop inspire library allowing "time travel", "freezing time" and "time acceleration". |
+| 17 | 3 | 0 | 2 years ago | [google_maps_api](https://github.com/fridgerator/google_maps_api)/573 | Crystal library for the Google Maps API. |
+| 17 | 1 | 1 | 1 year, 8 months ago | [json-tools](https://github.com/impatienttraveller/json-tools)/574 | An implementation of RFC-6901 and RFC-6902 in Crystal Lang |
+| 17 | 13 | 3 | 3 months ago | [awscr-signer](https://github.com/taylorfinnell/awscr-signer)/575 | AWS request signing in Crystal |
+| 17 | 1 | 1 | 2 years ago | [crystal-dfa](https://github.com/ziprandom/crystal-dfa)/576 | A Crystal Implementation of a Thompson NFA/DFA Regex Matcher  |
+| 17 | 2 | 1 | 2 months ago | [kemal-github-api](https://github.com/sdogruyol/kemal-github-api)/577 | Github API routes benchmark for Kemal |
+| 17 | 0 | 0 | 14 days ago | [humanize_time](https://github.com/mamantoha/humanize_time)/578 | Adds the humanize method to reports the approximate distance in time between two Time. humanize supports i18n translations too so it can be used in internationalized apps. |
+| 17 | 4 | 0 | 1 year, 1 month ago | [slack.cr](https://github.com/DougEverly/slack.cr)/579 | Slack Real Time Messaging API in Crystal  |
+| 17 | 0 | 0 | 1 year, 23 days ago | [reader](https://github.com/crystal-term/reader)/580 | A set of methods for processing keyboard input in character, line and multiline modes. |
+| 17 | 1 | 0 | 2 years ago | [crystal-sensor](https://github.com/instana/crystal-sensor)/581 | 🔮 Crystal Distributed Tracing & Metrics Sensor for Instana  |
+| 17 | 3 | 0 | a month ago | [graphlb](https://github.com/mettuaditya/graphlb)/582 | graphlb is a crystal library which contains all the graph Data-Structures and Algorithms implemented in crystal-lang. |
+| 17 | 4 | 3 | 1 year, 2 months ago | [github_desktop_notifications](https://github.com/jhass/github_desktop_notifications)/583 | Display your Github notifications via libnotify |
+| 17 | 2 | 1 | 4 years ago | [protokol](https://github.com/teodor-pripoae/protokol)/584 | Protocol buffers for Crystal |
+| 17 | 14 | 13 | 2 years ago | [lucky_migrator](https://github.com/luckyframework/lucky_migrator)/585 | LuckyMigrator has been merged into LuckyRecord |
+| 17 | 4 | 3 | 2 years ago | [tarantool.cr](https://github.com/vladfaust/tarantool.cr)/586 | The Tarantool driver (a.k.a. connector) 🕷 |
+| 17 | 0 | 2 | 1 year, 9 months ago | [crono](https://github.com/jwoertink/crono)/587 | 2D Video Game framework |
+| 16 | 0 | 2 | 1 year, 2 months ago | [prompt](https://github.com/crystal-term/prompt)/588 | A beautiful and powerful interactive command line prompt |
+| 16 | 0 | 1 | 5 days ago | [azu](https://github.com/azutoolkit/azu)/589 | Application Development Toolkit for Crystal Language  |
+| 16 | 6 | 0 | 2 years ago | [crystal-blockchain](https://github.com/bradford-hamilton/crystal-blockchain)/590 | None |
+| 16 | 3 | 0 | 2 years ago | [raylib-cr](https://github.com/AregevDev/raylib-cr)/591 | Crystal wrapper around raylib |
+| 16 | 0 | 0 | 1 year, 7 months ago | [sonic-crystal](https://github.com/babelian/sonic-crystal)/592 | A Crystal client for Sonic search backend (Ported from https://github.com/atipugin/sonic-ruby) |
+| 16 | 4 | 0 | 3 months ago | [transfer_more](https://github.com/Nephos/transfer_more)/593 | Fast and temporary file uploader :signal_strength: UPSTREAM ON https://git.sceptique.eu/Sceptique/transfer_more |
+| 16 | 3 | 3 | 4 months ago | [crystal-gsl](https://github.com/ruivieira/crystal-gsl)/594 | GNU Scientific Library bindings for Crystal |
+| 16 | 2 | 2 | 3 years ago | [libgit2](https://github.com/crystal-git/libgit2)/595 | Yet another Crystal library for manipulating Git repositories in an object-oriented way. |
+| 16 | 1 | 0 | 1 year, 4 months ago | [crylog](https://github.com/Blacksmoke16/crylog)/596 | Flexible logging framework based on Monolog |
+| 16 | 4 | 0 | 1 year, 2 months ago | [autolink.cr](https://github.com/crystal-community/autolink.cr)/597 | :link: Auto link for Crystal |
+| 16 | 0 | 0 | 3 years ago | [crystal-notifications](https://github.com/crystal-community/crystal-notifications)/598 | A library for notifications, this started as a port from ActiveSupport::Notifications |
+| 16 | 0 | 0 | 1 year, 6 months ago | [prorate-cr](https://github.com/WJWH/prorate-cr)/599 | Redis-based throttling and rate limiting for Crystal |
+| 16 | 5 | 3 | 3 years ago | [cache-hash](https://github.com/samueleaton/cache-hash)/600 | A simple key/value store where pairs can expire after a specified interval |
+| 16 | 0 | 0 | 29 days ago | [opengl_with_crystal](https://github.com/gummybears/opengl_with_crystal)/601 | None |
+| 16 | 0 | 0 | 3 months ago | [x_do.cr](https://github.com/woodruffw/x_do.cr)/602 | Crystal bindings for libxdo (xdotool) |
 | 16 | 1 | 1 | 4 years ago | [git-cleanup-branch](https://github.com/ne-sachirou/git-cleanup-branch)/603 | [Deprecated] Cleanup Git merged branches interactively at both local and remote. |
-| 16 | 1 | 0 | 3 months ago | [queryit](https://github.com/hugopl/queryit)/604 | A very basic setupless terminal based SQL query runner meant to be used as a developer tool to test queries against a project database. |
-| 16 | 0 | 1 | 4 months ago | [uuix](https://github.com/krthr/uuix)/605 | A tiny (<1KB) and fast UUID (v4) generator for Crystal |
-| 16 | 0 | 0 | 1 year, 2 months ago | [spinner](https://github.com/crystal-term/spinner)/606 | A terminal spinner for tasks that have a non-deterministic time frame |
-| 16 | 3 | 1 | 2 years ago | [CrystalEmail](https://github.com/Nephos/CrystalEmail)/607 | A RFC compliant Email validator :email:  |
-| 16 | 3 | 1 | 7 months ago | [fiberpool](https://github.com/akitaonrails/fiberpool)/608 | Simulate a queue and a pool of job workers, in essence a "Fiber Pool" for Crystal |
-| 16 | 3 | 1 | 4 years ago | [miniserver](https://github.com/bcardiff/miniserver)/609 | A small static file server built in crystal |
-| 16 | 3 | 0 | 3 years ago | [sslscanner](https://github.com/NeuraLegion/sslscanner)/610 | SSL Scanner written in Crystal |
-| 16 | 3 | 2 | 3 years ago | [mailer](https://github.com/crisward/mailer)/611 | Simple Email Sending Client for Mailgun & Sendgrid services in crystal |
-| 16 | 0 | 0 | 3 years ago | [cake](https://github.com/ravern/cake)/612 | 🍰 Build utility for Crystal |
-| 16 | 0 | 0 | 5 months ago | [jager](https://github.com/omarroth/jager)/613 | Reverse regular expression engine |
-| 16 | 2 | 0 | 2 months ago | [dotenv](https://github.com/drum445/dotenv)/614 | Load .env files in crystal |
-| 16 | 2 | 8 | 2 years ago | [mini_redis](https://github.com/vladfaust/mini_redis)/615 | A light-weight low-level Redis client for Crystal ♨️ |
-| 16 | 2 | 0 | 2 years ago | [event_emitter.cr](https://github.com/hugoabonizio/event_emitter.cr)/616 | :loudspeaker: Idiomatic asynchronous event-driven architecture for Crystal |
-| 16 | 2 | 1 | 11 months ago | [crimgui](https://github.com/andrewoconnor/crimgui)/617 | Crystal bindings for dear imgui |
-| 16 | 4 | 1 | 2 years ago | [redis-cluster-benchmark.cr](https://github.com/maiha/redis-cluster-benchmark.cr)/618 | Benchmark utils for Redis Cluster |
-| 16 | 2 | 0 | 1 year, 3 months ago | [crystal-consul](https://github.com/rogerwelin/crystal-consul)/619 | Crystal client for Consul (http://www.consul.io/) |
-| 16 | 0 | 0 | 4 years ago | [chat-app-demo](https://github.com/Angarsk8/chat-app-demo)/620 | Chat application developed with Kemal, React, ES2015 and PostgreSQL |
-| 15 | 3 | 0 | 2 years ago | [Fluorite](https://github.com/TheKernelCorp/Fluorite)/621 | An OS kernel written in Crystal. |
-| 15 | 0 | 0 | 1 year, 11 months ago | [crython](https://github.com/RomainFranceschini/crython)/622 | Crystal meets Python |
-| 15 | 0 | 1 | a month ago | [griffith.cr](https://github.com/gtramontina/griffith.cr)/623 | Beautiful UI for showing tasks running on the command line. |
-| 15 | 1 | 3 | 5 months ago | [crystal-cassandra](https://github.com/kaukas/crystal-cassandra)/624 | A Cassandra driver for Crystal |
-| 15 | 0 | 1 | 4 years ago | [crystal-async_await](https://github.com/firejox/crystal-async_await)/625 | None |
-| 15 | 0 | 0 | 1 year, 10 months ago | [benchy](https://github.com/manastech/benchy)/626 | A tool to perform benchmarks |
-| 15 | 3 | 0 | a month ago | [critter](https://github.com/oprypin/critter)/627 | Chat bot relaying messages between IRC and Gitter |
-| 15 | 0 | 0 | 7 days ago | [gkeybind](https://github.com/nickbclifford/gkeybind)/628 | A Linux utility for binding custom behavior to Logitech keyboards. |
-| 15 | 0 | 0 | 3 months ago | [clip](https://github.com/erdnaxeli/clip)/629 | Deserialize CLI parameters to an object, with errors and help management. |
-| 15 | 1 | 1 | 3 years ago | [awesome-logger](https://github.com/tbrand/awesome-logger)/630 | :crown: Awesome Logger is SIMPLE and FLEXIBLE logger for Crystal applications. :crown: |
-| 15 | 2 | 0 | 3 years ago | [jet](https://github.com/sherjilozair/jet)/631 | Tensor library for Crystal powered by CUDA and CuDNN |
-| 15 | 30 | 3 | 9 days ago | [catalog](https://github.com/shardbox/catalog)/632 | The shard catalog for shardbox.org |
-| 15 | 2 | 2 | a month ago | [cr-xmpp](https://github.com/naqvis/cr-xmpp)/633 | XMPP/Jabber Library for Crystal |
-| 15 | 1 | 0 | 2 years ago | [caravel](https://github.com/caravel-tool/caravel)/634 | Deploy your apps in production, effortlessly. |
-| 15 | 2 | 0 | 1 year, 9 months ago | [crystal-autobind](https://github.com/j8r/crystal-autobind)/635 | Automatic C bindings generator for Crystal |
-| 15 | 1 | 0 | 1 year, 3 months ago | [arborist](https://github.com/davidkellis/arborist)/636 | Arborist is a PEG parser that supports left-associative left recursion |
-| 15 | 0 | 15 | 2 years ago | [up](https://github.com/paulcsmith/up)/637 | Up makes it easier to start, build, and run Docker for local development  |
-| 15 | 0 | 3 | 5 months ago | [oho](https://github.com/masukomi/oho)/638 | oho: colorful terminal output to html converter |
-| 15 | 1 | 1 | 6 years ago | [crystal_lib_gen](https://github.com/fazibear/crystal_lib_gen)/639 | Automatic binding generator for Crystal |
-| 15 | 10 | 0 | 6 months ago | [amber-router](https://github.com/amberframework/amber-router)/640 | A URL Routing shard.  |
-| 15 | 3 | 1 | 22 days ago | [cr-cmark-gfm](https://github.com/amauryt/cr-cmark-gfm)/641 | Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown |
-| 15 | 0 | 0 | 2 months ago | [progress_bar.cr](https://github.com/TPei/progress_bar.cr)/642 | A ProgressBar implementation for the Crystal programming language |
-| 15 | 3 | 0 | 1 year, 2 months ago | [grafana-redis.cr](https://github.com/maiha/grafana-redis.cr)/643 | Grefana Datasource for Redis storage |
-| 15 | 2 | 0 | 4 years ago | [crjsc](https://github.com/bmmcginty/crjsc)/644 | Bridge Javascript and Crystal via the JavaScriptCore engine. Goals are ease of bridging and feature parody, while maintaining the feel of Crystal. |
-| 15 | 1 | 0 | 4 years ago | [rancher-autoredeploy](https://github.com/manastech/rancher-autoredeploy)/645 | Autoredeploy images on Docker Hub webhook pushes in Rancher |
-| 15 | 1 | 2 | 9 months ago | [crystal_orm_test](https://github.com/jwoertink/crystal_orm_test)/646 | Benchmark different ORMs for crystal and postgres |
-| 15 | 1 | 0 | 2 years ago | [Cocoa.cr](https://github.com/Iainmon/Cocoa.cr)/647 | A framework for developing macOS apps with a GUI using Crystal |
-| 15 | 1 | 0 | 1 year, 9 months ago | [crystal-cmark](https://github.com/ysbaddaden/crystal-cmark)/648 | Crystal wrapper for libcmark, the reference CommonMark C library |
-| 15 | 0 | 0 | 4 months ago | [brotli.cr](https://github.com/naqvis/brotli.cr)/649 | Crystal bindings to the Google brotli compression library |
-| 15 | 0 | 0 | 12 days ago | [mxnet.cr](https://github.com/toddsundsted/mxnet.cr)/650 | MXNet (AI/ML) bindings for the Crystal language. |
-| 15 | 0 | 0 | 13 days ago | [edits.cr](https://github.com/tcrouch/edits.cr)/651 | Edit distance algorithms inc. Jaro, Damerau-Levenshtein, and Optimal Alignment |
-| 15 | 1 | 0 | 22 days ago | [fayrant-lang](https://github.com/Florian3k/fayrant-lang)/652 | Simple, interpreted, dynamically-typed programming language |
-| 15 | 3 | 1 | 3 years ago | [medley](https://github.com/jwoertink/medley)/653 | A crystal shard for doing music related stuff |
-| 15 | 4 | 12 | 2 months ago | [medup](https://github.com/miry/medup)/654 | Download all content from Medium to local folder |
+| 16 | 0 | 0 | 3 years ago | [md2pdf](https://github.com/straight-shoota/md2pdf)/604 | Convert markdown files to pdf with flexible template and stylesheet |
+| 16 | 1 | 0 | 3 months ago | [queryit](https://github.com/hugopl/queryit)/605 | A very basic setupless terminal based SQL query runner meant to be used as a developer tool to test queries against a project database. |
+| 16 | 0 | 1 | 4 months ago | [uuix](https://github.com/krthr/uuix)/606 | A tiny (<1KB) and fast UUID (v4) generator for Crystal |
+| 16 | 0 | 0 | 1 year, 2 months ago | [spinner](https://github.com/crystal-term/spinner)/607 | A terminal spinner for tasks that have a non-deterministic time frame |
+| 16 | 3 | 1 | 2 years ago | [CrystalEmail](https://github.com/Nephos/CrystalEmail)/608 | A RFC compliant Email validator :email:  |
+| 16 | 3 | 1 | 7 months ago | [fiberpool](https://github.com/akitaonrails/fiberpool)/609 | Simulate a queue and a pool of job workers, in essence a "Fiber Pool" for Crystal |
+| 16 | 3 | 1 | 4 years ago | [miniserver](https://github.com/bcardiff/miniserver)/610 | A small static file server built in crystal |
+| 16 | 3 | 0 | 3 years ago | [sslscanner](https://github.com/NeuraLegion/sslscanner)/611 | SSL Scanner written in Crystal |
+| 16 | 3 | 2 | 3 years ago | [mailer](https://github.com/crisward/mailer)/612 | Simple Email Sending Client for Mailgun & Sendgrid services in crystal |
+| 16 | 0 | 0 | 3 years ago | [cake](https://github.com/ravern/cake)/613 | 🍰 Build utility for Crystal |
+| 16 | 0 | 0 | 5 months ago | [jager](https://github.com/omarroth/jager)/614 | Reverse regular expression engine |
+| 16 | 2 | 0 | 2 months ago | [dotenv](https://github.com/drum445/dotenv)/615 | Load .env files in crystal |
+| 16 | 2 | 8 | 2 years ago | [mini_redis](https://github.com/vladfaust/mini_redis)/616 | A light-weight low-level Redis client for Crystal ♨️ |
+| 16 | 2 | 0 | 2 years ago | [event_emitter.cr](https://github.com/hugoabonizio/event_emitter.cr)/617 | :loudspeaker: Idiomatic asynchronous event-driven architecture for Crystal |
+| 16 | 2 | 1 | 11 months ago | [crimgui](https://github.com/andrewoconnor/crimgui)/618 | Crystal bindings for dear imgui |
+| 16 | 1 | 0 | 2 years ago | [Cocoa.cr](https://github.com/Iainmon/Cocoa.cr)/619 | A framework for developing macOS apps with a GUI using Crystal |
+| 16 | 4 | 1 | 2 years ago | [redis-cluster-benchmark.cr](https://github.com/maiha/redis-cluster-benchmark.cr)/620 | Benchmark utils for Redis Cluster |
+| 16 | 2 | 0 | 1 year, 3 months ago | [crystal-consul](https://github.com/rogerwelin/crystal-consul)/621 | Crystal client for Consul (http://www.consul.io/) |
+| 16 | 0 | 0 | 19 days ago | [mxnet.cr](https://github.com/toddsundsted/mxnet.cr)/622 | MXNet (AI/ML) bindings for the Crystal language. |
+| 16 | 0 | 0 | 4 years ago | [chat-app-demo](https://github.com/Angarsk8/chat-app-demo)/623 | Chat application developed with Kemal, React, ES2015 and PostgreSQL |
+| 15 | 3 | 0 | 2 years ago | [Fluorite](https://github.com/TheKernelCorp/Fluorite)/624 | An OS kernel written in Crystal. |
+| 15 | 0 | 0 | 1 year, 11 months ago | [crython](https://github.com/RomainFranceschini/crython)/625 | Crystal meets Python |
+| 15 | 0 | 1 | a month ago | [griffith.cr](https://github.com/gtramontina/griffith.cr)/626 | Beautiful UI for showing tasks running on the command line. |
+| 15 | 0 | 1 | 4 years ago | [crystal-async_await](https://github.com/firejox/crystal-async_await)/627 | None |
+| 15 | 1 | 3 | 6 months ago | [crystal-cassandra](https://github.com/kaukas/crystal-cassandra)/628 | A Cassandra driver for Crystal |
+| 15 | 0 | 0 | 1 year, 11 months ago | [benchy](https://github.com/manastech/benchy)/629 | A tool to perform benchmarks |
+| 15 | 3 | 0 | 2 months ago | [critter](https://github.com/oprypin/critter)/630 | Chat bot relaying messages between IRC and Gitter |
+| 15 | 0 | 0 | 3 months ago | [clip](https://github.com/erdnaxeli/clip)/631 | Deserialize CLI parameters to an object, with errors and help management. |
+| 15 | 0 | 0 | 14 days ago | [gkeybind](https://github.com/nickbclifford/gkeybind)/632 | A Linux utility for binding custom behavior to Logitech keyboards. |
+| 15 | 1 | 1 | 3 years ago | [awesome-logger](https://github.com/tbrand/awesome-logger)/633 | :crown: Awesome Logger is SIMPLE and FLEXIBLE logger for Crystal applications. :crown: |
+| 15 | 2 | 0 | 3 years ago | [jet](https://github.com/sherjilozair/jet)/634 | Tensor library for Crystal powered by CUDA and CuDNN |
+| 15 | 31 | 3 | 2 days ago | [catalog](https://github.com/shardbox/catalog)/635 | The shard catalog for shardbox.org |
+| 15 | 2 | 2 | a month ago | [cr-xmpp](https://github.com/naqvis/cr-xmpp)/636 | XMPP/Jabber Library for Crystal |
+| 15 | 1 | 0 | 2 years ago | [caravel](https://github.com/caravel-tool/caravel)/637 | Deploy your apps in production, effortlessly. |
+| 15 | 2 | 0 | 1 year, 9 months ago | [crystal-autobind](https://github.com/j8r/crystal-autobind)/638 | Automatic C bindings generator for Crystal |
+| 15 | 1 | 0 | 1 year, 3 months ago | [arborist](https://github.com/davidkellis/arborist)/639 | Arborist is a PEG parser that supports left-associative left recursion |
+| 15 | 0 | 15 | 2 years ago | [up](https://github.com/paulcsmith/up)/640 | Up makes it easier to start, build, and run Docker for local development  |
+| 15 | 0 | 3 | 5 months ago | [oho](https://github.com/masukomi/oho)/641 | oho: colorful terminal output to html converter |
+| 15 | 1 | 1 | 6 years ago | [crystal_lib_gen](https://github.com/fazibear/crystal_lib_gen)/642 | Automatic binding generator for Crystal |
+| 15 | 10 | 0 | 6 months ago | [amber-router](https://github.com/amberframework/amber-router)/643 | A URL Routing shard.  |
+| 15 | 3 | 1 | 29 days ago | [cr-cmark-gfm](https://github.com/amauryt/cr-cmark-gfm)/644 | Crystal C bindings for cmark-gfm to work with Commonmark and Github Flavored Markdown |
+| 15 | 0 | 0 | 2 months ago | [progress_bar.cr](https://github.com/TPei/progress_bar.cr)/645 | A ProgressBar implementation for the Crystal programming language |
+| 15 | 3 | 0 | 1 year, 2 months ago | [grafana-redis.cr](https://github.com/maiha/grafana-redis.cr)/646 | Grefana Datasource for Redis storage |
+| 15 | 1 | 0 | 4 years ago | [rancher-autoredeploy](https://github.com/manastech/rancher-autoredeploy)/647 | Autoredeploy images on Docker Hub webhook pushes in Rancher |
+| 15 | 2 | 0 | 4 years ago | [crjsc](https://github.com/bmmcginty/crjsc)/648 | Bridge Javascript and Crystal via the JavaScriptCore engine. Goals are ease of bridging and feature parody, while maintaining the feel of Crystal. |
+| 15 | 1 | 2 | 9 months ago | [crystal_orm_test](https://github.com/jwoertink/crystal_orm_test)/649 | Benchmark different ORMs for crystal and postgres |
+| 15 | 1 | 0 | 1 year, 10 months ago | [crystal-cmark](https://github.com/ysbaddaden/crystal-cmark)/650 | Crystal wrapper for libcmark, the reference CommonMark C library |
+| 15 | 0 | 0 | 4 months ago | [brotli.cr](https://github.com/naqvis/brotli.cr)/651 | Crystal bindings to the Google brotli compression library |
+| 15 | 1 | 0 | 29 days ago | [fayrant-lang](https://github.com/Florian3k/fayrant-lang)/652 | Simple, interpreted, dynamically-typed programming language |
+| 15 | 0 | 0 | 19 days ago | [edits.cr](https://github.com/tcrouch/edits.cr)/653 | Edit distance algorithms inc. Jaro, Damerau-Levenshtein, and Optimal Alignment |
+| 15 | 3 | 1 | 3 years ago | [medley](https://github.com/jwoertink/medley)/654 | A crystal shard for doing music related stuff |
 | 15 | 7 | 3 | a month ago | [garnet-spec](https://github.com/amberframework/garnet-spec)/655 | Extends Crystal Spec for testing web applications |
-| 14 | 1 | 0 | 1 year, 2 months ago | [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr)/656 | Simple lib to send mail using Sendgrid in Crystal-Lang |
-| 14 | 1 | 1 | 4 years ago | [crystal_redis](https://github.com/manastech/crystal_redis)/657 | Redis client for Crystal |
-| 14 | 0 | 0 | 2 months ago | [lff-cr](https://github.com/mkdika/lff-cr)/658 | Simple and straightforward large files finder utility |
-| 14 | 1 | 0 | 2 years ago | [crass](https://github.com/vonKingsley/crass)/659 | libsass bindings for Crystal-Lang |
-| 14 | 3 | 1 | 4 years ago | [syslog.cr](https://github.com/comandeo/syslog.cr)/660 | Syslog client implementation for Crystal |
-| 14 | 6 | 11 | 3 years ago | [crynamo](https://github.com/timkendall/crynamo)/661 | DynamoDB client for Crystal. |
-| 14 | 0 | 0 | 4 months ago | [snappy](https://github.com/naqvis/snappy)/662 | Snappy compression format reader/writer for Crystal |
-| 14 | 1 | 1 | 5 months ago | [jq.cr](https://github.com/maiha/jq.cr)/663 | thin JSON::Any wrapper to emulate jq for crystal |
-| 14 | 2 | 10 | 3 months ago | [gphoto2.cr](https://github.com/Sija/gphoto2.cr)/664 | Crystal shard wrapping libgphoto2 |
+| 15 | 4 | 12 | 2 months ago | [medup](https://github.com/miry/medup)/656 | Download all content from Medium to local folder |
+| 14 | 1 | 0 | 1 year, 2 months ago | [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr)/657 | Simple lib to send mail using Sendgrid in Crystal-Lang |
+| 14 | 1 | 1 | 4 years ago | [crystal_redis](https://github.com/manastech/crystal_redis)/658 | Redis client for Crystal |
+| 14 | 0 | 0 | 2 months ago | [lff-cr](https://github.com/mkdika/lff-cr)/659 | Simple and straightforward large files finder utility |
+| 14 | 1 | 0 | 2 years ago | [crass](https://github.com/vonKingsley/crass)/660 | libsass bindings for Crystal-Lang |
+| 14 | 3 | 1 | 4 years ago | [syslog.cr](https://github.com/comandeo/syslog.cr)/661 | Syslog client implementation for Crystal |
+| 14 | 6 | 11 | 3 years ago | [crynamo](https://github.com/timkendall/crynamo)/662 | DynamoDB client for Crystal. |
+| 14 | 0 | 0 | 4 months ago | [snappy](https://github.com/naqvis/snappy)/663 | Snappy compression format reader/writer for Crystal |
+| 14 | 2 | 10 | 4 months ago | [gphoto2.cr](https://github.com/Sija/gphoto2.cr)/664 | Crystal shard wrapping libgphoto2 |
 | 14 | 0 | 0 | 3 months ago | [gosu.cr](https://github.com/gosu/gosu.cr)/665 | Shard for the Gosu game library |
-| 14 | 1 | 0 | 3 years ago | [tensorflow.cr](https://github.com/NeuraLegion/tensorflow.cr)/666 | TensorFlow bindings in Crystal |
-| 14 | 1 | 18 | 30 days ago | [avalanchemq](https://github.com/cloudamqp/avalanchemq)/667 | Lightweight and fast AMQP (0-9-1) server |
-| 14 | 0 | 0 | 9 months ago | [assert](https://github.com/Blacksmoke16/assert)/668 | Extensible annotation based object validation library |
-| 14 | 1 | 0 | 4 months ago | [playwright-cr](https://github.com/naqvis/playwright-cr)/669 | Crystal version of the Playwright testing and automation library. |
-| 14 | 1 | 0 | a month ago | [coffee-script](https://github.com/jessedoyle/coffee-script)/670 | Crystal CoffeeScript Compiler http://coffeescript.org/ |
-| 14 | 3 | 0 | 2 months ago | [google](https://github.com/PlaceOS/google)/671 | Crystal Lang Google API integration |
-| 14 | 1 | 0 | 8 days ago | [markout](https://github.com/GrottoPress/markout)/672 | Markout is an awesome Crystal DSL for HTML |
-| 14 | 2 | 0 | 1 year, 9 months ago | [mqtt_crystal](https://github.com/lccxz/mqtt_crystal)/673 | MQTT Crystal client |
-| 14 | 4 | 2 | 1 year, 4 months ago | [mongodb-crystal](https://github.com/kimvex/mongodb-crystal)/674 | Library for use of MongoDB driver |
-| 14 | 0 | 1 | 2 years ago | [inari](https://github.com/ddfreyne/inari)/675 | A collection of games written in Crystal |
-| 14 | 0 | 0 | 1 year, 6 months ago | [coz.cr](https://github.com/RX14/coz.cr)/676 | None |
-| 14 | 4 | 0 | 2 months ago | [crystal-pegmatite](https://github.com/jemc/crystal-pegmatite)/677 | A high-performance Parsing Expression Grammar (PEG) library for the Crystal language. :gem: :capital_abcd: |
-| 14 | 14 | 5 | 1 year, 1 month ago | [teeplate](https://github.com/mosop/teeplate)/678 | A Crystal library for rendering multiple template files. |
-| 14 | 2 | 0 | 3 months ago | [workr](https://github.com/sirikon/workr)/679 | Simple and easy to setup job runner for any kind of automation |
-| 14 | 3 | 0 | 2 months ago | [oak](https://github.com/obsidian/oak)/680 | A Crystal radix implementation |
-| 14 | 1 | 3 | 4 years ago | [crikey](https://github.com/domgetter/crikey)/681 | Data structure view templates for Crystal |
-| 14 | 0 | 0 | 4 years ago | [ms](https://github.com/SuperPaintman/ms)/682 | Library to easily convert various time formats to milliseconds and milliseconds to human readable format. |
-| 14 | 5 | 0 | 4 months ago | [geoip2.cr](https://github.com/delef/geoip2.cr)/683 | MaxMind GeoIP2 Reader for Crystal |
-| 14 | 2 | 1 | Unknown | [crometheus](https://github.com/Darwinnn/crometheus)/684 | A Prometheus client for Crystal  |
-| 14 | 0 | 0 | 2 years ago | [yeager](https://github.com/gokmen/yeager)/685 | Simple router and http server implementation for Crystal |
+| 14 | 1 | 1 | 2 days ago | [jq.cr](https://github.com/maiha/jq.cr)/666 | thin JSON::Any wrapper to emulate jq for crystal |
+| 14 | 1 | 0 | 3 years ago | [tensorflow.cr](https://github.com/NeuraLegion/tensorflow.cr)/667 | TensorFlow bindings in Crystal |
+| 14 | 1 | 18 | a month ago | [avalanchemq](https://github.com/cloudamqp/avalanchemq)/668 | Lightweight and fast AMQP (0-9-1) server |
+| 14 | 0 | 0 | 9 months ago | [assert](https://github.com/Blacksmoke16/assert)/669 | Extensible annotation based object validation library |
+| 14 | 1 | 0 | 4 months ago | [playwright-cr](https://github.com/naqvis/playwright-cr)/670 | Crystal version of the Playwright testing and automation library. |
+| 14 | 1 | 0 | a month ago | [coffee-script](https://github.com/jessedoyle/coffee-script)/671 | Crystal CoffeeScript Compiler http://coffeescript.org/ |
+| 14 | 3 | 0 | 2 months ago | [google](https://github.com/PlaceOS/google)/672 | Crystal Lang Google API integration |
+| 14 | 1 | 0 | 15 days ago | [markout](https://github.com/GrottoPress/markout)/673 | Markout is an awesome Crystal DSL for HTML |
+| 14 | 2 | 0 | 1 year, 9 months ago | [mqtt_crystal](https://github.com/lccxz/mqtt_crystal)/674 | MQTT Crystal client |
+| 14 | 4 | 2 | 1 year, 5 months ago | [mongodb-crystal](https://github.com/kimvex/mongodb-crystal)/675 | Library for use of MongoDB driver |
+| 14 | 0 | 1 | 2 years ago | [inari](https://github.com/ddfreyne/inari)/676 | A collection of games written in Crystal |
+| 14 | 0 | 0 | 1 year, 6 months ago | [coz.cr](https://github.com/RX14/coz.cr)/677 | None |
+| 14 | 4 | 0 | 2 months ago | [crystal-pegmatite](https://github.com/jemc/crystal-pegmatite)/678 | A high-performance Parsing Expression Grammar (PEG) library for the Crystal language. :gem: :capital_abcd: |
+| 14 | 14 | 5 | 1 year, 1 month ago | [teeplate](https://github.com/mosop/teeplate)/679 | A Crystal library for rendering multiple template files. |
+| 14 | 2 | 0 | 3 months ago | [workr](https://github.com/sirikon/workr)/680 | Simple and easy to setup job runner for any kind of automation |
+| 14 | 3 | 0 | 2 months ago | [oak](https://github.com/obsidian/oak)/681 | A Crystal radix implementation |
+| 14 | 1 | 3 | 4 years ago | [crikey](https://github.com/domgetter/crikey)/682 | Data structure view templates for Crystal |
+| 14 | 0 | 0 | 4 years ago | [ms](https://github.com/SuperPaintman/ms)/683 | Library to easily convert various time formats to milliseconds and milliseconds to human readable format. |
+| 14 | 5 | 0 | 4 months ago | [geoip2.cr](https://github.com/delef/geoip2.cr)/684 | MaxMind GeoIP2 Reader for Crystal |
+| 14 | 2 | 1 | 8 months ago | [crometheus](https://github.com/Darwinnn/crometheus)/685 | A Prometheus client for Crystal  |
 | 14 | 5 | 5 | 4 months ago | [introducing-crystal](https://github.com/crystal-jp/introducing-crystal)/686 | 『Introducing Crystal Programming Language』の原稿をまとめたリポジトリです |
-| 14 | 2 | 1 | 1 year, 11 months ago | [subnet](https://github.com/watzon/subnet)/687 | Crystal library for working with IPv4 and IPv6 addresses |
-| 14 | 11 | 0 | Unknown | [json_mapping.cr](https://github.com/crystal-lang/json_mapping.cr)/688 | None |
-| 14 | 12 | 6 | 2 years ago | [openssl_ext](https://github.com/randomstate/openssl_ext)/689 | Crystal bindings for OpenSSL RSA |
-| 14 | 1 | 0 | 2 years ago | [walter.cr](https://github.com/gtramontina/walter.cr)/690 | Keep your crystal clean! |
-| 14 | 2 | 0 | 12 days ago | [bson.cr](https://github.com/elbywan/bson.cr)/691 | A pure Crystal Implementation of the BSON Specification.  🐃 |
-| 14 | 2 | 9 | Unknown | [ratmachine](https://github.com/faissaloo/ratmachine)/692 | Textboard with text effects |
-| 13 | 5 | 0 | 3 months ago | [resp-crystal](https://github.com/soveran/resp-crystal)/693 | Lightweight RESP client |
-| 13 | 0 | 0 | 1 year, 6 months ago | [shorturl.cr](https://github.com/veelenga/shorturl.cr)/694 | A tiny library to use URL shortening services |
-| 13 | 1 | 8 | 3 years ago | [tele.cr](https://github.com/vladfaust/tele.cr)/695 | A convenient Telegram Bot framework 🤖 |
-| 13 | 1 | 0 | 5 years ago | [daemonize.cr](https://github.com/DougEverly/daemonize.cr)/696 | Daemonize a crystal process. |
-| 13 | 1 | 1 | 1 year, 8 months ago | [awesome_print.cr](https://github.com/evandrojr/awesome_print.cr)/697 | It dreams about becoming ruby's awesome_print for crystal-lang, under light development. |
-| 13 | 3 | 0 | 4 years ago | [query.cr](https://github.com/waterlink/query.cr)/698 | Query abstraction for Crystal Language. Used by active_record.cr library. |
-| 13 | 2 | 0 | 1 year, 5 months ago | [crOpenCL](https://github.com/cconklin/crOpenCL)/699 | OpenCL bindings for Crystal |
-| 13 | 0 | 0 | 3 years ago | [hamtaro-in-pieces](https://github.com/obskyr/hamtaro-in-pieces)/700 | A disassembly of the wonderful Game Boy Color game Hamtaro: Ham-Hams Unite! |
-| 13 | 2 | 0 | 3 years ago | [crystal-google_translate](https://github.com/greyblake/crystal-google_translate)/701 | Google Translate client for Crystal |
-| 13 | 2 | 1 | 2 years ago | [criss](https://github.com/straight-shoota/criss)/702 | Instantaneous static site site generator and server in Crystal |
-| 13 | 4 | 2 | 7 days ago | [crystal-readline](https://github.com/crystal-lang/crystal-readline)/703 | Crystal bindings to GNU Readline Library |
-| 13 | 1 | 0 | 3 years ago | [secrets](https://github.com/faustinoaq/secrets)/704 | Useful to get input on noecho, secrets, passwords, token, hints |
-| 13 | 0 | 0 | 4 months ago | [blurhash.cr](https://github.com/Sija/blurhash.cr)/705 | A pure Crystal implementation of BlurHash algorithm |
-| 13 | 4 | 0 | 1 year, 3 months ago | [redis-cluster.cr](https://github.com/maiha/redis-cluster.cr)/706 | redis-cluster library for Crystal |
-| 13 | 1 | 1 | 4 months ago | [herbal.cr](https://github.com/636f7374/herbal.cr)/707 | ⛵️ Available - Crystal SOCKS Client and Server |
-| 13 | 1 | 0 | 5 months ago | [pretty.cr](https://github.com/maiha/pretty.cr)/708 | Something attentive, conservative and pretty stuff for Crystal |
-| 13 | 0 | 0 | 4 years ago | [kemal-mysql](https://github.com/sdogruyol/kemal-mysql)/709 | Easily add MySQL database to your Kemal application. |
-| 13 | 3 | 1 | 4 months ago | [turbo](https://github.com/jgaskins/turbo)/710 | None |
-| 13 | 2 | 3 | 4 years ago | [satriani](https://github.com/marceloboeira/satriani)/711 | :guitar: A micro-framework for creating REST-like APIs in Crystal |
-| 13 | 2 | 0 | 1 year, 1 month ago | [notify.cr](https://github.com/woodruffw/notify.cr)/712 | A Crystal library for desktop notifications. |
-| 13 | 0 | 0 | 6 months ago | [geo](https://github.com/geocrystal/geo)/713 | Geospatial primitives and algorithms for Crystal |
-| 13 | 1 | 10 | 2 years ago | [nocturne](https://github.com/freyamade/nocturne)/714 | [Backburner] Crystal / Amber Framework Village Builder web application |
-| 13 | 0 | 0 | 8 days ago | [pond](https://github.com/GrottoPress/pond)/715 | Crystal WaitGroups without channels or counters |
-| 13 | 5 | 3 | 1 year, 1 month ago | [broken_crystals](https://github.com/NeuraLegion/broken_crystals)/716 | A vulnerable Application in crystal |
-| 13 | 0 | 0 | 4 years ago | [cr_manga_downloadr](https://github.com/akitaonrails/cr_manga_downloadr)/717 | Second version of the Ruby version of my MangaReader.net crawler adapted for Crystal |
-| 13 | 7 | 0 | 3 years ago | [LibGLFW](https://github.com/nulldotpro/LibGLFW)/718 | Complete GLFW bindings for Crystal. |
-| 13 | 2 | 0 | 5 months ago | [pack.cr](https://github.com/HertzDevil/pack.cr)/719 | Crystal compile-time (un)pack macros from Perl / Ruby |
-| 13 | 0 | 2 | a month ago | [mstrap](https://github.com/maxfierke/mstrap)/720 | Machine Bootstrapping tool with a focus on sensible defaults, conventions, and avoidance of vendoring |
-| 13 | 1 | 1 | 1 year, 5 months ago | [EBNF.cr](https://github.com/jrester/EBNF.cr)/721 | Work with (E)BNF and bison/YACC Grammar: Parsing, FIRST/FOLLOW set, CNF, Conversions, LR and LL parsing tables |
-| 13 | 0 | 0 | 6 months ago | [haversine](https://github.com/geocrystal/haversine)/722 | Crystal implementation of the Haversine formula to calculate distances between two points given their latitudes and longitudes |
-| 13 | 0 | 0 | 4 months ago | [sse.cr](https://github.com/y2k2mt/sse.cr)/723 | A Crystal shard for Server-Sent Events |
-| 13 | 1 | 7 | 26 days ago | [chem.cr](https://github.com/franciscoadasme/chem.cr)/724 | Library for dealing with computational chemistry files |
-| 13 | 6 | 2 | 8 days ago | [pyrite](https://github.com/psykube/pyrite)/725 | Kubernetes mappings for crystal. |
-| 13 | 5 | 5 | 3 years ago | [cox](https://github.com/andrewhamon/cox)/726 | Crystal wrapper for the libsodium crypto API |
-| 13 | 0 | 0 | 2 months ago | [cryplot](https://github.com/naqvis/cryplot)/727 | Crystal plotting library powered by gnuplot |
-| 13 | 1 | 1 | 5 years ago | [mock](https://github.com/porras/mock)/728 | Doubles (stubs and mocks) library for Crystal, inspired by the API of rspec-mocks |
-| 13 | 3 | 1 | 9 days ago | [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt)/729 | Crystal lang implementation of the MQTT protocol, a lightweight protocol for publish/subscribe messaging |
-| 13 | 1 | 0 | a day ago | [joobq](https://github.com/azutoolkit/joobq)/730 | JoobQ is a fast, efficient asynchronous reliable job queue scheduler library processing. Jobs are submitted to a job queue, where they reside until they are able to be scheduled to run in a computing environment. |
-| 13 | 0 | 2 | 5 days ago | [avram_slugify](https://github.com/luckyframework/avram_slugify)/731 | AvramSlugify generates slugs for database columns. These slugs can be used for creating nice looking URLs, permalinks, invite codes, etc. |
+| 14 | 0 | 0 | 2 years ago | [yeager](https://github.com/gokmen/yeager)/687 | Simple router and http server implementation for Crystal |
+| 14 | 2 | 1 | 1 year, 11 months ago | [subnet](https://github.com/watzon/subnet)/688 | Crystal library for working with IPv4 and IPv6 addresses |
+| 14 | 11 | 0 | 3 months ago | [json_mapping.cr](https://github.com/crystal-lang/json_mapping.cr)/689 | None |
+| 14 | 3 | 1 | 16 days ago | [crystal-mqtt](https://github.com/spider-gazelle/crystal-mqtt)/690 | Crystal lang implementation of the MQTT protocol, a lightweight protocol for publish/subscribe messaging |
+| 14 | 12 | 6 | 2 years ago | [openssl_ext](https://github.com/randomstate/openssl_ext)/691 | Crystal bindings for OpenSSL RSA |
+| 14 | 1 | 0 | 2 years ago | [walter.cr](https://github.com/gtramontina/walter.cr)/692 | Keep your crystal clean! |
+| 14 | 2 | 0 | 18 days ago | [bson.cr](https://github.com/elbywan/bson.cr)/693 | A pure Crystal Implementation of the BSON Specification.  🐃 |
+| 14 | 2 | 10 | 2 months ago | [ratmachine](https://github.com/faissaloo/ratmachine)/694 | Textboard with text effects |
+| 13 | 0 | 0 | 1 year, 7 months ago | [shorturl.cr](https://github.com/veelenga/shorturl.cr)/695 | A tiny library to use URL shortening services |
+| 13 | 5 | 0 | 3 months ago | [resp-crystal](https://github.com/soveran/resp-crystal)/696 | Lightweight RESP client |
+| 13 | 1 | 8 | 3 years ago | [tele.cr](https://github.com/vladfaust/tele.cr)/697 | A convenient Telegram Bot framework 🤖 |
+| 13 | 1 | 0 | 5 years ago | [daemonize.cr](https://github.com/DougEverly/daemonize.cr)/698 | Daemonize a crystal process. |
+| 13 | 1 | 1 | 1 year, 9 months ago | [awesome_print.cr](https://github.com/evandrojr/awesome_print.cr)/699 | It dreams about becoming ruby's awesome_print for crystal-lang, under light development. |
+| 13 | 3 | 0 | 4 years ago | [query.cr](https://github.com/waterlink/query.cr)/700 | Query abstraction for Crystal Language. Used by active_record.cr library. |
+| 13 | 2 | 0 | 1 year, 6 months ago | [crOpenCL](https://github.com/cconklin/crOpenCL)/701 | OpenCL bindings for Crystal |
+| 13 | 0 | 0 | 3 years ago | [hamtaro-in-pieces](https://github.com/obskyr/hamtaro-in-pieces)/702 | A disassembly of the wonderful Game Boy Color game Hamtaro: Ham-Hams Unite! |
+| 13 | 2 | 0 | 3 years ago | [crystal-google_translate](https://github.com/greyblake/crystal-google_translate)/703 | Google Translate client for Crystal |
+| 13 | 2 | 1 | 2 years ago | [criss](https://github.com/straight-shoota/criss)/704 | Instantaneous static site site generator and server in Crystal |
+| 13 | 4 | 1 | 2 days ago | [crystal-readline](https://github.com/crystal-lang/crystal-readline)/705 | Crystal bindings to GNU Readline Library |
+| 13 | 1 | 0 | 3 years ago | [secrets](https://github.com/faustinoaq/secrets)/706 | Useful to get input on noecho, secrets, passwords, token, hints |
+| 13 | 0 | 0 | 4 months ago | [blurhash.cr](https://github.com/Sija/blurhash.cr)/707 | A pure Crystal implementation of BlurHash algorithm |
+| 13 | 4 | 0 | 1 year, 3 months ago | [redis-cluster.cr](https://github.com/maiha/redis-cluster.cr)/708 | redis-cluster library for Crystal |
+| 13 | 1 | 1 | 4 months ago | [herbal.cr](https://github.com/636f7374/herbal.cr)/709 | ⛵️ Available - Crystal SOCKS Client and Server |
+| 13 | 0 | 0 | 4 years ago | [kemal-mysql](https://github.com/sdogruyol/kemal-mysql)/710 | Easily add MySQL database to your Kemal application. |
+| 13 | 3 | 1 | 4 months ago | [turbo](https://github.com/jgaskins/turbo)/711 | None |
+| 13 | 1 | 0 | 2 days ago | [pretty.cr](https://github.com/maiha/pretty.cr)/712 | Something attentive, conservative and pretty stuff for Crystal |
+| 13 | 2 | 3 | 4 years ago | [satriani](https://github.com/marceloboeira/satriani)/713 | :guitar: A micro-framework for creating REST-like APIs in Crystal |
+| 13 | 2 | 0 | 1 year, 2 months ago | [notify.cr](https://github.com/woodruffw/notify.cr)/714 | A Crystal library for desktop notifications. |
+| 13 | 0 | 0 | 6 months ago | [geo](https://github.com/geocrystal/geo)/715 | Geospatial primitives and algorithms for Crystal |
+| 13 | 1 | 10 | 2 years ago | [nocturne](https://github.com/freyamade/nocturne)/716 | [Backburner] Crystal / Amber Framework Village Builder web application |
+| 13 | 0 | 0 | 15 days ago | [pond](https://github.com/GrottoPress/pond)/717 | Crystal WaitGroups without channels or counters |
+| 13 | 5 | 3 | 1 year, 1 month ago | [broken_crystals](https://github.com/NeuraLegion/broken_crystals)/718 | A vulnerable Application in crystal |
+| 13 | 0 | 0 | 4 years ago | [cr_manga_downloadr](https://github.com/akitaonrails/cr_manga_downloadr)/719 | Second version of the Ruby version of my MangaReader.net crawler adapted for Crystal |
+| 13 | 7 | 0 | 3 years ago | [LibGLFW](https://github.com/nulldotpro/LibGLFW)/720 | Complete GLFW bindings for Crystal. |
+| 13 | 2 | 0 | 5 months ago | [pack.cr](https://github.com/HertzDevil/pack.cr)/721 | Crystal compile-time (un)pack macros from Perl / Ruby |
+| 13 | 0 | 2 | 3 days ago | [mstrap](https://github.com/maxfierke/mstrap)/722 | Machine Bootstrapping tool with a focus on sensible defaults, conventions, and avoidance of vendoring |
+| 13 | 1 | 1 | 1 year, 5 months ago | [EBNF.cr](https://github.com/jrester/EBNF.cr)/723 | Work with (E)BNF and bison/YACC Grammar: Parsing, FIRST/FOLLOW set, CNF, Conversions, LR and LL parsing tables |
+| 13 | 0 | 0 | 6 months ago | [haversine](https://github.com/geocrystal/haversine)/724 | Crystal implementation of the Haversine formula to calculate distances between two points given their latitudes and longitudes |
+| 13 | 0 | 0 | 4 months ago | [sse.cr](https://github.com/y2k2mt/sse.cr)/725 | A Crystal shard for Server-Sent Events |
+| 13 | 1 | 7 | a month ago | [chem.cr](https://github.com/franciscoadasme/chem.cr)/726 | Library for dealing with computational chemistry files |
+| 13 | 6 | 2 | 15 days ago | [pyrite](https://github.com/psykube/pyrite)/727 | Kubernetes mappings for crystal. |
+| 13 | 5 | 5 | 3 years ago | [cox](https://github.com/andrewhamon/cox)/728 | Crystal wrapper for the libsodium crypto API |
+| 13 | 0 | 0 | 2 months ago | [cryplot](https://github.com/naqvis/cryplot)/729 | Crystal plotting library powered by gnuplot |
+| 13 | 1 | 1 | 5 years ago | [mock](https://github.com/porras/mock)/730 | Doubles (stubs and mocks) library for Crystal, inspired by the API of rspec-mocks |
+| 13 | 0 | 2 | 12 days ago | [avram_slugify](https://github.com/luckyframework/avram_slugify)/731 | AvramSlugify generates slugs for database columns. These slugs can be used for creating nice looking URLs, permalinks, invite codes, etc. |
 | 13 | 8 | 4 | 3 years ago | [kemal-basic-auth](https://github.com/kemalcr/kemal-basic-auth)/732 | Basic auth for your Kemal application |
 | 13 | 5 | 0 | 1 year, 3 months ago | [curl-crystal](https://github.com/blocknotes/curl-crystal)/733 | Crystal C bindings for libcurl |
 | 12 | 1 | 0 | 2 years ago | [financials](https://github.com/drum445/financials)/734 | Collection of Financial Calculations in Crystal |
@@ -742,17 +742,17 @@
 | 12 | 1 | 1 | 4 months ago | [kd_tree](https://github.com/geocrystal/kd_tree)/739 | Crystal implementation of "K-Dimensional Tree" and "N-Nearest Neighbors" |
 | 12 | 3 | 1 | 5 months ago | [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr)/740 | This library signs your HTTP requests using AWS v4 |
 | 12 | 0 | 1 | 4 years ago | [protocols](https://github.com/citizen428/protocols)/741 | Protocol macros modeled after their Elixir implementation |
-| 12 | 1 | 0 | 3 months ago | [chronic](https://github.com/alexherbo2/chronic)/742 | A natural language date-time parser for the command-line |
+| 12 | 1 | 0 | 4 months ago | [chronic](https://github.com/alexherbo2/chronic)/742 | A natural language date-time parser for the command-line |
 | 12 | 1 | 9 | 2 months ago | [quartz](https://github.com/RomainFranceschini/quartz)/743 | Quartz - A Crystal Modeling & Simulation framework |
 | 12 | 2 | 0 | 4 years ago | [crystal-ctags](https://github.com/SuperPaintman/crystal-ctags)/744 | Tool for generation ctags for Crystal |
 | 12 | 4 | 0 | 4 months ago | [open_api.cr](https://github.com/repomaa/open_api.cr)/745 | Type safe OpenAPI spec library |
 | 12 | 0 | 0 | 4 years ago | [flight-crusader](https://github.com/umurgdk/flight-crusader)/746 | POC top down flight game in crystal lang! |
-| 12 | 1 | 2 | a month ago | [hcl.cr](https://github.com/maxfierke/hcl.cr)/747 | A general-purpose HCL2 (Hashicorp Configuration Language) parser written in Crystal. |
+| 12 | 1 | 2 | 2 months ago | [hcl.cr](https://github.com/maxfierke/hcl.cr)/747 | A general-purpose HCL2 (Hashicorp Configuration Language) parser written in Crystal. |
 | 12 | 1 | 1 | 2 months ago | [galileo](https://github.com/willdoescode/galileo)/748 | 🔮 The fastest way to make the fastest dogehouse bots 🔮 |
 | 12 | 0 | 2 | a month ago | [shardbox-core](https://github.com/shardbox/shardbox-core)/749 | The core of shardbox.org |
 | 12 | 0 | 1 | 5 years ago | [valhalla](https://github.com/Philpax/valhalla)/750 | Basic proof-of-concept kernel written in Crystal. |
 | 12 | 2 | 7 | 5 years ago | [quick.cr](https://github.com/waterlink/quick.cr)/751 | QuickCheck implementation for Crystal Language |
-| 12 | 0 | 0 | 2 days ago | [opengl.cr](https://github.com/icy-arctic-fox/opengl.cr)/752 | Dynamically generated OpenGL bindings for Crystal. |
+| 12 | 0 | 0 | 9 days ago | [opengl.cr](https://github.com/icy-arctic-fox/opengl.cr)/752 | Dynamically generated OpenGL bindings for Crystal. |
 | 12 | 1 | 0 | 4 months ago | [ksuid.cr](https://github.com/Sija/ksuid.cr)/753 | Crystal implementation of K-Sortable Globally Unique IDs |
 | 12 | 0 | 0 | 2 months ago | [climate.cr](https://github.com/Sija/climate.cr)/754 | Tiny tool to make your CLI output 🌈  coloured |
 | 12 | 1 | 0 | 3 years ago | [adventofcode2017](https://github.com/asterite/adventofcode2017)/755 | My solutions to http://adventofcode.com/2017 |
@@ -768,236 +768,236 @@
 | 12 | 4 | 3 | a month ago | [lsquic.cr](https://github.com/iv-org/lsquic.cr)/765 | Crystal bindings to LiteSpeed QUIC |
 | 12 | 1 | 0 | 3 years ago | [dpdk.cr](https://github.com/S-YOU/dpdk.cr)/766 | Crystal bindings to Intel's DPDK at wire rate packet processing. |
 | 12 | 0 | 4 | 4 years ago | [todo-backend-kemal](https://github.com/mauricioabreu/todo-backend-kemal)/767 | Kemal version |
-| 12 | 2 | 2 | 1 year, 1 month ago | [mollie.cr](https://github.com/tilitribe/mollie.cr)/768 | Mollie API client for Crystal http://www.mollie.com |
-| 12 | 0 | 1 | 1 year, 6 months ago | [honcho](https://github.com/faultyserver/honcho)/769 | A fiber/process supervisor for Crystal, inspired by the erlang/elixir Supervisor module. |
+| 12 | 1 | 2 | 10 hours ago | [mollie.cr](https://github.com/wout/mollie.cr)/768 | Mollie API client for Crystal http://www.mollie.com |
+| 12 | 0 | 1 | 1 year, 7 months ago | [honcho](https://github.com/faultyserver/honcho)/769 | A fiber/process supervisor for Crystal, inspired by the erlang/elixir Supervisor module. |
 | 12 | 0 | 0 | 5 years ago | [ruby_extension_with_crystal](https://github.com/5t111111/ruby_extension_with_crystal)/770 | Write Ruby extensions with Crystal |
 | 12 | 1 | 0 | 5 years ago | [crystal-magma](https://github.com/greyblake/crystal-magma)/771 | Crystal interpreter |
-| 12 | 2 | 3 | 3 months ago | [selenium.cr](https://github.com/matthewmcgarvey/selenium.cr)/772 | Selenium library for Crystal |
-| 12 | 2 | 1 | 1 year, 8 months ago | [readability.cr](https://github.com/joenas/readability.cr)/773 | Port of ruby-readability's port of arc90's readability project to Crystal |
+| 12 | 2 | 3 | 4 months ago | [selenium.cr](https://github.com/matthewmcgarvey/selenium.cr)/772 | Selenium library for Crystal |
+| 12 | 2 | 1 | 1 year, 9 months ago | [readability.cr](https://github.com/joenas/readability.cr)/773 | Port of ruby-readability's port of arc90's readability project to Crystal |
 | 12 | 2 | 0 | 1 year, 2 months ago | [gamegenie](https://github.com/akitaonrails/gamegenie)/774 | simple exercise to decode Game Genie codes into the proper addresses and values |
 | 12 | 0 | 0 | 2 years ago | [fix](https://github.com/NeuraLegion/fix)/775 | FIX library for crystal |
 | 11 | 1 | 0 | 4 months ago | [html-pipeline.cr](https://github.com/huacnlee/html-pipeline.cr)/776 | HTML processing filters and utilities for Crystal. |
-| 11 | 2 | 2 | 4 years ago | [serialport.cr](https://github.com/Sija/serialport.cr)/777 | Crystal bindings for libserialport: cross-platform library for accessing serial ports. |
-| 11 | 6 | 0 | 4 years ago | [breakout.cr](https://github.com/petoem/breakout.cr)/778 | Breakout Game in Crystal |
-| 11 | 1 | 0 | 28 days ago | [xlsx-parser](https://github.com/D1ceWard/xlsx-parser)/779 | Crystal wrapper for parsing .xlsx spreadsheets |
-| 11 | 0 | 1 | 2 years ago | [terminimal](https://github.com/aca-labs/terminimal)/780 | A tiny CLI toolkit for building terminal apps for humans. |
-| 11 | 0 | 0 | 1 year, 4 months ago | [lucky_can](https://github.com/confact/lucky_can)/781 | A simple pundit policies library for Lucky Framework in Crystal |
-| 11 | 0 | 1 | a month ago | [werk](https://github.com/marghidanu/werk)/782 | Dead simple task runner |
-| 11 | 2 | 0 | 4 months ago | [cron_parser](https://github.com/kostya/cron_parser)/783 | Cron parser for Crystal language. Translated from Ruby https://github.com/siebertm/parse-cron |
-| 11 | 0 | 0 | 2 years ago | [rainbow-spec](https://github.com/veelenga/rainbow-spec)/784 | Rainbow spec formatter for Crystal |
-| 11 | 3 | 2 | 28 days ago | [m3u8](https://github.com/akiicat/m3u8)/785 | Generate and parse m3u8 playlists for HTTP Live Streaming (HLS) in Crystal. |
-| 11 | 4 | 2 | 3 years ago | [sentry-run](https://github.com/faustinoaq/sentry-run)/786 | Use Sentry shard for reload your app |
-| 11 | 0 | 0 | Unknown | [libpixel.cr](https://github.com/libpixel/libpixel.cr)/787 | Crystal library to generate and sign URLs for LibPixel. |
-| 11 | 5 | 2 | 4 years ago | [kemal-flash](https://github.com/neovintage/kemal-flash)/788 | Temporary storage between actions in kemal |
-| 11 | 2 | 0 | Unknown | [statistics](https://github.com/lbarasti/statistics)/789 | A Crystal shard to perform descriptive statistics and sampling on popular distributions |
-| 11 | 3 | 1 | 4 years ago | [open_exchange_rates](https://github.com/osfx/open_exchange_rates)/790 | A library for Open Exchange Rates API |
-| 11 | 4 | 0 | 1 year, 4 months ago | [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list)/791 | Simple linked list implementation in Crystal |
-| 11 | 2 | 0 | Unknown | [acorn](https://github.com/rmosolgo/acorn)/792 | 🚧 State Machine Compiler for Crystal |
-| 11 | 0 | 0 | 4 months ago | [Beeg-Boy](https://github.com/wheremyfoodat/Beeg-Boy)/793 | A Gameboy emulator made in Crystal as part of a 5-day speedrun (runs Pokemon Blue so it's perfect) |
-| 11 | 2 | 0 | 5 years ago | [crystal-jsonapi](https://github.com/repomaa/crystal-jsonapi)/794 | JSON API serializing for crystal |
-| 11 | 6 | 3 | 2 years ago | [crystal-dbus](https://github.com/oprypin/crystal-dbus)/795 |  Crystal bindings to D-Bus |
-| 11 | 0 | 1 | 8 months ago | [rome](https://github.com/ysbaddaden/rome)/796 | None |
-| 11 | 0 | 3 | Unknown | [background](https://github.com/vladfaust/background)/797 | Fast background job processing |
-| 11 | 3 | 0 | 8 months ago | [config.cr](https://github.com/chris-huxtable/config.cr)/798 | Easy to use configuration and parser. |
-| 11 | 0 | 0 | 4 months ago | [lz4.cr](https://github.com/naqvis/lz4.cr)/799 | Crystal bindings to the LZ4 compression library |
-| 11 | 0 | 0 | Unknown | [crystal-odbc](https://github.com/naqvis/crystal-odbc)/800 | ODBC connector for Crystal |
-| 11 | 0 | 0 | a month ago | [dstrap.cr](https://github.com/frissyn/dstrap.cr)/801 | 📂 Everything you need to know about the current directory in one command. |
-| 11 | 0 | 0 | 1 year, 4 months ago | [strange](https://github.com/hydecr/strange)/802 | A powerful logger for those that need a little something more |
-| 11 | 1 | 0 | 1 year, 11 months ago | [crystal-object-send](https://github.com/j8r/crystal-object-send)/803 | Interpret a String to an Object method call |
-| 11 | 3 | 1 | Unknown | [cryogonal](https://github.com/z64/cryogonal)/804 | Composable Discord API library and toolkit for Crystal |
-| 11 | 1 | 0 | 3 years ago | [mime-types-cr](https://github.com/jwaldrip/mime-types-cr)/805 | MIME Types for Crystal :: A port of the Ruby MIME::Types library |
-| 11 | 0 | 2 | Unknown | [crcophony](https://github.com/freyamade/crcophony)/806 | Fast, neat discord TUI written in Crystal |
-| 11 | 4 | 1 | 5 years ago | [ambience](https://github.com/vjdhama/ambience)/807 | App configuration for crystal applications. |
-| 11 | 2 | 0 | Unknown | [delimiter_tree](https://github.com/drujensen/delimiter_tree)/808 | A crystal-lang tree structure that is built using a delimiter. |
-| 11 | 4 | 0 | 1 year, 2 months ago | [atomic_write.cr](https://github.com/chris-huxtable/atomic_write.cr)/809 | Extends `File` to provide `atomic_write()`. |
-| 11 | 0 | 0 | Unknown | [crystal-dbx](https://github.com/Nicolab/crystal-dbx)/810 |  ORM and query builder for Crystal lang. |
-| 11 | 2 | 2 | 1 year, 1 month ago | [html2lucky](https://github.com/luckyframework/html2lucky)/811 | Convert regular HTML into Lucky's Crystal DSL for HTML. |
-| 11 | 3 | 0 | Unknown | [blue_cr](https://github.com/NeuraLegion/blue_cr)/812 | BlueZ bluetooth binding in Crystal |
-| 11 | 1 | 2 | 2 years ago | [callbacks.cr](https://github.com/vladfaust/callbacks.cr)/813 | Expressive callbacks module for Crystal 🚉 |
-| 11 | 0 | 1 | Unknown | [moku](https://github.com/jgaskins/moku)/814 | ActivityPub server |
-| 10 | 1 | 0 | 5 years ago | [airbrake-crystal](https://github.com/kyrylo/airbrake-crystal)/815 | A Crystal notifier for Airbrake |
-| 10 | 0 | 0 | 2 years ago | [auto_initialize](https://github.com/kostya/auto_initialize)/816 |  Generate initialize methods for classes and structs |
-| 10 | 0 | 0 | Unknown | [pool.cr](https://github.com/j8r/pool.cr)/817 | A simple thread-safe generic pool. |
-| 10 | 0 | 0 | 2 months ago | [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp)/818 | SNMP implementation for crystal lang |
-| 10 | 0 | 0 | 2 days ago | [alea](https://github.com/nin93/alea)/819 | Repeatable pseudo-random sampling, CDF over most known probability distributions. |
-| 10 | 4 | 0 | 4 years ago | [dirtycow.cr](https://github.com/xlucas/dirtycow.cr)/820 | CVE-2016-5195 exploit written in Crystal |
-| 10 | 0 | 0 | Unknown | [retrycr](https://github.com/taylorfinnell/retrycr)/821 | Retry blocks of Crystal code |
-| 10 | 1 | 0 | 4 months ago | [kemal-json-api.cr](https://github.com/spoved/kemal-json-api.cr)/822 | A Kemal implementation of JSON-API spec |
-| 10 | 3 | 0 | Unknown | [crystal-json-socket](https://github.com/foi/crystal-json-socket)/823 |  JSON-socket client & server implementation. Inspired by and compatible with sebastianseilund/node-json-socket |
-| 10 | 0 | 0 | 3 years ago | [hash_ring](https://github.com/tobyapi/hash_ring)/824 | Implementation of Consistent Hash Ring for Crystal |
-| 10 | 2 | 1 | 3 months ago | [json_rpc](https://github.com/Papierkorb/json_rpc)/825 | JSON-RPC client and server library |
-| 10 | 5 | 3 | Unknown | [stumpy_utils](https://github.com/stumpycr/stumpy_utils)/826 | Extensions (e.g. drawing functions) for stumpy_core |
-| 10 | 1 | 3 | 2 years ago | [bluetooth](https://github.com/crystal-community/bluetooth)/827 | Bluetooth Bluez binding in Crystal |
-| 10 | 4 | 0 | Unknown | [ezoe](https://github.com/rhysd/ezoe)/828 | `ezoe` command written in Crystal |
-| 10 | 0 | 1 | 2 years ago | [nacl](https://github.com/watzon/nacl)/829 | Crystal bindings to libsodium (WIP) |
-| 10 | 3 | 0 | Unknown | [proton](https://github.com/protoncr/proton)/830 | TDLib wrapper for Crystal |
-| 10 | 0 | 2 | 2 months ago | [lucky_bits](https://github.com/edwardloveall/lucky_bits)/831 | A site for link sharing in small groups |
-| 10 | 0 | 0 | Unknown | [crystalforce](https://github.com/msky026/crystalforce)/832 | A Crystal client for the Salesforce REST api. |
-| 10 | 2 | 0 | 3 years ago | [metascraper](https://github.com/malina/metascraper)/833 | Metascraper is a Crystal library  for web scraping. |
-| 10 | 1 | 2 | 2 years ago | [hydra](https://github.com/Ghrind/hydra)/834 | Terminal interface for Crystal |
-| 10 | 0 | 0 | Unknown | [tesseract-ocr-crystal](https://github.com/dannnylo/tesseract-ocr-crystal)/835 | This is a wrapper of Tesseract OCR. Helping to read characters on an image. |
-| 10 | 1 | 0 | 2 years ago | [pastebin-cr](https://github.com/mlvzk/pastebin-cr)/836 | 19 LOC pastebin in Crystal |
-| 10 | 1 | 0 | 5 years ago | [Crystallian](https://github.com/nob-suz/Crystallian)/837 | Crystal-language information      |
-| 10 | 2 | 0 | 5 years ago | [http2](https://github.com/markauskas/http2)/838 | HTTP/2 implementation in Crystal |
-| 10 | 2 | 3 | Unknown | [callback](https://github.com/mosop/callback)/839 | A Crystal library for defining and invoking callbacks. |
-| 10 | 2 | 0 | Unknown | [snykctl](https://github.com/garethr/snykctl)/840 | A CLI tool for interacting with the Snyk API. |
-| 10 | 1 | 1 | 2 years ago | [drizzle](https://github.com/drizzle-lang/drizzle)/841 | Drizzle is a (currently interpreted) programming language designed as something I would like to use, and used as a way to learn lots of new things. |
-| 10 | 0 | 1 | 2 years ago | [async](https://github.com/LeChatErrant/async)/842 | A collection of tools to manage asynchronous tasks in crystal |
-| 10 | 4 | 1 | 5 months ago | [rlp.cr](https://github.com/q9f/rlp.cr)/843 | a native library implementing recursive length prefixes purely for the crystal language |
-| 10 | 2 | 0 | 5 years ago | [docker-kemal](https://github.com/ianblenke/docker-kemal)/844 | An example Dockerized Crystal Kemal project |
-| 10 | 3 | 1 | 5 years ago | [chizge](https://github.com/aladagemre/chizge)/845 | A Network (Graph) Analysis library for Crystal Language, inspired by NetworkX. |
-| 10 | 2 | 0 | 3 years ago | [imap](https://github.com/crisward/imap)/846 | Imap client library for Crystal-Lang |
-| 10 | 14 | 6 | 5 days ago | [authentic](https://github.com/luckyframework/authentic)/847 | An authentication library for Lucky projects |
-| 10 | 1 | 0 | Unknown | [chocolate](https://github.com/Grabli66/chocolate)/848 | Simple web framework and template engine |
-| 10 | 0 | 0 | 2 years ago | [ast_viewer.cr](https://github.com/arcage/ast_viewer.cr)/849 | Visualize the AST structure from ASTNode object, source file, or source code string. |
-| 10 | 2 | 0 | Unknown | [lucky_diff](https://github.com/stephendolan/lucky_diff)/850 | Show differences between scaffolded Lucky app versions! |
-| 10 | 1 | 0 | 3 years ago | [multipart.cr](https://github.com/RX14/multipart.cr)/851 | MIME multipart and multipart/form-data support for Crystal |
-| 10 | 1 | 2 | Unknown | [run](https://github.com/mosop/run)/852 | A Crystal library for running commands in reusable contexts. |
+| 11 | 0 | 0 | 2 months ago | [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp)/777 | SNMP implementation for crystal lang |
+| 11 | 0 | 0 | 3 years ago | [hash_ring](https://github.com/tobyapi/hash_ring)/778 | Implementation of Consistent Hash Ring for Crystal |
+| 11 | 2 | 2 | 4 years ago | [serialport.cr](https://github.com/Sija/serialport.cr)/779 | Crystal bindings for libserialport: cross-platform library for accessing serial ports. |
+| 11 | 6 | 0 | 4 years ago | [breakout.cr](https://github.com/petoem/breakout.cr)/780 | Breakout Game in Crystal |
+| 11 | 1 | 0 | 6 days ago | [xlsx-parser](https://github.com/D1ceWard/xlsx-parser)/781 | Crystal wrapper for parsing .xlsx spreadsheets |
+| 11 | 0 | 1 | 2 years ago | [terminimal](https://github.com/aca-labs/terminimal)/782 | A tiny CLI toolkit for building terminal apps for humans. |
+| 11 | 0 | 0 | 1 year, 4 months ago | [lucky_can](https://github.com/confact/lucky_can)/783 | A simple pundit policies library for Lucky Framework in Crystal |
+| 11 | 0 | 1 | 2 months ago | [werk](https://github.com/marghidanu/werk)/784 | Dead simple task runner |
+| 11 | 2 | 0 | 4 months ago | [cron_parser](https://github.com/kostya/cron_parser)/785 | Cron parser for Crystal language. Translated from Ruby https://github.com/siebertm/parse-cron |
+| 11 | 0 | 0 | 2 years ago | [rainbow-spec](https://github.com/veelenga/rainbow-spec)/786 | Rainbow spec formatter for Crystal |
+| 11 | 3 | 2 | a month ago | [m3u8](https://github.com/akiicat/m3u8)/787 | Generate and parse m3u8 playlists for HTTP Live Streaming (HLS) in Crystal. |
+| 11 | 4 | 2 | 3 years ago | [sentry-run](https://github.com/faustinoaq/sentry-run)/788 | Use Sentry shard for reload your app |
+| 11 | 0 | 0 | 1 year, 10 months ago | [libpixel.cr](https://github.com/libpixel/libpixel.cr)/789 | Crystal library to generate and sign URLs for LibPixel. |
+| 11 | 5 | 2 | 4 years ago | [kemal-flash](https://github.com/neovintage/kemal-flash)/790 | Temporary storage between actions in kemal |
+| 11 | 2 | 0 | 3 months ago | [statistics](https://github.com/lbarasti/statistics)/791 | A Crystal shard to perform descriptive statistics and sampling on popular distributions |
+| 11 | 3 | 1 | 4 years ago | [open_exchange_rates](https://github.com/osfx/open_exchange_rates)/792 | A library for Open Exchange Rates API |
+| 11 | 4 | 0 | 1 year, 4 months ago | [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list)/793 | Simple linked list implementation in Crystal |
+| 11 | 2 | 0 | 4 years ago | [acorn](https://github.com/rmosolgo/acorn)/794 | 🚧 State Machine Compiler for Crystal |
+| 11 | 0 | 0 | 5 months ago | [Beeg-Boy](https://github.com/wheremyfoodat/Beeg-Boy)/795 | A Gameboy emulator made in Crystal as part of a 5-day speedrun (runs Pokemon Blue so it's perfect) |
+| 11 | 2 | 0 | 5 years ago | [crystal-jsonapi](https://github.com/repomaa/crystal-jsonapi)/796 | JSON API serializing for crystal |
+| 11 | 6 | 3 | 2 years ago | [crystal-dbus](https://github.com/oprypin/crystal-dbus)/797 |  Crystal bindings to D-Bus |
+| 11 | 0 | 1 | 8 months ago | [rome](https://github.com/ysbaddaden/rome)/798 | None |
+| 11 | 0 | 3 | 2 years ago | [background](https://github.com/vladfaust/background)/799 | Fast background job processing |
+| 11 | 3 | 0 | 8 months ago | [config.cr](https://github.com/chris-huxtable/config.cr)/800 | Easy to use configuration and parser. |
+| 11 | 0 | 0 | 4 months ago | [lz4.cr](https://github.com/naqvis/lz4.cr)/801 | Crystal bindings to the LZ4 compression library |
+| 11 | 0 | 0 | 4 months ago | [crystal-odbc](https://github.com/naqvis/crystal-odbc)/802 | ODBC connector for Crystal |
+| 11 | 0 | 0 | 2 months ago | [dstrap.cr](https://github.com/frissyn/dstrap.cr)/803 | 📂 Everything you need to know about the current directory in one command. |
+| 11 | 0 | 0 | 1 year, 4 months ago | [strange](https://github.com/hydecr/strange)/804 | A powerful logger for those that need a little something more |
+| 11 | 1 | 0 | 1 year, 11 months ago | [crystal-object-send](https://github.com/j8r/crystal-object-send)/805 | Interpret a String to an Object method call |
+| 11 | 3 | 1 | 2 years ago | [cryogonal](https://github.com/z64/cryogonal)/806 | Composable Discord API library and toolkit for Crystal |
+| 11 | 1 | 0 | 3 years ago | [mime-types-cr](https://github.com/jwaldrip/mime-types-cr)/807 | MIME Types for Crystal :: A port of the Ruby MIME::Types library |
+| 11 | 0 | 2 | 1 year, 8 months ago | [crcophony](https://github.com/freyamade/crcophony)/808 | Fast, neat discord TUI written in Crystal |
+| 11 | 4 | 1 | 5 years ago | [ambience](https://github.com/vjdhama/ambience)/809 | App configuration for crystal applications. |
+| 11 | 2 | 0 | 4 years ago | [delimiter_tree](https://github.com/drujensen/delimiter_tree)/810 | A crystal-lang tree structure that is built using a delimiter. |
+| 11 | 4 | 0 | 1 year, 2 months ago | [atomic_write.cr](https://github.com/chris-huxtable/atomic_write.cr)/811 | Extends `File` to provide `atomic_write()`. |
+| 11 | 0 | 0 | 3 months ago | [crystal-dbx](https://github.com/Nicolab/crystal-dbx)/812 |  ORM and query builder for Crystal lang. |
+| 11 | 2 | 2 | 1 year, 1 month ago | [html2lucky](https://github.com/luckyframework/html2lucky)/813 | Convert regular HTML into Lucky's Crystal DSL for HTML. |
+| 11 | 2 | 0 | 5 months ago | [crystal-fswatch](https://github.com/bcardiff/crystal-fswatch)/814 | None |
+| 11 | 1 | 2 | 2 years ago | [callbacks.cr](https://github.com/vladfaust/callbacks.cr)/815 | Expressive callbacks module for Crystal 🚉 |
+| 11 | 3 | 0 | 2 years ago | [blue_cr](https://github.com/NeuraLegion/blue_cr)/816 | BlueZ bluetooth binding in Crystal |
+| 11 | 0 | 1 | 1 year, 5 months ago | [moku](https://github.com/jgaskins/moku)/817 | ActivityPub server |
+| 10 | 1 | 0 | 5 years ago | [airbrake-crystal](https://github.com/kyrylo/airbrake-crystal)/818 | A Crystal notifier for Airbrake |
+| 10 | 0 | 0 | 2 years ago | [auto_initialize](https://github.com/kostya/auto_initialize)/819 |  Generate initialize methods for classes and structs |
+| 10 | 0 | 0 | 6 months ago | [pool.cr](https://github.com/j8r/pool.cr)/820 | A simple thread-safe generic pool. |
+| 10 | 0 | 0 | 9 days ago | [alea](https://github.com/nin93/alea)/821 | Repeatable pseudo-random sampling, CDF over most known probability distributions. |
+| 10 | 4 | 0 | 4 years ago | [dirtycow.cr](https://github.com/xlucas/dirtycow.cr)/822 | CVE-2016-5195 exploit written in Crystal |
+| 10 | 0 | 0 | 3 months ago | [retrycr](https://github.com/taylorfinnell/retrycr)/823 | Retry blocks of Crystal code |
+| 10 | 1 | 0 | 4 months ago | [kemal-json-api.cr](https://github.com/spoved/kemal-json-api.cr)/824 | A Kemal implementation of JSON-API spec |
+| 10 | 3 | 0 | a month ago | [crystal-json-socket](https://github.com/foi/crystal-json-socket)/825 |  JSON-socket client & server implementation. Inspired by and compatible with sebastianseilund/node-json-socket |
+| 10 | 2 | 1 | 3 months ago | [json_rpc](https://github.com/Papierkorb/json_rpc)/826 | JSON-RPC client and server library |
+| 10 | 5 | 3 | 10 months ago | [stumpy_utils](https://github.com/stumpycr/stumpy_utils)/827 | Extensions (e.g. drawing functions) for stumpy_core |
+| 10 | 1 | 3 | 2 years ago | [bluetooth](https://github.com/crystal-community/bluetooth)/828 | Bluetooth Bluez binding in Crystal |
+| 10 | 4 | 0 | 5 years ago | [ezoe](https://github.com/rhysd/ezoe)/829 | `ezoe` command written in Crystal |
+| 10 | 0 | 1 | 2 years ago | [nacl](https://github.com/watzon/nacl)/830 | Crystal bindings to libsodium (WIP) |
+| 10 | 3 | 0 | 1 year, 1 month ago | [proton](https://github.com/protoncr/proton)/831 | TDLib wrapper for Crystal |
+| 10 | 0 | 2 | 2 months ago | [lucky_bits](https://github.com/edwardloveall/lucky_bits)/832 | A site for link sharing in small groups |
+| 10 | 0 | 0 | 2 years ago | [crystalforce](https://github.com/msky026/crystalforce)/833 | A Crystal client for the Salesforce REST api. |
+| 10 | 2 | 0 | 3 years ago | [metascraper](https://github.com/malina/metascraper)/834 | Metascraper is a Crystal library  for web scraping. |
+| 10 | 1 | 2 | 2 years ago | [hydra](https://github.com/Ghrind/hydra)/835 | Terminal interface for Crystal |
+| 10 | 0 | 0 | 9 months ago | [tesseract-ocr-crystal](https://github.com/dannnylo/tesseract-ocr-crystal)/836 | This is a wrapper of Tesseract OCR. Helping to read characters on an image. |
+| 10 | 1 | 0 | 2 years ago | [pastebin-cr](https://github.com/mlvzk/pastebin-cr)/837 | 19 LOC pastebin in Crystal |
+| 10 | 1 | 19 | 10 months ago | [StackCoin](https://github.com/StackCoin/StackCoin)/838 | a pseudo centralized currency - [11:09] stack: i hate it |
+| 10 | 1 | 0 | 5 years ago | [Crystallian](https://github.com/nob-suz/Crystallian)/839 | Crystal-language information      |
+| 10 | 2 | 0 | 5 years ago | [http2](https://github.com/markauskas/http2)/840 | HTTP/2 implementation in Crystal |
+| 10 | 2 | 3 | 4 years ago | [callback](https://github.com/mosop/callback)/841 | A Crystal library for defining and invoking callbacks. |
+| 10 | 2 | 0 | 6 months ago | [snykctl](https://github.com/garethr/snykctl)/842 | A CLI tool for interacting with the Snyk API. |
+| 10 | 0 | 1 | 2 years ago | [async](https://github.com/LeChatErrant/async)/843 | A collection of tools to manage asynchronous tasks in crystal |
+| 10 | 1 | 1 | 2 years ago | [drizzle](https://github.com/drizzle-lang/drizzle)/844 | Drizzle is a (currently interpreted) programming language designed as something I would like to use, and used as a way to learn lots of new things. |
+| 10 | 4 | 1 | 5 months ago | [rlp.cr](https://github.com/q9f/rlp.cr)/845 | a native library implementing recursive length prefixes purely for the crystal language |
+| 10 | 2 | 0 | 5 years ago | [docker-kemal](https://github.com/ianblenke/docker-kemal)/846 | An example Dockerized Crystal Kemal project |
+| 10 | 3 | 1 | 5 years ago | [chizge](https://github.com/aladagemre/chizge)/847 | A Network (Graph) Analysis library for Crystal Language, inspired by NetworkX. |
+| 10 | 2 | 0 | 3 years ago | [imap](https://github.com/crisward/imap)/848 | Imap client library for Crystal-Lang |
+| 10 | 14 | 6 | 12 days ago | [authentic](https://github.com/luckyframework/authentic)/849 | An authentication library for Lucky projects |
+| 10 | 1 | 0 | 5 years ago | [chocolate](https://github.com/Grabli66/chocolate)/850 | Simple web framework and template engine |
+| 10 | 0 | 0 | 2 years ago | [ast_viewer.cr](https://github.com/arcage/ast_viewer.cr)/851 | Visualize the AST structure from ASTNode object, source file, or source code string. |
+| 10 | 2 | 0 | 6 hours ago | [lucky_diff](https://github.com/stephendolan/lucky_diff)/852 | Show differences between scaffolded Lucky app versions! |
 | 10 | 0 | 0 | 4 years ago | [soil](https://github.com/joaodiogocosta/soil)/853 | A Web Framework written in Crystal optimized for productivity and extensibility |
-| 10 | 1 | 0 | Unknown | [maildir.cr](https://github.com/crystallabs/maildir.cr)/854 | Crystal library for reading and writing files in the Maildir file structure |
-| 10 | 1 | 12 | 3 years ago | [amber-realworld-example-app](https://github.com/ChangJoo-Park/amber-realworld-example-app)/855 | WIP. amber framework realworld example app |
-| 10 | 0 | 0 | Unknown | [spotlight](https://github.com/watzon/spotlight)/856 | Search engine parsing for Crystal |
-| 10 | 0 | 0 | Unknown | [elite.cr](https://github.com/fgimian/elite.cr)/857 | Automation framework for configuring your Mac. |
-| 10 | 1 | 0 | 4 years ago | [isot](https://github.com/Hamdiakoguz/isot)/858 | A simple WSDL parser in crystal. Ported from wasabi ruby gem. |
-| 10 | 1 | 0 | Unknown | [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal)/859 | A library to access the SoundCloud API using Crystal |
+| 10 | 1 | 0 | 3 months ago | [maildir.cr](https://github.com/crystallabs/maildir.cr)/854 | Crystal library for reading and writing files in the Maildir file structure |
+| 10 | 1 | 2 | 4 years ago | [run](https://github.com/mosop/run)/855 | A Crystal library for running commands in reusable contexts. |
+| 10 | 1 | 0 | 3 years ago | [multipart.cr](https://github.com/RX14/multipart.cr)/856 | MIME multipart and multipart/form-data support for Crystal |
+| 10 | 1 | 12 | 3 years ago | [amber-realworld-example-app](https://github.com/ChangJoo-Park/amber-realworld-example-app)/857 | WIP. amber framework realworld example app |
+| 10 | 0 | 0 | 1 year, 8 months ago | [spotlight](https://github.com/watzon/spotlight)/858 | Search engine parsing for Crystal |
+| 10 | 0 | 0 | 3 years ago | [elite.cr](https://github.com/fgimian/elite.cr)/859 | Automation framework for configuring your Mac. |
 | 10 | 1 | 1 | 3 months ago | [icu.cr](https://github.com/olbat/icu.cr)/860 | A Cystal binding/wrapper to the ICU library |
-| 10 | 2 | 2 | Unknown | [ping-statsd](https://github.com/chendo/ping-statsd)/861 | A tool to ping hostnames and send stats to Statsd. |
-| 10 | 15 | 0 | 3 years ago | [heart-disease](https://github.com/drujensen/heart-disease)/862 | Predicting Heart Disease using SHAInet |
-| 10 | 0 | 0 | Unknown | [crystal-ruby-tuesday](https://github.com/citizen428/crystal-ruby-tuesday)/863 | Code from "Crystal For Rubyists" presentation at Ruby Tuesday Bangkok |
-| 10 | 4 | 0 | Unknown | [crystal-ecdsa](https://github.com/Axentro/crystal-ecdsa)/864 | C bindings for OpenSSL ECDSA |
-| 10 | 1 | 0 | Unknown | [crystal-state_machine](https://github.com/luislavena/crystal-state_machine)/865 | State Machine for Crystal |
-| 10 | 0 | 0 | Unknown | [trillo_api](https://github.com/kevyder/trillo_api)/866 | A trello api clone in @kemalcr |
-| 10 | 2 | 0 | 1 year, 19 days ago | [tail.cr](https://github.com/j8r/tail.cr)/867 | Tailing library for Crystal - get and/or follow the end of a file/IO |
-| 10 | 1 | 0 | Unknown | [memoized.cr](https://github.com/maiha/memoized.cr)/868 | Time-based memoized library for Crystal |
-| 10 | 0 | 0 | 8 months ago | [turbolinks](https://github.com/bentranter/turbolinks)/869 | Crystal engine for Turbolinks integration. |
-| 10 | 1 | 2 | 3 years ago | [ocean_kit](https://github.com/osfx/ocean_kit)/870 | Digital Ocen v2 API Client |
-| 10 | 0 | 0 | 3 months ago | [keepass](https://github.com/lipanski/keepass)/871 | Keepass KDBX v2/v3 parser for Crystal |
-| 10 | 0 | 1 | 1 year, 1 month ago | [shale](https://github.com/c910335/shale)/872 | Paginator for Amber Framework |
-| 10 | 0 | 0 | Unknown | [i18n](https://github.com/BrucePerens/i18n)/873 | Internationalization of Crystal programs. |
-| 10 | 0 | 0 | 3 years ago | [tap](https://github.com/MakeNowJust/tap)/874 | TAP (Test Anything Protocol) test framework for Crystal |
-| 10 | 0 | 0 | Unknown | [timeout.cr](https://github.com/hugoabonizio/timeout.cr)/875 | :hourglass_flowing_sand: Declarative timeout pattern for Crystal |
-| 10 | 2 | 0 | 5 months ago | [crystal-fswatch](https://github.com/bcardiff/crystal-fswatch)/876 | None |
-| 10 | 1 | 0 | 9 months ago | [browser](https://github.com/watzon/browser)/877 | Browser detection library for Crystal |
-| 10 | 1 | 0 | 8 months ago | [matrix-architect](https://github.com/erdnaxeli/matrix-architect)/878 | Admin bot for Matrix. |
-| 10 | 1 | 0 | Unknown | [eighttrack](https://github.com/russ/eighttrack)/879 | VCR for Crystal |
-| 10 | 6 | 3 | 2 years ago | [LibGL](https://github.com/nulldotpro/LibGL)/880 | OpenGL bindings for Crystal |
-| 10 | 0 | 2 | Unknown | [keimeno](https://github.com/robacarp/keimeno)/881 | A lightweight text user interface library in Crystal |
-| 9 | 1 | 0 | 5 years ago | [crystal-git](https://github.com/matiasgarciaisaia/crystal-git)/882 | Crystal bindings for libgit2 |
-| 9 | 3 | 5 | 4 months ago | [fuse](https://github.com/Papierkorb/fuse)/883 | libFUSE bindings for Crystal |
-| 9 | 2 | 1 | Unknown | [GetMeInternet](https://github.com/shelvacu/GetMeInternet)/884 | Tries to Get You Internet |
-| 9 | 0 | 0 | 1 year, 4 months ago | [crystal-wait-group](https://github.com/jasonrobot/crystal-wait-group)/885 | An implementation of WaitGroup modeled after golang's sync.WaitGroup |
-| 9 | 1 | 1 | 4 years ago | [crystal-demo](https://github.com/dmitryrck/crystal-demo)/886 | None |
-| 9 | 1 | 0 | Unknown | [migro](https://github.com/aisrael/migro)/887 | A database migration tool written in Crystal |
-| 9 | 1 | 4 | 5 years ago | [sharock-server](https://github.com/shardsrocks/sharock-server)/888 | :gem: Server Side for Shards Rocks |
-| 9 | 2 | 2 | Unknown | [zlib.cr](https://github.com/datanoise/zlib.cr)/889 | zlib binding for Crystal language |
-| 9 | 0 | 0 | 3 years ago | [warden](https://github.com/diggersheep/warden)/890 | Warden check periodically your files, run a specific command, and run a git command if you want and the command succeed. |
-| 9 | 0 | 0 | Unknown | [aha](https://github.com/chenkovsky/aha)/891 | useful algorithm for text processing. includes ahocorasick automaton, suffix automaton, symspell.... |
-| 9 | 1 | 0 | Unknown | [interactive-crystal](https://github.com/faustinoaq/interactive-crystal)/892 | Experiment with dynamic library loading |
-| 9 | 0 | 2 | 3 years ago | [firegrid](https://github.com/foliea/firegrid)/893 | Click anywhere with only a few key strokes |
-| 9 | 0 | 4 | 8 months ago | [cable_ready.cr](https://github.com/marcoroth/cable_ready.cr)/894 | [WIP] CableReady Crystal port |
-| 9 | 3 | 0 | Unknown | [lucky_encrypted](https://github.com/microgit-com/lucky_encrypted)/895 | attribute_encrypted in Crystal for Lucky |
-| 9 | 0 | 0 | Unknown | [polylines.cr](https://github.com/BuonOmo/polylines.cr)/896 | Google Polylines in Crystal! |
-| 9 | 2 | 1 | 4 years ago | [string_inflection](https://github.com/mosop/string_inflection)/897 | Yet another Crystal library for string inflection. |
-| 9 | 0 | 0 | Unknown | [stumpy_jpeg](https://github.com/stumpycr/stumpy_jpeg)/898 | Read JPEG images in pure Crystal |
-| 9 | 1 | 0 | Unknown | [lucky-realworld](https://github.com/HarrisonB/lucky-realworld)/899 | An implementation of the realworld spec using the Lucky framework |
-| 9 | 0 | 0 | Unknown | [CrSignals](https://github.com/firejox/CrSignals)/900 | A signals/slots library in Crystal |
-| 9 | 0 | 0 | Unknown | [create-crystal-app](https://github.com/GeopJr/create-crystal-app)/901 | An unopinionated user-friendly crystal init alternative |
-| 9 | 0 | 1 | 1 year, 6 months ago | [yymmdd](https://github.com/veelenga/yymmdd)/902 | :hourglass_flowing_sand: Simple DSL for working with dates. |
-| 9 | 1 | 0 | Unknown | [crystal-mruby-gobject](https://github.com/ppibburr/crystal-mruby-gobject)/903 | mruby bindings for crystal |
-| 9 | 4 | 0 | 4 years ago | [crystal-redis-examples](https://github.com/stefanwille/crystal-redis-examples)/904 | Examples for crystal-redis |
-| 9 | 2 | 1 | Unknown | [make-help](https://github.com/Xanders/make-help)/905 | Just another one tool for simple and beautiful `make help` command |
-| 9 | 3 | 0 | Unknown | [crystal-raw-gl](https://github.com/oprypin/crystal-raw-gl)/906 | Crystal bindings to OpenGL and GLU |
-| 9 | 1 | 2 | a month ago | [crystal-env](https://github.com/crystal-lang/crystal-env)/907 | None |
-| 9 | 1 | 19 | Unknown | [StackCoin](https://github.com/StackCoin/StackCoin)/908 | a pseudo centralized currency - [11:09] stack: i hate it |
-| 9 | 1 | 0 | Unknown | [racon](https://github.com/askn/racon)/909 | WIP admin dashboard |
-| 9 | 2 | 0 | 1 year, 6 months ago | [objectify](https://github.com/drum445/objectify)/910 | Crystal micro-orm to allow result set to object or object to sql |
-| 9 | 0 | 0 | Unknown | [Bunny](https://github.com/samsheff/Bunny)/911 | A simple HTML templating language for Crystal, same syntax as erb |
-| 9 | 1 | 0 | 1 year, 10 days ago | [ruby-to-crystal](https://github.com/marksiemers/ruby-to-crystal)/912 | Examples of Ruby code in Crystal and benchmarks to compare |
-| 9 | 0 | 3 | 3 years ago | [dotacr](https://github.com/andrewzah/dotacr)/913 | Mirror of https://git.andrewzah.com/andrei/dotacr |
-| 9 | 0 | 5 | 2 years ago | [flix.cr](https://github.com/dscottboggs/flix.cr)/914 | WIP Media server in crystal/kemal. Serves videos from one or more directories with a ReactJS web app or over a simple API. |
-| 9 | 1 | 1 | 5 months ago | [cherry.cr](https://github.com/636f7374/cherry.cr)/915 | ⛵️ Available - Crystal Man-in-the-middle Toolkit |
-| 9 | 2 | 0 | Unknown | [quartz](https://github.com/astellon/quartz)/916 | Audio I/O library for Crystal based on PortAudio |
-| 9 | 3 | 1 | Unknown | [shell.cr](https://github.com/dmytro/shell.cr)/917 | Small simplistic helper class for executing shell commands in Crystal. |
-| 9 | 9 | 0 | 4 years ago | [postgres_adapter.cr](https://github.com/waterlink/postgres_adapter.cr)/918 | Postgres adapter for [active_record.cr](https://github.com/waterlink/active_record.cr). Uses [crystal-pg](https://github.com/will/crystal-pg) driver. |
-| 9 | 0 | 0 | 4 years ago | [ncu-weather](https://github.com/NCUNOS/ncu-weather)/919 | Weather information in NCU, TW |
-| 9 | 0 | 2 | 4 years ago | [spec2-mocks.cr](https://github.com/waterlink/spec2-mocks.cr)/920 | This library connects spec2.cr and mocks.cr, effectively enabling 'have_received' expectation for spec2. |
-| 9 | 0 | 0 | Unknown | [power-metal](https://github.com/marceloboeira/power-metal)/921 | PowerMetal Lyric Generator |
-| 9 | 1 | 0 | 2 years ago | [silvio](https://github.com/skateman/silvio)/922 | VPN-over-WebSocket |
-| 9 | 1 | 0 | 7 days ago | [i18n](https://github.com/crystal-i18n/i18n)/923 | 🌐 An internationalization library for Crystal.  |
-| 9 | 0 | 0 | Unknown | [multipart](https://github.com/sdogruyol/multipart)/924 | Multipart Form Data parser for Crystal |
-| 9 | 4 | 2 | 1 year, 9 months ago | [asterisk](https://github.com/ctiapps/asterisk)/925 | Crystal-lang shard to manage all the Asterisk PBX libraries (ARI, AMI and all types of AGI) |
-| 9 | 0 | 0 | 2 years ago | [CrystalSpaceShooter](https://github.com/Heaven31415/CrystalSpaceShooter)/926 | Space Shooter game made using Crystal and SFML |
-| 9 | 0 | 0 | Unknown | [xq.cr](https://github.com/maiha/xq.cr)/927 | Command-line XML processor inspired by `jq` |
-| 9 | 0 | 16 | 3 years ago | [study-tdd](https://github.com/at-grandpa/study-tdd)/928 | テスト駆動開発 |
-| 9 | 2 | 0 | Unknown | [anyquestion](https://github.com/mose/anyquestion)/929 | Web app for managing the step "Do you have any question?" that happens at the end of a talk. |
-| 9 | 6 | 1 | 5 months ago | [shell-table.cr](https://github.com/jwaldrip/shell-table.cr)/930 | None |
-| 9 | 0 | 0 | 1 year, 2 months ago | [csvzip](https://github.com/PopulateTools/csvzip)/931 | A standalone CLI tool to reduce CSVs size by converting categorical columns in a list of unique integers. |
-| 9 | 2 | 0 | Unknown | [syslog.cr](https://github.com/chris-huxtable/syslog.cr)/932 | Adds syslog functionality to crystal via LibC bindings. |
+| 10 | 1 | 0 | 6 years ago | [soundcloud-crystal](https://github.com/sferik/soundcloud-crystal)/861 | A library to access the SoundCloud API using Crystal |
+| 10 | 1 | 0 | 4 years ago | [isot](https://github.com/Hamdiakoguz/isot)/862 | A simple WSDL parser in crystal. Ported from wasabi ruby gem. |
+| 10 | 2 | 2 | 4 years ago | [ping-statsd](https://github.com/chendo/ping-statsd)/863 | A tool to ping hostnames and send stats to Statsd. |
+| 10 | 15 | 0 | 3 years ago | [heart-disease](https://github.com/drujensen/heart-disease)/864 | Predicting Heart Disease using SHAInet |
+| 10 | 0 | 0 | 2 years ago | [crystal-ruby-tuesday](https://github.com/citizen428/crystal-ruby-tuesday)/865 | Code from "Crystal For Rubyists" presentation at Ruby Tuesday Bangkok |
+| 10 | 4 | 0 | 1 year, 3 months ago | [crystal-ecdsa](https://github.com/Axentro/crystal-ecdsa)/866 | C bindings for OpenSSL ECDSA |
+| 10 | 0 | 0 | 3 years ago | [trillo_api](https://github.com/kevyder/trillo_api)/867 | A trello api clone in @kemalcr |
+| 10 | 1 | 0 | 6 years ago | [crystal-state_machine](https://github.com/luislavena/crystal-state_machine)/868 | State Machine for Crystal |
+| 10 | 2 | 0 | 1 year, 25 days ago | [tail.cr](https://github.com/j8r/tail.cr)/869 | Tailing library for Crystal - get and/or follow the end of a file/IO |
+| 10 | 1 | 0 | 4 months ago | [memoized.cr](https://github.com/maiha/memoized.cr)/870 | Time-based memoized library for Crystal |
+| 10 | 0 | 0 | 8 months ago | [turbolinks](https://github.com/bentranter/turbolinks)/871 | Crystal engine for Turbolinks integration. |
+| 10 | 2 | 0 | 1 year, 5 months ago | [syslog.cr](https://github.com/chris-huxtable/syslog.cr)/872 | Adds syslog functionality to crystal via LibC bindings. |
+| 10 | 1 | 2 | 3 years ago | [ocean_kit](https://github.com/osfx/ocean_kit)/873 | Digital Ocen v2 API Client |
+| 10 | 0 | 1 | 1 year, 1 month ago | [shale](https://github.com/c910335/shale)/874 | Paginator for Amber Framework |
+| 10 | 0 | 0 | 3 months ago | [keepass](https://github.com/lipanski/keepass)/875 | Keepass KDBX v2/v3 parser for Crystal |
+| 10 | 0 | 0 | 3 months ago | [i18n](https://github.com/BrucePerens/i18n)/876 | Internationalization of Crystal programs. |
+| 10 | 0 | 0 | 3 years ago | [tap](https://github.com/MakeNowJust/tap)/877 | TAP (Test Anything Protocol) test framework for Crystal |
+| 10 | 0 | 0 | 4 years ago | [timeout.cr](https://github.com/hugoabonizio/timeout.cr)/878 | :hourglass_flowing_sand: Declarative timeout pattern for Crystal |
+| 10 | 1 | 0 | 9 months ago | [matrix-architect](https://github.com/erdnaxeli/matrix-architect)/879 | Admin bot for Matrix. |
+| 10 | 1 | 0 | 10 months ago | [browser](https://github.com/watzon/browser)/880 | Browser detection library for Crystal |
+| 10 | 6 | 3 | 2 years ago | [LibGL](https://github.com/nulldotpro/LibGL)/881 | OpenGL bindings for Crystal |
+| 10 | 1 | 0 | 3 months ago | [eighttrack](https://github.com/russ/eighttrack)/882 | VCR for Crystal |
+| 10 | 0 | 2 | 1 year, 4 months ago | [keimeno](https://github.com/robacarp/keimeno)/883 | A lightweight text user interface library in Crystal |
+| 9 | 1 | 0 | 5 years ago | [crystal-git](https://github.com/matiasgarciaisaia/crystal-git)/884 | Crystal bindings for libgit2 |
+| 9 | 3 | 5 | 4 months ago | [fuse](https://github.com/Papierkorb/fuse)/885 | libFUSE bindings for Crystal |
+| 9 | 2 | 1 | 3 years ago | [GetMeInternet](https://github.com/shelvacu/GetMeInternet)/886 | Tries to Get You Internet |
+| 9 | 0 | 0 | 1 year, 5 months ago | [crystal-wait-group](https://github.com/jasonrobot/crystal-wait-group)/887 | An implementation of WaitGroup modeled after golang's sync.WaitGroup |
+| 9 | 1 | 1 | 4 years ago | [crystal-demo](https://github.com/dmitryrck/crystal-demo)/888 | None |
+| 9 | 1 | 0 | 2 years ago | [migro](https://github.com/aisrael/migro)/889 | A database migration tool written in Crystal |
+| 9 | 2 | 2 | 5 years ago | [zlib.cr](https://github.com/datanoise/zlib.cr)/890 | zlib binding for Crystal language |
+| 9 | 1 | 4 | 5 years ago | [sharock-server](https://github.com/shardsrocks/sharock-server)/891 | :gem: Server Side for Shards Rocks |
+| 9 | 0 | 0 | 3 years ago | [warden](https://github.com/diggersheep/warden)/892 | Warden check periodically your files, run a specific command, and run a git command if you want and the command succeed. |
+| 9 | 0 | 0 | 2 years ago | [aha](https://github.com/chenkovsky/aha)/893 | useful algorithm for text processing. includes ahocorasick automaton, suffix automaton, symspell.... |
+| 9 | 0 | 2 | 3 years ago | [firegrid](https://github.com/foliea/firegrid)/894 | Click anywhere with only a few key strokes |
+| 9 | 1 | 0 | 3 years ago | [interactive-crystal](https://github.com/faustinoaq/interactive-crystal)/895 | Experiment with dynamic library loading |
+| 9 | 0 | 4 | 9 months ago | [cable_ready.cr](https://github.com/marcoroth/cable_ready.cr)/896 | [WIP] CableReady Crystal port |
+| 9 | 3 | 2 | 2 months ago | [lucky_encrypted](https://github.com/microgit-com/lucky_encrypted)/897 | attribute_encrypted in Crystal for Lucky |
+| 9 | 0 | 0 | a month ago | [polylines.cr](https://github.com/BuonOmo/polylines.cr)/898 | Google Polylines in Crystal! |
+| 9 | 2 | 1 | 4 years ago | [string_inflection](https://github.com/mosop/string_inflection)/899 | Yet another Crystal library for string inflection. |
+| 9 | 0 | 0 | 1 year, 9 months ago | [stumpy_jpeg](https://github.com/stumpycr/stumpy_jpeg)/900 | Read JPEG images in pure Crystal |
+| 9 | 1 | 0 | 2 years ago | [lucky-realworld](https://github.com/HarrisonB/lucky-realworld)/901 | An implementation of the realworld spec using the Lucky framework |
+| 9 | 0 | 0 | 1 year, 7 months ago | [CrSignals](https://github.com/firejox/CrSignals)/902 | A signals/slots library in Crystal |
+| 9 | 0 | 0 | 3 months ago | [create-crystal-app](https://github.com/GeopJr/create-crystal-app)/903 | An unopinionated user-friendly crystal init alternative |
+| 9 | 0 | 1 | 1 year, 7 months ago | [yymmdd](https://github.com/veelenga/yymmdd)/904 | :hourglass_flowing_sand: Simple DSL for working with dates. |
+| 9 | 1 | 0 | 5 years ago | [crystal-mruby-gobject](https://github.com/ppibburr/crystal-mruby-gobject)/905 | mruby bindings for crystal |
+| 9 | 4 | 0 | 4 years ago | [crystal-redis-examples](https://github.com/stefanwille/crystal-redis-examples)/906 | Examples for crystal-redis |
+| 9 | 2 | 1 | 3 months ago | [make-help](https://github.com/Xanders/make-help)/907 | Just another one tool for simple and beautiful `make help` command |
+| 9 | 3 | 0 | 6 months ago | [crystal-raw-gl](https://github.com/oprypin/crystal-raw-gl)/908 | Crystal bindings to OpenGL and GLU |
+| 9 | 1 | 2 | 2 months ago | [crystal-env](https://github.com/crystal-lang/crystal-env)/909 | None |
+| 9 | 1 | 0 | 4 years ago | [racon](https://github.com/askn/racon)/910 | WIP admin dashboard |
+| 9 | 2 | 0 | 1 year, 6 months ago | [objectify](https://github.com/drum445/objectify)/911 | Crystal micro-orm to allow result set to object or object to sql |
+| 9 | 0 | 0 | 6 years ago | [Bunny](https://github.com/samsheff/Bunny)/912 | A simple HTML templating language for Crystal, same syntax as erb |
+| 9 | 1 | 0 | 1 year, 17 days ago | [ruby-to-crystal](https://github.com/marksiemers/ruby-to-crystal)/913 | Examples of Ruby code in Crystal and benchmarks to compare |
+| 9 | 0 | 3 | 3 years ago | [dotacr](https://github.com/andrewzah/dotacr)/914 | Mirror of https://git.andrewzah.com/andrei/dotacr |
+| 9 | 0 | 5 | 2 years ago | [flix.cr](https://github.com/dscottboggs/flix.cr)/915 | WIP Media server in crystal/kemal. Serves videos from one or more directories with a ReactJS web app or over a simple API. |
+| 9 | 1 | 1 | 6 months ago | [cherry.cr](https://github.com/636f7374/cherry.cr)/916 | ⛵️ Available - Crystal Man-in-the-middle Toolkit |
+| 9 | 2 | 0 | a month ago | [quartz](https://github.com/astellon/quartz)/917 | Audio I/O library for Crystal based on PortAudio |
+| 9 | 3 | 1 | 4 years ago | [shell.cr](https://github.com/dmytro/shell.cr)/918 | Small simplistic helper class for executing shell commands in Crystal. |
+| 9 | 9 | 0 | 4 years ago | [postgres_adapter.cr](https://github.com/waterlink/postgres_adapter.cr)/919 | Postgres adapter for [active_record.cr](https://github.com/waterlink/active_record.cr). Uses [crystal-pg](https://github.com/will/crystal-pg) driver. |
+| 9 | 0 | 0 | 4 years ago | [ncu-weather](https://github.com/NCUNOS/ncu-weather)/920 | Weather information in NCU, TW |
+| 9 | 0 | 2 | 4 years ago | [spec2-mocks.cr](https://github.com/waterlink/spec2-mocks.cr)/921 | This library connects spec2.cr and mocks.cr, effectively enabling 'have_received' expectation for spec2. |
+| 9 | 0 | 0 | 5 years ago | [power-metal](https://github.com/marceloboeira/power-metal)/922 | PowerMetal Lyric Generator |
+| 9 | 1 | 0 | 2 years ago | [silvio](https://github.com/skateman/silvio)/923 | VPN-over-WebSocket |
+| 9 | 1 | 0 | 4 days ago | [i18n](https://github.com/crystal-i18n/i18n)/924 | 🌐 An internationalization library for Crystal.  |
+| 9 | 0 | 0 | 5 years ago | [multipart](https://github.com/sdogruyol/multipart)/925 | Multipart Form Data parser for Crystal |
+| 9 | 4 | 2 | 1 year, 9 months ago | [asterisk](https://github.com/ctiapps/asterisk)/926 | Crystal-lang shard to manage all the Asterisk PBX libraries (ARI, AMI and all types of AGI) |
+| 9 | 0 | 0 | 2 years ago | [CrystalSpaceShooter](https://github.com/Heaven31415/CrystalSpaceShooter)/927 | Space Shooter game made using Crystal and SFML |
+| 9 | 0 | 0 | 3 years ago | [xq.cr](https://github.com/maiha/xq.cr)/928 | Command-line XML processor inspired by `jq` |
+| 9 | 0 | 16 | 3 years ago | [study-tdd](https://github.com/at-grandpa/study-tdd)/929 | テスト駆動開発 |
+| 9 | 2 | 0 | 5 years ago | [anyquestion](https://github.com/mose/anyquestion)/930 | Web app for managing the step "Do you have any question?" that happens at the end of a talk. |
+| 9 | 6 | 1 | 5 months ago | [shell-table.cr](https://github.com/jwaldrip/shell-table.cr)/931 | None |
+| 9 | 0 | 0 | 1 year, 2 months ago | [csvzip](https://github.com/PopulateTools/csvzip)/932 | A standalone CLI tool to reduce CSVs size by converting categorical columns in a list of unique integers. |
 | 9 | 2 | 0 | 3 months ago | [curl-downloader](https://github.com/kostya/curl-downloader)/933 | Powerfull http-client for Crystal based on libcurl binding. |
 | 9 | 2 | 0 | a month ago | [AsaCoco-Store](https://github.com/AsaCoco-Store/AsaCoco-Store)/934 | AsaCoco-Store - Sweep all worries away. Brighten your life up. |
 | 9 | 2 | 1 | 1 year, 11 months ago | [eda](https://github.com/onyxframework/eda)/935 | Event-Driven Architecture framework to build reactive apps 💣 |
-| 9 | 6 | 4 | Unknown | [octokit.cr](https://github.com/watzon/octokit.cr)/936 | Crystal toolkit for the GitHub API (in development) |
+| 9 | 6 | 4 | 3 months ago | [octokit.cr](https://github.com/watzon/octokit.cr)/936 | Crystal toolkit for the GitHub API (in development) |
 | 9 | 2 | 0 | 4 months ago | [espresso](https://github.com/icy-arctic-fox/espresso)/937 | Lightweight wrapper around GLFW for Crystal |
-| 9 | 0 | 0 | Unknown | [slacker](https://github.com/miharekar/slacker)/938 | HomePod + Raspberry Pi + Crystal+ Slack = Magic |
-| 9 | 2 | 0 | a month ago | [serializer](https://github.com/imdrasil/serializer)/939 | Simple and fast Crystal object serializer |
-| 9 | 1 | 1 | 3 years ago | [tree_template](https://github.com/anykeyh/tree_template)/940 | HTML Templating for Crystal lang |
-| 9 | 0 | 0 | 4 years ago | [WIre](https://github.com/puppetpies/WIre)/941 | Packet Analysis written in pure Crystal |
-| 9 | 2 | 5 | 4 years ago | [grey_matter](https://github.com/dorkrawk/grey_matter)/942 | Grey Matter is a basic artificial neural network library for Crystal. |
-| 9 | 0 | 0 | 2 years ago | [crowbar](https://github.com/sol-vin/crowbar)/943 | Crowbar is an all-purpose fuzzer built to help make bad data cases from sample input. It can be both used as a library, and also built into an application. |
-| 9 | 5 | 4 | 3 days ago | [jennifer_sqlite3_adapter](https://github.com/imdrasil/jennifer_sqlite3_adapter)/944 | SQLite3 adapter for Jennifer ORM |
-| 9 | 2 | 0 | Unknown | [sodium](https://github.com/mntns/sodium)/945 | A fast library for graph/network manipulation |
-| 9 | 2 | 1 | 2 years ago | [cr-dns](https://github.com/teknomunk/cr-dns)/946 | WIP: Crystal library for DNS resolvers and servers |
-| 9 | 2 | 0 | Unknown | [apatite](https://github.com/watzon/apatite)/947 | Apatite is a fundamental package for scientific computing with Crystal |
-| 9 | 0 | 1 | Unknown | [cryzzly](https://github.com/franciscoGPS/cryzzly)/948 | Crystal for Data Analysis |
-| 9 | 0 | 0 | 4 months ago | [textui](https://github.com/hugopl/textui)/949 | A simple Crystal UI framework for terminal interfaces. |
-| 9 | 2 | 1 | Unknown | [magic.cr](https://github.com/dscottboggs/magic.cr)/950 | Bindings for libmagic to Crystal |
-| 9 | 1 | 0 | 1 year, 4 months ago | [pixie](https://github.com/watzon/pixie)/951 | Making magic with Crystal and images (using ImageMagick) |
-| 9 | 0 | 0 | Unknown | [chivi](https://github.com/np-nam/chivi)/952 | source code for https://chivi.xyz |
-| 9 | 0 | 3 | 7 days ago | [should-i-watch-this](https://github.com/koffeinfrei/should-i-watch-this)/953 | This is a tool to ask the internet if it's worth watching a movie or show. |
-| 8 | 2 | 1 | Unknown | [base62.cr](https://github.com/Sija/base62.cr)/954 | Base62 encoder/decoder for Crystal |
-| 8 | 0 | 0 | Unknown | [geocoder](https://github.com/andre/geocoder)/955 | Simple Geocoding in Crystal |
-| 8 | 0 | 0 | 3 months ago | [crystal-xpath2](https://github.com/naqvis/crystal-xpath2)/956 | XPath implemenation in Pure Crystal |
-| 8 | 1 | 1 | Unknown | [scar](https://github.com/vypxl/scar)/957 | A game engine written in Crystal using crsfml |
-| 8 | 1 | 0 | Unknown | [plusone](https://github.com/ukd1/plusone)/958 | +1 badge server for github issues - demo: [this is now pointless as natively supported by github] |
-| 8 | 2 | 1 | 1 year, 6 months ago | [blackboard-dl](https://github.com/hako/blackboard-dl)/959 | 📚💻 Downloads lectures and workshops automagically. |
-| 8 | 3 | 2 | Unknown | [docker-api](https://github.com/watzon/docker-api)/960 | Crystal wrapper for the Docker API |
-| 8 | 4 | 0 | Unknown | [crypto-mnemonic](https://github.com/Axentro/crypto-mnemonic)/961 | Crystal implementation of wallet mnemonic (compatible with javascript version) |
-| 8 | 0 | 6 | 4 months ago | [crystal-build-cr](https://github.com/crenv/crystal-build-cr)/962 | a plugin for crenv which provides an installation command |
-| 8 | 0 | 0 | Unknown | [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml)/963 | Crystal bindings to ImGui-SFML |
-| 8 | 2 | 0 | Unknown | [crdoc](https://github.com/rhysd/crdoc)/964 | CLI tool to search and open documentation for Crystal language |
-| 8 | 2 | 2 | Unknown | [crystal-i18n](https://github.com/whity/crystal-i18n)/965 | None |
+| 9 | 2 | 0 | a month ago | [serializer](https://github.com/imdrasil/serializer)/938 | Simple and fast Crystal object serializer |
+| 9 | 1 | 1 | 3 years ago | [tree_template](https://github.com/anykeyh/tree_template)/939 | HTML Templating for Crystal lang |
+| 9 | 0 | 0 | 4 years ago | [WIre](https://github.com/puppetpies/WIre)/940 | Packet Analysis written in pure Crystal |
+| 9 | 2 | 5 | 4 years ago | [grey_matter](https://github.com/dorkrawk/grey_matter)/941 | Grey Matter is a basic artificial neural network library for Crystal. |
+| 9 | 0 | 0 | 2 years ago | [crowbar](https://github.com/sol-vin/crowbar)/942 | Crowbar is an all-purpose fuzzer built to help make bad data cases from sample input. It can be both used as a library, and also built into an application. |
+| 9 | 5 | 4 | 10 days ago | [jennifer_sqlite3_adapter](https://github.com/imdrasil/jennifer_sqlite3_adapter)/943 | SQLite3 adapter for Jennifer ORM |
+| 9 | 2 | 0 | 3 years ago | [sodium](https://github.com/mntns/sodium)/944 | A fast library for graph/network manipulation |
+| 9 | 2 | 1 | 2 years ago | [cr-dns](https://github.com/teknomunk/cr-dns)/945 | WIP: Crystal library for DNS resolvers and servers |
+| 9 | 2 | 0 | 1 year, 3 months ago | [apatite](https://github.com/watzon/apatite)/946 | Apatite is a fundamental package for scientific computing with Crystal |
+| 9 | 0 | 1 | 1 year, 2 months ago | [cryzzly](https://github.com/franciscoGPS/cryzzly)/947 | Crystal for Data Analysis |
+| 9 | 0 | 0 | 4 months ago | [textui](https://github.com/hugopl/textui)/948 | A simple Crystal UI framework for terminal interfaces. |
+| 9 | 2 | 1 | 1 year, 1 month ago | [magic.cr](https://github.com/dscottboggs/magic.cr)/949 | Bindings for libmagic to Crystal |
+| 9 | 1 | 0 | 1 year, 4 months ago | [pixie](https://github.com/watzon/pixie)/950 | Making magic with Crystal and images (using ImageMagick) |
+| 9 | 0 | 0 | 18 hours ago | [chivi](https://github.com/np-nam/chivi)/951 | source code for https://chivi.xyz |
+| 9 | 0 | 2 | a day ago | [should-i-watch-this](https://github.com/koffeinfrei/should-i-watch-this)/952 | This is a tool to ask the internet if it's worth watching a movie or show. |
+| 8 | 2 | 1 | 4 months ago | [base62.cr](https://github.com/Sija/base62.cr)/953 | Base62 encoder/decoder for Crystal |
+| 8 | 0 | 0 | 3 years ago | [geocoder](https://github.com/andre/geocoder)/954 | Simple Geocoding in Crystal |
+| 8 | 0 | 0 | 4 months ago | [crystal-xpath2](https://github.com/naqvis/crystal-xpath2)/955 | XPath implemenation in Pure Crystal |
+| 8 | 1 | 1 | 25 days ago | [scar](https://github.com/vypxl/scar)/956 | A game engine written in Crystal using crsfml |
+| 8 | 1 | 0 | 5 years ago | [plusone](https://github.com/ukd1/plusone)/957 | +1 badge server for github issues - demo: [this is now pointless as natively supported by github] |
+| 8 | 2 | 1 | 1 year, 6 months ago | [blackboard-dl](https://github.com/hako/blackboard-dl)/958 | 📚💻 Downloads lectures and workshops automagically. |
+| 8 | 3 | 2 | 1 year, 11 months ago | [docker-api](https://github.com/watzon/docker-api)/959 | Crystal wrapper for the Docker API |
+| 8 | 4 | 0 | 1 year, 9 months ago | [crypto-mnemonic](https://github.com/Axentro/crypto-mnemonic)/960 | Crystal implementation of wallet mnemonic (compatible with javascript version) |
+| 8 | 0 | 6 | 4 months ago | [crystal-build-cr](https://github.com/crenv/crystal-build-cr)/961 | a plugin for crenv which provides an installation command |
+| 8 | 0 | 0 | 3 months ago | [crystal-imgui-sfml](https://github.com/oprypin/crystal-imgui-sfml)/962 | Crystal bindings to ImGui-SFML |
+| 8 | 0 | 0 | 4 months ago | [sanitize](https://github.com/straight-shoota/sanitize)/963 | Crystal library for transforming HTML/XML trees to sanitize HTML from untrusted sources |
+| 8 | 2 | 0 | 5 years ago | [crdoc](https://github.com/rhysd/crdoc)/964 | CLI tool to search and open documentation for Crystal language |
+| 8 | 2 | 2 | 4 years ago | [crystal-i18n](https://github.com/whity/crystal-i18n)/965 | None |
 | 8 | 0 | 1 | 3 years ago | [acidity](https://github.com/czycha/acidity)/966 | Glitch out some PNGs |
-| 8 | 1 | 0 | Unknown | [html-minifier](https://github.com/sam0x17/html-minifier)/967 | A zero-dependency HTML/CSS/Javascript minifier for the Crystal language |
-| 8 | 1 | 1 | Unknown | [twilio.cr](https://github.com/arubinofaux/twilio.cr)/968 | A Crystal shard for communicating with the Twilio API |
-| 8 | 2 | 0 | Unknown | [amethyst-examples](https://github.com/Codcore/amethyst-examples)/969 | Amethyst webframework examples |
-| 8 | 1 | 0 | 4 months ago | [kube-client.cr](https://github.com/spoved/kube-client.cr)/970 | k8s api client |
-| 8 | 0 | 0 | Unknown | [identicon](https://github.com/watzon/identicon)/971 | Pure Crystal identicon generator |
-| 8 | 0 | 0 | Unknown | [crystal-cube](https://github.com/doughsay/crystal-cube)/972 | A rotating colorful cube in Crystal + OpenGL using GLFW for windowing |
-| 8 | 1 | 0 | Unknown | [crystal-notify-slack](https://github.com/pine/crystal-notify-slack)/973 | :bell: Slack notify CLI tool |
-| 8 | 0 | 0 | 3 years ago | [netcdfcr](https://github.com/fridgerator/netcdfcr)/974 | Crystal bindings to libnetcdf v4 |
-| 8 | 0 | 0 | 4 years ago | [8cc.cr](https://github.com/MakeNowJust/8cc.cr)/975 | compile-time C compiler implemented as Crystal macros |
-| 8 | 5 | 3 | Unknown | [kemal-redis](https://github.com/sdogruyol/kemal-redis)/976 | Easily add Redis to Kemal |
-| 8 | 0 | 0 | Unknown | [identicon.cr](https://github.com/oneiros/identicon.cr)/977 | Create github-style identicons that can be used as avatars |
-| 8 | 0 | 0 | Unknown | [fuzzy_match.cr](https://github.com/acoustep/fuzzy_match.cr)/978 | Fuzzy Match is a Crystal lang based search library ideal for searching a list of files for partial text matches |
-| 8 | 1 | 0 | Unknown | [pulsar](https://github.com/luckyframework/pulsar)/979 | Pubsub and Instrumentation for Crystal |
-| 8 | 0 | 0 | Unknown | [m3u8.cr](https://github.com/marceloboeira/m3u8.cr)/980 | Generate and parse m3u8 playlists for HLS |
-| 8 | 0 | 0 | 7 months ago | [recursive_generic](https://github.com/BrucePerens/recursive_generic)/981 | Crystal Language: Generics that can contain themselves, without using recursively-defined aliases. |
-| 8 | 1 | 0 | 2 months ago | [bisect](https://github.com/spider-gazelle/bisect)/982 | Library for maintaining sorted Arrays |
-| 8 | 3 | 1 | Unknown | [toka](https://github.com/Papierkorb/toka)/983 | A type-safe, object-oriented option parser |
-| 8 | 1 | 0 | Unknown | [cursor](https://github.com/crystal-term/cursor)/984 | Terminal cursor movement and manipulation of cursor properties such as visibility |
-| 8 | 2 | 0 | 4 years ago | [msgpack.cr](https://github.com/steakknife/msgpack.cr)/985 | msgpack.org[Crystal] |
-| 8 | 1 | 0 | Unknown | [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr)/986 | Separates a files front matter from its content |
-| 8 | 1 | 0 | 11 months ago | [humanhash](https://github.com/kingsleyh/humanhash)/987 | HumanHash implementation |
-| 8 | 1 | 0 | Unknown | [Crycord](https://github.com/GeopJr/Crycord)/988 | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! |
-| 8 | 0 | 0 | 5 years ago | [lake](https://github.com/adlerhsieh/lake)/989 | Recursive tasks managed easily |
-| 8 | 0 | 1 | Unknown | [can_use](https://github.com/rodrigopinto/can_use)/990 | 🤔 Can I use? CanUse is a minimalist feature toggle/flag for crystal, based on yaml file. |
-| 8 | 1 | 0 | Unknown | [zaru_crystal](https://github.com/szTheory/zaru_crystal)/991 | Crystal shard for filename sanitization |
-| 8 | 0 | 0 | 4 months ago | [talkwatch](https://github.com/frissyn/talkwatch)/992 | Simple and extensive automodder for ReplTalk with webview logs. |
-| 8 | 2 | 0 | 3 years ago | [redis-reconnect](https://github.com/kostya/redis-reconnect)/993 | Redis client with autoreconnection for slow clients (wrapper for stefanwille/crystal-redis). Used as part of redisoid shard. |
-| 8 | 0 | 6 | 1 year, 6 months ago | [triathlets](https://github.com/forsaken1/triathlets)/994 | Web app for Vladivostok's triathlets |
-| 8 | 0 | 0 | Unknown | [error.cr](https://github.com/j8r/error.cr)/995 | Efficient errors without raising exceptions - no expensive stack unwinding |
-| 8 | 1 | 14 | 2 months ago | [breeze](https://github.com/luckyframework/breeze)/996 | A development dashboard for Lucky Apps |
-| 8 | 4 | 0 | 9 months ago | [kafka.cr](https://github.com/packetzero/kafka.cr)/997 | crystal-lang wrapper around kafka C library |
-| 8 | 2 | 0 | Unknown | [proxy.cr](https://github.com/bbtfr/proxy.cr)/998 | A HTTP Proxy written in Crystal |
-| 8 | 3 | 0 | Unknown | [crystal_ssh](https://github.com/bararchy/crystal_ssh)/999 | libssh (server side) binding in Crystal  |
-| 8 | 2 | 0 | 2 years ago | [supervisor](https://github.com/forksaber/supervisor)/1000 | A supervisord implementation in crystal |
+| 8 | 1 | 0 | 1 year, 4 months ago | [html-minifier](https://github.com/sam0x17/html-minifier)/967 | A zero-dependency HTML/CSS/Javascript minifier for the Crystal language |
+| 8 | 1 | 1 | 6 months ago | [twilio.cr](https://github.com/arubinofaux/twilio.cr)/968 | A Crystal shard for communicating with the Twilio API |
+| 8 | 2 | 0 | 5 years ago | [amethyst-examples](https://github.com/Codcore/amethyst-examples)/969 | Amethyst webframework examples |
+| 8 | 1 | 4 | 14 days ago | [honeybadger-crystal](https://github.com/honeybadger-io/honeybadger-crystal)/970 | Crystal library for reporting errors to Honeybadger.io :gem: :zap: |
+| 8 | 1 | 0 | 4 months ago | [kube-client.cr](https://github.com/spoved/kube-client.cr)/971 | k8s api client |
+| 8 | 0 | 0 | 1 year, 2 months ago | [identicon](https://github.com/watzon/identicon)/972 | Pure Crystal identicon generator |
+| 8 | 0 | 0 | 4 years ago | [crystal-cube](https://github.com/doughsay/crystal-cube)/973 | A rotating colorful cube in Crystal + OpenGL using GLFW for windowing |
+| 8 | 1 | 0 | 4 years ago | [crystal-notify-slack](https://github.com/pine/crystal-notify-slack)/974 | :bell: Slack notify CLI tool |
+| 8 | 0 | 0 | 3 years ago | [netcdfcr](https://github.com/fridgerator/netcdfcr)/975 | Crystal bindings to libnetcdf v4 |
+| 8 | 0 | 0 | 4 years ago | [8cc.cr](https://github.com/MakeNowJust/8cc.cr)/976 | compile-time C compiler implemented as Crystal macros |
+| 8 | 5 | 3 | 5 years ago | [kemal-redis](https://github.com/sdogruyol/kemal-redis)/977 | Easily add Redis to Kemal |
+| 8 | 0 | 0 | 1 year, 10 months ago | [identicon.cr](https://github.com/oneiros/identicon.cr)/978 | Create github-style identicons that can be used as avatars |
+| 8 | 0 | 0 | 1 year, 6 months ago | [fuzzy_match.cr](https://github.com/acoustep/fuzzy_match.cr)/979 | Fuzzy Match is a Crystal lang based search library ideal for searching a list of files for partial text matches |
+| 8 | 1 | 0 | 18 days ago | [pulsar](https://github.com/luckyframework/pulsar)/980 | Pubsub and Instrumentation for Crystal |
+| 8 | 0 | 0 | 5 years ago | [m3u8.cr](https://github.com/marceloboeira/m3u8.cr)/981 | Generate and parse m3u8 playlists for HLS |
+| 8 | 0 | 0 | 8 months ago | [recursive_generic](https://github.com/BrucePerens/recursive_generic)/982 | Crystal Language: Generics that can contain themselves, without using recursively-defined aliases. |
+| 8 | 1 | 0 | 2 months ago | [bisect](https://github.com/spider-gazelle/bisect)/983 | Library for maintaining sorted Arrays |
+| 8 | 3 | 1 | 4 months ago | [toka](https://github.com/Papierkorb/toka)/984 | A type-safe, object-oriented option parser |
+| 8 | 1 | 0 | 1 year, 2 months ago | [cursor](https://github.com/crystal-term/cursor)/985 | Terminal cursor movement and manipulation of cursor properties such as visibility |
+| 8 | 2 | 0 | 4 years ago | [msgpack.cr](https://github.com/steakknife/msgpack.cr)/986 | msgpack.org[Crystal] |
+| 8 | 1 | 0 | 1 year, 6 months ago | [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr)/987 | Separates a files front matter from its content |
+| 8 | 1 | 0 | 1 year, 4 days ago | [humanhash](https://github.com/kingsleyh/humanhash)/988 | HumanHash implementation |
+| 8 | 1 | 0 | 2 months ago | [Crycord](https://github.com/GeopJr/Crycord)/989 | A Discord Client modification with plugins. Uses BeautifulDiscord's CSS injector. Oh it's also written in Crystal! |
+| 8 | 0 | 0 | 5 years ago | [lake](https://github.com/adlerhsieh/lake)/990 | Recursive tasks managed easily |
+| 8 | 0 | 1 | 1 year, 11 months ago | [can_use](https://github.com/rodrigopinto/can_use)/991 | 🤔 Can I use? CanUse is a minimalist feature toggle/flag for crystal, based on yaml file. |
+| 8 | 1 | 0 | 3 months ago | [zaru_crystal](https://github.com/szTheory/zaru_crystal)/992 | Crystal shard for filename sanitization |
+| 8 | 0 | 0 | 4 months ago | [talkwatch](https://github.com/frissyn/talkwatch)/993 | Simple and extensive automodder for ReplTalk with webview logs. |
+| 8 | 2 | 0 | 3 years ago | [redis-reconnect](https://github.com/kostya/redis-reconnect)/994 | Redis client with autoreconnection for slow clients (wrapper for stefanwille/crystal-redis). Used as part of redisoid shard. |
+| 8 | 0 | 6 | 1 year, 6 months ago | [triathlets](https://github.com/forsaken1/triathlets)/995 | Web app for Vladivostok's triathlets |
+| 8 | 0 | 0 | 2 years ago | [error.cr](https://github.com/j8r/error.cr)/996 | Efficient errors without raising exceptions - no expensive stack unwinding |
+| 8 | 1 | 15 | 2 months ago | [breeze](https://github.com/luckyframework/breeze)/997 | A development dashboard for Lucky Apps |
+| 8 | 0 | 1 | 2 months ago | [spark](https://github.com/stephendolan/spark)/998 | A set of CLI utilities to facilitate advanced application setup and building. |
+| 8 | 1 | 0 | 21 days ago | [pinger](https://github.com/spider-gazelle/pinger)/999 | Microlibrary to perform ping requests with Crystal Lang |
+| 8 | 4 | 0 | 9 months ago | [kafka.cr](https://github.com/packetzero/kafka.cr)/1000 | crystal-lang wrapper around kafka C library |
