@@ -1,1003 +1,1003 @@
 ## This is a most popular repository list for CPP sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 176426 | 88720 | 2151 | 3 hours ago | [tensorflow](https://github.com/tensorflow/tensorflow)/1 | An Open Source Machine Learning Framework for Everyone |
-| 70538 | 35442 | 665 | 5 hours ago | [bitcoin](https://github.com/bitcoin/bitcoin)/2 | Bitcoin Core integration/staging tree |
-| 63102 | 12851 | 9838 | 4 hours ago | [godot](https://github.com/godotengine/godot)/3 | Godot Engine – Multi-platform 2D and 3D game engine |
-| 60172 | 15119 | 980 | 3 hours ago | [protobuf](https://github.com/protocolbuffers/protobuf)/4 | Protocol Buffers - Google's data interchange format |
-| 52314 | 8693 | 400 | 7 days ago | [tesseract](https://github.com/tesseract-ocr/tesseract)/5 | Tesseract Open Source OCR Engine (main repository) |
-| 49811 | 5446 | 480 | 23 hours ago | [gpt4all](https://github.com/nomic-ai/gpt4all)/6 | gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue |
-| 49053 | 8734 | 885 | 5 days ago | [imgui](https://github.com/ocornut/imgui)/7 | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
-| 36407 | 9625 | 32 | a day ago | [Magisk](https://github.com/topjohnwu/Magisk)/8 | The Magic Mask for Android |
-| 33482 | 18987 | 1181 | 3 years ago | [caffe](https://github.com/BVLC/caffe)/9 | Caffe: a fast open framework for deep learning. |
-| 33177 | 7393 | 292 | 3 months ago | [leveldb](https://github.com/google/leveldb)/10 | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. |
-| 30326 | 9702 | 307 | 2 days ago | [googletest](https://github.com/google/googletest)/11 | GoogleTest - Google Testing and Mocking Framework |
-| 30010 | 2603 | 1328 | 5 hours ago | [yuzu](https://github.com/yuzu-emu/yuzu)/12 | Nintendo Switch emulator |
-| 29908 | 5957 | 3407 | 4 hours ago | [ClickHouse](https://github.com/ClickHouse/ClickHouse)/13 | ClickHouse® is a free analytics DBMS for big data |
-| 29666 | 7501 | 15 | a month ago | [interview](https://github.com/huihut/interview)/14 | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc. |
-| 29319 | 1418 | 140 | 8 hours ago | [ImHex](https://github.com/WerWolv/ImHex)/15 | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. |
-| 29302 | 5844 | 14 | 3 years ago | [phantomjs](https://github.com/ariya/phantomjs)/16 | Scriptable Headless Browser |
-| 28186 | 2844 | 878 | 3 months ago | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)/17 | 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 |
-| 27585 | 7641 | 257 | 11 days ago | [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)/18 | OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation |
-| 25693 | 5410 | 419 | 5 hours ago | [folly](https://github.com/facebook/folly)/19 | An open-source C++ library developed and used at Facebook. |
-| 24993 | 6384 | 25 | a day ago | [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)/20 | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
-| 24920 | 2050 | 36 | a day ago | [cmder](https://github.com/cmderdev/cmder)/21 | Lovely console emulator package for Windows |
-| 24408 | 8621 | 388 | 21 hours ago | [xgboost](https://github.com/dmlc/xgboost)/22 | Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow |
-| 24121 | 5575 | 82 | 5 hours ago | [mongo](https://github.com/mongodb/mongo)/23 | The MongoDB Database |
-| 23503 | 3051 | 329 | 7 days ago | [faiss](https://github.com/facebookresearch/faiss)/24 | A library for efficient similarity search and clustering of dense vectors. |
-| 22773 | 4662 | 261 | 3 hours ago | [mediapipe](https://github.com/google/mediapipe)/25 | Cross-platform, customizable ML solutions for live and streaming media. |
-| 22652 | 3799 | 132 | 1 year, 8 months ago | [DeepSpeech](https://github.com/mozilla/DeepSpeech)/26 | DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. |
-| 22242 | 4585 | 825 | 10 hours ago | [tdesktop](https://github.com/telegramdesktop/tdesktop)/27 | Telegram Desktop messaging app |
-| 22109 | 3281 | 50 | 3 months ago | [RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager)/28 | None |
-| 21842 | 1726 | 458 | 13 hours ago | [fish-shell](https://github.com/fish-shell/fish-shell)/29 | The user-friendly command line shell. |
-| 21483 | 3867 | 0 | a day ago | [v8](https://github.com/v8/v8)/30 | The official mirror of the V8 Git repository |
-| 21345 | 1348 | 464 | 23 days ago | [flameshot](https://github.com/flameshot-org/flameshot)/31 | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: |
-| 20596 | 742 | 123 | 10 hours ago | [dragonfly](https://github.com/dragonflydb/dragonfly)/32 | A modern replacement for Redis and Memcached |
-| 20551 | 1311 | 736 | 23 hours ago | [winget-cli](https://github.com/microsoft/winget-cli)/33 | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). |
-| 20493 | 6880 | 2001 | 5 months ago | [mxnet](https://github.com/apache/mxnet)/34 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more |
-| 20492 | 2448 | 618 | 6 days ago | [osquery](https://github.com/osquery/osquery)/35 | SQL powered operating system instrumentation, monitoring, and analytics. |
-| 19678 | 4171 | 2094 | 9 days ago | [notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)/36 | Notepad++ official repository |
-| 19264 | 3912 | 38 | 3 days ago | [spdlog](https://github.com/gabime/spdlog)/37 | Fast C++ logging library. |
-| 18134 | 2171 | 55 | 9 months ago | [weex](https://github.com/alibaba/weex)/38 | A framework for building Mobile cross-platform UI |
-| 17936 | 3199 | 89 | 3 days ago | [swoole-src](https://github.com/swoole/swoole-src)/39 | 🚀 Coroutine-based concurrency library for PHP |
-| 17869 | 2957 | 69 | 2 years ago | [trojan](https://github.com/trojan-gfw/trojan)/40 | An unidentifiable mechanism that helps you bypass GFW. |
-| 17748 | 3105 | 630 | 28 days ago | [hhvm](https://github.com/facebook/hhvm)/41 | A virtual machine for executing programs written in Hack. |
-| 17401 | 4380 | 835 | 10 months ago | [CNTK](https://github.com/microsoft/CNTK)/42 | Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit |
-| 17357 | 2113 | 11 | 6 hours ago | [fmt](https://github.com/fmtlib/fmt)/43 | A modern formatting library |
-| 17124 | 922 | 123 | 5 days ago | [simdjson](https://github.com/simdjson/simdjson)/44 | Parsing gigabytes of JSON per second  |
-| 17071 | 4881 | 41 | 1 year, 3 months ago | [leetcode](https://github.com/haoel/leetcode)/45 | LeetCode Problems' Solutions  |
-| 16860 | 2889 | 375 | 7 days ago | [Catch2](https://github.com/catchorg/Catch2)/46 | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
-| 16849 | 3606 | 403 | a month ago | [mars](https://github.com/Tencent/mars)/47 | Mars is a cross-platform network component  developed by WeChat. |
-| 16764 | 824 | 874 | a day ago | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)/48 | Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. |
-| 16508 | 1257 | 654 | 6 days ago | [keepassxc](https://github.com/keepassxreboot/keepassxc)/49 | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. |
-| 16335 | 1392 | 109 | 8 days ago | [yoga](https://github.com/facebook/yoga)/50 | Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates. |
-| 16082 | 1696 | 108 | 3 hours ago | [filament](https://github.com/google/filament)/51 | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
-| 16039 | 6188 | 789 | 4 hours ago | [xbmc](https://github.com/xbmc/xbmc)/52 | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. |
-| 16014 | 1776 | 9 | a month ago | [MMKV](https://github.com/Tencent/MMKV)/53 | An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX. |
-| 15653 | 3208 | 57 | 15 days ago | [Qv2ray](https://github.com/Qv2ray/Qv2ray)/54 | :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star: |
-| 15621 | 1715 | 26 | 6 days ago | [uWebSockets](https://github.com/uNetworking/uWebSockets)/55 | Simple, secure & standards compliant web server for the most demanding of applications |
-| 15078 | 3725 | 353 | 18 hours ago | [brpc](https://github.com/apache/brpc)/56 | brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC". |
-| 15068 | 18488 | 721 | 2 days ago | [Marlin](https://github.com/MarlinFirmware/Marlin)/57 | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
-| 13930 | 430 | 349 | 27 days ago | [typesense](https://github.com/typesense/typesense)/58 | Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences |
-| 13916 | 831 | 40 | 16 days ago | [smartknob](https://github.com/scottbez1/smartknob)/59 | Haptic input knob with software-defined endstops and virtual detents |
-| 13834 | 638 | 434 | 7 months ago | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)/60 | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. |
-| 13745 | 1064 | 475 | 5 days ago | [cutter](https://github.com/rizinorg/cutter)/61 | Free and Open Source Reverse Engineering Platform powered by rizin |
-| 13700 | 3486 | 0 | 2 years ago | [USTC-Course](https://github.com/USTC-Resource/USTC-Course)/62 | :heart:中国科学技术大学课程资源 |
-| 13532 | 1224 | 356 | 1 year, 7 months ago | [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)/63 | Sourcetrail - free and open-source interactive source explorer |
-| 13371 | 3649 | 2591 | 2 months ago | [cosmos](https://github.com/OpenGenus/cosmos)/64 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project |
-| 13347 | 5022 | 63 | 8 months ago | [muduo](https://github.com/chenshuo/muduo)/65 | Event-driven network library for multi-threaded Linux server in C++11 |
-| 13321 | 1730 | 1356 | 1 year, 1 month ago | [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)/66 | Convert HTML to PDF using Webkit (QtWebKit) |
-| 13233 | 1837 | 288 | 4 days ago | [bgfx](https://github.com/bkaradzic/bgfx)/67 | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. |
-| 13223 | 3431 | 664 | 10 months ago | [rapidjson](https://github.com/Tencent/rapidjson)/68 | A fast JSON parser/generator for C++ with both SAX/DOM style API |
-| 13173 | 1937 | 43 | a month ago | [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)/69 | 12 Weeks, 24 Lessons, IoT for All! |
-| 13028 | 1258 | 913 | 21 hours ago | [foundationdb](https://github.com/apple/foundationdb)/70 | FoundationDB - the open source, distributed, transactional key-value store |
-| 12743 | 621 | 204 | 20 days ago | [polybar](https://github.com/polybar/polybar)/71 | A fast and easy-to-use status bar |
-| 12498 | 1027 | 90 | 18 days ago | [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)/72 | A lightweight utility that makes the Windows taskbar translucent/transparent. |
-| 12456 | 403 | 177 | 7 hours ago | [btop](https://github.com/aristocratos/btop)/73 | A monitor of resources |
-| 12212 | 1096 | 40 | a month ago | [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)/74 | Atmosphère is a work-in-progress customized firmware for the Nintendo Switch. |
-| 12175 | 5573 | 854 | 4 hours ago | [ceph](https://github.com/ceph/ceph)/75 | Ceph is a distributed object, block, and file storage platform  |
-| 12122 | 3232 | 45 | 3 days ago | [dlib](https://github.com/davisking/dlib)/76 | A toolkit for making real world machine learning and data analysis applications in C++ |
-| 12064 | 2987 | 3672 | 3 hours ago | [arrow](https://github.com/apache/arrow)/77 | Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing |
-| 11966 | 3161 | 61 | a month ago | [TinyWebServer](https://github.com/qinguoyi/TinyWebServer)/78 | :fire: Linux下C++轻量级WebServer服务器 |
-| 11950 | 2424 | 299 | 6 hours ago | [WLED](https://github.com/Aircoookie/WLED)/79 | Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! |
-| 11846 | 976 | 183 | 3 hours ago | [watchman](https://github.com/facebook/watchman)/80 | Watches files and records, or triggers actions, when they change.  |
-| 11829 | 1197 | 29 | 20 hours ago | [upx](https://github.com/upx/upx)/81 | UPX - the Ultimate Packer for eXecutables |
-| 11771 | 728 | 198 | 6 months ago | [mosh](https://github.com/mobile-shell/mosh)/82 | Mobile Shell |
-| 11659 | 1111 | 54 | a month ago | [annoy](https://github.com/spotify/annoy)/83 | Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk |
-| 11322 | 3700 | 385 | 2 years ago | [eos](https://github.com/EOSIO/eos)/84 | An open source smart contract platform  |
-| 11279 | 388 | 155 | 10 hours ago | [mold](https://github.com/rui314/mold)/85 | Mold: A Modern Linker 🦠 |
-| 11195 | 1038 | 627 | 5 hours ago | [duckdb](https://github.com/duckdb/duckdb)/86 | DuckDB is an in-process SQL OLAP Database Management System |
-| 11052 | 1158 | 517 | 1 year, 7 months ago | [turicreate](https://github.com/apple/turicreate)/87 | Turi Create simplifies the development of custom machine learning models. |
-| 10739 | 2360 | 267 | 7 hours ago | [dolphin](https://github.com/dolphin-emu/dolphin)/88 | Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. |
-| 10717 | 2492 | 516 | 2 years ago | [openalpr](https://github.com/openalpr/openalpr)/89 | Automatic License Plate Recognition library |
-| 10679 | 1053 | 2620 | a day ago | [scylladb](https://github.com/scylladb/scylladb)/90 | NoSQL data store using the seastar framework, compatible with Apache Cassandra |
-| 10366 | 775 | 58 | 5 days ago | [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)/91 | Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet. |
-| 10243 | 2696 | 45 | 11 hours ago | [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)/92 | WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11 |
-| 10082 | 900 | 196 | 3 days ago | [sonic-pi](https://github.com/sonic-pi-net/sonic-pi)/93 | Code. Music. Live. |
-| 9996 | 846 | 189 | a day ago | [capnproto](https://github.com/capnproto/capnproto)/94 | Cap'n Proto serialization/RPC system - core tools and C++ library |
-| 9957 | 2228 | 1973 | 15 hours ago | [onnxruntime](https://github.com/microsoft/onnxruntime)/95 | ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator |
-| 9870 | 1978 | 20 | 4 days ago | [cpp-httplib](https://github.com/yhirose/cpp-httplib)/96 | A C++ header-only HTTP/HTTPS server and client library |
-| 9817 | 3978 | 40 | 10 months ago | [thrift](https://github.com/apache/thrift)/97 | Apache Thrift |
-| 9809 | 352 | 443 | a day ago | [Hyprland](https://github.com/hyprwm/Hyprland)/98 | Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
-| 9765 | 1682 | 656 | 20 days ago | [tiled](https://github.com/mapeditor/tiled)/99 | Flexible level editor |
-| 9683 | 2065 | 120 | 15 hours ago | [subconverter](https://github.com/tindy2013/subconverter)/100 | Utility to convert between various subscription format |
-| 6048 | 437 | 69 | 7 days ago | [tracy](https://github.com/wolfpld/tracy)/101 | Frame profiler |
-| 5984 | 563 | 111 | a day ago | [mujoco](https://github.com/deepmind/mujoco)/102 | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
-| 5914 | 2208 | 83 | a day ago | [serving](https://github.com/tensorflow/serving)/103 | A flexible, high-performance serving system for machine learning models |
-| 5910 | 280 | 91 | a month ago | [Sunshine](https://github.com/LizardByte/Sunshine)/104 | Self-hosted game stream host for Moonlight. |
-| 5909 | 1247 | 234 | a day ago | [oceanbase](https://github.com/oceanbase/oceanbase)/105 | OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. |
-| 5880 | 2327 | 327 | 1 year, 5 months ago | [ethminer](https://github.com/ethereum-mining/ethminer)/106 | Ethereum miner with OpenCL, CUDA and stratum support |
-| 5878 | 671 | 72 | a day ago | [redex](https://github.com/facebook/redex)/107 | A bytecode optimizer for Android apps |
-| 5870 | 401 | 167 | 13 hours ago | [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)/108 | GameStream client for PCs (Windows, Mac, Linux, and Steam Link) |
-| 5692 | 1395 | 300 | 4 years ago | [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)/109 | header only, dependency-free deep learning framework in C++14 |
-| 5638 | 860 | 48 | 9 days ago | [cpr](https://github.com/libcpr/cpr)/110 | C++ Requests: Curl for People, a spiritual port of Python Requests. |
-| 5636 | 708 | 868 | 12 hours ago | [cudf](https://github.com/rapidsai/cudf)/111 | cuDF - GPU DataFrame Library  |
-| 5631 | 1472 | 78 | a day ago | [recastnavigation](https://github.com/recastnavigation/recastnavigation)/112 | Navigation-mesh Toolset for Games |
-| 5608 | 612 | 118 | a month ago | [wabt](https://github.com/WebAssembly/wabt)/113 | The WebAssembly Binary Toolkit |
-| 5468 | 474 | 0 | 5 hours ago | [krita](https://github.com/KDE/krita)/114 | Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks. |
-| 5455 | 568 | 1781 | a day ago | [organicmaps](https://github.com/organicmaps/organicmaps)/115 | 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! |
-| 5455 | 908 | 1031 | 7 days ago | [proxysql](https://github.com/sysown/proxysql)/116 | High-performance MySQL proxy with a GPL license. |
-| 5447 | 395 | 211 | 5 days ago | [Cemu](https://github.com/cemu-project/Cemu)/117 | Cemu - Wii U emulator |
-| 5428 | 1287 | 171 | 3 years ago | [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)/118 | 180+ Algorithm & Data Structure Problems using C++ |
-| 5377 | 2105 | 0 | 9 days ago | [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)/119 | wxhook wechathook 微信Api、WeChatApi、微信机器人 python微信api 微信接口 微信数据库解密 PC微信3.9 |
-| 5351 | 669 | 375 | 5 years ago | [edge](https://github.com/tjanczuk/edge)/120 | Run .NET and Node.js code in-process on Windows, MacOS, and Linux |
-| 5294 | 1928 | 67 | 30 days ago | [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)/121 | This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows. |
-| 5238 | 269 | 41 | 5 months ago | [safetynet-fix](https://github.com/kdrag0n/safetynet-fix)/122 | Google SafetyNet attestation workarounds for Magisk |
-| 5186 | 419 | 69 | 12 days ago | [snapcast](https://github.com/badaix/snapcast)/123 | Synchronous multiroom audio player |
-| 5164 | 1088 | 94 | 6 hours ago | [pika](https://github.com/OpenAtomFoundation/pika)/124 | Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team. |
-| 5128 | 1175 | 456 | a day ago | [swig](https://github.com/swig/swig)/125 | SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages. |
-| 5122 | 941 | 381 | a month ago | [Cinder](https://github.com/cinder/Cinder)/126 | Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. |
-| 5121 | 1949 | 78 | 6 days ago | [HyperLPR](https://github.com/szad670401/HyperLPR)/127 | 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework. |
-| 5091 | 1698 | 11 | 6 months ago | [mesos](https://github.com/apache/mesos)/128 | Apache Mesos |
-| 5057 | 1767 | 194 | 3 months ago | [openh264](https://github.com/cisco/openh264)/129 | Open Source H.264 Codec  |
-| 5033 | 599 | 171 | 4 months ago | [doctest](https://github.com/doctest/doctest)/130 | The fastest feature-rich C++11/14/17/20/23 single-header testing framework |
-| 5017 | 370 | 27 | 5 months ago | [lepton](https://github.com/dropbox/lepton)/131 | Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%. |
-| 4975 | 1591 | 218 | a month ago | [openMVG](https://github.com/openMVG/openMVG)/132 | open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion. |
-| 4905 | 1371 | 90 | 14 hours ago | [cppcheck](https://github.com/danmar/cppcheck)/133 | static analysis of C/C++ code |
-| 4845 | 1605 | 65 | 2 months ago | [Piccolo](https://github.com/BoomingTech/Piccolo)/134 | Piccolo (formerly Pilot) – mini game engine for games104 |
-| 4804 | 468 | 0 | 10 months ago | [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)/135 | Reverse engineering focusing on x64 Windows. |
-| 4802 | 819 | 57 | 1 year, 1 month ago | [mace](https://github.com/XiaoMi/mace)/136 | MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms. |
-| 4775 | 801 | 289 | 1 year, 1 month ago | [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs)/137 | Nodejs bindings to OpenCV 3 and OpenCV 4 |
-| 4744 | 936 | 586 | 3 months ago | [react-native-fs](https://github.com/itinance/react-native-fs)/138 | Native filesystem access for react-native |
-| 4741 | 363 | 233 | 4 days ago | [pixie](https://github.com/pixie-io/pixie)/139 | Instant Kubernetes-Native Application Observability |
-| 4727 | 358 | 78 | 3 years ago | [IncludeOS](https://github.com/includeos/IncludeOS)/140 | A minimal, resource efficient unikernel for cloud services |
-| 4672 | 1123 | 10 | 2 years ago | [CodingInterviews](https://github.com/gatieme/CodingInterviews)/141 | 剑指Offer——名企面试官精讲典型编程题 |
-| 4662 | 865 | 47 | 10 months ago | [AliSQL](https://github.com/alibaba/AliSQL)/142 | AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom. |
-| 4650 | 633 | 569 | a month ago | [cuberite](https://github.com/cuberite/cuberite)/143 | A lightweight, fast and extensible game server for Minecraft |
-| 4627 | 1004 | 181 | 5 days ago | [cvxpy](https://github.com/cvxpy/cvxpy)/144 | A Python-embedded modeling language for convex optimization problems. |
-| 4567 | 523 | 160 | 13 days ago | [MegEngine](https://github.com/MegEngine/MegEngine)/145 | MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架 |
-| 4567 | 483 | 44 | 3 hours ago | [WickedEngine](https://github.com/turanszkij/WickedEngine)/146 | 3D engine with modern graphics |
-| 4564 | 563 | 118 | 8 days ago | [SPTAG](https://github.com/microsoft/SPTAG)/147 | A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario. |
-| 4541 | 639 | 64 | 5 years ago | [liquidfun](https://github.com/google/liquidfun)/148 | 2D physics engine for games |
-| 4535 | 1793 | 124 | 3 years ago | [SeetaFaceEngine](https://github.com/seetaface/SeetaFaceEngine)/149 | None |
-| 4530 | 587 | 267 | a day ago | [DALI](https://github.com/NVIDIA/DALI)/150 | A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. |
-| 4500 | 524 | 1 | 10 months ago | [Riru](https://github.com/RikkaApps/Riru)/151 | Inject into zygote process |
-| 4497 | 1155 | 999 | 2 years ago | [omim](https://github.com/mapsme/omim)/152 | 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android |
-| 4478 | 1507 | 31 | 5 days ago | [mlpack](https://github.com/mlpack/mlpack)/153 | mlpack: a fast, header-only C++ machine learning library |
-| 4474 | 1058 | 0 | 7 months ago | [1earn](https://github.com/ffffffff0x/1earn)/154 | 暂停维护 | ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup |
-| 4402 | 1039 | 237 | 2 months ago | [Tengine](https://github.com/OAID/Tengine)/155 | Tengine is a lite, high performance, modular inference engine for embedded device  |
-| 4395 | 1578 | 65 | 26 days ago | [anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource)/156 | RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码 |
-| 4365 | 808 | 163 | 3 days ago | [UDPspeeder](https://github.com/wangyu-/UDPspeeder)/157 | A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP) |
-| 4356 | 668 | 160 | 3 months ago | [hyperscan](https://github.com/intel/hyperscan)/158 | High-performance regular expression matching library |
-| 4337 | 198 | 24 | 10 days ago | [pedalboard](https://github.com/spotify/pedalboard)/159 | 🎛 🔊 A Python library for working with audio. |
-| 4321 | 854 | 596 | 10 days ago | [nghttp2](https://github.com/nghttp2/nghttp2)/160 | nghttp2 - HTTP/2 C Library and tools |
-| 4316 | 1990 | 269 | 9 months ago | [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)/161 | A Robust and Versatile Monocular Visual-Inertial State Estimator |
-| 4314 | 480 | 158 | 10 months ago | [libsass](https://github.com/sass/libsass)/162 | A C/C++ implementation of a Sass compiler |
-| 4312 | 1326 | 19 | 1 year, 2 months ago | [handy](https://github.com/yedf2/handy)/163 | 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework |
-| 4298 | 890 | 995 | 22 hours ago | [endless-sky](https://github.com/endless-sky/endless-sky)/164 | Space exploration, trading, and combat game. |
-| 4287 | 1351 | 311 | 3 months ago | [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native)/165 | Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL |
-| 4245 | 1584 | 314 | 2 days ago | [yaml-cpp](https://github.com/jbeder/yaml-cpp)/166 | A YAML parser and emitter in C++ |
-| 4240 | 1882 | 1812 | 8 hours ago | [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)/167 | Complete Open Source and Modular solution for MMO |
-| 4129 | 335 | 39 | 5 days ago | [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)/168 | Console-based GLSL Sandbox for 2D/3D shaders |
-| 4091 | 1694 | 30 | 7 days ago | [cryptopp](https://github.com/weidai11/cryptopp)/169 | free C++ class library of cryptographic schemes |
-| 4074 | 171 | 140 | 2 days ago | [cppfront](https://github.com/hsutter/cppfront)/170 | A personal experimental C++ Syntax 2 -> Syntax 1 compiler |
-| 4067 | 1573 | 56 | 3 days ago | [QuantLib](https://github.com/lballabio/QuantLib)/171 | The QuantLib C++ library |
-| 4063 | 292 | 73 | 8 days ago | [Notepad3](https://github.com/rizonesoft/Notepad3)/172 | Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3: |
-| 4056 | 1078 | 535 | 28 days ago | [libigl](https://github.com/libigl/libigl)/173 | Simple C++ geometry processing library. |
-| 4043 | 726 | 279 | a month ago | [TNN](https://github.com/Tencent/TNN)/174 | TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework.  |
-| 4006 | 1713 | 3 | a month ago | [Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)/175 | Infrared remote library for Arduino: send and receive infrared signals with multiple protocols |
-| 3963 | 798 | 285 | 2 months ago | [Launcher](https://github.com/MultiMC/Launcher)/176 | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once |
-| 3943 | 239 | 93 | 1 year, 8 months ago | [SHADERed](https://github.com/dfranx/SHADERed)/177 | Lightweight, cross-platform & full-featured shader IDE |
-| 3935 | 802 | 51 | 9 years ago | [scribe](https://github.com/facebookarchive/scribe)/178 | Scribe is a server for aggregating log data streamed in real time from a large number of servers. |
-| 3902 | 287 | 232 | 15 days ago | [Natron](https://github.com/NatronGitHub/Natron)/179 | Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry. |
-| 3898 | 508 | 480 | a day ago | [Waybar](https://github.com/Alexays/Waybar)/180 | Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: |
-| 3894 | 717 | 62 | 6 days ago | [The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)/181 | Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat. |
-| 3843 | 421 | 427 | 4 months ago | [rtorrent](https://github.com/rakshasa/rtorrent)/182 | rTorrent BitTorrent client |
-| 3835 | 322 | 112 | 5 years ago | [Karabiner](https://github.com/tekezo/Karabiner)/183 | Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. |
-| 3812 | 368 | 8 | 28 days ago | [magic_enum](https://github.com/Neargye/magic_enum)/184 | Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code |
-| 3796 | 431 | 256 | 2 months ago | [range-v3](https://github.com/ericniebler/range-v3)/185 | Range library for C++14/17/20, basis for C++20's std::ranges |
-| 3747 | 1056 | 26 | 1 year, 3 months ago | [NoahGameFrame](https://github.com/ketoo/NoahGameFrame)/186 | A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal. |
-| 3743 | 102 | 4 | 7 days ago | [Clipboard](https://github.com/Slackadays/Clipboard)/187 | 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager |
-| 3730 | 825 | 45 | 22 days ago | [open_spiel](https://github.com/deepmind/open_spiel)/188 | OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games. |
-| 3663 | 268 | 89 | a day ago | [musikcube](https://github.com/clangen/musikcube)/189 | a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++ |
-| 3646 | 542 | 75 | a month ago | [cxxopts](https://github.com/jarro2783/cxxopts)/190 | Lightweight C++ command line option parser |
-| 3630 | 352 | 98 | 2 days ago | [ALVR](https://github.com/alvr-org/ALVR)/191 | Stream VR games from your PC to your headset via Wi-Fi |
-| 3612 | 1423 | 525 | 3 years ago | [pubsubclient](https://github.com/knolleary/pubsubclient)/192 | A client library for the Arduino Ethernet Shield that provides support for MQTT. |
-| 3608 | 645 | 142 | 9 days ago | [mindspore](https://github.com/mindspore-ai/mindspore)/193 | MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. |
-| 3570 | 131 | 28 | 8 months ago | [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI)/194 | No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11. |
-| 3560 | 509 | 107 | a month ago | [PlotJuggler](https://github.com/facontidavide/PlotJuggler)/195 | The Time Series Visualization Tool that you deserve. |
-| 3557 | 230 | 27 | 11 months ago | [node-fibers](https://github.com/laverdet/node-fibers)/196 | Fiber/coroutine support for v8 and node. |
-| 3476 | 336 | 566 | 3 months ago | [Revive](https://github.com/LibreVR/Revive)/197 | Play Oculus-exclusive games on the HTC Vive or Valve Index, scroll down for downloads and installation instructions. |
-| 3474 | 129 | 11 | 6 months ago | [nerd](https://github.com/NerdLang/nerd)/198 | 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries. |
-| 3461 | 658 | 62 | 11 months ago | [stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn)/199 | Proxy performance batch tester based on Shadowsocks(R) and V2Ray |
-| 3451 | 685 | 91 | 3 months ago | [obs-websocket](https://github.com/obsproject/obs-websocket)/200 | Remote-control of OBS Studio through WebSocket |
-| 4857 | 181 | 94 | 22 hours ago | [workerd](https://github.com/cloudflare/workerd)/201 | The JavaScript / Wasm runtime that powers Cloudflare Workers |
-| 4850 | 705 | 830 | 2 months ago | [supercollider](https://github.com/supercollider/supercollider)/202 | An audio server, programming language, and IDE for sound synthesis and algorithmic composition. |
-| 4804 | 468 | 0 | 10 months ago | [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)/203 | Reverse engineering focusing on x64 Windows. |
-| 4775 | 801 | 289 | 1 year, 1 month ago | [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs)/204 | Nodejs bindings to OpenCV 3 and OpenCV 4 |
-| 4769 | 1459 | 19 | 8 years ago | [Cplusplus-Concurrency-In-Practice](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)/205 | A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》 |
-| 4695 | 906 | 164 | 2 days ago | [oneTBB](https://github.com/oneapi-src/oneTBB)/206 | oneAPI Threading Building Blocks (oneTBB) |
-| 4678 | 760 | 182 | a month ago | [thrust](https://github.com/NVIDIA/thrust)/207 | The C++ parallel algorithms library. |
-| 4672 | 1123 | 10 | 2 years ago | [CodingInterviews](https://github.com/gatieme/CodingInterviews)/208 | 剑指Offer——名企面试官精讲典型编程题 |
-| 4650 | 633 | 569 | a month ago | [cuberite](https://github.com/cuberite/cuberite)/209 | A lightweight, fast and extensible game server for Minecraft |
-| 4627 | 1004 | 181 | 5 days ago | [cvxpy](https://github.com/cvxpy/cvxpy)/210 | A Python-embedded modeling language for convex optimization problems. |
-| 4619 | 948 | 120 | 23 days ago | [libtorrent](https://github.com/arvidn/libtorrent)/211 | an efficient feature complete C++ bittorrent implementation |
-| 4564 | 563 | 118 | 8 days ago | [SPTAG](https://github.com/microsoft/SPTAG)/212 | A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario. |
-| 4562 | 1741 | 110 | 6 months ago | [tinyxml2](https://github.com/leethomason/tinyxml2)/213 | TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs. |
-| 4534 | 411 | 274 | 3 days ago | [plaidml](https://github.com/plaidml/plaidml)/214 | PlaidML is a framework for making deep learning work everywhere. |
-| 4530 | 587 | 267 | a day ago | [DALI](https://github.com/NVIDIA/DALI)/215 | A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. |
-| 4500 | 524 | 1 | 10 months ago | [Riru](https://github.com/RikkaApps/Riru)/216 | Inject into zygote process |
-| 4495 | 636 | 75 | 4 years ago | [keepassx](https://github.com/keepassx/keepassx)/217 | KeePassX is a cross platform port of the windows application “Keepass Password Safe”. |
-| 4474 | 1058 | 0 | 7 months ago | [1earn](https://github.com/ffffffff0x/1earn)/218 | 暂停维护 | ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup |
-| 4434 | 538 | 71 | 3 years ago | [instant-meshes](https://github.com/wjakob/instant-meshes)/219 | Interactive field-aligned mesh generator |
-| 4402 | 1039 | 237 | 2 months ago | [Tengine](https://github.com/OAID/Tengine)/220 | Tengine is a lite, high performance, modular inference engine for embedded device  |
-| 4384 | 1810 | 548 | 5 days ago | [gnuradio](https://github.com/gnuradio/gnuradio)/221 | GNU Radio – the Free and Open Software Radio Ecosystem |
-| 4365 | 808 | 163 | 3 days ago | [UDPspeeder](https://github.com/wangyu-/UDPspeeder)/222 | A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP) |
-| 4356 | 668 | 160 | 3 months ago | [hyperscan](https://github.com/intel/hyperscan)/223 | High-performance regular expression matching library |
-| 4353 | 591 | 122 | 3 years ago | [nanogui](https://github.com/wjakob/nanogui)/224 | Minimalistic GUI library for OpenGL |
-| 4341 | 1454 | 361 | 6 days ago | [rippled](https://github.com/XRPLF/rippled)/225 | Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++ |
-| 4316 | 1990 | 269 | 9 months ago | [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)/226 | A Robust and Versatile Monocular Visual-Inertial State Estimator |
-| 4314 | 480 | 158 | 10 months ago | [libsass](https://github.com/sass/libsass)/227 | A C/C++ implementation of a Sass compiler |
-| 4302 | 385 | 16 | a day ago | [meshoptimizer](https://github.com/zeux/meshoptimizer)/228 | Mesh optimization library that makes meshes smaller and faster to render |
-| 4298 | 890 | 995 | 22 hours ago | [endless-sky](https://github.com/endless-sky/endless-sky)/229 | Space exploration, trading, and combat game. |
-| 4240 | 1882 | 1812 | 8 hours ago | [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)/230 | Complete Open Source and Modular solution for MMO |
-| 4223 | 311 | 75 | 2 months ago | [bloaty](https://github.com/google/bloaty)/231 | Bloaty McBloatface: a size profiler for binaries |
-| 4175 | 840 | 168 | 6 days ago | [tigervnc](https://github.com/TigerVNC/tigervnc)/232 | High performance, multi-platform VNC client and server |
-| 4171 | 1115 | 805 | 21 days ago | [asio](https://github.com/chriskohlhoff/asio)/233 | Asio C++ Library |
-| 4142 | 1276 | 3 | 7 years ago | [gameplay](https://github.com/gameplay3d/gameplay)/234 | Open-source, cross-platform, C++ game engine for creating 2D/3D games. |
-| 4138 | 1434 | 40 | 2 days ago | [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)/235 | 🏋️ Python / Modern C++ Solutions of All 2791 LeetCode Problems (Weekly Update) |
-| 4129 | 335 | 39 | 5 days ago | [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)/236 | Console-based GLSL Sandbox for 2D/3D shaders |
-| 4091 | 1694 | 30 | 7 days ago | [cryptopp](https://github.com/weidai11/cryptopp)/237 | free C++ class library of cryptographic schemes |
-| 4074 | 171 | 140 | 2 days ago | [cppfront](https://github.com/hsutter/cppfront)/238 | A personal experimental C++ Syntax 2 -> Syntax 1 compiler |
-| 4067 | 1573 | 56 | 3 days ago | [QuantLib](https://github.com/lballabio/QuantLib)/239 | The QuantLib C++ library |
-| 4056 | 1078 | 535 | 28 days ago | [libigl](https://github.com/libigl/libigl)/240 | Simple C++ geometry processing library. |
-| 4043 | 726 | 279 | a month ago | [TNN](https://github.com/Tencent/TNN)/241 | TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework.  |
-| 4034 | 1240 | 507 | 4 hours ago | [cgal](https://github.com/CGAL/cgal)/242 | The public CGAL repository, see the README below |
-| 4019 | 338 | 128 | 2 years ago | [LANDrop](https://github.com/LANDrop/LANDrop)/243 | Drop any files to any devices on your LAN. |
-| 4006 | 1713 | 3 | a month ago | [Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)/244 | Infrared remote library for Arduino: send and receive infrared signals with multiple protocols |
-| 4001 | 217 | 140 | 16 days ago | [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)/245 | Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages |
-| 3963 | 798 | 285 | 2 months ago | [Launcher](https://github.com/MultiMC/Launcher)/246 | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once |
-| 3951 | 191 | 29 | 8 days ago | [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv)/247 | ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage! |
-| 3949 | 2280 | 340 | 1 year, 8 months ago | [aleth](https://github.com/ethereum/aleth)/248 | Aleth – Ethereum C++ client, tools and libraries |
-| 3943 | 239 | 93 | 1 year, 8 months ago | [SHADERed](https://github.com/dfranx/SHADERed)/249 | Lightweight, cross-platform & full-featured shader IDE |
-| 3935 | 802 | 51 | 9 years ago | [scribe](https://github.com/facebookarchive/scribe)/250 | Scribe is a server for aggregating log data streamed in real time from a large number of servers. |
-| 3925 | 2134 | 419 | a day ago | [gdal](https://github.com/OSGeo/gdal)/251 | GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats. |
-| 3902 | 287 | 232 | 15 days ago | [Natron](https://github.com/NatronGitHub/Natron)/252 | Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry. |
-| 3898 | 508 | 480 | a day ago | [Waybar](https://github.com/Alexays/Waybar)/253 | Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: |
-| 3894 | 717 | 62 | 6 days ago | [The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)/254 | Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat. |
-| 3880 | 547 | 55 | 3 years ago | [StarSpace](https://github.com/facebookresearch/StarSpace)/255 | Learning embeddings for classification, retrieval and ranking. |
-| 3861 | 628 | 190 | 28 days ago | [beast](https://github.com/boostorg/beast)/256 | HTTP and WebSocket built on Boost.Asio in C++11 |
-| 3843 | 421 | 427 | 4 months ago | [rtorrent](https://github.com/rakshasa/rtorrent)/257 | rTorrent BitTorrent client |
-| 3835 | 322 | 112 | 5 years ago | [Karabiner](https://github.com/tekezo/Karabiner)/258 | Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. |
-| 3833 | 422 | 308 | 4 months ago | [Rack](https://github.com/VCVRack/Rack)/259 | The virtual Eurorack studio |
-| 3829 | 238 | 18 | 2 years ago | [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline)/260 | A full-featured utility for managing Windows Subsystem for Linux (WSL) |
-| 3796 | 431 | 256 | 2 months ago | [range-v3](https://github.com/ericniebler/range-v3)/261 | Range library for C++14/17/20, basis for C++20's std::ranges |
-| 3747 | 1056 | 26 | 1 year, 3 months ago | [NoahGameFrame](https://github.com/ketoo/NoahGameFrame)/262 | A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal. |
-| 3737 | 404 | 20 | 9 months ago | [The-Forge](https://github.com/ConfettiFX/The-Forge)/263 | The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2 |
-| 3730 | 825 | 45 | 22 days ago | [open_spiel](https://github.com/deepmind/open_spiel)/264 | OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games. |
-| 3696 | 519 | 164 | 3 months ago | [ammo.js](https://github.com/kripken/ammo.js)/265 | Direct port of the Bullet physics engine to JavaScript using Emscripten |
-| 3682 | 1352 | 16 | 16 hours ago | [blynk-library](https://github.com/blynkkk/blynk-library)/266 | Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, ARM Mbed, etc. |
-| 3663 | 268 | 89 | a day ago | [musikcube](https://github.com/clangen/musikcube)/267 | a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++ |
-| 3648 | 698 | 285 | a month ago | [cereal](https://github.com/USCiLab/cereal)/268 | A C++11 library for serialization |
-| 3646 | 542 | 75 | a month ago | [cxxopts](https://github.com/jarro2783/cxxopts)/269 | Lightweight C++ command line option parser |
-| 3645 | 975 | 397 | 2 days ago | [flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc)/270 | WebRTC plugin for Flutter Mobile/Desktop/Web |
-| 3630 | 352 | 98 | 2 days ago | [ALVR](https://github.com/alvr-org/ALVR)/271 | Stream VR games from your PC to your headset via Wi-Fi |
-| 3619 | 882 | 1 | 4 years ago | [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)/272 | C++ Design Patterns |
-| 3608 | 645 | 142 | 9 days ago | [mindspore](https://github.com/mindspore-ai/mindspore)/273 | MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. |
-| 3570 | 131 | 28 | 8 months ago | [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI)/274 | No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11. |
-| 3566 | 201 | 299 | 6 days ago | [BespokeSynth](https://github.com/BespokeSynth/BespokeSynth)/275 | Software modular synth |
-| 3554 | 1438 | 535 | 2 months ago | [QtAV](https://github.com/wang-bin/QtAV)/276 | A cross-platform multimedia framework based on Qt and FFmpeg. 基于Qt和FFmpeg的跨平台高性能音视频播放框架. Recommand to use new sdk https://github.com/wang-bin/mdk-sdk |
-| 3551 | 403 | 54 | 23 hours ago | [tcmalloc](https://github.com/google/tcmalloc)/277 | None |
-| 3536 | 414 | 164 | 6 days ago | [sol2](https://github.com/ThePhD/sol2)/278 | Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation: |
-| 3518 | 1143 | 1734 | 16 days ago | [mixxx](https://github.com/mixxxdj/mixxx)/279 | Mixxx is Free DJ software that gives you everything you need to perform live mixes. |
-| 3485 | 164 | 0 | 12 days ago | [verona](https://github.com/microsoft/verona)/280 | Research programming language for concurrent ownership |
-| 3474 | 129 | 11 | 6 months ago | [nerd](https://github.com/NerdLang/nerd)/281 | 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries. |
-| 3465 | 897 | 282 | 2 days ago | [easyloggingpp](https://github.com/abumq/easyloggingpp)/282 | C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc. |
-| 3449 | 807 | 285 | 9 hours ago | [nano-node](https://github.com/nanocurrency/nano-node)/283 | Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ |
-| 3441 | 366 | 164 | 8 years ago | [appjs](https://github.com/appjs/appjs)/284 | (Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS |
-| 3438 | 242 | 170 | 8 days ago | [ccls](https://github.com/MaskRay/ccls)/285 | C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting |
-| 3427 | 360 | 241 | 20 days ago | [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)/286 | A tool for use with clang to analyze #includes in C and C++ source files |
-| 3424 | 220 | 5 | 5 days ago | [JoltPhysics](https://github.com/jrouwe/JoltPhysics)/287 | A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications. |
-| 3424 | 813 | 701 | a month ago | [mapnik](https://github.com/mapnik/mapnik)/288 | Mapnik is an open source toolkit for developing mapping applications |
-| 3412 | 184 | 120 | 11 months ago | [win-capture-audio](https://github.com/bozbez/win-capture-audio)/289 | An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming. |
-| 3406 | 532 | 122 | 22 hours ago | [oboe](https://github.com/google/oboe)/290 | Oboe is a C++ library that makes it easy to build high-performance audio apps on Android. |
-| 3399 | 699 | 61 | 3 months ago | [Dobby](https://github.com/jmpews/Dobby)/291 | a lightweight, multi-platform, multi-architecture hook framework. |
-| 3398 | 296 | 96 | 4 days ago | [love](https://github.com/love2d/love)/292 | LÖVE is an awesome 2D game framework for Lua. |
-| 3385 | 274 | 487 | 15 days ago | [WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK)/293 | The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet. |
-| 3382 | 352 | 12 | 2 years ago | [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent)/294 | None |
-| 3380 | 249 | 9 | 8 years ago | [lmctfy](https://github.com/google/lmctfy)/295 | lmctfy is the open source version of Google’s container stack, which provides Linux application containers. |
-| 3368 | 1006 | 7 | 4 years ago | [cplusplus-_Implementation_Of_Introduction_to_Algorithms](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)/296 | 《算法导论》第三版中算法的C++实现 |
-| 3363 | 1374 | 16 | 4 months ago | [flamingo](https://github.com/balloonwj/flamingo)/297 | flamingo 一款高性能轻量级开源即时通讯软件 |
-| 3356 | 261 | 41 | 9 days ago | [matplotplusplus](https://github.com/alandefreitas/matplotplusplus)/298 | Matplot++: A C++ Graphics Library for Data Visualization 📊🗾 |
-| 3338 | 1224 | 378 | 1 year, 3 months ago | [Torque3D](https://github.com/GarageGames/Torque3D)/299 | MIT Licensed Open Source version of Torque 3D from GarageGames |
-| 3317 | 578 | 44 | 4 years ago | [ELF](https://github.com/pytorch/ELF)/300 | ELF: a platform for game research with AlphaGoZero/AlphaZero reimplementation |
-| 4384 | 369 | 354 | 3 months ago | [incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx)/301 | Automatic PageSpeed optimization module for Nginx |
-| 4374 | 994 | 72 | 5 months ago | [urho3d](https://github.com/urho3d/urho3d)/302 | Game engine |
-| 4365 | 808 | 163 | 3 days ago | [UDPspeeder](https://github.com/wangyu-/UDPspeeder)/303 | A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP) |
-| 4356 | 668 | 160 | 3 months ago | [hyperscan](https://github.com/intel/hyperscan)/304 | High-performance regular expression matching library |
-| 4353 | 591 | 122 | 3 years ago | [nanogui](https://github.com/wjakob/nanogui)/305 | Minimalistic GUI library for OpenGL |
-| 4348 | 1636 | 3 | 7 years ago | [doom3.gpl](https://github.com/TTimo/doom3.gpl)/306 | Doom 3 GPL source release |
-| 4341 | 1454 | 361 | 6 days ago | [rippled](https://github.com/XRPLF/rippled)/307 | Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++ |
-| 4337 | 198 | 24 | 10 days ago | [pedalboard](https://github.com/spotify/pedalboard)/308 | 🎛 🔊 A Python library for working with audio. |
-| 4321 | 854 | 596 | 10 days ago | [nghttp2](https://github.com/nghttp2/nghttp2)/309 | nghttp2 - HTTP/2 C Library and tools |
-| 4314 | 480 | 158 | 10 months ago | [libsass](https://github.com/sass/libsass)/310 | A C/C++ implementation of a Sass compiler |
-| 4312 | 1326 | 19 | 1 year, 2 months ago | [handy](https://github.com/yedf2/handy)/311 | 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework |
-| 4309 | 900 | 68 | 2 days ago | [Detours](https://github.com/microsoft/Detours)/312 | Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form. |
-| 4308 | 868 | 128 | 6 months ago | [node-opencv](https://github.com/peterbraden/node-opencv)/313 | OpenCV Bindings for node.js |
-| 4298 | 890 | 995 | 22 hours ago | [endless-sky](https://github.com/endless-sky/endless-sky)/314 | Space exploration, trading, and combat game. |
-| 4288 | 372 | 90 | 7 days ago | [better-sqlite3](https://github.com/WiseLibs/better-sqlite3)/315 | The fastest and simplest library for SQLite3 in Node.js. |
-| 4287 | 1351 | 311 | 3 months ago | [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native)/316 | Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL |
-| 4245 | 1584 | 314 | 2 days ago | [yaml-cpp](https://github.com/jbeder/yaml-cpp)/317 | A YAML parser and emitter in C++ |
-| 4224 | 1762 | 166 | 1 year, 5 months ago | [slambook2](https://github.com/gaoxiang12/slambook2)/318 | edition 2 of the slambook |
-| 4223 | 311 | 75 | 2 months ago | [bloaty](https://github.com/google/bloaty)/319 | Bloaty McBloatface: a size profiler for binaries |
-| 4190 | 1283 | 100 | 1 year, 3 months ago | [Blackbone](https://github.com/DarthTon/Blackbone)/320 | Windows memory hacking library |
-| 4185 | 527 | 297 | 18 days ago | [arrayfire](https://github.com/arrayfire/arrayfire)/321 | ArrayFire: a general purpose GPU library. |
-| 4178 | 379 | 11 | 8 days ago | [libpag](https://github.com/Tencent/libpag)/322 | The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms. |
-| 4113 | 713 | 244 | 20 days ago | [FasterTransformer](https://github.com/NVIDIA/FasterTransformer)/323 | Transformer related optimization, including BERT, GPT |
-| 4091 | 1694 | 30 | 7 days ago | [cryptopp](https://github.com/weidai11/cryptopp)/324 | free C++ class library of cryptographic schemes |
-| 4074 | 171 | 140 | 2 days ago | [cppfront](https://github.com/hsutter/cppfront)/325 | A personal experimental C++ Syntax 2 -> Syntax 1 compiler |
-| 4067 | 1573 | 56 | 3 days ago | [QuantLib](https://github.com/lballabio/QuantLib)/326 | The QuantLib C++ library |
-| 4063 | 292 | 73 | 8 days ago | [Notepad3](https://github.com/rizonesoft/Notepad3)/327 | Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3: |
-| 4047 | 1027 | 367 | 5 days ago | [stk-code](https://github.com/supertuxkart/stk-code)/328 | The code base of supertuxkart |
-| 4043 | 1887 | 547 | 3 years ago | [xmr-stak](https://github.com/fireice-uk/xmr-stak)/329 | Free Monero RandomX Miner and unified CryptoNight miner |
-| 4043 | 726 | 279 | a month ago | [TNN](https://github.com/Tencent/TNN)/330 | TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework.  |
-| 4019 | 338 | 128 | 2 years ago | [LANDrop](https://github.com/LANDrop/LANDrop)/331 | Drop any files to any devices on your LAN. |
-| 4016 | 1020 | 54 | 3 years ago | [SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC)/332 | 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK |
-| 4011 | 293 | 22 | 18 hours ago | [ghostwriter](https://github.com/KDE/ghostwriter)/333 | Text editor for Markdown |
-| 4006 | 398 | 247 | 3 hours ago | [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)/334 | Flax Engine – multi-platform 3D game engine |
-| 4006 | 1713 | 3 | a month ago | [Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)/335 | Infrared remote library for Arduino: send and receive infrared signals with multiple protocols |
-| 4001 | 217 | 140 | 16 days ago | [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)/336 | Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages |
-| 3980 | 498 | 680 | 11 days ago | [opentoonz](https://github.com/opentoonz/opentoonz)/337 | OpenToonz - An open-source full-featured 2D animation creation software |
-| 3962 | 1433 | 506 | 2 days ago | [cocos-engine](https://github.com/cocos/cocos-engine)/338 | Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Millions of developers have built 2D / 3D experiences, from hardcore games to web instant entertainment. |
-| 3951 | 191 | 29 | 8 days ago | [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv)/339 | ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage! |
-| 3935 | 802 | 51 | 9 years ago | [scribe](https://github.com/facebookarchive/scribe)/340 | Scribe is a server for aggregating log data streamed in real time from a large number of servers. |
-| 3925 | 2134 | 419 | a day ago | [gdal](https://github.com/OSGeo/gdal)/341 | GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats. |
-| 3902 | 287 | 232 | 15 days ago | [Natron](https://github.com/NatronGitHub/Natron)/342 | Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry. |
-| 3894 | 717 | 62 | 6 days ago | [The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)/343 | Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat. |
-| 3880 | 547 | 55 | 3 years ago | [StarSpace](https://github.com/facebookresearch/StarSpace)/344 | Learning embeddings for classification, retrieval and ranking. |
-| 3863 | 1038 | 208 | 2 years ago | [matplotlib-cpp](https://github.com/lava/matplotlib-cpp)/345 | Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib |
-| 3840 | 95 | 8 | 2 years ago | [lux](https://github.com/LUX-Core/lux)/346 | LUX - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage) |
-| 3835 | 322 | 112 | 5 years ago | [Karabiner](https://github.com/tekezo/Karabiner)/347 | Karabiner (KeyRemap4MacBook) is a powerful utility for keyboard customization. |
-| 3833 | 422 | 308 | 4 months ago | [Rack](https://github.com/VCVRack/Rack)/348 | The virtual Eurorack studio |
-| 3829 | 238 | 18 | 2 years ago | [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline)/349 | A full-featured utility for managing Windows Subsystem for Linux (WSL) |
-| 3812 | 368 | 8 | 28 days ago | [magic_enum](https://github.com/Neargye/magic_enum)/350 | Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code |
-| 3799 | 559 | 79 | 16 hours ago | [LIEF](https://github.com/lief-project/LIEF)/351 | LIEF - Library to Instrument Executable Formats |
-| 3743 | 102 | 4 | 7 days ago | [Clipboard](https://github.com/Slackadays/Clipboard)/352 | 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager |
-| 3737 | 404 | 20 | 9 months ago | [The-Forge](https://github.com/ConfettiFX/The-Forge)/353 | The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2 |
-| 3730 | 825 | 45 | 22 days ago | [open_spiel](https://github.com/deepmind/open_spiel)/354 | OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games. |
-| 3728 | 364 | 505 | 8 hours ago | [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)/355 | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) |
-| 3720 | 233 | 139 | 1 year, 8 months ago | [FLIF](https://github.com/FLIF-hub/FLIF)/356 | Free Lossless Image Format |
-| 3694 | 280 | 30 | 17 days ago | [Bear](https://github.com/rizsotto/Bear)/357 | Bear is a tool that generates a compilation database for clang tooling. |
-| 3665 | 417 | 181 | 5 years ago | [ricochet](https://github.com/ricochet-im/ricochet)/358 | Anonymous peer-to-peer instant messaging |
-| 3661 | 7570 | 259 | a month ago | [i2cdevlib](https://github.com/jrowberg/i2cdevlib)/359 | I2C device library collection for AVR/Arduino or other C++-based MCUs |
-| 3650 | 333 | 66 | 7 months ago | [lyra](https://github.com/google/lyra)/360 | A Very Low-Bitrate Codec for Speech Compression |
-| 3646 | 542 | 75 | a month ago | [cxxopts](https://github.com/jarro2783/cxxopts)/361 | Lightweight C++ command line option parser |
-| 3630 | 352 | 98 | 2 days ago | [ALVR](https://github.com/alvr-org/ALVR)/362 | Stream VR games from your PC to your headset via Wi-Fi |
-| 3619 | 882 | 1 | 4 years ago | [design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)/363 | C++ Design Patterns |
-| 3612 | 1423 | 525 | 3 years ago | [pubsubclient](https://github.com/knolleary/pubsubclient)/364 | A client library for the Arduino Ethernet Shield that provides support for MQTT. |
-| 3608 | 645 | 142 | 9 days ago | [mindspore](https://github.com/mindspore-ai/mindspore)/365 | MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios. |
-| 3587 | 820 | 140 | 6 days ago | [braft](https://github.com/baidu/braft)/366 | An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems. |
-| 3562 | 1411 | 14 | 2 months ago | [obs-StreamFX](https://github.com/Xaymar/obs-StreamFX)/367 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here. |
-| 3560 | 509 | 107 | a month ago | [PlotJuggler](https://github.com/facontidavide/PlotJuggler)/368 | The Time Series Visualization Tool that you deserve. |
-| 3557 | 230 | 27 | 11 months ago | [node-fibers](https://github.com/laverdet/node-fibers)/369 | Fiber/coroutine support for v8 and node. |
-| 3553 | 207 | 36 | a month ago | [LibreSprite](https://github.com/LibreSprite/LibreSprite)/370 | Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite |
-| 3551 | 403 | 54 | 23 hours ago | [tcmalloc](https://github.com/google/tcmalloc)/371 | None |
-| 3536 | 414 | 164 | 6 days ago | [sol2](https://github.com/ThePhD/sol2)/372 | Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation: |
-| 3533 | 897 | 106 | 4 months ago | [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)/373 | The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects |
-| 3524 | 1273 | 78 | 5 months ago | [kalibr](https://github.com/ethz-asl/kalibr)/374 | The Kalibr visual-inertial calibration toolbox |
-| 3520 | 579 | 150 | 2 years ago | [lac](https://github.com/baidu/lac)/375 | 百度NLP：分词，词性标注，命名实体识别，词重要性 |
-| 3518 | 1143 | 1734 | 16 days ago | [mixxx](https://github.com/mixxxdj/mixxx)/376 | Mixxx is Free DJ software that gives you everything you need to perform live mixes. |
-| 3508 | 537 | 50 | 5 months ago | [Serial-Studio](https://github.com/Serial-Studio/Serial-Studio)/377 | Multi-purpose serial data visualization & processing program |
-| 3485 | 164 | 0 | 12 days ago | [verona](https://github.com/microsoft/verona)/378 | Research programming language for concurrent ownership |
-| 3476 | 336 | 566 | 3 months ago | [Revive](https://github.com/LibreVR/Revive)/379 | Play Oculus-exclusive games on the HTC Vive or Valve Index, scroll down for downloads and installation instructions. |
-| 3474 | 129 | 11 | 6 months ago | [nerd](https://github.com/NerdLang/nerd)/380 | 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries. |
-| 3461 | 658 | 62 | 11 months ago | [stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn)/381 | Proxy performance batch tester based on Shadowsocks(R) and V2Ray |
-| 3454 | 245 | 5 | 3 hours ago | [pineapple-src](https://github.com/pineappleEA/pineapple-src)/382 | yuzu Early Access source code |
-| 3453 | 1915 | 259 | 7 years ago | [source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013)/383 | The 2013 edition of the Source SDK |
-| 3451 | 685 | 91 | 3 months ago | [obs-websocket](https://github.com/obsproject/obs-websocket)/384 | Remote-control of OBS Studio through WebSocket |
-| 3438 | 242 | 170 | 8 days ago | [ccls](https://github.com/MaskRay/ccls)/385 | C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting |
-| 3431 | 506 | 39 | 4 days ago | [coost](https://github.com/idealvin/coost)/386 | A tiny boost library in C++11. |
-| 3424 | 813 | 701 | a month ago | [mapnik](https://github.com/mapnik/mapnik)/387 | Mapnik is an open source toolkit for developing mapping applications |
-| 3412 | 184 | 120 | 11 months ago | [win-capture-audio](https://github.com/bozbez/win-capture-audio)/388 | An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming. |
-| 3399 | 699 | 61 | 3 months ago | [Dobby](https://github.com/jmpews/Dobby)/389 | a lightweight, multi-platform, multi-architecture hook framework. |
-| 3392 | 568 | 78 | 2 years ago | [minigo](https://github.com/tensorflow/minigo)/390 | An open-source implementation of the AlphaGoZero algorithm |
-| 3385 | 274 | 487 | 15 days ago | [WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK)/391 | The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet. |
-| 3382 | 237 | 447 | a day ago | [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior)/392 | Taskwarrior - Command line Task Management |
-| 3382 | 352 | 12 | 2 years ago | [AmnesiaTheDarkDescent](https://github.com/FrictionalGames/AmnesiaTheDarkDescent)/393 | None |
-| 3380 | 249 | 9 | 8 years ago | [lmctfy](https://github.com/google/lmctfy)/394 | lmctfy is the open source version of Google’s container stack, which provides Linux application containers. |
-| 3375 | 713 | 272 | 11 months ago | [dynet](https://github.com/clab/dynet)/395 | DyNet: The Dynamic Neural Network Toolkit |
-| 3372 | 337 | 2 | 2 days ago | [msdfgen](https://github.com/Chlumsky/msdfgen)/396 | Multi-channel signed distance field generator |
-| 3368 | 1006 | 7 | 4 years ago | [cplusplus-_Implementation_Of_Introduction_to_Algorithms](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)/397 | 《算法导论》第三版中算法的C++实现 |
-| 3363 | 1374 | 16 | 4 months ago | [flamingo](https://github.com/balloonwj/flamingo)/398 | flamingo 一款高性能轻量级开源即时通讯软件 |
-| 3361 | 945 | 1 | 5 days ago | [Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)/399 | 课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB |
-| 3344 | 495 | 5 | a day ago | [reshade](https://github.com/crosire/reshade)/400 | A generic post-processing injector for games and video software. |
-| 1841 | 145 | 329 | 10 days ago | [wayfire](https://github.com/WayfireWM/wayfire)/401 | A modular and extensible wayland compositor |
-| 1834 | 241 | 58 | 8 months ago | [inspectrum](https://github.com/miek/inspectrum)/402 | Radio signal analyser |
-| 1832 | 381 | 90 | 9 months ago | [restbed](https://github.com/Corvusoft/restbed)/403 | Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++14 applications. |
-| 1830 | 466 | 186 | 2 days ago | [openal-soft](https://github.com/kcat/openal-soft)/404 | OpenAL Soft is a software implementation of the OpenAL 3D audio API. |
-| 1827 | 379 | 113 | 1 year, 17 days ago | [ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary)/405 | An Arduino library that adds one or more joysticks to the list of HID devices an Arduino Leonardo or Arduino Micro can support. |
-| 1824 | 231 | 139 | a day ago | [Play-](https://github.com/jpd002/Play-)/406 | Play! - PlayStation2 Emulator |
-| 1824 | 388 | 26 | 10 hours ago | [Simd](https://github.com/ermig1979/Simd)/407 | C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, VMX(Altivec) and VSX(Power7) for PowerPC, NEON for ARM. |
-| 1818 | 597 | 264 | 4 years ago | [iisnode](https://github.com/tjanczuk/iisnode)/408 | Hosting node.js applications in IIS on Windows |
-| 1816 | 217 | 238 | 15 days ago | [hunspell](https://github.com/hunspell/hunspell)/409 | The most popular spellchecking library. |
-| 1814 | 374 | 140 | a month ago | [libtins](https://github.com/mfontanini/libtins)/410 | High-level, multiplatform C++ network packet sniffing and crafting library.  |
-| 1813 | 267 | 597 | a month ago | [toggldesktop](https://github.com/toggl-open-source/toggldesktop)/411 | Toggl Desktop app for Windows, Mac and Linux |
-| 1813 | 262 | 3 | 21 days ago | [xbyak](https://github.com/herumi/xbyak)/412 | a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2/AVX-512 by C++ header |
-| 1813 | 257 | 0 | 1 year, 8 months ago | [ALVR](https://github.com/polygraphene/ALVR)/413 | ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset. |
-| 1810 | 71 | 58 | 2 years ago | [DeskGap](https://github.com/branchseer/DeskGap)/414 | A cross-platform desktop app framework based on Node.js and the system webview |
-| 1802 | 269 | 2 | 2 days ago | [OpenCat](https://github.com/PetoiCamp/OpenCat)/415 | An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, and research. |
-| 1801 | 308 | 149 | 1 year, 5 months ago | [ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard)/416 | Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible) |
-| 1794 | 248 | 5 | 5 years ago | [CppCon2016](https://github.com/CppCon/CppCon2016)/417 | Slides and other materials from CppCon 2016 |
-| 1788 | 156 | 13 | 5 hours ago | [SpartanEngine](https://github.com/PanosK92/SpartanEngine)/418 | Game engine with an emphasis on architectural quality and performance |
-| 1781 | 224 | 40 | 29 days ago | [xsimd](https://github.com/xtensor-stack/xsimd)/419 | C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE)) |
-| 1777 | 166 | 30 | 25 days ago | [CV-CUDA](https://github.com/CVCUDA/CV-CUDA)/420 | CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision. |
-| 1775 | 393 | 78 | 6 days ago | [chrono](https://github.com/projectchrono/chrono)/421 | High-performance C++ library for multiphysics and multibody dynamics simulations |
-| 1771 | 242 | 18 | 9 months ago | [lucidgloves](https://github.com/LucidVR/lucidgloves)/422 | Arduino/ESP32 based DIY VR Haptic gloves. Compatible with SteamVR via OpenGloves. |
-| 1770 | 249 | 22 | 9 days ago | [Ender3V2S1](https://github.com/mriscoc/Ender3V2S1)/423 | This is optimized firmware for Ender3 V2/S1 3D printers. |
-| 1766 | 317 | 0 | 6 years ago | [CppCon2015](https://github.com/CppCon/CppCon2015)/424 | Presentation Materials from CppCon 2015 |
-| 1761 | 295 | 16 | 13 hours ago | [DIE-engine](https://github.com/horsicq/DIE-engine)/425 | DIE engine |
-| 1758 | 668 | 148 | 4 years ago | [Yolo_mark](https://github.com/AlexeyAB/Yolo_mark)/426 | GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2 |
-| 1752 | 383 | 20 | 5 years ago | [sphinx](https://github.com/sphinxsearch/sphinx)/427 | Sphinx search server |
-| 1750 | 673 | 1 | 1 year, 9 months ago | [kaggle-CrowdFlower](https://github.com/ChenglongChen/kaggle-CrowdFlower)/428 | 1st Place Solution for CrowdFlower Product Search Results Relevance Competition on Kaggle. |
-| 1749 | 422 | 9 | 1 year, 8 months ago | [GAAS](https://github.com/generalized-intelligence/GAAS)/429 | GAAS is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAAS stands for Generalized Autonomy Aviation System.  |
-| 1743 | 545 | 5 | 3 years ago | [eigen-git-mirror](https://github.com/eigenteam/eigen-git-mirror)/430 | THIS MIRROR IS DEPRECATED -- New url: https://gitlab.com/libeigen/eigen |
-| 1738 | 405 | 106 | 12 days ago | [unrealcv](https://github.com/unrealcv/unrealcv)/431 | UnrealCV: Connecting Computer Vision to Unreal Engine |
-| 1736 | 253 | 36 | 5 years ago | [artistic-videos](https://github.com/manuelruder/artistic-videos)/432 | Torch implementation for the paper "Artistic style transfer for videos" |
-| 1736 | 220 | 3 | 11 days ago | [PEGTL](https://github.com/taocpp/PEGTL)/433 | Parsing Expression Grammar Template Library |
-| 1735 | 930 | 11 | 2 months ago | [recipes](https://github.com/chenshuo/recipes)/434 | Some code snippets for sharing |
-| 1727 | 341 | 0 | 5 years ago | [acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook)/435 | 《挑战程序设计竞赛》习题册攻略 |
-| 1723 | 137 | 8 | a month ago | [GodotSteam](https://github.com/CoaguCo-Industries/GodotSteam)/436 | An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine. |
-| 1720 | 443 | 535 | 8 months ago | [stepmania](https://github.com/stepmania/stepmania)/437 | Advanced rhythm game for Windows, Linux and OS X. Designed for both home and arcade use. |
-| 1718 | 532 | 227 | 2 months ago | [arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets)/438 | arduinoWebSockets |
-| 1716 | 1057 | 82 | 6 years ago | [Arduino-PID-Library](https://github.com/br3ttb/Arduino-PID-Library)/439 | None |
-| 1704 | 290 | 20 | 6 years ago | [libquic](https://github.com/devsisters/libquic)/440 | QUIC, a multiplexed stream transport over UDP |
-| 1699 | 168 | 12 | 5 months ago | [Logstalgia](https://github.com/acaudwell/Logstalgia)/441 | replay or stream website access logs as a retro arcade game |
-| 1692 | 272 | 243 | 23 hours ago | [otter-browser](https://github.com/OtterBrowser/otter-browser)/442 | Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5 |
-| 1691 | 219 | 292 | 1 year, 2 months ago | [gitahead](https://github.com/gitahead/gitahead)/443 | Understand your Git history! |
-| 1685 | 46 | 29 | 1 year, 5 months ago | [nvui](https://github.com/rohit-px2/nvui)/444 | A modern frontend for Neovim. |
-| 1683 | 453 | 288 | 11 hours ago | [verilator](https://github.com/verilator/verilator)/445 | Verilator open-source SystemVerilog simulator and lint system |
-| 1683 | 133 | 13 | 8 months ago | [oomd](https://github.com/facebookincubator/oomd)/446 | A userspace out-of-memory killer |
-| 1678 | 691 | 107 | 4 months ago | [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)/447 | 3D LIDAR-based Graph SLAM |
-| 1675 | 230 | 42 | 24 days ago | [nppPluginManager](https://github.com/bruderstein/nppPluginManager)/448 | Notepad++ Plugin Manager |
-| 1670 | 1585 | 31 | 3 years ago | [Torque2D](https://github.com/GarageGames/Torque2D)/449 | MIT Licensed Open Source version of Torque 2D game engine from GarageGames |
-| 1655 | 290 | 1 | 4 years ago | [nnvm](https://github.com/dmlc/nnvm)/450 | None |
-| 1652 | 419 | 48 | 3 days ago | [v4l2rtspserver](https://github.com/mpromonet/v4l2rtspserver)/451 | RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9 |
-| 1651 | 586 | 78 | 2 years ago | [minicap](https://github.com/openstf/minicap)/452 | Stream real-time screen capture data out of Android devices. |
-| 1648 | 352 | 41 | 15 days ago | [tinygltf](https://github.com/syoyo/tinygltf)/453 | Header only C++11 tiny glTF 2.0 library |
-| 1646 | 631 | 101 | 2 months ago | [octomap](https://github.com/OctoMap/octomap)/454 | An Efficient Probabilistic 3D Mapping Framework Based on Octrees. Contains the main OctoMap library, the viewer octovis, and dynamicEDT3D. |
-| 1646 | 596 | 8 | 11 days ago | [FAST_LIO](https://github.com/hku-mars/FAST_LIO)/455 | A computationally efficient and robust LiDAR-inertial odometry (LIO) package |
-| 1636 | 585 | 2 | 8 months ago | [ElasticFusion](https://github.com/mp3guy/ElasticFusion)/456 | Real-time dense visual SLAM system |
-| 1636 | 418 | 51 | 3 years ago | [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)/457 | GLSL optimizer based on Mesa's GLSL compiler. Used to be used in Unity for mobile shader optimization. |
-| 1634 | 282 | 111 | 3 years ago | [s2client-api](https://github.com/Blizzard/s2client-api)/458 | StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API. |
-| 1631 | 564 | 32 | 15 days ago | [c-ares](https://github.com/c-ares/c-ares)/459 | A C library for asynchronous DNS requests |
-| 1624 | 165 | 115 | 26 days ago | [neovim-qt](https://github.com/equalsraf/neovim-qt)/460 | Neovim client library and GUI, in Qt5. |
-| 1616 | 175 | 4 | 6 years ago | [libchaos](https://github.com/maciejczyzewski/libchaos)/461 | Advanced library for randomization, hashing and statistical analysis (devoted to chaos machines). :microscope: |
-| 1616 | 784 | 380 | 4 hours ago | [trafficserver](https://github.com/apache/trafficserver)/462 | Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server. |
-| 1614 | 182 | 437 | 3 months ago | [Textractor](https://github.com/Artikash/Textractor)/463 | Extracts text from video games and visual novels. Highly extensible. |
-| 1612 | 141 | 17 | 3 months ago | [diff-pdf](https://github.com/vslavik/diff-pdf)/464 | A simple tool for visually comparing two PDF files |
-| 1605 | 120 | 43 | 11 months ago | [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP)/465 | A high performance anime upscaler |
-| 1599 | 70 | 182 | a day ago | [memgraph](https://github.com/memgraph/memgraph)/466 | Open-source graph database, built for real-time streaming data, compatible with Neo4j. |
-| 1594 | 386 | 212 | 4 years ago | [grive](https://github.com/Grive/grive)/467 | an open source Linux client for Google Drive |
-| 1591 | 102 | 76 | 28 days ago | [antimicrox](https://github.com/AntiMicroX/antimicrox)/468 | Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support. |
-| 1588 | 182 | 22 | 9 years ago | [node-qt](https://github.com/arturadib/node-qt)/469 | C++ Qt bindings for Node.js |
-| 1587 | 94 | 10 | 3 months ago | [two](https://github.com/hugoam/two)/470 | c++ toolkit for rapid development of live graphical apps and games |
-| 1587 | 334 | 79 | 13 hours ago | [cinatra](https://github.com/qicosmos/cinatra)/471 | modern c++(c++20), cross-platform, header-only, easy to use http framework |
-| 1584 | 239 | 78 | 3 months ago | [loguru](https://github.com/emilk/loguru)/472 | A lightweight C++ logging library |
-| 1583 | 708 | 81 | 2 months ago | [rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)/473 | FPS Unlocker for Roblox |
-| 1577 | 936 | 63 | 2 months ago | [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)/474 | Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs |
-| 1576 | 202 | 0 | a month ago | [VirtualSMC](https://github.com/acidanthera/VirtualSMC)/475 | SMC emulator layer |
-| 1572 | 171 | 216 | 5 hours ago | [TileDB](https://github.com/TileDB-Inc/TileDB)/476 | The Universal Storage Engine |
-| 1571 | 258 | 465 | 23 hours ago | [RetroShare](https://github.com/RetroShare/RetroShare)/477 | RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform. |
-| 1567 | 195 | 49 | 1 year, 1 month ago | [imnodes](https://github.com/Nelarius/imnodes)/478 | A small, dependency-free node editor for dear imgui |
-| 1564 | 440 | 18 | 2 months ago | [ESP3D](https://github.com/luc-github/ESP3D)/479 | FW for ESP8266/ESP8285/ESP32 used with 3D printer |
-| 1562 | 180 | 18 | 3 years ago | [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)/480 | AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. Since the image processing is done in 99% on GPU  the program runs very fast and all the parameters can be changed in real time. AB was made to be a new alternative to known gimp plugin called Insane Bump.  |
-| 1562 | 100 | 2 | 11 months ago | [geometrize](https://github.com/Tw1ddle/geometrize)/481 | :white_square_button: Geometrize is a desktop app that geometrizes images into geometric primitives |
-| 1553 | 337 | 16 | 3 years ago | [baiduCDP](https://github.com/cool2528/baiduCDP)/482 | 百度网盘下载神器 |
-| 1541 | 263 | 89 | 6 days ago | [poedit](https://github.com/vslavik/poedit)/483 | Translations editor for Mac, Windows and Unix |
-| 1538 | 304 | 223 | 2 years ago | [scantailor](https://github.com/scantailor/scantailor)/484 | None |
-| 1538 | 383 | 274 | 12 days ago | [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)/485 | A color management framework for visual effects and animation. |
-| 1537 | 147 | 17 | 1 year, 7 days ago | [Acid](https://github.com/EQMG/Acid)/486 | A high speed C++17 Vulkan game engine |
-| 1534 | 196 | 98 | 4 months ago | [hana](https://github.com/boostorg/hana)/487 | Your standard library for metaprogramming |
-| 1534 | 139 | 7 | 8 days ago | [perf-ninja](https://github.com/dendibakh/perf-ninja)/488 | This is an online course where you can learn and master the skill of low-level performance analysis and tuning. |
-| 1532 | 348 | 2 | 11 months ago | [r3live](https://github.com/hku-mars/r3live)/489 | A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package |
-| 1531 | 205 | 51 | 1 year, 5 months ago | [node-images](https://github.com/zhangyuanwei/node-images)/490 | Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Nodejs |
-| 1524 | 164 | 33 | 3 months ago | [cppast](https://github.com/foonathan/cppast)/491 | Library to parse and work with the C++ AST |
-| 1524 | 479 | 16 | a month ago | [JQTools](https://github.com/188080501/JQTools)/492 | 基于Qt开发的小工具包 |
-| 1518 | 362 | 99 | 8 months ago | [rpclib](https://github.com/rpclib/rpclib)/493 | rpclib is a modern C++ msgpack-RPC server and client library |
-| 1517 | 316 | 19 | 5 hours ago | [bde](https://github.com/bloomberg/bde)/494 | Basic Development Environment - a set of foundational C++ libraries used at Bloomberg. |
-| 1508 | 101 | 13 | 2 years ago | [toy](https://github.com/hugoam/toy)/495 | the thin c++ game engine |
-| 1501 | 356 | 72 | 15 days ago | [SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration)/496 | OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving |
-| 1500 | 149 | 42 | 4 months ago | [mio](https://github.com/mandreyel/mio)/497 | Cross-platform C++11 header-only library for memory mapped file IO |
-| 1499 | 277 | 95 | 20 hours ago | [MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX)/498 | MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers. |
-| 1495 | 230 | 19 | a month ago | [greenlet](https://github.com/python-greenlet/greenlet)/499 | Lightweight in-process concurrent programming |
-| 1493 | 653 | 30 | 3 years ago | [libQtShadowsocks](https://github.com/shadowsocks/libQtShadowsocks)/500 | A lightweight and ultra-fast shadowsocks library written in C++14 with Qt framework |
-| 2577 | 692 | 105 | 2 months ago | [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)/501 | Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui |
-| 2562 | 1019 | 50 | 8 years ago | [aoapc-bac2nd](https://github.com/aoapc-book/aoapc-bac2nd)/502 | Source codes for book <<<BeginningAlgorithmContests>> Second edition |
-| 2557 | 993 | 33 | 2 years ago | [DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms)/503 | The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too! |
-| 2550 | 385 | 10 | a day ago | [pe-sieve](https://github.com/hasherezade/pe-sieve)/504 | Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches). |
-| 2547 | 687 | 582 | 3 hours ago | [velox](https://github.com/facebookincubator/velox)/505 | A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. |
-| 2546 | 514 | 3 | 2 years ago | [youtube](https://github.com/Errichto/youtube)/506 | codes for my streams and YT videos |
-| 2544 | 1026 | 77 | 3 months ago | [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)/507 | LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping |
-| 2540 | 1369 | 20 | 6 months ago | [rfid](https://github.com/miguelbalboa/rfid)/508 | Arduino RFID Library for MFRC522 |
-| 2535 | 916 | 49 | 5 years ago | [ogl](https://github.com/opengl-tutorials/ogl)/509 | None |
-| 2528 | 607 | 206 | 8 months ago | [mailcore2](https://github.com/MailCore/mailcore2)/510 | MailCore 2 provide a simple and asynchronous API to work with e-mail protocols IMAP, POP and SMTP. The API has been redesigned from ground up. |
-| 2528 | 365 | 174 | 3 years ago | [Aegisub](https://github.com/Aegisub/Aegisub)/511 | Cross-platform advanced subtitle editor |
-| 2528 | 554 | 95 | 10 months ago | [phpdesktop](https://github.com/cztomczak/phpdesktop)/512 | Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite |
-| 2526 | 711 | 939 | 5 hours ago | [desktop](https://github.com/nextcloud/desktop)/513 | 💻 Desktop sync client for Nextcloud |
-| 2521 | 384 | 14 | 4 months ago | [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge)/514 | I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result |
-| 2517 | 661 | 71 | 2 years ago | [AnyQ](https://github.com/baidu/AnyQ)/515 | FAQ-based Question Answering System |
-| 2517 | 595 | 48 | 6 months ago | [openrasp](https://github.com/baidu/openrasp)/516 | 🔥Open source RASP solution |
-| 2509 | 749 | 17 | 21 days ago | [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary)/517 | The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies. |
-| 2508 | 348 | 115 | 1 year, 2 months ago | [mcsema](https://github.com/lifting-bits/mcsema)/518 | Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode |
-| 2501 | 710 | 9 | a month ago | [NDK_OpenGLES_3_0](https://github.com/githubhaohao/NDK_OpenGLES_3_0)/519 | Android OpenGL ES 3.0 从入门到精通系统性学习教程 |
-| 2496 | 34 | 3 | 9 months ago | [TypeRunner](https://github.com/marcj/TypeRunner)/520 | High-performance TypeScript compiler |
-| 2490 | 359 | 61 | 5 days ago | [hyperion.ng](https://github.com/hyperion-project/hyperion.ng)/521 | The successor to Hyperion aka Hyperion Next Generation |
-| 2488 | 217 | 8 | 8 months ago | [dbg-macro](https://github.com/sharkdp/dbg-macro)/522 | A dbg(…) macro for C++ |
-| 2486 | 221 | 76 | 1 year, 2 months ago | [WAVM](https://github.com/WAVM/WAVM)/523 | WebAssembly Virtual Machine |
-| 2485 | 794 | 56 | 4 years ago | [Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers)/524 | 《C++ Primer》第五版中文版习题答案 |
-| 2479 | 520 | 144 | 13 days ago | [onnx-tensorrt](https://github.com/onnx/onnx-tensorrt)/525 | ONNX-TensorRT: TensorRT backend for ONNX |
-| 2472 | 560 | 94 | 9 days ago | [deepdetect](https://github.com/jolibrain/deepdetect)/526 | Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE |
-| 2468 | 1234 | 242 | 8 years ago | [lsd_slam](https://github.com/tum-vision/lsd_slam)/527 | LSD-SLAM |
-| 2464 | 335 | 42 | 1 year, 5 months ago | [B23Downloader](https://github.com/vooidzero/B23Downloader)/528 | （已长久停更） |
-| 2462 | 504 | 400 | 5 days ago | [essentia](https://github.com/MTG/essentia)/529 | C++ library for audio and music analysis, description and synthesis, including Python bindings |
-| 2461 | 287 | 105 | a month ago | [osxcross](https://github.com/tpoechtrager/osxcross)/530 | Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux) |
-| 2460 | 583 | 47 | 4 years ago | [phxsql](https://github.com/Tencent/phxsql)/531 | A high availability MySQL cluster that guarantees data consistency between a master and slaves. |
-| 2445 | 498 | 0 | 17 hours ago | [0ad](https://github.com/0ad/0ad)/532 | Git mirror of the 0 A.D. source code (http://trac.wildfiregames.com/browser) |
-| 2445 | 2085 | 410 | 2 days ago | [rathena](https://github.com/rathena/rathena)/533 | rAthena is an open-source cross-platform MMORPG server. |
-| 2429 | 223 | 6 | 2 months ago | [blinker-library](https://github.com/blinker-iot/blinker-library)/534 | An IoT Solution,Blinker library for embedded hardware. Works with Arduino, ESP8266, ESP32. |
-| 2427 | 686 | 59 | 5 months ago | [nodeeditor](https://github.com/paceholder/nodeeditor)/535 | Qt Node Editor. Dataflow programming framework |
-| 2425 | 161 | 25 | 4 years ago | [MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher)/536 | A Fractal Physics Game |
-| 2424 | 1368 | 15 | 2 months ago | [ODrive](https://github.com/odriverobotics/ODrive)/537 | High performance motor control |
-| 2423 | 238 | 106 | 2 months ago | [basis_universal](https://github.com/BinomialLLC/basis_universal)/538 | Basis Universal GPU Texture Codec |
-| 2420 | 432 | 248 | a day ago | [xray-16](https://github.com/OpenXRay/xray-16)/539 | Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;) |
-| 2415 | 460 | 145 | a month ago | [apitrace](https://github.com/apitrace/apitrace)/540 | Tools for tracing OpenGL, Direct3D, and other graphics APIs |
-| 2415 | 383 | 175 | 15 days ago | [cef](https://github.com/chromiumembedded/cef)/541 | Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications. |
-| 2398 | 142 | 1 | 9 hours ago | [MTuner](https://github.com/milostosic/MTuner)/542 | MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms |
-| 2387 | 695 | 22 | 1 year, 15 days ago | [protobuf-c](https://github.com/protobuf-c/protobuf-c)/543 | Protocol Buffers implementation in C |
-| 2384 | 150 | 55 | a month ago | [Checkpoint](https://github.com/BernardoGiordano/Checkpoint)/544 | Fast and simple homebrew save manager for 3DS and Switch. |
-| 2381 | 134 | 25 | 12 hours ago | [cppinsights](https://github.com/andreasfertig/cppinsights)/545 | C++ Insights - See your source code with the eyes of a compiler |
-| 2378 | 317 | 84 | 3 months ago | [edb-debugger](https://github.com/eteran/edb-debugger)/546 | edb is a cross-platform AArch32/x86/x86-64 debugger. |
-| 2371 | 348 | 207 | 7 years ago | [Polycode](https://github.com/ivansafrin/Polycode)/547 | Polycode is a cross-platform framework for creative code. |
-| 2349 | 695 | 0 | 20 days ago | [breakpad](https://github.com/google/breakpad)/548 | Mirror of Google Breakpad project |
-| 2339 | 618 | 27 | 2 years ago | [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)/549 | CMake Cookbook recipes. |
-| 2338 | 470 | 17 | 1 year, 8 months ago | [tinytetris](https://github.com/taylorconor/tinytetris)/550 | 80x23 terminal tetris! |
-| 2336 | 504 | 30 | a month ago | [DirectXTK](https://github.com/microsoft/DirectXTK)/551 | The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++ |
-| 2334 | 655 | 4 | a month ago | [eurorack](https://github.com/pichenettes/eurorack)/552 | Eurorack modules |
-| 2331 | 533 | 81 | 17 days ago | [webrtc-streamer](https://github.com/mpromonet/webrtc-streamer)/553 | WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture |
-| 2326 | 599 | 0 | 23 days ago | [QtExamples](https://github.com/XMuli/QtExamples)/554 | Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解；DTK 重绘控件方式的框架解析；IDE 技巧之 Visual Studio / Qt Creator；此为系列文章教程 |
-| 2323 | 590 | 33 | 7 days ago | [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)/555 | PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK and PF_RING. |
-| 2314 | 802 | 7 | a month ago | [omaha](https://github.com/google/omaha)/556 | Google Update for Windows |
-| 2311 | 168 | 43 | 30 days ago | [immer](https://github.com/arximboldi/immer)/557 | Postmodern immutable and persistent data structures for C++ — value semantics at scale |
-| 2309 | 613 | 313 | a month ago | [nccl](https://github.com/NVIDIA/nccl)/558 | Optimized primitives for collective multi-GPU communication |
-| 2303 | 114 | 11 | 8 years ago | [dex-ui](https://github.com/seenaburns/dex-ui)/559 | A science fiction desktop running on Linux. Awesome. |
-| 2302 | 644 | 52 | 9 years ago | [firesheep](https://github.com/codebutler/firesheep)/560 | A Firefox extension that demonstrates HTTP session hijacking attacks. |
-| 2301 | 289 | 506 | 1 year, 1 month ago | [ssr](https://github.com/MaartenBaert/ssr)/561 | SimpleScreenRecorder, a screen recorder for Linux |
-| 2301 | 472 | 129 | 18 hours ago | [iverilog](https://github.com/steveicarus/iverilog)/562 | Icarus Verilog |
-| 2299 | 225 | 9 | 5 months ago | [ViGEmBus](https://github.com/ViGEm/ViGEmBus)/563 | Windows kernel-mode driver emulating well-known USB game controllers. |
-| 2298 | 590 | 111 | 5 days ago | [node-addon-examples](https://github.com/nodejs/node-addon-examples)/564 | Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html |
-| 2298 | 116 | 12 | 1 year, 3 months ago | [sqlcheck](https://github.com/jarulraj/sqlcheck)/565 | Automatically identify anti-patterns in SQL queries |
-| 2295 | 526 | 0 | 2 years ago | [LeetCode](https://github.com/Jack-Cherish/LeetCode)/566 | :monkey:LeetCode、剑指Offer刷题笔记（C/C++、Python3实现） |
-| 2288 | 188 | 7 | 5 days ago | [FluidX3D](https://github.com/ProjectPhysX/FluidX3D)/567 | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL. |
-| 2287 | 346 | 20 | 4 months ago | [kys-cpp](https://github.com/scarsty/kys-cpp)/568 | 《金庸群侠传》c++复刻版，已完工 |
-| 2286 | 631 | 80 | a month ago | [klee](https://github.com/klee/klee)/569 | KLEE Symbolic Execution Engine |
-| 2285 | 519 | 0 | 4 years ago | [PKUCourse](https://github.com/tongtzeho/PKUCourse)/570 | 北大计算机课程大作业 |
-| 2285 | 79 | 18 | a month ago | [NymphCast](https://github.com/MayaPosch/NymphCast)/571 | Audio and video casting system with support for custom applications. |
-| 2283 | 298 | 10 | 8 days ago | [llvm-tutor](https://github.com/banach-space/llvm-tutor)/572 | A collection of out-of-tree LLVM passes for teaching and learning |
-| 2280 | 131 | 35 | 9 months ago | [Kyty](https://github.com/InoriRus/Kyty)/573 | PS4 & PS5 emulator |
-| 2276 | 226 | 7 | 2 days ago | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)/574 | Intel Bluetooth Kernel Extensions for macOS |
-| 2275 | 234 | 44 | 2 months ago | [overgrowth](https://github.com/WolfireGames/overgrowth)/575 | Open Source codebase of the game Overgrowth by Wolfire Games LLC |
-| 2271 | 216 | 8 | 1 year, 2 months ago | [learning-v8](https://github.com/danbev/learning-v8)/576 | Project for learning V8 internals |
-| 2269 | 321 | 449 | a day ago | [texstudio](https://github.com/texstudio-org/texstudio)/577 | TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible. |
-| 2262 | 328 | 25 | 1 year, 9 months ago | [TengineKit](https://github.com/OAID/TengineKit)/578 | TengineKit - Free, Fast, Easy, Real-Time Face Detection & Face Landmarks & Face Attributes & Hand Detection & Hand Landmarks & Body Detection & Body Landmarks &  Iris Landmarks & Yolov5 SDK On Mobile. |
-| 2260 | 573 | 240 | 2 years ago | [Heimdall](https://github.com/Benjamin-Dobell/Heimdall)/579 | Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices. |
-| 2257 | 212 | 0 | 6 hours ago | [kdenlive](https://github.com/KDE/kdenlive)/580 | Free and open source video editor, based on MLT Framework and KDE Frameworks 5 |
-| 2257 | 401 | 35 | 9 hours ago | [jfx](https://github.com/openjdk/jfx)/581 | JavaFX mainline development |
-| 2255 | 294 | 368 | a day ago | [ispc](https://github.com/ispc/ispc)/582 | Intel® Implicit SPMD Program Compiler |
-| 2254 | 196 | 99 | 27 days ago | [libcudacxx](https://github.com/NVIDIA/libcudacxx)/583 | The C++ Standard Library for your entire system. |
-| 2254 | 177 | 149 | 4 days ago | [treesheets](https://github.com/aardappel/treesheets)/584 | TreeSheets : Free Form Data Organizer (see strlen.com/treesheets) |
-| 2253 | 102 | 2 | 4 years ago | [tinykaboom](https://github.com/ssloy/tinykaboom)/585 | A brief computer graphics / rendering course |
-| 2242 | 327 | 22 | a day ago | [sqlpp11](https://github.com/rbock/sqlpp11)/586 | A type safe SQL template library for C++ |
-| 2240 | 123 | 236 | 4 hours ago | [Beef](https://github.com/beefytech/Beef)/587 | Beef Programming Language |
-| 2237 | 124 | 2 | 4 hours ago | [igl](https://github.com/facebook/igl)/588 | Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). |
-| 2234 | 254 | 30 | a month ago | [cpu_features](https://github.com/google/cpu_features)/589 | A cross platform C99 library to get cpu features at runtime. |
-| 2231 | 200 | 129 | 5 years ago | [helm](https://github.com/mtytel/helm)/590 | Helm - a free polyphonic synth with lots of modulation |
-| 2230 | 632 | 0 | a day ago | [code-library](https://github.com/ShahjalalShohag/code-library)/591 | Templates, algorithms and data structures implemented and collected for programming contests. |
-| 2224 | 317 | 29 | 1 year, 5 months ago | [taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)/592 | High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018) |
-| 2222 | 301 | 31 | 10 months ago | [ELL](https://github.com/microsoft/ELL)/593 | Embedded Learning Library |
-| 2209 | 295 | 181 | 3 hours ago | [faust](https://github.com/grame-cncm/faust)/594 | Functional programming language for signal processing and sound synthesis |
-| 2196 | 731 | 371 | 4 days ago | [rtabmap](https://github.com/introlab/rtabmap)/595 | RTAB-Map library and standalone application |
-| 2185 | 371 | 557 | 2 days ago | [FastDeploy](https://github.com/PaddlePaddle/FastDeploy)/596 | ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support. |
-| 2184 | 196 | 205 | 15 days ago | [leocad](https://github.com/leozide/leocad)/597 | A CAD application for creating virtual LEGO models |
-| 2180 | 277 | 0 | 8 hours ago | [yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline)/598 | None |
-| 2179 | 583 | 54 | a month ago | [kactl](https://github.com/kth-competitive-programming/kactl)/599 | KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp) |
-| 2173 | 304 | 505 | a day ago | [fheroes2](https://github.com/ihhub/fheroes2)/600 | fheroes2 is a recreation of Heroes of Might and Magic II game engine. |
-| 2404 | 174 | 19 | 1 year, 1 month ago | [bolt](https://github.com/dblalock/bolt)/601 | 10x faster matrix and vector operations |
-| 2398 | 142 | 1 | 9 hours ago | [MTuner](https://github.com/milostosic/MTuner)/602 | MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4 and 3, Android and other platforms |
-| 2387 | 695 | 22 | 1 year, 15 days ago | [protobuf-c](https://github.com/protobuf-c/protobuf-c)/603 | Protocol Buffers implementation in C |
-| 2385 | 398 | 203 | 2 years ago | [tippecanoe](https://github.com/mapbox/tippecanoe)/604 | Build vector tilesets from large collections of GeoJSON features. |
-| 2384 | 150 | 55 | a month ago | [Checkpoint](https://github.com/BernardoGiordano/Checkpoint)/605 | Fast and simple homebrew save manager for 3DS and Switch. |
-| 2381 | 134 | 25 | 12 hours ago | [cppinsights](https://github.com/andreasfertig/cppinsights)/606 | C++ Insights - See your source code with the eyes of a compiler |
-| 2371 | 348 | 207 | 7 years ago | [Polycode](https://github.com/ivansafrin/Polycode)/607 | Polycode is a cross-platform framework for creative code. |
-| 2365 | 493 | 7 | a month ago | [wondertrader](https://github.com/wondertrader/wondertrader)/608 | WonderTrader——量化研发交易一站式框架 |
-| 2362 | 726 | 230 | 8 days ago | [mysql-5.6](https://github.com/facebook/mysql-5.6)/609 | Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks. |
-| 2360 | 399 | 112 | a month ago | [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)/610 | OBS複数サイト同時配信プラグイン |
-| 2354 | 1885 | 263 | 1 year, 5 months ago | [CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)/611 | This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series. |
-| 2353 | 396 | 0 | 10 months ago | [cpp-learning](https://github.com/chengxumiaodaren/cpp-learning)/612 | None |
-| 2349 | 695 | 0 | 20 days ago | [breakpad](https://github.com/google/breakpad)/613 | Mirror of Google Breakpad project |
-| 2346 | 340 | 50 | 1 year, 4 months ago | [libcds](https://github.com/khizmax/libcds)/614 | A C++ library of Concurrent Data Structures |
-| 2339 | 618 | 27 | 2 years ago | [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)/615 | CMake Cookbook recipes. |
-| 2338 | 470 | 17 | 1 year, 8 months ago | [tinytetris](https://github.com/taylorconor/tinytetris)/616 | 80x23 terminal tetris! |
-| 2336 | 504 | 30 | a month ago | [DirectXTK](https://github.com/microsoft/DirectXTK)/617 | The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++ |
-| 2335 | 172 | 156 | 2 years ago | [cquery](https://github.com/jacobdufault/cquery)/618 | C/C++ language server supporting multi-million line code base, powered by libclang. Emacs, Vim, VSCode, and others with language server protocol support. Cross references, completion, diagnostics, semantic highlighting and more |
-| 2333 | 1420 | 33 | 5 days ago | [wallet-core](https://github.com/trustwallet/wallet-core)/619 | Cross-platform, cross-blockchain wallet library. |
-| 2326 | 599 | 0 | 23 days ago | [QtExamples](https://github.com/XMuli/QtExamples)/620 | Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解；DTK 重绘控件方式的框架解析；IDE 技巧之 Visual Studio / Qt Creator；此为系列文章教程 |
-| 2323 | 590 | 33 | 7 days ago | [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)/621 | PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK and PF_RING. |
-| 2314 | 669 | 126 | 6 years ago | [crosswalk](https://github.com/crosswalk-project/crosswalk)/622 | A web runtime built on Chrome. This project is currently unmaintained.  |
-| 2314 | 802 | 7 | a month ago | [omaha](https://github.com/google/omaha)/623 | Google Update for Windows |
-| 2311 | 168 | 43 | 30 days ago | [immer](https://github.com/arximboldi/immer)/624 | Postmodern immutable and persistent data structures for C++ — value semantics at scale |
-| 2310 | 336 | 84 | 12 hours ago | [kvrocks](https://github.com/apache/kvrocks)/625 | Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. |
-| 2309 | 613 | 313 | a month ago | [nccl](https://github.com/NVIDIA/nccl)/626 | Optimized primitives for collective multi-GPU communication |
-| 2308 | 271 | 57 | 4 years ago | [PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4)/627 | NVIDIA PhysX SDK 3.4 |
-| 2302 | 644 | 52 | 9 years ago | [firesheep](https://github.com/codebutler/firesheep)/628 | A Firefox extension that demonstrates HTTP session hijacking attacks. |
-| 2301 | 472 | 129 | 18 hours ago | [iverilog](https://github.com/steveicarus/iverilog)/629 | Icarus Verilog |
-| 2301 | 289 | 506 | 1 year, 1 month ago | [ssr](https://github.com/MaartenBaert/ssr)/630 | SimpleScreenRecorder, a screen recorder for Linux |
-| 2299 | 225 | 9 | 5 months ago | [ViGEmBus](https://github.com/ViGEm/ViGEmBus)/631 | Windows kernel-mode driver emulating well-known USB game controllers. |
-| 2298 | 590 | 111 | 5 days ago | [node-addon-examples](https://github.com/nodejs/node-addon-examples)/632 | Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html |
-| 2298 | 116 | 12 | 1 year, 3 months ago | [sqlcheck](https://github.com/jarulraj/sqlcheck)/633 | Automatically identify anti-patterns in SQL queries |
-| 2288 | 188 | 7 | 5 days ago | [FluidX3D](https://github.com/ProjectPhysX/FluidX3D)/634 | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL. |
-| 2287 | 346 | 20 | 4 months ago | [kys-cpp](https://github.com/scarsty/kys-cpp)/635 | 《金庸群侠传》c++复刻版，已完工 |
-| 2285 | 79 | 18 | a month ago | [NymphCast](https://github.com/MayaPosch/NymphCast)/636 | Audio and video casting system with support for custom applications. |
-| 2283 | 298 | 10 | 8 days ago | [llvm-tutor](https://github.com/banach-space/llvm-tutor)/637 | A collection of out-of-tree LLVM passes for teaching and learning |
-| 2276 | 226 | 7 | 2 days ago | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)/638 | Intel Bluetooth Kernel Extensions for macOS |
-| 2276 | 151 | 69 | 1 year, 10 months ago | [node-webworker-threads](https://github.com/audreyt/node-webworker-threads)/639 | Lightweight Web Worker API implementation with native threads |
-| 2275 | 234 | 44 | 2 months ago | [overgrowth](https://github.com/WolfireGames/overgrowth)/640 | Open Source codebase of the game Overgrowth by Wolfire Games LLC |
-| 2271 | 216 | 8 | 1 year, 2 months ago | [learning-v8](https://github.com/danbev/learning-v8)/641 | Project for learning V8 internals |
-| 2269 | 214 | 69 | 21 days ago | [wil](https://github.com/microsoft/wil)/642 | Windows Implementation Library |
-| 2269 | 321 | 449 | a day ago | [texstudio](https://github.com/texstudio-org/texstudio)/643 | TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible. |
-| 2262 | 328 | 25 | 1 year, 9 months ago | [TengineKit](https://github.com/OAID/TengineKit)/644 | TengineKit - Free, Fast, Easy, Real-Time Face Detection & Face Landmarks & Face Attributes & Hand Detection & Hand Landmarks & Body Detection & Body Landmarks &  Iris Landmarks & Yolov5 SDK On Mobile. |
-| 2260 | 573 | 240 | 2 years ago | [Heimdall](https://github.com/Benjamin-Dobell/Heimdall)/645 | Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices. |
-| 2257 | 212 | 0 | 6 hours ago | [kdenlive](https://github.com/KDE/kdenlive)/646 | Free and open source video editor, based on MLT Framework and KDE Frameworks 5 |
-| 2257 | 401 | 35 | 9 hours ago | [jfx](https://github.com/openjdk/jfx)/647 | JavaFX mainline development |
-| 2255 | 294 | 368 | a day ago | [ispc](https://github.com/ispc/ispc)/648 | Intel® Implicit SPMD Program Compiler |
-| 2254 | 177 | 149 | 4 days ago | [treesheets](https://github.com/aardappel/treesheets)/649 | TreeSheets : Free Form Data Organizer (see strlen.com/treesheets) |
-| 2253 | 102 | 2 | 4 years ago | [tinykaboom](https://github.com/ssloy/tinykaboom)/650 | A brief computer graphics / rendering course |
-| 2242 | 327 | 22 | a day ago | [sqlpp11](https://github.com/rbock/sqlpp11)/651 | A type safe SQL template library for C++ |
-| 2240 | 123 | 236 | 4 hours ago | [Beef](https://github.com/beefytech/Beef)/652 | Beef Programming Language |
-| 2238 | 401 | 1 | 8 years ago | [CppCon2014](https://github.com/CppCon/CppCon2014)/653 | Speaker materials from CppCon 2014 |
-| 2236 | 283 | 936 | 13 days ago | [RawTherapee](https://github.com/Beep6581/RawTherapee)/654 | A powerful cross-platform raw photo processing program |
-| 2234 | 254 | 30 | a month ago | [cpu_features](https://github.com/google/cpu_features)/655 | A cross platform C99 library to get cpu features at runtime. |
-| 2234 | 101 | 46 | 2 days ago | [OpenHashTab](https://github.com/namazso/OpenHashTab)/656 | 📝 File hashing and checking shell extension |
-| 2233 | 378 | 4 | 5 months ago | [huatuo](https://github.com/tuyoogame/huatuo)/657 | huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix |
-| 2231 | 200 | 129 | 5 years ago | [helm](https://github.com/mtytel/helm)/658 | Helm - a free polyphonic synth with lots of modulation |
-| 2230 | 385 | 121 | a day ago | [hpx](https://github.com/STEllAR-GROUP/hpx)/659 | The C++ Standard Library for Parallelism and Concurrency |
-| 2230 | 632 | 0 | a day ago | [code-library](https://github.com/ShahjalalShohag/code-library)/660 | Templates, algorithms and data structures implemented and collected for programming contests. |
-| 2222 | 301 | 31 | 10 months ago | [ELL](https://github.com/microsoft/ELL)/661 | Embedded Learning Library |
-| 2209 | 433 | 1 | 21 days ago | [BDFramework.Core](https://github.com/yimengfan/BDFramework.Core)/662 | Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。 |
-| 2208 | 1102 | 5 | 9 hours ago | [VTK](https://github.com/Kitware/VTK)/663 | Mirror of Visualization Toolkit repository |
-| 2205 | 248 | 114 | 28 days ago | [corona](https://github.com/coronalabs/corona)/664 | Solar2D Game Engine main repository (ex Corona SDK) |
-| 2205 | 487 | 114 | a month ago | [kenlm](https://github.com/kpu/kenlm)/665 | KenLM: Faster and Smaller Language Model Queries |
-| 2204 | 401 | 37 | 3 years ago | [openauto](https://github.com/f1xpl/openauto)/666 | AndroidAuto headunit emulator |
-| 2196 | 731 | 371 | 4 days ago | [rtabmap](https://github.com/introlab/rtabmap)/667 | RTAB-Map library and standalone application |
-| 2186 | 886 | 18 | 5 years ago | [Learning-OpenCV-3_examples](https://github.com/oreillymedia/Learning-OpenCV-3_examples)/668 | None |
-| 2185 | 371 | 557 | 2 days ago | [FastDeploy](https://github.com/PaddlePaddle/FastDeploy)/669 | ⚡️An Easy-to-use and Fast Deep Learning Model Deployment Toolkit for ☁️Cloud 📱Mobile and 📹Edge. Including Image, Video, Text and Audio 20+ main stream scenarios and 150+ SOTA models with end-to-end optimization, multi-platform and multi-framework support. |
-| 2184 | 196 | 205 | 15 days ago | [leocad](https://github.com/leozide/leocad)/670 | A CAD application for creating virtual LEGO models |
-| 2184 | 2083 | 223 | 1 year, 8 months ago | [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)/671 | It is a repository that is a collection of algorithms and data structures with implementation in various languages. |
-| 2182 | 291 | 15 | 10 days ago | [GacUI](https://github.com/vczh-libraries/GacUI)/672 | GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. |
-| 2171 | 1159 | 883 | a day ago | [root](https://github.com/root-project/root)/673 | The official repository for ROOT: analyzing, storing and visualizing big data, scientifically |
-| 2170 | 433 | 140 | 15 days ago | [snes9x](https://github.com/snes9xgit/snes9x)/674 | Snes9x - Portable Super Nintendo Entertainment System (TM) emulator |
-| 2167 | 56 | 43 | 2 months ago | [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)/675 | Quick Look extension for highlight source code files on macOS 10.15 and later. |
-| 2160 | 727 | 117 | 25 days ago | [grid_map](https://github.com/ANYbotics/grid_map)/676 | Universal grid map library for mobile robotic mapping |
-| 2155 | 340 | 11 | 1 year, 6 months ago | [cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese)/677 | 快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/ |
-| 2154 | 571 | 133 | a day ago | [openvdb](https://github.com/AcademySoftwareFoundation/openvdb)/678 | OpenVDB - Sparse volume data structure and tools |
-| 2148 | 596 | 322 | 27 days ago | [teeworlds](https://github.com/teeworlds/teeworlds)/679 | A retro multiplayer shooter |
-| 2146 | 113 | 33 | 4 days ago | [rehex](https://github.com/solemnwarning/rehex)/680 | Reverse Engineers' Hex Editor |
-| 2145 | 656 | 11 | 10 hours ago | [OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine)/681 | OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS |
-| 2144 | 521 | 28 | a day ago | [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP)/682 | Behavior Trees Library in C++. Batteries included. |
-| 2143 | 192 | 63 | 3 months ago | [freeablo](https://github.com/wheybags/freeablo)/683 | Modern reimplementation of the Diablo 1 game engine |
-| 2137 | 619 | 12 | 6 months ago | [CS_Offer](https://github.com/selfboot/CS_Offer)/684 | 计算机学科基础知识和主流编程语言相关内容的总结 |
-| 2137 | 98 | 7 | 2 years ago | [pdqsort](https://github.com/orlp/pdqsort)/685 | Pattern-defeating quicksort. |
-| 2135 | 4776 | 41 | a month ago | [griddb](https://github.com/griddb/griddb)/686 | GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy. |
-| 2135 | 727 | 5 | 5 years ago | [SGI-STL](https://github.com/steveLauwh/SGI-STL)/687 | 剖析 STL 是一种享受的过程！ |
-| 2131 | 433 | 229 | 5 days ago | [project64](https://github.com/project64/project64)/688 | N64 Emulator |
-| 2130 | 747 | 6 | 8 days ago | [qt-creator](https://github.com/qt-creator/qt-creator)/689 | A cross-platform Qt IDE |
-| 2130 | 322 | 96 | 3 years ago | [nana](https://github.com/cnjinhao/nana)/690 | a modern C++ GUI library |
-| 2125 | 220 | 58 | 3 years ago | [lean](https://github.com/leanprover/lean)/691 | Lean Theorem Prover |
-| 2122 | 275 | 25 | 1 year, 1 month ago | [AntSimulator](https://github.com/johnBuffer/AntSimulator)/692 | Simple Ants simulator |
-| 2118 | 372 | 13 | 5 months ago | [HexRaysCodeXplorer](https://github.com/REhints/HexRaysCodeXplorer)/693 | Hex-Rays Decompiler plugin for better code navigation |
-| 2105 | 392 | 3 | 2 months ago | [cp-notebook](https://github.com/bqi343/cp-notebook)/694 | General Resources for Competitive Programming |
-| 2105 | 886 | 132 | 2 years ago | [dso](https://github.com/JakobEngel/dso)/695 | Direct Sparse Odometry |
-| 2093 | 474 | 144 | 8 days ago | [simbody](https://github.com/simbody/simbody)/696 | High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. |
-| 2092 | 328 | 455 | 12 days ago | [appleseed](https://github.com/appleseedhq/appleseed)/697 | A modern open source rendering engine for animation and visual effects |
-| 2090 | 298 | 47 | 4 years ago | [ELF](https://github.com/facebookresearch/ELF)/698 | An End-To-End, Lightweight and Flexible Platform for Game Research |
-| 2089 | 360 | 55 | 2 months ago | [embree](https://github.com/embree/embree)/699 | Embree ray tracing kernels repository. |
-| 2088 | 742 | 85 | 4 months ago | [bgslibrary](https://github.com/andrewssobral/bgslibrary)/700 | A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT |
-| 1432 | 971 | 56 | 6 days ago | [opendbc](https://github.com/commaai/opendbc)/701 | democratize access to car decoder rings |
-| 1432 | 102 | 9 | 5 years ago | [v8worker](https://github.com/ry/v8worker)/702 | Minimal golang binding to V8 |
-| 1430 | 110 | 7 | 6 years ago | [web-dsp](https://github.com/shamadee/web-dsp)/703 | A client-side signal processing library utilizing the power of WebAssembly (.wasm) |
-| 1427 | 261 | 352 | 2 days ago | [moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)/704 | Money Manager Ex is an easy to use, money management application built with wxWidgets |
-| 1425 | 36 | 0 | 2 years ago | [unfork](https://github.com/whitequark/unfork)/705 | unfork(2) is the inverse of fork(2).    sort of. |
-| 1420 | 261 | 170 | 1 year, 1 month ago | [twister-core](https://github.com/miguelfreitas/twister-core)/706 | twister core / daemon |
-| 1415 | 135 | 97 | 7 years ago | [vogl](https://github.com/ValveSoftware/vogl)/707 | OpenGL capture / playback debugger. |
-| 1414 | 84 | 256 | a day ago | [FEX](https://github.com/FEX-Emu/FEX)/708 | A fast usermode x86 and x86-64 emulator for Arm64 |
-| 1412 | 261 | 0 | 4 years ago | [Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed)/709 | C++11/14/17/20 templates and generic programming, the most complex and difficult technical details of C++, indispensable in building infrastructure libraries. |
-| 1410 | 52 | 14 | a month ago | [maui-shell](https://github.com/Nitrux/maui-shell)/710 | Maui Shell is a convergent shell for desktops, tablets, and phones. |
-| 1408 | 185 | 8 | 3 months ago | [ac-library](https://github.com/atcoder/ac-library)/711 | AtCoder Library |
-| 1397 | 621 | 1 | 6 years ago | [ChineseCodingInterviewAppendix](https://github.com/zhedahht/ChineseCodingInterviewAppendix)/712 | The source code for the appendix part of the Chinese version of the book Coding Interviews |
-| 1397 | 242 | 21 | 23 days ago | [loot](https://github.com/loot/loot)/713 | A load order optimisation tool for the Elder Scrolls (Morrowind and later) and Fallout (3 and later) games. |
-| 1393 | 486 | 248 | a month ago | [react-native-pdf](https://github.com/wonday/react-native-pdf)/714 | A <Pdf /> component for react-native |
-| 1390 | 81 | 2 | 5 years ago | [Flicks](https://github.com/facebookarchive/Flicks)/715 | A unit of time defined in C++. |
-| 1389 | 401 | 0 | 15 days ago | [verge](https://github.com/vergecurrency/verge)/716 | Official Verge Core Source Code Repository :muscle: |
-| 1387 | 564 | 6 | 2 years ago | [OceanProject](https://github.com/UE4-OceanProject/OceanProject)/717 | Environment Plugin Project (Ocean Simulation, Sky Simulation, Buoyancy, Time, Fish plugins for  Unreal Engine 4) |
-| 1386 | 224 | 21 | 4 years ago | [CppPatterns-Patterns](https://github.com/sftrabbit/CppPatterns-Patterns)/718 | A repository of modern C++ patterns curated by the community. |
-| 1385 | 310 | 133 | 6 years ago | [CuteMarkEd](https://github.com/cloose/CuteMarkEd)/719 | Qt Markdown Editor |
-| 1383 | 131 | 58 | 9 months ago | [extempore](https://github.com/digego/extempore)/720 | A cyber-physical programming environment |
-| 1383 | 374 | 55 | 3 years ago | [ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker)/721 | CLM face tracking addon for openFrameworks based on Jason Saragih's FaceTracker. |
-| 1379 | 330 | 133 | 1 year, 18 days ago | [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)/722 | Library to build PHP extensions with C++ |
-| 1378 | 183 | 47 | 5 months ago | [pharos](https://github.com/cmu-sei/pharos)/723 | Automated static analysis tools for binary programs |
-| 1378 | 131 | 78 | 12 days ago | [crow-translate](https://github.com/crow-translate/crow-translate)/724 | A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva. |
-| 1377 | 138 | 19 | 1 year, 25 days ago | [rang](https://github.com/agauniyal/rang)/725 | A Minimal, Header only Modern c++ library for terminal goodies 💄✨ |
-| 1376 | 113 | 7 | 1 year, 2 months ago | [NoCol](https://github.com/johnBuffer/NoCol)/726 | Trajectories finder |
-| 1373 | 212 | 32 | 4 years ago | [TorchCraft](https://github.com/TorchCraft/TorchCraft)/727 | Connecting Torch to StarCraft |
-| 1373 | 165 | 10 | 1 year, 6 months ago | [2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408)/728 | 💯✍备考2021年研究生-408  |
-| 1370 | 464 | 30 | a day ago | [osm2pgsql](https://github.com/openstreetmap/osm2pgsql)/729 | OpenStreetMap data to PostgreSQL converter |
-| 1363 | 181 | 6 | 2 years ago | [AmnesiaAMachineForPigs](https://github.com/FrictionalGames/AmnesiaAMachineForPigs)/730 | None |
-| 1362 | 253 | 42 | 6 months ago | [C3](https://github.com/WithSecureLabs/C3)/731 | Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits. |
-| 1362 | 228 | 17 | 2 months ago | [DirectXMath](https://github.com/microsoft/DirectXMath)/732 | DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps |
-| 1360 | 279 | 120 | 2 years ago | [clipper](https://github.com/ucbrise/clipper)/733 | A low-latency prediction-serving system |
-| 1360 | 490 | 1 | 3 years ago | [Cpp_houjie](https://github.com/harvestlamb/Cpp_houjie)/734 | 侯捷C++课程PPT及代码,动手学起来 |
-| 1358 | 230 | 5 | 2 years ago | [ngraph](https://github.com/NervanaSystems/ngraph)/735 | nGraph has moved to OpenVINO |
-| 1357 | 198 | 77 | 1 year, 4 months ago | [node-keytar](https://github.com/atom/node-keytar)/736 | Native Password Node Module |
-| 1356 | 114 | 67 | 11 months ago | [milton](https://github.com/serge-rgb/milton)/737 | An infinite-canvas paint program |
-| 1355 | 372 | 6 | 9 months ago | [OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old)/738 | A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services. |
-| 1355 | 116 | 8 | 1 year, 3 months ago | [WebPShop](https://github.com/webmproject/WebPShop)/739 | Photoshop plug-in for opening and saving WebP images |
-| 1354 | 453 | 20 | 8 months ago | [KB2E](https://github.com/thunlp/KB2E)/740 | Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE |
-| 1347 | 644 | 78 | 9 years ago | [OpenNI](https://github.com/OpenNI/OpenNI)/741 | OpenNI |
-| 1346 | 415 | 414 | 19 hours ago | [Cockatrice](https://github.com/Cockatrice/Cockatrice)/742 | A cross-platform virtual tabletop for multiplayer card games |
-| 1345 | 168 | 34 | 4 years ago | [rcedit](https://github.com/electron/rcedit)/743 | Command line tool to edit resources of exe |
-| 1342 | 175 | 242 | 5 years ago | [ckb](https://github.com/ccMSC/ckb)/744 | RGB Driver for Linux and OS X |
-| 1340 | 62 | 3 | 2 months ago | [Ponce](https://github.com/illera88/Ponce)/745 | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! |
-| 1339 | 120 | 445 | a month ago | [nomacs](https://github.com/nomacs/nomacs)/746 | nomacs is a free image viewer for windows, linux, and mac systems. |
-| 1334 | 136 | 564 | a day ago | [Carla](https://github.com/falkTX/Carla)/747 | Audio plugin host |
-| 1331 | 320 | 45 | 1 year, 8 months ago | [BananaBread](https://github.com/kripken/BananaBread)/748 | BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML |
-| 1330 | 193 | 24 | 1 year, 2 months ago | [mathfu](https://github.com/google/mathfu)/749 | C++ math library developed primarily for games focused on simplicity and efficiency. |
-| 1330 | 149 | 17 | 5 years ago | [junction](https://github.com/preshing/junction)/750 | Concurrent data structures in C++ |
-| 1329 | 508 | 5 | 5 months ago | [ORB_SLAM2_detailed_comments](https://github.com/electech6/ORB_SLAM2_detailed_comments)/751 | Detailed comments for ORB-SLAM2 with  trouble-shooting, key formula derivation, and diagrammatic drawing |
-| 1327 | 369 | 9 | 29 days ago | [RealtimeMeshComponent](https://github.com/TriAxis-Games/RealtimeMeshComponent)/752 | Unreal Engine 4 plugin component for rendering runtime generated content. |
-| 1323 | 145 | 88 | 1 year, 1 month ago | [Vc](https://github.com/VcDevel/Vc)/753 | SIMD Vector Classes for C++ |
-| 1323 | 310 | 15 | 1 year, 11 months ago | [VulkanSamples](https://github.com/LunarG/VulkanSamples)/754 | Vulkan Samples |
-| 1320 | 231 | 7 | a month ago | [KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics)/755 | KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5 |
-| 1316 | 109 | 137 | 1 year, 7 days ago | [decord](https://github.com/dmlc/decord)/756 | An efficient video loader for deep learning with smart shuffling that's super easy to digest |
-| 1312 | 279 | 53 | 1 year, 2 months ago | [YOLOv5_NCNN](https://github.com/cmdbug/YOLOv5_NCNN)/757 | 🍅 Deploy ncnn on mobile phones. Support Android and iOS. 移动端ncnn部署，支持Android与iOS。 |
-| 1311 | 287 | 35 | 7 hours ago | [TEASER-plusplus](https://github.com/MIT-SPARK/TEASER-plusplus)/758 | A fast and robust point cloud registration library |
-| 1310 | 135 | 22 | 9 months ago | [polylabel](https://github.com/mapbox/polylabel)/759 | A fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++) |
-| 1310 | 171 | 16 | 1 year, 1 month ago | [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)/760 | Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings. |
-| 1309 | 258 | 36 | 1 year, 8 months ago | [opencover](https://github.com/OpenCover/opencover)/761 | A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points |
-| 1309 | 73 | 17 | 2 years ago | [cocos-mainnet](https://github.com/Cocos-BCX/cocos-mainnet)/762 | Cocos-BCX: The platform for the next generation of digital game economy |
-| 1308 | 394 | 9 | 1 year, 11 months ago | [ros_best_practices](https://github.com/leggedrobotics/ros_best_practices)/763 | Best practices, conventions, and tricks for ROS. Do you want to become a robotics master? Then consider graduating or working at the Robotics Systems Lab at ETH in Zürich!  |
-| 1307 | 163 | 69 | 4 months ago | [nanogui](https://github.com/mitsuba-renderer/nanogui)/764 | Minimalistic C++/Python GUI library for OpenGL, GLES2/3, Metal, and WebAssembly/WebGL |
-| 1305 | 580 | 523 | 7 hours ago | [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)/765 | Open source IFC library and geometry engine |
-| 1304 | 141 | 175 | 6 years ago | [MOE](https://github.com/Yelp/MOE)/766 | A global, black box optimization engine for real world metric optimization. |
-| 1303 | 294 | 15 | a month ago | [EfiGuard](https://github.com/Mattiwatti/EfiGuard)/767 | Disable PatchGuard and DSE at boot time |
-| 1302 | 335 | 20 | 25 days ago | [dlib-models](https://github.com/davisking/dlib-models)/768 | Trained model files for dlib example programs. |
-| 1299 | 281 | 22 | 5 days ago | [rtaudio](https://github.com/thestk/rtaudio)/769 | A set of C++ classes that provide a common API for realtime audio input/output across Linux (native ALSA, JACK, PulseAudio and OSS), Macintosh OS X (CoreAudio and JACK), and Windows (DirectSound, ASIO, and WASAPI) operating systems. |
-| 1297 | 197 | 45 | 3 years ago | [freelan](https://github.com/freelan-developers/freelan)/770 | The main freelan repository. |
-| 1297 | 86 | 51 | 2 months ago | [qView](https://github.com/jurplel/qView)/771 | Practical and minimal image viewer |
-| 1296 | 367 | 172 | 7 months ago | [xlnt](https://github.com/tfussell/xlnt)/772 | :bar_chart: Cross-platform user-friendly xlsx library for C++11+ |
-| 1291 | 133 | 62 | 6 hours ago | [CTranslate2](https://github.com/OpenNMT/CTranslate2)/773 | Fast inference engine for Transformer models |
-| 1289 | 97 | 68 | 7 years ago | [Mutate](https://github.com/qdore/Mutate)/774 | A simple launcher inspired by Alfred for ubuntu and Fedora. |
-| 1288 | 264 | 78 | 11 hours ago | [ilogtail](https://github.com/alibaba/ilogtail)/775 | Fast and Lightweight Observability Data Collector |
-| 1288 | 112 | 0 | 25 days ago | [Granite](https://github.com/Themaister/Granite)/776 | My personal Vulkan renderer |
-| 1287 | 229 | 609 | 3 hours ago | [circt](https://github.com/llvm/circt)/777 | Circuit IR Compilers and Tools |
-| 1286 | 220 | 41 | 2 years ago | [LLFF](https://github.com/Fyusion/LLFF)/778 | Code release for Local Light Field Fusion at SIGGRAPH 2019 |
-| 1285 | 93 | 41 | 20 days ago | [react-native-mmkv-storage](https://github.com/ammarahm-ed/react-native-mmkv-storage)/779 | An ultra fast (0.0002s read/write), small & encrypted mobile key-value storage framework for React Native written in C++ using JSI |
-| 1284 | 551 | 8 | 7 years ago | [DexHunter](https://github.com/zyq8709/DexHunter)/780 | General Automatic Unpacking Tool for Android Dex Files |
-| 1281 | 50 | 1 | 3 months ago | [UnityPerformanceTuningBible](https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible)/781 | Unity Performance Tuning knowledge book |
-| 1281 | 282 | 0 | a month ago | [Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform](https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform)/782 | 🇸Superpowered Audio, Networking and Cryptographics SDKs. High performance and cross platform on Android, iOS, macOS, tvOS, Linux, Windows and modern web browsers. |
-| 1280 | 125 | 45 | 1 year, 8 months ago | [untrunc](https://github.com/anthwlock/untrunc)/783 | Restore a truncated mp4/mov. Improved version of ponchio/untrunc |
-| 1276 | 70 | 30 | 1 year, 1 month ago | [OpenScan](https://github.com/ethereal-developers/OpenScan)/784 | A privacy-friendly Document Scanner app |
-| 1275 | 439 | 54 | 3 months ago | [lidar_camera_calibration](https://github.com/ankitdhall/lidar_camera_calibration)/785 | ROS package to find a rigid-body transformation between a LiDAR and a camera for "LiDAR-Camera Calibration using 3D-3D Point correspondences" |
-| 1274 | 729 | 54 | 15 days ago | [osgearth](https://github.com/gwaldron/osgearth)/786 | A 3D Mapping Engine & SDK for OpenSceneGraph. |
-| 1271 | 276 | 31 | 2 months ago | [cpp-ipc](https://github.com/mutouyun/cpp-ipc)/787 | C++ IPC Library: A high-performance inter-process communication using shared memory on Linux/Windows. |
-| 1270 | 207 | 90 | 1 year, 5 days ago | [reactphysics3d](https://github.com/DanielChappuis/reactphysics3d)/788 | Open source C++ physics engine library in 3D |
-| 1269 | 204 | 128 | 5 days ago | [RHVoice](https://github.com/RHVoice/RHVoice)/789 | a free and open source speech synthesizer for Russian and other languages |
-| 1269 | 704 | 2 | 3 years ago | [cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src)/790 | Leak of CS:GO Source code, provided by yours truly so go rep me |
-| 1268 | 37 | 2 | 16 days ago | [pokegb](https://github.com/binji/pokegb)/791 | A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c++. |
-| 1267 | 896 | 160 | a month ago | [MySensors](https://github.com/mysensors/MySensors)/792 | MySensors library and examples |
-| 1263 | 513 | 8 | 10 months ago | [ArabicCompetitiveProgramming](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)/793 | The repository contains the ENGLISH description files attached to the video series in my ARABIC algorithms channel. |
-| 1262 | 265 | 107 | 1 year, 15 days ago | [macemu](https://github.com/cebix/macemu)/794 | Basilisk II and SheepShaver Macintosh emulators |
-| 1262 | 204 | 3 | 12 days ago | [Alcatraz](https://github.com/weak1337/Alcatraz)/795 | x64 binary obfuscator |
-| 1261 | 921 | 2003 | a day ago | [moose](https://github.com/idaholab/moose)/796 | Multiphysics Object Oriented Simulation Environment |
-| 1260 | 68 | 3 | 6 months ago | [CToy](https://github.com/anael-seghezzi/CToy)/797 | Interactive C live coding environment |
-| 1259 | 135 | 120 | 10 months ago | [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI)/798 | An application written in C++ to modify the Windows 11 Taskbar.  |
-| 1258 | 89 | 3 | 25 days ago | [botw](https://github.com/zeldaret/botw)/799 | Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0) |
-| 1256 | 171 | 0 | 7 months ago | [AutoHotkey-v1.0](https://github.com/AutoHotkey/AutoHotkey-v1.0)/800 | AutoHotkey is a powerful and easy to use scripting language for desktop automation on Windows. |
-| 1583 | 708 | 81 | 2 months ago | [rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)/801 | FPS Unlocker for Roblox |
-| 1581 | 45 | 18 | 17 days ago | [yabridge](https://github.com/robbert-vdh/yabridge)/802 | A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux |
-| 1579 | 132 | 40 | 2 years ago | [Pyjion](https://github.com/microsoft/Pyjion)/803 | Pyjion - A JIT for Python based upon CoreCLR |
-| 1576 | 202 | 0 | a month ago | [VirtualSMC](https://github.com/acidanthera/VirtualSMC)/804 | SMC emulator layer |
-| 1573 | 947 | 88 | 2 days ago | [navigation2](https://github.com/ros-planning/navigation2)/805 | ROS2 Navigation Framework and System |
-| 1572 | 171 | 216 | 5 hours ago | [TileDB](https://github.com/TileDB-Inc/TileDB)/806 | The Universal Storage Engine |
-| 1571 | 258 | 465 | 23 hours ago | [RetroShare](https://github.com/RetroShare/RetroShare)/807 | RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform. |
-| 1569 | 115 | 46 | a day ago | [isolated-vm](https://github.com/laverdet/isolated-vm)/808 | Secure & isolated JS environments for nodejs |
-| 1567 | 195 | 49 | 1 year, 1 month ago | [imnodes](https://github.com/Nelarius/imnodes)/809 | A small, dependency-free node editor for dear imgui |
-| 1565 | 421 | 29 | 28 days ago | [basic-algo-lecture](https://github.com/encrypted-def/basic-algo-lecture)/810 | 바킹독의 실전 알고리즘 강의 자료 |
-| 1564 | 263 | 7 | 4 days ago | [OpenHD](https://github.com/OpenHD/OpenHD)/811 | OpenHD |
-| 1564 | 440 | 18 | 2 months ago | [ESP3D](https://github.com/luc-github/ESP3D)/812 | FW for ESP8266/ESP8285/ESP32 used with 3D printer |
-| 1563 | 214 | 54 | 2 years ago | [uTensor](https://github.com/uTensor/uTensor)/813 | TinyML AI inference library |
-| 1562 | 70 | 44 | 5 hours ago | [ytsaurus](https://github.com/ytsaurus/ytsaurus)/814 | YTsaurus is a scalable and fault-tolerant open-source big data platform. |
-| 1562 | 86 | 18 | 1 year, 5 months ago | [recompiler](https://github.com/rexdex/recompiler)/815 | Xbox360 -> Windows executable converter |
-| 1557 | 130 | 88 | 4 months ago | [scream](https://github.com/duncanthrax/scream)/816 | Virtual network sound card for Microsoft Windows |
-| 1555 | 182 | 304 | 2 days ago | [nheko](https://github.com/Nheko-Reborn/nheko)/817 | Desktop client for Matrix using Qt and C++20. |
-| 1555 | 306 | 4 | 1 year, 5 months ago | [LearningNote](https://github.com/szza/LearningNote)/818 | C++和Linux学习笔记 |
-| 1554 | 248 | 4 | 4 months ago | [rp](https://github.com/0vercl0k/rp)/819 | rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries. |
-| 1553 | 337 | 16 | 3 years ago | [baiduCDP](https://github.com/cool2528/baiduCDP)/820 | 百度网盘下载神器 |
-| 1552 | 305 | 294 | a month ago | [fastp](https://github.com/OpenGene/fastp)/821 | An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...) |
-| 1546 | 272 | 126 | a month ago | [bwapi](https://github.com/bwapi/bwapi)/822 | Brood War API |
-| 1543 | 429 | 301 | 5 months ago | [epsilon](https://github.com/numworks/epsilon)/823 | Modern graphing calculator operating system. |
-| 1538 | 304 | 223 | 2 years ago | [scantailor](https://github.com/scantailor/scantailor)/824 | None |
-| 1538 | 383 | 274 | 12 days ago | [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)/825 | A color management framework for visual effects and animation. |
-| 1537 | 147 | 17 | 1 year, 7 days ago | [Acid](https://github.com/EQMG/Acid)/826 | A high speed C++17 Vulkan game engine |
-| 1534 | 292 | 568 | 3 hours ago | [synfig](https://github.com/synfig/synfig)/827 | This is the Official source code repository of the Synfig project |
-| 1534 | 196 | 98 | 4 months ago | [hana](https://github.com/boostorg/hana)/828 | Your standard library for metaprogramming |
-| 1534 | 49 | 25 | a day ago | [cito](https://github.com/pfusik/cito)/829 | Ć programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. |
-| 1532 | 348 | 2 | 11 months ago | [r3live](https://github.com/hku-mars/r3live)/830 | A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package |
-| 1531 | 205 | 51 | 1 year, 5 months ago | [node-images](https://github.com/zhangyuanwei/node-images)/831 | Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Nodejs |
-| 1529 | 715 | 6 | 6 years ago | [KalmanFilter](https://github.com/TKJElectronics/KalmanFilter)/832 | This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. |
-| 1528 | 478 | 40 | 7 months ago | [WSL-DistroLauncher](https://github.com/microsoft/WSL-DistroLauncher)/833 | Sample/reference launcher app for WSL distro Microsoft Store packages. |
-| 1524 | 164 | 33 | 3 months ago | [cppast](https://github.com/foonathan/cppast)/834 | Library to parse and work with the C++ AST |
-| 1524 | 479 | 16 | a month ago | [JQTools](https://github.com/188080501/JQTools)/835 | 基于Qt开发的小工具包 |
-| 1524 | 179 | 89 | 4 days ago | [FarManager](https://github.com/FarGroup/FarManager)/836 | File and Archive Manager |
-| 1521 | 522 | 39 | 4 years ago | [icomet](https://github.com/ideawu/icomet)/837 | A C1000K comet/push server built with C++, for web and mobile app |
-| 1520 | 833 | 201 | 2 days ago | [CuraEngine](https://github.com/Ultimaker/CuraEngine)/838 | Powerful, fast and robust engine for converting 3D models into g-code instructions for 3D printers. It is part of the larger open source project Cura. |
-| 1520 | 373 | 79 | 4 hours ago | [mu](https://github.com/djcb/mu)/839 | maildir indexer/searcher + emacs mail client + guile bindings |
-| 1517 | 316 | 19 | 5 hours ago | [bde](https://github.com/bloomberg/bde)/840 | Basic Development Environment - a set of foundational C++ libraries used at Bloomberg. |
-| 1509 | 194 | 10 | 1 year, 7 months ago | [Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke)/841 | Telegram anti-revoke plugin |
-| 1508 | 101 | 13 | 2 years ago | [toy](https://github.com/hugoam/toy)/842 | the thin c++ game engine |
-| 1508 | 112 | 92 | 11 days ago | [Cardinal](https://github.com/DISTRHO/Cardinal)/843 | Virtual modular synthesizer plugin |
-| 1502 | 210 | 43 | 8 hours ago | [KasmVNC](https://github.com/kasmtech/KasmVNC)/844 | Modern VNC Server and client, web based and secure |
-| 1501 | 356 | 72 | 15 days ago | [SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration)/845 | OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving |
-| 1498 | 67 | 19 | 16 hours ago | [timg](https://github.com/hzeller/timg)/846 | A terminal image and video viewer. |
-| 1495 | 1143 | 242 | 8 months ago | [cartographer_ros](https://github.com/cartographer-project/cartographer_ros)/847 | Provides ROS integration for Cartographer. |
-| 1495 | 230 | 19 | a month ago | [greenlet](https://github.com/python-greenlet/greenlet)/848 | Lightweight in-process concurrent programming |
-| 1492 | 366 | 34 | 2 years ago | [restclient-cpp](https://github.com/mrtazz/restclient-cpp)/849 | C++ client for making HTTP/REST requests |
-| 1492 | 231 | 3 | 14 days ago | [cppwinrt](https://github.com/microsoft/cppwinrt)/850 | C++/WinRT |
-| 1492 | 81 | 0 | 2 days ago | [latte-dock](https://github.com/KDE/latte-dock)/851 | Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids |
-| 1490 | 119 | 5 | 4 hours ago | [enkiTS](https://github.com/dougbinks/enkiTS)/852 | A permissively licensed C and C++ Task Scheduler for creating parallel programs. Requires C++11 support. |
-| 1490 | 361 | 11 | 2 years ago | [shellcodeloader](https://github.com/knownsec/shellcodeloader)/853 | shellcodeloader |
-| 1486 | 150 | 63 | 6 days ago | [mitsuba3](https://github.com/mitsuba-renderer/mitsuba3)/854 | Mitsuba 3: A Retargetable Forward and Inverse Renderer |
-| 1486 | 193 | 162 | a month ago | [lokinet](https://github.com/oxen-io/lokinet)/855 | Lokinet is an anonymous, decentralized and IP based overlay network for the internet. |
-| 1484 | 550 | 50 | 2 months ago | [log4cplus](https://github.com/log4cplus/log4cplus)/856 | log4cplus is a simple to use C++ logging API providing thread-safe, flexible, and arbitrarily granular control over log management and configuration. It is modelled after the Java log4j API. |
-| 1484 | 220 | 130 | 4 years ago | [nitroshare-desktop](https://github.com/nitroshare/nitroshare-desktop)/857 | Network file transfer application for Windows, OS X, & Linux |
-| 1480 | 571 | 2 | 2 years ago | [msckf_vio](https://github.com/KumarRobotics/msckf_vio)/858 | Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight |
-| 1480 | 370 | 45 | 5 months ago | [fann](https://github.com/libfann/fann)/859 | Official github repository for Fast Artificial Neural Network Library (FANN) |
-| 1480 | 131 | 38 | 5 years ago | [iaito](https://github.com/hteso/iaito)/860 | This project has been moved to: |
-| 1479 | 171 | 13 | 5 years ago | [Natron](https://github.com/MrKepzie/Natron)/861 | Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry. |
-| 1476 | 306 | 15 | 6 years ago | [TurboDex](https://github.com/asLody/TurboDex)/862 |  fast load dex in memory. |
-| 1474 | 162 | 44 | 1 year, 10 months ago | [better-enums](https://github.com/aantron/better-enums)/863 | C++ compile-time enum to string, iteration, in a single header file |
-| 1471 | 455 | 94 | 10 months ago | [open-source-search-engine](https://github.com/gigablast/open-source-search-engine)/864 | Nov 20 2017 -- A distributed open source search engine and spider/crawler written in C/C++ for Linux on Intel/AMD. From gigablast dot com, which has binaries for download. See the README.md file at the very bottom of this page for instructions. |
-| 1471 | 247 | 69 | 6 months ago | [icecream](https://github.com/icecc/icecream)/865 | Distributed compiler with a central scheduler to share build load |
-| 1470 | 415 | 20 | 5 years ago | [libfm](https://github.com/srendle/libfm)/866 | Library for factorization machines |
-| 1469 | 354 | 9 | 4 days ago | [TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer)/867 | TTKMusicPlayer imitates Kugou music, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐) |
-| 1469 | 40 | 19 | 7 years ago | [bish](https://github.com/tdenniston/bish)/868 | Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel. |
-| 1467 | 268 | 12 | 1 year, 30 days ago | [moderngpu](https://github.com/moderngpu/moderngpu)/869 | Patterns and behaviors for GPU computing |
-| 1466 | 369 | 32 | 7 months ago | [EdgeML](https://github.com/microsoft/EdgeML)/870 | This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India. |
-| 1463 | 327 | 6 | a month ago | [WS2812FX](https://github.com/kitesurfer1404/WS2812FX)/871 | WS2812 FX Library for Arduino and ESP8266 |
-| 1462 | 37 | 10 | 1 year, 7 months ago | [fetlang](https://github.com/fetlang/fetlang)/872 | Fetish-themed programming language |
-| 1462 | 404 | 1 | 2 months ago | [DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)/873 | This repo contains links of resources, theory subjects content and DSA questions & their solution for interview preparation from different websites like geeksforgeeks, leetcode, etc. |
-| 1457 | 114 | 89 | a month ago | [shelly-homekit](https://github.com/mongoose-os-apps/shelly-homekit)/874 | Apple HomeKit firmware for Shelly's |
-| 1454 | 28 | 0 | 3 years ago | [neurolab-firmware](https://github.com/fossasia/neurolab-firmware)/875 | Firmware for Neurolab Hardware |
-| 1454 | 548 | 79 | 2 years ago | [ps-lite](https://github.com/dmlc/ps-lite)/876 | A lightweight parameter server interface |
-| 1451 | 86 | 19 | 2 years ago | [ZLUDA](https://github.com/vosen/ZLUDA)/877 | CUDA on Intel GPUs |
-| 1449 | 647 | 7 | 3 years ago | [cracking-the-coding-interview](https://github.com/Hawstein/cracking-the-coding-interview)/878 | Solutions for the book: Cracking the coding interview V4. Written in C++. |
-| 1449 | 93 | 147 | 10 days ago | [giada](https://github.com/monocasual/giada)/879 | Your Hardcore Loop Machine. |
-| 1446 | 265 | 26 | 2 months ago | [Maximilian](https://github.com/micknoise/Maximilian)/880 | C++ Audio and Music DSP Library |
-| 1440 | 205 | 25 | 1 year, 5 months ago | [confluo](https://github.com/ucbrise/confluo)/881 | Real-time Monitoring and Analysis of Data Streams |
-| 1440 | 277 | 491 | a month ago | [MEGAsync](https://github.com/meganz/MEGAsync)/882 | Easy automated syncing between your computers and your MEGA Cloud Drive |
-| 1438 | 246 | 10 | 22 days ago | [CPP](https://github.com/ShiqiYu/CPP)/883 | Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology. |
-| 1438 | 196 | 145 | a day ago | [workrave](https://github.com/rcaelers/workrave)/884 | Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily limit. |
-| 1437 | 210 | 0 | 1 year, 4 months ago | [Khepri](https://github.com/geemion/Khepri)/885 | Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++. |
-| 1435 | 145 | 71 | 3 days ago | [polyscope](https://github.com/nmwsharp/polyscope)/886 | A C++ & Python viewer for 3D data like meshes and point clouds |
-| 1434 | 305 | 26 | 8 years ago | [CTPL](https://github.com/vit-vit/CTPL)/887 | Modern and efficient C++ Thread Pool Library |
-| 1433 | 121 | 73 | 3 days ago | [cpeditor](https://github.com/cpeditor/cpeditor)/888 | The IDE for competitive programming :tada: | Fetch, Code, Compile, Run, Check, Submit :rocket: |
-| 1433 | 83 | 1 | 6 months ago | [GlosSI](https://github.com/Alia5/GlosSI)/889 | Tool for using Steam-Input controller rebinding at a system level alongside a global overlay |
-| 1432 | 971 | 56 | 6 days ago | [opendbc](https://github.com/commaai/opendbc)/890 | democratize access to car decoder rings |
-| 1432 | 102 | 9 | 5 years ago | [v8worker](https://github.com/ry/v8worker)/891 | Minimal golang binding to V8 |
-| 1430 | 110 | 7 | 6 years ago | [web-dsp](https://github.com/shamadee/web-dsp)/892 | A client-side signal processing library utilizing the power of WebAssembly (.wasm) |
-| 1428 | 416 | 73 | a month ago | [DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)/893 | Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. |
-| 1427 | 261 | 352 | 2 days ago | [moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)/894 | Money Manager Ex is an easy to use, money management application built with wxWidgets |
-| 1420 | 261 | 170 | 1 year, 1 month ago | [twister-core](https://github.com/miguelfreitas/twister-core)/895 | twister core / daemon |
-| 1418 | 448 | 0 | 13 hours ago | [kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)/896 | This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched. |
-| 1416 | 366 | 16 | 10 days ago | [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter)/897 | Wifi & BLE driven passenger flow metering with cheap ESP32 boards |
-| 1415 | 135 | 97 | 7 years ago | [vogl](https://github.com/ValveSoftware/vogl)/898 | OpenGL capture / playback debugger. |
-| 1414 | 84 | 256 | a day ago | [FEX](https://github.com/FEX-Emu/FEX)/899 | A fast usermode x86 and x86-64 emulator for Arm64 |
-| 1412 | 135 | 122 | 29 days ago | [bsnes](https://github.com/bsnes-emu/bsnes)/900 | bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use. |
-| 1049 | 200 | 32 | 1 year, 6 months ago | [engauge-digitizer](https://github.com/markummitchell/engauge-digitizer)/901 | Extracts data points from images of graphs |
-| 1045 | 199 | 0 | 6 months ago | [unrealcpp](https://github.com/Harrison1/unrealcpp)/902 | Unreal Engine 4 C++ examples |
-| 1044 | 153 | 5 | 1 year, 4 months ago | [MLPP](https://github.com/novak-99/MLPP)/903 | A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.  |
-| 1044 | 210 | 9 | 8 months ago | [TaskScheduler](https://github.com/arkhipenko/TaskScheduler)/904 | Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers |
-| 1044 | 82 | 7 | 12 days ago | [QPanda-2](https://github.com/OriginQ/QPanda-2)/905 | QPanda 2 is an open source quantum computing framework developed by  OriginQC that can be used to build, run, and optimize quantum algorithms.  |
-| 1044 | 68 | 78 | 4 days ago | [piper](https://github.com/rhasspy/piper)/906 | A fast, local neural text to speech system |
-| 1043 | 165 | 0 | 1 year, 15 days ago | [Code-Test-Study](https://github.com/CodeTest-StudyGroup/Code-Test-Study)/907 | 코딩 테스트 관련 기출문항을 풀어보고 소스코드 및 설명을 업로드합니다. |
-| 1043 | 189 | 0 | 1 year, 1 month ago | [Cubli_Mini](https://github.com/ZhaJiHu/Cubli_Mini)/908 | None |
-| 1042 | 108 | 24 | 10 days ago | [pixel-perfect-sfm](https://github.com/cvg/pixel-perfect-sfm)/909 | Pixel-Perfect Structure-from-Motion with Featuremetric Refinement (ICCV 2021, Best Student Paper Award) |
-| 1042 | 160 | 2 | 6 years ago | [wannakey](https://github.com/aguinet/wannakey)/910 | Wannacry in-memory key recovery |
-| 1041 | 734 | 160 | 2 years ago | [rotors_simulator](https://github.com/ethz-asl/rotors_simulator)/911 | RotorS is a UAV gazebo simulator |
-| 1038 | 392 | 25 | 3 years ago | [xlua-framework](https://github.com/smilehao/xlua-framework)/912 | Unity游戏纯lua客户端完整框架---基于xlua，整合tolua的proto-gen-lua以及各个lua库和工具类 |
-| 1038 | 121 | 16 | 2 years ago | [FractalSoundExplorer](https://github.com/HackerPoet/FractalSoundExplorer)/913 | Explore fractals in an audio-visual sandbox |
-| 1038 | 58 | 13 | 4 months ago | [mt32-pi](https://github.com/dwhinham/mt32-pi)/914 | 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth. |
-| 1038 | 260 | 12 | 11 months ago | [simhash](https://github.com/yanyiwu/simhash)/915 | 中文文档simhash值计算 |
-| 1036 | 126 | 124 | 3 days ago | [Torque3D](https://github.com/TorqueGameEngines/Torque3D)/916 | None |
-| 1033 | 92 | 5 | 5 years ago | [cocaine-core](https://github.com/cocaine/cocaine-core)/917 | An open platform to build your own PaaS clouds. |
-| 1031 | 26 | 23 | 1 year, 10 months ago | [win3wm](https://github.com/McYoloSwagHam/win3wm)/918 | A Tiling Window Manager for windows 10, Inspired by  i3wm |
-| 1029 | 382 | 7 | 8 hours ago | [ParaView](https://github.com/Kitware/ParaView)/919 | VTK-based Data Analysis and Visualization Application |
-| 1029 | 486 | 81 | 3 years ago | [rovio](https://github.com/ethz-asl/rovio)/920 | None |
-| 1028 | 207 | 30 | 5 days ago | [swift-llbuild](https://github.com/apple/swift-llbuild)/921 | A low-level build system, used by Xcode and the Swift Package Manager |
-| 1028 | 423 | 65 | 7 years ago | [cxxnet](https://github.com/dmlc/cxxnet)/922 | move forward to https://github.com/dmlc/mxnet |
-| 1027 | 257 | 117 | 7 days ago | [veyon](https://github.com/veyon/veyon)/923 | Cross-platform computer monitoring and classroom management |
-| 1024 | 193 | 87 | 1 year, 6 months ago | [JoyCon-Driver](https://github.com/fossephate/JoyCon-Driver)/924 | A vJoy feeder for the Nintendo Switch JoyCons and Pro Controller |
-| 1023 | 152 | 180 | 3 years ago | [openjdk-jfx](https://github.com/javafxports/openjdk-jfx)/925 | The openjfx repo has moved to: |
-| 1023 | 245 | 39 | a month ago | [libopenshot](https://github.com/OpenShot/libopenshot)/926 | OpenShot Video Library (libopenshot) is a free, open-source project dedicated to delivering high quality video editing, animation, and playback solutions to the world. API currently supports C++, Python, and Ruby. |
-| 1021 | 452 | 37 | 5 hours ago | [percona-server](https://github.com/percona/percona-server)/927 | Percona Server |
-| 1018 | 162 | 20 | 2 months ago | [pygpt4all](https://github.com/nomic-ai/pygpt4all)/928 | Official supported Python bindings for llama.cpp + gpt4all |
-| 1017 | 171 | 6 | 3 months ago | [CZXing](https://github.com/devilsen/CZXing)/929 | Make you have the QRCode Scan ability like WeChat! |
-| 1015 | 140 | 66 | 1 year, 8 months ago | [docopt.cpp](https://github.com/docopt/docopt.cpp)/930 | C++11 port of docopt |
-| 1013 | 281 | 95 | a month ago | [DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo)/931 | NVIDIA DeepStream SDK 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 / 5.1 implementation for YOLO models |
-| 1013 | 59 | 41 | 1 year, 2 months ago | [FlexASIO](https://github.com/dechamps/FlexASIO)/932 | A flexible universal ASIO driver that uses the PortAudio sound I/O library. Supports WASAPI (shared and exclusive), KS, DirectSound and MME. |
-| 1013 | 128 | 14 | 3 days ago | [pmp-library](https://github.com/pmp-library/pmp-library)/933 | The Polygon Mesh Processing Library |
-| 1012 | 406 | 31 | 3 years ago | [LINE](https://github.com/tangjianpku/LINE)/934 | LINE: Large-scale information network embedding |
-| 1011 | 91 | 103 | 22 days ago | [timewarrior](https://github.com/GothenburgBitFactory/timewarrior)/935 | Timewarrior - Commandline Time Tracking and Reporting |
-| 1010 | 42 | 19 | 4 years ago | [rethinkdb_rebirth](https://github.com/rethinkdb/rethinkdb_rebirth)/936 | The open-source database for the realtime web. |
-| 1009 | 333 | 5 | 5 months ago | [deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps)/937 | Samples for TensorRT/Deepstream for Tesla & Jetson |
-| 1008 | 182 | 88 | 16 days ago | [flare-engine](https://github.com/flareteam/flare-engine)/938 | Free/Libre Action Roleplaying Engine (engine only) |
-| 1008 | 194 | 142 | 5 months ago | [qucs](https://github.com/Qucs/qucs)/939 | Qucs Project official mirror |
-| 1008 | 296 | 16 | 2 months ago | [armnn](https://github.com/ARM-software/armnn)/940 | Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn |
-| 1007 | 93 | 41 | 1 year, 4 months ago | [d912pxy](https://github.com/megai2/d912pxy)/941 | DirectX9 to DirectX12 API proxy for Guild Wars 2 |
-| 1006 | 300 | 11 | 7 months ago | [AiyaEffectsAndroid](https://github.com/aiyaapp/AiyaEffectsAndroid)/942 | 宝宝特效Demo通过短视频SDK、直播SDK轻松实现特效与视频剪辑，为用户提供特效相机，拍摄辅助，自动美颜相机，抖音滤镜、直播礼物、直播贴纸等，超低占用空间，十秒大型场景仅100KB+， 精准人脸识别、人脸跟踪，支持3D特效，3D动画特效，2D特效、动画渲染、特效渲染等,  visual effects IOS demo, support 3D effect, 3D Animation, 2D effect |
-| 1006 | 386 | 8 | 6 years ago | [MemoryPool](https://github.com/cacay/MemoryPool)/943 | An easy to use and efficient memory pool allocator written in C++. |
-| 1006 | 110 | 37 | 4 years ago | [MoveToDesktop](https://github.com/Eun/MoveToDesktop)/944 | Move windows using hotkeys or the system menu |
-| 1006 | 253 | 29 | 1 year, 2 months ago | [Qt-Frameless-Window-DarkStyle](https://github.com/Jorgen-VikingGod/Qt-Frameless-Window-DarkStyle)/945 | simple MainWindow class implementation with frameless window and custom dark style. It adds also support for titlebar and buttons (minimize, maximize, close) |
-| 1003 | 358 | 11 | 4 years ago | [liquibook](https://github.com/enewhuis/liquibook)/946 | Modern C++ order matching engine |
-| 1003 | 849 | 18 | 15 days ago | [gem5](https://github.com/gem5/gem5)/947 | The official repository for the gem5 computer-system architecture simulator. |
-| 1000 | 274 | 34 | 3 years ago | [LAB](https://github.com/wywu/LAB)/948 | [CVPR 2018] Look at Boundary: A Boundary-Aware Face Alignment Algorithm |
-| 1000 | 116 | 33 | 27 days ago | [cli](https://github.com/daniele77/cli)/949 | A library for interactive command line interfaces in modern C++ |
-| 1000 | 260 | 207 | 2 months ago | [symengine](https://github.com/symengine/symengine)/950 | SymEngine is a fast symbolic manipulation library, written in C++ |
-| 1000 | 157 | 226 | 2 months ago | [lftp](https://github.com/lavv17/lftp)/951 | sophisticated command line file transfer program (ftp, http, sftp, fish, torrent) |
-| 997 | 48 | 53 | 3 months ago | [subsync](https://github.com/sc0ty/subsync)/952 | Subtitle Speech Synchronizer |
-| 994 | 360 | 8 | 3 years ago | [FaceTracker](https://github.com/kylemcdonald/FaceTracker)/953 | Real time deformable face tracking in C++ with OpenCV 3. |
-| 993 | 118 | 212 | 23 hours ago | [OpenLoco](https://github.com/OpenLoco/OpenLoco)/954 | An open source re-implementation of Chris Sawyer's Locomotion |
-| 993 | 361 | 6 | a month ago | [esp8266-weather-station](https://github.com/ThingPulse/esp8266-weather-station)/955 | ESP8266 Weather Station library supporting OpenWeatherMap, Aeris and other sources |
-| 992 | 317 | 8 | 3 years ago | [flownet2](https://github.com/lmb-freiburg/flownet2)/956 | FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks |
-| 990 | 134 | 103 | a month ago | [LuxCore](https://github.com/LuxCoreRender/LuxCore)/957 | LuxCore source repository |
-| 990 | 224 | 110 | 5 days ago | [qskinny](https://github.com/uwerat/qskinny)/958 | A lightweight framework on top of the Qt scene graph and only few classes from Qt/Quick. It is usable from C++ and/or QML. |
-| 989 | 205 | 1 | 21 days ago | [herpaderping](https://github.com/jxy-s/herpaderping)/959 | Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process. |
-| 989 | 440 | 70 | 2 years ago | [EtherCard](https://github.com/njh/EtherCard)/960 | EtherCard is an IPv4 driver for the ENC28J60 chip, compatible with Arduino IDE |
-| 988 | 93 | 80 | 9 days ago | [steam-audio](https://github.com/ValveSoftware/steam-audio)/961 | Steam Audio |
-| 985 | 160 | 6 | 8 days ago | [fatal](https://github.com/facebook/fatal)/962 | Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood. |
-| 985 | 148 | 520 | 3 hours ago | [xls](https://github.com/google/xls)/963 | XLS: Accelerated HW Synthesis |
-| 985 | 281 | 65 | 3 months ago | [VaRest](https://github.com/ufna/VaRest)/964 | REST API plugin for Unreal Engine 4 - we love restfull backend and JSON communications! |
-| 985 | 126 | 20 | 2 years ago | [cpp.react](https://github.com/snakster/cpp.react)/965 | C++React: A reactive programming library for C++11. |
-| 984 | 273 | 21 | a day ago | [brainflow](https://github.com/brainflow-dev/brainflow)/966 | BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors |
-| 984 | 276 | 144 | 2 years ago | [Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)/967 | Use Telegram on your Arduino (ESP8266 or Wifi-101 boards) |
-| 982 | 306 | 3 | 1 year, 6 months ago | [DdiMon](https://github.com/tandasat/DdiMon)/968 | Monitoring and controlling kernel API calls with stealth hook using EPT |
-| 982 | 64 | 55 | 2 months ago | [tikzit](https://github.com/tikzit/tikzit)/969 | pgf/TikZ diagram editor |
-| 982 | 70 | 4 | 6 years ago | [ftl](https://github.com/beark/ftl)/970 | C++ template library for fans of functional programming |
-| 980 | 48 | 54 | 2 months ago | [vkBasalt](https://github.com/DadSchoorse/vkBasalt)/971 | a vulkan post processing layer for linux |
-| 980 | 116 | 11 | 22 days ago | [Hoard](https://github.com/emeryberger/Hoard)/972 | The Hoard Memory Allocator: A Fast, Scalable, and Memory-efficient Malloc for Linux, Windows, and Mac. |
-| 978 | 145 | 211 | 30 days ago | [wubiuefi](https://github.com/hakuna-m/wubiuefi)/973 | fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases |
-| 977 | 80 | 7 | a month ago | [blink](https://github.com/crosire/blink)/974 | A tool which allows you to edit source code of any MSVC C++ project live at runtime |
-| 976 | 139 | 39 | a day ago | [mariana-trench](https://github.com/facebook/mariana-trench)/975 | A security focused static analysis tool for Android and Java applications. |
-| 975 | 169 | 1 | 4 hours ago | [VulkanSceneGraph](https://github.com/vsg-dev/VulkanSceneGraph)/976 | Vulkan & C++17 based Scene Graph Project |
-| 972 | 302 | 4 | 1 year, 1 month ago | [image-processing-from-scratch](https://github.com/o0o0o0o0o0o0o/image-processing-from-scratch)/977 | This project contains some interesting image processing algorithms that were wrote in python and c++ from scratch. |
-| 971 | 78 | 8 | 24 days ago | [nanort](https://github.com/lighttransport/nanort)/978 | NanoRT, single header only modern ray tracing kernel. |
-| 971 | 62 | 151 | 9 months ago | [enve](https://github.com/MaurycyLiebner/enve)/979 | Flexible, user expandable 2D animation software for Linux and Windows. |
-| 970 | 464 | 6 | 4 years ago | [ai](https://github.com/a16z/ai)/980 | Repo for work for AI Survey |
-| 970 | 149 | 18 | 10 hours ago | [async_simple](https://github.com/alibaba/async_simple)/981 | Simple, light-weight and easy-to-use asynchronous components  |
-| 970 | 530 | 5 | 5 days ago | [mongo-cxx-driver](https://github.com/mongodb/mongo-cxx-driver)/982 | C++ Driver for MongoDB |
-| 969 | 398 | 126 | a day ago | [PDAL](https://github.com/PDAL/PDAL)/983 | PDAL is Point Data Abstraction Library. GDAL for point cloud data. |
-| 968 | 379 | 57 | 21 days ago | [asio](https://github.com/boostorg/asio)/984 | Boost.org asio module |
-| 968 | 45 | 33 | 2 months ago | [linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine)/985 | Wallpaper Engine backgrounds for Linux! |
-| 966 | 58 | 21 | 5 years ago | [cplusequality](https://github.com/ErisBlastar/cplusequality)/986 | Feminist Software Foundation C+=, a new language for us feminists |
-| 966 | 122 | 64 | 3 years ago | [LiquidCore](https://github.com/LiquidPlayer/LiquidCore)/987 | Node.js virtual machine for Android and iOS |
-| 965 | 346 | 47 | 2 years ago | [redtail](https://github.com/NVIDIA-AI-IOT/redtail)/988 | Perception and AI components for autonomous mobile robotics. |
-| 965 | 72 | 29 | 1 year, 2 months ago | [gg](https://github.com/StanfordSNR/gg)/989 | The Stanford Builder |
-| 965 | 168 | 416 | 4 days ago | [verible](https://github.com/chipsalliance/verible)/990 | Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server |
-| 963 | 93 | 3 | 15 days ago | [LTESniffer](https://github.com/SysSec-KAIST/LTESniffer)/991 |  An Open-source LTE Downlink/Uplink Eavesdropper |
-| 962 | 204 | 24 | 2 years ago | [hvpp](https://github.com/wbenny/hvpp)/992 | hvpp is a lightweight Intel x64/VT-x hypervisor written in C++ focused primarily on virtualization of already running operating system |
-| 962 | 117 | 223 | 5 days ago | [Control-Surface](https://github.com/tttapa/Control-Surface)/993 | Arduino library for creating MIDI controllers and other MIDI devices. |
-| 962 | 273 | 18 | 1 year, 25 days ago | [Amazon-SDE-Preparation](https://github.com/FazeelUsmani/Amazon-SDE-Preparation)/994 | This repository includes all the interview preparation questions for Amazon SDE role |
-| 962 | 150 | 277 | a day ago | [realm-core](https://github.com/realm/realm-core)/995 | Core database component for the Realm Mobile Database SDKs |
-| 962 | 154 | 2 | 16 days ago | [q](https://github.com/cycfi/q)/996 | C++ Library for Audio Digital Signal Processing |
-| 960 | 221 | 7 | 29 days ago | [rDSN](https://github.com/microsoft/rDSN)/997 | Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems. |
-| 959 | 260 | 331 | 1 year, 8 months ago | [rstan](https://github.com/stan-dev/rstan)/998 | RStan, the R interface to Stan |
-| 958 | 469 | 386 | 4 years ago | [MPU9250](https://github.com/kriswiner/MPU9250)/999 | Arduino sketches for MPU9250 9DoF with AHRS sensor fusion |
-| 957 | 114 | 18 | a day ago | [ouzel](https://github.com/elnormous/ouzel)/1000 | C++ game engine for Windows, macOS, Linux, iOS, tvOS, Android, and web browsers |
+| 108750 | 14960 | 908 | 23 hours ago | [electron](https://github.com/electron/electron)/1 | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS |
+| 90094 | 7990 | 1473 | 23 hours ago | [terminal](https://github.com/microsoft/terminal)/2 | The new Windows Terminal and the original Windows console host, all in the same place! |
+| 71059 | 35582 | 664 | 9 hours ago | [bitcoin](https://github.com/bitcoin/bitcoin)/3 | Bitcoin Core integration/staging tree |
+| 70821 | 55560 | 2524 | a day ago | [opencv](https://github.com/opencv/opencv)/4 | Open Source Computer Vision Library |
+| 60520 | 15165 | 850 | 19 hours ago | [protobuf](https://github.com/protocolbuffers/protobuf)/5 | Protocol Buffers - Google's data interchange format |
+| 52891 | 8748 | 409 | 10 days ago | [tesseract](https://github.com/tesseract-ocr/tesseract)/6 | Tesseract Open Source OCR Engine (main repository) |
+| 51250 | 5621 | 242 | 2 days ago | [gpt4all](https://github.com/nomic-ai/gpt4all)/7 | gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue |
+| 49789 | 8876 | 909 | a day ago | [imgui](https://github.com/ocornut/imgui)/8 | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies |
+| 41398 | 2203 | 553 | 5 hours ago | [x64dbg](https://github.com/x64dbg/x64dbg)/9 | An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. |
+| 38781 | 10428 | 821 | 20 hours ago | [grpc](https://github.com/grpc/grpc)/10 | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) |
+| 33527 | 18981 | 1181 | 3 years ago | [caffe](https://github.com/BVLC/caffe)/11 | Caffe: a fast open framework for deep learning. |
+| 33382 | 7441 | 293 | 4 months ago | [leveldb](https://github.com/google/leveldb)/12 | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. |
+| 32202 | 7660 | 4 | a month ago | [CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)/13 | C++那些事 |
+| 31181 | 3315 | 1018 | 1 year, 1 day ago | [aria2](https://github.com/aria2/aria2)/14 | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. |
+| 30426 | 2639 | 1377 | 19 hours ago | [yuzu](https://github.com/yuzu-emu/yuzu)/15 | Nintendo Switch emulator |
+| 30409 | 6269 | 3443 | 7 hours ago | [ClickHouse](https://github.com/ClickHouse/ClickHouse)/16 | ClickHouse® is a free analytics DBMS for big data |
+| 30051 | 7536 | 16 | 2 months ago | [interview](https://github.com/huihut/interview)/17 | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc. |
+| 29697 | 1448 | 156 | 6 hours ago | [ImHex](https://github.com/WerWolv/ImHex)/18 | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. |
+| 29310 | 5847 | 14 | 3 years ago | [phantomjs](https://github.com/ariya/phantomjs)/19 | Scriptable Headless Browser |
+| 28695 | 2886 | 898 | 4 months ago | [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)/20 | 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 |
+| 27585 | 5007 | 295 | 9 days ago | [calculator](https://github.com/microsoft/calculator)/21 | Windows Calculator: A simple yet powerful calculator that ships with Windows |
+| 26223 | 1889 | 1346 | 2 months ago | [rethinkdb](https://github.com/rethinkdb/rethinkdb)/22 | The open-source database for the realtime web. |
+| 25895 | 5886 | 909 | 16 hours ago | [rocksdb](https://github.com/facebook/rocksdb)/23 | A library that provides an embeddable, persistent key-value store for fast storage. |
+| 25817 | 2816 | 707 | 6 hours ago | [serenity](https://github.com/SerenityOS/serenity)/24 | The Serenity Operating System 🐞 |
+| 25320 | 6433 | 35 | 21 days ago | [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)/25 | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. |
+| 25011 | 2050 | 39 | 29 days ago | [cmder](https://github.com/cmderdev/cmder)/26 | Lovely console emulator package for Windows |
+| 24510 | 8643 | 359 | a day ago | [xgboost](https://github.com/dmlc/xgboost)/27 | Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow |
+| 24278 | 5601 | 82 | 10 hours ago | [mongo](https://github.com/mongodb/mongo)/28 | The MongoDB Database |
+| 24092 | 3089 | 347 | 7 days ago | [faiss](https://github.com/facebookresearch/faiss)/29 | A library for efficient similarity search and clustering of dense vectors. |
+| 23670 | 2231 | 720 | 2 days ago | [taichi](https://github.com/taichi-dev/taichi)/30 | Productive & portable high-performance programming in Python. |
+| 23249 | 9320 | 683 | a month ago | [apollo](https://github.com/ApolloAuto/apollo)/31 | An open autonomous driving platform |
+| 23122 | 4727 | 277 | 16 hours ago | [mediapipe](https://github.com/google/mediapipe)/32 | Cross-platform, customizable ML solutions for live and streaming media. |
+| 22887 | 3826 | 132 | 1 year, 9 months ago | [DeepSpeech](https://github.com/mozilla/DeepSpeech)/33 | DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. |
+| 22458 | 4623 | 797 | 20 hours ago | [tdesktop](https://github.com/telegramdesktop/tdesktop)/34 | Telegram Desktop messaging app |
+| 22061 | 1741 | 458 | 4 hours ago | [fish-shell](https://github.com/fish-shell/fish-shell)/35 | The user-friendly command line shell. |
+| 21652 | 3501 | 2914 | 3 days ago | [qBittorrent](https://github.com/qbittorrent/qBittorrent)/36 | qBittorrent BitTorrent client |
+| 21591 | 3883 | 9 | 17 hours ago | [v8](https://github.com/v8/v8)/37 | The official mirror of the V8 Git repository |
+| 21525 | 1373 | 481 | 4 days ago | [flameshot](https://github.com/flameshot-org/flameshot)/38 | Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: |
+| 21493 | 2860 | 9 | 3 months ago | [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)/39 | 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/ |
+| 20855 | 757 | 134 | 21 hours ago | [dragonfly](https://github.com/dragonflydb/dragonfly)/40 | A modern replacement for Redis and Memcached |
+| 20765 | 5368 | 2110 | 3 hours ago | [Paddle](https://github.com/PaddlePaddle/Paddle)/41 | PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署） |
+| 20755 | 5400 | 409 | 3 days ago | [solidity](https://github.com/ethereum/solidity)/42 | Solidity, the Smart Contract Programming Language |
+| 20521 | 6883 | 2003 | 6 months ago | [mxnet](https://github.com/apache/mxnet)/43 | Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more |
+| 19710 | 3995 | 48 | 12 days ago | [spdlog](https://github.com/gabime/spdlog)/44 | Fast C++ logging library. |
+| 18131 | 2171 | 54 | 3 days ago | [weex](https://github.com/alibaba/weex)/45 | A framework for building Mobile cross-platform UI |
+| 17790 | 3951 | 1032 | a day ago | [ncnn](https://github.com/Tencent/ncnn)/46 | ncnn is a high-performance neural network inference framework optimized for the mobile platform |
+| 17678 | 1754 | 41 | 6 months ago | [tinyrenderer](https://github.com/ssloy/tinyrenderer)/47 | A brief computer graphics / rendering course |
+| 17398 | 4380 | 835 | 11 months ago | [CNTK](https://github.com/microsoft/CNTK)/48 | Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit |
+| 17355 | 7094 | 1602 | 20 days ago | [cocos2d-x](https://github.com/cocos2d/cocos2d-x)/49 | Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x. |
+| 17266 | 928 | 123 | a day ago | [simdjson](https://github.com/simdjson/simdjson)/50 | Parsing gigabytes of JSON per second  |
+| 16979 | 2917 | 383 | 2 days ago | [Catch2](https://github.com/catchorg/Catch2)/51 | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
+| 16897 | 3616 | 411 | 17 days ago | [mars](https://github.com/Tencent/mars)/52 | Mars is a cross-platform network component  developed by WeChat. |
+| 16811 | 1268 | 601 | 6 hours ago | [keepassxc](https://github.com/keepassxreboot/keepassxc)/53 | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. |
+| 16641 | 4357 | 85 | 2 years ago | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)/54 | None |
+| 16216 | 1725 | 109 | 13 hours ago | [filament](https://github.com/google/filament)/55 | Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2 |
+| 16112 | 1791 | 4 | 15 days ago | [MMKV](https://github.com/Tencent/MMKV)/56 | An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX. |
+| 15939 | 1284 | 18 | 4 years ago | [3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners)/57 | 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game. |
+| 15723 | 3209 | 58 | a month ago | [Qv2ray](https://github.com/Qv2ray/Qv2ray)/58 | :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star: |
+| 15714 | 1723 | 24 | 22 days ago | [uWebSockets](https://github.com/uNetworking/uWebSockets)/59 | Simple, secure & standards compliant web server for the most demanding of applications |
+| 15595 | 1147 | 827 | 12 hours ago | [react-native-windows](https://github.com/microsoft/react-native-windows)/60 | A framework for building native Windows apps with React. |
+| 15397 | 3772 | 317 | 3 days ago | [LightGBM](https://github.com/microsoft/LightGBM)/61 | A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. |
+| 15295 | 2002 | 118 | 4 days ago | [libphonenumber](https://github.com/google/libphonenumber)/62 | Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. |
+| 15238 | 13409 | 347 | 11 days ago | [Arduino](https://github.com/esp8266/Arduino)/63 | ESP8266 core for Arduino |
+| 15151 | 18562 | 712 | 17 hours ago | [Marlin](https://github.com/MarlinFirmware/Marlin)/64 | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine. |
+| 14996 | 4293 | 627 | 1 year, 1 month ago | [AirSim](https://github.com/microsoft/AirSim)/65 | Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research |
+| 14906 | 3388 | 997 | 7 hours ago | [FreeCAD](https://github.com/FreeCAD/FreeCAD)/66 | This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. |
+| 14441 | 849 | 43 | 27 days ago | [smartknob](https://github.com/scottbez1/smartknob)/67 | Haptic input knob with software-defined endstops and virtual detents |
+| 14315 | 2799 | 215 | 1 year, 1 month ago | [dogecoin](https://github.com/dogecoin/dogecoin)/68 | very currency |
+| 13978 | 641 | 435 | 8 months ago | [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)/69 | Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. |
+| 13920 | 1075 | 478 | 8 days ago | [cutter](https://github.com/rizinorg/cutter)/70 | Free and Open Source Reverse Engineering Platform powered by rizin |
+| 13814 | 3507 | 0 | 2 years ago | [USTC-Course](https://github.com/USTC-Resource/USTC-Course)/71 | :heart:中国科学技术大学课程资源 |
+| 13480 | 5050 | 63 | 9 months ago | [muduo](https://github.com/chenshuo/muduo)/72 | Event-driven network library for multi-threaded Linux server in C++11 |
+| 13411 | 2002 | 45 | 2 months ago | [IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners)/73 | 12 Weeks, 24 Lessons, IoT for All! |
+| 13384 | 1911 | 589 | 3 days ago | [pybind11](https://github.com/pybind/pybind11)/74 | Seamless operability between C++11 and Python |
+| 13374 | 3649 | 2592 | 11 days ago | [cosmos](https://github.com/OpenGenus/cosmos)/75 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project |
+| 13346 | 1748 | 1356 | 1 year, 2 months ago | [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf)/76 | Convert HTML to PDF using Webkit (QtWebKit) |
+| 13324 | 1840 | 284 | 4 days ago | [bgfx](https://github.com/bkaradzic/bgfx)/77 | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. |
+| 13320 | 3451 | 671 | 9 days ago | [rapidjson](https://github.com/Tencent/rapidjson)/78 | A fast JSON parser/generator for C++ with both SAX/DOM style API |
+| 13215 | 475 | 151 | 14 days ago | [codon](https://github.com/exaloop/codon)/79 | A high-performance, zero-overhead, extensible Python compiler using LLVM |
+| 13149 | 1747 | 33 | 3 months ago | [skyline](https://github.com/skyline-emu/skyline)/80 | Run Nintendo Switch homebrew & games on your Android device! |
+| 13108 | 1265 | 908 | 14 hours ago | [foundationdb](https://github.com/apple/foundationdb)/81 | FoundationDB - the open source, distributed, transactional key-value store |
+| 13100 | 825 | 801 | a day ago | [arangodb](https://github.com/arangodb/arangodb)/82 | 🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions. |
+| 13054 | 1792 | 898 | 9 hours ago | [rpcs3](https://github.com/RPCS3/rpcs3)/83 | PS3 emulator/debugger |
+| 12839 | 621 | 204 | 7 days ago | [polybar](https://github.com/polybar/polybar)/84 | A fast and easy-to-use status bar |
+| 12820 | 1026 | 123 | 3 years ago | [guetzli](https://github.com/google/guetzli)/85 | Perceptual JPEG encoder |
+| 12787 | 1035 | 101 | a month ago | [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)/86 | A lightweight utility that makes the Windows taskbar translucent/transparent. |
+| 12713 | 410 | 187 | 22 days ago | [btop](https://github.com/aristocratos/btop)/87 | A monitor of resources |
+| 12642 | 2380 | 149 | a day ago | [abseil-cpp](https://github.com/abseil/abseil-cpp)/88 | Abseil Common Libraries (C++) |
+| 12347 | 3041 | 3743 | 18 hours ago | [arrow](https://github.com/apache/arrow)/89 | Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing |
+| 12286 | 6199 | 872 | 4 hours ago | [ceph](https://github.com/ceph/ceph)/90 | Ceph is a distributed object, block, and file storage platform  |
+| 12134 | 1428 | 1446 | 2 days ago | [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2)/91 | An open source re-implementation of RollerCoaster Tycoon 2 🎢 |
+| 12095 | 2471 | 305 | a day ago | [WLED](https://github.com/Aircoookie/WLED)/92 | Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! |
+| 12010 | 1208 | 24 | 3 days ago | [upx](https://github.com/upx/upx)/93 | UPX - the Ultimate Packer for eXecutables |
+| 11893 | 982 | 185 | 17 hours ago | [watchman](https://github.com/facebook/watchman)/94 | Watches files and records, or triggers actions, when they change.  |
+| 11885 | 1472 | 201 | 18 hours ago | [ZeroTierOne](https://github.com/zerotier/ZeroTierOne)/95 | A Smart Ethernet Switch for Earth |
+| 11809 | 1124 | 52 | 5 days ago | [annoy](https://github.com/spotify/annoy)/96 | Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk |
+| 11710 | 3009 | 49 | 25 days ago | [libfacedetection](https://github.com/ShiqiYu/libfacedetection)/97 | An open source library for face detection in images. The face detection speed can reach 1000FPS.  |
+| 11621 | 1081 | 600 | a day ago | [duckdb](https://github.com/duckdb/duckdb)/98 | DuckDB is an in-process SQL OLAP Database Management System |
+| 11315 | 3702 | 385 | 2 years ago | [eos](https://github.com/EOSIO/eos)/99 | An open source smart contract platform  |
+| 11292 | 2170 | 18 | 3 days ago | [workflow](https://github.com/sogou/workflow)/100 | C++ Parallel Computing and Asynchronous Networking Engine |
+| 9462 | 2965 | 28 | 7 months ago | [MyTinySTL](https://github.com/Alinshans/MyTinySTL)/101 | Achieve a tiny STL in C++11 |
+| 9386 | 1103 | 457 | 3 days ago | [nebula](https://github.com/vesoft-inc/nebula)/102 |   A distributed, fast open-source graph database featuring horizontal scalability and high availability |
+| 9342 | 2043 | 911 | 8 days ago | [Open3D](https://github.com/isl-org/Open3D)/103 | Open3D: A Modern Library for 3D Data Processing |
+| 9302 | 2051 | 33 | 3 days ago | [Stockfish](https://github.com/official-stockfish/Stockfish)/104 | A free and strong UCI chess engine |
+| 9298 | 1878 | 36 | 6 years ago | [hardseed](https://github.com/yangyangwithgnu/hardseed)/105 | SEX IS ZERO (0), so, who wanna be the ONE (1), aha? |
+| 9277 | 2573 | 127 | 2 months ago | [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)/106 | Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com |
+| 9249 | 356 | 67 | 4 years ago | [napajs](https://github.com/microsoft/napajs)/107 | Napa.js: a multi-threaded JavaScript runtime |
+| 9227 | 1839 | 1150 | a day ago | [minetest](https://github.com/minetest/minetest)/108 | Minetest is an open source voxel game engine with easy modding and game creation |
+| 9183 | 799 | 724 | 11 months ago | [robomongo](https://github.com/Studio3T/robomongo)/109 | Native cross-platform MongoDB management tool |
+| 9089 | 2776 | 84 | 2 years ago | [CLRS](https://github.com/gzc/CLRS)/110 | :notebook:Solutions to Introduction to Algorithms |
+| 9063 | 1341 | 483 | 8 days ago | [STL](https://github.com/microsoft/STL)/111 | MSVC's implementation of the C++ Standard Library. |
+| 9041 | 1677 | 687 | 2 days ago | [citra](https://github.com/citra-emu/citra)/112 | A Nintendo 3DS Emulator |
+| 8995 | 1399 | 135 | 17 hours ago | [z3](https://github.com/Z3Prover/z3)/113 | The Z3 Theorem Prover |
+| 8983 | 971 | 76 | 3 hours ago | [shotcut](https://github.com/mltframework/shotcut)/114 | cross-platform (Qt), open-source (GPLv3) video editor |
+| 8956 | 1605 | 180 | 21 days ago | [SFML](https://github.com/SFML/SFML)/115 | Simple and Fast Multimedia Library |
+| 8931 | 689 | 827 | 3 days ago | [kakoune](https://github.com/mawww/kakoune)/116 | mawww's experiment for a better code editor |
+| 8843 | 1202 | 2793 | a day ago | [nix](https://github.com/NixOS/nix)/117 | Nix, the purely functional package manager |
+| 8833 | 3837 | 1873 | 12 hours ago | [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)/118 | Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world. |
+| 8770 | 4476 | 584 | a day ago | [pcl](https://github.com/PointCloudLibrary/pcl)/119 | Point Cloud Library (PCL) |
+| 8738 | 14920 | 2301 | 2 days ago | [ardupilot](https://github.com/ArduPilot/ardupilot)/120 | ArduPlane, ArduCopter, ArduRover, ArduSub source |
+| 8664 | 1043 | 36 | 2 months ago | [taskflow](https://github.com/taskflow/taskflow)/121 | A General-purpose Parallel and Heterogeneous Task Programming System |
+| 8556 | 1152 | 374 | 6 months ago | [anbox](https://github.com/anbox/anbox)/122 | Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system  |
+| 8548 | 2729 | 4447 | a day ago | [QGIS](https://github.com/qgis/QGIS)/123 | QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS) |
+| 8514 | 274 | 72 | 5 days ago | [nodegui](https://github.com/nodegui/nodegui)/124 | A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org |
+| 8419 | 1357 | 174 | 3 months ago | [node-sass](https://github.com/sass/node-sass)/125 | :rainbow: Node.js bindings to libsass |
+| 8412 | 4584 | 786 | 5 years ago | [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2)/126 | Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities |
+| 8268 | 1962 | 130 | a month ago | [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)/127 | Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.   |
+| 8160 | 568 | 1004 | a month ago | [ConEmu](https://github.com/Maximus5/ConEmu)/128 | Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more |
+| 8132 | 1132 | 0 | 4 days ago | [re2](https://github.com/google/re2)/129 | RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library. |
+| 8115 | 535 | 432 | 13 hours ago | [rr](https://github.com/rr-debugger/rr)/130 | Record and Replay Framework |
+| 8114 | 1550 | 32 | 2 months ago | [concurrentqueue](https://github.com/cameron314/concurrentqueue)/131 | A fast multi-producer, multi-consumer lock-free concurrent queue for C++11 |
+| 8096 | 748 | 117 | 7 months ago | [engine-sim](https://github.com/ange-yaghi/engine-sim)/132 | Combustion engine simulator that generates realistic audio. |
+| 8082 | 1023 | 25 | 21 days ago | [sentencepiece](https://github.com/google/sentencepiece)/133 | Unsupervised text tokenizer for Neural Network-based text generation. |
+| 8061 | 3531 | 553 | 9 days ago | [monero](https://github.com/monero-project/monero)/134 | Monero: the secure, private, untraceable cryptocurrency |
+| 7996 | 561 | 118 | 14 hours ago | [hermes](https://github.com/facebook/hermes)/135 | A JavaScript engine optimized for running React Native. |
+| 7955 | 850 | 323 | 17 hours ago | [triton](https://github.com/openai/triton)/136 | Development repository for the Triton language and compiler |
+| 7913 | 2356 | 75 | 3 years ago | [shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5)/137 | A cross-platform shadowsocks GUI client |
+| 7883 | 1521 | 41 | 15 hours ago | [proxygen](https://github.com/facebook/proxygen)/138 | A collection of C++ HTTP libraries including an easy to use HTTP server. |
+| 7795 | 1369 | 26 | 10 hours ago | [skia](https://github.com/google/skia)/139 | Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. |
+| 7790 | 552 | 10 | 7 months ago | [kbd-audio](https://github.com/ggerganov/kbd-audio)/140 | 🎤⌨️ Acoustic keyboard eavesdropping |
+| 7778 | 855 | 92 | 2 years ago | [waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe)/141 | waifu2xのCaffe版 |
+| 7769 | 1510 | 148 | a day ago | [benchmark](https://github.com/google/benchmark)/142 | A microbenchmark support library |
+| 7740 | 1450 | 121 | a day ago | [gperftools](https://github.com/gperftools/gperftools)/143 | Main gperftools repository |
+| 7699 | 1204 | 54 | 2 days ago | [renderdoc](https://github.com/baldurk/renderdoc)/144 | RenderDoc is a stand-alone graphics debugging tool. |
+| 7611 | 483 | 1434 | 5 hours ago | [redpanda](https://github.com/redpanda-data/redpanda)/145 | Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM! |
+| 7566 | 1454 | 479 | 4 days ago | [seastar](https://github.com/scylladb/seastar)/146 | High performance server-side application framework |
+| 7548 | 1644 | 829 | 9 months ago | [cpprestsdk](https://github.com/microsoft/cpprestsdk)/147 | The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services. |
+| 7465 | 472 | 127 | 1 year, 2 months ago | [git-crypt](https://github.com/AGWA/git-crypt)/148 | Transparent file encryption in git |
+| 7431 | 917 | 413 | 19 days ago | [retdec](https://github.com/avast/retdec)/149 | RetDec is a retargetable machine-code decompiler based on LLVM. |
+| 7428 | 973 | 231 | 4 days ago | [s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse)/150 | FUSE-based file system backed by Amazon S3 |
+| 7394 | 2567 | 151 | a month ago | [jsoncpp](https://github.com/open-source-parsers/jsoncpp)/151 | A C++ library for interacting with JSON. |
+| 7301 | 872 | 70 | 9 days ago | [EASTL](https://github.com/electronicarts/EASTL)/152 | EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance. |
+| 7297 | 555 | 44 | 21 days ago | [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)/153 | Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption. |
+| 7269 | 2705 | 17 | 2 years ago | [MVision](https://github.com/Ewenwan/MVision)/154 | 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶 |
+| 7265 | 834 | 22 | a day ago | [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey)/155 | AutoHotkey - macro-creation and automation-oriented scripting utility for Windows. |
+| 7227 | 899 | 207 | 11 months ago | [crow](https://github.com/ipkn/crow)/156 | Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask) |
+| 7177 | 508 | 94 | 2 months ago | [olive](https://github.com/olive-editor/olive)/157 | Free open-source non-linear video editor |
+| 7110 | 723 | 372 | 15 hours ago | [devilutionX](https://github.com/diasurgical/devilutionX)/158 | Diablo build for modern operating systems |
+| 7097 | 611 | 3 | 7 months ago | [flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding)/159 | Experimental plugins for Flutter for Desktop |
+| 7075 | 1165 | 262 | a month ago | [bpftrace](https://github.com/iovisor/bpftrace)/160 | High-level tracing language for Linux eBPF |
+| 7071 | 1482 | 158 | 5 years ago | [Xposed](https://github.com/rovo89/Xposed)/161 | The native part of the Xposed framework (mainly the modified app_process binary). |
+| 7022 | 511 | 30 | 23 days ago | [node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js)/162 | bcrypt for NodeJs |
+| 6950 | 1629 | 243 | 6 years ago | [AndFix](https://github.com/alibaba/AndFix)/163 | AndFix is a library that offer hot-fix for Android App. |
+| 6949 | 278 | 143 | 1 year, 1 month ago | [tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy)/164 |  THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained. |
+| 6944 | 945 | 1090 | 14 hours ago | [lmms](https://github.com/LMMS/lmms)/165 | Cross-platform music production software |
+| 6878 | 1786 | 577 | 13 hours ago | [mame](https://github.com/mamedev/mame)/166 | MAME |
+| 6872 | 1044 | 409 | 25 days ago | [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows)/167 | An installation and update framework for Windows desktop apps |
+| 6871 | 294 | 7 | 8 days ago | [albert](https://github.com/albertlauncher/albert)/168 | A fast and flexible keyboard launcher |
+| 6862 | 322 | 192 | 16 days ago | [neutralinojs](https://github.com/neutralinojs/neutralinojs)/169 | Portable and lightweight cross-platform desktop application development framework |
+| 6849 | 752 | 11 | 3 months ago | [GuiLite](https://github.com/idea4good/GuiLite)/170 | ✔️The smallest header-only GUI library(4 KLOC) for all platforms |
+| 6812 | 402 | 349 | 2 days ago | [CopyQ](https://github.com/hluk/CopyQ)/171 | Clipboard manager with advanced features |
+| 6746 | 12662 | 1622 | a day ago | [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)/172 | PX4 Autopilot Software |
+| 6745 | 2084 | 42 | 8 years ago | [ThreadPool](https://github.com/progschj/ThreadPool)/173 | A simple C++11 Thread Pool implementation |
+| 6728 | 5379 | 76 | 11 hours ago | [engine](https://github.com/flutter/engine)/174 | The Flutter engine |
+| 6727 | 1219 | 189 | 2 days ago | [oatpp](https://github.com/oatpp/oatpp)/175 | 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable. |
+| 6715 | 1466 | 201 | 24 days ago | [ModSecurity](https://github.com/SpiderLabs/ModSecurity)/176 | ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence.  |
+| 6701 | 2006 | 103 | 1 year, 5 months ago | [WebServer](https://github.com/linyacool/WebServer)/177 | A C++ High Performance Web Server |
+| 6679 | 2823 | 245 | 29 days ago | [jetson-inference](https://github.com/dusty-nv/jetson-inference)/178 | Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. |
+| 6640 | 1600 | 1194 | 5 days ago | [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)/179 | PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎） |
+| 6604 | 2181 | 211 | 11 months ago | [cartographer](https://github.com/cartographer-project/cartographer)/180 | Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. |
+| 6579 | 1704 | 3413 | 4 days ago | [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)/181 | G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.) |
+| 6546 | 590 | 455 | 23 days ago | [multipass](https://github.com/canonical/multipass)/182 | Multipass orchestrates virtual Ubuntu instances |
+| 6526 | 598 | 281 | 14 hours ago | [WasmEdge](https://github.com/WasmEdge/WasmEdge)/183 | WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. |
+| 6503 | 2490 | 178 | 3 days ago | [esphome](https://github.com/esphome/esphome)/184 | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. |
+| 6429 | 747 | 40 | 2 days ago | [async-profiler](https://github.com/async-profiler/async-profiler)/185 | Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events |
+| 6424 | 1769 | 48 | 7 years ago | [design_patterns](https://github.com/me115/design_patterns)/186 | 图说设计模式 |
+| 6352 | 764 | 73 | 4 months ago | [LAVFilters](https://github.com/Nevcairiel/LAVFilters)/187 | LAV Filters - Open-Source DirectShow Media Splitter and Decoders |
+| 6335 | 1902 | 421 | 3 years ago | [websocketpp](https://github.com/zaphoyd/websocketpp)/188 | C++ websocket client/server library |
+| 6306 | 2000 | 61 | 2 months ago | [glog](https://github.com/google/glog)/189 | C++ implementation of the Google logging module |
+| 6302 | 507 | 7 | 13 days ago | [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js)/190 | μWebSockets for Node.js back-ends :metal: |
+| 6299 | 3157 | 199 | 1 year, 7 months ago | [slambook](https://github.com/gaoxiang12/slambook)/191 | None |
+| 6277 | 1108 | 248 | a month ago | [udp2raw](https://github.com/wangyu-/udp2raw)/192 | A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment) |
+| 6277 | 1030 | 106 | 8 months ago | [wav2letter](https://github.com/flashlight/wav2letter)/193 | Facebook AI Research's Automatic Speech Recognition Toolkit  |
+| 6274 | 2523 | 82 | 5 years ago | [EasyPR](https://github.com/liuruoze/EasyPR)/194 | (CGCSTCD'2017) An easy, flexible, and accurate plate recognition project for Chinese licenses in unconstrained situations.  CGCSTCD = China Graduate Contest on Smart-city Technology and Creative Design |
+| 6261 | 1106 | 20 | 2 days ago | [ArduinoJson](https://github.com/bblanchon/ArduinoJson)/195 | 📟 JSON library for Arduino and embedded C++. Simple and efficient. |
+| 6161 | 620 | 1865 | a day ago | [organicmaps](https://github.com/organicmaps/organicmaps)/196 | 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! |
+| 6045 | 409 | 171 | 4 days ago | [moonlight-qt](https://github.com/moonlight-stream/moonlight-qt)/197 | GameStream client for PCs (Windows, Mac, Linux, and Steam Link) |
+| 5960 | 1841 | 559 | 2 months ago | [WiFiManager](https://github.com/tzapu/WiFiManager)/198 | ESP8266 WiFi Connection manager with web captive portal |
+| 5941 | 1556 | 423 | a month ago | [FastLED](https://github.com/FastLED/FastLED)/199 | The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tracking library bugs / enhancements.  |
+| 5903 | 727 | 898 | 9 hours ago | [cudf](https://github.com/rapidsai/cudf)/200 | cuDF - GPU DataFrame Library  |
+| 5828 | 916 | 112 | 6 months ago | [draco](https://github.com/google/draco)/201 | Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics. |
+| 5805 | 1121 | 896 | 20 hours ago | [openscad](https://github.com/openscad/openscad)/202 | OpenSCAD - The Programmers Solid 3D CAD Modeller   |
+| 5758 | 1078 | 220 | 3 years ago | [blackbird](https://github.com/butor/blackbird)/203 | Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy |
+| 5749 | 983 | 43 | a month ago | [snappy](https://github.com/google/snappy)/204 | A fast compressor/decompressor |
+| 5735 | 1285 | 979 | a day ago | [openvr](https://github.com/ValveSoftware/openvr)/205 | OpenVR SDK |
+| 5697 | 1486 | 81 | 9 days ago | [recastnavigation](https://github.com/recastnavigation/recastnavigation)/206 | Navigation-mesh Toolset for Games |
+| 5693 | 1402 | 300 | 4 years ago | [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)/207 | header only, dependency-free deep learning framework in C++14 |
+| 5691 | 616 | 116 | a day ago | [wabt](https://github.com/WebAssembly/wabt)/208 | The WebAssembly Binary Toolkit |
+| 5678 | 864 | 49 | 7 days ago | [cpr](https://github.com/libcpr/cpr)/209 | C++ Requests: Curl for People, a spiritual port of Python Requests. |
+| 5658 | 684 | 64 | 4 hours ago | [interpret](https://github.com/interpretml/interpret)/210 | Fit interpretable models. Explain blackbox machine learning.  |
+| 5646 | 3058 | 935 | 6 days ago | [osrm-backend](https://github.com/Project-OSRM/osrm-backend)/211 | Open Source Routing Machine - C++ backend |
+| 5598 | 481 | 0 | 15 hours ago | [krita](https://github.com/KDE/krita)/212 | Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks. |
+| 5574 | 1309 | 647 | 5 days ago | [colmap](https://github.com/colmap/colmap)/213 | COLMAP - Structure-from-Motion and Multi-View Stereo |
+| 5574 | 344 | 42 | a month ago | [BetterNCM](https://github.com/MicroCBer/BetterNCM)/214 | NCM 软件插件管理器 |
+| 5568 | 669 | 52 | 5 months ago | [OpenArk](https://github.com/BlackINT3/OpenArk)/215 | OpenArk is an open source anti-rookit(ARK) tool for Windows.  |
+| 5564 | 404 | 223 | 9 days ago | [Cemu](https://github.com/cemu-project/Cemu)/216 | Cemu - Wii U emulator |
+| 5490 | 910 | 1033 | 10 days ago | [proxysql](https://github.com/sysown/proxysql)/217 | High-performance MySQL proxy with a GPL license. |
+| 5478 | 1042 | 47 | 8 days ago | [mediasoup](https://github.com/versatica/mediasoup)/218 | Cutting Edge WebRTC Video Conferencing |
+| 5453 | 2122 | 0 | a month ago | [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)/219 | wxhook wechathook 微信Api、WeChatApi、微信机器人 python微信api 微信接口 微信数据库解密 PC微信3.9 |
+| 5387 | 279 | 42 | 6 months ago | [safetynet-fix](https://github.com/kdrag0n/safetynet-fix)/220 | Google SafetyNet attestation workarounds for Magisk |
+| 5382 | 730 | 5 | 5 days ago | [naiveproxy](https://github.com/klzgrad/naiveproxy)/221 | Make a fortune quietly |
+| 5355 | 669 | 375 | 5 years ago | [edge](https://github.com/tjanczuk/edge)/222 | Run .NET and Node.js code in-process on Windows, MacOS, and Linux |
+| 5340 | 1940 | 70 | 2 months ago | [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)/223 | This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows. |
+| 5250 | 1642 | 2099 | 2 days ago | [wxWidgets](https://github.com/wxWidgets/wxWidgets)/224 | Cross-Platform C++ GUI Library |
+| 5227 | 422 | 70 | a month ago | [snapcast](https://github.com/badaix/snapcast)/225 | Synchronous multiroom audio player |
+| 5220 | 370 | 159 | 5 days ago | [FileCentipede](https://github.com/filecxx/FileCentipede)/226 | Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client. |
+| 5214 | 244 | 152 | 19 hours ago | [easyeffects](https://github.com/wwmm/easyeffects)/227 | Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications |
+| 5204 | 1213 | 49 | 5 days ago | [cp-algorithms](https://github.com/cp-algorithms/cp-algorithms)/228 | Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru) |
+| 5203 | 1112 | 101 | a day ago | [pika](https://github.com/OpenAtomFoundation/pika)/229 | Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team. |
+| 5173 | 2153 | 443 | 1 year, 6 months ago | [ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)/230 | ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM |
+| 5165 | 1189 | 462 | 8 days ago | [swig](https://github.com/swig/swig)/231 | SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages. |
+| 5144 | 1953 | 81 | a month ago | [HyperLPR](https://github.com/szad670401/HyperLPR)/232 | 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework. |
+| 5139 | 941 | 381 | 2 days ago | [Cinder](https://github.com/cinder/Cinder)/233 | Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. |
+| 5134 | 338 | 31 | 7 days ago | [FTXUI](https://github.com/ArthurSonzogni/FTXUI)/234 | :computer: C++ Functional Terminal User Interface. :heart: |
+| 5106 | 1697 | 11 | 7 months ago | [mesos](https://github.com/apache/mesos)/235 | Apache Mesos |
+| 5095 | 600 | 171 | 5 months ago | [doctest](https://github.com/doctest/doctest)/236 | The fastest feature-rich C++11/14/17/20/23 single-header testing framework |
+| 5091 | 1778 | 201 | 4 months ago | [openh264](https://github.com/cisco/openh264)/237 | Open Source H.264 Codec  |
+| 5030 | 1600 | 223 | 4 days ago | [openMVG](https://github.com/openMVG/openMVG)/238 | open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion. |
+| 5013 | 370 | 27 | 6 months ago | [lepton](https://github.com/dropbox/lepton)/239 | Lepton is a tool and file format for losslessly compressing JPEGs by an average of 22%. |
+| 4992 | 691 | 378 | 9 days ago | [stellarium](https://github.com/Stellarium/stellarium)/240 | Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope. |
+| 4990 | 1117 | 37 | a day ago | [al-khaser](https://github.com/LordNoteworthy/al-khaser)/241 | Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.  |
+| 4966 | 1386 | 88 | 18 hours ago | [cppcheck](https://github.com/danmar/cppcheck)/242 | static analysis of C/C++ code |
+| 4952 | 548 | 219 | 3 days ago | [passenger](https://github.com/phusion/passenger)/243 | A fast and robust web server and application server for Ruby, Python and Node.js |
+| 4937 | 1152 | 1 | 6 days ago | [LeetCode](https://github.com/wisdompeak/LeetCode)/244 | This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks. |
+| 4931 | 1527 | 105 | 2 years ago | [algorithms](https://github.com/xtaci/algorithms)/245 | Algorithms & Data structures in C++. |
+| 4923 | 186 | 110 | 19 hours ago | [workerd](https://github.com/cloudflare/workerd)/246 | The JavaScript / Wasm runtime that powers Cloudflare Workers |
+| 4906 | 1089 | 51 | 1 year, 16 days ago | [BlackDex](https://github.com/CodingGay/BlackDex)/247 | BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds. |
+| 4885 | 706 | 831 | 3 days ago | [supercollider](https://github.com/supercollider/supercollider)/248 | An audio server, programming language, and IDE for sound synthesis and algorithmic composition. |
+| 4826 | 472 | 0 | 11 months ago | [Z0FCourse_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)/249 | Reverse engineering focusing on x64 Windows. |
+| 4805 | 819 | 58 | 1 year, 2 months ago | [mace](https://github.com/XiaoMi/mace)/250 | MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms. |
+| 4791 | 816 | 288 | 1 year, 2 months ago | [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs)/251 | Nodejs bindings to OpenCV 3 and OpenCV 4 |
+| 4788 | 367 | 225 | 5 days ago | [pixie](https://github.com/pixie-io/pixie)/252 | Instant Kubernetes-Native Application Observability |
+| 4762 | 918 | 167 | a day ago | [oneTBB](https://github.com/oneapi-src/oneTBB)/253 | oneAPI Threading Building Blocks (oneTBB) |
+| 4734 | 361 | 79 | 3 years ago | [IncludeOS](https://github.com/includeos/IncludeOS)/254 | A minimal, resource efficient unikernel for cloud services |
+| 4726 | 771 | 183 | 2 months ago | [thrust](https://github.com/NVIDIA/thrust)/255 | The C++ parallel algorithms library. |
+| 4694 | 1123 | 10 | 2 years ago | [CodingInterviews](https://github.com/gatieme/CodingInterviews)/256 | 剑指Offer——名企面试官精讲典型编程题 |
+| 4683 | 1166 | 52 | 3 years ago | [pbrt-v3](https://github.com/mmp/pbrt-v3)/257 | Source code for pbrt, the renderer described in the third edition of "Physically Based Rendering: From Theory To Implementation", by Matt Pharr, Wenzel Jakob, and Greg Humphreys. |
+| 4676 | 634 | 569 | 5 days ago | [cuberite](https://github.com/cuberite/cuberite)/258 | A lightweight, fast and extensible game server for Minecraft |
+| 4669 | 865 | 47 | 11 months ago | [AliSQL](https://github.com/alibaba/AliSQL)/259 | AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom. |
+| 4669 | 1015 | 184 | 4 days ago | [cvxpy](https://github.com/cvxpy/cvxpy)/260 | A Python-embedded modeling language for convex optimization problems. |
+| 4664 | 955 | 110 | 2 days ago | [libtorrent](https://github.com/arvidn/libtorrent)/261 | an efficient feature complete C++ bittorrent implementation |
+| 4602 | 1747 | 111 | 7 months ago | [tinyxml2](https://github.com/leethomason/tinyxml2)/262 | TinyXML2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs. |
+| 4590 | 565 | 119 | 11 days ago | [SPTAG](https://github.com/microsoft/SPTAG)/263 | A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario. |
+| 4585 | 526 | 161 | 25 days ago | [MegEngine](https://github.com/MegEngine/MegEngine)/264 | MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架 |
+| 4570 | 592 | 275 | a day ago | [DALI](https://github.com/NVIDIA/DALI)/265 | A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. |
+| 4548 | 1074 | 0 | 8 months ago | [1earn](https://github.com/ffffffff0x/1earn)/266 | ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup |
+| 4537 | 411 | 274 | a month ago | [plaidml](https://github.com/plaidml/plaidml)/267 | PlaidML is a framework for making deep learning work everywhere. |
+| 4530 | 527 | 1 | 11 months ago | [Riru](https://github.com/RikkaApps/Riru)/268 | Inject into zygote process |
+| 4507 | 1155 | 999 | 2 years ago | [omim](https://github.com/mapsme/omim)/269 | 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android |
+| 4493 | 1108 | 4 | 2 months ago | [SimpleNES](https://github.com/amhndu/SimpleNES)/270 | An NES emulator in C++ |
+| 4486 | 793 | 511 | 8 days ago | [pywin32](https://github.com/mhammond/pywin32)/271 | Python for Windows (pywin32) Extensions |
+| 4471 | 537 | 71 | 3 years ago | [instant-meshes](https://github.com/wjakob/instant-meshes)/272 | Interactive field-aligned mesh generator |
+| 4438 | 1813 | 565 | 5 days ago | [gnuradio](https://github.com/gnuradio/gnuradio)/273 | GNU Radio – the Free and Open Software Radio Ecosystem |
+| 4420 | 1053 | 238 | 3 months ago | [Tengine](https://github.com/OAID/Tengine)/274 | Tengine is a lite, high performance, modular inference engine for embedded device  |
+| 4401 | 812 | 164 | a month ago | [UDPspeeder](https://github.com/wangyu-/UDPspeeder)/275 | A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP) |
+| 4397 | 671 | 161 | 4 months ago | [hyperscan](https://github.com/intel/hyperscan)/276 | High-performance regular expression matching library |
+| 4380 | 376 | 98 | 2 days ago | [better-sqlite3](https://github.com/WiseLibs/better-sqlite3)/277 | The fastest and simplest library for SQLite3 in Node.js. |
+| 4371 | 597 | 113 | 3 years ago | [nanogui](https://github.com/wjakob/nanogui)/278 | Minimalistic GUI library for OpenGL |
+| 4370 | 891 | 1008 | 5 days ago | [endless-sky](https://github.com/endless-sky/endless-sky)/279 | Space exploration, trading, and combat game. |
+| 4355 | 1999 | 269 | 10 months ago | [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)/280 | A Robust and Versatile Monocular Visual-Inertial State Estimator |
+| 4351 | 1923 | 1818 | 21 hours ago | [azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)/281 | Complete Open Source and Modular solution for MMO |
+| 4350 | 862 | 598 | 21 days ago | [nghttp2](https://github.com/nghttp2/nghttp2)/282 | nghttp2 - HTTP/2 C Library and tools |
+| 4346 | 1476 | 364 | 4 days ago | [rippled](https://github.com/XRPLF/rippled)/283 | Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++ |
+| 4311 | 487 | 158 | 11 months ago | [libsass](https://github.com/sass/libsass)/284 | A C/C++ implementation of a Sass compiler |
+| 4297 | 1607 | 310 | 6 days ago | [yaml-cpp](https://github.com/jbeder/yaml-cpp)/285 | A YAML parser and emitter in C++ |
+| 4262 | 318 | 78 | 2 days ago | [bloaty](https://github.com/google/bloaty)/286 | Bloaty McBloatface: a size profiler for binaries |
+| 4259 | 187 | 141 | 10 days ago | [cppfront](https://github.com/hsutter/cppfront)/287 | A personal experimental C++ Syntax 2 -> Syntax 1 compiler |
+| 4209 | 1134 | 806 | 25 days ago | [asio](https://github.com/chriskohlhoff/asio)/288 | Asio C++ Library |
+| 4204 | 342 | 131 | 2 years ago | [LANDrop](https://github.com/LANDrop/LANDrop)/289 | Drop any files to any devices on your LAN. |
+| 4186 | 1454 | 40 | a day ago | [LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions)/290 | 🏋️ Python / Modern C++ Solutions of All 2832 LeetCode Problems (Weekly Update) |
+| 4179 | 1603 | 55 | 20 hours ago | [QuantLib](https://github.com/lballabio/QuantLib)/291 | The QuantLib C++ library |
+| 4173 | 339 | 38 | 22 days ago | [glslViewer](https://github.com/patriciogonzalezvivo/glslViewer)/292 | Console-based GLSL Sandbox for 2D/3D shaders |
+| 4167 | 1276 | 4 | 7 years ago | [gameplay](https://github.com/gameplay3d/gameplay)/293 | Open-source, cross-platform, C++ game engine for creating 2D/3D games. |
+| 4139 | 1727 | 30 | a month ago | [cryptopp](https://github.com/weidai11/cryptopp)/294 | free C++ class library of cryptographic schemes |
+| 4134 | 296 | 82 | 5 hours ago | [Notepad3](https://github.com/rizonesoft/Notepad3)/295 | Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3: |
+| 4094 | 733 | 281 | 2 months ago | [TNN](https://github.com/Tencent/TNN)/296 | TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework.  |
+| 4093 | 1088 | 435 | a day ago | [libigl](https://github.com/libigl/libigl)/297 | Simple C++ geometry processing library. |
+| 4083 | 1252 | 522 | 8 days ago | [cgal](https://github.com/CGAL/cgal)/298 | The public CGAL repository, see the README below |
+| 4081 | 528 | 501 | 2 days ago | [Waybar](https://github.com/Alexays/Waybar)/299 | Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: |
+| 4074 | 1033 | 370 | 11 days ago | [stk-code](https://github.com/supertuxkart/stk-code)/300 | The code base of supertuxkart |
+| 3262 | 955 | 100 | 9 days ago | [ceres-solver](https://github.com/ceres-solver/ceres-solver)/301 | A large scale non-linear optimization library |
+| 3257 | 165 | 25 | 8 days ago | [touchegg](https://github.com/JoseExposito/touchegg)/302 | Linux multi-touch gesture recognizer |
+| 3236 | 907 | 49 | a day ago | [oneDNN](https://github.com/oneapi-src/oneDNN)/303 | oneAPI Deep Neural Network Library (oneDNN) |
+| 3214 | 889 | 134 | a day ago | [wenet](https://github.com/wenet-e2e/wenet)/304 | Production First and Production Ready End-to-End Speech Recognition Toolkit |
+| 3209 | 572 | 46 | 2 days ago | [fastnetmon](https://github.com/pavel-odintsov/fastnetmon)/305 | FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support |
+| 3202 | 518 | 61 | 3 months ago | [nan](https://github.com/nodejs/nan)/306 | Native Abstractions for Node.js |
+| 3200 | 601 | 36 | 14 hours ago | [cutlass](https://github.com/NVIDIA/cutlass)/307 | CUDA Templates for Linear Algebra Subroutines |
+| 3189 | 346 | 137 | a day ago | [QOwnNotes](https://github.com/pbek/QOwnNotes)/308 | QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. |
+| 3175 | 848 | 16 | 2 months ago | [ServerStatus](https://github.com/cppla/ServerStatus)/309 | 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/ |
+| 3163 | 1476 | 40 | 3 years ago | [CppPrimer](https://github.com/pezy/CppPrimer)/310 | :books: Solutions for C++ Primer 5th exercises. |
+| 3151 | 340 | 23 | 6 years ago | [fr_public](https://github.com/farbrausch/fr_public)/311 | Farbrausch demo tools 2001-2011 |
+| 3142 | 350 | 130 | 7 days ago | [onnx-simplifier](https://github.com/daquexian/onnx-simplifier)/312 | Simplify your onnx model |
+| 3136 | 852 | 941 | a day ago | [pdns](https://github.com/PowerDNS/pdns)/313 | PowerDNS Authoritative, PowerDNS Recursor, dnsdist |
+| 3131 | 1297 | 1145 | 9 months ago | [Slic3r](https://github.com/slic3r/Slic3r)/314 | Open Source toolpath generator for 3D printers |
+| 3128 | 1044 | 197 | 2 months ago | [srsRAN_4G](https://github.com/srsran/srsRAN_4G)/315 | Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g |
+| 3110 | 824 | 75 | 1 year, 8 months ago | [Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot)/316 | Self-hosted crypto trading bot (automated high frequency market making) written in C++ |
+| 3108 | 130 | 15 | 5 months ago | [btfs](https://github.com/johang/btfs)/317 | A bittorrent filesystem based on FUSE. |
+| 3088 | 589 | 1 | 13 days ago | [WhateverGreen](https://github.com/acidanthera/WhateverGreen)/318 | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
+| 3063 | 535 | 196 | 1 year, 2 months ago | [xlearn](https://github.com/aksnzhy/xlearn)/319 | High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface. |
+| 3051 | 465 | 0 | 3 years ago | [GW-BASIC](https://github.com/microsoft/GW-BASIC)/320 | The original source code of Microsoft GW-BASIC from 1983 |
+| 3047 | 208 | 99 | 2 years ago | [node-packer](https://github.com/pmq20/node-packer)/321 | Packing your Node.js application into a single executable. |
+| 3040 | 315 | 31 | a day ago | [fibjs](https://github.com/fibjs/fibjs)/322 | JavaScript on Fiber (built on Chrome's V8 JavaScript engine) |
+| 3028 | 1015 | 211 | 1 year, 5 months ago | [ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer)/323 | Async Web Server for ESP8266 and ESP32 |
+| 3019 | 1020 | 302 | a day ago | [licode](https://github.com/lynckia/licode)/324 | Open Source Communication Provider based on WebRTC and Cloud technologies |
+| 3010 | 1698 | 0 | 3 years ago | [clang](https://github.com/llvm-mirror/clang)/325 | Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project |
+| 3007 | 1802 | 236 | 9 days ago | [fivem](https://github.com/citizenfx/fivem)/326 | The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer. |
+| 3004 | 885 | 59 | 7 years ago | [DynamicAPK](https://github.com/CtripMobile/DynamicAPK)/327 | Solution to implement multi apk dynamic loading and hot fixing for Android App. (实现Android App多apk插件化和动态加载，支持资源分包和热修复) |
+| 3001 | 257 | 180 | 2 days ago | [cling](https://github.com/root-project/cling)/328 | The cling C++ interpreter |
+| 2999 | 409 | 16 | 4 months ago | [fuzzing](https://github.com/google/fuzzing)/329 | Tutorials, examples, discussions, research proposals, and other resources related to fuzzing |
+| 2990 | 549 | 3 | a day ago | [angle](https://github.com/google/angle)/330 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android. |
+| 2982 | 518 | 20 | 10 days ago | [Triton](https://github.com/JonathanSalwan/Triton)/331 | Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code. |
+| 2981 | 537 | 56 | 2 days ago | [actor-framework](https://github.com/actor-framework/actor-framework)/332 | An Open Source Implementation of the Actor Model in C++ |
+| 2966 | 1057 | 429 | 2 years ago | [shogun](https://github.com/shogun-toolbox/shogun)/333 | Shōgun |
+| 2965 | 584 | 20 | 3 days ago | [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader)/334 | Tiny but powerful single file wavefront obj loader |
+| 2963 | 1005 | 1422 | 20 days ago | [Osiris](https://github.com/danielkrupinski/Osiris)/335 | Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. For Windows and Linux. |
+| 2961 | 1157 | 17 | a month ago | [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGame)/336 | Third-person Survival Game for Unreal Engine 4 (Sample Project) |
+| 2959 | 685 | 203 | 16 days ago | [pistache](https://github.com/pistacheio/pistache)/337 | A high-performance REST toolkit written in C++ |
+| 2958 | 1052 | 262 | 4 years ago | [EAST](https://github.com/argman/EAST)/338 | A tensorflow implementation of EAST text detector |
+| 2937 | 4356 | 2 | 26 days ago | [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)/339 | Starting code for the GildedRose Refactoring Kata in many programming languages. |
+| 2929 | 292 | 272 | 15 hours ago | [visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m)/340 | The continuing development of the legendary VBA gameboy advance emulator. |
+| 2927 | 428 | 109 | 11 months ago | [cppcoro](https://github.com/lewissbaker/cppcoro)/341 | A library of C++ coroutine abstractions for the coroutines TS |
+| 2924 | 772 | 323 | 9 months ago | [PhysX](https://github.com/NVIDIAGameWorks/PhysX)/342 | NVIDIA PhysX SDK |
+| 2920 | 119 | 10 | 4 years ago | [Algojammer](https://github.com/ChrisKnott/Algojammer)/343 | An experimental code editor for writing algorithms |
+| 2916 | 644 | 315 | 4 months ago | [espurna](https://github.com/xoseperez/espurna)/344 | Home automation firmware for ESP8266-based devices |
+| 2912 | 1140 | 7 | 3 years ago | [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)/345 | C++ 匠心之作 从0到1入门资料 |
+| 2910 | 374 | 181 | 2 years ago | [tomahawk](https://github.com/tomahawk-player/tomahawk)/346 | Tomahawk, the multi-source music player |
+| 2909 | 1014 | 54 | 3 years ago | [kungfu](https://github.com/kungfu-origin/kungfu)/347 | Kungfu Trader |
+| 2906 | 393 | 48 | 3 months ago | [KOOM](https://github.com/KwaiAppTeam/KOOM)/348 | KOOM is an OOM killer on mobile platform by Kwai. |
+| 2886 | 1507 | 34 | 2 days ago | [bustub](https://github.com/cmu-db/bustub)/349 | The BusTub Relational Database Management System (Educational) |
+| 2886 | 463 | 82 | 11 months ago | [imgui-node-editor](https://github.com/thedmd/imgui-node-editor)/350 | Node Editor built using Dear ImGui |
+| 2873 | 178 | 89 | 28 days ago | [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions)/351 | Compile Time Regular Expression in C++ |
+| 2871 | 399 | 91 | 1 year, 5 months ago | [RxCpp](https://github.com/ReactiveX/RxCpp)/352 | Reactive Extensions for C++ |
+| 2866 | 956 | 213 | 22 hours ago | [CloudCompare](https://github.com/CloudCompare/CloudCompare)/353 | CloudCompare main repository |
+| 2866 | 536 | 17 | 11 months ago | [MITIE](https://github.com/mit-nlp/MITIE)/354 | MITIE: library and tools for information extraction |
+| 2858 | 397 | 371 | 18 hours ago | [opentrack](https://github.com/opentrack/opentrack)/355 | Head tracking software for MS Windows, Linux, and Apple OSX |
+| 2847 | 964 | 320 | 2 years ago | [snowboy](https://github.com/Kitt-AI/snowboy)/356 | Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy |
+| 2842 | 1213 | 85 | 3 months ago | [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)/357 | Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.) |
+| 2839 | 84 | 17 | 2 months ago | [cdc-file-transfer](https://github.com/google/cdc-file-transfer)/358 | Tools for synching and streaming files from Windows to Linux |
+| 2817 | 577 | 1862 | 4 years ago | [halflife](https://github.com/ValveSoftware/halflife)/359 | Half-Life 1 engine based games |
+| 2790 | 414 | 251 | 3 days ago | [GraphScope](https://github.com/alibaba/GraphScope)/360 | 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习 |
+| 2786 | 356 | 125 | 6 months ago | [ChaiScript](https://github.com/ChaiScript/ChaiScript)/361 | Embedded Scripting Language Designed for C++ |
+| 2776 | 129 | 50 | 4 years ago | [thrust](https://github.com/breach/thrust)/362 | Chromium-based cross-platform / cross-language application framework |
+| 2774 | 217 | 1012 | a day ago | [defold](https://github.com/defold/defold)/363 | Defold is a completely free to use game engine for development of desktop, mobile and web games. |
+| 2768 | 244 | 1 | 2 years ago | [termite](https://github.com/thestinger/termite)/364 | Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support. |
+| 2764 | 206 | 16 | a day ago | [highway](https://github.com/google/highway)/365 | Performance-portable, length-agnostic SIMD with runtime dispatch |
+| 2761 | 543 | 58 | a month ago | [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)/366 | An Open-Source subdivision surface library. |
+| 2757 | 484 | 415 | 21 hours ago | [warzone2100](https://github.com/Warzone2100/warzone2100)/367 | Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+ |
+| 2753 | 317 | 85 | 4 days ago | [CLI11](https://github.com/CLIUtils/CLI11)/368 | CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. |
+| 2753 | 487 | 3 | 1 year, 3 days ago | [Data-Structres](https://github.com/callmePicacho/Data-Structres)/369 | 浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解 |
+| 2747 | 204 | 6 | 14 hours ago | [dust3d](https://github.com/huxingyi/dust3d)/370 | Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more. |
+| 2742 | 303 | 7 | 15 days ago | [ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux)/371 | A Linux version of the ProcDump Sysinternals tool |
+| 2739 | 271 | 48 | 2 months ago | [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)/372 | Cross-platform GUI management tools for OpenCore（OCAT） |
+| 2735 | 281 | 151 | 21 days ago | [xeus-cling](https://github.com/jupyter-xeus/xeus-cling)/373 | Jupyter kernel for the C++ programming language |
+| 2720 | 485 | 52 | 16 days ago | [VulkanTutorial](https://github.com/Overv/VulkanTutorial)/374 | Tutorial for the Vulkan graphics and compute API |
+| 2715 | 558 | 329 | a day ago | [uncrustify](https://github.com/uncrustify/uncrustify)/375 | Code beautifier |
+| 2712 | 1069 | 176 | 6 days ago | [g2o](https://github.com/RainerKuemmerle/g2o)/376 | g2o: A General Framework for Graph Optimization |
+| 2697 | 243 | 58 | 7 months ago | [PJON](https://github.com/gioblu/PJON)/377 | PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol. |
+| 2694 | 771 | 344 | 5 days ago | [srt](https://github.com/Haivision/srt)/378 | Secure, Reliable, Transport |
+| 2686 | 299 | 19 | 2 days ago | [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp)/379 | Open-Source Vulkan C++ API |
+| 2679 | 240 | 182 | a month ago | [logiops](https://github.com/PixlOne/logiops)/380 | An unofficial userspace driver for HID++ Logitech devices |
+| 2678 | 1678 | 49 | 8 years ago | [code](https://github.com/MasteringOpenCV/code)/381 | Code for the book "Mastering OpenCV with Practical Computer Vision Projects" by Packt Publishing 2012. |
+| 2676 | 1468 | 164 | 8 days ago | [webots](https://github.com/cyberbotics/webots)/382 | Webots Robot Simulator |
+| 2669 | 832 | 43 | 1 year, 7 months ago | [gflags](https://github.com/gflags/gflags)/383 | The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at: |
+| 2666 | 662 | 16 | 4 years ago | [cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)/384 | Modern C++ Cheatsheet |
+| 2665 | 196 | 10 | 3 months ago | [yocto-gl](https://github.com/xelatihy/yocto-gl)/385 | Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics |
+| 2654 | 1769 | 77 | 3 years ago | [EPIJudge](https://github.com/adnanaziz/EPIJudge)/386 | EPI Judge - Preview Release |
+| 2647 | 146 | 9 | 3 years ago | [hardware-effects](https://github.com/Kobzol/hardware-effects)/387 | Demonstration of various hardware effects. |
+| 2639 | 421 | 67 | 9 days ago | [R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin)/388 | Skin changer for League of Legends (LOL) |
+| 2631 | 536 | 650 | 2 days ago | [valhalla](https://github.com/valhalla/valhalla)/389 | Open Source Routing Engine for OpenStreetMap |
+| 2622 | 390 | 35 | 9 months ago | [biosim4](https://github.com/davidrmiller/biosim4)/390 | Biological evolution simulator |
+| 2621 | 230 | 174 | 27 days ago | [qpdf](https://github.com/qpdf/qpdf)/391 | Primary QPDF source code and documentation |
+| 2615 | 693 | 1 | 5 days ago | [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)/392 | My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：） |
+| 2610 | 432 | 3 | 1 year, 8 months ago | [introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)/393 | 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。 |
+| 2610 | 613 | 26 | 2 years ago | [Familia](https://github.com/baidu/Familia)/394 | A Toolkit for Industrial Topic Modeling |
+| 2610 | 733 | 624 | 11 hours ago | [velox](https://github.com/facebookincubator/velox)/395 | A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. |
+| 2607 | 904 | 252 | 7 months ago | [earthenterprise](https://github.com/google/earthenterprise)/396 | Google Earth Enterprise - Open Source |
+| 2605 | 631 | 43 | 2 years ago | [WebServer](https://github.com/markparticle/WebServer)/397 | C++  Linux WebServer服务器 |
+| 2597 | 499 | 300 | 3 hours ago | [KataGo](https://github.com/lightvector/KataGo)/398 | GTP engine and self-play learning in Go |
+| 2596 | 498 | 209 | 24 days ago | [gqrx](https://github.com/gqrx-sdr/gqrx)/399 | Software defined radio receiver powered by GNU Radio and Qt. |
+| 2593 | 167 | 3 | a day ago | [heaptrack](https://github.com/KDE/heaptrack)/400 | A heap memory profiler for Linux |
+| 3134 | 149 | 14 | 6 days ago | [yue](https://github.com/yue/yue)/401 | A library for creating native cross-platform GUI apps |
+| 3131 | 1297 | 1145 | 9 months ago | [Slic3r](https://github.com/slic3r/Slic3r)/402 | Open Source toolpath generator for 3D printers |
+| 3128 | 1044 | 197 | 2 months ago | [srsRAN_4G](https://github.com/srsran/srsRAN_4G)/403 | Open source SDR 4G software suite from Software Radio Systems (SRS) https://docs.srsran.com/projects/4g |
+| 3120 | 509 | 419 | 2 days ago | [HIP](https://github.com/ROCm-Developer-Tools/HIP)/404 | HIP: C++ Heterogeneous-Compute Interface for Portability |
+| 3110 | 824 | 75 | 1 year, 8 months ago | [Krypto-trading-bot](https://github.com/ctubio/Krypto-trading-bot)/405 | Self-hosted crypto trading bot (automated high frequency market making) written in C++ |
+| 3108 | 130 | 15 | 5 months ago | [btfs](https://github.com/johang/btfs)/406 | A bittorrent filesystem based on FUSE. |
+| 3088 | 589 | 1 | 13 days ago | [WhateverGreen](https://github.com/acidanthera/WhateverGreen)/407 | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
+| 3063 | 535 | 196 | 1 year, 2 months ago | [xlearn](https://github.com/aksnzhy/xlearn)/408 | High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI interface. |
+| 3062 | 186 | 76 | a day ago | [SafeLine](https://github.com/chaitin/SafeLine)/409 | 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 |
+| 3053 | 480 | 13 | 2 months ago | [NumCpp](https://github.com/dpilger26/NumCpp)/410 | C++ implementation of the Python Numpy library |
+| 3051 | 465 | 0 | 3 years ago | [GW-BASIC](https://github.com/microsoft/GW-BASIC)/411 | The original source code of Microsoft GW-BASIC from 1983 |
+| 3050 | 707 | 2 | 7 months ago | [kurento-media-server](https://github.com/Kurento/kurento-media-server)/412 | [ARCHIVED] Contents migrated to monorepo: https://github.com/Kurento/kurento |
+| 3047 | 208 | 99 | 2 years ago | [node-packer](https://github.com/pmq20/node-packer)/413 | Packing your Node.js application into a single executable. |
+| 3041 | 317 | 248 | 6 days ago | [Vita3K](https://github.com/Vita3K/Vita3K)/414 | Experimental PlayStation Vita emulator |
+| 3040 | 315 | 31 | a day ago | [fibjs](https://github.com/fibjs/fibjs)/415 | JavaScript on Fiber (built on Chrome's V8 JavaScript engine) |
+| 3028 | 743 | 168 | a month ago | [HElib](https://github.com/homenc/HElib)/416 | HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations. |
+| 3026 | 688 | 377 | 14 days ago | [glow](https://github.com/pytorch/glow)/417 | Compiler for Neural Network hardware accelerators |
+| 3019 | 631 | 20 | 2 months ago | [GASDocumentation](https://github.com/tranek/GASDocumentation)/418 | My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project. |
+| 3013 | 825 | 23 | 3 years ago | [sylar](https://github.com/sylar-yin/sylar)/419 | C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper) |
+| 3010 | 276 | 97 | 4 hours ago | [ydb](https://github.com/ydb-platform/ydb)/420 | YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions |
+| 3010 | 1698 | 0 | 3 years ago | [clang](https://github.com/llvm-mirror/clang)/421 | Mirror kept for legacy. Moved to https://github.com/llvm/llvm-project |
+| 3005 | 540 | 396 | 4 years ago | [AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine)/422 | The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript |
+| 3004 | 885 | 59 | 7 years ago | [DynamicAPK](https://github.com/CtripMobile/DynamicAPK)/423 | Solution to implement multi apk dynamic loading and hot fixing for Android App. (实现Android App多apk插件化和动态加载，支持资源分包和热修复) |
+| 2991 | 545 | 52 | 5 hours ago | [wangle](https://github.com/facebook/wangle)/424 | Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way. |
+| 2990 | 86 | 6 | a day ago | [alien](https://github.com/chrxh/alien)/425 | ALIEN is a CUDA-powered artificial life simulation program. |
+| 2982 | 518 | 20 | 10 days ago | [Triton](https://github.com/JonathanSalwan/Triton)/426 | Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code. |
+| 2980 | 404 | 828 | a month ago | [service-fabric](https://github.com/microsoft/service-fabric)/427 | Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale. |
+| 2978 | 754 | 111 | 5 months ago | [libgo](https://github.com/yyzybb537/libgo)/428 | Go-style concurrency in C++11 |
+| 2973 | 409 | 159 | 5 months ago | [UABE](https://github.com/SeriousCache/UABE)/429 | Asset Bundle Extractor |
+| 2969 | 445 | 29 | 5 years ago | [conceal](https://github.com/facebookarchive/conceal)/430 | Conceal provides easy Android APIs for performing fast encryption and authentication of data. |
+| 2965 | 584 | 20 | 3 days ago | [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader)/431 | Tiny but powerful single file wavefront obj loader |
+| 2963 | 1005 | 1422 | 20 days ago | [Osiris](https://github.com/danielkrupinski/Osiris)/432 | Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. For Windows and Linux. |
+| 2959 | 685 | 203 | 16 days ago | [pistache](https://github.com/pistacheio/pistache)/433 | A high-performance REST toolkit written in C++ |
+| 2953 | 437 | 827 | a day ago | [cherrytree](https://github.com/giuspen/cherrytree)/434 | cherrytree |
+| 2929 | 292 | 272 | 15 hours ago | [visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m)/435 | The continuing development of the legendary VBA gameboy advance emulator. |
+| 2927 | 428 | 109 | 11 months ago | [cppcoro](https://github.com/lewissbaker/cppcoro)/436 | A library of C++ coroutine abstractions for the coroutines TS |
+| 2924 | 772 | 323 | 9 months ago | [PhysX](https://github.com/NVIDIAGameWorks/PhysX)/437 | NVIDIA PhysX SDK |
+| 2921 | 475 | 211 | 2 years ago | [cefpython](https://github.com/cztomczak/cefpython)/438 | Python bindings for the Chromium Embedded Framework (CEF) |
+| 2916 | 375 | 38 | 27 days ago | [ScyllaHide](https://github.com/x64dbg/ScyllaHide)/439 | Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide |
+| 2916 | 644 | 315 | 4 months ago | [espurna](https://github.com/xoseperez/espurna)/440 | Home automation firmware for ESP8266-based devices |
+| 2914 | 1039 | 53 | 4 months ago | [singa](https://github.com/apache/singa)/441 | a distributed deep learning platform |
+| 2909 | 1014 | 54 | 3 years ago | [kungfu](https://github.com/kungfu-origin/kungfu)/442 | Kungfu Trader |
+| 2899 | 634 | 154 | 4 months ago | [date](https://github.com/HowardHinnant/date)/443 | A date and time library based on the C++11/14/17 <chrono> header |
+| 2897 | 387 | 14 | a day ago | [inotify-tools](https://github.com/inotify-tools/inotify-tools)/444 |   inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify. |
+| 2895 | 345 | 28 | 3 years ago | [ggpo](https://github.com/pond3r/ggpo)/445 | Good Game, Peace Out Rollback Network SDK |
+| 2893 | 729 | 4 | 4 years ago | [botnets](https://github.com/maestron/botnets)/446 | This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY |
+| 2886 | 1507 | 34 | 2 days ago | [bustub](https://github.com/cmu-db/bustub)/447 | The BusTub Relational Database Management System (Educational) |
+| 2886 | 463 | 82 | 11 months ago | [imgui-node-editor](https://github.com/thedmd/imgui-node-editor)/448 | Node Editor built using Dear ImGui |
+| 2871 | 399 | 91 | 1 year, 5 months ago | [RxCpp](https://github.com/ReactiveX/RxCpp)/449 | Reactive Extensions for C++ |
+| 2866 | 956 | 213 | 22 hours ago | [CloudCompare](https://github.com/CloudCompare/CloudCompare)/450 | CloudCompare main repository |
+| 2860 | 500 | 77 | 3 years ago | [djinni](https://github.com/dropbox/djinni)/451 | A tool for generating cross-language type declarations and interface bindings. |
+| 2859 | 316 | 68 | 25 days ago | [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)/452 | A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32 |
+| 2847 | 964 | 320 | 2 years ago | [snowboy](https://github.com/Kitt-AI/snowboy)/453 | Future versions with model training module will be maintained through a forked version here: https://github.com/seasalt-ai/snowboy |
+| 2846 | 183 | 43 | 25 days ago | [SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball)/454 | Decompilation of 3D Pinball for Windows – Space Cadet |
+| 2842 | 1213 | 85 | 3 months ago | [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)/455 | Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.) |
+| 2839 | 84 | 17 | 2 months ago | [cdc-file-transfer](https://github.com/google/cdc-file-transfer)/456 | Tools for synching and streaming files from Windows to Linux |
+| 2832 | 576 | 118 | 4 years ago | [bfs](https://github.com/baidu/bfs)/457 | The Baidu File System. |
+| 2823 | 440 | 269 | 9 days ago | [heavydb](https://github.com/heavyai/heavydb)/458 | HeavyDB (formerly OmniSciDB) |
+| 2807 | 772 | 65 | a day ago | [openbr](https://github.com/biometrics/openbr)/459 | Open Source Biometrics, Face Recognition |
+| 2803 | 321 | 94 | 4 years ago | [HoRNDIS](https://github.com/jwise/HoRNDIS)/460 | Android USB tethering driver for Mac OS X |
+| 2800 | 339 | 38 | a month ago | [projectm](https://github.com/projectM-visualizer/projectm)/461 | projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible. |
+| 2797 | 399 | 76 | a month ago | [wdt](https://github.com/facebook/wdt)/462 | Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. |
+| 2790 | 414 | 251 | 3 days ago | [GraphScope](https://github.com/alibaba/GraphScope)/463 | 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习 |
+| 2786 | 356 | 125 | 6 months ago | [ChaiScript](https://github.com/ChaiScript/ChaiScript)/464 | Embedded Scripting Language Designed for C++ |
+| 2785 | 402 | 67 | 3 hours ago | [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)/465 | Cross-Platform SDR Software |
+| 2776 | 129 | 50 | 4 years ago | [thrust](https://github.com/breach/thrust)/466 | Chromium-based cross-platform / cross-language application framework |
+| 2776 | 450 | 265 | 14 days ago | [solvespace](https://github.com/solvespace/solvespace)/467 | Parametric 2d/3d CAD |
+| 2757 | 349 | 138 | 21 days ago | [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)/468 | Lightning fast C++/CUDA neural network framework |
+| 2756 | 403 | 133 | 2 years ago | [rttr](https://github.com/rttrorg/rttr)/469 | C++ Reflection Library |
+| 2755 | 377 | 524 | 2 months ago | [pgmodeler](https://github.com/pgmodeler/pgmodeler)/470 | Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you! |
+| 2753 | 317 | 85 | 4 days ago | [CLI11](https://github.com/CLIUtils/CLI11)/471 | CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. |
+| 2752 | 418 | 10 | 2 months ago | [course](https://github.com/parallel101/course)/472 | 高性能并行编程与优化 - 课件 |
+| 2748 | 112 | 66 | 4 days ago | [helio-workstation](https://github.com/helio-fm/helio-workstation)/473 | One music sequencer for all major platforms, desktop and mobile |
+| 2747 | 204 | 6 | 14 hours ago | [dust3d](https://github.com/huxingyi/dust3d)/474 | Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more. |
+| 2742 | 303 | 7 | 15 days ago | [ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux)/475 | A Linux version of the ProcDump Sysinternals tool |
+| 2741 | 273 | 87 | 4 days ago | [nethogs](https://github.com/raboof/nethogs)/476 | Linux 'net top' tool |
+| 2735 | 281 | 151 | 21 days ago | [xeus-cling](https://github.com/jupyter-xeus/xeus-cling)/477 | Jupyter kernel for the C++ programming language |
+| 2720 | 485 | 52 | 16 days ago | [VulkanTutorial](https://github.com/Overv/VulkanTutorial)/478 | Tutorial for the Vulkan graphics and compute API |
+| 2717 | 1154 | 888 | 6 hours ago | [drake](https://github.com/RobotLocomotion/drake)/479 | Model-based design and verification for robotics. |
+| 2712 | 1069 | 176 | 6 days ago | [g2o](https://github.com/RainerKuemmerle/g2o)/480 | g2o: A General Framework for Graph Optimization |
+| 2712 | 229 | 30 | 7 months ago | [splitflap](https://github.com/scottbez1/splitflap)/481 | DIY split-flap display |
+| 2709 | 219 | 58 | 11 months ago | [elements](https://github.com/cycfi/elements)/482 | Elements C++ GUI library |
+| 2697 | 243 | 58 | 7 months ago | [PJON](https://github.com/gioblu/PJON)/483 | PJON (Padded Jittering Operative Network) is an experimental, arduino-compatible, multi-master, multi-media network protocol. |
+| 2694 | 771 | 344 | 5 days ago | [srt](https://github.com/Haivision/srt)/484 | Secure, Reliable, Transport |
+| 2684 | 517 | 28 | 1 year, 2 months ago | [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio)/485 | Open-source, cross platform Qt based IDE for reverse-engineering Android application packages. |
+| 2679 | 240 | 182 | a month ago | [logiops](https://github.com/PixlOne/logiops)/486 | An unofficial userspace driver for HID++ Logitech devices |
+| 2678 | 1678 | 49 | 8 years ago | [code](https://github.com/MasteringOpenCV/code)/487 | Code for the book "Mastering OpenCV with Practical Computer Vision Projects" by Packt Publishing 2012. |
+| 2669 | 832 | 43 | 1 year, 7 months ago | [gflags](https://github.com/gflags/gflags)/488 | The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at: |
+| 2666 | 662 | 16 | 4 years ago | [cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)/489 | Modern C++ Cheatsheet |
+| 2654 | 1769 | 77 | 3 years ago | [EPIJudge](https://github.com/adnanaziz/EPIJudge)/490 | EPI Judge - Preview Release |
+| 2653 | 549 | 2 | 3 days ago | [ActionRoguelike](https://github.com/tomlooman/ActionRoguelike)/491 | Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine Pro C++ Course & Stanford University |
+| 2639 | 421 | 67 | 9 days ago | [R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin)/492 | Skin changer for League of Legends (LOL) |
+| 2637 | 251 | 53 | a month ago | [jakt](https://github.com/SerenityOS/jakt)/493 | The Jakt Programming Language |
+| 2631 | 536 | 650 | 2 days ago | [valhalla](https://github.com/valhalla/valhalla)/494 | Open Source Routing Engine for OpenStreetMap |
+| 2622 | 390 | 35 | 9 months ago | [biosim4](https://github.com/davidrmiller/biosim4)/495 | Biological evolution simulator |
+| 2621 | 230 | 174 | 27 days ago | [qpdf](https://github.com/qpdf/qpdf)/496 | Primary QPDF source code and documentation |
+| 2617 | 501 | 2 | 2 months ago | [FreeReflection](https://github.com/tiann/FreeReflection)/497 | A library that lets you use reflection without any restriction above Android P |
+| 2615 | 704 | 109 | 3 months ago | [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)/498 | Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui |
+| 2610 | 432 | 3 | 1 year, 8 months ago | [introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)/499 | 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。 |
+| 2610 | 613 | 26 | 2 years ago | [Familia](https://github.com/baidu/Familia)/500 | A Toolkit for Industrial Topic Modeling |
+| 2839 | 84 | 17 | 2 months ago | [cdc-file-transfer](https://github.com/google/cdc-file-transfer)/501 | Tools for synching and streaming files from Windows to Linux |
+| 2832 | 576 | 118 | 4 years ago | [bfs](https://github.com/baidu/bfs)/502 | The Baidu File System. |
+| 2823 | 440 | 269 | 9 days ago | [heavydb](https://github.com/heavyai/heavydb)/503 | HeavyDB (formerly OmniSciDB) |
+| 2817 | 577 | 1862 | 4 years ago | [halflife](https://github.com/ValveSoftware/halflife)/504 | Half-Life 1 engine based games |
+| 2807 | 772 | 65 | a day ago | [openbr](https://github.com/biometrics/openbr)/505 | Open Source Biometrics, Face Recognition |
+| 2803 | 321 | 94 | 4 years ago | [HoRNDIS](https://github.com/jwise/HoRNDIS)/506 | Android USB tethering driver for Mac OS X |
+| 2800 | 339 | 38 | a month ago | [projectm](https://github.com/projectM-visualizer/projectm)/507 | projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible. |
+| 2797 | 399 | 76 | a month ago | [wdt](https://github.com/facebook/wdt)/508 | Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. |
+| 2790 | 414 | 251 | 3 days ago | [GraphScope](https://github.com/alibaba/GraphScope)/509 | 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习 |
+| 2786 | 356 | 125 | 6 months ago | [ChaiScript](https://github.com/ChaiScript/ChaiScript)/510 | Embedded Scripting Language Designed for C++ |
+| 2785 | 402 | 67 | 3 hours ago | [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus)/511 | Cross-Platform SDR Software |
+| 2781 | 809 | 165 | 3 years ago | [Trojan-Qt5](https://github.com/Trojan-Qt5/Trojan-Qt5)/512 | Removed due to regulation |
+| 2776 | 129 | 50 | 4 years ago | [thrust](https://github.com/breach/thrust)/513 | Chromium-based cross-platform / cross-language application framework |
+| 2776 | 450 | 265 | 14 days ago | [solvespace](https://github.com/solvespace/solvespace)/514 | Parametric 2d/3d CAD |
+| 2761 | 543 | 58 | a month ago | [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)/515 | An Open-Source subdivision surface library. |
+| 2757 | 484 | 415 | 21 hours ago | [warzone2100](https://github.com/Warzone2100/warzone2100)/516 | Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+ |
+| 2757 | 349 | 138 | 21 days ago | [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)/517 | Lightning fast C++/CUDA neural network framework |
+| 2756 | 403 | 133 | 2 years ago | [rttr](https://github.com/rttrorg/rttr)/518 | C++ Reflection Library |
+| 2755 | 377 | 524 | 2 months ago | [pgmodeler](https://github.com/pgmodeler/pgmodeler)/519 | Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you! |
+| 2753 | 317 | 85 | 4 days ago | [CLI11](https://github.com/CLIUtils/CLI11)/520 | CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. |
+| 2753 | 487 | 3 | 1 year, 3 days ago | [Data-Structres](https://github.com/callmePicacho/Data-Structres)/521 | 浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解 |
+| 2752 | 418 | 10 | 2 months ago | [course](https://github.com/parallel101/course)/522 | 高性能并行编程与优化 - 课件 |
+| 2748 | 112 | 66 | 4 days ago | [helio-workstation](https://github.com/helio-fm/helio-workstation)/523 | One music sequencer for all major platforms, desktop and mobile |
+| 2747 | 204 | 6 | 14 hours ago | [dust3d](https://github.com/huxingyi/dust3d)/524 | Dust3D is a cross-platform 3D modeling software that makes it easy to create low poly 3D models for video games, 3D printing, and more. |
+| 2742 | 303 | 7 | 15 days ago | [ProcDump-for-Linux](https://github.com/Sysinternals/ProcDump-for-Linux)/525 | A Linux version of the ProcDump Sysinternals tool |
+| 2739 | 271 | 48 | 2 months ago | [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)/526 | Cross-platform GUI management tools for OpenCore（OCAT） |
+| 2735 | 281 | 151 | 21 days ago | [xeus-cling](https://github.com/jupyter-xeus/xeus-cling)/527 | Jupyter kernel for the C++ programming language |
+| 2732 | 97 | 126 | 11 months ago | [asm-dom](https://github.com/mbasso/asm-dom)/528 | A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications) |
+| 2717 | 1154 | 888 | 6 hours ago | [drake](https://github.com/RobotLocomotion/drake)/529 | Model-based design and verification for robotics. |
+| 2712 | 1069 | 176 | 6 days ago | [g2o](https://github.com/RainerKuemmerle/g2o)/530 | g2o: A General Framework for Graph Optimization |
+| 2712 | 229 | 30 | 7 months ago | [splitflap](https://github.com/scottbez1/splitflap)/531 | DIY split-flap display |
+| 2709 | 219 | 58 | 11 months ago | [elements](https://github.com/cycfi/elements)/532 | Elements C++ GUI library |
+| 2686 | 299 | 19 | 2 days ago | [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp)/533 | Open-Source Vulkan C++ API |
+| 2684 | 517 | 28 | 1 year, 2 months ago | [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio)/534 | Open-source, cross platform Qt based IDE for reverse-engineering Android application packages. |
+| 2679 | 240 | 182 | a month ago | [logiops](https://github.com/PixlOne/logiops)/535 | An unofficial userspace driver for HID++ Logitech devices |
+| 2678 | 1678 | 49 | 8 years ago | [code](https://github.com/MasteringOpenCV/code)/536 | Code for the book "Mastering OpenCV with Practical Computer Vision Projects" by Packt Publishing 2012. |
+| 2666 | 662 | 16 | 4 years ago | [cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)/537 | Modern C++ Cheatsheet |
+| 2653 | 549 | 2 | 3 days ago | [ActionRoguelike](https://github.com/tomlooman/ActionRoguelike)/538 | Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine Pro C++ Course & Stanford University |
+| 2639 | 421 | 67 | 9 days ago | [R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin)/539 | Skin changer for League of Legends (LOL) |
+| 2637 | 251 | 53 | a month ago | [jakt](https://github.com/SerenityOS/jakt)/540 | The Jakt Programming Language |
+| 2631 | 536 | 650 | 2 days ago | [valhalla](https://github.com/valhalla/valhalla)/541 | Open Source Routing Engine for OpenStreetMap |
+| 2621 | 230 | 174 | 27 days ago | [qpdf](https://github.com/qpdf/qpdf)/542 | Primary QPDF source code and documentation |
+| 2617 | 501 | 2 | 2 months ago | [FreeReflection](https://github.com/tiann/FreeReflection)/543 | A library that lets you use reflection without any restriction above Android P |
+| 2615 | 704 | 109 | 3 months ago | [ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo)/544 | Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui |
+| 2615 | 693 | 1 | 5 days ago | [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)/545 | My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：） |
+| 2610 | 613 | 26 | 2 years ago | [Familia](https://github.com/baidu/Familia)/546 | A Toolkit for Industrial Topic Modeling |
+| 2607 | 904 | 252 | 7 months ago | [earthenterprise](https://github.com/google/earthenterprise)/547 | Google Earth Enterprise - Open Source |
+| 2600 | 1047 | 79 | 4 months ago | [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)/548 | LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping |
+| 2596 | 498 | 209 | 24 days ago | [gqrx](https://github.com/gqrx-sdr/gqrx)/549 | Software defined radio receiver powered by GNU Radio and Qt. |
+| 2593 | 167 | 3 | a day ago | [heaptrack](https://github.com/KDE/heaptrack)/550 | A heap memory profiler for Linux |
+| 2587 | 192 | 116 | 22 hours ago | [terra](https://github.com/terralang/terra)/551 | Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language. |
+| 2586 | 1369 | 11 | 2 years ago | [self-driving-car](https://github.com/ndrplz/self-driving-car)/552 | Udacity Self-Driving Car Engineer Nanodegree projects. |
+| 2584 | 149 | 19 | 7 months ago | [OTTO](https://github.com/bitfieldaudio/OTTO)/553 | Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP] |
+| 2577 | 367 | 179 | 3 years ago | [Aegisub](https://github.com/Aegisub/Aegisub)/554 | Cross-platform advanced subtitle editor |
+| 2577 | 766 | 356 | 5 days ago | [glslang](https://github.com/KhronosGroup/glslang)/555 | Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator. |
+| 2572 | 216 | 25 | 3 months ago | [indicators](https://github.com/p-ranav/indicators)/556 | Activity Indicators for Modern C++ |
+| 2571 | 999 | 33 | 2 years ago | [DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms)/557 | The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too! |
+| 2568 | 1020 | 50 | 8 years ago | [aoapc-bac2nd](https://github.com/aoapc-book/aoapc-bac2nd)/558 | Source codes for book <<<BeginningAlgorithmContests>> Second edition |
+| 2567 | 766 | 39 | 29 days ago | [IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266)/559 | Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/ |
+| 2555 | 516 | 3 | 2 years ago | [youtube](https://github.com/Errichto/youtube)/560 | codes for my streams and YT videos |
+| 2549 | 1378 | 18 | 7 months ago | [rfid](https://github.com/miguelbalboa/rfid)/561 | Arduino RFID Library for MFRC522 |
+| 2544 | 600 | 48 | 7 months ago | [openrasp](https://github.com/baidu/openrasp)/562 | 🔥Open source RASP solution |
+| 2543 | 918 | 50 | 5 years ago | [ogl](https://github.com/opengl-tutorials/ogl)/563 | None |
+| 2542 | 565 | 95 | 11 months ago | [phpdesktop](https://github.com/cztomczak/phpdesktop)/564 | Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite |
+| 2542 | 717 | 9 | 2 months ago | [NDK_OpenGLES_3_0](https://github.com/githubhaohao/NDK_OpenGLES_3_0)/565 | Android OpenGL ES 3.0 从入门到精通系统性学习教程 |
+| 2538 | 514 | 5 | 7 days ago | [wondertrader](https://github.com/wondertrader/wondertrader)/566 | WonderTrader——量化研发交易一站式框架 |
+| 2535 | 385 | 14 | 5 months ago | [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge)/567 | I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result |
+| 2532 | 717 | 368 | 3 years ago | [UnrealEnginePython](https://github.com/20tab/UnrealEnginePython)/568 | Embed Python in Unreal Engine 4 |
+| 2530 | 33 | 3 | 10 months ago | [TypeRunner](https://github.com/marcj/TypeRunner)/569 | High-performance TypeScript compiler |
+| 2529 | 662 | 71 | 2 years ago | [AnyQ](https://github.com/baidu/AnyQ)/570 | FAQ-based Question Answering System |
+| 2527 | 752 | 16 | 3 days ago | [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary)/571 | The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies. |
+| 2515 | 196 | 8 | 6 hours ago | [FluidX3D](https://github.com/ProjectPhysX/FluidX3D)/572 | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL. |
+| 2514 | 348 | 115 | 1 year, 4 months ago | [mcsema](https://github.com/lifting-bits/mcsema)/573 | Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode |
+| 2512 | 223 | 8 | 9 months ago | [dbg-macro](https://github.com/sharkdp/dbg-macro)/574 | A dbg(…) macro for C++ |
+| 2511 | 790 | 57 | 4 years ago | [Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers)/575 | 《C++ Primer》第五版中文版习题答案 |
+| 2508 | 223 | 7 | 3 months ago | [blinker-library](https://github.com/blinker-iot/blinker-library)/576 | An IoT Solution,Blinker library for embedded hardware. Works with Arduino, ESP8266, ESP32. |
+| 2507 | 220 | 94 | 10 months ago | [dexed](https://github.com/asb2m10/dexed)/577 | DX7 FM multi plaform/multi format plugin |
+| 2503 | 223 | 76 | 1 year, 3 months ago | [WAVM](https://github.com/WAVM/WAVM)/578 | WebAssembly Virtual Machine |
+| 2494 | 510 | 402 | a month ago | [essentia](https://github.com/MTG/essentia)/579 | C++ library for audio and music analysis, description and synthesis, including Python bindings |
+| 2488 | 290 | 101 | 5 days ago | [osxcross](https://github.com/tpoechtrager/osxcross)/580 | Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux) |
+| 2484 | 2110 | 431 | 9 days ago | [rathena](https://github.com/rathena/rathena)/581 | rAthena is an open-source cross-platform MMORPG server. |
+| 2479 | 563 | 93 | 15 days ago | [deepdetect](https://github.com/jolibrain/deepdetect)/582 | Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE |
+| 2475 | 1945 | 275 | 1 year, 6 months ago | [CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)/583 | This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series. |
+| 2473 | 638 | 20 | 3 years ago | [json11](https://github.com/dropbox/json11)/584 | A tiny JSON library for C++11. |
+| 2470 | 691 | 59 | 6 months ago | [nodeeditor](https://github.com/paceholder/nodeeditor)/585 | Qt Node Editor. Dataflow programming framework |
+| 2470 | 338 | 42 | 1 year, 6 months ago | [B23Downloader](https://github.com/vooidzero/B23Downloader)/586 | （已长久停更） |
+| 2468 | 1376 | 13 | 3 months ago | [ODrive](https://github.com/odriverobotics/ODrive)/587 | High performance motor control |
+| 2467 | 497 | 0 | 14 hours ago | [0ad](https://github.com/0ad/0ad)/588 | Git mirror of the 0 A.D. source code (http://trac.wildfiregames.com/browser) |
+| 2467 | 281 | 32 | 8 days ago | [nsjail](https://github.com/google/nsjail)/589 | A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) |
+| 2464 | 496 | 227 | 11 days ago | [subsurface](https://github.com/subsurface/subsurface)/590 | This is the official upstream of the Subsurface divelog program |
+| 2453 | 438 | 238 | a day ago | [xray-16](https://github.com/OpenXRay/xray-16)/591 | Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;) |
+| 2446 | 364 | 165 | 7 days ago | [stan](https://github.com/stan-dev/stan)/592 | Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.   |
+| 2440 | 177 | 191 | 3 months ago | [picotorrent](https://github.com/picotorrent/picotorrent)/593 | A tiny, hackable BitTorrent client. |
+| 2439 | 240 | 108 | 3 months ago | [basis_universal](https://github.com/BinomialLLC/basis_universal)/594 | Basis Universal GPU Texture Codec |
+| 2429 | 160 | 25 | 4 years ago | [MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher)/595 | A Fractal Physics Game |
+| 2429 | 406 | 109 | 13 days ago | [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)/596 | OBS複数サイト同時配信プラグイン |
+| 2410 | 137 | 30 | 26 days ago | [cppinsights](https://github.com/andreasfertig/cppinsights)/597 | C++ Insights - See your source code with the eyes of a compiler |
+| 2404 | 403 | 204 | 2 years ago | [tippecanoe](https://github.com/mapbox/tippecanoe)/598 | Build vector tilesets from large collections of GeoJSON features. |
+| 2403 | 320 | 82 | 26 days ago | [edb-debugger](https://github.com/eteran/edb-debugger)/599 | edb is a cross-platform AArch32/x86/x86-64 debugger. |
+| 2389 | 346 | 87 | 12 hours ago | [kvrocks](https://github.com/apache/kvrocks)/600 | Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. |
+| 2610 | 432 | 3 | 1 year, 8 months ago | [introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)/601 | 一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。 |
+| 2610 | 613 | 26 | 2 years ago | [Familia](https://github.com/baidu/Familia)/602 | A Toolkit for Industrial Topic Modeling |
+| 2605 | 631 | 43 | 2 years ago | [WebServer](https://github.com/markparticle/WebServer)/603 | C++  Linux WebServer服务器 |
+| 2600 | 1047 | 79 | 4 months ago | [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)/604 | LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping |
+| 2600 | 761 | 70 | a day ago | [AliceVision](https://github.com/alicevision/AliceVision)/605 | Photogrammetric Computer Vision Framework |
+| 2597 | 499 | 300 | 3 hours ago | [KataGo](https://github.com/lightvector/KataGo)/606 | GTP engine and self-play learning in Go |
+| 2596 | 498 | 209 | 24 days ago | [gqrx](https://github.com/gqrx-sdr/gqrx)/607 | Software defined radio receiver powered by GNU Radio and Qt. |
+| 2593 | 167 | 3 | a day ago | [heaptrack](https://github.com/KDE/heaptrack)/608 | A heap memory profiler for Linux |
+| 2587 | 192 | 116 | 22 hours ago | [terra](https://github.com/terralang/terra)/609 | Terra is a low-level system programming language that is embedded in and meta-programmed by the Lua programming language. |
+| 2585 | 3057 | 1076 | 2 days ago | [qgroundcontrol](https://github.com/mavlink/qgroundcontrol)/610 | Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows) |
+| 2584 | 149 | 19 | 7 months ago | [OTTO](https://github.com/bitfieldaudio/OTTO)/611 | Sampler, Sequencer, Multi-engine synth and effects - in a box! [WIP] |
+| 2578 | 517 | 43 | a day ago | [ExpressLRS](https://github.com/ExpressLRS/ExpressLRS)/612 | STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications |
+| 2577 | 367 | 179 | 3 years ago | [Aegisub](https://github.com/Aegisub/Aegisub)/613 | Cross-platform advanced subtitle editor |
+| 2572 | 216 | 25 | 3 months ago | [indicators](https://github.com/p-ranav/indicators)/614 | Activity Indicators for Modern C++ |
+| 2571 | 999 | 33 | 2 years ago | [DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms)/615 | The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too! |
+| 2568 | 1020 | 50 | 8 years ago | [aoapc-bac2nd](https://github.com/aoapc-book/aoapc-bac2nd)/616 | Source codes for book <<<BeginningAlgorithmContests>> Second edition |
+| 2560 | 292 | 12 | 5 years ago | [miles-deep](https://github.com/ryanjay0/miles-deep)/617 | Deep Learning Porn Video Classifier/Editor with Caffe |
+| 2555 | 516 | 3 | 2 years ago | [youtube](https://github.com/Errichto/youtube)/618 | codes for my streams and YT videos |
+| 2550 | 196 | 345 | 5 hours ago | [newsboat](https://github.com/newsboat/newsboat)/619 | An RSS/Atom feed reader for text terminals |
+| 2549 | 1378 | 18 | 7 months ago | [rfid](https://github.com/miguelbalboa/rfid)/620 | Arduino RFID Library for MFRC522 |
+| 2547 | 344 | 142 | 8 months ago | [bond](https://github.com/microsoft/bond)/621 | Bond is a cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data. Bond is broadly used at Microsoft in high scale services.  |
+| 2544 | 600 | 48 | 7 months ago | [openrasp](https://github.com/baidu/openrasp)/622 | 🔥Open source RASP solution |
+| 2543 | 918 | 50 | 5 years ago | [ogl](https://github.com/opengl-tutorials/ogl)/623 | None |
+| 2542 | 565 | 95 | 11 months ago | [phpdesktop](https://github.com/cztomczak/phpdesktop)/624 | Develop desktop GUI applications using PHP, HTML5, JavaScript and SQLite |
+| 2542 | 717 | 9 | 2 months ago | [NDK_OpenGLES_3_0](https://github.com/githubhaohao/NDK_OpenGLES_3_0)/625 | Android OpenGL ES 3.0 从入门到精通系统性学习教程 |
+| 2538 | 514 | 5 | 7 days ago | [wondertrader](https://github.com/wondertrader/wondertrader)/626 | WonderTrader——量化研发交易一站式框架 |
+| 2537 | 280 | 94 | 1 year, 4 months ago | [go-sciter](https://github.com/sciter-sdk/go-sciter)/627 | Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development |
+| 2535 | 385 | 14 | 5 months ago | [MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge)/628 | I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result |
+| 2530 | 33 | 3 | 10 months ago | [TypeRunner](https://github.com/marcj/TypeRunner)/629 | High-performance TypeScript compiler |
+| 2529 | 662 | 71 | 2 years ago | [AnyQ](https://github.com/baidu/AnyQ)/630 | FAQ-based Question Answering System |
+| 2527 | 752 | 16 | 3 days ago | [ComputeLibrary](https://github.com/ARM-software/ComputeLibrary)/631 | The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies. |
+| 2515 | 196 | 8 | 6 hours ago | [FluidX3D](https://github.com/ProjectPhysX/FluidX3D)/632 | The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL. |
+| 2514 | 348 | 115 | 1 year, 4 months ago | [mcsema](https://github.com/lifting-bits/mcsema)/633 | Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode |
+| 2511 | 790 | 57 | 4 years ago | [Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers)/634 | 《C++ Primer》第五版中文版习题答案 |
+| 2508 | 223 | 7 | 3 months ago | [blinker-library](https://github.com/blinker-iot/blinker-library)/635 | An IoT Solution,Blinker library for embedded hardware. Works with Arduino, ESP8266, ESP32. |
+| 2503 | 223 | 76 | 1 year, 3 months ago | [WAVM](https://github.com/WAVM/WAVM)/636 | WebAssembly Virtual Machine |
+| 2494 | 510 | 402 | a month ago | [essentia](https://github.com/MTG/essentia)/637 | C++ library for audio and music analysis, description and synthesis, including Python bindings |
+| 2492 | 398 | 90 | 11 days ago | [i2pd](https://github.com/PurpleI2P/i2pd)/638 |  🛡 I2P: End-to-End encrypted and anonymous Internet |
+| 2488 | 290 | 101 | 5 days ago | [osxcross](https://github.com/tpoechtrager/osxcross)/639 | Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux) |
+| 2487 | 92 | 15 | 2 months ago | [imtui](https://github.com/ggerganov/imtui)/640 | ImTui: Immediate Mode Text-based User Interface C++ Library |
+| 2484 | 2110 | 431 | 9 days ago | [rathena](https://github.com/rathena/rathena)/641 | rAthena is an open-source cross-platform MMORPG server. |
+| 2482 | 748 | 54 | 5 years ago | [Simple-Web-Server](https://github.com/eidheim/Simple-Web-Server)/642 | A very simple, fast, multithreaded, platform independent HTTP and HTTPS server and client library implemented using C++11 and Boost.Asio. Created to be an easy way to make REST resources available from C++ applications. |
+| 2479 | 563 | 93 | 15 days ago | [deepdetect](https://github.com/jolibrain/deepdetect)/643 | Deep Learning API and Server in C++14 support for Caffe, PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE |
+| 2478 | 624 | 46 | 19 hours ago | [fbthrift](https://github.com/facebook/fbthrift)/644 | Facebook's branch of Apache Thrift, including a new C++ server. |
+| 2474 | 320 | 56 | 10 years ago | [node-memwatch](https://github.com/lloyd/node-memwatch)/645 | A NodeJS library to keep an eye on your memory usage, and discover and isolate leaks. |
+| 2473 | 638 | 20 | 3 years ago | [json11](https://github.com/dropbox/json11)/646 | A tiny JSON library for C++11. |
+| 2470 | 691 | 59 | 6 months ago | [nodeeditor](https://github.com/paceholder/nodeeditor)/647 | Qt Node Editor. Dataflow programming framework |
+| 2470 | 338 | 42 | 1 year, 6 months ago | [B23Downloader](https://github.com/vooidzero/B23Downloader)/648 | （已长久停更） |
+| 2468 | 1376 | 13 | 3 months ago | [ODrive](https://github.com/odriverobotics/ODrive)/649 | High performance motor control |
+| 2467 | 497 | 0 | 14 hours ago | [0ad](https://github.com/0ad/0ad)/650 | Git mirror of the 0 A.D. source code (http://trac.wildfiregames.com/browser) |
+| 2467 | 281 | 32 | 8 days ago | [nsjail](https://github.com/google/nsjail)/651 | A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) |
+| 2464 | 496 | 227 | 11 days ago | [subsurface](https://github.com/subsurface/subsurface)/652 | This is the official upstream of the Subsurface divelog program |
+| 2454 | 457 | 67 | 7 years ago | [smhasher](https://github.com/aappleby/smhasher)/653 | Automatically exported from code.google.com/p/smhasher |
+| 2453 | 438 | 238 | a day ago | [xray-16](https://github.com/OpenXRay/xray-16)/654 | Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;) |
+| 2440 | 177 | 191 | 3 months ago | [picotorrent](https://github.com/picotorrent/picotorrent)/655 | A tiny, hackable BitTorrent client. |
+| 2439 | 240 | 108 | 3 months ago | [basis_universal](https://github.com/BinomialLLC/basis_universal)/656 | Basis Universal GPU Texture Codec |
+| 2434 | 411 | 0 | 11 months ago | [cpp-learning](https://github.com/chengxumiaodaren/cpp-learning)/657 | None |
+| 2429 | 160 | 25 | 4 years ago | [MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher)/658 | A Fractal Physics Game |
+| 2429 | 406 | 109 | 13 days ago | [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)/659 | OBS複数サイト同時配信プラグイン |
+| 2411 | 175 | 19 | 1 year, 2 months ago | [bolt](https://github.com/dblalock/bolt)/660 | 10x faster matrix and vector operations |
+| 2410 | 137 | 30 | 26 days ago | [cppinsights](https://github.com/andreasfertig/cppinsights)/661 | C++ Insights - See your source code with the eyes of a compiler |
+| 2404 | 403 | 204 | 2 years ago | [tippecanoe](https://github.com/mapbox/tippecanoe)/662 | Build vector tilesets from large collections of GeoJSON features. |
+| 2403 | 320 | 82 | 26 days ago | [edb-debugger](https://github.com/eteran/edb-debugger)/663 | edb is a cross-platform AArch32/x86/x86-64 debugger. |
+| 2386 | 622 | 27 | 2 years ago | [cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)/664 | CMake Cookbook recipes. |
+| 2375 | 348 | 208 | 7 years ago | [Polycode](https://github.com/ivansafrin/Polycode)/665 | Polycode is a cross-platform framework for creative code. |
+| 2372 | 539 | 83 | 5 days ago | [webrtc-streamer](https://github.com/mpromonet/webrtc-streamer)/666 | WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture |
+| 2372 | 677 | 64 | 10 months ago | [cppjieba](https://github.com/yanyiwu/cppjieba)/667 | "结巴"中文分词的C++版本 |
+| 2371 | 268 | 45 | 4 years ago | [open-nsynth-super](https://github.com/googlecreativelab/open-nsynth-super)/668 | Open NSynth Super is an experimental physical interface for the NSynth algorithm |
+| 2370 | 730 | 230 | 2 months ago | [mysql-5.6](https://github.com/facebook/mysql-5.6)/669 | Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks. |
+| 2367 | 702 | 0 | a day ago | [breakpad](https://github.com/google/breakpad)/670 | Mirror of Google Breakpad project |
+| 2361 | 507 | 29 | 5 days ago | [DirectXTK](https://github.com/microsoft/DirectXTK)/671 | The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++ |
+| 2360 | 352 | 50 | 1 year, 5 months ago | [libcds](https://github.com/khizmax/libcds)/672 | A C++ library of Concurrent Data Structures |
+| 2359 | 665 | 5 | 10 days ago | [eurorack](https://github.com/pichenettes/eurorack)/673 | Eurorack modules |
+| 2346 | 228 | 9 | 30 days ago | [ViGEmBus](https://github.com/ViGEm/ViGEmBus)/674 | Windows kernel-mode driver emulating well-known USB game controllers. |
+| 2343 | 102 | 46 | 11 days ago | [OpenHashTab](https://github.com/namazso/OpenHashTab)/675 | 📝 File hashing and checking shell extension |
+| 2334 | 572 | 27 | 2 years ago | [qt-material-widgets](https://github.com/laserpants/qt-material-widgets)/676 | :art: Qt widgets-based implementation of the Material Design specification. |
+| 2333 | 474 | 133 | 3 days ago | [iverilog](https://github.com/steveicarus/iverilog)/677 | Icarus Verilog |
+| 2329 | 169 | 43 | 5 days ago | [immer](https://github.com/arximboldi/immer)/678 | Postmodern immutable and persistent data structures for C++ — value semantics at scale |
+| 2327 | 540 | 0 | 2 years ago | [LeetCode](https://github.com/Jack-Cherish/LeetCode)/679 | :monkey:LeetCode、剑指Offer刷题笔记（C/C++、Python3实现） |
+| 2314 | 667 | 126 | 6 years ago | [crosswalk](https://github.com/crosswalk-project/crosswalk)/680 | A web runtime built on Chrome. This project is currently unmaintained.  |
+| 2313 | 289 | 505 | 1 year, 2 months ago | [ssr](https://github.com/MaartenBaert/ssr)/681 | SimpleScreenRecorder, a screen recorder for Linux |
+| 2313 | 349 | 20 | 16 days ago | [kys-cpp](https://github.com/scarsty/kys-cpp)/682 | 《金庸群侠传》c++复刻版，已完工 |
+| 2311 | 465 | 22 | 8 days ago | [telegram-bot-api](https://github.com/tdlib/telegram-bot-api)/683 | Telegram Bot API server  |
+| 2310 | 115 | 12 | 1 year, 4 months ago | [sqlcheck](https://github.com/jarulraj/sqlcheck)/684 | Automatically identify anti-patterns in SQL queries |
+| 2309 | 135 | 35 | 10 months ago | [Kyty](https://github.com/InoriRus/Kyty)/685 | PS4 & PS5 emulator |
+| 2307 | 114 | 11 | 8 years ago | [dex-ui](https://github.com/seenaburns/dex-ui)/686 | A science fiction desktop running on Linux. Awesome. |
+| 2307 | 140 | 2 | 14 hours ago | [igl](https://github.com/facebook/igl)/687 | Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan). |
+| 2305 | 523 | 0 | 4 years ago | [PKUCourse](https://github.com/tongtzeho/PKUCourse)/688 | 北大计算机课程大作业 |
+| 2304 | 634 | 84 | 2 months ago | [klee](https://github.com/klee/klee)/689 | KLEE Symbolic Execution Engine |
+| 2303 | 217 | 0 | 15 hours ago | [kdenlive](https://github.com/KDE/kdenlive)/690 | Free and open source video editor, based on MLT Framework and KDE Frameworks 5 |
+| 2303 | 324 | 456 | 2 days ago | [texstudio](https://github.com/texstudio-org/texstudio)/691 | TeXstudio is a fully featured LaTeX editor. Our goal is to make writing LaTeX documents as easy and comfortable as possible. |
+| 2299 | 690 | 107 | 2 months ago | [maplab](https://github.com/ethz-asl/maplab)/692 | A Modular and Multi-Modal Mapping Framework |
+| 2292 | 218 | 7 | 11 days ago | [learning-v8](https://github.com/danbev/learning-v8)/693 | Project for learning V8 internals |
+| 2289 | 78 | 18 | 18 days ago | [NymphCast](https://github.com/MayaPosch/NymphCast)/694 | Audio and video casting system with support for custom applications. |
+| 2284 | 312 | 2 | 4 days ago | [OpenCat](https://github.com/PetoiCamp/OpenCat)/695 | An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, and research. |
+| 2284 | 368 | 13 | 4 years ago | [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur)/696 | Restoration of defocused and blurred photos/images |
+| 2283 | 151 | 69 | 1 year, 11 months ago | [node-webworker-threads](https://github.com/audreyt/node-webworker-threads)/697 | Lightweight Web Worker API implementation with native threads |
+| 2283 | 403 | 36 | 5 days ago | [jfx](https://github.com/openjdk/jfx)/698 | JavaFX mainline development |
+| 2281 | 237 | 44 | 3 months ago | [overgrowth](https://github.com/WolfireGames/overgrowth)/699 | Open Source codebase of the game Overgrowth by Wolfire Games LLC |
+| 2277 | 195 | 100 | a month ago | [libcudacxx](https://github.com/NVIDIA/libcudacxx)/700 | The C++ Standard Library for your entire system. |
+| 1674 | 192 | 84 | 7 months ago | [therubyracer](https://github.com/rubyjs/therubyracer)/701 | Embed the V8 Javascript Interpreter into Ruby |
+| 1672 | 760 | 105 | 30 days ago | [cppzmq](https://github.com/zeromq/cppzmq)/702 | Header-only C++ binding for libzmq |
+| 1669 | 273 | 108 | 7 days ago | [higress](https://github.com/alibaba/higress)/703 | Next-generation Cloud Native Gateway | 下一代云原生网关 |
+| 1667 | 539 | 26 | 11 months ago | [OpenPano](https://github.com/ppwwyyxx/OpenPano)/704 | Automatic Panorama Stitching From Scratch |
+| 1666 | 1581 | 31 | 3 years ago | [Torque2D](https://github.com/GarageGames/Torque2D)/705 | MIT Licensed Open Source version of Torque 2D game engine from GarageGames |
+| 1660 | 233 | 5 | 4 months ago | [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp)/706 | C++ Implementation of PyTorch Tutorials for Everyone |
+| 1659 | 590 | 78 | 3 years ago | [minicap](https://github.com/openstf/minicap)/707 | Stream real-time screen capture data out of Android devices. |
+| 1657 | 290 | 1 | 4 years ago | [nnvm](https://github.com/dmlc/nnvm)/708 | None |
+| 1656 | 164 | 3 | a month ago | [concurrencpp](https://github.com/David-Haim/concurrencpp)/709 | Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all |
+| 1648 | 141 | 17 | 4 months ago | [diff-pdf](https://github.com/vslavik/diff-pdf)/710 | A simple tool for visually comparing two PDF files |
+| 1647 | 110 | 75 | a month ago | [antimicrox](https://github.com/AntiMicroX/antimicrox)/711 | Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support. |
+| 1646 | 627 | 93 | a month ago | [ygopro](https://github.com/Fluorohydride/ygopro)/712 | A script engine for "yu-gi-oh!" and sample gui |
+| 1646 | 254 | 4 | 1 year, 5 months ago | [AwesomeCpp](https://github.com/Heng-Qi/AwesomeCpp)/713 | ---AWESOME--- C++学习笔记和常见面试知识点，C++11特性，包括智能指针、四种强制转换、function和bind、移动语义、完美转发、tuple、多态原理、虚表、友元函数、符号重载、函数指针、深浅拷贝、struct内存对齐、volatile以及union\static等各种关键字的用法等等 |
+| 1644 | 355 | 253 | 6 hours ago | [supertux](https://github.com/SuperTux/supertux)/714 | SuperTux source code |
+| 1643 | 195 | 8 | a day ago | [uvw](https://github.com/skypjack/uvw)/715 | Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library! |
+| 1642 | 241 | 57 | 1 year, 1 month ago | [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev)/716 | Fluid simulation engine for computer graphics applications |
+| 1641 | 418 | 51 | 3 years ago | [glsl-optimizer](https://github.com/aras-p/glsl-optimizer)/717 | GLSL optimizer based on Mesa's GLSL compiler. Used to be used in Unity for mobile shader optimization. |
+| 1641 | 167 | 116 | 8 days ago | [neovim-qt](https://github.com/equalsraf/neovim-qt)/718 | Neovim client library and GUI, in Qt5. |
+| 1641 | 752 | 230 | 8 months ago | [USB_Host_Shield_2.0](https://github.com/felis/USB_Host_Shield_2.0)/719 | Revision 2.0 of USB Host Library for Arduino. |
+| 1635 | 790 | 427 | 19 hours ago | [trafficserver](https://github.com/apache/trafficserver)/720 | Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server. |
+| 1635 | 109 | 65 | a month ago | [cling](https://github.com/vgvassilev/cling)/721 | The interactive C++ interpreter Cling |
+| 1631 | 468 | 9 | 5 days ago | [Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP)/722 | A tiny KV storage based on skiplist written in C++ language|  使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀 |
+| 1631 | 324 | 6 | 8 days ago | [PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)/723 | PositionBasedDynamics is a library for the physically-based simulation of rigid bodies, deformable solids and fluids. |
+| 1631 | 600 | 32 | 2 years ago | [DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts)/724 | USB Rubber Ducky type scripts written for the DigiSpark. |
+| 1628 | 533 | 73 | 22 days ago | [3dtiles](https://github.com/fanvanzh/3dtiles)/725 | The fastest tools for 3dtiles convert in the world! |
+| 1628 | 122 | 26 | a month ago | [tabulate](https://github.com/p-ranav/tabulate)/726 | Table Maker for Modern C++ |
+| 1624 | 203 | 50 | 1 year, 2 months ago | [imnodes](https://github.com/Nelarius/imnodes)/727 | A small, dependency-free node editor for dear imgui |
+| 1623 | 46 | 19 | 13 days ago | [yabridge](https://github.com/robbert-vdh/yabridge)/728 | A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux |
+| 1619 | 210 | 5 | 2 years ago | [CppCon2020](https://github.com/CppCon/CppCon2020)/729 | Slides and other materials from CppCon 2020 |
+| 1618 | 322 | 511 | 6 days ago | [sddm](https://github.com/sddm/sddm)/730 | QML based X11 and Wayland display manager |
+| 1617 | 525 | 32 | 2 years ago | [HyperLandmark](https://github.com/szad670401/HyperLandmark)/731 | Deep Learning Based Free Mobile Real-Time  Face Landmark Detector. Contact:jack-yu-business@foxmail.com |
+| 1616 | 175 | 4 | 6 years ago | [libchaos](https://github.com/maciejczyzewski/libchaos)/732 | Advanced library for randomization, hashing and statistical analysis (devoted to chaos machines). :microscope: |
+| 1612 | 253 | 80 | 4 months ago | [loguru](https://github.com/emilk/loguru)/733 | A lightweight C++ logging library |
+| 1608 | 337 | 12 | 3 years ago | [paxosstore](https://github.com/Tencent/paxosstore)/734 | PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS. |
+| 1607 | 714 | 82 | 3 months ago | [rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker)/735 | FPS Unlocker for Roblox |
+| 1605 | 68 | 46 | 1 year, 7 months ago | [openvr_fsr](https://github.com/fholger/openvr_fsr)/736 | Add Image Upscaling via AMD FidelityFX SuperResolution or NVIDIA Image Scaling to SteamVR games |
+| 1603 | 372 | 40 | 6 years ago | [DSPFilters](https://github.com/vinniefalco/DSPFilters)/737 | A Collection of Useful C++ Classes for Digital Signal Processing |
+| 1600 | 504 | 5 | 14 hours ago | [ZLToolKit](https://github.com/ZLMediaKit/ZLToolKit)/738 | 一个基于C++11的轻量级网络框架，基于线程池技术可以实现大并发网络IO |
+| 1597 | 79 | 30 | 8 months ago | [Mesh](https://github.com/plasma-umass/Mesh)/739 | A memory allocator that automatically reduces the memory footprint of C/C++ applications. |
+| 1595 | 386 | 211 | 4 years ago | [grive](https://github.com/Grive/grive)/740 | an open source Linux client for Google Drive |
+| 1594 | 94 | 10 | 4 months ago | [two](https://github.com/hugoam/two)/741 | c++ toolkit for rapid development of live graphical apps and games |
+| 1593 | 233 | 68 | a month ago | [tcpflow](https://github.com/simsong/tcpflow)/742 | TCP/IP packet demultiplexer. Download from: |
+| 1592 | 392 | 78 | 3 days ago | [sluaunreal](https://github.com/Tencent/sluaunreal)/743 | lua dev plugin for unreal engine 4 or 5 |
+| 1592 | 270 | 2 | 5 months ago | [GameEngineFromScratch](https://github.com/netwarm007/GameEngineFromScratch)/744 | 配合我的知乎专栏写的项目 |
+| 1590 | 319 | 127 | 15 days ago | [shaderc](https://github.com/google/shaderc)/745 | A collection of tools, libraries, and tests for Vulkan shader compilation. |
+| 1590 | 107 | 5 | a day ago | [nanobind](https://github.com/wjakob/nanobind)/746 | nanobind: tiny and efficient C++/Python bindings |
+| 1588 | 427 | 35 | 5 days ago | [DirectXTex](https://github.com/microsoft/DirectXTex)/747 | DirectXTex texture processing library |
+| 1587 | 937 | 63 | 3 months ago | [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306)/748 | Arduino library for SSD1306 monochrome 128x64 and 128x32 OLEDs |
+| 1587 | 251 | 4 | 17 days ago | [rp](https://github.com/0vercl0k/rp)/749 | rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries. |
+| 1586 | 172 | 198 | a day ago | [TileDB](https://github.com/TileDB-Inc/TileDB)/750 | The Universal Storage Engine |
+| 1585 | 573 | 355 | 3 days ago | [magma](https://github.com/magma/magma)/751 | Platform for building access networks and modular network services |
+| 1582 | 464 | 23 | 4 years ago | [libffm](https://github.com/ycjuan/libffm)/752 | A Library for Field-aware Factorization Machines |
+| 1581 | 260 | 467 | 10 days ago | [RetroShare](https://github.com/RetroShare/RetroShare)/753 | RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform. |
+| 1579 | 205 | 0 | 2 months ago | [VirtualSMC](https://github.com/acidanthera/VirtualSMC)/754 | SMC emulator layer |
+| 1576 | 438 | 19 | 3 months ago | [ESP3D](https://github.com/luc-github/ESP3D)/755 | FW for ESP8266/ESP8285/ESP32 used with 3D printer |
+| 1575 | 168 | 517 | 3 hours ago | [xla](https://github.com/openxla/xla)/756 | A machine learning compiler for GPUs, CPUs, and ML accelerators |
+| 1571 | 383 | 51 | 12 days ago | [ViZDoom](https://github.com/Farama-Foundation/ViZDoom)/757 | Reinforcement Learning environments based on the 1993 game Doom |
+| 1568 | 948 | 104 | 4 years ago | [loam_velodyne](https://github.com/laboshinl/loam_velodyne)/758 | Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar. |
+| 1568 | 181 | 18 | 3 years ago | [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)/759 | AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. Since the image processing is done in 99% on GPU  the program runs very fast and all the parameters can be changed in real time. AB was made to be a new alternative to known gimp plugin called Insane Bump.  |
+| 1567 | 158 | 6 | 7 months ago | [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer)/760 | A GLSL Path Tracer |
+| 1565 | 388 | 277 | 13 hours ago | [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)/761 | A color management framework for visual effects and animation. |
+| 1563 | 355 | 2 | 1 year, 1 day ago | [r3live](https://github.com/hku-mars/r3live)/762 | A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package |
+| 1562 | 379 | 77 | a month ago | [SensorsCalibration](https://github.com/PJLab-ADG/SensorsCalibration)/763 | OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving |
+| 1560 | 431 | 65 | 5 months ago | [Arduino-FOC](https://github.com/simplefoc/Arduino-FOC)/764 | Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library |
+| 1558 | 339 | 16 | 3 years ago | [baiduCDP](https://github.com/cool2528/baiduCDP)/765 | 百度网盘下载神器 |
+| 1557 | 55 | 21 | a day ago | [fut](https://github.com/fusionlanguage/fut)/766 | Fusion programming language. Transpiling to C, C++, C#, D, Java, JavaScript, Python, Swift, TypeScript and OpenCL C. |
+| 1555 | 197 | 102 | 5 months ago | [hana](https://github.com/boostorg/hana)/767 | Your standard library for metaprogramming |
+| 1551 | 173 | 1 | 2 years ago | [thor-os](https://github.com/wichtounet/thor-os)/768 | Simple operating system in C++, written from scratch |
+| 1548 | 116 | 91 | 11 days ago | [Cardinal](https://github.com/DISTRHO/Cardinal)/769 | Virtual modular synthesizer plugin |
+| 1544 | 306 | 223 | 2 years ago | [scantailor](https://github.com/scantailor/scantailor)/770 | None |
+| 1541 | 165 | 33 | 4 months ago | [cppast](https://github.com/foonathan/cppast)/771 | Library to parse and work with the C++ AST |
+| 1540 | 196 | 1 | 3 months ago | [thread-pool](https://github.com/bshoshany/thread-pool)/772 | BS::thread_pool: a fast, lightweight, and easy-to-use C++17 thread pool library |
+| 1539 | 715 | 6 | 6 years ago | [KalmanFilter](https://github.com/TKJElectronics/KalmanFilter)/773 | This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope. |
+| 1538 | 482 | 16 | 2 months ago | [JQTools](https://github.com/188080501/JQTools)/774 | 基于Qt开发的小工具包 |
+| 1535 | 318 | 19 | a day ago | [bde](https://github.com/bloomberg/bde)/775 | Basic Development Environment - a set of foundational C++ libraries used at Bloomberg. |
+| 1535 | 443 | 80 | a month ago | [libde265](https://github.com/strukturag/libde265)/776 | Open h.265 video codec implementation. |
+| 1533 | 135 | 409 | a month ago | [modorganizer](https://github.com/ModOrganizer2/modorganizer)/777 | Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                            |
+| 1533 | 542 | 78 | 1 year, 4 months ago | [PSPNet](https://github.com/hszhao/PSPNet)/778 | Pyramid Scene Parsing Network, CVPR2017. |
+| 1533 | 211 | 51 | 1 year, 6 months ago | [node-images](https://github.com/zhangyuanwei/node-images)/779 | Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Nodejs |
+| 1529 | 395 | 28 | 6 years ago | [RedisStudio](https://github.com/cinience/RedisStudio)/780 | RedisStudio Redis GUI client(tool) for windows |
+| 1529 | 153 | 65 | a month ago | [MilkyTracker](https://github.com/milkytracker/MilkyTracker)/781 | An FT2 compatible music tracker |
+| 1528 | 246 | 42 | 1 year, 4 months ago | [WHID](https://github.com/whid-injector/WHID)/782 | WiFi HID Injector - An USB Rubberducky / BadUSB On Steroids. |
+| 1527 | 157 | 64 | 3 days ago | [mitsuba3](https://github.com/mitsuba-renderer/mitsuba3)/783 | Mitsuba 3: A Retargetable Forward and Inverse Renderer |
+| 1516 | 111 | 13 | 2 years ago | [toy](https://github.com/hugoam/toy)/784 | the thin c++ game engine |
+| 1516 | 227 | 466 | 12 days ago | [src.next](https://github.com/kiwibrowser/src.next)/785 | Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium |
+| 1515 | 360 | 61 | 6 months ago | [curlpp](https://github.com/jpbarrette/curlpp)/786 | C++ wrapper around libcURL |
+| 1514 | 156 | 0 | 1 year, 5 months ago | [llilc](https://github.com/dotnet/llilc)/787 | This repo contains LLILC, an LLVM based compiler for .NET Core. It includes a set of cross-platform .NET code generation tools that enables compilation of MSIL byte code to LLVM supported platforms. |
+| 1510 | 231 | 19 | 2 months ago | [greenlet](https://github.com/python-greenlet/greenlet)/788 | Lightweight in-process concurrent programming |
+| 1510 | 364 | 11 | 2 years ago | [shellcodeloader](https://github.com/knownsec/shellcodeloader)/789 | shellcodeloader |
+| 1509 | 247 | 10 | 3 months ago | [SwarmUI](https://github.com/ShapeLab/SwarmUI)/790 | Necessary material to build and use Zooids to create Swarm User Interfaces |
+| 1509 | 314 | 118 | 9 years ago | [hex](https://github.com/netease-youdao/hex)/791 | heX |
+| 1508 | 196 | 167 | 14 days ago | [lokinet](https://github.com/oxen-io/lokinet)/792 | Lokinet is an anonymous, decentralized and IP based overlay network for the internet. |
+| 1507 | 193 | 10 | 1 year, 8 months ago | [Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke)/793 | Telegram anti-revoke plugin |
+| 1506 | 84 | 0 | 3 days ago | [latte-dock](https://github.com/KDE/latte-dock)/794 | Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids |
+| 1501 | 241 | 12 | 8 days ago | [cppwinrt](https://github.com/microsoft/cppwinrt)/795 | C++/WinRT |
+| 1501 | 83 | 6 | 11 days ago | [gitstatus](https://github.com/romkatv/gitstatus)/796 | Git status for Bash and Zsh prompt |
+| 1498 | 210 | 70 | 3 months ago | [thundersvm](https://github.com/Xtra-Computing/thundersvm)/797 | ThunderSVM: A Fast SVM Library on GPUs and CPUs |
+| 1496 | 140 | 17 | 2 months ago | [oidn](https://github.com/OpenImageDenoise/oidn)/798 | Intel® Open Image Denoise library |
+| 1493 | 371 | 45 | 6 months ago | [fann](https://github.com/libfann/fann)/799 | Official github repository for Fast Artificial Neural Network Library (FANN) |
+| 1489 | 76 | 3 | 6 months ago | [Peregrine](https://github.com/peregrine-lang/Peregrine)/800 | A blazing fast language for the blazing fast world(WIP) |
+| 1452 | 241 | 56 | 1 year, 7 months ago | [arduino_midi_library](https://github.com/FortySevenEffects/arduino_midi_library)/801 | MIDI for Arduino |
+| 1449 | 263 | 360 | 5 days ago | [moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)/802 | Money Manager Ex is an easy to use, money management application built with wxWidgets |
+| 1448 | 86 | 12 | 8 hours ago | [stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp)/803 | Stable Diffusion in pure C/C++ |
+| 1445 | 537 | 374 | a day ago | [OpenMLDB](https://github.com/4paradigm/OpenMLDB)/804 | OpenMLDB is an open-source machine learning database that provides a feature platform computing consistent features for training and inference. |
+| 1443 | 419 | 75 | 19 hours ago | [DIY-Multiprotocol-TX-Module](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module)/805 | Multiprotocol TX Module (or MULTI-Module) is a 2.4GHz transmitter module which controls many different receivers and models. |
+| 1443 | 212 | 2 | 1 year, 5 months ago | [Khepri](https://github.com/geemion/Khepri)/806 | Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++. |
+| 1443 | 413 | 124 | 1 year, 11 months ago | [node-printer](https://github.com/tojocky/node-printer)/807 | Native node.js printer |
+| 1440 | 205 | 25 | 1 year, 6 months ago | [confluo](https://github.com/ucbrise/confluo)/808 | Real-time Monitoring and Analysis of Data Streams |
+| 1437 | 111 | 7 | 6 years ago | [web-dsp](https://github.com/shamadee/web-dsp)/809 | A client-side signal processing library utilizing the power of WebAssembly (.wasm) |
+| 1434 | 337 | 151 | 2 years ago | [compute](https://github.com/boostorg/compute)/810 | A C++ GPU Computing Library for OpenCL |
+| 1434 | 343 | 64 | a month ago | [rest_rpc](https://github.com/qicosmos/rest_rpc)/811 | modern C++(C++11), simple, easy to use rpc framework |
+| 1433 | 394 | 4 | 4 years ago | [RefineDet](https://github.com/sfzhang15/RefineDet)/812 | Single-Shot Refinement Neural Network for Object Detection, CVPR, 2018 |
+| 1433 | 101 | 14 | 1 year, 2 months ago | [ion](https://github.com/google/ion)/813 | Ion |
+| 1431 | 191 | 11 | 4 months ago | [ac-library](https://github.com/atcoder/ac-library)/814 | AtCoder Library |
+| 1430 | 102 | 9 | 5 years ago | [v8worker](https://github.com/ry/v8worker)/815 | Minimal golang binding to V8 |
+| 1427 | 36 | 0 | 2 years ago | [unfork](https://github.com/whitequark/unfork)/816 | unfork(2) is the inverse of fork(2).    sort of. |
+| 1423 | 372 | 475 | a month ago | [kokkos](https://github.com/kokkos/kokkos)/817 | Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction |
+| 1421 | 371 | 14 | 4 days ago | [Kernel-Bridge](https://github.com/HoShiMin/Kernel-Bridge)/818 | Windows kernel hacking framework, driver template, hypervisor and API written on C++ |
+| 1421 | 523 | 85 | 14 days ago | [libpointmatcher](https://github.com/ethz-asl/libpointmatcher)/819 | An Iterative Closest Point (ICP) library for 2D and 3D mapping in Robotics |
+| 1421 | 260 | 170 | 1 year, 2 months ago | [twister-core](https://github.com/miguelfreitas/twister-core)/820 | twister core / daemon |
+| 1419 | 484 | 250 | 2 months ago | [react-native-pdf](https://github.com/wonday/react-native-pdf)/821 | A <Pdf /> component for react-native |
+| 1415 | 136 | 21 | 4 months ago | [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing)/822 | Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20 |
+| 1415 | 132 | 79 | 24 days ago | [crow-translate](https://github.com/crow-translate/crow-translate)/823 | A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva. |
+| 1414 | 130 | 17 | 1 year, 4 months ago | [REDasm](https://github.com/REDasmOrg/REDasm)/824 | The OpenSource Disassembler |
+| 1414 | 242 | 22 | a day ago | [loot](https://github.com/loot/loot)/825 | A load order optimisation tool for the Elder Scrolls (Morrowind and later) and Fallout (3 and later) games. |
+| 1410 | 303 | 18 | 3 months ago | [Horde3D](https://github.com/horde3d/Horde3D)/826 | Horde3D is a small 3D rendering and animation engine. It is written in an effort to create an engine being as lightweight and conceptually clean as possible. |
+| 1408 | 214 | 166 | 25 days ago | [untrunc](https://github.com/ponchio/untrunc)/827 | Restore a damaged (truncated) mp4, m4v, mov, 3gp video. Provided you have a similar not broken video. |
+| 1407 | 272 | 101 | 6 years ago | [notepad2-mod](https://github.com/XhmikosR/notepad2-mod)/828 | LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting |
+| 1405 | 151 | 28 | 8 days ago | [smhasher](https://github.com/rurban/smhasher)/829 | Hash function quality and speed tests |
+| 1403 | 425 | 5 | a month ago | [CppRobotics](https://github.com/onlytailei/CppRobotics)/830 | cpp implementation of robotics algorithms including localization, mapping, SLAM, path planning and control |
+| 1403 | 265 | 114 | 3 months ago | [GammaRay](https://github.com/KDAB/GammaRay)/831 | GammaRay is a tool to poke around in a Qt-application and also to manipulate the application to some extent. |
+| 1400 | 811 | 119 | 6 years ago | [ORB_SLAM](https://github.com/raulmur/ORB_SLAM)/832 | A Versatile and Accurate Monocular SLAM |
+| 1399 | 42 | 19 | a month ago | [vtm](https://github.com/netxs-group/vtm)/833 | Virtual terminal multiplexer with window manager and session sharing |
+| 1398 | 116 | 1 | 17 days ago | [qdirstat](https://github.com/shundhammer/qdirstat)/834 | QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author) |
+| 1396 | 450 | 3 | 1 year, 2 months ago | [Coding](https://github.com/Avinash987/Coding)/835 | Data Structures and Algorithms (DSA) Preparation sheet |
+| 1393 | 224 | 21 | 5 years ago | [CppPatterns-Patterns](https://github.com/sftrabbit/CppPatterns-Patterns)/836 | A repository of modern C++ patterns curated by the community. |
+| 1390 | 149 | 9 | 8 months ago | [fhe-toolkit-linux](https://github.com/IBM/fhe-toolkit-linux)/837 | IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.  |
+| 1389 | 167 | 38 | 6 years ago | [HyperDex](https://github.com/rescrv/HyperDex)/838 | HyperDex is a scalable, searchable key-value store |
+| 1388 | 403 | 2 | 15 days ago | [verge](https://github.com/vergecurrency/verge)/839 | Official Verge Core Source Code Repository :muscle: |
+| 1387 | 563 | 6 | 2 years ago | [OceanProject](https://github.com/UE4-OceanProject/OceanProject)/840 | Environment Plugin Project (Ocean Simulation, Sky Simulation, Buoyancy, Time, Fish plugins for  Unreal Engine 4) |
+| 1386 | 239 | 112 | 9 months ago | [fbcp-ili9341](https://github.com/juj/fbcp-ili9341)/841 | A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3, 4 and Zero |
+| 1385 | 174 | 10 | 1 year, 7 months ago | [2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408)/842 | 💯✍备考2021年研究生-408  |
+| 1385 | 291 | 21 | 4 months ago | [slowhttptest](https://github.com/shekyan/slowhttptest)/843 | Application Layer DoS attack simulator |
+| 1384 | 189 | 8 | 3 days ago | [highwayhash](https://github.com/google/highwayhash)/844 | Fast strong hash functions: SipHash/HighwayHash |
+| 1384 | 374 | 55 | 3 years ago | [ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker)/845 | CLM face tracking addon for openFrameworks based on Jason Saragih's FaceTracker. |
+| 1383 | 130 | 58 | 10 months ago | [extempore](https://github.com/digego/extempore)/846 | A cyber-physical programming environment |
+| 1381 | 467 | 30 | 3 days ago | [osm2pgsql](https://github.com/openstreetmap/osm2pgsql)/847 | OpenStreetMap data to PostgreSQL converter |
+| 1381 | 495 | 1 | 3 years ago | [Cpp_houjie](https://github.com/harvestlamb/Cpp_houjie)/848 | 侯捷C++课程PPT及代码,动手学起来 |
+| 1380 | 138 | 19 | 1 year, 1 month ago | [rang](https://github.com/agauniyal/rang)/849 | A Minimal, Header only Modern c++ library for terminal goodies 💄✨ |
+| 1380 | 230 | 17 | 3 months ago | [DirectXMath](https://github.com/microsoft/DirectXMath)/850 | DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps |
+| 1378 | 94 | 9 | 3 days ago | [cista](https://github.com/felixguendling/cista)/851 | Cista is a simple, high-performance, zero-copy C++ serialization & reflection library. |
+| 1377 | 116 | 8 | 1 year, 4 months ago | [WebPShop](https://github.com/webmproject/WebPShop)/852 | Photoshop plug-in for opening and saving WebP images |
+| 1375 | 121 | 447 | 15 days ago | [nomacs](https://github.com/nomacs/nomacs)/853 | nomacs is a free image viewer for windows, linux, and mac systems. |
+| 1373 | 256 | 31 | 7 months ago | [Walnut](https://github.com/StudioCherno/Walnut)/854 | Walnut is a simple application framework for Vulkan and Dear ImGui apps |
+| 1369 | 253 | 42 | 7 months ago | [C3](https://github.com/WithSecureLabs/C3)/855 | Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits. |
+| 1369 | 115 | 68 | 1 year, 5 days ago | [milton](https://github.com/serge-rgb/milton)/856 | An infinite-canvas paint program |
+| 1365 | 168 | 33 | 4 years ago | [rcedit](https://github.com/electron/rcedit)/857 | Command line tool to edit resources of exe |
+| 1363 | 282 | 120 | 3 years ago | [clipper](https://github.com/ucbrise/clipper)/858 | A low-latency prediction-serving system |
+| 1362 | 144 | 0 | 15 days ago | [Kvantum](https://github.com/tsujan/Kvantum)/859 | A Linux SVG-based theme engine for Qt and KDE |
+| 1361 | 454 | 20 | 9 months ago | [KB2E](https://github.com/thunlp/KB2E)/860 | Knowledge Graph Embeddings including TransE, TransH, TransR and PTransE |
+| 1357 | 230 | 5 | 2 years ago | [ngraph](https://github.com/NervanaSystems/ngraph)/861 | nGraph has moved to OpenVINO |
+| 1357 | 372 | 6 | 10 months ago | [OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old)/862 | A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services. |
+| 1356 | 413 | 402 | 8 days ago | [Cockatrice](https://github.com/Cockatrice/Cockatrice)/863 | A cross-platform virtual tabletop for multiplayer card games |
+| 1352 | 193 | 36 | a month ago | [inja](https://github.com/pantor/inja)/864 | A Template Engine for Modern C++ |
+| 1351 | 136 | 570 | 10 days ago | [Carla](https://github.com/falkTX/Carla)/865 | Audio plugin host |
+| 1350 | 112 | 141 | 1 year, 1 month ago | [decord](https://github.com/dmlc/decord)/866 | An efficient video loader for deep learning with smart shuffling that's super easy to digest |
+| 1350 | 64 | 3 | 3 months ago | [Ponce](https://github.com/illera88/Ponce)/867 | IDA 2016 plugin contest winner! Symbolic Execution just one-click away! |
+| 1348 | 641 | 78 | 9 years ago | [OpenNI](https://github.com/OpenNI/OpenNI)/868 | OpenNI |
+| 1347 | 123 | 4 | a month ago | [type_safe](https://github.com/foonathan/type_safe)/869 | Zero overhead utilities for preventing bugs at compile time |
+| 1344 | 307 | 15 | 26 days ago | [EfiGuard](https://github.com/Mattiwatti/EfiGuard)/870 | Disable PatchGuard and DSE at boot time |
+| 1344 | 174 | 17 | 1 year, 2 months ago | [rhubarb-lip-sync](https://github.com/DanielSWolf/rhubarb-lip-sync)/871 | Rhubarb Lip Sync is a command-line tool that automatically creates 2D mouth animation from voice recordings. You can use it for characters in computer games, in animated cartoons, or in any other project that requires animating mouths based on existing recordings. |
+| 1343 | 247 | 145 | 2 days ago | [Celestia](https://github.com/CelestiaProject/Celestia)/872 | Real-time 3D visualization of space. |
+| 1343 | 175 | 242 | 5 years ago | [ckb](https://github.com/ccMSC/ckb)/873 | RGB Driver for Linux and OS X |
+| 1338 | 292 | 36 | a month ago | [TEASER-plusplus](https://github.com/MIT-SPARK/TEASER-plusplus)/874 | A fast and robust point cloud registration library |
+| 1338 | 88 | 48 | 10 days ago | [qView](https://github.com/jurplel/qView)/875 | Practical and minimal image viewer |
+| 1337 | 585 | 523 | 5 hours ago | [IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)/876 | Open source IFC library and geometry engine |
+| 1335 | 194 | 24 | 1 year, 3 months ago | [mathfu](https://github.com/google/mathfu)/877 | C++ math library developed primarily for games focused on simplicity and efficiency. |
+| 1332 | 159 | 17 | 5 years ago | [junction](https://github.com/preshing/junction)/878 | Concurrent data structures in C++ |
+| 1330 | 248 | 212 | 10 days ago | [libheif](https://github.com/strukturag/libheif)/879 | libheif is an HEIF and AVIF file format decoder and encoder. |
+| 1329 | 134 | 34 | 4 days ago | [vapoursynth](https://github.com/vapoursynth/vapoursynth)/880 | A video processing framework with simplicity in mind |
+| 1329 | 155 | 87 | 1 year, 2 months ago | [Vc](https://github.com/VcDevel/Vc)/881 | SIMD Vector Classes for C++ |
+| 1328 | 180 | 61 | 8 months ago | [g810-led](https://github.com/MatMoul/g810-led)/882 | Linux led controller for Logitech G213, G410, G413, G512, G513, G610, G810, g815, G910 and GPRO Keyboards |
+| 1325 | 389 | 12 | 1 year, 1 month ago | [HyperPlatform](https://github.com/tandasat/HyperPlatform)/883 | Intel VT-x based hypervisor aiming to provide a thin VM-exit filtering platform on Windows. |
+| 1323 | 279 | 53 | 1 year, 3 months ago | [YOLOv5_NCNN](https://github.com/cmdbug/YOLOv5_NCNN)/884 | 🍅 Deploy ncnn on mobile phones. Support Android and iOS. 移动端ncnn部署，支持Android与iOS。 |
+| 1322 | 329 | 600 | 10 days ago | [casadi](https://github.com/casadi/casadi)/885 | CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave. |
+| 1318 | 398 | 9 | 2 years ago | [ros_best_practices](https://github.com/leggedrobotics/ros_best_practices)/886 | Best practices, conventions, and tricks for ROS. Do you want to become a robotics master? Then consider graduating or working at the Robotics Systems Lab at ETH in Zürich!  |
+| 1317 | 171 | 49 | a month ago | [Overload](https://github.com/adriengivry/Overload)/887 | 3D Game engine with editor |
+| 1315 | 75 | 43 | 24 days ago | [VkFFT](https://github.com/DTolm/VkFFT)/888 | Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library |
+| 1314 | 91 | 23 | 8 days ago | [blend2d](https://github.com/blend2d/blend2d)/889 | 2D Vector Graphics Engine Powered by a JIT Compiler |
+| 1311 | 213 | 3 | 14 days ago | [PolyHook_2_0](https://github.com/stevemk14ebr/PolyHook_2_0)/890 | C++17, x86/x64 Hooking Libary v2.0 |
+| 1311 | 649 | 34 | 17 hours ago | [tflite-micro](https://github.com/tensorflow/tflite-micro)/891 | Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors). |
+| 1311 | 450 | 26 | a day ago | [miniob](https://github.com/oceanbase/miniob)/892 | MiniOB is one mini database, helping developers to learn how database works.  |
+| 1311 | 135 | 22 | 10 months ago | [polylabel](https://github.com/mapbox/polylabel)/893 | A fast algorithm for finding the pole of inaccessibility of a polygon (in JavaScript and C++) |
+| 1310 | 99 | 317 | 2 days ago | [score](https://github.com/ossia/score)/894 | ossia score, an interactive sequencer for the intermedia arts |
+| 1309 | 221 | 42 | 2 years ago | [LLFF](https://github.com/Fyusion/LLFF)/895 | Code release for Local Light Field Fusion at SIGGRAPH 2019 |
+| 1309 | 266 | 67 | a day ago | [ilogtail](https://github.com/alibaba/ilogtail)/896 | Fast and Lightweight Observability Data Collector |
+| 1307 | 258 | 86 | 2 years ago | [BlockSci](https://github.com/citp/BlockSci)/897 | A high-performance tool for blockchain science and exploration |
+| 1306 | 282 | 33 | 3 months ago | [cpp-ipc](https://github.com/mutouyun/cpp-ipc)/898 | C++ IPC Library: A high-performance inter-process communication using shared memory on Linux/Windows. |
+| 1305 | 141 | 175 | 6 years ago | [MOE](https://github.com/Yelp/MOE)/899 | A global, black box optimization engine for real world metric optimization. |
+| 1301 | 262 | 72 | 2 days ago | [CImg](https://github.com/GreycLab/CImg)/900 | The CImg Library is a small and open-source C++ toolkit for image processing |
+| 1958 | 782 | 280 | 2 days ago | [opentx](https://github.com/opentx/opentx)/901 | OpenTX custom firmware for Transmitters |
+| 1955 | 472 | 126 | 14 hours ago | [gzdoom](https://github.com/ZDoom/gzdoom)/902 | GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities |
+| 1955 | 112 | 109 | 4 days ago | [MissionControl](https://github.com/ndeadly/MissionControl)/903 | Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary. |
+| 1954 | 183 | 91 | 2 years ago | [easy_profiler](https://github.com/yse/easy_profiler)/904 | Lightweight profiler library for c++ |
+| 1953 | 267 | 53 | a day ago | [perfetto](https://github.com/google/perfetto)/905 | Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/) |
+| 1950 | 809 | 353 | 1 year, 2 months ago | [steem](https://github.com/steemit/steem)/906 | The blockchain for Smart Media Tokens (SMTs) and decentralized applications. |
+| 1946 | 381 | 197 | 9 days ago | [linuxdeployqt](https://github.com/probonopd/linuxdeployqt)/907 | Makes Linux applications self-contained by copying in the libraries and plugins that the application uses, and optionally generates an AppImage. Can be used for Qt and other applications |
+| 1945 | 244 | 126 | 3 days ago | [Tidal](https://github.com/tidalcycles/Tidal)/908 | Pattern language |
+| 1944 | 231 | 142 | a day ago | [fastllm](https://github.com/ztxz16/fastllm)/909 | 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行 |
+| 1942 | 386 | 386 | 13 days ago | [znc](https://github.com/znc/znc)/910 | Official repository for the ZNC IRC bouncer |
+| 1940 | 569 | 4 | 4 years ago | [Cpp-Design-Patterns](https://github.com/liu-jianhao/Cpp-Design-Patterns)/911 | C++设计模式 |
+| 1935 | 216 | 37 | a month ago | [argparse](https://github.com/p-ranav/argparse)/912 | Argument Parser for Modern C++ |
+| 1934 | 142 | 39 | 4 years ago | [butteraugli](https://github.com/google/butteraugli)/913 | butteraugli estimates the psychovisual difference between two images |
+| 1934 | 105 | 8 | a day ago | [lobster](https://github.com/aardappel/lobster)/914 | The Lobster Programming Language |
+| 1932 | 282 | 1 | 2 years ago | [sling](https://github.com/google/sling)/915 | SLING - A natural language frame semantics parser |
+| 1930 | 351 | 5 | 4 months ago | [brdf](https://github.com/wdas/brdf)/916 | BRDF Explorer |
+| 1927 | 192 | 87 | 8 days ago | [gosu](https://github.com/gosu/gosu)/917 | 2D game development library for Ruby and C++ |
+| 1927 | 296 | 58 | 5 months ago | [sqlite_orm](https://github.com/fnc12/sqlite_orm)/918 | ❤️ SQLite ORM light header only library for modern C++ |
+| 1926 | 446 | 33 | 2 months ago | [nanoflann](https://github.com/jlblancoc/nanoflann)/919 | nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees |
+| 1923 | 591 | 157 | 17 days ago | [ice](https://github.com/zeroc-ice/ice)/920 | Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. |
+| 1923 | 132 | 48 | 3 years ago | [runtime](https://github.com/runtimejs/runtime)/921 | [not maintained] Lightweight JavaScript library operating system for the cloud |
+| 1920 | 522 | 3 | 3 years ago | [SmartOpenCV](https://github.com/HuTianQi/SmartOpenCV)/922 | :fire: :fire: :fire: SmartOpenCV是一个OpenCV在Android端的增强库，解决了OpenCV Android SDK在图像预览方面存在的诸多问题，且无需修改OpenCV SDK源码，与OpenCV的SDK解耦 |
+| 1919 | 456 | 74 | 24 days ago | [snort3](https://github.com/snort3/snort3)/923 | Snort++ |
+| 1919 | 189 | 129 | 6 days ago | [pythran](https://github.com/serge-sans-paille/pythran)/924 | Ahead of Time compiler for numeric kernels |
+| 1918 | 424 | 26 | 6 months ago | [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser)/925 | fast-cpp-csv-parser |
+| 1918 | 219 | 103 | 4 months ago | [STT](https://github.com/coqui-ai/STT)/926 | 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy. |
+| 1918 | 484 | 10 | 4 years ago | [Stockfish](https://github.com/mcostalba/Stockfish)/927 | UCI chess engine |
+| 1914 | 142 | 2 | a month ago | [GPCS4](https://github.com/Inori/GPCS4)/928 | A work-in-progress PlayStation 4 emulator. |
+| 1912 | 222 | 21 | a month ago | [PhysX](https://github.com/NVIDIA-Omniverse/PhysX)/929 | NVIDIA PhysX SDK |
+| 1910 | 342 | 39 | 5 days ago | [KlayGE](https://github.com/gongminmin/KlayGE)/930 | KlayGE is a cross-platform open source game engine with plugin-based architecture. |
+| 1909 | 149 | 123 | 11 hours ago | [notepad2](https://github.com/zufuliu/notepad2)/931 | Notepad2-zufuliu is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin metapath-zufuliu. |
+| 1904 | 141 | 44 | a day ago | [crown](https://github.com/crownengine/crown)/932 | The flexible game engine. |
+| 1903 | 326 | 161 | 2 days ago | [MPD](https://github.com/MusicPlayerDaemon/MPD)/933 | Music Player Daemon |
+| 1899 | 187 | 55 | 2 months ago | [terarkdb](https://github.com/bytedance/terarkdb)/934 | A RocksDB compatible KV storage engine with better performance |
+| 1897 | 1096 | 154 | 2 years ago | [darknet_ros](https://github.com/leggedrobotics/darknet_ros)/935 | YOLO ROS: Real-Time Object Detection for ROS |
+| 1897 | 59 | 78 | 3 months ago | [circle](https://github.com/seanbaxter/circle)/936 | The compiler is available for download. Get it! |
+| 1891 | 340 | 10 | 4 years ago | [phxqueue](https://github.com/Tencent/phxqueue)/937 | A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm. |
+| 1888 | 301 | 182 | 15 days ago | [incubator-pegasus](https://github.com/apache/incubator-pegasus)/938 | Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store |
+| 1888 | 371 | 43 | 6 days ago | [plog](https://github.com/SergiusTheBest/plog)/939 | Portable, simple and extensible C++ logging library |
+| 1886 | 218 | 11 | 2 years ago | [LogDevice](https://github.com/facebookarchive/LogDevice)/940 | Distributed storage for sequential data |
+| 1882 | 276 | 3 | a day ago | [swiftshader](https://github.com/google/swiftshader)/941 | SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics. |
+| 1880 | 479 | 16 | 22 days ago | [node-addon-api](https://github.com/nodejs/node-addon-api)/942 | Module for using Node-API from C++ |
+| 1880 | 320 | 51 | a month ago | [SparseConvNet](https://github.com/facebookresearch/SparseConvNet)/943 | Submanifold sparse convolutional networks |
+| 1880 | 145 | 298 | 4 hours ago | [wayfire](https://github.com/WayfireWM/wayfire)/944 | A modular and extensible wayland compositor |
+| 1875 | 244 | 286 | 21 hours ago | [kythe](https://github.com/kythe/kythe)/945 | Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code. |
+| 1873 | 551 | 409 | a day ago | [icinga2](https://github.com/Icinga/icinga2)/946 | The core of our monitoring platform with a powerful configuration language and REST API. |
+| 1870 | 423 | 80 | 4 months ago | [lodepng](https://github.com/lvandeve/lodepng)/947 | PNG encoder and decoder in C and C++. |
+| 1868 | 89 | 42 | 4 years ago | [libui-node](https://github.com/parro-it/libui-node)/948 | Node bindings for libui, an awesome native UI library for Unix, OSX and Windows |
+| 1861 | 551 | 30 | 2 years ago | [QConf](https://github.com/Qihoo360/QConf)/949 | Qihoo Distributed Configuration Management System |
+| 1858 | 448 | 156 | 5 years ago | [unlimited-landeng-for-win](https://github.com/JuncoJet/unlimited-landeng-for-win)/950 | 无限流量灯，你懂的，我不解释 |
+| 1857 | 767 | 92 | 1 year, 5 months ago | [NIM_Duilib_Framework](https://github.com/netease-im/NIM_Duilib_Framework)/951 | 网易云信Windows应用开发框架。 |
+| 1855 | 113 | 3 | 1 year, 6 months ago | [kubedoom](https://github.com/storax/kubedoom)/952 | Kill Kubernetes pods by playing Id's DOOM! |
+| 1854 | 581 | 254 | 3 months ago | [OpenJK](https://github.com/JACoders/OpenJK)/953 | Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software |
+| 1852 | 243 | 59 | 9 months ago | [inspectrum](https://github.com/miek/inspectrum)/954 | Radio signal analyser |
+| 1852 | 257 | 21 | 9 days ago | [Ender3V2S1](https://github.com/mriscoc/Ender3V2S1)/955 | This is optimized firmware for Ender3 V2/S1 3D printers. |
+| 1850 | 244 | 215 | 9 days ago | [CubicSDR](https://github.com/cjcliffe/CubicSDR)/956 | Cross-Platform Software-Defined Radio Application |
+| 1850 | 917 | 80 | 1 year, 5 months ago | [serial](https://github.com/wjwwood/serial)/957 | Cross-platform, Serial Port library written in C++ |
+| 1848 | 469 | 192 | 23 hours ago | [openal-soft](https://github.com/kcat/openal-soft)/958 | OpenAL Soft is a software implementation of the OpenAL 3D audio API. |
+| 1847 | 236 | 148 | a day ago | [Play-](https://github.com/jpd002/Play-)/959 | Play! - PlayStation2 Emulator |
+| 1847 | 368 | 135 | 4 days ago | [habitat-sim](https://github.com/facebookresearch/habitat-sim)/960 | A flexible, high-performance 3D simulator for Embodied AI research. |
+| 1847 | 65 | 27 | 5 days ago | [seer](https://github.com/epasveer/seer)/961 | Seer - a gui frontend to gdb |
+| 1844 | 315 | 154 | 1 year, 6 months ago | [ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard)/962 | Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible) |
+| 1841 | 379 | 114 | 1 year, 1 month ago | [ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary)/963 | An Arduino library that adds one or more joysticks to the list of HID devices an Arduino Leonardo or Arduino Micro can support. |
+| 1840 | 391 | 27 | 10 days ago | [Simd](https://github.com/ermig1979/Simd)/964 | C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, VMX(Altivec) and VSX(Power7) for PowerPC, NEON for ARM. |
+| 1839 | 380 | 91 | 10 months ago | [restbed](https://github.com/Corvusoft/restbed)/965 | Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++14 applications. |
+| 1836 | 289 | 207 | 5 months ago | [node-java](https://github.com/joeferner/node-java)/966 | Bridge API to connect with existing Java APIs. |
+| 1834 | 1407 | 28 | 3 months ago | [DHT-sensor-library](https://github.com/adafruit/DHT-sensor-library)/967 | Arduino library for DHT11, DHT22, etc Temperature & Humidity Sensors |
+| 1833 | 218 | 242 | 9 days ago | [hunspell](https://github.com/hunspell/hunspell)/968 | The most popular spellchecking library. |
+| 1830 | 270 | 0 | 2 years ago | [security-research-pocs](https://github.com/google/security-research-pocs)/969 | Proof-of-concept codes created as part of security research done by Google Security Team. |
+| 1828 | 262 | 0 | 19 days ago | [xbyak](https://github.com/herumi/xbyak)/970 | a JIT assembler for x86(IA-32)/x64(AMD64, x86-64) MMX/SSE/SSE2/SSE3/SSSE3/SSE4/FPU/AVX/AVX2/AVX-512 by C++ header |
+| 1827 | 181 | 120 | 14 days ago | [cryfs](https://github.com/cryfs/cryfs)/971 | Cryptographic filesystem for the cloud |
+| 1827 | 359 | 45 | 5 months ago | [SuperRDP](https://github.com/anhkgg/SuperRDP)/972 | Super RDPWrap |
+| 1826 | 211 | 17 | 2 months ago | [FlexLayout](https://github.com/layoutBox/FlexLayout)/973 | FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax. |
+| 1826 | 215 | 225 | 7 months ago | [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)/974 | Featureful ncurses based MPD client inspired by ncmpc |
+| 1824 | 185 | 13 | 7 months ago | [code_contests](https://github.com/deepmind/code_contests)/975 | None |
+| 1822 | 388 | 143 | 6 days ago | [libtins](https://github.com/mfontanini/libtins)/976 | High-level, multiplatform C++ network packet sniffing and crafting library.  |
+| 1820 | 230 | 40 | 3 days ago | [xsimd](https://github.com/xtensor-stack/xsimd)/977 | C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE)) |
+| 1820 | 205 | 943 | 4 hours ago | [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)/978 | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) |
+| 1820 | 596 | 264 | 4 years ago | [iisnode](https://github.com/tjanczuk/iisnode)/979 | Hosting node.js applications in IIS on Windows |
+| 1818 | 269 | 597 | 2 months ago | [toggldesktop](https://github.com/toggl-open-source/toggldesktop)/980 | Toggl Desktop app for Windows, Mac and Linux |
+| 1816 | 170 | 37 | a month ago | [CV-CUDA](https://github.com/CVCUDA/CV-CUDA)/981 | CV-CUDA™ is an open-source, GPU accelerated library for cloud-scale image processing and computer vision. |
+| 1816 | 133 | 455 | 3 hours ago | [widelands](https://github.com/widelands/widelands)/982 | Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it. |
+| 1812 | 157 | 15 | 2 days ago | [SpartanEngine](https://github.com/PanosK92/SpartanEngine)/983 | Game engine with an emphasis on architectural quality and performance |
+| 1810 | 72 | 58 | 2 years ago | [DeskGap](https://github.com/branchseer/DeskGap)/984 | A cross-platform desktop app framework based on Node.js and the system webview |
+| 1810 | 257 | 0 | 1 year, 9 months ago | [ALVR](https://github.com/polygraphene/ALVR)/985 | ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset. |
+| 1807 | 267 | 178 | 4 months ago | [rtags](https://github.com/Andersbakken/rtags)/986 | A client/server indexer for c/c++/objc[++] with integration for Emacs based on clang. |
+| 1804 | 401 | 77 | a day ago | [chrono](https://github.com/projectchrono/chrono)/987 | High-performance C++ library for multiphysics and multibody dynamics simulations |
+| 1802 | 189 | 17 | a month ago | [input-overlay](https://github.com/univrsal/input-overlay)/988 | Show keyboard, gamepad and mouse input on stream |
+| 1802 | 1946 | 507 | 1 year, 14 days ago | [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3)/989 | BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard. |
+| 1797 | 529 | 115 | a month ago | [UnLua](https://github.com/Tencent/UnLua)/990 | A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE. |
+| 1795 | 300 | 15 | 18 hours ago | [DIE-engine](https://github.com/horsicq/DIE-engine)/991 | DIE engine |
+| 1795 | 242 | 19 | 10 months ago | [lucidgloves](https://github.com/LucidVR/lucidgloves)/992 | Arduino/ESP32 based DIY VR Haptic gloves. Compatible with SteamVR via OpenGloves. |
+| 1793 | 248 | 5 | 5 years ago | [CppCon2016](https://github.com/CppCon/CppCon2016)/993 | Slides and other materials from CppCon 2016 |
+| 1793 | 1094 | 1 | 4 years ago | [thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)/994 | 清华大学计算机系课程攻略 |
+| 1790 | 1299 | 54 | 5 months ago | [Javidx9](https://github.com/OneLoneCoder/Javidx9)/995 | The official distribution of Javidx9's YouTube videos and projects |
+| 1781 | 291 | 64 | 6 years ago | [logcabin](https://github.com/logcabin/logcabin)/996 | LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core metadata and is helpful in solving cluster management issues. |
+| 1780 | 281 | 75 | 4 years ago | [ardb](https://github.com/yinqiwen/ardb)/997 | A redis protocol compatible nosql,  it support multiple storage engines as backend like Google's LevelDB, Facebook's RocksDB, OpenLDAP's LMDB,  PerconaFT, WiredTiger, ForestDB. |
+| 1779 | 935 | 15 | 5 years ago | [OpenCV3-Intro-Book-Src](https://github.com/QianMo/OpenCV3-Intro-Book-Src)/998 | :blue_book:《OpenCV3编程入门》书本配套源码 |《Introduction to OpenCV3 Programming》Book Source Code |
+| 1779 | 87 | 89 | a day ago | [Cytopia](https://github.com/CytopiaTeam/Cytopia)/999 | :deciduous_tree::house_with_garden::office::evergreen_tree: A city building simulation game |
+| 1774 | 754 | 39 | 4 years ago | [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)/1000 | Advanced implementation of LOAM |
