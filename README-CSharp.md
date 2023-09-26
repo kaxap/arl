@@ -1,1003 +1,1003 @@
 ## This is a most popular repository list for CSharp sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 76722 | 4362 | 2959 | 22 minutes ago | [PowerToys](https://github.com/microsoft/PowerToys)/1 | Windows system utilities to maximize productivity |
-| 54967 | 16324 | 103 | 1 year, 3 months ago | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)/2 | A C# port of shadowsocks |
-| 34831 | 5798 | 3241 | 15 hours ago | [PowerShell](https://github.com/PowerShell/PowerShell)/3 | PowerShell for every system! |
-| 31420 | 6339 | 25 | 2 days ago | [v2rayN](https://github.com/2dust/v2rayN)/4 | A V2Ray client for Windows, support Xray core and v2fly core |
-| 29324 | 8179 | 2396 | 2 hours ago | [aspnetcore](https://github.com/dotnet/aspnetcore)/5 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
-| 23112 | 652 | 237 | 2 years ago | [CodeHub](https://github.com/CodeHubApp/CodeHub)/6 | CodeHub is an iOS application written using Xamarin |
-| 22089 | 2340 | 917 | 6 months ago | [Wox](https://github.com/Wox-launcher/Wox)/7 | Launcher for Windows, an alternative to Alfred and Launchy. |
-| 21499 | 4217 | 185 | 1 year, 8 months ago | [dnSpy](https://github.com/dnSpy/dnSpy)/8 | .NET debugger and assembly editor |
-| 21347 | 9141 | 44 | 21 days ago | [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)/9 | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. |
-| 21250 | 2634 | 358 | 2 days ago | [ShareX](https://github.com/ShareX/ShareX)/10 | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. |
-| 19717 | 1052 | 1 | 29 days ago | [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)/11 | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics |
-| 18125 | 1874 | 195 | 9 days ago | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)/12 | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. |
-| 16757 | 2298 | 22 | 4 days ago | [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)/13 | :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了） |
-| 16691 | 1017 | 1702 | 20 hours ago | [maui](https://github.com/dotnet/maui)/14 | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
-| 16635 | 2588 | 140 | 5 days ago | [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)/15 | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software |
-| 16307 | 3677 | 9368 | 2 hours ago | [roslyn](https://github.com/dotnet/roslyn)/16 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
-| 16019 | 1602 | 847 | a day ago | [jellyfin](https://github.com/jellyfin/jellyfin)/17 | The Free Software Media System |
-| 15739 | 2911 | 180 | 3 hours ago | [ILSpy](https://github.com/icsharpcode/ILSpy)/18 | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform! |
-| 15256 | 3559 | 371 | 2 days ago | [Dapper](https://github.com/DapperLib/Dapper)/19 | Dapper - a simple object mapper for .Net |
-| 14996 | 1320 | 1213 | a day ago | [Avalonia](https://github.com/AvaloniaUI/Avalonia)/20 | A cross-platform UI framework for .NET |
-| 13271 | 3522 | 151 | 7 months ago | [ml-agents](https://github.com/Unity-Technologies/ml-agents)/21 | The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning. |
-| 12663 | 1546 | 446 | 44 minutes ago | [Ryujinx](https://github.com/Ryujinx/Ryujinx)/22 | Experimental Nintendo Switch Emulator written in C# |
-| 12626 | 3054 | 187 | 3 days ago | [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)/23 | Google's Material Design in XAML & WPF, for C# & VB.Net.  |
-| 12166 | 885 | 343 | 21 days ago | [QuickLook](https://github.com/QL-Win/QuickLook)/24 | Bring macOS “Quick Look” feature to Windows |
-| 12133 | 2023 | 31 | 7 days ago | [netch](https://github.com/netchx/netch)/25 | A simple proxy client |
-| 11709 | 2435 | 1568 | 3 days ago | [OpenRA](https://github.com/OpenRA/OpenRA)/26 | Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. |
-| 11623 | 2809 | 1687 | 9 hours ago | [efcore](https://github.com/dotnet/efcore)/27 | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. |
-| 11076 | 584 | 180 | 4 days ago | [DevToys](https://github.com/veler/DevToys)/28 | A Swiss Army knife for developers. |
-| 10932 | 2017 | 27 | 11 days ago | [CleanArchitecture](https://github.com/ardalis/CleanArchitecture)/29 | Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core |
-| 10909 | 1000 | 85 | 5 months ago | [Polly](https://github.com/App-vNext/Polly)/30 | Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+. |
-| 10812 | 24641 | 561 | 12 hours ago | [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs)/31 | Documentation for ASP.NET Core |
-| 10570 | 3624 | 191 | 5 days ago | [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate)/32 | ASP.NET Boilerplate - Web Application Framework |
-| 10526 | 1701 | 904 | 27 minutes ago | [osu](https://github.com/ppy/osu)/33 | rhythm is just a *click* away! |
-| 10312 | 887 | 60 | 24 minutes ago | [server](https://github.com/bitwarden/server)/34 | The core infrastructure backend (API, database, Docker, etc). |
-| 9944 | 2315 | 5 | 3 days ago | [PEASS-ng](https://github.com/carlospolop/PEASS-ng)/35 | PEASS - Privilege Escalation Awesome Scripts SUITE (with colors) |
-| 9837 | 3333 | 7650 | 44 minutes ago | [runtime](https://github.com/dotnet/runtime)/36 | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. |
-| 9687 | 615 | 342 | 2 hours ago | [SteamTools](https://github.com/BeyondDimension/SteamTools)/37 | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
-| 9526 | 3074 | 650 | 20 days ago | [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)/38 | Json.NET is a popular high-performance JSON framework for .NET |
-| 9445 | 2106 | 4 | 5 days ago | [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference)/39 | Unity C# reference source code. |
-| 9409 | 2149 | 14 | a day ago | [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)/40 | Clean Architecture Solution Template for .NET 6 |
-| 9349 | 1675 | 200 | 4 days ago | [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)/41 | [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported. |
-| 9085 | 932 | 448 | 16 hours ago | [csharplang](https://github.com/dotnet/csharplang)/42 | The official repo for the design of the C# programming language |
-| 9030 | 1717 | 127 | 2 months ago | [AssetStudio](https://github.com/Perfare/AssetStudio)/43 | AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles. |
-| 8958 | 1155 | 21 | 21 days ago | [basic-computer-games](https://github.com/coding-horror/basic-computer-games)/44 | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/ |
-| 8919 | 1686 | 1 | 25 days ago | [AutoMapper](https://github.com/AutoMapper/AutoMapper)/45 | A convention-based object-object mapper in .NET.  |
-| 8888 | 2806 | 47 | 3 days ago | [CefSharp](https://github.com/cefsharp/CefSharp)/46 | .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework |
-| 8797 | 3606 | 42 | 5 months ago | [IdentityServer4](https://github.com/IdentityServer/IdentityServer4)/47 | OpenID Connect and OAuth 2.0 Framework for ASP.NET Core |
-| 8729 | 1902 | 352 | 5 days ago | [orleans](https://github.com/dotnet/orleans)/48 | Cloud Native application framework for .NET |
-| 8719 | 2631 | 774 | 22 hours ago | [MonoGame](https://github.com/MonoGame/MonoGame)/49 | One framework for creating powerful cross-platform games. |
-| 8715 | 2286 | 37 | 6 days ago | [SignalR](https://github.com/SignalR/SignalR)/50 | Incredibly simple real-time web for .NET |
-| 8568 | 2245 | 23 | 24 days ago | [RestSharp](https://github.com/restsharp/RestSharp)/51 | Simple REST and HTTP API Client for .NET |
-| 8500 | 2672 | 708 | 22 hours ago | [abp](https://github.com/abpframework/abp)/52 | Open Source Web Application Framework for ASP.NET Core |
-| 8481 | 842 | 811 | a day ago | [choco](https://github.com/chocolatey/choco)/53 | Chocolatey - the package manager for Windows |
-| 8397 | 420 | 237 | a month ago | [FluentTerminal](https://github.com/felixse/FluentTerminal)/54 | A Terminal Emulator based on UWP and web technologies. |
-| 8396 | 2411 | 65 | 6 days ago | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro)/55 | A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort. |
-| 8376 | 984 | 79 | 25 days ago | [MediatR](https://github.com/jbogard/MediatR)/56 | Simple, unambitious mediator implementation in .NET |
-| 8292 | 694 | 159 | a day ago | [lively](https://github.com/rocksdanister/lively)/57 | Free and open-source software that allows users to set animated desktop wallpapers and screensavers. |
-| 8234 | 1330 | 10 | 29 days ago | [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)/58 | CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！ |
-| 8074 | 1095 | 57 | 2 months ago | [FastGithub](https://github.com/dotnetcore/FastGithub)/59 | github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题 |
-| 8071 | 1768 | 673 | 3 days ago | [machinelearning](https://github.com/dotnet/machinelearning)/60 | ML.NET is an open source and cross-platform machine learning framework for .NET. |
-| 7972 | 788 | 217 | an hour ago | [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)/61 | Powerful .NET library for benchmarking |
-| 7874 | 3913 | 16 | a month ago | [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)/62 | Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder. |
-| 7832 | 961 | 208 | 13 hours ago | [Jackett](https://github.com/Jackett/Jackett)/63 | API Support for your favorite torrent trackers |
-| 7809 | 681 | 213 | 4 months ago | [Locale-Emulator](https://github.com/xupefei/Locale-Emulator)/64 | Yet Another System Region and Language Simulator |
-| 7755 | 759 | 878 | 16 days ago | [duplicati](https://github.com/duplicati/duplicati)/65 | Store securely encrypted backups in the cloud! |
-| 7720 | 1551 | 725 | 5 days ago | [Hangfire](https://github.com/HangfireIO/Hangfire)/66 | An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required |
-| 7704 | 1212 | 157 | a day ago | [winsw](https://github.com/winsw/winsw)/67 | A wrapper executable that can run any executable as a Windows service, in a permissive license. |
-| 7623 | 1056 | 162 | 2 days ago | [Sonarr](https://github.com/Sonarr/Sonarr)/68 | Smart PVR for newsgroup and bittorrent users. |
-| 7575 | 1020 | 229 | 2 months ago | [downkyi](https://github.com/leiurayer/downkyi)/69 | 哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。 |
-| 7535 | 1071 | 7 | 4 days ago | [FluentValidation](https://github.com/FluentValidation/FluentValidation)/70 | A popular .NET validation library for building strongly-typed validation rules. |
-| 7503 | 1481 | 114 | 2 years ago | [Captura](https://github.com/MathewSachin/Captura)/71 | Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes |
-| 7457 | 4219 | 176 | 11 days ago | [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)/72 | 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#. |
-| 7256 | 1085 | 47 | 12 hours ago | [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)/73 | Full Modular Monolith application with Domain-Driven Design approach. |
-| 7193 | 1481 | 586 | 7 months ago | [Ocelot](https://github.com/ThreeMammals/Ocelot)/74 | .NET core API Gateway |
-| 7169 | 1518 | 221 | 2 years ago | [Nancy](https://github.com/NancyFx/Nancy)/75 | Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono |
-| 7120 | 1097 | 74 | a day ago | [ReactiveUI](https://github.com/reactiveui/ReactiveUI)/76 | An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application. |
-| 7064 | 856 | 216 | 5 months ago | [Humanizer](https://github.com/Humanizr/Humanizer)/77 | Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities |
-| 7062 | 2592 | 112 | 1 year, 6 months ago | [blockchain](https://github.com/dvf/blockchain)/78 | A simple Blockchain in Python |
-| 6969 | 543 | 80 | 11 days ago | [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)/79 | Cross Platform Terminal UI toolkit for .NET |
-| 6813 | 916 | 177 | 21 hours ago | [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore)/80 | Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0, 6.0 and 7.0  projects you can use. Readme contains explanations on all projects. |
-| 6697 | 1025 | 559 | 2 months ago | [LiteDB](https://github.com/mbdavid/LiteDB)/81 | LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org |
-| 6644 | 1240 | 709 | a day ago | [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)/82 | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. |
-| 6534 | 778 | 382 | 2 days ago | [Radarr](https://github.com/Radarr/Radarr)/83 | A fork of Sonarr to work with movies à la Couchpotato. |
-| 6468 | 1906 | 663 | 4 days ago | [gitextensions](https://github.com/gitextensions/gitextensions)/84 | Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019). |
-| 6396 | 645 | 170 | 6 months ago | [refit](https://github.com/reactiveui/refit)/85 | The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface. |
-| 6394 | 650 | 155 | 26 days ago | [Electron.NET](https://github.com/ElectronNET/Electron.NET)/86 | :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor). |
-| 6222 | 429 | 112 | 2 months ago | [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)/87 | EarTrumpet - Volume Control for Windows |
-| 6171 | 1030 | 29 | 21 days ago | [PDFPatcher](https://github.com/wmjordan/PDFPatcher)/88 | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 |
-| 6147 | 415 | 90 | 2 days ago | [Bili.Uwp](https://github.com/Richasy/Bili.Uwp)/89 | 适用于新系统UI的哔哩 |
-| 6120 | 2306 | 42 | a day ago | [ET](https://github.com/egametang/ET)/90 | Unity3D Client And C# Server Framework |
-| 6112 | 368 | 26 | 3 months ago | [Bogus](https://github.com/bchavez/Bogus)/91 | :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js. |
-| 6064 | 2053 | 1291 | 2 days ago | [OrchardCore](https://github.com/OrchardCMS/OrchardCore)/92 | Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework. |
-| 5991 | 792 | 227 | 2 years ago | [UniRx](https://github.com/neuecc/UniRx)/93 | Reactive Extensions for Unity |
-| 5967 | 1049 | 12 | 19 hours ago | [ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows)/94 | Ship of Theseus |
-| 5923 | 2407 | 9 | 1 year, 11 months ago | [de4dot](https://github.com/de4dot/de4dot)/95 | .NET deobfuscator and unpacker. |
-| 5878 | 939 | 1005 | 20 minutes ago | [wpf](https://github.com/dotnet/wpf)/96 | WPF is a .NET Core UI framework for building Windows desktop applications. |
-| 5865 | 732 | 55 | 12 days ago | [ImageSharp](https://github.com/SixLabors/ImageSharp)/97 | :camera: A modern, cross-platform, 2D Graphics library for .NET |
-| 5783 | 444 | 67 | 1 year, 6 months ago | [docker-lambda](https://github.com/lambci/docker-lambda)/98 | Docker images and test runners that replicate the live AWS Lambda environment |
-| 5773 | 2026 | 153 | 1 year, 6 months ago | [Quasar](https://github.com/quasar/Quasar)/99 | Remote Administration Tool for Windows |
-| 5715 | 530 | 124 | a day ago | [reverse-proxy](https://github.com/microsoft/reverse-proxy)/100 | A toolkit for developing high-performance HTTP reverse proxy applications. |
-| 5317 | 1015 | 1494 | 8 days ago | [NSwag](https://github.com/RicoSuter/NSwag)/101 | The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.  |
-| 5303 | 867 | 183 | 20 hours ago | [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet)/102 | GraphQL for .NET |
-| 5299 | 472 | 81 | 9 months ago | [Dependencies](https://github.com/lucasg/Dependencies)/103 | A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues. |
-| 5298 | 2012 | 715 | a day ago | [MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity)/104 | Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity. |
-| 5280 | 1463 | 7 | 2 months ago | [Prism](https://github.com/PrismLibrary/Prism)/105 | Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Xamarin Forms, and Uno / Win UI Applications.. |
-| 5273 | 327 | 42 | a month ago | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)/106 | 🖱️ 纯粹的Windows右键菜单管理程序 |
-| 5214 | 1366 | 541 | 1 year, 5 months ago | [Live-Charts](https://github.com/Live-Charts/Live-Charts)/107 | Simple, flexible, interactive & powerful charts, maps and gauges for .Net |
-| 5157 | 223 | 2 | a month ago | [MarkovJunior](https://github.com/mxgmn/MarkovJunior)/108 | Probabilistic language based on pattern matching and constraint propagation, 153 examples |
-| 5136 | 481 | 3 | 15 hours ago | [FASTER](https://github.com/microsoft/FASTER)/109 | Fast persistent recoverable log and key-value store + cache, in C# and C++. |
-| 5115 | 1469 | 9 | 2 days ago | [StockSharp](https://github.com/StockSharp/StockSharp)/110 | Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options). |
-| 5114 | 548 | 57 | a month ago | [imewlconverter](https://github.com/studyzy/imewlconverter)/111 | ”深蓝词库转换“ 一款开源免费的输入法词库转换程序 |
-| 5104 | 1298 | 269 | 16 hours ago | [WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)/112 | The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation. |
-| 5015 | 1253 | 44 | 2 years ago | [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)/113 | :books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C# |
-| 4976 | 578 | 2705 | 8 days ago | [microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml)/114 | Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications |
-| 4924 | 354 | 10 | 2 months ago | [sharpkeys](https://github.com/randyrants/sharpkeys)/115 | SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key. |
-| 4921 | 723 | 9 | 3 days ago | [MailKit](https://github.com/jstedfast/MailKit)/116 | A cross-platform .NET library for IMAP, POP3, and SMTP. |
-| 4835 | 1832 | 56 | a month ago | [open-project-1](https://github.com/UnityTechnologies/open-project-1)/117 | Unity Open Project #1: Chop Chop |
-| 4803 | 357 | 41 | 21 days ago | [language-ext](https://github.com/louthy/language-ext)/118 | C# functional language extensions - a base class library for functional programming |
-| 4795 | 1564 | 86 | 2 years ago | [NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders)/119 | Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core. |
-| 4789 | 1267 | 1180 | 4 days ago | [msbuild](https://github.com/dotnet/msbuild)/120 | The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio. |
-| 4764 | 653 | 33 | 5 days ago | [moq4](https://github.com/moq/moq4)/121 | Repo for managing Moq 4.x  |
-| 4755 | 602 | 135 | 9 months ago | [SparkleShare](https://github.com/hbons/SparkleShare)/122 | Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows. |
-| 4747 | 1481 | 525 | 9 days ago | [websocket-sharp](https://github.com/sta/websocket-sharp)/123 | A C# implementation of the WebSocket protocol client and server |
-| 4602 | 1276 | 76 | 3 days ago | [npoi](https://github.com/nissl-lab/npoi)/124 | a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop. |
-| 4572 | 1126 | 614 | 7 days ago | [Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker)/125 | A deck tracker and deck manager for Hearthstone on Windows |
-| 4548 | 1083 | 26 | a month ago | [EntityComponentSystemSamples](https://github.com/Unity-Technologies/EntityComponentSystemSamples)/126 | None |
-| 4537 | 1969 | 9 | 5 years ago | [shadowsocksr-csharp](https://github.com/shadowsocksr-backup/shadowsocksr-csharp)/127 | None |
-| 4530 | 743 | 19 | 2 months ago | [win-acme](https://github.com/win-acme/win-acme)/128 | A simple ACME client for Windows (for use with Let's Encrypt et al.) |
-| 4502 | 888 | 535 | 3 months ago | [react-native-fs](https://github.com/itinance/react-native-fs)/129 | Native filesystem access for react-native |
-| 4414 | 1359 | 3 | 3 hours ago | [Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)/130 | Unity的练习项目 |
-| 4413 | 258 | 29 | a month ago | [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)/131 | Everything integration for the Windows taskbar. |
-| 4388 | 1023 | 7 | 3 days ago | [C-Sharp](https://github.com/TheAlgorithms/C-Sharp)/132 | All algorithms implemented in C#. |
-| 4384 | 675 | 309 | 2 days ago | [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor)/133 | 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly. |
-| 4376 | 1727 | 106 | 2 years ago | [FPSSample](https://github.com/Unity-Technologies/FPSSample)/134 | A first person multiplayer shooter example project in Unity |
-| 4353 | 1567 | 210 | 4 years ago | [PushSharp](https://github.com/Redth/PushSharp)/135 | A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices! |
-| 4319 | 1910 | 11 | 2 years ago | [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility)/136 | Various helper class |
-| 4264 | 509 | 15 | 29 days ago | [AngleSharp](https://github.com/AngleSharp/AngleSharp)/137 | :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications. |
-| 4259 | 1933 | 760 | 1 year, 9 months ago | [framework](https://github.com/accord-net/framework)/138 | Machine learning, computer vision, statistics and general scientific computing for .NET |
-| 4252 | 347 | 291 | 28 days ago | [ImageGlass](https://github.com/d2phap/ImageGlass)/139 | 🏞 A lightweight, versatile image viewer |
-| 4220 | 428 | 29 | 22 days ago | [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows)/140 | A cute running cat animation on your windows taskbar. |
-| 4216 | 7452 | 59 | 4 months ago | [xamarin-forms-samples](https://github.com/xamarin/xamarin-forms-samples)/141 | Sample apps built using the Xamarin.Forms framework |
-| 4213 | 794 | 21 | 2 months ago | [Il2CppDumper](https://github.com/Perfare/Il2CppDumper)/142 | Unity il2cpp reverse engineer |
-| 4207 | 631 | 693 | 5 hours ago | [subtitleedit](https://github.com/SubtitleEdit/subtitleedit)/143 | the subtitle editor :) |
-| 4190 | 443 | 50 | 4 days ago | [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)/144 | Exports Discord chat logs to a file |
-| 4175 | 812 | 71 | 4 months ago | [Opserver](https://github.com/opserver/Opserver)/145 | Stack Exchange's Monitoring System |
-| 4161 | 995 | 418 | 14 hours ago | [akka.net](https://github.com/akkadotnet/akka.net)/146 | Port of Akka actors for .NET |
-| 4106 | 567 | 28 | 11 days ago | [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp)/147 | Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#] |
-| 4087 | 966 | 244 | 8 days ago | [workflow-core](https://github.com/danielgerlag/workflow-core)/148 | Lightweight workflow engine for .NET Standard |
-| 4059 | 950 | 45 | 7 days ago | [opencvsharp](https://github.com/shimat/opencvsharp)/149 | OpenCV wrapper for .NET |
-| 4046 | 784 | 177 | a day ago | [HandyControl](https://github.com/HandyOrg/HandyControl)/150 | Contains some simple and commonly used WPF controls |
-| 4033 | 330 | 94 | 1 year, 16 days ago | [SyncTrayzor](https://github.com/canton7/SyncTrayzor)/151 | Windows tray utility / filesystem watcher / launcher for Syncthing |
-| 4002 | 1188 | 9 | 22 days ago | [Util](https://github.com/dotnetcore/Util)/152 | Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。 |
-| 3973 | 337 | 20 | 12 days ago | [ApplicationInspector](https://github.com/microsoft/ApplicationInspector)/153 | A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'What's in the code?' quickly using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes. |
-| 3966 | 588 | 69 | 2 years ago | [UIEffect](https://github.com/mob-sakai/UIEffect)/154 |  UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects! |
-| 3965 | 1167 | 4 | 7 days ago | [Blog.Core](https://github.com/anjoy8/Blog.Core)/155 | 💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档： |
-| 3942 | 1122 | 7 | 10 months ago | [GameFramework](https://github.com/EllanJiang/GameFramework)/156 | This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality. |
-| 3941 | 797 | 30 | 2 days ago | [Autofac](https://github.com/autofac/Autofac)/157 | An addictive .NET IoC container |
-| 3933 | 984 | 416 | 5 days ago | [protobuf-net](https://github.com/protobuf-net/protobuf-net)/158 | Protocol Buffers library for idiomatic .NET  |
-| 3904 | 3639 | 1722 | 16 minutes ago | [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)/159 | This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.  |
-| 3903 | 1339 | 38 | 4 months ago | [ProxySU](https://github.com/proxysu/ProxySU)/160 | Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网） |
-| 3888 | 399 | 270 | 1 year, 8 months ago | [Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming)/161 | Play your favorite games in a borderless window; no more time consuming alt-tabs.  |
-| 3875 | 400 | 21 | a day ago | [UniTask](https://github.com/Cysharp/UniTask)/162 | Provides an efficient allocation free async/await integration for Unity. |
-| 3872 | 2862 | 61 | 6 days ago | [WPF-Samples](https://github.com/microsoft/WPF-Samples)/163 | Repository for WPF related samples |
-| 3851 | 309 | 17 | 13 days ago | [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer)/164 | Driver Store Explorer [RAPR] |
-| 3830 | 457 | 5 | 1 year, 4 months ago | [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse)/165 | Walk through an infinite, procedurally generated city |
-| 3787 | 498 | 232 | 17 hours ago | [mobile](https://github.com/bitwarden/mobile)/166 | The mobile app vault (iOS and Android). |
-| 3779 | 936 | 289 | a month ago | [CsvHelper](https://github.com/JoshClose/CsvHelper)/167 | Library to help reading and writing CSV files |
-| 3775 | 578 | 44 | 3 years ago | [VisualStudioUninstaller](https://github.com/microsoft/VisualStudioUninstaller)/168 | Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts. |
-| 3764 | 670 | 778 | 30 minutes ago | [MudBlazor](https://github.com/MudBlazor/MudBlazor)/169 | Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum. |
-| 3745 | 423 | 4 | 11 days ago | [Fody](https://github.com/Fody/Fody)/170 | Extensible tool for weaving .net assemblies |
-| 3707 | 810 | 84 | 13 days ago | [WTM](https://github.com/dotnetcore/WTM)/171 | Use WTM to write .netcore app fast !!! |
-| 3704 | 917 | 96 | 22 hours ago | [btcpayserver](https://github.com/btcpayserver/btcpayserver)/172 | Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.  |
-| 3702 | 1444 | 56 | 5 months ago | [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim)/173 | A self-driving car simulator built with Unity |
-| 3677 | 1305 | 287 | 2 hours ago | [MvvmCross](https://github.com/MvvmCross/MvvmCross)/174 | The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac. |
-| 3670 | 2392 | 346 | 18 hours ago | [Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS)/175 | The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites |
-| 3654 | 1349 | 149 | 6 months ago | [SimplCommerce](https://github.com/simplcommerce/SimplCommerce)/176 | A simple, cross platform, modularized ecommerce system built on .NET Core |
-| 3648 | 713 | 266 | 14 hours ago | [elsa-core](https://github.com/elsa-workflows/elsa-core)/177 | A .NET Standard 2.0 Workflows Library |
-| 3626 | 913 | 159 | 19 days ago | [DotNetty](https://github.com/Azure/DotNetty)/178 | DotNetty project – a port of netty, event-driven asynchronous network application framework |
-| 3615 | 434 | 261 | 3 months ago | [commandline](https://github.com/commandlineparser/commandline)/179 | The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support |
-| 3614 | 1105 | 453 | 2 years ago | [EPPlus](https://github.com/JanKallman/EPPlus)/180 | Create advanced Excel spreadsheets using .NET |
-| 3583 | 769 | 487 | 7 hours ago | [winforms](https://github.com/dotnet/winforms)/181 | Windows Forms is a .NET UI framework for building Windows desktop applications. |
-| 3557 | 995 | 20 | 3 months ago | [VRTK](https://github.com/ExtendRealityLtd/VRTK)/182 | *Beta* - An example of how to use the Tilia packages to create great content with VRTK v4. |
-| 3556 | 430 | 67 | a day ago | [BBDown](https://github.com/nilaoda/BBDown)/183 | Bilibili Downloader. 一款命令行式哔哩哔哩下载器. |
-| 3525 | 677 | 0 | 1 year, 8 months ago | [Topshelf](https://github.com/Topshelf/Topshelf)/184 | An easy service hosting framework for building Windows services using .NET |
-| 3461 | 2672 | 67 | 4 days ago | [spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes)/185 | 2D skeletal animation runtimes for Spine. |
-| 3417 | 936 | 15 | 4 days ago | [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)/186 | DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework |
-| 3410 | 702 | 269 | 5 days ago | [xunit](https://github.com/xunit/xunit)/187 | xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. |
-| 3403 | 1390 | 490 | 11 months ago | [sqlite-net](https://github.com/praeclarum/sqlite-net)/188 | Simple, powerful, cross-platform SQLite client and ORM for .NET |
-| 3383 | 750 | 127 | 23 hours ago | [FreeSql](https://github.com/dotnetcore/FreeSql)/189 | 🦄 .NET orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 国产 orm, Clickhouse orm, MsAccess orm. |
-| 3378 | 589 | 27 | 8 months ago | [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)/190 |  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks |
-| 3376 | 1000 | 132 | 7 days ago | [neo](https://github.com/neo-project/neo)/191 | NEO Smart Economy |
-| 3363 | 549 | 120 | 11 months ago | [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)/192 | A manager for game achievements in Steam. |
-| 3361 | 688 | 256 | 19 hours ago | [cake](https://github.com/cake-build/cake)/193 | :cake: Cake (C# Make) is a cross platform build automation system. |
-| 3358 | 185 | 91 | 2 days ago | [QuestPDF](https://github.com/QuestPDF/QuestPDF)/194 | QuestPDF is an open-source, modern and battle-tested library that can help you with generating PDF documents by offering friendly, discoverable and predictable C# fluent API. |
-| 3330 | 386 | 241 | an hour ago | [VsVim](https://github.com/VsVim/VsVim)/195 | Vim Emulator Plugin for Visual Studio 2015+  |
-| 3316 | 1034 | 161 | 2 months ago | [SuperSocket](https://github.com/kerryjiang/SuperSocket)/196 | SuperSocket is a light weight, cross platform and extensible socket server application framework. |
-| 3314 | 1131 | 36 | 25 days ago | [elasticsearch-net](https://github.com/elastic/elasticsearch-net)/197 | This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic. |
-| 3268 | 418 | 297 | 3 months ago | [ink](https://github.com/inkle/ink)/198 | inkle's open source scripting language for writing interactive narrative. |
-| 3253 | 644 | 64 | 2 hours ago | [grpc-dotnet](https://github.com/grpc/grpc-dotnet)/199 | gRPC for .NET |
-| 3244 | 653 | 402 | 29 days ago | [ClosedXML](https://github.com/ClosedXML/ClosedXML)/200 | ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API. |
-| 3378 | 589 | 27 | 8 months ago | [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)/201 |  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks |
-| 3363 | 549 | 120 | 11 months ago | [SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager)/202 | A manager for game achievements in Steam. |
-| 3361 | 688 | 256 | 19 hours ago | [cake](https://github.com/cake-build/cake)/203 | :cake: Cake (C# Make) is a cross platform build automation system. |
-| 3358 | 185 | 91 | 2 days ago | [QuestPDF](https://github.com/QuestPDF/QuestPDF)/204 | QuestPDF is an open-source, modern and battle-tested library that can help you with generating PDF documents by offering friendly, discoverable and predictable C# fluent API. |
-| 3316 | 1034 | 161 | 2 months ago | [SuperSocket](https://github.com/kerryjiang/SuperSocket)/205 | SuperSocket is a light weight, cross platform and extensible socket server application framework. |
-| 3314 | 1131 | 36 | 25 days ago | [elasticsearch-net](https://github.com/elastic/elasticsearch-net)/206 | This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic. |
-| 3268 | 418 | 297 | 3 months ago | [ink](https://github.com/inkle/ink)/207 | inkle's open source scripting language for writing interactive narrative. |
-| 3264 | 760 | 129 | 3 years ago | [Emby](https://github.com/MediaBrowser/Emby)/208 | Emby Server is a personal media server with apps on just about every device. |
-| 3253 | 644 | 64 | 2 hours ago | [grpc-dotnet](https://github.com/grpc/grpc-dotnet)/209 | gRPC for .NET |
-| 3244 | 653 | 402 | 29 days ago | [ClosedXML](https://github.com/ClosedXML/ClosedXML)/210 | ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API. |
-| 3242 | 505 | 69 | a day ago | [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK)/211 | Open XML SDK by Microsoft |
-| 3241 | 607 | 273 | 10 hours ago | [perfview](https://github.com/microsoft/perfview)/212 | PerfView is a CPU and memory performance-analysis tool |
-| 3239 | 326 | 54 | 2 months ago | [Flurl](https://github.com/tmenier/Flurl)/213 | Fluent URL builder and testable HTTP client for .NET |
-| 3237 | 889 | 42 | 8 months ago | [QRCoder](https://github.com/codebude/QRCoder)/214 | A pure C# Open Source QR Code implementation |
-| 3235 | 330 | 0 | 22 days ago | [MathUtilities](https://github.com/zalo/MathUtilities)/215 | A collection of some of the neat math and physics tricks that I've collected over the last few years. |
-| 3233 | 1038 | 276 | 21 days ago | [IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)/216 | The administration for the IdentityServer4 and Asp.Net Core Identity |
-| 3226 | 3151 | 1030 | 2 hours ago | [azure-powershell](https://github.com/Azure/azure-powershell)/217 | Microsoft Azure PowerShell |
-| 3220 | 1461 | 315 | 3 years ago | [ConfuserEx](https://github.com/yck1509/ConfuserEx)/218 | An open-source, free protector for .NET applications |
-| 3211 | 811 | 742 | 11 days ago | [wpftoolkit](https://github.com/xceedsoftware/wpftoolkit)/219 | All the controls missing in WPF. Over 1 million downloads. |
-| 3209 | 368 | 76 | 1 year, 6 months ago | [NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016)/220 | Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit) |
-| 3176 | 620 | 64 | 1 year, 4 months ago | [Covenant](https://github.com/cobbr/Covenant)/221 | Covenant is a collaborative .NET C2 framework for red teamers. |
-| 3169 | 860 | 114 | 1 year, 10 months ago | [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)/222 | Lightweight and fast library written in C# for reading Microsoft Excel files |
-| 3168 | 355 | 85 | 6 months ago | [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)/223 | Attribute Extensions for Unity |
-| 3162 | 353 | 202 | a month ago | [ModernWpf](https://github.com/Kinnara/ModernWpf)/224 | Modern styles and controls for your WPF applications |
-| 3159 | 785 | 0 | 5 hours ago | [Masuit.Tools](https://github.com/ldqk/Masuit.Tools)/225 | 包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！ |
-| 3159 | 375 | 78 | 12 days ago | [markdig](https://github.com/xoofx/markdig)/226 | A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET |
-| 3133 | 743 | 536 | 6 days ago | [docfx](https://github.com/dotnet/docfx)/227 | Static site generator for .NET API documentation. |
-| 3132 | 925 | 250 | 3 months ago | [surging](https://github.com/fanliang11/surging)/228 | Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline.  support Event-based Asynchronous Pattern and reactive programming ,The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm, built-in service governance to ensure reliable RPC communication, the engine contains Diagnostic, link tracking for protocol and middleware calls, and integration SkyWalking Distributed APM |
-| 3130 | 602 | 6 | 10 days ago | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)/229 | Downloads videos and playlists from YouTube |
-| 3117 | 927 | 671 | 4 months ago | [play-games-plugin-for-unity](https://github.com/playgameservices/play-games-plugin-for-unity)/230 | Google Play Games plugin for Unity |
-| 3115 | 5868 | 52 | 1 year, 3 months ago | [example-voting-app](https://github.com/dockersamples/example-voting-app)/231 | Example Docker Compose app |
-| 3093 | 913 | 89 | 7 days ago | [SharpZipLib](https://github.com/icsharpcode/SharpZipLib)/232 | #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform. |
-| 3086 | 543 | 0 | 2 years ago | [JavaScriptServices](https://github.com/aspnet/JavaScriptServices)/233 | [Archived] This repository has been archived |
-| 3081 | 473 | 20 | 7 months ago | [standard](https://github.com/dotnet/standard)/234 | This repo is building the .NET Standard |
-| 3080 | 844 | 1 | 2 years ago | [Unity-Design-Pattern](https://github.com/QianMo/Unity-Design-Pattern)/235 | :tea:  All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns  written in Unity C#. | 各种设计模式的Unity3D C#版本实现 |
-| 3063 | 675 | 315 | 18 hours ago | [runner](https://github.com/actions/runner)/236 | The Runner for GitHub Actions :rocket: |
-| 3061 | 806 | 44 | a day ago | [ravendb](https://github.com/ravendb/ravendb)/237 | ACID Document Database |
-| 3057 | 579 | 199 | 1 year, 2 months ago | [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp)/238 | TensorFlow API for .NET languages |
-| 3023 | 688 | 357 | 4 years ago | [Swashbuckle.WebApi](https://github.com/domaindrivendev/Swashbuckle.WebApi)/239 | Seamlessly adds a swagger to WebApi projects! |
-| 3018 | 469 | 16 | 2 days ago | [Templates](https://github.com/Dotnet-Boxed/Templates)/240 | .NET project templates with batteries included, providing the minimum amount of code required to get you going faster. |
-| 3014 | 108 | 9 | 1 year, 11 months ago | [rant3](https://github.com/TheBerkin/rant3)/241 | (Obsolete) Archive of Rant 3.x. |
-| 3013 | 354 | 129 | 1 year, 1 month ago | [MoreLINQ](https://github.com/morelinq/MoreLINQ)/242 | Extensions to LINQ to Objects |
-| 3012 | 976 | 66 | 2 years ago | [Hawk](https://github.com/ferventdesert/Hawk)/243 | visualized crawler & ETL IDE written with C#/WPF |
-| 3011 | 329 | 51 | 10 months ago | [AsyncEx](https://github.com/StephenCleary/AsyncEx)/244 | A helper library for async/await. |
-| 3009 | 786 | 513 | a month ago | [SSH.NET](https://github.com/sshnet/SSH.NET)/245 | SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism. |
-| 2996 | 617 | 260 | 22 hours ago | [AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks)/246 | Enterprise HealthChecks for ASP.NET Core Diagnostics Package |
-| 2986 | 378 | 80 | 13 hours ago | [Ombi](https://github.com/Ombi-app/Ombi)/247 | Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi! |
-| 2984 | 338 | 55 | a month ago | [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)/248 | 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具 |
-| 2980 | 228 | 34 | 6 days ago | [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11)/249 | The real PowerToys for Windows 11 |
-| 2974 | 670 | 45 | a day ago | [git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager)/250 | Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services. |
-| 2970 | 1366 | 615 | 1 year, 3 months ago | [DS4Windows](https://github.com/Jays2Kings/DS4Windows)/251 | Like those other ds4tools, but sexier |
-| 2947 | 650 | 639 | 11 days ago | [kudu](https://github.com/projectkudu/kudu)/252 | Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure. |
-| 2940 | 473 | 130 | 6 days ago | [greenshot](https://github.com/greenshot/greenshot)/253 | Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on: |
-| 2911 | 522 | 314 | 1 year, 9 months ago | [corert](https://github.com/dotnet/corert)/254 | This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain. |
-| 2907 | 457 | 345 | 1 year, 8 months ago | [hakchi2](https://github.com/ClusterM/hakchi2)/255 | Tool that allows you to add more games to your NES/SNES Classic Mini |
-| 2900 | 432 | 389 | 6 days ago | [SkiaSharp](https://github.com/mono/SkiaSharp)/256 | SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images. |
-| 2897 | 353 | 18 | 1 year, 18 days ago | [Celeste](https://github.com/NoelFB/Celeste)/257 | Celeste Bugs & Issue Tracker + some Source Code |
-| 2896 | 459 | 90 | 8 days ago | [fluentassertions](https://github.com/fluentassertions/fluentassertions)/258 | A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3. |
-| 2885 | 268 | 7 | 2 months ago | [Chromely](https://github.com/chromelyapps/Chromely)/259 | Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor) |
-| 2878 | 363 | 21 | a day ago | [openiddict-core](https://github.com/openiddict/openiddict-core)/260 | Versatile OpenID Connect stack for ASP.NET Core and Microsoft.Owin (compatible with ASP.NET 4.6.1) |
-| 2871 | 863 | 249 | 7 months ago | [SpaceEngineers](https://github.com/KeenSoftwareHouse/SpaceEngineers)/261 | None |
-| 2870 | 476 | 46 | 2 days ago | [jint](https://github.com/sebastienros/jint)/262 | Javascript Interpreter for .NET |
-| 2855 | 229 | 91 | a month ago | [Mapster](https://github.com/MapsterMapper/Mapster)/263 | A fast, fun and stimulating object to object Mapper |
-| 2854 | 1220 | 40 | 17 hours ago | [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver)/264 | .NET Driver for MongoDB |
-| 2849 | 1264 | 42 | a month ago | [blazor-workshop](https://github.com/dotnet-presentations/blazor-workshop)/265 | Blazor workshop |
-| 2848 | 550 | 75 | 2 years ago | [BaiduPanDownloadWinform](https://github.com/Accelerider/BaiduPanDownloadWinform)/266 | 百度网盘不限速下载工具 |
-| 2836 | 348 | 6 | 9 days ago | [MagicOnion](https://github.com/Cysharp/MagicOnion)/267 | Unified Realtime/API framework for .NET platform and Unity. |
-| 2822 | 161 | 39 | 6 days ago | [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)/268 | Remove large amounts of unwanted applications quickly. |
-| 2812 | 329 | 383 | 21 days ago | [command-line-api](https://github.com/dotnet/command-line-api)/269 | Command line parsing, invocation, and rendering of terminal output. |
-| 2793 | 1514 | 496 | 3 hours ago | [tModLoader](https://github.com/tModLoader/tModLoader)/270 | A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations  |
-| 2784 | 929 | 193 | a day ago | [Vue.NetCore](https://github.com/cq-panda/Vue.NetCore)/271 | .NetCore+Vue2/Vue3+Element plus+uniapp前后端分离，全自动生成代码；支持移动端(uniapp)ios/android/h5/微信小程序。http://www.volcore.xyz/ |
-| 2777 | 617 | 220 | a month ago | [fluentmigrator](https://github.com/fluentmigrator/fluentmigrator)/272 | Fluent migrations framework for .NET |
-| 2775 | 1158 | 52 | 1 year, 9 months ago | [referencesource](https://github.com/microsoft/referencesource)/273 | Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework |
-| 2774 | 634 | 82 | 1 year, 10 months ago | [Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows)/274 | Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication. |
-| 2765 | 858 | 39 | 1 year, 3 months ago | [tolua](https://github.com/topameng/tolua)/275 | The fastest unity lua binding solution |
-| 2762 | 366 | 20 | 4 months ago | [TwitchLeecher](https://github.com/Franiac/TwitchLeecher)/276 | Twitch Leecher - The Broadcast Downloader |
-| 2761 | 223 | 65 | 9 hours ago | [Power-Fx](https://github.com/microsoft/Power-Fx)/277 | Power Fx low-code programming language |
-| 2761 | 612 | 8 | 3 days ago | [QFramework](https://github.com/liangxiegame/QFramework)/278 | Unity3D System Design Architecture |
-| 2750 | 556 | 73 | a month ago | [CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)/279 | Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components. |
-| 2740 | 259 | 181 | a month ago | [PSReadLine](https://github.com/PowerShell/PSReadLine)/280 | A bash inspired readline implementation for PowerShell |
-| 2734 | 323 | 60 | a month ago | [AutoFixture](https://github.com/AutoFixture/AutoFixture)/281 | AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data. |
-| 2723 | 987 | 655 | 10 months ago | [monodevelop](https://github.com/mono/monodevelop)/282 | MonoDevelop is a cross platform .NET IDE |
-| 2721 | 442 | 42 | a day ago | [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions)/283 | Entity Framework Core Bulk Batch Extensions in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite |
-| 2687 | 657 | 64 | 19 days ago | [ILRuntime](https://github.com/Ourpalm/ILRuntime)/284 | Pure C# IL Intepreter Runtime, which is fast and reliable for scripting requirement on enviorments, where jitting isn't possible.  |
-| 2658 | 668 | 82 | 2 days ago | [Discord.Net](https://github.com/discord-net/Discord.Net)/285 | An unofficial .Net wrapper for the Discord API (https://discord.com/) |
-| 2655 | 198 | 17 | 1 year, 2 months ago | [Deform](https://github.com/keenanwoodall/Deform)/286 | A fully-featured deformer system for Unity. |
-| 2647 | 398 | 98 | 29 days ago | [crest](https://github.com/wave-harmonic/crest)/287 | An advanced ocean system implemented in Unity3D |
-| 2645 | 823 | 368 | 4 months ago | [libgit2sharp](https://github.com/libgit2/libgit2sharp)/288 | Git + .NET/Mono = ❤ |
-| 2643 | 882 | 561 | 7 days ago | [oxyplot](https://github.com/oxyplot/oxyplot)/289 | A cross-platform plotting library for .NET |
-| 2642 | 77 | 11 | a month ago | [gsudo](https://github.com/gerardog/gsudo)/290 | A Sudo for Windows |
-| 2641 | 533 | 0 | 3 years ago | [KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer)/291 | [Archived] A cross platform web server for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore |
-| 2641 | 278 | 5 | 2 days ago | [optimizer](https://github.com/hellzerg/optimizer)/292 | The finest Windows Optimizer |
-| 2641 | 429 | 195 | 3 years ago | [Unity](https://github.com/github-for-unity/Unity)/293 | GitHub for Unity |
-| 2628 | 263 | 24 | 5 months ago | [SymSpell](https://github.com/wolfgarbe/SymSpell)/294 | SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm |
-| 2623 | 747 | 304 | 7 days ago | [npgsql](https://github.com/npgsql/npgsql)/295 | Npgsql is the .NET data provider for PostgreSQL. |
-| 2612 | 562 | 15 | 14 days ago | [Rubeus](https://github.com/GhostPack/Rubeus)/296 | Trying to tame the three-headed dog. |
-| 2605 | 686 | 0 | 13 days ago | [Architecture](https://github.com/rafaelfgx/Architecture)/297 | .NET 6, ASP.NET Core 6, Entity Framework Core 6, C# 10, Angular 14, Clean Code, SOLID, DDD. |
-| 2602 | 908 | 103 | 1 year, 27 days ago | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents)/298 | High Level API Components for Runtime NavMesh Building |
-| 2592 | 140 | 30 | 2 months ago | [privatezilla](https://github.com/builtbybel/privatezilla)/299 | 👀👮🐢🔥Performs a privacy & security check of Windows 10  |
-| 2570 | 564 | 61 | a month ago | [dotnet](https://github.com/MiniProfiler/dotnet)/300 | A simple but effective mini-profiler for ASP.NET (and Core) websites |
-| 2301 | 1123 | 1870 | 19 days ago | [Orchard](https://github.com/OrchardCMS/Orchard)/301 | Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform. |
-| 2293 | 147 | 22 | 6 months ago | [ParrelSync](https://github.com/VeriorPies/ParrelSync)/302 | (Unity3D) Test multiplayer without building |
-| 2278 | 147 | 1 | 1 year, 6 months ago | [design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food)/303 | GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies |
-| 2273 | 888 | 17 | 6 months ago | [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis)/304 | .NET's leading C# Redis Client |
-| 2273 | 309 | 49 | 3 years ago | [TrueCraft](https://github.com/ddevault/TrueCraft)/305 | Minecraft for hipsters |
-| 2272 | 257 | 176 | 3 months ago | [Utf8Json](https://github.com/neuecc/Utf8Json)/306 | Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin). |
-| 2252 | 361 | 91 | 30 days ago | [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)/307 | Entity Framework Core provider for MySQL and MariaDB built on top of MySqlConnector |
-| 2248 | 614 | 43 | a month ago | [dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate)/308 | Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support. |
-| 2242 | 443 | 119 | 2 years ago | [nbfc](https://github.com/hirschmann/nbfc)/309 | NoteBook FanControl |
-| 2241 | 144 | 5 | 5 years ago | [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks)/310 | Creative and unusual things that can be done with the Windows API. |
-| 2238 | 1276 | 427 | 6 months ago | [VisualStudio](https://github.com/github/VisualStudio)/311 | GitHub Extension for Visual Studio |
-| 2237 | 747 | 21 | 15 hours ago | [Serenity](https://github.com/serenity-is/Serenity)/312 | Business Apps Made Simple with Asp.Net Core MVC / TypeScript |
-| 2234 | 390 | 3 | 7 days ago | [ysoserial.net](https://github.com/pwntester/ysoserial.net)/313 | Deserialization payload generator for a variety of .NET formatters |
-| 2233 | 301 | 28 | 8 days ago | [nodatime](https://github.com/nodatime/nodatime)/314 | A better date and time API for .NET |
-| 2224 | 542 | 138 | a day ago | [FluentFTP](https://github.com/robinrodricks/FluentFTP)/315 | An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, FXP support, UTF-8 support, Async/await support, Powershell support and more. Written entirely in C#. |
-| 2219 | 468 | 682 | 5 days ago | [x360ce](https://github.com/x360ce/x360ce)/316 | Primary repository for the x360ce library, front-end and tools. |
-| 2217 | 827 | 18 | 18 days ago | [arfoundation-samples](https://github.com/Unity-Technologies/arfoundation-samples)/317 | Example content for Unity projects based on AR Foundation |
-| 2210 | 695 | 369 | 19 days ago | [nunit](https://github.com/nunit/nunit)/318 | NUnit 3 Framework |
-| 2207 | 621 | 145 | 16 hours ago | [AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET)/319 | AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects. |
-| 2204 | 944 | 88 | 3 months ago | [React.NET](https://github.com/reactjs/React.NET)/320 | .NET library for JSX compilation and server-side rendering of React components |
-| 2204 | 512 | 26 | a day ago | [Exceptionless](https://github.com/exceptionless/Exceptionless)/321 | Exceptionless server and jobs |
-| 2201 | 1194 | 24 | 1 year, 9 months ago | [SharpSCADA](https://github.com/GavinYellow/SharpSCADA)/322 | C# SCADA |
-| 2183 | 341 | 69 | 16 hours ago | [html-agility-pack](https://github.com/zzzprojects/html-agility-pack)/323 | Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse "out of the web" HTML files. |
-| 2182 | 219 | 11 | 21 days ago | [GuardClauses](https://github.com/ardalis/GuardClauses)/324 | A simple package with guard clause extensions. |
-| 2181 | 546 | 34 | a month ago | [FairyGUI-unity](https://github.com/fairygui/FairyGUI-unity)/325 | A flexible UI framework for Unity |
-| 2177 | 4135 | 96 | 28 days ago | [monodroid-samples](https://github.com/xamarin/monodroid-samples)/326 | A collection of Xamarin.Android sample projects. |
-| 2173 | 448 | 805 | 19 hours ago | [xamarin-macios](https://github.com/xamarin/xamarin-macios)/327 | Bridges the worlds of .NET with the native APIs of macOS, iOS, tvOS, and watchOS. |
-| 2154 | 438 | 71 | 1 year, 1 month ago | [CacheManager](https://github.com/MichaCo/CacheManager)/328 | CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features. |
-| 2145 | 181 | 108 | 3 days ago | [qttabbar](https://github.com/indiff/qttabbar)/329 | Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  https://www.yuque.com/indiff/qttabbar |
-| 2139 | 464 | 236 | 1 year, 2 months ago | [Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper)/330 | Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。 |
-| 2137 | 508 | 1 | 2 years ago | [X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library)/331 | Unity Post Processing Stack Library | Unity引擎的高品质后处理库 |
-| 2121 | 323 | 13 | 14 hours ago | [Impostor](https://github.com/Impostor/Impostor)/332 | Impostor - An open source reimplementation of the Among Us Server |
-| 2116 | 464 | 159 | 2 years ago | [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator)/333 | Desktop implementation of Steam's mobile authenticator app |
-| 2111 | 500 | 9 | 3 months ago | [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices)/334 | A full-stack .NET microservices build on Dapr and Tye |
-| 2109 | 447 | 240 | a month ago | [BaGet](https://github.com/loic-sharma/BaGet)/335 | A lightweight NuGet and symbol server |
-| 2101 | 251 | 46 | 2 years ago | [Jil](https://github.com/kevin-montrose/Jil)/336 | Fast .NET JSON (De)Serializer, Built On Sigil |
-| 2097 | 130 | 119 | 19 days ago | [dotnet-script](https://github.com/filipw/dotnet-script)/337 | Run C# scripts from the .NET CLI. |
-| 2087 | 283 | 43 | 19 days ago | [scriban](https://github.com/scriban/scriban)/338 | A fast, powerful, safe and lightweight scripting language and engine for .NET |
-| 2081 | 425 | 18 | 10 months ago | [USBCopyer](https://github.com/kenvix/USBCopyer)/339 | 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier） |
-| 2075 | 97 | 157 | a day ago | [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)/340 | :mag: Quick file search & app launcher for Windows with community-made plugins |
-| 2068 | 476 | 8 | 1 year, 5 months ago | [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api)/341 | Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture. |
-| 2064 | 294 | 64 | 3 months ago | [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET)/342 | Steamworks wrapper for Unity / C# |
-| 2061 | 571 | 172 | 4 years ago | [RazorEngine](https://github.com/Antaris/RazorEngine)/343 | Open source templating engine based on Microsoft's Razor parsing engine |
-| 2060 | 337 | 50 | a month ago | [GraphEngine](https://github.com/microsoft/GraphEngine)/344 | Microsoft Graph Engine |
-| 2055 | 404 | 92 | a day ago | [NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer)/345 | Create, update and deploy Nuget Packages with a GUI |
-| 2052 | 199 | 67 | 4 days ago | [peachpie](https://github.com/peachpiecompiler/peachpie)/346 | PeachPie - the PHP compiler and runtime for .NET and .NET Core |
-| 2050 | 567 | 2 | 3 months ago | [LOIC](https://github.com/NewEraCracker/LOIC)/347 | Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. |
-| 2047 | 421 | 86 | a month ago | [EventFlow](https://github.com/eventflow/EventFlow)/348 | Async/await first CQRS+ES and DDD framework for .NET |
-| 2047 | 220 | 79 | 9 days ago | [Silk.NET](https://github.com/dotnet/Silk.NET)/349 | The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, and DirectX bindings library your mother warned you about. |
-| 2043 | 579 | 38 | a month ago | [ZXing.Net](https://github.com/micjahn/ZXing.Net)/350 | .Net port of the original java-based barcode reader and generator library zxing |
-| 2041 | 159 | 5 | 26 days ago | [CliWrap](https://github.com/Tyrrrz/CliWrap)/351 | Library for running command line processes |
-| 2037 | 792 | 91 | 3 years ago | [IdentityServer3](https://github.com/IdentityServer/IdentityServer3)/352 | OpenID Connect Provider and OAuth 2.0 Authorization Server Framework for ASP.NET 4.x/Katana |
-| 2034 | 478 | 47 | 14 days ago | [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon)/353 | WPF Ribbon control like in Office |
-| 2031 | 243 | 74 | 4 years ago | [TailBlazer](https://github.com/RolandPheasant/TailBlazer)/354 | A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data (see https://github.com/RolandPheasant/DynamicData) |
-| 2025 | 429 | 3 | 8 days ago | [XCharts](https://github.com/XCharts-Team/XCharts)/355 | A charting and data visualization library for Unity.   Unity数据可视化图表插件。  |
-| 2024 | 221 | 139 | 7 months ago | [SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt)/356 | A simple management tool for dnscrypt-proxy |
-| 2019 | 470 | 11 | 11 months ago | [FOCA](https://github.com/ElevenPaths/FOCA)/357 | Tool to find metadata and hidden information in the documents. |
-| 2019 | 384 | 7 | 2 days ago | [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode)/358 | The ultimate dirty YouTube library |
-| 2006 | 205 | 20 | 11 months ago | [Sprache](https://github.com/sprache/Sprache)/359 | A tiny, friendly, C# parser construction library |
-| 2001 | 698 | 164 | 20 days ago | [XamarinComponents](https://github.com/xamarin/XamarinComponents)/360 | Plugins for Xamarin |
-| 1994 | 909 | 646 | 3 hours ago | [nhibernate-core](https://github.com/nhibernate/nhibernate-core)/361 | NHibernate Object Relational Mapper |
-| 1980 | 272 | 67 | 3 days ago | [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2)/362 | Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP. |
-| 1975 | 463 | 73 | 18 days ago | [FastReport](https://github.com/FastReports/FastReport)/363 | Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports |
-| 1972 | 64 | 154 | 17 days ago | [wincompose](https://github.com/samhocevar/wincompose)/364 | 🔣 Compose Key for Windows |
-| 1970 | 528 | 11 | 2 years ago | [m-r](https://github.com/gregoryyoung/m-r)/365 | Simple CQRS example |
-| 1957 | 896 | 0 | 3 years ago | [Identity](https://github.com/aspnet/Identity)/366 | [Archived] ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data. Project moved to https://github.com/aspnet/AspNetCore |
-| 1957 | 501 | 312 | 14 hours ago | [opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet)/367 | The OpenTelemetry .NET Client |
-| 1956 | 215 | 7 | 5 years ago | [KinoGlitch](https://github.com/keijiro/KinoGlitch)/368 | Video glitch effects for Unity |
-| 1956 | 238 | 37 | a month ago | [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils)/369 | Command line parsing and utilities for .NET |
-| 1955 | 252 | 45 | 12 hours ago | [smtp4dev](https://github.com/rnwood/smtp4dev)/370 | smtp4dev - the fake smtp email server for development and testing |
-| 1951 | 263 | 413 | 8 hours ago | [interactive](https://github.com/dotnet/interactive)/371 | .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before. |
-| 1951 | 301 | 150 | 2 months ago | [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)/372 | Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more |
-| 1942 | 258 | 45 | 1 year, 3 months ago | [UIWidgets](https://github.com/UnityTech/UIWidgets)/373 | UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps. |
-| 1941 | 345 | 17 | 8 days ago | [SHFB](https://github.com/EWSoftware/SHFB)/374 | Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle tools. |
-| 1940 | 158 | 394 | 11 days ago | [SharpLab](https://github.com/ashmind/SharpLab)/375 | .NET language playground |
-| 1937 | 405 | 42 | 3 years ago | [V2RayW](https://github.com/Cenmrev/V2RayW)/376 | GUI for v2ray-core on Windows |
-| 1915 | 187 | 13 | 1 year, 5 months ago | [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit)/377 | Procedural generation library for Unity |
-| 1904 | 540 | 30 | 3 years ago | [LuaFramework_UGUI](https://github.com/jarjin/LuaFramework_UGUI)/378 | 请移步新版地址https://github.com/jarjin/LuaFramework_UGUI_V2 支持安卓ARM64【已停止更新】 |
-| 1897 | 340 | 112 | 7 days ago | [TShock](https://github.com/Pryaxis/TShock)/379 | ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools. |
-| 1896 | 441 | 78 | 1 year, 1 month ago | [cscore](https://github.com/filoe/cscore)/380 | An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited.  |
-| 1891 | 595 | 98 | a month ago | [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)/381 | Official PetaPoco, A tiny ORM-ish thing for your POCO's |
-| 1889 | 391 | 17 | 13 days ago | [Inveigh](https://github.com/Kevin-Robertson/Inveigh)/382 | .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers |
-| 1888 | 735 | 318 | 2 years ago | [SharpDevelop](https://github.com/icsharpcode/SharpDevelop)/383 | #develop (short for SharpDevelop) is a free IDE for .NET programming languages. |
-| 1883 | 113 | 6 | a month ago | [Malware-Patch](https://github.com/the1812/Malware-Patch)/384 | 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware. |
-| 1883 | 498 | 2 | a day ago | [Primes](https://github.com/PlummersSoftwareLLC/Primes)/385 | Prime Number Projects in C#/C++/Python |
-| 1883 | 341 | 27 | 22 days ago | [AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool)/386 | 掩日 - 免杀执行器生成工具 |
-| 1878 | 450 | 18 | 21 days ago | [Core](https://github.com/castleproject/Core)/387 | Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter |
-| 1878 | 635 | 197 | 4 days ago | [NServiceBus](https://github.com/Particular/NServiceBus)/388 | The most popular service bus for .NET |
-| 1874 | 395 | 68 | 21 days ago | [ModAssistant](https://github.com/Assistant/ModAssistant)/389 | Simple Beat Saber Mod Installer |
-| 1871 | 3368 | 122 | 11 months ago | [PnP](https://github.com/pnp/PnP)/390 | SharePoint / Office 365 Developer Patterns and Practices - Archived older solutions. Please see https://aka.ms/m365pnp for updated guidance |
-| 1868 | 188 | 50 | a month ago | [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics)/391 | A simple sidebar for Windows desktop that displays hardware diagnostic information. |
-| 1868 | 105 | 22 | 4 days ago | [testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet)/392 | 🐋 A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions. |
-| 1861 | 207 | 58 | 7 days ago | [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder)/393 | B站录播姬 | BiliBili Stream Recorder | 哔哩哔哩直播录制 |
-| 1858 | 423 | 9 | 22 days ago | [jwt](https://github.com/jwt-dotnet/jwt)/394 | Jwt.Net, a JWT (JSON Web Token) implementation for .NET |
-| 1858 | 341 | 15 | 21 days ago | [Rebus](https://github.com/rebus-org/Rebus)/395 | :bus: Simple and lean service bus implementation for .NET |
-| 1852 | 603 | 41 | 2 months ago | [lucenenet](https://github.com/apache/lucenenet)/396 | Apache Lucene.NET |
-| 1852 | 246 | 3 | 2 days ago | [ReportGenerator](https://github.com/danielpalme/ReportGenerator)/397 | ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats. |
-| 1852 | 295 | 137 | 1 year, 9 months ago | [Dragablz](https://github.com/ButchersBoy/Dragablz)/398 | Dragable and tearable tab control for WPF |
-| 1849 | 100 | 3 | 3 hours ago | [Library](https://github.com/FastEndpoints/Library)/399 | A light-weight REST API development framework for ASP.Net 6 and newer. |
-| 1845 | 563 | 32 | 1 year, 4 months ago | [NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl)/400 | HZHControls,c#winfrom custom control, has better operation support for touch screen, the project is based on framework4.0, completely native control development, do not use any third-party controls, you can use it safely in your project (winfromcontrol/winformcontrol/.net).There are more abundant industrial controls that continue to increase in the ~~~ |
-| 1955 | 252 | 45 | 12 hours ago | [smtp4dev](https://github.com/rnwood/smtp4dev)/401 | smtp4dev - the fake smtp email server for development and testing |
-| 1951 | 263 | 413 | 8 hours ago | [interactive](https://github.com/dotnet/interactive)/402 | .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before. |
-| 1951 | 301 | 150 | 2 months ago | [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)/403 | Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more |
-| 1945 | 404 | 0 | 7 days ago | [BDFramework.Core](https://github.com/yimengfan/BDFramework.Core)/404 | Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。 |
-| 1942 | 258 | 45 | 1 year, 3 months ago | [UIWidgets](https://github.com/UnityTech/UIWidgets)/405 | UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps. |
-| 1941 | 345 | 17 | 8 days ago | [SHFB](https://github.com/EWSoftware/SHFB)/406 | Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle tools. |
-| 1940 | 158 | 394 | 11 days ago | [SharpLab](https://github.com/ashmind/SharpLab)/407 | .NET language playground |
-| 1937 | 405 | 42 | 3 years ago | [V2RayW](https://github.com/Cenmrev/V2RayW)/408 | GUI for v2ray-core on Windows |
-| 1924 | 189 | 93 | 3 years ago | [Aerial](https://github.com/cDima/Aerial)/409 | Aerial Apple TV screen saver for Windows |
-| 1923 | 198 | 21 | 6 months ago | [dotnetbook](https://github.com/sidristij/dotnetbook)/410 | .NET Platform Architecture book (English, Chinese, Russian) |
-| 1915 | 187 | 13 | 1 year, 5 months ago | [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit)/411 | Procedural generation library for Unity |
-| 1897 | 340 | 112 | 7 days ago | [TShock](https://github.com/Pryaxis/TShock)/412 | ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools. |
-| 1896 | 441 | 78 | 1 year, 1 month ago | [cscore](https://github.com/filoe/cscore)/413 | An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited.  |
-| 1891 | 595 | 98 | a month ago | [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)/414 | Official PetaPoco, A tiny ORM-ish thing for your POCO's |
-| 1889 | 391 | 17 | 13 days ago | [Inveigh](https://github.com/Kevin-Robertson/Inveigh)/415 | .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers |
-| 1888 | 735 | 318 | 2 years ago | [SharpDevelop](https://github.com/icsharpcode/SharpDevelop)/416 | #develop (short for SharpDevelop) is a free IDE for .NET programming languages. |
-| 1883 | 113 | 6 | a month ago | [Malware-Patch](https://github.com/the1812/Malware-Patch)/417 | 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware. |
-| 1883 | 498 | 2 | a day ago | [Primes](https://github.com/PlummersSoftwareLLC/Primes)/418 | Prime Number Projects in C#/C++/Python |
-| 1883 | 341 | 27 | 22 days ago | [AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool)/419 | 掩日 - 免杀执行器生成工具 |
-| 1879 | 383 | 120 | 28 days ago | [YamlDotNet](https://github.com/aaubry/YamlDotNet)/420 | YamlDotNet is a .NET library for YAML |
-| 1878 | 450 | 18 | 21 days ago | [Core](https://github.com/castleproject/Core)/421 | Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter |
-| 1878 | 635 | 197 | 4 days ago | [NServiceBus](https://github.com/Particular/NServiceBus)/422 | The most popular service bus for .NET |
-| 1874 | 395 | 68 | 21 days ago | [ModAssistant](https://github.com/Assistant/ModAssistant)/423 | Simple Beat Saber Mod Installer |
-| 1871 | 3368 | 122 | 11 months ago | [PnP](https://github.com/pnp/PnP)/424 | SharePoint / Office 365 Developer Patterns and Practices - Archived older solutions. Please see https://aka.ms/m365pnp for updated guidance |
-| 1869 | 345 | 12 | 26 days ago | [RulesEngine](https://github.com/microsoft/RulesEngine)/425 | A Json based Rules Engine with extensive Dynamic expression support |
-| 1868 | 188 | 50 | a month ago | [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics)/426 | A simple sidebar for Windows desktop that displays hardware diagnostic information. |
-| 1868 | 105 | 22 | 4 days ago | [testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet)/427 | 🐋 A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions. |
-| 1861 | 207 | 58 | 7 days ago | [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder)/428 | B站录播姬 | BiliBili Stream Recorder | 哔哩哔哩直播录制 |
-| 1858 | 423 | 9 | 22 days ago | [jwt](https://github.com/jwt-dotnet/jwt)/429 | Jwt.Net, a JWT (JSON Web Token) implementation for .NET |
-| 1858 | 341 | 15 | 21 days ago | [Rebus](https://github.com/rebus-org/Rebus)/430 | :bus: Simple and lean service bus implementation for .NET |
-| 1852 | 603 | 41 | 2 months ago | [lucenenet](https://github.com/apache/lucenenet)/431 | Apache Lucene.NET |
-| 1852 | 295 | 137 | 1 year, 9 months ago | [Dragablz](https://github.com/ButchersBoy/Dragablz)/432 | Dragable and tearable tab control for WPF |
-| 1849 | 100 | 3 | 3 hours ago | [Library](https://github.com/FastEndpoints/Library)/433 | A light-weight REST API development framework for ASP.Net 6 and newer. |
-| 1845 | 563 | 32 | 1 year, 4 months ago | [NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl)/434 | HZHControls,c#winfrom custom control, has better operation support for touch screen, the project is based on framework4.0, completely native control development, do not use any third-party controls, you can use it safely in your project (winfromcontrol/winformcontrol/.net).There are more abundant industrial controls that continue to increase in the ~~~ |
-| 1844 | 141 | 174 | 1 year, 7 months ago | [taskbar-groups](https://github.com/tjackenpacken/taskbar-groups)/435 | Lightweight utility for organizing the taskbar through groups |
-| 1844 | 243 | 101 | 3 years ago | [OnTopReplica](https://github.com/LorenzCK/OnTopReplica)/436 | A real-time always-on-top “replica” of a window of your choice (on Windows). |
-| 1843 | 710 | 203 | 7 months ago | [tesseract](https://github.com/charlesw/tesseract)/437 | A .Net wrapper for tesseract-ocr |
-| 1838 | 370 | 56 | 3 minutes ago | [radzen-blazor](https://github.com/radzenhq/radzen-blazor)/438 | The home of the Radzen Blazor components. |
-| 1836 | 244 | 9 | 8 months ago | [FastNoiseLite](https://github.com/Auburn/FastNoiseLite)/439 | Fast Portable Noise Library - C# C++ C Java(Script) HLSL |
-| 1836 | 391 | 262 | a month ago | [csredis](https://github.com/2881099/csredis)/440 | .NET Core or .NET Framework 4.0+ client for Redis and Redis Sentinel (2.8) and Cluster. Includes both synchronous and asynchronous clients.  |
-| 1834 | 450 | 15 | 59 minutes ago | [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)/441 | OAuth 2.0 social authentication providers for ASP.NET Core |
-| 1833 | 157 | 6 | 2 months ago | [graphy](https://github.com/Tayx94/graphy)/442 | Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project. |
-| 1830 | 399 | 13 | 1 year, 9 months ago | [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)/443 | A flexible and modular Node Editor Framework for creating node based displays and editors in Unity |
-| 1829 | 457 | 31 | 2 years ago | [UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver)/444 | One size fits all Windows Drivers for Android Debug Bridge. |
-| 1829 | 94 | 33 | 2 years ago | [SteamCleaner](https://github.com/Codeusa/SteamCleaner)/445 | :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us: |
-| 1828 | 649 | 78 | 16 hours ago | [Nethereum](https://github.com/Nethereum/Nethereum)/446 | Ethereum .Net cross platform integration library  |
-| 1825 | 257 | 9 | 5 years ago | [ATF](https://github.com/SonyWWS/ATF)/447 | Authoring Tools Framework (ATF) is a set of C#/.NET components for making tools on Windows. ATF has been in continuous development in Sony Computer Entertainment's (SCE) Worldwide Studios central tools group since early 2005. ATF has been used by most SCE first party studios to make many custom tools such as Naughty Dog’s level editor and shader editor for The Last of Us, Guerrilla Games’ sequence editor for Killzone games (including the Killzone: Shadow Fall PS4 launch title), an animation blending tool at Santa Monica Studio, a level editor at Bend Studio, a visual state machine editor for Quantic Dream, sound editing tools, and many others. |
-| 1824 | 613 | 16 | 2 months ago | [wix3](https://github.com/wixtoolset/wix3)/448 | WiX Toolset v3.x |
-| 1820 | 256 | 9 | a month ago | [FancyScrollView](https://github.com/setchi/FancyScrollView)/449 | [Unity] Scroll view component that can implement highly flexible animations. |
-| 1820 | 756 | 218 | 1 year, 1 month ago | [grandnode](https://github.com/grandnode/grandnode)/450 | Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.  |
-| 1816 | 411 | 99 | 1 year, 8 months ago | [NPOI](https://github.com/dotnetcore/NPOI)/451 | A .NET library for reading and writing Microsoft Office binary and OOXML file formats. |
-| 1815 | 694 | 62 | 2 days ago | [YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin)/452 | 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观。演示版 http://toolhelper.cn/admin |
-| 1813 | 254 | 49 | 2 months ago | [Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim)/453 | None |
-| 1810 | 287 | 5 | a day ago | [Audit.NET](https://github.com/thepirat000/Audit.NET)/454 | An extensible framework to audit executing operations in .NET and .NET Core. |
-| 1804 | 239 | 96 | a month ago | [NSubstitute](https://github.com/nsubstitute/NSubstitute)/455 | A friendly substitute for .NET mocking libraries. |
-| 1804 | 573 | 15 | 6 months ago | [enode](https://github.com/tangxuehua/enode)/456 | ENode is a framework aims to help us developing ddd, cqrs, eda, and event sourcing style applications. |
-| 1803 | 278 | 158 | 2 months ago | [spark](https://github.com/dotnet/spark)/457 | .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers. |
-| 1796 | 484 | 6 | 11 months ago | [DesignPatterns](https://github.com/abishekaditya/DesignPatterns)/458 | Project : Design Patterns Examples in C# |
-| 1794 | 81 | 38 | a month ago | [t3](https://github.com/still-scene/t3)/459 | Tooll 3 is an open source software to create realtime motion graphics. |
-| 1789 | 199 | 645 | 9 hours ago | [dafny](https://github.com/dafny-lang/dafny)/460 | Dafny is a verification-aware programming language |
-| 1788 | 672 | 89 | 2 months ago | [git-tfs](https://github.com/git-tfs/git-tfs)/461 | A Git/TFS bridge, similar to git-svn |
-| 1786 | 439 | 226 | 15 days ago | [sharpcompress](https://github.com/adamhathcock/sharpcompress)/462 | SharpCompress is a fully managed C# library to deal with many compression types and formats. |
-| 1786 | 203 | 29 | 4 months ago | [ToastFish](https://github.com/Uahh/ToastFish)/463 | 一个利用摸鱼时间背单词的软件。 |
-| 1785 | 330 | 14 | 5 years ago | [Massive](https://github.com/FransBouma/Massive)/464 | A small, happy, dynamic MicroORM for .NET that will love you forever. |
-| 1782 | 370 | 81 | 11 days ago | [nodejstools](https://github.com/microsoft/nodejstools)/465 | Node.js Tools for Visual Studio |
-| 1771 | 320 | 81 | 6 months ago | [Microcharts](https://github.com/microcharts-dotnet/Microcharts)/466 | Create cross-platform (Xamarin, Windows, ...) simple charts. |
-| 1765 | 339 | 155 | 6 days ago | [Docker.DotNet](https://github.com/dotnet/Docker.DotNet)/467 | :whale: .NET (C#) Client Library for Docker API |
-| 1765 | 603 | 94 | a day ago | [Graphics](https://github.com/Unity-Technologies/Graphics)/468 | Unity Graphics - Including Scriptable Render Pipeline |
-| 1754 | 408 | 6 | a month ago | [WebApiClient](https://github.com/dotnetcore/WebApiClient)/469 | An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously. |
-| 1751 | 467 | 39 | 2 years ago | [AssetBundles-Browser](https://github.com/Unity-Technologies/AssetBundles-Browser)/470 | Editor tool for viewing and debugging asset bundle contents before and after builds |
-| 1746 | 491 | 175 | 3 months ago | [DbUp](https://github.com/DbUp/DbUp)/471 | DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.   |
-| 1745 | 587 | 179 | 1 year, 5 months ago | [Bonobo-Git-Server](https://github.com/jakubgarfield/Bonobo-Git-Server)/472 | Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. Go to homepage for release and more info. |
-| 1744 | 371 | 5 | a day ago | [squidex](https://github.com/Squidex/squidex)/473 | Headless CMS and Content Managment Hub |
-| 1742 | 395 | 1270 | 12 hours ago | [azure-functions-host](https://github.com/Azure/azure-functions-host)/474 | The host/runtime that powers Azure Functions |
-| 1740 | 190 | 10 | 5 years ago | [temporal](https://github.com/playdeadgames/temporal)/475 | Temporal Reprojection Anti-Aliasing for Unity 5.0+ |
-| 1728 | 127 | 7 | 4 years ago | [Blazor](https://github.com/SteveSanderson/Blazor)/476 | MOVED: Please see the new repo at https://github.com/aspnet/blazor |
-| 1721 | 353 | 504 | 20 hours ago | [Thrive](https://github.com/Revolutionary-Games/Thrive)/477 | The main repository for the development of the evolution game Thrive.  |
-| 1719 | 188 | 63 | 27 days ago | [pinvoke](https://github.com/dotnet/pinvoke)/478 | A library containing all P/Invoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS. |
-| 1719 | 142 | 6 | 4 days ago | [Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)/479 | 你想要的原神全家桶 |
-| 1714 | 749 | 90 | 4 years ago | [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)/480 | A C# implementation of the OpenID, OAuth protocols |
-| 1712 | 247 | 381 | 5 years ago | [JSIL](https://github.com/sq/JSIL)/481 | CIL to Javascript Compiler |
-| 1710 | 366 | 53 | 11 days ago | [shouldly](https://github.com/shouldly/shouldly)/482 | Should testing for .NET - the way Asserting *Should* be! |
-| 1709 | 521 | 45 | a month ago | [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client)/483 | RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+ |
-| 1707 | 200 | 84 | 9 months ago | [Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker)/484 | EZBlocker - A Spotify Ad Blocker for Windows |
-| 1700 | 312 | 215 | a month ago | [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)/485 | Libre Hardware Monitor, home of the fork of Open Hardware Monitor |
-| 1692 | 473 | 147 | 6 days ago | [iot](https://github.com/dotnet/iot)/486 | This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs. |
-| 1688 | 44 | 14 | 5 months ago | [Cocona](https://github.com/mayuki/Cocona)/487 | Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET. |
-| 1687 | 304 | 30 | 9 days ago | [UnitsNet](https://github.com/angularsen/UnitsNet)/488 | Makes life working with units of measurement just a little bit better. |
-| 1687 | 466 | 145 | 28 days ago | [WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery)/489 | This app demonstrates the controls available in WinUI and the Fluent Design System. |
-| 1684 | 204 | 138 | 3 months ago | [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity)/490 | A NuGet Package Manager for Unity |
-| 1683 | 374 | 136 | 4 months ago | [InjectFix](https://github.com/Tencent/InjectFix)/491 | InjectFix is a hot-fix solution library for Unity |
-| 1682 | 300 | 126 | an hour ago | [Furion](https://github.com/MonkSoul/Furion)/492 | 让 .NET 开发更简单，更通用，更流行。 |
-| 1680 | 301 | 24 | a month ago | [snoopwpf](https://github.com/snoopwpf/snoopwpf)/493 | Snoop - The WPF Spy Utility |
-| 1674 | 143 | 32 | 12 hours ago | [SoundSwitch](https://github.com/Belphemur/SoundSwitch)/494 | C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/ |
-| 1671 | 163 | 61 | 4 months ago | [Pixeval](https://github.com/Pixeval/Pixeval)/495 | Wow. Yet another Pixiv client! |
-| 1667 | 126 | 85 | 2 days ago | [RoundedTB](https://github.com/torchgm/RoundedTB)/496 | Add margins, rounded corners and segments to your taskbars! |
-| 1667 | 306 | 311 | 8 months ago | [superputty](https://github.com/jimradford/superputty)/497 | The SuperPuTTY Window Manager for putty sessions |
-| 1663 | 277 | 55 | a month ago | [roslynpad](https://github.com/roslynpad/roslynpad)/498 | A cross-platform C# editor based on Roslyn and AvalonEdit |
-| 1663 | 326 | 392 | 2 months ago | [codemaid](https://github.com/codecadwallader/codemaid)/499 | CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding. |
-| 1662 | 51 | 17 | 24 days ago | [EnergyStar](https://github.com/imbushuo/EnergyStar)/500 | A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps |
-| 1945 | 404 | 0 | 7 days ago | [BDFramework.Core](https://github.com/yimengfan/BDFramework.Core)/501 | Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。 |
-| 1942 | 258 | 45 | 1 year, 3 months ago | [UIWidgets](https://github.com/UnityTech/UIWidgets)/502 | UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps. |
-| 1941 | 345 | 17 | 8 days ago | [SHFB](https://github.com/EWSoftware/SHFB)/503 | Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle tools. |
-| 1940 | 158 | 394 | 11 days ago | [SharpLab](https://github.com/ashmind/SharpLab)/504 | .NET language playground |
-| 1937 | 405 | 42 | 3 years ago | [V2RayW](https://github.com/Cenmrev/V2RayW)/505 | GUI for v2ray-core on Windows |
-| 1937 | 827 | 2194 | 50 minutes ago | [sdk](https://github.com/dotnet/sdk)/506 | Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI |
-| 1924 | 189 | 93 | 3 years ago | [Aerial](https://github.com/cDima/Aerial)/507 | Aerial Apple TV screen saver for Windows |
-| 1923 | 198 | 21 | 6 months ago | [dotnetbook](https://github.com/sidristij/dotnetbook)/508 | .NET Platform Architecture book (English, Chinese, Russian) |
-| 1915 | 187 | 13 | 1 year, 5 months ago | [ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit)/509 | Procedural generation library for Unity |
-| 1904 | 540 | 30 | 3 years ago | [LuaFramework_UGUI](https://github.com/jarjin/LuaFramework_UGUI)/510 | 请移步新版地址https://github.com/jarjin/LuaFramework_UGUI_V2 支持安卓ARM64【已停止更新】 |
-| 1897 | 340 | 112 | 7 days ago | [TShock](https://github.com/Pryaxis/TShock)/511 | ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools. |
-| 1896 | 441 | 78 | 1 year, 1 month ago | [cscore](https://github.com/filoe/cscore)/512 | An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited.  |
-| 1891 | 595 | 98 | a month ago | [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)/513 | Official PetaPoco, A tiny ORM-ish thing for your POCO's |
-| 1889 | 391 | 17 | 13 days ago | [Inveigh](https://github.com/Kevin-Robertson/Inveigh)/514 | .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers |
-| 1888 | 735 | 318 | 2 years ago | [SharpDevelop](https://github.com/icsharpcode/SharpDevelop)/515 | #develop (short for SharpDevelop) is a free IDE for .NET programming languages. |
-| 1883 | 113 | 6 | a month ago | [Malware-Patch](https://github.com/the1812/Malware-Patch)/516 | 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware. |
-| 1883 | 498 | 2 | a day ago | [Primes](https://github.com/PlummersSoftwareLLC/Primes)/517 | Prime Number Projects in C#/C++/Python |
-| 1883 | 341 | 27 | 22 days ago | [AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool)/518 | 掩日 - 免杀执行器生成工具 |
-| 1880 | 336 | 59 | 15 hours ago | [marten](https://github.com/JasperFx/marten)/519 | .NET Transactional Document DB and Event Store on PostgreSQL |
-| 1879 | 383 | 120 | 28 days ago | [YamlDotNet](https://github.com/aaubry/YamlDotNet)/520 | YamlDotNet is a .NET library for YAML |
-| 1878 | 450 | 18 | 21 days ago | [Core](https://github.com/castleproject/Core)/521 | Castle Core, including Castle DynamicProxy, Logging Services and DictionaryAdapter |
-| 1878 | 635 | 197 | 4 days ago | [NServiceBus](https://github.com/Particular/NServiceBus)/522 | The most popular service bus for .NET |
-| 1875 | 655 | 597 | 7 months ago | [simulator](https://github.com/lgsvl/simulator)/523 | A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles |
-| 1874 | 395 | 68 | 21 days ago | [ModAssistant](https://github.com/Assistant/ModAssistant)/524 | Simple Beat Saber Mod Installer |
-| 1871 | 3368 | 122 | 11 months ago | [PnP](https://github.com/pnp/PnP)/525 | SharePoint / Office 365 Developer Patterns and Practices - Archived older solutions. Please see https://aka.ms/m365pnp for updated guidance |
-| 1869 | 345 | 12 | 26 days ago | [RulesEngine](https://github.com/microsoft/RulesEngine)/526 | A Json based Rules Engine with extensive Dynamic expression support |
-| 1868 | 188 | 50 | a month ago | [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics)/527 | A simple sidebar for Windows desktop that displays hardware diagnostic information. |
-| 1868 | 105 | 22 | 4 days ago | [testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet)/528 | 🐋 A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions. |
-| 1861 | 207 | 58 | 7 days ago | [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder)/529 | B站录播姬 | BiliBili Stream Recorder | 哔哩哔哩直播录制 |
-| 1858 | 423 | 9 | 22 days ago | [jwt](https://github.com/jwt-dotnet/jwt)/530 | Jwt.Net, a JWT (JSON Web Token) implementation for .NET |
-| 1858 | 341 | 15 | 21 days ago | [Rebus](https://github.com/rebus-org/Rebus)/531 | :bus: Simple and lean service bus implementation for .NET |
-| 1852 | 603 | 41 | 2 months ago | [lucenenet](https://github.com/apache/lucenenet)/532 | Apache Lucene.NET |
-| 1852 | 246 | 3 | 2 days ago | [ReportGenerator](https://github.com/danielpalme/ReportGenerator)/533 | ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats. |
-| 1852 | 295 | 137 | 1 year, 9 months ago | [Dragablz](https://github.com/ButchersBoy/Dragablz)/534 | Dragable and tearable tab control for WPF |
-| 1849 | 100 | 3 | 3 hours ago | [Library](https://github.com/FastEndpoints/Library)/535 | A light-weight REST API development framework for ASP.Net 6 and newer. |
-| 1848 | 239 | 181 | 14 hours ago | [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)/536 | Custom launcher for FFXIV |
-| 1846 | 358 | 30 | 5 months ago | [gong-wpf-dragdrop](https://github.com/punker76/gong-wpf-dragdrop)/537 | The GongSolutions.WPF.DragDrop library is a drag'n'drop framework for WPF |
-| 1845 | 563 | 32 | 1 year, 4 months ago | [NetWinformControl](https://github.com/kwwwvagaa/NetWinformControl)/538 | HZHControls,c#winfrom custom control, has better operation support for touch screen, the project is based on framework4.0, completely native control development, do not use any third-party controls, you can use it safely in your project (winfromcontrol/winformcontrol/.net).There are more abundant industrial controls that continue to increase in the ~~~ |
-| 1844 | 141 | 174 | 1 year, 7 months ago | [taskbar-groups](https://github.com/tjackenpacken/taskbar-groups)/539 | Lightweight utility for organizing the taskbar through groups |
-| 1844 | 243 | 101 | 3 years ago | [OnTopReplica](https://github.com/LorenzCK/OnTopReplica)/540 | A real-time always-on-top “replica” of a window of your choice (on Windows). |
-| 1843 | 710 | 203 | 7 months ago | [tesseract](https://github.com/charlesw/tesseract)/541 | A .Net wrapper for tesseract-ocr |
-| 1838 | 370 | 56 | 3 minutes ago | [radzen-blazor](https://github.com/radzenhq/radzen-blazor)/542 | The home of the Radzen Blazor components. |
-| 1836 | 244 | 9 | 8 months ago | [FastNoiseLite](https://github.com/Auburn/FastNoiseLite)/543 | Fast Portable Noise Library - C# C++ C Java(Script) HLSL |
-| 1836 | 391 | 262 | a month ago | [csredis](https://github.com/2881099/csredis)/544 | .NET Core or .NET Framework 4.0+ client for Redis and Redis Sentinel (2.8) and Cluster. Includes both synchronous and asynchronous clients.  |
-| 1834 | 450 | 15 | 59 minutes ago | [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)/545 | OAuth 2.0 social authentication providers for ASP.NET Core |
-| 1833 | 157 | 6 | 2 months ago | [graphy](https://github.com/Tayx94/graphy)/546 | Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project. |
-| 1830 | 399 | 13 | 1 year, 9 months ago | [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)/547 | A flexible and modular Node Editor Framework for creating node based displays and editors in Unity |
-| 1829 | 457 | 31 | 2 years ago | [UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver)/548 | One size fits all Windows Drivers for Android Debug Bridge. |
-| 1829 | 94 | 33 | 2 years ago | [SteamCleaner](https://github.com/Codeusa/SteamCleaner)/549 | :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us: |
-| 1828 | 649 | 78 | 17 hours ago | [Nethereum](https://github.com/Nethereum/Nethereum)/550 | Ethereum .Net cross platform integration library  |
-| 1825 | 257 | 9 | 5 years ago | [ATF](https://github.com/SonyWWS/ATF)/551 | Authoring Tools Framework (ATF) is a set of C#/.NET components for making tools on Windows. ATF has been in continuous development in Sony Computer Entertainment's (SCE) Worldwide Studios central tools group since early 2005. ATF has been used by most SCE first party studios to make many custom tools such as Naughty Dog’s level editor and shader editor for The Last of Us, Guerrilla Games’ sequence editor for Killzone games (including the Killzone: Shadow Fall PS4 launch title), an animation blending tool at Santa Monica Studio, a level editor at Bend Studio, a visual state machine editor for Quantic Dream, sound editing tools, and many others. |
-| 1824 | 613 | 16 | 2 months ago | [wix3](https://github.com/wixtoolset/wix3)/552 | WiX Toolset v3.x |
-| 1821 | 222 | 140 | 7 months ago | [FileConverter](https://github.com/Tichau/FileConverter)/553 | File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer. |
-| 1820 | 256 | 9 | a month ago | [FancyScrollView](https://github.com/setchi/FancyScrollView)/554 | [Unity] Scroll view component that can implement highly flexible animations. |
-| 1820 | 756 | 218 | 1 year, 1 month ago | [grandnode](https://github.com/grandnode/grandnode)/555 | Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.  |
-| 1816 | 411 | 99 | 1 year, 8 months ago | [NPOI](https://github.com/dotnetcore/NPOI)/556 | A .NET library for reading and writing Microsoft Office binary and OOXML file formats. |
-| 1815 | 694 | 62 | 2 days ago | [YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin)/557 | 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观。演示版 http://toolhelper.cn/admin |
-| 1813 | 254 | 49 | 2 months ago | [Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim)/558 | None |
-| 1810 | 287 | 5 | a day ago | [Audit.NET](https://github.com/thepirat000/Audit.NET)/559 | An extensible framework to audit executing operations in .NET and .NET Core. |
-| 1804 | 239 | 96 | a month ago | [NSubstitute](https://github.com/nsubstitute/NSubstitute)/560 | A friendly substitute for .NET mocking libraries. |
-| 1804 | 573 | 15 | 6 months ago | [enode](https://github.com/tangxuehua/enode)/561 | ENode is a framework aims to help us developing ddd, cqrs, eda, and event sourcing style applications. |
-| 1803 | 278 | 158 | 2 months ago | [spark](https://github.com/dotnet/spark)/562 | .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers. |
-| 1802 | 184 | 153 | 8 days ago | [cairoshell](https://github.com/cairoshell/cairoshell)/563 | Cairo is a customizable, intuitive desktop environment for Windows. |
-| 1796 | 484 | 6 | 11 months ago | [DesignPatterns](https://github.com/abishekaditya/DesignPatterns)/564 | Project : Design Patterns Examples in C# |
-| 1794 | 81 | 38 | a month ago | [t3](https://github.com/still-scene/t3)/565 | Tooll 3 is an open source software to create realtime motion graphics. |
-| 1790 | 314 | 234 | 2 months ago | [dotween](https://github.com/Demigiant/dotween)/566 | A Unity C# animation engine. HOTween v2 |
-| 1790 | 499 | 149 | 15 days ago | [CommunityServer](https://github.com/ONLYOFFICE/CommunityServer)/567 | Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator. |
-| 1789 | 199 | 645 | 10 hours ago | [dafny](https://github.com/dafny-lang/dafny)/568 | Dafny is a verification-aware programming language |
-| 1788 | 672 | 89 | 2 months ago | [git-tfs](https://github.com/git-tfs/git-tfs)/569 | A Git/TFS bridge, similar to git-svn |
-| 1786 | 439 | 226 | 15 days ago | [sharpcompress](https://github.com/adamhathcock/sharpcompress)/570 | SharpCompress is a fully managed C# library to deal with many compression types and formats. |
-| 1786 | 203 | 29 | 4 months ago | [ToastFish](https://github.com/Uahh/ToastFish)/571 | 一个利用摸鱼时间背单词的软件。 |
-| 1785 | 330 | 14 | 5 years ago | [Massive](https://github.com/FransBouma/Massive)/572 | A small, happy, dynamic MicroORM for .NET that will love you forever. |
-| 1782 | 370 | 81 | 11 days ago | [nodejstools](https://github.com/microsoft/nodejstools)/573 | Node.js Tools for Visual Studio |
-| 1771 | 320 | 81 | 6 months ago | [Microcharts](https://github.com/microcharts-dotnet/Microcharts)/574 | Create cross-platform (Xamarin, Windows, ...) simple charts. |
-| 1765 | 339 | 155 | 6 days ago | [Docker.DotNet](https://github.com/dotnet/Docker.DotNet)/575 | :whale: .NET (C#) Client Library for Docker API |
-| 1765 | 603 | 94 | a day ago | [Graphics](https://github.com/Unity-Technologies/Graphics)/576 | Unity Graphics - Including Scriptable Render Pipeline |
-| 1757 | 439 | 24 | 3 years ago | [SNETCracker](https://github.com/shack2/SNETCracker)/577 | 超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。 |
-| 1754 | 408 | 6 | a month ago | [WebApiClient](https://github.com/dotnetcore/WebApiClient)/578 | An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously. |
-| 1751 | 467 | 39 | 2 years ago | [AssetBundles-Browser](https://github.com/Unity-Technologies/AssetBundles-Browser)/579 | Editor tool for viewing and debugging asset bundle contents before and after builds |
-| 1746 | 491 | 175 | 3 months ago | [DbUp](https://github.com/DbUp/DbUp)/580 | DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.   |
-| 1745 | 587 | 179 | 1 year, 5 months ago | [Bonobo-Git-Server](https://github.com/jakubgarfield/Bonobo-Git-Server)/581 | Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. Go to homepage for release and more info. |
-| 1744 | 371 | 5 | a day ago | [squidex](https://github.com/Squidex/squidex)/582 | Headless CMS and Content Managment Hub |
-| 1742 | 395 | 1270 | 13 hours ago | [azure-functions-host](https://github.com/Azure/azure-functions-host)/583 | The host/runtime that powers Azure Functions |
-| 1742 | 363 | 652 | 2 years ago | [Aurora](https://github.com/antonpup/Aurora)/584 | Unified lighting effects across multiple brands and various games. |
-| 1740 | 190 | 10 | 5 years ago | [temporal](https://github.com/playdeadgames/temporal)/585 | Temporal Reprojection Anti-Aliasing for Unity 5.0+ |
-| 1732 | 175 | 14 | 27 days ago | [YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner)/586 | Yarn Spinner is a tool for building interactive dialogue in games! |
-| 1728 | 127 | 7 | 4 years ago | [Blazor](https://github.com/SteveSanderson/Blazor)/587 | MOVED: Please see the new repo at https://github.com/aspnet/blazor |
-| 1725 | 513 | 543 | 16 hours ago | [xamarin-android](https://github.com/xamarin/xamarin-android)/588 | Xamarin.Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C# |
-| 1722 | 821 | 96 | a month ago | [NBitcoin](https://github.com/MetacoSA/NBitcoin)/589 | Comprehensive Bitcoin library for the .NET framework. |
-| 1721 | 353 | 504 | 21 hours ago | [Thrive](https://github.com/Revolutionary-Games/Thrive)/590 | The main repository for the development of the evolution game Thrive.  |
-| 1721 | 354 | 17 | 1 year, 7 months ago | [EvilClippy](https://github.com/outflanknl/EvilClippy)/591 | A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows. |
-| 1719 | 188 | 63 | 27 days ago | [pinvoke](https://github.com/dotnet/pinvoke)/592 | A library containing all P/Invoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS. |
-| 1719 | 142 | 6 | 4 days ago | [Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)/593 | 你想要的原神全家桶 |
-| 1714 | 749 | 90 | 4 years ago | [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)/594 | A C# implementation of the OpenID, OAuth protocols |
-| 1712 | 247 | 381 | 5 years ago | [JSIL](https://github.com/sq/JSIL)/595 | CIL to Javascript Compiler |
-| 1710 | 366 | 53 | 11 days ago | [shouldly](https://github.com/shouldly/shouldly)/596 | Should testing for .NET - the way Asserting *Should* be! |
-| 1709 | 521 | 45 | a month ago | [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client)/597 | RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+ |
-| 1707 | 200 | 84 | 9 months ago | [Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker)/598 | EZBlocker - A Spotify Ad Blocker for Windows |
-| 1703 | 102 | 9 | 21 days ago | [Monitorian](https://github.com/emoacht/Monitorian)/599 | A Windows desktop tool to adjust the brightness of multiple monitors with ease |
-| 1700 | 312 | 215 | a month ago | [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)/600 | Libre Hardware Monitor, home of the fork of Open Hardware Monitor |
-| 1341 | 126 | 8 | 3 months ago | [Steamless](https://github.com/atom0s/Steamless)/601 | Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.  |
-| 1338 | 246 | 29 | 1 year, 14 days ago | [Reflexil](https://github.com/sailro/Reflexil)/602 | The .NET Assembly Editor |
-| 1337 | 580 | 209 | a day ago | [helix-toolkit](https://github.com/helix-toolkit/helix-toolkit)/603 | Helix Toolkit is a collection of 3D components for .NET. |
-| 1333 | 177 | 6 | 1 year, 10 days ago | [AutoLOD](https://github.com/Unity-Technologies/AutoLOD)/604 | Automatic LOD generation + scene optimization |
-| 1333 | 404 | 165 | 9 months ago | [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended)/605 | Add-on feature for Entity Framework |
-| 1332 | 312 | 89 | 8 years ago | [Simple.Data](https://github.com/markrendle/Simple.Data)/606 | A light-weight, dynamic data access component for C# 4.0 |
-| 1323 | 218 | 530 | 5 months ago | [dopamine-windows](https://github.com/digimezzo/dopamine-windows)/607 | Audio player which tries to make organizing and listening to music as simple and pretty as possible. |
-| 1321 | 224 | 188 | 13 days ago | [CoreWCF](https://github.com/CoreWCF/CoreWCF)/608 | Main repository for the Core WCF project |
-| 1316 | 176 | 24 | 2 years ago | [LibgenDesktop](https://github.com/libgenapps/LibgenDesktop)/609 | None |
-| 1315 | 161 | 13 | a month ago | [odin-serializer](https://github.com/TeamSirenix/odin-serializer)/610 | Fast, robust, powerful and extendible .NET serializer built for Unity |
-| 1308 | 288 | 13 | 6 months ago | [VisualEffectGraph-Samples](https://github.com/Unity-Technologies/VisualEffectGraph-Samples)/611 | Visual Effect Graph - Samples Project |
-| 1308 | 385 | 0 | a day ago | [paylink](https://github.com/essensoft/paylink)/612 | 一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。 |
-| 1307 | 237 | 158 | 7 days ago | [xwt](https://github.com/mono/xwt)/613 | A cross-platform UI toolkit for creating desktop applications with .NET and Mono |
-| 1307 | 237 | 4 | 1 year, 10 months ago | [Watson](https://github.com/rasta-mouse/Watson)/614 | Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities |
-| 1305 | 585 | 17 | 6 years ago | [Scut](https://github.com/ScutGame/Scut)/615 | Scut is a free, open source, stable game server framework, which support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access. |
-| 1303 | 437 | 13 | 3 months ago | [NetModular](https://github.com/iamoldli/NetModular)/616 | NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架 |
-| 1303 | 301 | 17 | 1 year, 11 months ago | [BotSharp](https://github.com/SciSharp/BotSharp)/617 | The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm. |
-| 1300 | 393 | 208 | 2 years ago | [UnityGLTF](https://github.com/KhronosGroup/UnityGLTF)/618 | Runtime GLTF Loader for Unity3D |
-| 1300 | 403 | 6 | 8 months ago | [PokemonUnity](https://github.com/PokemonUnity/PokemonUnity)/619 | A LEGACY Unity project to help build Pokémon-esque RPG games. |
-| 1296 | 85 | 62 | 5 days ago | [dotnet](https://github.com/CommunityToolkit/dotnet)/620 | .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation. |
-| 1296 | 112 | 49 | 1 year, 8 months ago | [qmlnet](https://github.com/qmlnet/qmlnet)/621 | Qml.Net - Qt/QML integration/support for .NET |
-| 1295 | 2030 | 1110 | 4 hours ago | [MissionPlanner](https://github.com/ArduPilot/MissionPlanner)/622 | Mission Planner Ground Control Station (c# .net) |
-| 1295 | 121 | 78 | 1 year, 11 months ago | [Neutronium](https://github.com/NeutroniumCore/Neutronium)/623 | 🚀 Build .NET desktop applications using HTML, CSS and javascript. |
-| 1293 | 332 | 162 | a day ago | [templating](https://github.com/dotnet/templating)/624 | This repo contains the Template Engine which is used by dotnet new |
-| 1287 | 200 | 1 | a month ago | [multiplayer](https://github.com/Unity-Technologies/multiplayer)/625 | Unity multiplayer packages and samples |
-| 1280 | 237 | 136 | 2 months ago | [ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI)/626 | A delicious GUI for Chocolatey |
-| 1278 | 563 | 269 | 14 hours ago | [Dynamo](https://github.com/DynamoDS/Dynamo)/627 | Open Source Graphical Programming for Design |
-| 1277 | 168 | 205 | 3 months ago | [GARbro](https://github.com/morkt/GARbro)/628 | Visual Novels resource browser |
-| 1275 | 147 | 10 | 4 years ago | [SEGI](https://github.com/sonicether/SEGI)/629 | A fully-dynamic voxel-based global illumination system for Unity |
-| 1272 | 271 | 21 | 3 years ago | [JustDecompileEngine](https://github.com/telerik/JustDecompileEngine)/630 | The decompilation engine of JustDecompile |
-| 1271 | 205 | 12 | 5 months ago | [Netling](https://github.com/hallatore/Netling)/631 | Netling is a load tester client for easy web testing. |
-| 1267 | 392 | 721 | 4 days ago | [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers)/632 | None |
-| 1264 | 1275 | 59 | 17 hours ago | [cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk)/633 | Sample code for the Microsoft Cognitive Services Speech SDK |
-| 1263 | 21 | 12 | a day ago | [bflat](https://github.com/bflattened/bflat)/634 | C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables) |
-| 1262 | 240 | 88 | 7 months ago | [WGestures](https://github.com/yingDev/WGestures)/635 | Modern mouse gestures for Windows. (C#) |
-| 1261 | 170 | 18 | 5 months ago | [AutumnBox](https://github.com/zsh2401/AutumnBox)/636 | 图形化ADB工具箱 |
-| 1259 | 88 | 34 | 5 years ago | [AtomOS](https://github.com/amaneureka/AtomOS)/637 | A multitasking monolithic Kernel based x86 targeting Operating System written in C# from scratch aiming for high-level implementation of drivers in managed environment. |
-| 1258 | 266 | 0 | 8 days ago | [loxodon-framework](https://github.com/vovgou/loxodon-framework)/638 | An MVVM & Databinding framework that can use C# and Lua to develop games |
-| 1258 | 104 | 39 | 10 months ago | [FluentWPF](https://github.com/sourcechord/FluentWPF)/639 | Fluent Design System for WPF. |
-| 1255 | 356 | 25 | 3 months ago | [quartzui](https://github.com/zhaopeiym/quartzui)/640 | 基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置 |
-| 1255 | 274 | 55 | 2 years ago | [WebApiThrottle](https://github.com/stefanprodan/WebApiThrottle)/641 | ASP.NET Web API rate limiter for IIS and Owin hosting |
-| 1250 | 208 | 9 | 10 months ago | [Unity3d-Finite-State-Machine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)/642 | An intuitive Unity3d finite state machine (FSM).  Designed with an emphasis on usability, without sacrificing utility. |
-| 1247 | 230 | 17 | 5 years ago | [LevelEditor](https://github.com/SonyWWS/LevelEditor)/643 | The ATF LevelEditor is a powerful tool for constructing and assembling game levels. It provides a WYSIWYG interface and allows you to place objects, edit properties, edit terrain, and build game levels. |
-| 1245 | 61 | 211 | 8 months ago | [TileIconifier](https://github.com/Jonno12345/TileIconifier)/644 | Creates tiles for most Windows 8.1 and 10 start menu icons |
-| 1245 | 404 | 115 | 4 days ago | [aws-lambda-dotnet](https://github.com/aws/aws-lambda-dotnet)/645 | Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions. |
-| 1240 | 171 | 19 | 33 minutes ago | [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer)/646 | Cleans HTML to avoid XSS attacks |
-| 1238 | 611 | 0 | 3 years ago | [Security](https://github.com/aspnet/Security)/647 | [Archived] Middleware for security and authorization of web apps. Project moved to https://github.com/aspnet/AspNetCore |
-| 1236 | 151 | 35 | 5 months ago | [LINQKit](https://github.com/scottksmith95/LINQKit)/648 | LINQKit is a free set of extensions for LINQ to SQL and Entity Framework power users. |
-| 1235 | 231 | 108 | 2 months ago | [ImGui.NET](https://github.com/mellinoe/ImGui.NET)/649 | An ImGui wrapper for .NET. |
-| 1235 | 260 | 47 | 9 minutes ago | [InputSystem](https://github.com/Unity-Technologies/InputSystem)/650 | An efficient and versatile input system for Unity. |
-| 1232 | 47 | 19 | 2 days ago | [CSharpRepl](https://github.com/waf/CSharpRepl)/651 | A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively. |
-| 1231 | 144 | 47 | 7 days ago | [Unity.Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics)/652 | The C# math library used in Unity providing vector types and math functions with a shader like syntax |
-| 1231 | 245 | 57 | 8 months ago | [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing)/653 | This technique is designed to instance Characters(SkinnedMeshRender).  |
-| 1229 | 649 | 13 | 6 months ago | [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text)/654 | .NET's fastest JSON, JSV and CSV Text Serializers  |
-| 1228 | 390 | 6 | 2 months ago | [DncZeus](https://github.com/lampo1024/DncZeus)/655 | DncZeus 是一个基于.NET 6 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 6 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo): |
-| 1228 | 188 | 20 | a month ago | [MyBox](https://github.com/Deadcows/MyBox)/656 | MyBox is a set of attributes, tools and extensions for Unity  |
-| 1227 | 89 | 3 | 6 months ago | [Lasp](https://github.com/keijiro/Lasp)/657 | Low-latency Audio Signal Processing plugin for Unity |
-| 1227 | 131 | 19 | a month ago | [ClearScript](https://github.com/microsoft/ClearScript)/658 | A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows). |
-| 1222 | 635 | 3 | 6 months ago | [Prism-Samples-Wpf](https://github.com/PrismLibrary/Prism-Samples-Wpf)/659 | Samples that demonstrate how to use various Prism features with WPF |
-| 1220 | 434 | 2 | 5 months ago | [itextsharp](https://github.com/itext/itextsharp)/660 | [DEPRECATED] .NET port of the iText library, only security fixes will be added — please use iText 7 for .NET |
-| 1219 | 192 | 70 | 3 hours ago | [EPPlus](https://github.com/EPPlusSoftware/EPPlus)/661 | EPPlus 5-Excel spreadsheets for .NET |
-| 1218 | 273 | 59 | 4 years ago | [PowerForensics](https://github.com/Invoke-IR/PowerForensics)/662 | PowerForensics provides an all in one platform for live disk forensic analysis |
-| 1212 | 222 | 2 | a month ago | [Pinta](https://github.com/PintaProject/Pinta)/663 | Simple GTK# Paint Program |
-| 1210 | 290 | 73 | 4 years ago | [voat](https://github.com/voat/voat)/664 | The code that powers Voat |
-| 1207 | 141 | 4 | 2 days ago | [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)/665 | A uGUI based console to see debug messages and execute commands during gameplay in Unity |
-| 1204 | 229 | 78 | 1 year, 2 months ago | [sharpshell](https://github.com/dwmkerr/sharpshell)/666 | SharpShell makes it easy to create Windows Shell Extensions using the .NET Framework. |
-| 1203 | 223 | 2 | 3 months ago | [awesome-xamarin-forms](https://github.com/jsuarezruiz/awesome-xamarin-forms)/667 | A curated list of awesome Xamarin.Forms libraries and resources |
-| 1203 | 224 | 2 | 5 months ago | [HttpReports](https://github.com/dotnetcore/HttpReports)/668 | HttpReports is an APM (application performance monitor) system for .Net Core.  |
-| 1203 | 934 | 75 | 3 years ago | [SteamBot](https://github.com/Jessecar96/SteamBot)/669 | Automated bot software for interacting with Steam Trade |
-| 1201 | 191 | 27 | 3 months ago | [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)/670 | UI Soft Mask is a smooth masking component for Unity UI (uGUI) elements. |
-| 1199 | 329 | 0 | a day ago | [JTRP](https://github.com/JasonMa0012/JTRP)/671 | JTRP : Unity HDRP ToonShading Render Pipeline (Preview) |
-| 1199 | 248 | 42 | 6 months ago | [LottieXamarin](https://github.com/Baseflow/LottieXamarin)/672 | Render After Effects animations natively on Android, iOS, MacOS and TvOS for Xamarin |
-| 1192 | 268 | 60 | 14 days ago | [ReClass.NET](https://github.com/ReClassNET/ReClass.NET)/673 | More than a ReClass port to the .NET platform. |
-| 1191 | 129 | 41 | 5 months ago | [Trill](https://github.com/microsoft/Trill)/674 | Trill is a single-node query processor for temporal or streaming data. |
-| 1188 | 119 | 15 | a month ago | [LettuceEncrypt](https://github.com/natemcmaster/LettuceEncrypt)/675 | Free, automatic HTTPS certificate generation for ASP.NET Core web apps |
-| 1184 | 272 | 6 | 7 days ago | [SpotifyAPI-NET](https://github.com/JohnnyCrazy/SpotifyAPI-NET)/676 | :sound: A Client for the Spotify Web API, written in C#/.NET |
-| 1183 | 156 | 129 | 13 days ago | [MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog)/677 | A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values. |
-| 1181 | 785 | 29 | 7 years ago | [AngularJSAuthentication](https://github.com/tjoudeh/AngularJSAuthentication)/678 | Tutorial shows Authentication in AngularJS with ASP.NET Web API 2 and Owin Middle-ware using access tokens and refresh tokens approach |
-| 1180 | 187 | 126 | 1 year, 2 months ago | [ACMESharp](https://github.com/ebekker/ACMESharp)/679 | An ACME client library and PowerShell client for the .NET platform (Let's Encrypt) |
-| 1180 | 390 | 2 | 2 days ago | [openrpa](https://github.com/open-rpa/openrpa)/680 | Free Open Source Enterprise Grade RPA |
-| 1179 | 50 | 7 | a month ago | [CliFx](https://github.com/Tyrrrz/CliFx)/681 | Declarative framework for building command line interfaces |
-| 1179 | 157 | 18 | 5 years ago | [LightShafts](https://github.com/robertcupisz/LightShafts)/682 | A light shafts (volumetric shadows) effect for Unity. |
-| 1179 | 140 | 60 | 6 months ago | [SabreCSG](https://github.com/sabresaurus/SabreCSG)/683 | Level design tools for Unity |
-| 1176 | 539 | 12 | 13 hours ago | [stripe-dotnet](https://github.com/stripe/stripe-dotnet)/684 | Stripe.net is a sync/async .NET 4.6.1+ client, and a portable class library for stripe.com. |
-| 1171 | 281 | 0 | 4 days ago | [SunnyUI](https://github.com/yhuse/SunnyUI)/685 | SunnyUI.Net, 基于.Net Framework 4.0+、.Net Core3.1、.Net 5 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。 |
-| 1168 | 378 | 42 | 9 months ago | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue)/686 | Admin Fx Based On .NET 5 + Ant Design Vue |
-| 1165 | 178 | 41 | 2 days ago | [DnsServer](https://github.com/TechnitiumSoftware/DnsServer)/687 | Technitium DNS Server |
-| 1164 | 204 | 31 | 4 months ago | [DSInternals](https://github.com/MichaelGrafnetter/DSInternals)/688 |  Directory Services Internals (DSInternals) PowerShell Module and Framework |
-| 1163 | 319 | 2 | 2 years ago | [LockstepFramework](https://github.com/SnpM/LockstepFramework)/689 | Framework for lockstep RTS, TD, and MOBA games. |
-| 1161 | 260 | 32 | 18 hours ago | [cloudscribe](https://github.com/cloudscribe/cloudscribe)/690 | ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more  |
-| 1160 | 224 | 76 | a month ago | [gInk](https://github.com/geovens/gInk)/691 | An easy to use on-screen annotation software inspired by Epic Pen. |
-| 1157 | 410 | 155 | 7 days ago | [Recognizers-Text](https://github.com/microsoft/Recognizers-Text)/692 | Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, and date/time expressed in multiple languages (ZH, EN, FR, ES, PT, DE, IT, TR, HI, NL. Partial support for JA, KO, AR, SV). Contributions are greatly welcome! Packages are available at https://www.nuget.org/profiles/Recognizers.Text and https://www.npmjs.com/~recognizers.text |
-| 1156 | 360 | 14 | 4 days ago | [oqtane.framework](https://github.com/oqtane/oqtane.framework)/693 | Modular Application Framework for Blazor & .NET MAUI |
-| 1156 | 99 | 1 | 4 years ago | [YourAV](https://github.com/Tlaster/YourAV)/694 | 宇宙级最轻量杀毒软件 |
-| 1154 | 278 | 80 | 5 days ago | [MySqlConnector](https://github.com/mysql-net/MySqlConnector)/695 | Async MySQL Connector for .NET and .NET Core |
-| 1154 | 69 | 135 | a month ago | [biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite)/696 | 哔哩哔哩UWP Lite |
-| 1152 | 685 | 378 | 3 days ago | [LiveSplit](https://github.com/LiveSplit/LiveSplit)/697 | A sleek, highly customizable timer for speedrunners. |
-| 1146 | 113 | 26 | 1 year, 3 months ago | [Colorful.Console](https://github.com/tomakita/Colorful.Console)/698 | Style your .NET console output! |
-| 1167 | 382 | 4 | 3 years ago | [unitychan-crs](https://github.com/unity3d-jp/unitychan-crs)/699 | Unity-Chan "Candy Rock Star" Live Demo |
-| 1142 | 329 | 345 | 16 hours ago | [osu-framework](https://github.com/ppy/osu-framework)/700 | A game framework written with osu! in mind. |
-| 1235 | 231 | 108 | 2 months ago | [ImGui.NET](https://github.com/mellinoe/ImGui.NET)/701 | An ImGui wrapper for .NET. |
-| 1235 | 260 | 47 | 10 minutes ago | [InputSystem](https://github.com/Unity-Technologies/InputSystem)/702 | An efficient and versatile input system for Unity. |
-| 1232 | 47 | 19 | 2 days ago | [CSharpRepl](https://github.com/waf/CSharpRepl)/703 | A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively. |
-| 1231 | 144 | 47 | 7 days ago | [Unity.Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics)/704 | The C# math library used in Unity providing vector types and math functions with a shader like syntax |
-| 1231 | 245 | 57 | 8 months ago | [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing)/705 | This technique is designed to instance Characters(SkinnedMeshRender).  |
-| 1229 | 649 | 13 | 6 months ago | [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text)/706 | .NET's fastest JSON, JSV and CSV Text Serializers  |
-| 1228 | 390 | 6 | 2 months ago | [DncZeus](https://github.com/lampo1024/DncZeus)/707 | DncZeus 是一个基于.NET 6 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 6 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo): |
-| 1228 | 188 | 20 | a month ago | [MyBox](https://github.com/Deadcows/MyBox)/708 | MyBox is a set of attributes, tools and extensions for Unity  |
-| 1227 | 89 | 3 | 6 months ago | [Lasp](https://github.com/keijiro/Lasp)/709 | Low-latency Audio Signal Processing plugin for Unity |
-| 1227 | 131 | 19 | a month ago | [ClearScript](https://github.com/microsoft/ClearScript)/710 | A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows). |
-| 1226 | 260 | 93 | a month ago | [codeformatter](https://github.com/dotnet/codeformatter)/711 | Tool that uses Roslyn to automatically rewrite the source to follow our coding styles |
-| 1222 | 635 | 3 | 6 months ago | [Prism-Samples-Wpf](https://github.com/PrismLibrary/Prism-Samples-Wpf)/712 | Samples that demonstrate how to use various Prism features with WPF |
-| 1220 | 434 | 2 | 5 months ago | [itextsharp](https://github.com/itext/itextsharp)/713 | [DEPRECATED] .NET port of the iText library, only security fixes will be added — please use iText 7 for .NET |
-| 1219 | 192 | 70 | 3 hours ago | [EPPlus](https://github.com/EPPlusSoftware/EPPlus)/714 | EPPlus 5-Excel spreadsheets for .NET |
-| 1218 | 279 | 2 | 6 days ago | [AttackWebFrameworkTools-5.0](https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0)/715 | 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等. |
-| 1218 | 273 | 59 | 4 years ago | [PowerForensics](https://github.com/Invoke-IR/PowerForensics)/716 | PowerForensics provides an all in one platform for live disk forensic analysis |
-| 1212 | 113 | 21 | 2 months ago | [shellprogressbar](https://github.com/Mpdreamz/shellprogressbar)/717 | ShellProgressBar - display progress in your console application |
-| 1210 | 290 | 73 | 4 years ago | [voat](https://github.com/voat/voat)/718 | The code that powers Voat |
-| 1207 | 141 | 4 | 2 days ago | [UnityIngameDebugConsole](https://github.com/yasirkula/UnityIngameDebugConsole)/719 | A uGUI based console to see debug messages and execute commands during gameplay in Unity |
-| 1204 | 229 | 78 | 1 year, 2 months ago | [sharpshell](https://github.com/dwmkerr/sharpshell)/720 | SharpShell makes it easy to create Windows Shell Extensions using the .NET Framework. |
-| 1203 | 223 | 2 | 3 months ago | [awesome-xamarin-forms](https://github.com/jsuarezruiz/awesome-xamarin-forms)/721 | A curated list of awesome Xamarin.Forms libraries and resources |
-| 1203 | 224 | 2 | 5 months ago | [HttpReports](https://github.com/dotnetcore/HttpReports)/722 | HttpReports is an APM (application performance monitor) system for .Net Core.  |
-| 1203 | 934 | 75 | 3 years ago | [SteamBot](https://github.com/Jessecar96/SteamBot)/723 | Automated bot software for interacting with Steam Trade |
-| 1201 | 61 | 28 | 1 year, 1 month ago | [Depressurizer](https://github.com/Depressurizer/Depressurizer)/724 | A Steam library categorizing tool. |
-| 1201 | 191 | 27 | 3 months ago | [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)/725 | UI Soft Mask is a smooth masking component for Unity UI (uGUI) elements. |
-| 1199 | 248 | 42 | 6 months ago | [LottieXamarin](https://github.com/Baseflow/LottieXamarin)/726 | Render After Effects animations natively on Android, iOS, MacOS and TvOS for Xamarin |
-| 1192 | 268 | 60 | 14 days ago | [ReClass.NET](https://github.com/ReClassNET/ReClass.NET)/727 | More than a ReClass port to the .NET platform. |
-| 1191 | 129 | 41 | 5 months ago | [Trill](https://github.com/microsoft/Trill)/728 | Trill is a single-node query processor for temporal or streaming data. |
-| 1191 | 38 | 0 | 8 days ago | [PowerUp](https://github.com/badamczewski/PowerUp)/729 | ⚡ Decompilation Tools and High Productivity Utilities ⚡ |
-| 1188 | 119 | 15 | a month ago | [LettuceEncrypt](https://github.com/natemcmaster/LettuceEncrypt)/730 | Free, automatic HTTPS certificate generation for ASP.NET Core web apps |
-| 1183 | 156 | 129 | 13 days ago | [MSBuildStructuredLog](https://github.com/KirillOsenkov/MSBuildStructuredLog)/731 | A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values. |
-| 1181 | 785 | 29 | 7 years ago | [AngularJSAuthentication](https://github.com/tjoudeh/AngularJSAuthentication)/732 | Tutorial shows Authentication in AngularJS with ASP.NET Web API 2 and Owin Middle-ware using access tokens and refresh tokens approach |
-| 1180 | 187 | 126 | 1 year, 2 months ago | [ACMESharp](https://github.com/ebekker/ACMESharp)/733 | An ACME client library and PowerShell client for the .NET platform (Let's Encrypt) |
-| 1180 | 390 | 2 | 2 days ago | [openrpa](https://github.com/open-rpa/openrpa)/734 | Free Open Source Enterprise Grade RPA |
-| 1179 | 140 | 60 | 6 months ago | [SabreCSG](https://github.com/sabresaurus/SabreCSG)/735 | Level design tools for Unity |
-| 1171 | 281 | 0 | 4 days ago | [SunnyUI](https://github.com/yhuse/SunnyUI)/736 | SunnyUI.Net, 基于.Net Framework 4.0+、.Net Core3.1、.Net 5 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。 |
-| 1169 | 107 | 12 | 10 months ago | [Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade)/737 | Windows 11 Upgrade tool that bypasses Microsoft´s requirements |
-| 1168 | 378 | 42 | 9 months ago | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue)/738 | Admin Fx Based On .NET 5 + Ant Design Vue |
-| 1165 | 178 | 41 | 2 days ago | [DnsServer](https://github.com/TechnitiumSoftware/DnsServer)/739 | Technitium DNS Server |
-| 1164 | 204 | 31 | 4 months ago | [DSInternals](https://github.com/MichaelGrafnetter/DSInternals)/740 |  Directory Services Internals (DSInternals) PowerShell Module and Framework |
-| 1163 | 319 | 2 | 2 years ago | [LockstepFramework](https://github.com/SnpM/LockstepFramework)/741 | Framework for lockstep RTS, TD, and MOBA games. |
-| 1162 | 251 | 29 | 4 days ago | [System.IO.Abstractions](https://github.com/TestableIO/System.IO.Abstractions)/742 | Just like System.Web.Abstractions, but for System.IO. Yay for testable IO access! |
-| 1161 | 260 | 32 | 18 hours ago | [cloudscribe](https://github.com/cloudscribe/cloudscribe)/743 | ASP.NET Core multi-tenant web application foundation with management for sites, users, roles, claims and more  |
-| 1160 | 224 | 76 | a month ago | [gInk](https://github.com/geovens/gInk)/744 | An easy to use on-screen annotation software inspired by Epic Pen. |
-| 1156 | 360 | 14 | 4 days ago | [oqtane.framework](https://github.com/oqtane/oqtane.framework)/745 | Modular Application Framework for Blazor & .NET MAUI |
-| 1156 | 99 | 1 | 4 years ago | [YourAV](https://github.com/Tlaster/YourAV)/746 | 宇宙级最轻量杀毒软件 |
-| 1154 | 278 | 80 | 5 days ago | [MySqlConnector](https://github.com/mysql-net/MySqlConnector)/747 | Async MySQL Connector for .NET and .NET Core |
-| 1154 | 69 | 135 | a month ago | [biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite)/748 | 哔哩哔哩UWP Lite |
-| 1152 | 685 | 378 | 3 days ago | [LiveSplit](https://github.com/LiveSplit/LiveSplit)/749 | A sleek, highly customizable timer for speedrunners. |
-| 1146 | 113 | 26 | 1 year, 3 months ago | [Colorful.Console](https://github.com/tomakita/Colorful.Console)/750 | Style your .NET console output! |
-| 1146 | 246 | 44 | 3 months ago | [UI-For-UWP](https://github.com/telerik/UI-For-UWP)/751 | This repo contains the source code for Telerik UI for Universal Windows Platform (UWP), which includes 20+ UI controls for developers building UWP applications. |
-| 1167 | 382 | 4 | 3 years ago | [unitychan-crs](https://github.com/unity3d-jp/unitychan-crs)/752 | Unity-Chan "Candy Rock Star" Live Demo |
-| 1142 | 329 | 345 | 16 hours ago | [osu-framework](https://github.com/ppy/osu-framework)/753 | A game framework written with osu! in mind. |
-| 1142 | 188 | 103 | 9 months ago | [moonsharp](https://github.com/moonsharp-devs/moonsharp)/754 | An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities. |
-| 1142 | 244 | 202 | 3 months ago | [fungus](https://github.com/snozbot/fungus)/755 | An easy to use Unity 3D library for creating illustrated Interactive Fiction games and more. |
-| 1140 | 180 | 18 | a month ago | [DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins)/756 | .NET Core library for dynamically loading code |
-| 1140 | 94 | 107 | 4 months ago | [RaceControl](https://github.com/robvdpol/RaceControl)/757 | Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform. |
-| 1139 | 555 | 115 | 3 years ago | [PDFsharp](https://github.com/empira/PDFsharp)/758 | A .NET library for processing PDF |
-| 1137 | 110 | 10 | 6 months ago | [CSharpVerbalExpressions](https://github.com/VerbalExpressions/CSharpVerbalExpressions)/759 | None |
-| 1136 | 71 | 14 | 3 months ago | [mockhttp](https://github.com/richardszalay/mockhttp)/760 | Testing layer for Microsoft's HttpClient library. Create canned responses using a fluent API. |
-| 1135 | 136 | 1 | 15 days ago | [Vanara](https://github.com/dahall/Vanara)/761 | A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers. |
-| 1129 | 336 | 15 | 14 days ago | [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr)/762 | A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr. |
-| 1128 | 296 | 3 | 8 months ago | [noPac](https://github.com/cube0x0/noPac)/763 | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. |
-| 1126 | 188 | 8 | 28 days ago | [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier)/764 | Mesh simplification for Unity. |
-| 1124 | 117 | 117 | a month ago | [MiniExcel](https://github.com/MiniExcel/MiniExcel)/765 | Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet |
-| 1121 | 74 | 12 | 3 days ago | [usbipd-win](https://github.com/dorssel/usbipd-win)/766 | Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2. |
-| 1117 | 251 | 8 | 1 year, 3 days ago | [Blog](https://github.com/Meowv/Blog)/767 | 🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平台框架 .NET5 进行开发，使用 MongoDB 存储数据，Redis 缓存数据。项目采用前后端分离的模式进行开发，API 遵循 RESTful 接口规范，页面使用 Blazor 进行开发，可作为 .NET Core 入门项目进行学习。If you liked `Blog` project or if it helped you, please give a star ⭐️ for this repository. 👍👍👍 |
-| 1116 | 337 | 89 | 6 months ago | [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup)/768 | Xamarin Forms popup plugin |
-| 1115 | 149 | 101 | 1 year, 3 months ago | [StyleCop](https://github.com/StyleCop/StyleCop)/769 | Analyzes C# source code to enforce a set of style and consistency rules. |
-| 1114 | 210 | 32 | 10 months ago | [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda)/770 | Unity sample of 3D pose estimation using Barracuda |
-| 1114 | 174 | 161 | 6 days ago | [efcore.pg](https://github.com/npgsql/efcore.pg)/771 | Entity Framework Core provider for PostgreSQL |
-| 1112 | 284 | 5 | 30 days ago | [DOTS-training-samples](https://github.com/Unity-Technologies/DOTS-training-samples)/772 | Samples designed as exercises to be ported from Unity GameObjects/MonoBehaviours to Unity DOTS.  |
-| 1111 | 232 | 1 | 3 years ago | [Internal-Monologue](https://github.com/eladshamir/Internal-Monologue)/773 | Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS |
-| 1111 | 375 | 2 | 13 days ago | [Wireboy.Socket.P2PSocket](https://github.com/hemaju/Wireboy.Socket.P2PSocket)/774 | P2P内网穿透，实现【公司】-【家】远程控制 |
-| 1111 | 271 | 8 | 2 years ago | [The-New-M3U8-Downloader](https://github.com/nilaoda/The-New-M3U8-Downloader)/775 | Rebulid of M3U8-Downloader. (Stop updating permanently) |
-| 1111 | 519 | 15 | 9 days ago | [google-api-dotnet-client](https://github.com/googleapis/google-api-dotnet-client)/776 | Google APIs Client Library for .NET |
-| 1109 | 307 | 28 | 8 days ago | [Terraria-Map-Editor](https://github.com/TEdit/Terraria-Map-Editor)/777 | TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers! |
-| 1109 | 159 | 1 | 5 years ago | [KvantSpray](https://github.com/keijiro/KvantSpray)/778 | Object instancing/particle animation system for Unity |
-| 1106 | 55 | 74 | 4 days ago | [CsWin32](https://github.com/microsoft/CsWin32)/779 | A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project. |
-| 1105 | 491 | 135 | 3 years ago | [HTML-Renderer](https://github.com/ArthurHub/HTML-Renderer)/780 | Cross framework (WinForms/WPF/PDF/Metro/Mono/etc.), Multipurpose (UI Controls / Image generation / PDF generation / etc.), 100% managed (C#), High performance HTML Rendering library. |
-| 1105 | 368 | 70 | 4 months ago | [litjson](https://github.com/LitJSON/litjson)/781 | JSON library for the .Net framework |
-| 1104 | 165 | 6 | 1 year, 5 months ago | [NetCoreBackend](https://github.com/engindemirog/NetCoreBackend)/782 | None |
-| 1102 | 347 | 6 | 9 months ago | [UnityGameFramework](https://github.com/EllanJiang/UnityGameFramework)/783 | This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality. |
-| 1097 | 293 | 143 | 2 months ago | [code-cracker](https://github.com/code-cracker/code-cracker)/784 | An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties. |
-| 1097 | 380 | 12 | 6 months ago | [chinook-database](https://github.com/lerocha/chinook-database)/785 | Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2 |
-| 1092 | 2 | 2 | 4 years ago | [loklak_dotnet_api](https://github.com/loklak/loklak_dotnet_api)/786 | A C#.NET Wrapper for Loklak to be used with Windows applications |
-| 1093 | 131 | 0 | 1 year, 9 months ago | [ProxyKit](https://github.com/ProxyKit/ProxyKit)/787 | A toolkit to create code-first HTTP reverse proxies on ASP.NET Core |
-| 1093 | 464 | 122 | 21 days ago | [VSSDK-Extensibility-Samples](https://github.com/microsoft/VSSDK-Extensibility-Samples)/788 | Samples for building your own Visual Studio extensions |
-| 1093 | 227 | 166 | 16 hours ago | [durabletask](https://github.com/Azure/durabletask)/789 | Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities. |
-| 1091 | 143 | 29 | a month ago | [SimpleInjector](https://github.com/simpleinjector/SimpleInjector)/790 | An easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success. |
-| 1089 | 276 | 91 | 17 days ago | [MonoGame.Extended](https://github.com/craftworkgames/MonoGame.Extended)/791 | Extensions to make MonoGame more awesome |
-| 1085 | 218 | 14 | 3 days ago | [SMAPI](https://github.com/Pathoschild/SMAPI)/792 | The modding API for Stardew Valley. |
-| 1083 | 434 | 101 | 10 months ago | [FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox)/793 | Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET. |
-| 1083 | 275 | 26 | 10 months ago | [CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi)/794 | An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind. |
-| 1082 | 247 | 17 | 6 months ago | [ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)/795 | With Razor Pages |
-| 1082 | 115 | 0 | 2 days ago | [NatTypeTester](https://github.com/HMBSbige/NatTypeTester)/796 | 测试当前网络的 NAT 类型（STUN） |
-| 1081 | 141 | 141 | 9 days ago | [MobileBlazorBindings](https://github.com/dotnet/MobileBlazorBindings)/797 | Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor |
-| 1080 | 397 | 10 | 27 days ago | [Seal-Report](https://github.com/ariacom/Seal-Report)/798 | Open Database Reporting Tool (.Net) |
-| 1080 | 158 | 174 | 5 days ago | [realm-dotnet](https://github.com/realm/realm-dotnet)/799 | Realm is a mobile database: a replacement for SQLite & ORMs |
-| 1079 | 258 | 20 | 5 years ago | [UnitySteer](https://github.com/ricardojmendez/UnitySteer)/800 | Steering, obstacle avoidance and path following behaviors for the Unity Game Engine |
-| 1128 | 296 | 3 | 8 months ago | [noPac](https://github.com/cube0x0/noPac)/801 | CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter. |
-| 1126 | 188 | 8 | 28 days ago | [UnityMeshSimplifier](https://github.com/Whinarn/UnityMeshSimplifier)/802 | Mesh simplification for Unity. |
-| 1124 | 117 | 117 | a month ago | [MiniExcel](https://github.com/MiniExcel/MiniExcel)/803 | Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet |
-| 1122 | 306 | 74 | 1 year, 10 days ago | [mvvmlight](https://github.com/lbugnion/mvvmlight)/804 | The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone. |
-| 1121 | 74 | 12 | 3 days ago | [usbipd-win](https://github.com/dorssel/usbipd-win)/805 | Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2. |
-| 1120 | 123 | 7 | 1 year, 5 months ago | [UnityNativeScripting](https://github.com/jacksondunstan/UnityNativeScripting)/806 | Unity Scripting in C++ |
-| 1118 | 164 | 8 | 3 hours ago | [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)/807 | A set of enterprise-class UI components based on Bootstrap and Blazor |
-| 1117 | 251 | 8 | 1 year, 3 days ago | [Blog](https://github.com/Meowv/Blog)/808 | 🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平台框架 .NET5 进行开发，使用 MongoDB 存储数据，Redis 缓存数据。项目采用前后端分离的模式进行开发，API 遵循 RESTful 接口规范，页面使用 Blazor 进行开发，可作为 .NET Core 入门项目进行学习。If you liked `Blog` project or if it helped you, please give a star ⭐️ for this repository. 👍👍👍 |
-| 1116 | 337 | 89 | 6 months ago | [Rg.Plugins.Popup](https://github.com/rotorgames/Rg.Plugins.Popup)/809 | Xamarin Forms popup plugin |
-| 1115 | 149 | 101 | 1 year, 3 months ago | [StyleCop](https://github.com/StyleCop/StyleCop)/810 | Analyzes C# source code to enforce a set of style and consistency rules. |
-| 1114 | 210 | 32 | 10 months ago | [ThreeDPoseUnityBarracuda](https://github.com/digital-standard/ThreeDPoseUnityBarracuda)/811 | Unity sample of 3D pose estimation using Barracuda |
-| 1112 | 284 | 5 | 30 days ago | [DOTS-training-samples](https://github.com/Unity-Technologies/DOTS-training-samples)/812 | Samples designed as exercises to be ported from Unity GameObjects/MonoBehaviours to Unity DOTS.  |
-| 1111 | 172 | 112 | 1 year, 3 months ago | [NumSharp](https://github.com/SciSharp/NumSharp)/813 | High Performance Computation for N-D Tensors in .NET, similar API to NumPy. |
-| 1111 | 232 | 1 | 3 years ago | [Internal-Monologue](https://github.com/eladshamir/Internal-Monologue)/814 | Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS |
-| 1111 | 375 | 2 | 13 days ago | [Wireboy.Socket.P2PSocket](https://github.com/hemaju/Wireboy.Socket.P2PSocket)/815 | P2P内网穿透，实现【公司】-【家】远程控制 |
-| 1111 | 271 | 8 | 2 years ago | [The-New-M3U8-Downloader](https://github.com/nilaoda/The-New-M3U8-Downloader)/816 | Rebulid of M3U8-Downloader. (Stop updating permanently) |
-| 1111 | 519 | 15 | 9 days ago | [google-api-dotnet-client](https://github.com/googleapis/google-api-dotnet-client)/817 | Google APIs Client Library for .NET |
-| 1110 | 130 | 10 | 3 years ago | [unity-voxel](https://github.com/mattatz/unity-voxel)/818 | Mesh voxelization for Unity. |
-| 1109 | 307 | 28 | 8 days ago | [Terraria-Map-Editor](https://github.com/TEdit/Terraria-Map-Editor)/819 | TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers! |
-| 1109 | 159 | 1 | 5 years ago | [KvantSpray](https://github.com/keijiro/KvantSpray)/820 | Object instancing/particle animation system for Unity |
-| 1106 | 55 | 74 | 4 days ago | [CsWin32](https://github.com/microsoft/CsWin32)/821 | A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project. |
-| 1105 | 491 | 135 | 3 years ago | [HTML-Renderer](https://github.com/ArthurHub/HTML-Renderer)/822 | Cross framework (WinForms/WPF/PDF/Metro/Mono/etc.), Multipurpose (UI Controls / Image generation / PDF generation / etc.), 100% managed (C#), High performance HTML Rendering library. |
-| 1105 | 368 | 70 | 4 months ago | [litjson](https://github.com/LitJSON/litjson)/823 | JSON library for the .Net framework |
-| 1104 | 148 | 0 | 4 years ago | [ShaderGraph](https://github.com/Unity-Technologies/ShaderGraph)/824 | Unity ShaderGraph project |
-| 1104 | 165 | 6 | 1 year, 5 months ago | [NetCoreBackend](https://github.com/engindemirog/NetCoreBackend)/825 | None |
-| 1102 | 347 | 6 | 9 months ago | [UnityGameFramework](https://github.com/EllanJiang/UnityGameFramework)/826 | This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality. |
-| 1099 | 238 | 3 | 3 years ago | [AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop)/827 | A workshop for moving through the various new pieces in ASP.NET Core Authorization |
-| 1097 | 293 | 143 | 2 months ago | [code-cracker](https://github.com/code-cracker/code-cracker)/828 | An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties. |
-| 1097 | 380 | 12 | 6 months ago | [chinook-database](https://github.com/lerocha/chinook-database)/829 | Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2 |
-| 1097 | 233 | 182 | 1 year, 9 months ago | [Terminals](https://github.com/Terminals-Origin/Terminals)/830 | Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex. |
-| 1092 | 2 | 2 | 4 years ago | [loklak_dotnet_api](https://github.com/loklak/loklak_dotnet_api)/831 | A C#.NET Wrapper for Loklak to be used with Windows applications |
-| 1093 | 131 | 0 | 1 year, 9 months ago | [ProxyKit](https://github.com/ProxyKit/ProxyKit)/832 | A toolkit to create code-first HTTP reverse proxies on ASP.NET Core |
-| 1093 | 464 | 122 | 21 days ago | [VSSDK-Extensibility-Samples](https://github.com/microsoft/VSSDK-Extensibility-Samples)/833 | Samples for building your own Visual Studio extensions |
-| 1093 | 227 | 166 | 16 hours ago | [durabletask](https://github.com/Azure/durabletask)/834 | Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities. |
-| 1091 | 143 | 29 | a month ago | [SimpleInjector](https://github.com/simpleinjector/SimpleInjector)/835 | An easy, flexible, and fast Dependency Injection library that promotes best practice to steer developers towards the pit of success. |
-| 1089 | 276 | 91 | 17 days ago | [MonoGame.Extended](https://github.com/craftworkgames/MonoGame.Extended)/836 | Extensions to make MonoGame more awesome |
-| 1087 | 631 | 156 | 1 year, 5 months ago | [openbullet](https://github.com/openbullet/openbullet)/837 | The OpenBullet web testing application. |
-| 1083 | 434 | 101 | 10 months ago | [FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox)/838 | Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET. |
-| 1083 | 275 | 26 | 10 months ago | [CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi)/839 | An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind. |
-| 1082 | 323 | 66 | 1 year, 11 months ago | [lidgren-network-gen3](https://github.com/lidgren/lidgren-network-gen3)/840 | Lidgren Network Library |
-| 1082 | 247 | 17 | 6 months ago | [ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)/841 | With Razor Pages |
-| 1082 | 115 | 0 | 2 days ago | [NatTypeTester](https://github.com/HMBSbige/NatTypeTester)/842 | 测试当前网络的 NAT 类型（STUN） |
-| 1081 | 141 | 141 | 9 days ago | [MobileBlazorBindings](https://github.com/dotnet/MobileBlazorBindings)/843 | Experimental Mobile Blazor Bindings - Build native and hybrid mobile apps with Blazor |
-| 1080 | 397 | 10 | 27 days ago | [Seal-Report](https://github.com/ariacom/Seal-Report)/844 | Open Database Reporting Tool (.Net) |
-| 1079 | 181 | 5 | 10 days ago | [shiny](https://github.com/shinyorg/shiny)/845 | A Xamarin Framework for Backgrounding & Device Hardware Services |
-| 1079 | 258 | 20 | 5 years ago | [UnitySteer](https://github.com/ricardojmendez/UnitySteer)/846 | Steering, obstacle avoidance and path following behaviors for the Unity Game Engine |
-| 1078 | 64 | 2 | 22 hours ago | [SophiApp](https://github.com/Sophia-Community/SophiApp)/847 | :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11 |
-| 1078 | 126 | 268 | 13 hours ago | [resharper-unity](https://github.com/JetBrains/resharper-unity)/848 | Unity support for both ReSharper and Rider |
-| 1075 | 148 | 52 | 2 years ago | [ILMerge](https://github.com/dotnet/ILMerge)/849 | ILMerge is a static linker for .NET Assemblies. |
-| 1074 | 402 | 5 | 10 months ago | [SuperSimple2DKit](https://github.com/atmosgames/SuperSimple2DKit)/850 | A simple kit meant to help jump start the creation of your 2D Unity game! |
-| 1073 | 269 | 32 | 5 months ago | [MelonLoader](https://github.com/LavaGang/MelonLoader)/851 | The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono |
-| 1072 | 453 | 364 | 8 days ago | [NJsonSchema](https://github.com/RicoSuter/NJsonSchema)/852 | JSON Schema reader, generator and validator for .NET |
-| 1066 | 158 | 19 | 1 year, 6 months ago | [Pcx](https://github.com/keijiro/Pcx)/853 | Point cloud importer & renderer for Unity |
-| 1063 | 306 | 18 | a month ago | [UniLua](https://github.com/xebecnan/UniLua)/854 | A pure c# implementation of Lua 5.2 focus on compatibility with Unity |
-| 1062 | 96 | 98 | 3 days ago | [RetroBar](https://github.com/dremin/RetroBar)/855 | Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows |
-| 1061 | 153 | 26 | 3 days ago | [DepotDownloader](https://github.com/SteamRE/DepotDownloader)/856 | Steam depot downloader utilizing the SteamKit2 library. |
-| 1057 | 240 | 8 | 15 hours ago | [itext7-dotnet](https://github.com/itext/itext7-dotnet)/857 | iText 7 for .NET is the .NET version of the iText 7 library, formerly known as iTextSharp, which it replaces. iText 7 represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow. |
-| 1056 | 270 | 43 | 20 days ago | [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite)/858 | A .NET GIS solution that is fast and reliable for the .NET platform. |
-| 1056 | 206 | 3 | 2 years ago | [fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen)/859 | Fake Windows logon screen to steal passwords |
-| 1056 | 417 | 151 | 16 hours ago | [bc-csharp](https://github.com/bcgit/bc-csharp)/860 | Bouncy Castle C# Distribution (Mirror) |
-| 1054 | 238 | 43 | 3 years ago | [SQLite4Unity3d](https://github.com/robertohuertasm/SQLite4Unity3d)/861 | SQLite made easy for Unity3d |
-| 1053 | 291 | 34 | 1 year, 2 months ago | [UnitOfWork](https://github.com/Arch/UnitOfWork)/862 | A plugin for Microsoft.EntityFrameworkCore to support repository, unit of work patterns, multiple database with distributed transaction supported, and MySQL multiple databases/tables sharding supported. |
-| 1053 | 121 | 0 | 12 days ago | [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices)/863 | Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask |
-| 1052 | 815 | 64 | 20 hours ago | [vc-platform](https://github.com/VirtoCommerce/vc-platform)/864 | VirtoCommerce Platform repository |
-| 1049 | 1034 | 351 | 11 hours ago | [googleads-mobile-unity](https://github.com/googleads/googleads-mobile-unity)/865 | Official Unity Plugin for the Google Mobile Ads SDK |
-| 1048 | 289 | 23 | a day ago | [AspLabs](https://github.com/aspnet/AspLabs)/866 | Repo for ASP.NET experiments that are not ready for a production release |
-| 1045 | 56 | 17 | 6 hours ago | [FamiStudio](https://github.com/BleuBleu/FamiStudio)/867 | FamiStudio NES Music Editor |
-| 1044 | 91 | 1 | a month ago | [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector)/868 | Find usages of the selected asset(s) and/or Object(s) in your Unity project, i.e. list the objects that refer to them |
-| 1043 | 200 | 8 | 6 days ago | [libvlcsharp](https://github.com/videolan/libvlcsharp)/869 | Cross-platform .NET/Mono bindings for LibVLC |
-| 1043 | 205 | 62 | 22 days ago | [Benchmarks](https://github.com/aspnet/Benchmarks)/870 | Benchmarks for ASP.NET Core |
-| 1042 | 103 | 108 | a day ago | [sourcelink](https://github.com/dotnet/sourcelink)/871 | Source Link enables a great source debugging experience for your users, by adding source control metadata to your built assets |
-| 1039 | 108 | 54 | a month ago | [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE)/872 | OpenSAGE is a free, open source re-implementation of SAGE, the 3D real time strategy (RTS) engine used in Command & Conquer: Generals and other RTS titles from EA Pacific. Written in C#. Not affiliated with EA. |
-| 1037 | 671 | 179 | 1 year, 6 months ago | [ZXing.Net.Mobile](https://github.com/Redth/ZXing.Net.Mobile)/873 | Barcode Scanner for Xamarin.iOS, Xamarin.Android, UWP and Tizen |
-| 1032 | 404 | 0 | 4 years ago | [unityassets](https://github.com/fholm/unityassets)/874 | Assorted unity assets and utilities |
-| 1031 | 329 | 115 | 2 days ago | [FileHelpers](https://github.com/MarcosMeli/FileHelpers)/875 | The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in files, strings or streams |
-| 1031 | 139 | 69 | 2 years ago | [wumgr](https://github.com/DavidXanatos/wumgr)/876 | Windows update managemetn tool for windows 10 |
-| 1030 | 289 | 472 | 4 days ago | [Barotrauma](https://github.com/Regalis11/Barotrauma)/877 | A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa. |
-| 1029 | 161 | 5 | 3 months ago | [SweetPotato](https://github.com/CCob/SweetPotato)/878 | Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019 |
-| 1028 | 599 | 0 | 7 months ago | [Cognitive-Samples-IntelligentKiosk](https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk)/879 | Welcome to the Intelligent Kiosk Sample! Here you will find several demos showcasing workflows and experiences built on top of the Microsoft Cognitive Services. |
-| 1027 | 90 | 106 | 4 years ago | [AudioSwitch](https://github.com/sirWest/AudioSwitch)/880 | Switch between default audio input or output + change volume |
-| 1027 | 106 | 9 | 3 months ago | [PasteEx](https://github.com/huiyadanli/PasteEx)/881 | :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件 |
-| 1023 | 404 | 17 | 1 year, 5 months ago | [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)/882 | Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper. |
-| 1023 | 226 | 5 | 11 months ago | [BeetleX](https://github.com/beetlex-io/BeetleX)/883 | high performance dotnet core socket tcp communication components,  support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols  and 1M connections problem solution |
-| 1023 | 145 | 13 | 3 years ago | [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise)/884 | Promises library for C# for management of asynchronous operations. |
-| 1022 | 165 | 34 | 3 years ago | [Materialize](https://github.com/BoundingBoxSoftware/Materialize)/885 | Materialize is a program for converting images to materials for use in video games and whatnot |
-| 1021 | 129 | 8 | 2 months ago | [UnityExplorer](https://github.com/sinai-dev/UnityExplorer)/886 | An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games. |
-| 1020 | 382 | 193 | 14 hours ago | [installer](https://github.com/dotnet/installer)/887 | .NET SDK Installer |
-| 1019 | 119 | 14 | 6 months ago | [SadConsole](https://github.com/Thraka/SadConsole)/888 | A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games! |
-| 1018 | 174 | 12 | 2 months ago | [Natasha](https://github.com/dotnetcore/Natasha)/889 | 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue. |
-| 1017 | 130 | 32 | 3 months ago | [skynet](https://github.com/atemerev/skynet)/890 | Skynet 1M threads microbenchmark |
-| 1017 | 281 | 23 | 5 months ago | [WindowsCompositionSamples](https://github.com/microsoft/WindowsCompositionSamples)/891 | Windows Composition Samples the place for getting the latest code samples and demos using Windows.UI.Xaml and Windows.UI.Composition to make beautiful Universal Windows Platform applications. |
-| 1017 | 168 | 100 | 7 days ago | [OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET)/892 | The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model. |
-| 1017 | 491 | 298 | 2 years ago | [White](https://github.com/TestStack/White)/893 | DEPRECATED - no longer actively maintained |
-| 1015 | 163 | 30 | 21 days ago | [Specification](https://github.com/ardalis/Specification)/894 | Base class with tests for adding specifications to a DDD model |
-| 1013 | 305 | 30 | 6 years ago | [saaskit](https://github.com/saaskit/saaskit)/895 | A developer toolkit for building SaaS applications |
-| 1008 | 265 | 0 | 1 year, 10 months ago | [AI-Programmer](https://github.com/primaryobjects/AI-Programmer)/896 | Using artificial intelligence and genetic algorithms to automatically write programs. Tutorial: http://www.primaryobjects.com/cms/article149 |
-| 1007 | 26 | 2 | 5 years ago | [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)/897 | GithubXamarin(GitIt) is a cross-platform application for https://github.com which is built using Xamarin. |
-| 1001 | 55 | 31 | 12 hours ago | [StronglyTypedId](https://github.com/andrewlock/StronglyTypedId)/898 | A Rosyln-powered generator for strongly-typed IDs |
-| 1000 | 274 | 6 | 4 years ago | [DotNetToJScript](https://github.com/tyranid/DotNetToJScript)/899 | A tool to create a JScript file which loads a .NET v2 assembly from memory. |
-| 997 | 74 | 31 | 3 hours ago | [FluentDocker](https://github.com/mariotoffia/FluentDocker)/900 | Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI |
-| 1027 | 106 | 9 | 3 months ago | [PasteEx](https://github.com/huiyadanli/PasteEx)/901 | :clipboard: Paste As File 把剪贴板的内容直接粘贴为文件 |
-| 1024 | 287 | 112 | 25 days ago | [taglib-sharp](https://github.com/mono/taglib-sharp)/902 | Library for reading and writing metadata in media files |
-| 1024 | 82 | 17 | a month ago | [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy)/903 | Simple and powerful RoboCopy GUI  |
-| 1023 | 404 | 17 | 1 year, 5 months ago | [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)/904 | Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper. |
-| 1023 | 226 | 5 | 11 months ago | [BeetleX](https://github.com/beetlex-io/BeetleX)/905 | high performance dotnet core socket tcp communication components,  support TLS, HTTP, HTTPS, WebSocket, RPC, Redis protocols, custom protocols  and 1M connections problem solution |
-| 1023 | 145 | 13 | 3 years ago | [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise)/906 | Promises library for C# for management of asynchronous operations. |
-| 1022 | 165 | 34 | 3 years ago | [Materialize](https://github.com/BoundingBoxSoftware/Materialize)/907 | Materialize is a program for converting images to materials for use in video games and whatnot |
-| 1021 | 129 | 8 | 2 months ago | [UnityExplorer](https://github.com/sinai-dev/UnityExplorer)/908 | An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games. |
-| 1020 | 382 | 193 | 14 hours ago | [installer](https://github.com/dotnet/installer)/909 | .NET SDK Installer |
-| 1019 | 119 | 14 | 6 months ago | [SadConsole](https://github.com/Thraka/SadConsole)/910 | A .NET ascii/ansi console engine written in C# for MonoGame and XNA. Create your own text roguelike (or other) games! |
-| 1019 | 299 | 81 | 7 months ago | [LinqToExcel](https://github.com/paulyoder/LinqToExcel)/911 | Use LINQ to retrieve data from spreadsheets and csv files |
-| 1018 | 174 | 12 | 2 months ago | [Natasha](https://github.com/dotnetcore/Natasha)/912 | 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue. |
-| 1017 | 130 | 32 | 3 months ago | [skynet](https://github.com/atemerev/skynet)/913 | Skynet 1M threads microbenchmark |
-| 1017 | 491 | 298 | 2 years ago | [White](https://github.com/TestStack/White)/914 | DEPRECATED - no longer actively maintained |
-| 1015 | 163 | 30 | 21 days ago | [Specification](https://github.com/ardalis/Specification)/915 | Base class with tests for adding specifications to a DDD model |
-| 1014 | 102 | 3 | 3 years ago | [ShaderGraphExamples](https://github.com/keijiro/ShaderGraphExamples)/916 | Simple examples of Unity shader graphs. |
-| 1013 | 305 | 30 | 6 years ago | [saaskit](https://github.com/saaskit/saaskit)/917 | A developer toolkit for building SaaS applications |
-| 1008 | 265 | 0 | 1 year, 10 months ago | [AI-Programmer](https://github.com/primaryobjects/AI-Programmer)/918 | Using artificial intelligence and genetic algorithms to automatically write programs. Tutorial: http://www.primaryobjects.com/cms/article149 |
-| 1007 | 26 | 2 | 5 years ago | [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)/919 | GithubXamarin(GitIt) is a cross-platform application for https://github.com which is built using Xamarin. |
-| 1000 | 155 | 48 | 4 years ago | [fullserializer](https://github.com/jacobdufault/fullserializer)/920 | A robust JSON serialization framework that just works with support for all major Unity export platforms. |
-| 997 | 74 | 31 | 3 hours ago | [FluentDocker](https://github.com/mariotoffia/FluentDocker)/921 | Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI |
-| 996 | 261 | 4 | 4 months ago | [CQRSlite](https://github.com/gautema/CQRSlite)/922 | A lightweight framework to help creating CQRS and Eventsourcing applications in C# |
-| 994 | 199 | 30 | 2 years ago | [AssetGraph](https://github.com/Unity-Technologies/AssetGraph)/923 | Visual Workflow Automation Tool for Unity. |
-| 993 | 137 | 88 | 4 years ago | [MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus)/924 | A Notepad++ Plugin to view a Markdown file rendered on-the-fly |
-| 993 | 178 | 118 | 6 months ago | [yessql](https://github.com/sebastienros/yessql)/925 | A .NET document database working on any RDBMS |
-| 992 | 214 | 7 | 11 days ago | [dotnet-maui-workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop)/926 | A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows |
-| 992 | 142 | 4 | 1 year, 9 months ago | [Todos](https://github.com/davidfowl/Todos)/927 | Various todo list backend API implementations |
-| 991 | 380 | 381 | 8 months ago | [TLSharp](https://github.com/sochix/TLSharp)/928 | Telegram client library implemented in C# |
-| 990 | 317 | 461 | 11 days ago | [azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools)/929 | Command line tools for Azure Functions |
-| 990 | 142 | 3 | 6 months ago | [Unity-Programming-Patterns](https://github.com/Habrador/Unity-Programming-Patterns)/930 | A collection of programming patterns in Unity with examples when to use them. These are primarily from the book "Game Programming Patterns," but translated from C++ to C# |
-| 989 | 257 | 246 | 12 hours ago | [microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet)/931 | Microsoft Authentication Library (MSAL) for .NET |
-| 988 | 170 | 6 | 11 months ago | [Slime-Simulation](https://github.com/SebLague/Slime-Simulation)/932 | None |
-| 988 | 135 | 3 | 3 years ago | [Pix2Pix](https://github.com/keijiro/Pix2Pix)/933 | Real-time pix2pix implementation with Unity |
-| 987 | 157 | 116 | a day ago | [CSGO-Demos-Manager](https://github.com/akiver/CSGO-Demos-Manager)/934 | None |
-| 987 | 205 | 0 | 6 days ago | [Disruptor-net](https://github.com/disruptor-net/Disruptor-net)/935 | Port of LMAX Disruptor to .NET |
-| 986 | 488 | 42 | 3 months ago | [iSpy](https://github.com/ispysoftware/iSpy)/936 | Open source surveillance software |
-| 984 | 156 | 8 | 1 year, 5 months ago | [High-Speed-Priority-Queue-for-C-Sharp](https://github.com/BlueRaja/High-Speed-Priority-Queue-for-C-Sharp)/937 | A C# priority queue optimized for pathfinding applications |
-| 983 | 145 | 16 | 2 years ago | [CommonMark.NET](https://github.com/Knagis/CommonMark.NET)/938 | Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability. |
-| 983 | 105 | 3 | 9 days ago | [Snaffler](https://github.com/SnaffCon/Snaffler)/939 | a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax ) |
-| 982 | 112 | 10 | 7 months ago | [MappingGenerator](https://github.com/cezarypiatek/MappingGenerator)/940 | :arrows_counterclockwise: "AutoMapper" like, Roslyn based, code fix provider that allows to generate mapping code in design time. |
-| 981 | 286 | 16 | a month ago | [GeneticSharp](https://github.com/giacomelli/GeneticSharp)/941 | GeneticSharp is a fast, extensible, multi-platform and multithreading C# Genetic Algorithm library that simplifies the development of applications using Genetic Algorithms (GAs). |
-| 980 | 232 | 15 | 1 year, 4 months ago | [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods)/942 | C# Extension Methods | Over 1000 extension methods: |
-| 980 | 74 | 59 | 11 months ago | [pose](https://github.com/tonerdo/pose)/943 | Replace any .NET method (including static and non-virtual) with a delegate |
-| 980 | 198 | 7 | 9 months ago | [OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp)/944 | Collection of Offensive C# Tooling |
-| 979 | 345 | 0 | 3 days ago | [IPBan](https://github.com/DigitalRuby/IPBan)/945 | For over 11 years, IPBan is the worlds most trusted security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓ |
-| 979 | 148 | 72 | 11 days ago | [Nerdbank.GitVersioning](https://github.com/dotnet/Nerdbank.GitVersioning)/946 | Stamp your assemblies, packages and more with a unique version generated from a single, simple version.json file and include git commit IDs for non-official builds. |
-| 977 | 204 | 12 | 3 days ago | [AgileConfig](https://github.com/dotnetcore/AgileConfig)/947 | 基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server |
-| 976 | 154 | 19 | 4 years ago | [InkPainter](https://github.com/EsProgram/InkPainter)/948 | Texture-Paint on Unity. |
-| 976 | 295 | 11 | 1 year, 4 months ago | [essential-ui-kit-for-xamarin.forms](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms)/949 | Free and beautiful XAML template pages for Xamarin.Forms apps. |
-| 974 | 168 | 10 | 13 days ago | [CSharp.lua](https://github.com/yanghuan/CSharp.lua)/950 | The C# to Lua compiler |
-| 973 | 170 | 2 | 1 year, 11 months ago | [Unite2017](https://github.com/roboryantron/Unite2017)/951 | Sample project for Game Architecture with Scriptable Objects from Unite Austin 2017 |
-| 973 | 241 | 17 | 2 years ago | [CharacterController2D](https://github.com/prime31/CharacterController2D)/952 | None |
-| 973 | 186 | 89 | 7 days ago | [dotnet-apiport](https://github.com/microsoft/dotnet-apiport)/953 | This repo contains .NET Portability Analyzer (VSIX and Console) libraries and tools |
-| 972 | 415 | 45 | 2 years ago | [CSharp-From-Zero-To-Hero](https://github.com/csinn/CSharp-From-Zero-To-Hero)/954 | C# boot camp |
-| 972 | 115 | 43 | 4 months ago | [CsprojToVs2017](https://github.com/hvanbakel/CsprojToVs2017)/955 | Tooling for converting pre 2017 project to the new Visual Studio 2017 format. |
-| 972 | 137 | 17 | 7 months ago | [RestClient](https://github.com/proyecto26/RestClient)/956 | 🦄  A Promise based REST and HTTP client for Unity 🎮 |
-| 970 | 462 | 23 | 6 days ago | [HslCommunication](https://github.com/dathlin/HslCommunication)/957 | A very popular industrial Internet of Things communication plug-in. Using this dll can be very convenient, stable, and fast to obtain data from PLC equipment of multiple brands, and also supports redis, mqtt, websocket, etc., which can let your data on the network Free transmission, reducing enterprise development costs. |
-| 968 | 79 | 11 | 4 days ago | [fast-blazor](https://github.com/microsoft/fast-blazor)/958 | Blazor component library for FluentUI. Microsoft's official lightweight wrapper around the FluentUI Web Components for use with .NET 6.0 Blazor applications |
-| 967 | 253 | 13 | 10 years ago | [dnscrypt-win-client](https://github.com/opendns/dnscrypt-win-client)/959 | Windows front end for DNSCrypt Proxy |
-| 966 | 185 | 19 | 7 months ago | [C5](https://github.com/sestoft/C5)/960 | C5 generic collection library for C#/.NET |
-| 964 | 171 | 21 | a month ago | [serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)/961 | Serilog integration for ASP.NET Core |
-| 963 | 130 | 51 | 27 days ago | [try-convert](https://github.com/dotnet/try-convert)/962 | Helping .NET developers port their projects to .NET Core! |
-| 963 | 184 | 71 | 1 year, 4 days ago | [Snip](https://github.com/dlrudie/Snip)/963 | Snip will get the artist, track, and album information from Spotify and iTunes, and save the information to a text file. |
-| 963 | 75 | 70 | 9 days ago | [workspacer](https://github.com/workspacer/workspacer)/964 | a tiling window manager for Windows |
-| 962 | 584 | 21 | 13 days ago | [sendgrid-csharp](https://github.com/sendgrid/sendgrid-csharp)/965 | The Official Twilio SendGrid C#, .NetStandard, .NetCore API Library |
-| 961 | 40 | 3 | 1 year, 12 days ago | [C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework)/966 | A GUI framework for C# console applications |
-| 959 | 1496 | 43 | 4 months ago | [akka-bootcamp](https://github.com/petabridge/akka-bootcamp)/967 | Self-paced training course to learn Akka.NET fundamentals from scratch |
-| 959 | 151 | 3 | 3 years ago | [unity-design-patterns](https://github.com/Naphier/unity-design-patterns)/968 | Examples of programming design patterns in Unity C# |
-| 956 | 225 | 5 | 3 months ago | [Ultimate-2D-Controller](https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller)/969 | A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc |
-| 955 | 266 | 294 | 6 years ago | [WebEssentials2013](https://github.com/madskristensen/WebEssentials2013)/970 | Visual Studio extension |
-| 953 | 136 | 28 | 3 years ago | [HostsFileEditor](https://github.com/scottlerch/HostsFileEditor)/971 | Easily edit and manage the hosts file for Windows |
-| 952 | 93 | 65 | 1 year, 7 months ago | [Axiom](https://github.com/MattMcManis/Axiom)/972 | An FFmpeg GUI for Windows |
-| 952 | 177 | 4 | 2 years ago | [BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost)/973 | 这是一个抓取浏览器密码的工具，后续会添加更多功能 |
-| 950 | 188 | 5 | a month ago | [CoreWF](https://github.com/UiPath/CoreWF)/974 | WF runtime ported to work on .NET 6 |
-| 949 | 126 | 33 | 7 months ago | [WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi)/975 | WOA Deployer for Raspberry Pi |
-| 949 | 76 | 0 | 22 days ago | [ProjectPSX](https://github.com/BluestormDNA/ProjectPSX)/976 | Experimental C# Playstation Emulator |
-| 948 | 98 | 7 | 4 months ago | [unity-toolbar-extender](https://github.com/marijnz/unity-toolbar-extender)/977 | Extend the Unity Toolbar with your own Editor UI code. |
-| 948 | 236 | 63 | 7 days ago | [Imgbot](https://github.com/imgbot/Imgbot)/978 | An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once it's done, ImgBot will open a pull request for you to review and merge. help@imgbot.net |
-| 947 | 200 | 1 | 8 months ago | [Sharp-Suite](https://github.com/FuzzySecurity/Sharp-Suite)/979 | Also known by Microsoft as Knifecoat :hot_pepper: |
-| 946 | 259 | 18 | 5 years ago | [EasyHttp](https://github.com/EasyHttp/EasyHttp)/980 | Http Library for C# |
-| 944 | 213 | 4 | 4 years ago | [SafetyKatz](https://github.com/GhostPack/SafetyKatz)/981 | SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subtee's .NET PE Loader |
-| 944 | 225 | 121 | 10 days ago | [ExcelDna](https://github.com/Excel-DNA/ExcelDna)/982 | Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library. |
-| 943 | 55 | 1 | 3 months ago | [scalar](https://github.com/microsoft/scalar)/983 | Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer |
-| 941 | 202 | 40 | 6 months ago | [ffmediaelement](https://github.com/unosquare/ffmediaelement)/984 | FFME: The Advanced WPF MediaElement (based on FFmpeg) |
-| 940 | 686 | 782 | 1 year, 7 months ago | [PnP-PowerShell](https://github.com/pnp/PnP-PowerShell)/985 | SharePoint PnP PowerShell CmdLets |
-| 939 | 128 | 27 | 3 months ago | [AvaloniaILSpy](https://github.com/icsharpcode/AvaloniaILSpy)/986 | Avalonia-based .NET Decompiler (port of ILSpy) |
-| 934 | 174 | 8 | 2 years ago | [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen)/987 | Next gen iteration of the unity community ocean shader |
-| 934 | 134 | 29 | 3 years ago | [Netjs](https://github.com/praeclarum/Netjs)/988 | Compile .NET assemblies to TypeScript and JavaScript |
-| 933 | 89 | 8 | 4 days ago | [APK-Installer](https://github.com/Paving-Base/APK-Installer)/989 | An Android Application Installer for Windows |
-| 932 | 238 | 22 | 11 days ago | [sharppcap](https://github.com/dotpcap/sharppcap)/990 | Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets |
-| 931 | 218 | 89 | 3 years ago | [Mobius](https://github.com/microsoft/Mobius)/991 | C# and F# language binding and extensions to Apache Spark |
-| 931 | 81 | 37 | 4 months ago | [UWPHook](https://github.com/BrianLima/UWPHook)/992 | 🔗 Add your Windows Store or UWP games to Steam |
-| 931 | 217 | 217 | 9 months ago | [tweetinvi](https://github.com/linvi/tweetinvi)/993 | Tweetinvi, an intuitive Twitter C# library for the REST and Stream API. It supports .NET, .NETCore, UAP (Xamarin)... |
-| 930 | 147 | 2 | 7 years ago | [Reaktion](https://github.com/keijiro/Reaktion)/994 | Audio reactive animation toolkit for Unity |
-| 930 | 134 | 46 | 9 months ago | [lessmsi](https://github.com/activescott/lessmsi)/995 | A tool to view and extract the contents of an Windows Installer (.msi) file. |
-| 928 | 158 | 0 | 2 years ago | [LibLog](https://github.com/damianh/LibLog)/996 | LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.  |
-| 928 | 200 | 18 | 3 months ago | [passcore](https://github.com/unosquare/passcore)/997 | A self-service password management tool for Active Directory |
-| 927 | 283 | 48 | 3 months ago | [dotliquid](https://github.com/dotliquid/dotliquid)/998 | .NET Port of Tobias Lütke's Liquid template language. |
-| 927 | 276 | 133 | 2 years ago | [msbuildtasks](https://github.com/loresoft/msbuildtasks)/999 | The MSBuild Community Tasks Project is an open source project for MSBuild tasks. |
-| 926 | 259 | 342 | 1 year, 5 months ago | [steamvr_unity_plugin](https://github.com/ValveSoftware/steamvr_unity_plugin)/1000 | SteamVR Unity Plugin - Documentation at: https://valvesoftware.github.io/steamvr_unity_plugin/ |
+| 95611 | 5615 | 5161 | 23 hours ago | [PowerToys](https://github.com/microsoft/PowerToys)/1 | Windows system utilities to maximize productivity |
+| 56992 | 16715 | 157 | 2 years ago | [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)/2 | A C# port of shadowsocks |
+| 47362 | 8636 | 210 | 2 days ago | [v2rayN](https://github.com/2dust/v2rayN)/3 | A GUI client for Windows, support Xray core and v2fly core and others |
+| 32668 | 9377 | 2862 | 8 hours ago | [aspnetcore](https://github.com/dotnet/aspnetcore)/4 | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
+| 28856 | 1924 | 420 | 2 days ago | [Files](https://github.com/files-community/Files)/5 | Building the best file manager for Windows |
+| 25052 | 2286 | 796 | 23 hours ago | [jellyfin](https://github.com/jellyfin/jellyfin)/6 | The Free Software Media System |
+| 24836 | 2354 | 639 | 9 hours ago | [Ryujinx](https://github.com/Ryujinx/Ryujinx)/7 | Experimental Nintendo Switch Emulator written in C# |
+| 24377 | 10434 | 58 | 14 days ago | [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)/8 | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. |
+| 24071 | 4719 | 185 | 2 years ago | [dnSpy](https://github.com/dnSpy/dnSpy)/9 | .NET debugger and assembly editor |
+| 23184 | 2377 | 1041 | 10 months ago | [Wox](https://github.com/Wox-launcher/Wox)/10 | Launcher for Windows, an alternative to Alfred and Launchy. |
+| 21816 | 1206 | 4 | 2 months ago | [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)/11 | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics |
+| 21102 | 2059 | 233 | a month ago | [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)/12 | 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. |
+| 19697 | 1362 | 2652 | 5 hours ago | [maui](https://github.com/dotnet/maui)/13 | .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. |
+| 18448 | 2782 | 157 | 1 year, 1 month ago | [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)/14 | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software |
+| 17832 | 3942 | 8832 | 4 hours ago | [roslyn](https://github.com/dotnet/roslyn)/15 | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs. |
+| 16506 | 3642 | 442 | 12 days ago | [Dapper](https://github.com/DapperLib/Dapper)/16 | Dapper - a simple object mapper for .Net |
+| 15271 | 963 | 617 | a day ago | [SteamTools](https://github.com/BeyondDimension/SteamTools)/17 | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 |
+| 15058 | 1005 | 398 | a month ago | [QuickLook](https://github.com/QL-Win/QuickLook)/18 | Bring macOS “Quick Look” feature to Windows |
+| 14948 | 2483 | 11 | 7 months ago | [netch](https://github.com/netchx/netch)/19 | A simple proxy client |
+| 13400 | 2587 | 1527 | 6 days ago | [OpenRA](https://github.com/OpenRA/OpenRA)/20 | Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X. |
+| 13253 | 2958 | 7 | 3 days ago | [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)/21 | Clean Architecture Solution Template for ASP.NET Core |
+| 13248 | 1141 | 146 | 19 hours ago | [server](https://github.com/bitwarden/server)/22 | The core infrastructure backend (API, database, Docker, etc). |
+| 12798 | 3011 | 1938 | 15 hours ago | [efcore](https://github.com/dotnet/efcore)/23 | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. |
+| 12702 | 4161 | 8327 | 4 hours ago | [runtime](https://github.com/dotnet/runtime)/24 | .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. |
+| 12407 | 1988 | 236 | 3 months ago | [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)/25 | [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported. |
+| 12315 | 1703 | 22 | 7 months ago | [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)/26 | CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！ |
+| 12237 | 951 | 288 | 2 months ago | [lively](https://github.com/rocksdanister/lively)/27 | Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. |
+| 11926 | 25559 | 466 | 10 hours ago | [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs)/28 | Documentation for ASP.NET Core |
+| 10834 | 2423 | 8 | 5 days ago | [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference)/29 | Unity C# reference source code. |
+| 10793 | 3171 | 462 | 6 hours ago | [abp](https://github.com/abpframework/abp)/30 | Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms. Provides the fundamental infrastructure, production-ready startup templates, application modules, UI themes, tooling, guides and documentation. |
+| 10583 | 3830 | 2253 | 17 days ago | [mono](https://github.com/mono/mono)/31 | Mono open source ECMA CLI, C# and .NET implementation. |
+| 10290 | 1021 | 459 | 15 hours ago | [csharplang](https://github.com/dotnet/csharplang)/32 | The official repo for the design of the C# programming language |
+| 10225 | 3216 | 738 | 5 days ago | [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)/33 | Json.NET is a popular high-performance JSON framework for .NET |
+| 10222 | 1283 | 16 | 8 days ago | [basic-computer-games](https://github.com/coding-horror/basic-computer-games)/34 | An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/ |
+| 9797 | 1042 | 6 | 21 hours ago | [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm)/35 | C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. |
+| 9759 | 1124 | 196 | 12 hours ago | [Jackett](https://github.com/Jackett/Jackett)/36 | API Support for your favorite torrent trackers |
+| 9284 | 836 | 937 | 6 hours ago | [duplicati](https://github.com/duplicati/duplicati)/37 | Store securely encrypted backups in the cloud! |
+| 9112 | 3931 | 0 | 9 months ago | [IdentityServer4](https://github.com/IdentityServer/IdentityServer4)/38 | OpenID Connect and OAuth 2.0 Framework for ASP.NET Core |
+| 9107 | 1148 | 113 | 7 days ago | [Sonarr](https://github.com/Sonarr/Sonarr)/39 | Smart PVR for newsgroup and bittorrent users. |
+| 8991 | 754 | 212 | 1 year, 5 months ago | [Locale-Emulator](https://github.com/xupefei/Locale-Emulator)/40 | Yet Another System Region and Language Simulator |
+| 8906 | 1365 | 54 | 1 year, 1 month ago | [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)/41 | Full Modular Monolith application with Domain-Driven Design approach. |
+| 8884 | 2435 | 83 | a month ago | [MahApps.Metro](https://github.com/MahApps/MahApps.Metro)/42 | A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort. |
+| 8551 | 477 | 75 | 5 months ago | [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)/43 | 🖱️ 纯粹的Windows右键菜单管理程序 |
+| 8535 | 634 | 175 | 20 days ago | [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)/44 | Cross Platform Terminal UI toolkit for .NET |
+| 8519 | 1626 | 830 | a month ago | [Hangfire](https://github.com/HangfireIO/Hangfire)/45 | An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required |
+| 8450 | 4857 | 84 | 6 days ago | [nopCommerce](https://github.com/nopSolutions/nopCommerce)/46 | ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. |
+| 8384 | 1160 | 9 | 14 days ago | [FluentValidation](https://github.com/FluentValidation/FluentValidation)/47 | A popular .NET validation library for building strongly-typed validation rules. |
+| 8109 | 630 | 6 | 5 days ago | [optimizer](https://github.com/hellzerg/optimizer)/48 | The finest Windows Optimizer |
+| 7993 | 4336 | 199 | 12 days ago | [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)/49 | 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#. |
+| 7927 | 659 | 1466 | 3 hours ago | [uno](https://github.com/unoplatform/uno)/50 | Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported. |
+| 7896 | 2955 | 203 | 22 hours ago | [Lean](https://github.com/QuantConnect/Lean)/51 | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
+| 7876 | 445 | 313 | 26 days ago | [Notepads](https://github.com/0x7c13/Notepads)/52 | A modern, lightweight text editor with a minimalist design. |
+| 7863 | 1382 | 788 | 25 days ago | [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG)/53 | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. |
+| 7859 | 485 | 46 | 13 days ago | [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)/54 | EarTrumpet - Volume Control for Windows |
+| 7853 | 1171 | 50 | 2 days ago | [PDFPatcher](https://github.com/wmjordan/PDFPatcher)/55 | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 |
+| 7821 | 1591 | 561 | 23 hours ago | [Ocelot](https://github.com/ThreeMammals/Ocelot)/56 | dotnet 7.0 API Gateway |
+| 7768 | 1168 | 653 | a month ago | [LiteDB](https://github.com/mbdavid/LiteDB)/57 | LiteDB - A .NET NoSQL Document Store in a single data file |
+| 7649 | 1135 | 80 | 4 days ago | [ReactiveUI](https://github.com/reactiveui/ReactiveUI)/58 | An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application. |
+| 7617 | 448 | 61 | 7 days ago | [Bogus](https://github.com/bchavez/Bogus)/59 | :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js. |
+| 7581 | 2759 | 57 | 2 days ago | [ET](https://github.com/egametang/ET)/60 | Unity3D Client And C# Server Framework |
+| 7508 | 2744 | 121 | 2 years ago | [blockchain](https://github.com/dvf/blockchain)/61 | A simple Blockchain in Python |
+| 7504 | 703 | 167 | 2 days ago | [refit](https://github.com/reactiveui/refit)/62 | The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface. |
+| 7496 | 1385 | 83 | 9 months ago | [ailab](https://github.com/microsoft/ailab)/63 | Experience, Learn and Code the latest breakthrough innovations with Microsoft AI |
+| 7256 | 2271 | 136 | a month ago | [Quasar](https://github.com/quasar/Quasar)/64 | Remote Administration Tool for Windows |
+| 7173 | 1507 | 221 | 3 years ago | [Nancy](https://github.com/NancyFx/Nancy)/65 | Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono |
+| 7135 | 2072 | 665 | a day ago | [gitextensions](https://github.com/gitextensions/gitextensions)/66 | Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019). |
+| 6984 | 687 | 25 | 26 days ago | [AspNetCoreDiagnosticScenarios](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios)/67 | This repository has examples of broken patterns in ASP.NET Core applications |
+| 6947 | 603 | 92 | 1 year, 10 months ago | [Dependencies](https://github.com/lucasg/Dependencies)/68 | A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues. |
+| 6911 | 709 | 63 | 5 months ago | [Electron.NET](https://github.com/ElectronNET/Electron.NET)/69 | :electron: Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor). |
+| 6875 | 423 | 621 | 15 days ago | [Playnite](https://github.com/JosefNemec/Playnite)/70 | Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games. |
+| 6793 | 2224 | 1453 | 3 hours ago | [OrchardCore](https://github.com/OrchardCMS/OrchardCore)/71 | Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework. |
+| 6788 | 328 | 43 | 5 days ago | [EverythingToolbar](https://github.com/srwi/EverythingToolbar)/72 | Everything integration for the Windows taskbar. |
+| 6556 | 1085 | 94 | a month ago | [Entitas](https://github.com/sschmid/Entitas)/73 | Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity |
+| 6540 | 763 | 24 | 6 days ago | [serilog](https://github.com/serilog/serilog)/74 | Simple .NET logging with fully-structured events |
+| 6507 | 2625 | 9 | 3 years ago | [de4dot](https://github.com/de4dot/de4dot)/75 | .NET deobfuscator and unpacker. |
+| 6493 | 1101 | 1006 | 12 days ago | [wpf](https://github.com/dotnet/wpf)/76 | WPF is a .NET Core UI framework for building Windows desktop applications. |
+| 6381 | 1002 | 44 | 4 months ago | [clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet)/77 | :bathtub:  Clean Code concepts and tools adapted for .NET  |
+| 6174 | 1234 | 6 | 5 days ago | [CAP](https://github.com/dotnetcore/CAP)/78 | Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern |
+| 6167 | 712 | 136 | 11 days ago | [reactive](https://github.com/dotnet/reactive)/79 | The Reactive Extensions for .NET |
+| 6137 | 644 | 0 | 5 days ago | [UniTask](https://github.com/Cysharp/UniTask)/80 | Provides an efficient allocation free async/await integration for Unity. |
+| 6081 | 1155 | 1739 | a month ago | [NSwag](https://github.com/RicoSuter/NSwag)/81 | The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.  |
+| 6073 | 225 | 30 | 3 days ago | [Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)/82 | Automatically switches between the dark and light theme of Windows 10 and Windows 11 |
+| 6052 | 769 | 409 | 9 hours ago | [subtitleedit](https://github.com/SubtitleEdit/subtitleedit)/83 | the subtitle editor :) |
+| 5983 | 609 | 9 | 17 hours ago | [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)/84 | Exports Discord chat logs to a file |
+| 5888 | 2163 | 556 | a month ago | [MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity)/85 | This repository is for the legacy Mixed Reality Toolkit (MRTK) v2.  For the latest version of the MRTK please visit https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity |
+| 5886 | 1525 | 8 | 3 hours ago | [MassTransit](https://github.com/MassTransit/MassTransit)/86 | Distributed Application Framework for .NET |
+| 5883 | 1638 | 105 | 23 days ago | [quartznet](https://github.com/quartznet/quartznet)/87 | Quartz Enterprise Scheduler .NET |
+| 5856 | 453 | 68 | 8 months ago | [docker-lambda](https://github.com/lambci/docker-lambda)/88 | Docker images and test runners that replicate the live AWS Lambda environment |
+| 5852 | 476 | 298 | 7 months ago | [VFSForGit](https://github.com/microsoft/VFSForGit)/89 | Virtual File System for Git: Enable Git at Enterprise Scale |
+| 5790 | 429 | 236 | 23 hours ago | [ImageGlass](https://github.com/d2phap/ImageGlass)/90 | 🏞 A lightweight, versatile image viewer |
+| 5692 | 1038 | 752 | 3 months ago | [xdm](https://github.com/subhra74/xdm)/91 | Powerfull download accelerator and video downloader |
+| 5629 | 1478 | 154 | 16 days ago | [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)/92 | General purpose redis client |
+| 5625 | 1383 | 50 | 3 years ago | [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms)/93 | :books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C# |
+| 5618 | 1390 | 308 | 4 days ago | [WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit)/94 | The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation. |
+| 5590 | 388 | 10 | 5 months ago | [sharpkeys](https://github.com/randyrants/sharpkeys)/95 | SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key. |
+| 5409 | 1998 | 61 | 1 year, 2 months ago | [open-project-1](https://github.com/UnityTechnologies/open-project-1)/96 | Unity Open Project #1: Chop Chop |
+| 5402 | 787 | 38 | 13 days ago | [moq](https://github.com/devlooped/moq)/97 | The most popular and friendly mocking framework for .NET |
+| 5354 | 1209 | 1028 | 2 years ago | [openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)/98 | Open Hardware Monitor |
+| 5345 | 821 | 498 | 4 hours ago | [stride](https://github.com/stride3d/stride)/99 | Stride Game Engine (formerly Xenko) |
+| 5272 | 533 | 384 | 3 months ago | [tye](https://github.com/dotnet/tye)/100 | Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration. |
+| 4343 | 109 | 20 | 3 years ago | [electrino](https://github.com/pojala/electrino)/101 | Desktop runtime for apps built on web technologies, using the system's own web browser engine |
+| 4341 | 437 | 8 | 11 days ago | [Harmony](https://github.com/pardeike/Harmony)/102 | A library for patching, replacing and decorating .NET and Mono methods during runtime |
+| 4270 | 1022 | 292 | 5 months ago | [CsvHelper](https://github.com/JoshClose/CsvHelper)/103 | Library to help reading and writing CSV files |
+| 4153 | 409 | 68 | 3 months ago | [MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)/104 | 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具 |
+| 4068 | 450 | 3 | 8 hours ago | [Fody](https://github.com/Fody/Fody)/105 | Extensible tool for weaving .net assemblies |
+| 4043 | 1145 | 429 | 5 hours ago | [runner](https://github.com/actions/runner)/106 | The Runner for GitHub Actions :rocket: |
+| 4035 | 1301 | 175 | 8 years ago | [Psychson](https://github.com/brandonlw/Psychson)/107 | Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB) |
+| 3977 | 682 | 122 | 3 days ago | [pythonnet](https://github.com/pythonnet/pythonnet)/108 | Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers. |
+| 3937 | 424 | 117 | 1 year, 7 months ago | [NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes)/109 | Attribute Extensions for Unity |
+| 3875 | 280 | 30 | 9 days ago | [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop)/110 | Port of macOS Mojave Dynamic Desktop feature to Windows 10 |
+| 3857 | 379 | 1 | 2 months ago | [MathUtilities](https://github.com/zalo/MathUtilities)/111 | A collection of some of the neat math and physics tricks that I've collected over the last few years. |
+| 3857 | 298 | 144 | 4 days ago | [Mapster](https://github.com/MapsterMapper/Mapster)/112 | A fast, fun and stimulating object to object Mapper |
+| 3818 | 1478 | 56 | 1 year, 7 months ago | [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim)/113 | A self-driving car simulator built with Unity |
+| 3816 | 240 | 2 | 5 days ago | [CliWrap](https://github.com/Tyrrrz/CliWrap)/114 | Library for running command-line processes |
+| 3785 | 1308 | 218 | 3 hours ago | [MvvmCross](https://github.com/MvvmCross/MvvmCross)/115 | The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac. |
+| 3767 | 8072 | 13 | 7 months ago | [example-voting-app](https://github.com/dockersamples/example-voting-app)/116 | Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes |
+| 3751 | 676 | 313 | 5 days ago | [perfview](https://github.com/microsoft/perfview)/117 | PerfView is a CPU and memory performance-analysis tool |
+| 3740 | 420 | 6 | 6 months ago | [AICommand](https://github.com/keijiro/AICommand)/118 | ChatGPT integration with Unity Editor |
+| 3728 | 1005 | 9 | 5 days ago | [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)/119 | DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework |
+| 3727 | 658 | 44 | 5 months ago | [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga)/120 |  :cyclone: Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks |
+| 3711 | 1142 | 453 | 3 years ago | [EPPlus](https://github.com/JanKallman/EPPlus)/121 | Create advanced Excel spreadsheets using .NET |
+| 3710 | 1576 | 154 | 14 days ago | [Remotely](https://github.com/immense/Remotely)/122 | A remote control and remote scripting solution, built with .NET 7, Blazor, and SignalR. |
+| 3663 | 750 | 311 | 2 years ago | [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)/123 | Post Processing Stack |
+| 3653 | 1110 | 209 | a month ago | [SuperSocket](https://github.com/kerryjiang/SuperSocket)/124 | SuperSocket is a light weight, cross platform and extensible socket server application framework. |
+| 3632 | 778 | 123 | 5 years ago | [Emby](https://github.com/MediaBrowser/Emby)/125 | Emby Server is a personal media server with apps on just about every device. |
+| 3631 | 387 | 87 | 2 months ago | [NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016)/126 | Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit) |
+| 3622 | 462 | 324 | 6 months ago | [ink](https://github.com/inkle/ink)/127 | inkle's open source scripting language for writing interactive narrative. |
+| 3599 | 245 | 40 | 4 months ago | [ParrelSync](https://github.com/VeriorPies/ParrelSync)/128 | (Unity3D) Test multiplayer without building |
+| 3535 | 229 | 4 | 4 months ago | [ViVe](https://github.com/thebookisclosed/ViVe)/129 | C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer |
+| 3520 | 392 | 274 | 7 months ago | [VsVim](https://github.com/VsVim/VsVim)/130 | Vim Emulator Plugin for Visual Studio 2015+  |
+| 3502 | 526 | 195 | 5 months ago | [greenshot](https://github.com/greenshot/greenshot)/131 | Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on: |
+| 3454 | 480 | 173 | 20 days ago | [BepInEx](https://github.com/BepInEx/BepInEx)/132 | Unity / XNA game patcher and plugin framework |
+| 3441 | 709 | 26 | 3 days ago | [Rubeus](https://github.com/GhostPack/Rubeus)/133 | Trying to tame the three-headed dog. |
+| 3434 | 1020 | 158 | a day ago | [neo](https://github.com/neo-project/neo)/134 | NEO Smart Economy |
+| 3373 | 399 | 76 | 8 days ago | [Ombi](https://github.com/Ombi-app/Ombi)/135 | Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi! |
+| 3363 | 513 | 7 | a month ago | [ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI)/136 | Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas. |
+| 3318 | 1139 | 219 | 10 hours ago | [Vue.NetCore](https://github.com/cq-panda/Vue.NetCore)/137 | .NetCore+Vue2/Vue3+Element plus+uniapp前后端分离，全自动生成代码；支持移动端(uniapp)ios/android/h5/微信小程序。http://www.volcore.xyz/ |
+| 3308 | 962 | 728 | 6 months ago | [play-games-plugin-for-unity](https://github.com/playgameservices/play-games-plugin-for-unity)/138 | Google Play Games plugin for Unity |
+| 3299 | 1373 | 1048 | 1 year, 1 month ago | [WinAppDriver](https://github.com/microsoft/WinAppDriver)/139 | Windows Application Driver |
+| 3294 | 191 | 4 | a month ago | [Malware-Patch](https://github.com/the1812/Malware-Patch)/140 | 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware. |
+| 3283 | 282 | 192 | 7 days ago | [PSReadLine](https://github.com/PowerShell/PSReadLine)/141 | A bash inspired readline implementation for PowerShell |
+| 3237 | 877 | 278 | a month ago | [mathnet-numerics](https://github.com/mathnet/mathnet-numerics)/142 | Math.NET Numerics |
+| 3234 | 163 | 32 | 5 months ago | [privatezilla](https://github.com/builtbybel/privatezilla)/143 | 👀👮🐢🔥Performs a privacy & security check of Windows 10  |
+| 3217 | 399 | 11 | 2 months ago | [UnityLibrary](https://github.com/UnityCommunity/UnityLibrary)/144 | :books: Library of all kind of scripts, snippets & shaders for Unity |
+| 3162 | 362 | 494 | 3 days ago | [command-line-api](https://github.com/dotnet/command-line-api)/145 | Command line parsing, invocation, and rendering of terminal output. |
+| 3152 | 145 | 3 | 2 days ago | [SophiApp](https://github.com/Sophia-Community/SophiApp)/146 | :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11 |
+| 3144 | 165 | 0 | 12 days ago | [hashids.net](https://github.com/ullmark/hashids.net)/147 | A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user. |
+| 3123 | 605 | 11 | 2 months ago | [Seatbelt](https://github.com/GhostPack/Seatbelt)/148 | Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives. |
+| 3119 | 434 | 35 | 1 year, 3 months ago | [Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures)/149 | None |
+| 3088 | 1009 | 67 | 3 years ago | [Hawk](https://github.com/ferventdesert/Hawk)/150 | visualized crawler & ETL IDE written with C#/WPF |
+| 3086 | 731 | 106 | 11 days ago | [Discord.Net](https://github.com/discord-net/Discord.Net)/151 | An unofficial .Net wrapper for the Discord API (https://discord.com/) |
+| 3085 | 384 | 40 | 7 months ago | [Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim)/152 | None |
+| 3083 | 339 | 58 | 3 months ago | [AutoFixture](https://github.com/AutoFixture/AutoFixture)/153 | AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data. |
+| 3082 | 406 | 184 | 3 days ago | [Unigram](https://github.com/UnigramDev/Unigram)/154 | Telegram for Windows |
+| 3074 | 458 | 23 | 2 months ago | [SharpWxDump](https://github.com/AdminTest0/SharpWxDump)/155 | 微信客户端取证，可获取用户个人信息(昵称/账号/手机/邮箱/数据库密钥(用来解密聊天记录))；支持获取多用户信息，不定期更新新版本偏移，目前支持所有新版本、正式版本 |
+| 3073 | 664 | 680 | 10 days ago | [kudu](https://github.com/projectkudu/kudu)/156 | Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure. |
+| 3052 | 186 | 12 | a day ago | [LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)/157 | Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops. |
+| 3023 | 4909 | 66 | 5 days ago | [samples](https://github.com/dotnet/samples)/158 | Sample code referenced by the .NET documentation |
+| 3019 | 546 | 0 | 1 year, 10 months ago | [ScpToolkit](https://github.com/nefarius/ScpToolkit)/159 | Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers |
+| 3018 | 291 | 185 | 10 hours ago | [Power-Fx](https://github.com/microsoft/Power-Fx)/160 | Power Fx low-code programming language |
+| 2986 | 799 | 298 | 15 hours ago | [npgsql](https://github.com/npgsql/npgsql)/161 | Npgsql is the .NET data provider for PostgreSQL. |
+| 2985 | 1396 | 614 | 2 years ago | [DS4Windows](https://github.com/Jays2Kings/DS4Windows)/162 | Like those other ds4tools, but sexier |
+| 2981 | 468 | 30 | a month ago | [RulesEngine](https://github.com/microsoft/RulesEngine)/163 | A Json based Rules Engine with extensive Dynamic expression support |
+| 2977 | 109 | 9 | 3 years ago | [rant3](https://github.com/TheBerkin/rant3)/164 | (Obsolete) Archive of Rant 3.x. |
+| 2962 | 213 | 533 | 3 days ago | [Lidarr](https://github.com/Lidarr/Lidarr)/165 | Looks and smells like Sonarr but made for music. |
+| 2960 | 765 | 0 | 3 days ago | [Architecture](https://github.com/rafaelfgx/Architecture)/166 | .NET 7, Angular 16, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, Mediator Pattern, Result Pattern, Folder-by-Feature Structure, Separation of Concerns. |
+| 2944 | 496 | 343 | 21 days ago | [Blazorise](https://github.com/Megabit/Blazorise)/167 | Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma, AntDesign, and Material. |
+| 2933 | 482 | 171 | 2 days ago | [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET)/168 | .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#. |
+| 2930 | 429 | 162 | a month ago | [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit)/169 | ASP.NET Core rate limiting middleware |
+| 2915 | 523 | 78 | 2 months ago | [xNode](https://github.com/Siccity/xNode)/170 | Unity Node Editor: Lets you view and edit node graphs inside Unity |
+| 2899 | 858 | 247 | 1 year, 8 months ago | [SpaceEngineers](https://github.com/KeenSoftwareHouse/SpaceEngineers)/171 | None |
+| 2897 | 873 | 45 | 2 years ago | [tolua](https://github.com/topameng/tolua)/172 | The fastest unity lua binding solution |
+| 2874 | 1061 | 106 | 2 years ago | [NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents)/173 | High Level API Components for Runtime NavMesh Building |
+| 2861 | 656 | 77 | 6 months ago | [ILRuntime](https://github.com/Ourpalm/ILRuntime)/174 | Pure C# IL Intepreter Runtime, which is fast and reliable for scripting requirement on enviorments, where jitting isn't possible.  |
+| 2854 | 426 | 1 | 11 months ago | [TwitchLeecher](https://github.com/Franiac/TwitchLeecher)/175 | Twitch Leecher - The Broadcast Downloader |
+| 2837 | 526 | 260 | 2 years ago | [Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper)/176 | Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。 |
+| 2837 | 391 | 120 | 19 hours ago | [puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp)/177 | Headless Chrome .NET API |
+| 2827 | 650 | 82 | 2 years ago | [Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows)/178 | Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication. |
+| 2793 | 381 | 141 | 13 days ago | [coverlet](https://github.com/coverlet-coverage/coverlet)/179 | Cross platform code coverage for .NET |
+| 2786 | 136 | 34 | 19 days ago | [OneOf](https://github.com/mcintyre321/OneOf)/180 | Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching |
+| 2785 | 750 | 108 | 18 days ago | [netmq](https://github.com/zeromq/netmq)/181 | A 100% native C# implementation of ZeroMQ for .NET |
+| 2782 | 1019 | 655 | 1 year, 11 months ago | [monodevelop](https://github.com/mono/monodevelop)/182 | MonoDevelop is a cross platform .NET IDE |
+| 2781 | 166 | 14 | 3 days ago | [P](https://github.com/p-org/P)/183 | The P programming language. |
+| 2764 | 130 | 93 | a month ago | [Tai](https://github.com/Planshit/Tai)/184 | 👻 在Windows上统计软件使用时长和网站浏览时长 |
+| 2708 | 603 | 84 | 2 days ago | [radzen-blazor](https://github.com/radzenhq/radzen-blazor)/185 | Radzen Blazor is a set of 70+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI. |
+| 2704 | 574 | 6 | 15 days ago | [NanUI](https://github.com/XuanchenLin/NanUI)/186 | NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript. |
+| 2702 | 217 | 45 | 6 months ago | [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector)/187 | None |
+| 2699 | 804 | 149 | 3 years ago | [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin)/188 | Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles. |
+| 2671 | 520 | 122 | 5 days ago | [Cosmos](https://github.com/CosmosOS/Cosmos)/189 | Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more! |
+| 2645 | 537 | 0 | 4 years ago | [KestrelHttpServer](https://github.com/aspnet/KestrelHttpServer)/190 | [Archived] A cross platform web server for ASP.NET Core. Project moved to https://github.com/aspnet/AspNetCore |
+| 2626 | 465 | 9 | 21 hours ago | [DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)/191 | 🐱‍🚀【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步👊【让现在的自己不再迷茫✨，如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖】。 |
+| 2624 | 659 | 449 | 14 hours ago | [opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet)/192 | The OpenTelemetry .NET Client |
+| 2618 | 475 | 97 | 3 years ago | [nbfc](https://github.com/hirschmann/nbfc)/193 | NoteBook FanControl |
+| 2598 | 1480 | 50 | 6 months ago | [SmartStoreNET](https://github.com/smartstore/SmartStoreNET)/194 | Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution |
+| 2588 | 407 | 48 | 3 years ago | [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler)/195 | Automated job scheduler with fluent interface for the .NET platform. |
+| 2585 | 728 | 23 | 14 days ago | [osharp](https://github.com/dotnetcore/osharp)/196 | OSharp是一个基于.NetCore的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。 |
+| 2573 | 418 | 671 | 2 years ago | [UtinyRipper](https://github.com/mafaca/UtinyRipper)/197 | GUI and API library to work with Engine assets, serialized and bundle files |
+| 2548 | 323 | 36 | 25 days ago | [nodatime](https://github.com/nodatime/nodatime)/198 | A better date and time API for .NET |
+| 2535 | 286 | 75 | 11 months ago | [smtp4dev](https://github.com/rnwood/smtp4dev)/199 | smtp4dev - the fake smtp email server for development and testing |
+| 2534 | 349 | 424 | 16 hours ago | [interactive](https://github.com/dotnet/interactive)/200 | .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before. |
+| 2060 | 201 | 50 | 6 days ago | [playwright-dotnet](https://github.com/microsoft/playwright-dotnet)/201 | .NET version of the Playwright testing and automation library. |
+| 2055 | 407 | 27 | 8 months ago | [gong-wpf-dragdrop](https://github.com/punker76/gong-wpf-dragdrop)/202 | The GongSolutions.WPF.DragDrop library is a drag'n'drop framework for WPF |
+| 2043 | 335 | 45 | 8 days ago | [roslynpad](https://github.com/roslynpad/roslynpad)/203 | A cross-platform C# editor based on Roslyn and AvalonEdit |
+| 2041 | 638 | 9 | 10 months ago | [wix3](https://github.com/wixtoolset/wix3)/204 | WiX Toolset v3.x |
+| 2037 | 336 | 70 | a day ago | [nuke](https://github.com/nuke-build/nuke)/205 | 🏗 The AKEless Build System for C#/.NET |
+| 2035 | 451 | 11 | a month ago | [jwt](https://github.com/jwt-dotnet/jwt)/206 | Jwt.Net, a JWT (JSON Web Token) implementation for .NET |
+| 2030 | 298 | 99 | 19 days ago | [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions)/207 | Functional extensions for C# |
+| 2029 | 457 | 85 | 2 years ago | [cscore](https://github.com/filoe/cscore)/208 | An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited.  |
+| 2025 | 787 | 91 | 4 years ago | [IdentityServer3](https://github.com/IdentityServer/IdentityServer3)/209 | OpenID Connect Provider and OAuth 2.0 Authorization Server Framework for ASP.NET 4.x/Katana |
+| 2017 | 408 | 41 | 4 years ago | [V2RayW](https://github.com/Cenmrev/V2RayW)/210 | GUI for v2ray-core on Windows |
+| 1998 | 596 | 104 | 6 days ago | [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)/211 | Official PetaPoco, A tiny ORM-ish thing for your POCO's |
+| 1981 | 177 | 61 | 2 months ago | [Pixeval](https://github.com/Pixeval/Pixeval)/212 | Wow. Yet another Pixiv client! |
+| 1978 | 237 | 184 | 7 days ago | [MiniExcel](https://github.com/mini-software/MiniExcel)/213 | Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet |
+| 1977 | 52 | 24 | 5 months ago | [Cocona](https://github.com/mayuki/Cocona)/214 | Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET. |
+| 1963 | 488 | 32 | 3 years ago | [UniversalAdbDriver](https://github.com/koush/UniversalAdbDriver)/215 | One size fits all Windows Drivers for Android Debug Bridge. |
+| 1963 | 411 | 14 | a month ago | [Node_Editor_Framework](https://github.com/Seneral/Node_Editor_Framework)/216 | A flexible and modular Node Editor Framework for creating node based displays and editors in Unity |
+| 1958 | 256 | 45 | 2 years ago | [UIWidgets](https://github.com/UnityTech/UIWidgets)/217 | UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps. |
+| 1950 | 436 | 8 | 21 days ago | [WebApiClient](https://github.com/dotnetcore/WebApiClient)/218 | An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously. |
+| 1950 | 313 | 195 | 7 months ago | [spark](https://github.com/dotnet/spark)/219 | .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers. |
+| 1933 | 115 | 55 | a day ago | [Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)/220 | 唷，找本堂主有何贵干呀？ |
+| 1928 | 552 | 56 | 5 days ago | [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client)/221 | RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+ |
+| 1926 | 536 | 30 | 4 years ago | [LuaFramework_UGUI](https://github.com/jarjin/LuaFramework_UGUI)/222 | 请移步新版地址https://github.com/jarjin/LuaFramework_UGUI_V2 支持安卓ARM64【已停止更新】 |
+| 1907 | 579 | 14 | 3 days ago | [dnlib](https://github.com/0xd4d/dnlib)/223 | Reads and writes .NET assemblies and modules |
+| 1904 | 473 | 493 | 15 hours ago | [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi)/224 | Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac. |
+| 1883 | 99 | 11 | 9 months ago | [zerosharp](https://github.com/MichalStrehovsky/zerosharp)/225 | Demo of the potential of C# for systems programming with the .NET native ahead-of-time compilation technology. |
+| 1876 | 223 | 61 | 1 year, 2 days ago | [SpleeterGui](https://github.com/boy1dr/SpleeterGui)/226 | Windows desktop front end for Spleeter - AI source separation |
+| 1870 | 703 | 106 | a day ago | [git-tfs](https://github.com/git-tfs/git-tfs)/227 | A Git/TFS bridge, similar to git-svn |
+| 1868 | 423 | 1392 | 3 days ago | [azure-functions-host](https://github.com/Azure/azure-functions-host)/228 | The host/runtime that powers Azure Functions |
+| 1868 | 420 | 99 | 2 years ago | [NPOI](https://github.com/dotnetcore/NPOI)/229 | A .NET library for reading and writing Microsoft Office binary and OOXML file formats. |
+| 1864 | 154 | 78 | a month ago | [SmartEnum](https://github.com/ardalis/SmartEnum)/230 | A base class for quickly and easily creating strongly typed enum replacements in C#. |
+| 1860 | 364 | 610 | 9 hours ago | [BizHawk](https://github.com/TASEmulators/BizHawk)/231 | BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.   |
+| 1859 | 579 | 134 | 8 months ago | [titanium-web-proxy](https://github.com/justcoding121/titanium-web-proxy)/232 | A cross-platform asynchronous HTTP(S) proxy server in C#. |
+| 1835 | 158 | 12 | 4 days ago | [Carter](https://github.com/CarterCommunity/Carter)/233 | Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable. |
+| 1833 | 554 | 240 | 3 days ago | [emgucv](https://github.com/emgucv/emgucv)/234 | Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library. |
+| 1830 | 321 | 187 | 1 year, 1 day ago | [FlaUI](https://github.com/FlaUI/FlaUI)/235 | UI automation library for .Net |
+| 1824 | 225 | 98 | 2 months ago | [Jvedio](https://github.com/hitchao/Jvedio)/236 | Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件 |
+| 1820 | 323 | 327 | 6 months ago | [superputty](https://github.com/jimradford/superputty)/237 | The SuperPuTTY Window Manager for putty sessions |
+| 1816 | 206 | 234 | 21 hours ago | [GARbro](https://github.com/morkt/GARbro)/238 | Visual Novels resource browser |
+| 1812 | 352 | 452 | 2 months ago | [codemaid](https://github.com/codecadwallader/codemaid)/239 | CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding. |
+| 1812 | 183 | 0 | 8 months ago | [DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary)/240 | A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples. |
+| 1809 | 539 | 490 | 3 days ago | [xamarin-android](https://github.com/xamarin/xamarin-android)/241 | Xamarin.Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C# |
+| 1801 | 191 | 9 | 6 years ago | [temporal](https://github.com/playdeadgames/temporal)/242 | Temporal Reprojection Anti-Aliasing for Unity 5.0+ |
+| 1799 | 287 | 88 | 4 years ago | [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser)/243 | A native file browser for unity standalone platforms |
+| 1796 | 391 | 98 | 4 months ago | [nodejstools](https://github.com/microsoft/nodejstools)/244 | Node.js Tools for Visual Studio |
+| 1792 | 365 | 19 | a month ago | [blazorboilerplate](https://github.com/enkodellc/blazorboilerplate)/245 | Blazor Boilerplate / Starter Template with MudBlazor  |
+| 1792 | 121 | 0 | 6 days ago | [XboxDownload](https://github.com/skydevil88/XboxDownload)/246 | Xbox下载助手，支持Xbox、微软商店、PS、NS、EA Desktop & Origin、战网国际服、Epic、Riot Games下载加速，修复Steam商店社区访问。 |
+| 1782 | 520 | 15 | 15 days ago | [aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app)/247 | ASP.NET Core backend implementation for RealWorld |
+| 1778 | 438 | 25 | 12 days ago | [Miku-LuaProfiler](https://github.com/leinlin/Miku-LuaProfiler)/248 | None |
+| 1776 | 242 | 27 | 2 days ago | [Foundatio](https://github.com/FoundatioFx/Foundatio)/249 | Pluggable foundation blocks for building distributed apps. |
+| 1767 | 598 | 184 | 2 years ago | [Bonobo-Git-Server](https://github.com/jakubgarfield/Bonobo-Git-Server)/250 | Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. Go to homepage for release and more info. |
+| 1765 | 232 | 24 | 16 days ago | [HackBGRT](https://github.com/Metabolix/HackBGRT)/251 | Windows boot logo changer for UEFI systems |
+| 1762 | 187 | 15 | 4 years ago | [Klak](https://github.com/keijiro/Klak)/252 | Creative coding library for Unity |
+| 1757 | 344 | 130 | 5 days ago | [CKAN](https://github.com/KSP-CKAN/CKAN)/253 | The Comprehensive Kerbal Archive Network |
+| 1743 | 1143 | 117 | a month ago | [Chess-Challenge](https://github.com/SebLague/Chess-Challenge)/254 | https://youtu.be/iScy18pVR58 |
+| 1739 | 250 | 3 | 8 days ago | [EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)/255 | Entity Framework Core Power Tools - reverse engineering, migrations and model visualization in Visual Studio & CLI |
+| 1728 | 156 | 56 | a day ago | [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro)/256 | 📱 Two-Factor Authentication (2FA) client for Android + Wear OS |
+| 1723 | 869 | 102 | 4 days ago | [UA-.NETStandard](https://github.com/OPCFoundation/UA-.NETStandard)/257 | OPC Unified Architecture .NET Standard |
+| 1696 | 297 | 23 | 6 days ago | [EasyCaching](https://github.com/dotnetcore/EasyCaching)/258 | :boom: EasyCaching is an open source caching library that contains basic usages and some advanced usages of caching which can help us to handle caching more easier! |
+| 1688 | 161 | 19 | 3 hours ago | [fluentui-blazor](https://github.com/microsoft/fluentui-blazor)/259 | Microsoft Fluent UI Blazor components library. For use with .NET 6.0 or higher Blazor applications |
+| 1687 | 365 | 376 | 8 days ago | [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer)/260 | Download ScriptAnalyzer from PowerShellGallery |
+| 1685 | 647 | 166 | 8 months ago | [Krypton](https://github.com/ComponentFactory/Krypton)/261 | Krypton WinForms components for .NET |
+| 1683 | 390 | 175 | 4 years ago | [winauth](https://github.com/winauth/winauth)/262 | Authenticator on Windows for Battle.net / Steam / Guild Wars 2 / Glyph / Runescape / SWTOR / Bitcoin and digital currency exchanges |
+| 1674 | 376 | 32 | 1 year, 7 months ago | [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)/263 | Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity. |
+| 1656 | 366 | 3 | a day ago | [SunnyUI](https://github.com/yhuse/SunnyUI)/264 | SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。 |
+| 1650 | 345 | 4 | 12 days ago | [MimeKit](https://github.com/jstedfast/MimeKit)/265 | A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools. |
+| 1645 | 695 | 130 | 8 days ago | [fluent-nhibernate](https://github.com/nhibernate/fluent-nhibernate)/266 | Fluent NHibernate! |
+| 1645 | 555 | 247 | 3 days ago | [wcf](https://github.com/dotnet/wcf)/267 | This repo contains the client-oriented WCF libraries that enable applications built on .NET Core to communicate with WCF services. |
+| 1638 | 223 | 7 | a month ago | [ezy-slice](https://github.com/DavidArayan/ezy-slice)/268 | An open source mesh slicer framework for Unity3D Game Engine. Written in C#. |
+| 1632 | 298 | 15 | 1 year, 1 month ago | [PanuonUI.Silver](https://github.com/Mochengvia/PanuonUI.Silver)/269 | Panuon.UI optimized version. A beautiful wpf ui library using templates & attached properties. |
+| 1628 | 430 | 7 | 2 years ago | [Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example)/270 | Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense.  |
+| 1624 | 390 | 57 | 2 years ago | [myrtille](https://github.com/cedrozor/myrtille)/271 | A native HTML4 / HTML5 Remote Desktop Protocol and SSH client |
+| 1624 | 221 | 186 | a month ago | [OutlookGoogleCalendarSync](https://github.com/phw198/OutlookGoogleCalendarSync)/272 | Sync your Outlook and Google calendars |
+| 1623 | 197 | 14 | 3 days ago | [GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator)/273 | Command Generator and Gacha Banner Editor |
+| 1617 | 731 | 146 | 2 years ago | [dockpanelsuite](https://github.com/dockpanelsuite/dockpanelsuite)/274 | DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms |
+| 1616 | 205 | 20 | 11 months ago | [MahApps.Metro.IconPacks](https://github.com/MahApps/MahApps.Metro.IconPacks)/275 | Awesome icon packs for WPF and UWP in one library |
+| 1605 | 308 | 24 | 4 months ago | [AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)/276 | AspectCore is an AOP-based cross platform framework for .NET Standard. |
+| 1601 | 238 | 195 | 3 months ago | [Statiq.Web](https://github.com/statiqdev/Statiq.Web)/277 | Statiq Web is a flexible static site generator written in .NET. |
+| 1598 | 486 | 292 | a month ago | [XamarinCommunityToolkit](https://github.com/xamarin/XamarinCommunityToolkit)/278 | The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms. |
+| 1597 | 460 | 17 | 1 year, 11 months ago | [excel2json](https://github.com/neil3d/excel2json)/279 | 把Excel表转换成json对象，并保存到一个文本文件中。 |
+| 1591 | 1952 | 24 | 6 months ago | [ios-samples](https://github.com/xamarin/ios-samples)/280 | Xamarin.iOS sample apps |
+| 1585 | 418 | 342 | 17 hours ago | [omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn)/281 | OmniSharp server (HTTP, STDIO) based on Roslyn workspaces |
+| 1582 | 117 | 53 | a month ago | [Comet](https://github.com/dotnet/Comet)/282 | Comet is an MVU UIToolkit written in C# |
+| 1582 | 118 | 0 | 5 days ago | [ZString](https://github.com/Cysharp/ZString)/283 | Zero Allocation StringBuilder for .NET and Unity. |
+| 1582 | 323 | 26 | 2 months ago | [SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet)/284 | The .NET/.NET Core instrument agent for Apache SkyWalking |
+| 1578 | 349 | 13 | 1 year, 7 months ago | [VisualEffectGraph-Samples](https://github.com/Unity-Technologies/VisualEffectGraph-Samples)/285 | Visual Effect Graph - Samples Project |
+| 1578 | 51 | 1 | 6 months ago | [PowerUp](https://github.com/badamczewski/PowerUp)/286 | ⚡ Decompilation Tools and High Productivity Utilities ⚡ |
+| 1575 | 468 | 7 | 3 months ago | [dotnet-maui-workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop)/287 | A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows |
+| 1568 | 79 | 22 | a day ago | [Starward](https://github.com/Scighost/Starward)/288 | Game Launcher for miHoYo  -  米家游戏启动器 |
+| 1564 | 1001 | 93 | 2 days ago | [Nitrox](https://github.com/SubnauticaNitrox/Nitrox)/289 | An open-source, multiplayer modification for the game Subnautica. |
+| 1562 | 178 | 15 | 4 days ago | [DynamicData](https://github.com/reactivemarbles/DynamicData)/290 | Reactive collections based on Rx.Net |
+| 1558 | 428 | 5 | 1 year, 10 months ago | [UnityGameFramework](https://github.com/EllanJiang/UnityGameFramework)/291 | This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality. |
+| 1545 | 567 | 9 | 2 months ago | [qqzeng-ip](https://github.com/zengzhan/qqzeng-ip)/292 | 最新IP地址数据库-多语言解析以及导入数据库脚本 |
+| 1540 | 134 | 43 | 2 years ago | [adonis-ui](https://github.com/benruehl/adonis-ui)/293 | Lightweight UI toolkit for WPF applications offering classic but enhanced windows visuals |
+| 1539 | 274 | 130 | 3 days ago | [ImGui.NET](https://github.com/ImGuiNET/ImGui.NET)/294 | An ImGui wrapper for .NET. |
+| 1535 | 492 | 22 | 2 months ago | [CDM](https://github.com/microsoft/CDM)/295 | The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc. |
+| 1533 | 91 | 4 | 10 months ago | [Enums.NET](https://github.com/TylerBrinkley/Enums.NET)/296 | Enums.NET is a high-performance type-safe .NET enum utility library |
+| 1532 | 223 | 14 | 4 hours ago | [BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)/297 | A set of enterprise-class UI components based on Bootstrap and Blazor |
+| 1528 | 178 | 5 | a day ago | [Vanara](https://github.com/dahall/Vanara)/298 | A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers. |
+| 1508 | 214 | 90 | 1 year, 7 months ago | [AvalonStudio](https://github.com/VitalElement/AvalonStudio)/299 | Cross platform IDE and Shell |
+| 1508 | 226 | 20 | 5 days ago | [infer](https://github.com/dotnet/infer)/300 | Infer.NET is a framework for running Bayesian inference in graphical models |
+| 1240 | 108 | 70 | 2 years ago | [Axiom](https://github.com/MattMcManis/Axiom)/301 | An FFmpeg GUI for Windows |
+| 1227 | 498 | 419 | 20 hours ago | [NJsonSchema](https://github.com/RicoSuter/NJsonSchema)/302 | JSON Schema reader, generator and validator for .NET |
+| 1222 | 230 | 6 | 3 years ago | [fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen)/303 | Fake Windows logon screen to steal passwords |
+| 1218 | 254 | 54 | 8 months ago | [LottieXamarin](https://github.com/Baseflow/LottieXamarin)/304 | Render After Effects animations natively on Android, iOS, MacOS and TvOS for Xamarin |
+| 1215 | 321 | 36 | 2 years ago | [UnitOfWork](https://github.com/Arch/UnitOfWork)/305 | A plugin for Microsoft.EntityFrameworkCore to support repository, unit of work patterns, multiple database with distributed transaction supported, and MySQL multiple databases/tables sharding supported. |
+| 1215 | 259 | 2 | 7 months ago | [UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)/306 | 提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain) |
+| 1214 | 133 | 45 | 3 months ago | [Trill](https://github.com/microsoft/Trill)/307 | Trill is a single-node query processor for temporal or streaming data. |
+| 1214 | 165 | 67 | 10 days ago | [Nerdbank.GitVersioning](https://github.com/dotnet/Nerdbank.GitVersioning)/308 | Stamp your assemblies, packages and more with a unique version generated from a single, simple version.json file and include git commit IDs for non-official builds. |
+| 1212 | 246 | 8 | 7 months ago | [OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp)/309 | Collection of Offensive C# Tooling |
+| 1210 | 280 | 19 | 4 years ago | [YaVipCore](https://github.com/AnyListen/YaVipCore)/310 | Net Core Music Interface |
+| 1208 | 88 | 48 | 24 days ago | [FluentDocker](https://github.com/mariotoffia/FluentDocker)/311 | Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI |
+| 1204 | 1147 | 80 | 4 days ago | [googleads-mobile-unity](https://github.com/googleads/googleads-mobile-unity)/312 | Official Unity Plugin for the Google Mobile Ads SDK |
+| 1204 | 379 | 48 | 1 year, 11 months ago | [Colder.Admin.AntdVue](https://github.com/Coldairarrow/Colder.Admin.AntdVue)/313 | Admin Fx Based On .NET 5 + Ant Design Vue |
+| 1191 | 48 | 46 | 2 days ago | [dlss-swapper](https://github.com/beeradmoore/dlss-swapper)/314 | None |
+| 1189 | 283 | 115 | a month ago | [AvalonDock](https://github.com/Dirkster99/AvalonDock)/315 | Our own development branch of the well known WPF document docking library |
+| 1184 | 92 | 115 | a year ago | [RaceControl](https://github.com/robvdpol/RaceControl)/316 | Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform. |
+| 1179 | 35 | 3 | 24 days ago | [EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys)/317 | Everything search plugin for PowerToys Run |
+| 1179 | 92 | 1 | 6 months ago | [AaxAudioConverter](https://github.com/audiamus/AaxAudioConverter)/318 | Convert Audible aax files to mp3 and m4a/m4b |
+| 1177 | 162 | 52 | 3 years ago | [ILMerge](https://github.com/dotnet/ILMerge)/319 | ILMerge is a static linker for .NET Assemblies. |
+| 1174 | 172 | 17 | 7 months ago | [Certify](https://github.com/GhostPack/Certify)/320 | Active Directory certificate abuse. |
+| 1174 | 139 | 270 | 1 year, 4 months ago | [resharper-unity](https://github.com/JetBrains/resharper-unity)/321 | Unity support for both ReSharper and Rider |
+| 1171 | 178 | 24 | 5 days ago | [WireMock.Net](https://github.com/WireMock-Net/WireMock.Net)/322 | WireMock.Net is a flexible product for stubbing and mocking web HTTP responses using advanced request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality. |
+| 1169 | 173 | 3 | 3 months ago | [GodPotato](https://github.com/BeichenDream/GodPotato)/323 | None |
+| 1169 | 376 | 623 | 20 hours ago | [azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools)/324 | Command line tools for Azure Functions |
+| 1163 | 190 | 32 | 4 months ago | [serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore)/325 | Serilog integration for ASP.NET Core |
+| 1161 | 183 | 15 | a month ago | [ChatGPT](https://github.com/wieslawsoltes/ChatGPT)/326 | A ChatGPT C# client for MacOS, Windows, Linux, Android, iOS and Browser. Powered by Avalonia UI framework. |
+| 1159 | 315 | 74 | 2 years ago | [mvvmlight](https://github.com/lbugnion/mvvmlight)/327 | The main purpose of the toolkit is to accelerate the creation and development of MVVM applications in Xamarin.Android, Xamarin.iOS, Xamarin.Forms, Windows 10 UWP, Windows Presentation Foundation (WPF), Silverlight, Windows Phone. |
+| 1158 | 246 | 47 | 4 years ago | [SQLite4Unity3d](https://github.com/robertohuertasm/SQLite4Unity3d)/328 | SQLite made easy for Unity3d |
+| 1155 | 318 | 5 | 7 months ago | [GeneticSharp](https://github.com/giacomelli/GeneticSharp)/329 | GeneticSharp is a fast, extensible, multi-platform and multithreading C# Genetic Algorithm library that simplifies the development of applications using Genetic Algorithms (GAs). |
+| 1152 | 361 | 160 | a month ago | [sipsorcery](https://github.com/sipsorcery-org/sipsorcery)/330 | A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps. |
+| 1151 | 164 | 0 | 6 years ago | [KvantSpray](https://github.com/keijiro/KvantSpray)/331 | Object instancing/particle animation system for Unity |
+| 1146 | 234 | 3 | 3 months ago | [SharPersist](https://github.com/mandiant/SharPersist)/332 | None |
+| 1133 | 117 | 44 | 8 hours ago | [FilterLists](https://github.com/collinbarrett/FilterLists)/333 | :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances. |
+| 1115 | 257 | 148 | a day ago | [ExcelDna](https://github.com/Excel-DNA/ExcelDna)/334 | Excel-DNA - Free and easy .NET for Excel. This repository contains the core Excel-DNA library. |
+| 1114 | 295 | 6 | 5 years ago | [DotNetToJScript](https://github.com/tyranid/DotNetToJScript)/335 | A tool to create a JScript file which loads a .NET v2 assembly from memory. |
+| 1113 | 291 | 144 | 9 months ago | [code-cracker](https://github.com/code-cracker/code-cracker)/336 | An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties. |
+| 1111 | 134 | 0 | 2 years ago | [ProxyKit](https://github.com/ProxyKit/ProxyKit)/337 | A toolkit to create code-first HTTP reverse proxies on ASP.NET Core |
+| 1111 | 71 | 54 | 1 year, 5 months ago | [SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar)/338 | A lightweight utility which can automatically switch the display state of the Windows Taskbar. |
+| 1103 | 50 | 143 | 2 months ago | [HASS.Agent](https://github.com/LAB02-Research/HASS.Agent)/339 | Windows-based client for Home Assistant. Provides notifications, quick actions, commands, sensors and more. |
+| 1099 | 245 | 4 | 5 years ago | [SafetyKatz](https://github.com/GhostPack/SafetyKatz)/340 | SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subtee's .NET PE Loader |
+| 1097 | 145 | 91 | 5 years ago | [MarkdownViewerPlusPlus](https://github.com/nea/MarkdownViewerPlusPlus)/341 | A Notepad++ Plugin to view a Markdown file rendered on-the-fly |
+| 1094 | 414 | 25 | 2 years ago | [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)/342 | Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper. |
+| 1093 | 274 | 15 | 2 months ago | [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods)/343 | C# Extension Methods | Over 1000 extension methods: |
+| 1088 | 1207 | 9 | 5 days ago | [abp-samples](https://github.com/abpframework/abp-samples)/344 | Sample solutions built with the ABP Framework |
+| 1087 | 75 | 1 | 11 months ago | [ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework)/345 | Micro-framework for console applications to building CLI tools/Daemon/Batch for .NET, C#. |
+| 1075 | 184 | 5 | a month ago | [TaskScheduler](https://github.com/dahall/TaskScheduler)/346 | Provides a .NET wrapper for the Windows Task Scheduler. It aggregates the multiple versions, provides an editor and allows for localization. |
+| 1070 | 43 | 1 | 20 hours ago | [PersistentWindows](https://github.com/kangyu-california/PersistentWindows)/347 | fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update |
+| 1067 | 224 | 12 | 2 years ago | [clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet)/348 | 🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻 |
+| 1045 | 89 | 0 | 8 days ago | [Svelto.ECS](https://github.com/sebas77/Svelto.ECS)/349 | Svelto ECS C# Entity Component System |
+| 1044 | 128 | 21 | a month ago | [Fluxor](https://github.com/mrpmorris/Fluxor)/350 | Fluxor is a zero boilerplate Flux/Redux library for Microsoft .NET and Blazor. |
+| 1036 | 24 | 26 | 2 months ago | [bebop](https://github.com/betwixt-labs/bebop)/351 | 🎷No ceremony, just code. Blazing fast, typesafe binary serialization. |
+| 1036 | 64 | 11 | 14 days ago | [throw](https://github.com/amantinband/throw)/352 | A simple, fluent, extensible, and fully customizable library for throwing exceptions for projects using .NET 6+ |
+| 1032 | 200 | 126 | 1 year, 5 months ago | [il-repack](https://github.com/gluck/il-repack)/353 | Open-source alternative to ILMerge |
+| 1031 | 257 | 1 | 1 year, 9 days ago | [TowerDefense-GameFramework-Demo](https://github.com/DrFlower/TowerDefense-GameFramework-Demo)/354 | 基于Unity开源框架GameFramewrk实现的一款塔防游戏Demo |
+| 1028 | 204 | 140 | 5 months ago | [glTFast](https://github.com/atteneder/glTFast)/355 | Efficient glTF 3D import / export package for Unity |
+| 1023 | 43 | 3 | a month ago | [C-sharp-console-gui-framework](https://github.com/TomaszRewak/C-sharp-console-gui-framework)/356 | A GUI framework for C# console applications |
+| 1023 | 246 | 28 | 3 years ago | [jieba.NET](https://github.com/anderscui/jieba.NET)/357 | jieba中文分词的.NET版本（支持.NET Framework与.NET Core） |
+| 1021 | 146 | 408 | 5 months ago | [upgrade-assistant](https://github.com/dotnet/upgrade-assistant)/358 | A tool to assist developers in upgrading .NET Framework applications to .NET 6 and beyond |
+| 1020 | 79 | 37 | 4 days ago | [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler)/359 | Fast Compiler for C# Expression Trees and more! |
+| 1019 | 118 | 10 | 1 year, 8 months ago | [MappingGenerator](https://github.com/cezarypiatek/MappingGenerator)/360 | :arrows_counterclockwise: "AutoMapper" like, Roslyn based, code fix provider that allows to generate mapping code in design time. |
+| 1014 | 68 | 20 | 4 months ago | [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)/361 | Screen-space outlines for Unity3d. |
+| 1010 | 119 | 11 | 22 hours ago | [sub_share](https://github.com/foxofice/sub_share)/362 | 字幕共享计划 |
+| 1003 | 207 | 24 | 1 year, 8 months ago | [C5](https://github.com/sestoft/C5)/363 | C5 generic collection library for C#/.NET |
+| 1003 | 535 | 8 | 1 year, 7 months ago | [FrequencyWords](https://github.com/hermitdave/FrequencyWords)/364 | Repository for Frequency Word List Generator and processed files |
+| 995 | 24 | 2 | 6 years ago | [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)/365 | GithubXamarin(GitIt) is a cross-platform application for https://github.com which is built using Xamarin. |
+| 994 | 152 | 12 | 5 months ago | [DreamScene2](https://github.com/he55/DreamScene2)/366 | 一个小而快并且功能强大的 Windows 动态桌面软件 |
+| 994 | 99 | 10 | 5 months ago | [RestEase](https://github.com/canton7/RestEase)/367 | Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit |
+| 989 | 143 | 61 | 1 year, 2 months ago | [BedrockFramework](https://github.com/davidfowl/BedrockFramework)/368 | High performance, low level networking APIs for building custom servers and clients. |
+| 986 | 190 | 44 | a month ago | [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser)/369 | Source browser website generator that powers http://referencesource.microsoft.com and http://sourceroslyn.io |
+| 986 | 161 | 8 | 6 months ago | [ASP.NET-Core-Template](https://github.com/NikolayIT/ASP.NET-Core-Template)/370 | A ready-to-use template for ASP.NET Core with repositories, services, models mapping, DI and StyleCop warnings fixed. |
+| 985 | 152 | 2 | 8 years ago | [Reaktion](https://github.com/keijiro/Reaktion)/371 | Audio reactive animation toolkit for Unity |
+| 985 | 389 | 3 | a day ago | [WebVella-ERP](https://github.com/WebVella/WebVella-ERP)/372 | Free and open-source pluggable ERP and CRM software based on ASP.NET Core 5, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.  |
+| 984 | 72 | 75 | a month ago | [FastScriptReload](https://github.com/handzlikchris/FastScriptReload)/373 | Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results |
+| 982 | 222 | 0 | 7 days ago | [CrazyCar](https://github.com/TastSong/CrazyCar)/374 | 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis；后台为Vue + Element；游戏端采用QFramework框架，支持KCP和WebSocket网络(商用级)  |
+| 979 | 56 | 61 | 1 year, 4 months ago | [OculusKiller](https://github.com/LibreQuest/OculusKiller)/375 | Completely kill the Oculus Dash and auto-launch SteamVR. |
+| 978 | 180 | 21 | 19 days ago | [oleviewdotnet](https://github.com/tyranid/oleviewdotnet)/376 | A .net OLE/COM viewer and inspector to merge functionality of OleView and Test Container |
+| 975 | 2354 | 97 | 5 days ago | [project-examples](https://github.com/jfrog/project-examples)/377 | Small projects in universal build ecosystems to configure CI and Artifactory |
+| 974 | 466 | 1 | 1 year, 28 days ago | [clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)/378 | A sample app for my online course "Clean Architecture: Patterns, Practices, and Principles" in .NET Framework 4.8  |
+| 971 | 158 | 32 | 3 years ago | [minsk](https://github.com/terrajobst/minsk)/379 | This repo contains Minsk, a handwritten compiler in C#. It illustrates basic concepts of compiler construction and how one can tool the language inside of an IDE by exposing APIs for parsing and type checking. |
+| 970 | 144 | 24 | 3 days ago | [bililive_dm](https://github.com/copyliu/bililive_dm)/380 | B站弹幕姬 - B站直播彈幕工具 |
+| 970 | 250 | 82 | 5 months ago | [globalmousekeyhook](https://github.com/gmamaladze/globalmousekeyhook)/381 | This library allows you to tap keyboard and mouse, detect and record their activity even when an application is inactive and runs in background. |
+| 963 | 99 | 19 | 6 months ago | [VFXToolbox](https://github.com/Unity-Technologies/VFXToolbox)/382 | Additional tools for Visual Effect Artists |
+| 963 | 252 | 13 | 11 years ago | [dnscrypt-win-client](https://github.com/opendns/dnscrypt-win-client)/383 | Windows front end for DNSCrypt Proxy |
+| 963 | 261 | 13 | 6 months ago | [SpaceshipDemo](https://github.com/Unity-Technologies/SpaceshipDemo)/384 | Spaceship Demo - AAA Playable First person demo showcasing effects made with Visual Effect Graph and rendered with High Definition Render Pipeline |
+| 962 | 123 | 19 | 1 year, 8 days ago | [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone)/385 | unity bone cloth spring system,base by jobs  |
+| 960 | 358 | 0 | 1 year, 29 days ago | [userdialogs](https://github.com/aritchie/userdialogs)/386 | A cross platform library that allows you to call for standard user dialogs from a core .net standard library,  Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun |
+| 953 | 109 | 13 | a day ago | [Mixture](https://github.com/alelievr/Mixture)/387 | Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime |
+| 947 | 620 | 79 | 9 days ago | [mir2](https://github.com/Suprcode/mir2)/388 | Legend of Mir 2 - Official Public Crystal Source |
+| 943 | 279 | 137 | 3 years ago | [msbuildtasks](https://github.com/loresoft/msbuildtasks)/389 | The MSBuild Community Tasks Project is an open source project for MSBuild tasks. |
+| 943 | 331 | 30 | 4 months ago | [CrystalQuartz](https://github.com/guryanovev/CrystalQuartz)/390 | pluggable UI for Quartz.NET |
+| 942 | 224 | 88 | 9 months ago | [Mobius](https://github.com/microsoft/Mobius)/391 | C# and F# language binding and extensions to Apache Spark |
+| 942 | 82 | 182 | 13 days ago | [XOutput](https://github.com/csutorasa/XOutput)/392 | DirectInput to XInput wrapper |
+| 941 | 43 | 29 | 2 years ago | [English-for-Programmers](https://github.com/EngTW/English-for-Programmers)/393 | 《程式英文》：用英文提昇程式可讀性 |
+| 939 | 120 | 18 | 4 months ago | [MDK-SE](https://github.com/malware-dev/MDK-SE)/394 | Malware's Development Kit for SE |
+| 939 | 239 | 98 | 4 years ago | [ScintillaNET](https://github.com/jacobslusser/ScintillaNET)/395 | A Windows Forms control, wrapper, and bindings for the Scintilla text editor. |
+| 939 | 276 | 9 | 4 days ago | [csharp](https://github.com/kubernetes-client/csharp)/396 | Officially supported dotnet Kubernetes Client library  |
+| 939 | 235 | 110 | 9 months ago | [ValheimPlus](https://github.com/valheimPlus/ValheimPlus)/397 | A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim. |
+| 937 | 178 | 0 | 14 days ago | [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects)/398 | What you have been waiting for :+1:  Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.  |
+| 934 | 153 | 12 | 24 days ago | [splat](https://github.com/reactiveui/splat)/399 | Makes things cross-platform |
+| 932 | 77 | 20 | 3 months ago | [Unity-UI-Rounded-Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners)/400 | This components and shaders allows you to add rounded corners to UI elements! |
+| 1094 | 414 | 25 | 2 years ago | [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)/401 | Who wants to write basic read/insert/update/delete statements? SimpleCRUD provides simple CRUD helpers for Dapper. |
+| 1093 | 274 | 15 | 2 months ago | [Z.ExtensionMethods](https://github.com/zzzprojects/Z.ExtensionMethods)/402 | C# Extension Methods | Over 1000 extension methods: |
+| 1085 | 208 | 31 | 3 years ago | [AssetGraph](https://github.com/Unity-Technologies/AssetGraph)/403 | Visual Workflow Automation Tool for Unity. |
+| 1082 | 142 | 49 | 1 year, 10 months ago | [lessmsi](https://github.com/activescott/lessmsi)/404 | A tool to view and extract the contents of an Windows Installer (.msi) file. |
+| 1080 | 124 | 16 | 7 months ago | [HDRP-Custom-Passes](https://github.com/alelievr/HDRP-Custom-Passes)/405 | A bunch of custom passes made for HDRP |
+| 1076 | 312 | 31 | 7 years ago | [saaskit](https://github.com/saaskit/saaskit)/406 | A developer toolkit for building SaaS applications |
+| 1070 | 43 | 1 | 20 hours ago | [PersistentWindows](https://github.com/kangyu-california/PersistentWindows)/407 | fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update |
+| 1068 | 699 | 203 | 2 years ago | [ZXing.Net.Mobile](https://github.com/Redth/ZXing.Net.Mobile)/408 | Barcode Scanner for Xamarin.iOS, Xamarin.Android, UWP and Tizen |
+| 1067 | 224 | 12 | 2 years ago | [clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet)/409 | 🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻 |
+| 1066 | 226 | 5 | 5 days ago | [DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat)/410 | 可能是全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。 |
+| 1059 | 276 | 13 | 2 years ago | [SuperSQLInjectionV1](https://github.com/shack2/SuperSQLInjectionV1)/411 | 超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具,采用C#开发，直接操作TCP会话来进行HTTP交互，支持出现在HTTP协议任意位置的SQL注入，支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持Access/MySQL/SQLServer/Oracle/PostgreSQL/DB2/SQLite/Informix等数据库；支持手动灵活的进行SQL注入绕过，可自定义进行字符替换等绕过注入防护。本工具为渗透测试人员、信息安全工程师等掌握SQL注入技能的人员设计，需要使用人员对SQL注入有一定了解。  |
+| 1057 | 404 | 0 | 5 years ago | [unityassets](https://github.com/fholm/unityassets)/412 | Assorted unity assets and utilities |
+| 1052 | 115 | 63 | a month ago | [unity-atoms](https://github.com/unity-atoms/unity-atoms)/413 | ⚛️ Tiny modular pieces utilizing the power of Scriptable Objects |
+| 1050 | 78 | 65 | 2 years ago | [pose](https://github.com/tonerdo/pose)/414 | Replace any .NET method (including static and non-virtual) with a delegate |
+| 1047 | 266 | 6 | 1 year, 5 months ago | [CQRSlite](https://github.com/gautema/CQRSlite)/415 | A lightweight framework to help creating CQRS and Eventsourcing applications in C# |
+| 1045 | 89 | 0 | 8 days ago | [Svelto.ECS](https://github.com/sebas77/Svelto.ECS)/416 | Svelto ECS C# Entity Component System |
+| 1044 | 128 | 21 | a month ago | [Fluxor](https://github.com/mrpmorris/Fluxor)/417 | Fluxor is a zero boilerplate Flux/Redux library for Microsoft .NET and Blazor. |
+| 1043 | 138 | 3 | a month ago | [IdGen](https://github.com/RobThree/IdGen)/418 | Twitter Snowflake-alike ID generator for .Net |
+| 1036 | 64 | 11 | 14 days ago | [throw](https://github.com/amantinband/throw)/419 | A simple, fluent, extensible, and fully customizable library for throwing exceptions for projects using .NET 6+ |
+| 1032 | 200 | 126 | 1 year, 5 months ago | [il-repack](https://github.com/gluck/il-repack)/420 | Open-source alternative to ILMerge |
+| 1030 | 610 | 25 | 8 months ago | [sendgrid-csharp](https://github.com/sendgrid/sendgrid-csharp)/421 | The Official Twilio SendGrid C#, .NetStandard, .NetCore API Library |
+| 1020 | 79 | 37 | 4 days ago | [FastExpressionCompiler](https://github.com/dadhi/FastExpressionCompiler)/422 | Fast Compiler for C# Expression Trees and more! |
+| 1015 | 492 | 299 | 3 years ago | [White](https://github.com/TestStack/White)/423 | DEPRECATED - no longer actively maintained |
+| 1014 | 68 | 20 | 4 months ago | [UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline)/424 | Screen-space outlines for Unity3d. |
+| 1008 | 219 | 21 | 7 months ago | [passcore](https://github.com/unosquare/passcore)/425 | A self-service password management tool for Active Directory |
+| 1005 | 249 | 33 | 1 year, 1 month ago | [FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet)/426 | The world's simplest facial recognition api for .NET on Windows, MacOS and Linux |
+| 1004 | 171 | 4 | 4 years ago | [Ray-Marching](https://github.com/SebLague/Ray-Marching)/427 | None |
+| 1003 | 207 | 24 | 1 year, 8 months ago | [C5](https://github.com/sestoft/C5)/428 | C5 generic collection library for C#/.NET |
+| 1003 | 154 | 35 | 13 days ago | [sharding-core](https://github.com/dotnetcore/sharding-core)/429 | high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵 |
+| 995 | 220 | 32 | 5 days ago | [SmartSql](https://github.com/dotnetcore/SmartSql)/430 | SmartSql = MyBatis in C# + .NET Core+ Cache(Memory | Redis) + R/W Splitting + PropertyChangedTrack  +Dynamic Repository + InvokeSync + Diagnostics |
+| 994 | 152 | 12 | 5 months ago | [DreamScene2](https://github.com/he55/DreamScene2)/431 | 一个小而快并且功能强大的 Windows 动态桌面软件 |
+| 992 | 116 | 141 | 10 months ago | [cocoa](https://github.com/cocoa-mhlw/cocoa)/432 | None |
+| 991 | 253 | 44 | 21 hours ago | [clrmd](https://github.com/microsoft/clrmd)/433 | Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps. |
+| 990 | 145 | 15 | 3 years ago | [CommonMark.NET](https://github.com/Knagis/CommonMark.NET)/434 | Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability. |
+| 990 | 290 | 44 | 6 months ago | [dotliquid](https://github.com/dotliquid/dotliquid)/435 | .NET Port of Tobias Lütke's Liquid template language. |
+| 989 | 143 | 61 | 1 year, 2 months ago | [BedrockFramework](https://github.com/davidfowl/BedrockFramework)/436 | High performance, low level networking APIs for building custom servers and clients. |
+| 985 | 152 | 2 | 8 years ago | [Reaktion](https://github.com/keijiro/Reaktion)/437 | Audio reactive animation toolkit for Unity |
+| 983 | 180 | 10 | 9 months ago | [NPBehave](https://github.com/meniku/NPBehave)/438 | Event Driven Behavior Trees for Unity 3D |
+| 982 | 222 | 0 | 7 days ago | [CrazyCar](https://github.com/TastSong/CrazyCar)/439 | 网络联机游戏解决方案---Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis；后台为Vue + Element；游戏端采用QFramework框架，支持KCP和WebSocket网络(商用级)  |
+| 975 | 2354 | 97 | 5 days ago | [project-examples](https://github.com/jfrog/project-examples)/440 | Small projects in universal build ecosystems to configure CI and Artifactory |
+| 975 | 101 | 1 | 20 hours ago | [SmartFormat](https://github.com/axuno/SmartFormat)/441 | A lightweight text templating library written in C# which can be a drop-in replacement for string.Format |
+| 974 | 466 | 1 | 1 year, 28 days ago | [clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)/442 | A sample app for my online course "Clean Architecture: Patterns, Practices, and Principles" in .NET Framework 4.8  |
+| 972 | 100 | 27 | 7 months ago | [SplineMesh](https://github.com/methusalah/SplineMesh)/443 | A Unity plugin to create curved content in real-time with bézier curves |
+| 970 | 250 | 82 | 5 months ago | [globalmousekeyhook](https://github.com/gmamaladze/globalmousekeyhook)/444 | This library allows you to tap keyboard and mouse, detect and record their activity even when an application is inactive and runs in background. |
+| 969 | 194 | 10 | 2 years ago | [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS)/445 | ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming |
+| 967 | 208 | 1 | 2 years ago | [Tokenvator](https://github.com/0xbadjuju/Tokenvator)/446 | A tool to elevate privilege with Windows Tokens |
+| 963 | 99 | 19 | 6 months ago | [VFXToolbox](https://github.com/Unity-Technologies/VFXToolbox)/447 | Additional tools for Visual Effect Artists |
+| 963 | 741 | 182 | 8 hours ago | [Dnn.Platform](https://github.com/dnnsoftware/Dnn.Platform)/448 | DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem. |
+| 954 | 80 | 34 | 21 hours ago | [ookii-dialogs-wpf](https://github.com/ookii-dialogs/ookii-dialogs-wpf)/449 | Awesome dialogs for Windows Desktop applications built with Microsoft .NET (WPF) |
+| 953 | 109 | 13 | a day ago | [Mixture](https://github.com/alelievr/Mixture)/450 | Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime |
+| 947 | 620 | 79 | 9 days ago | [mir2](https://github.com/Suprcode/mir2)/451 | Legend of Mir 2 - Official Public Crystal Source |
+| 943 | 279 | 137 | 3 years ago | [msbuildtasks](https://github.com/loresoft/msbuildtasks)/452 | The MSBuild Community Tasks Project is an open source project for MSBuild tasks. |
+| 943 | 331 | 30 | 4 months ago | [CrystalQuartz](https://github.com/guryanovev/CrystalQuartz)/453 | pluggable UI for Quartz.NET |
+| 942 | 224 | 88 | 9 months ago | [Mobius](https://github.com/microsoft/Mobius)/454 | C# and F# language binding and extensions to Apache Spark |
+| 942 | 82 | 182 | 13 days ago | [XOutput](https://github.com/csutorasa/XOutput)/455 | DirectInput to XInput wrapper |
+| 939 | 120 | 18 | 4 months ago | [MDK-SE](https://github.com/malware-dev/MDK-SE)/456 | Malware's Development Kit for SE |
+| 939 | 239 | 98 | 4 years ago | [ScintillaNET](https://github.com/jacobslusser/ScintillaNET)/457 | A Windows Forms control, wrapper, and bindings for the Scintilla text editor. |
+| 939 | 276 | 9 | 4 days ago | [csharp](https://github.com/kubernetes-client/csharp)/458 | Officially supported dotnet Kubernetes Client library  |
+| 939 | 235 | 110 | 9 months ago | [ValheimPlus](https://github.com/valheimPlus/ValheimPlus)/459 | A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim. |
+| 937 | 178 | 0 | 14 days ago | [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects)/460 | What you have been waiting for :+1:  Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.  |
+| 934 | 153 | 12 | 24 days ago | [splat](https://github.com/reactiveui/splat)/461 | Makes things cross-platform |
+| 932 | 77 | 20 | 3 months ago | [Unity-UI-Rounded-Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners)/462 | This components and shaders allows you to add rounded corners to UI elements! |
+| 931 | 127 | 55 | 1 year, 7 months ago | [fast-member](https://github.com/mgravell/fast-member)/463 | Automatically exported from code.google.com/p/fast-member |
+| 930 | 403 | 46 | 2 days ago | [Binance.Net](https://github.com/JKorf/Binance.Net)/464 | .Net API wrapper for the Binance web API |
+| 929 | 155 | 0 | 3 years ago | [LibLog](https://github.com/damianh/LibLog)/465 | LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.  |
+| 928 | 226 | 2 | 5 months ago | [Bing.NetCore](https://github.com/bing-framework/Bing.NetCore)/466 | Bing是基于 .net core 3.1 的框架，旨在提升团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成。 |
+| 928 | 422 | 46 | 3 years ago | [Vlc.DotNet](https://github.com/ZeBobo5/Vlc.DotNet)/467 | .NET control that hosts the audio/video capabilities of the VLC libraries |
+| 918 | 394 | 616 | 4 days ago | [project-system](https://github.com/dotnet/project-system)/468 | The .NET Project System for Visual Studio |
+| 914 | 90 | 7 | 21 hours ago | [HandyControls](https://github.com/ghost1372/HandyControls)/469 | Contains some simple and commonly used WPF controls based on HandyControl |
+| 912 | 355 | 1 | a day ago | [SoapCore](https://github.com/DigDes/SoapCore)/470 | SOAP extension for ASP.NET Core |
+| 909 | 241 | 3 | 11 hours ago | [Admin.Core](https://github.com/zhontai/Admin.Core)/471 | Admin后端，前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。 |
+| 908 | 36 | 149 | 25 days ago | [xunkong](https://github.com/xunkong/xunkong)/472 | 记录旅途中发生的事 |
+| 907 | 248 | 81 | 2 years ago | [roundhouse](https://github.com/chucknorris/roundhouse)/473 | RoundhousE is a Database Migration Utility for .NET using sql files and versioning based on source control |
+| 901 | 140 | 109 | 14 days ago | [vs-threading](https://github.com/microsoft/vs-threading)/474 | The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications.  |
+| 896 | 111 | 2 | 2 years ago | [unity-fracture](https://github.com/ElasticSea/unity-fracture)/475 | Fracture any mesh at runtime |
+| 895 | 120 | 6 | 6 years ago | [KinoBloom](https://github.com/keijiro/KinoBloom)/476 | Bloom effect for Unity |
+| 894 | 249 | 9 | 1 year, 5 days ago | [IDDD_Samples_NET](https://github.com/VaughnVernon/IDDD_Samples_NET)/477 | These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon:  http://vaughnvernon.co/?page_id=168 |
+| 893 | 91 | 63 | 3 months ago | [intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper)/478 | Fingerprint audio to automatically detect and skip intro sequences in Jellyfin |
+| 890 | 624 | 255 | 4 years ago | [allReady](https://github.com/HTBox/allReady)/479 | This repo contains the code for allReady, an open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities. |
+| 890 | 205 | 0 | 4 years ago | [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)/480 | Road Architect for Unity |
+| 889 | 197 | 214 | 3 months ago | [ai2thor](https://github.com/allenai/ai2thor)/481 | An open-source platform for Visual AI. |
+| 889 | 91 | 42 | 4 years ago | [graphql-net](https://github.com/chkimes/graphql-net)/482 | Convert GraphQL to IQueryable |
+| 887 | 150 | 12 | 3 years ago | [VertexPaint](https://github.com/slipster216/VertexPaint)/483 | Unity 5.3 Vertex Painter |
+| 887 | 92 | 2 | a day ago | [FishNet](https://github.com/FirstGearGames/FishNet)/484 | FishNet: Unity Networking Evolved.  |
+| 883 | 321 | 48 | a month ago | [taskt](https://github.com/saucepleez/taskt)/485 | taskt (pronounced 'tasked' and formely sharpRPA) is free and open-source robotic process automation (rpa) built in C# powered by the .NET Framework |
+| 882 | 198 | 19 | 4 years ago | [GPUSkinning](https://github.com/chengkehan/GPUSkinning)/486 | None |
+| 879 | 86 | 12 | 13 days ago | [dnGrep](https://github.com/dnGrep/dnGrep)/487 | Graphical GREP tool for Windows |
+| 879 | 143 | 14 | 21 days ago | [Riptide](https://github.com/RiptideNetworking/Riptide)/488 | Lightweight C# networking solution for multiplayer games. |
+| 878 | 312 | 20 | 11 months ago | [IoTClient](https://github.com/zhaopeiym/IoTClient)/489 | This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacnet protocol. This component is open source and free for life, using the most relaxed MIT open source agreement, you can modify and commercial use at will (commercial use please evaluate and test).   这是一个物联网设备通讯协议实现客户端，将会包括主流PLC通信读取、ModBus协议、Bacnet协议等常用工业通讯协议。本组件终身开源免费，采用最宽松的MIT开源协议，您可以随意修改和商业使用（商业使用请做好评估和测试）。 |
+| 875 | 330 | 463 | 12 hours ago | [Smartstore](https://github.com/smartstore/Smartstore)/490 | A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 7 |
+| 873 | 159 | 218 | 6 years ago | [CodeContracts](https://github.com/microsoft/CodeContracts)/491 | Source code for the CodeContracts tools for .NET |
+| 872 | 184 | 27 | 2 months ago | [machine.specifications](https://github.com/machine/machine.specifications)/492 | Machine.Specifications is a Context/Specification framework for .NET that removes language noise and simplifies tests. |
+| 872 | 807 | 20 | 3 months ago | [TrainingContent](https://github.com/OfficeDev/TrainingContent)/493 | Training Content used for developer.microsoft.com/office |
+| 872 | 381 | 9 | 5 hours ago | [google-cloud-dotnet](https://github.com/googleapis/google-cloud-dotnet)/494 | Google Cloud Client Libraries for .NET |
+| 872 | 160 | 46 | 10 months ago | [security-code-scan](https://github.com/security-code-scan/security-code-scan)/495 | Vulnerability Patterns Detector for C# and VB.NET |
+| 869 | 167 | 31 | 22 days ago | [diffplex](https://github.com/mmanela/diffplex)/496 | DiffPlex is Netstandard 1.0+ C# library to generate textual diffs. |
+| 868 | 80 | 0 | 1 year, 3 months ago | [URP_Toon](https://github.com/ChiliMilk/URP_Toon)/497 | A Toon Shader in Unity Universal Render Pipeline. |
+| 864 | 158 | 7 | 1 year, 11 months ago | [ThreeDPoseTracker](https://github.com/digital-standard/ThreeDPoseTracker)/498 | None |
+| 863 | 352 | 1 | 6 months ago | [OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets)/499 | A repository with my notable code snippets for Offensive Security's PEN-300 (OSEP) course. |
+| 862 | 207 | 112 | 9 months ago | [GLTFUtility](https://github.com/Siccity/GLTFUtility)/500 | Simple GLTF importer for Unity |
+| 939 | 276 | 9 | 4 days ago | [csharp](https://github.com/kubernetes-client/csharp)/501 | Officially supported dotnet Kubernetes Client library  |
+| 939 | 343 | 45 | 24 days ago | [AspNetKatana](https://github.com/aspnet/AspNetKatana)/502 | Microsoft's OWIN implementation, the Katana project |
+| 939 | 264 | 3 | 18 days ago | [SDL2-CS](https://github.com/flibitijibibo/SDL2-CS)/503 | SDL2# - C# Wrapper for SDL2 |
+| 939 | 235 | 110 | 9 months ago | [ValheimPlus](https://github.com/valheimPlus/ValheimPlus)/504 | A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim. |
+| 938 | 164 | 0 | 27 days ago | [ProcessInjection](https://github.com/3xpl01tc0d3r/ProcessInjection)/505 | This program is designed to demonstrate various process injection techniques |
+| 937 | 178 | 0 | 14 days ago | [Compare-Net-Objects](https://github.com/GregFinzer/Compare-Net-Objects)/506 | What you have been waiting for :+1:  Perform a deep compare of any two .NET objects using reflection. Shows the differences between the two objects.  |
+| 935 | 120 | 2 | 5 months ago | [game-programming-patterns-demo](https://github.com/Unity-Technologies/game-programming-patterns-demo)/507 | A repo of small demos that assemble some of the well-known design patterns in Unity development to support the ebook "Level up your code with game programming patterns" |
+| 934 | 153 | 12 | 24 days ago | [splat](https://github.com/reactiveui/splat)/508 | Makes things cross-platform |
+| 932 | 94 | 11 | 1 year, 3 months ago | [superpower](https://github.com/datalust/superpower)/509 | A C# parser construction toolkit with high-quality error reporting |
+| 931 | 127 | 55 | 1 year, 7 months ago | [fast-member](https://github.com/mgravell/fast-member)/510 | Automatically exported from code.google.com/p/fast-member |
+| 930 | 403 | 46 | 2 days ago | [Binance.Net](https://github.com/JKorf/Binance.Net)/511 | .Net API wrapper for the Binance web API |
+| 929 | 155 | 0 | 3 years ago | [LibLog](https://github.com/damianh/LibLog)/512 | LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.  |
+| 929 | 138 | 85 | 2 years ago | [TumblThree](https://github.com/johanneszab/TumblThree)/513 | A Tumblr Blog Backup Application |
+| 928 | 226 | 2 | 5 months ago | [Bing.NetCore](https://github.com/bing-framework/Bing.NetCore)/514 | Bing是基于 .net core 3.1 的框架，旨在提升团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成。 |
+| 922 | 144 | 15 | 4 years ago | [NetGain](https://github.com/StackExchange/NetGain)/515 | A high performance websocket server library powering Stack Overflow. |
+| 921 | 197 | 60 | 18 days ago | [win-app](https://github.com/ProtonVPN/win-app)/516 | Official ProtonVPN Windows app |
+| 914 | 384 | 46 | 1 year, 5 months ago | [MiniBlog](https://github.com/madskristensen/MiniBlog)/517 | A minimal blog engine using Razor Web Pages |
+| 914 | 143 | 63 | a month ago | [fido2-net-lib](https://github.com/passwordless-lib/fido2-net-lib)/518 | FIDO2 .NET library for FIDO2 / WebAuthn Attestation and Assertion using .NET |
+| 912 | 355 | 1 | a day ago | [SoapCore](https://github.com/DigDes/SoapCore)/519 | SOAP extension for ASP.NET Core |
+| 910 | 119 | 41 | a month ago | [DryIoc](https://github.com/dadhi/DryIoc)/520 | DryIoc is fast, small, full-featured IoC Container for .NET |
+| 910 | 263 | 35 | 3 months ago | [InteractiveDataDisplay.WPF](https://github.com/microsoft/InteractiveDataDisplay.WPF)/521 | Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application. It allows to create line graphs, bubble charts, heat maps and other complex 2D plots which are very common in scientific software. Interactive Data Display for WPF integrates well with Bing Maps control to show data on a geographic map in latitude/longitude coordinates. The controls can also be operated programmatically. |
+| 908 | 36 | 149 | 25 days ago | [xunkong](https://github.com/xunkong/xunkong)/522 | 记录旅途中发生的事 |
+| 908 | 219 | 44 | 1 year, 4 months ago | [WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne)/523 | None |
+| 907 | 248 | 81 | 2 years ago | [roundhouse](https://github.com/chucknorris/roundhouse)/524 | RoundhousE is a Database Migration Utility for .NET using sql files and versioning based on source control |
+| 905 | 163 | 315 | 1 year, 7 months ago | [python-language-server](https://github.com/microsoft/python-language-server)/525 | Microsoft Language Server for Python |
+| 901 | 140 | 109 | 14 days ago | [vs-threading](https://github.com/microsoft/vs-threading)/526 | The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications.  |
+| 896 | 169 | 1 | 2 years ago | [2d-techdemos](https://github.com/Unity-Technologies/2d-techdemos)/527 | Tech Demos for Unity 2D Features |
+| 896 | 111 | 2 | 2 years ago | [unity-fracture](https://github.com/ElasticSea/unity-fracture)/528 | Fracture any mesh at runtime |
+| 895 | 120 | 6 | 6 years ago | [KinoBloom](https://github.com/keijiro/KinoBloom)/529 | Bloom effect for Unity |
+| 895 | 397 | 70 | 4 years ago | [PdfiumViewer](https://github.com/pvginkel/PdfiumViewer)/530 | PDF viewer based on Google's PDFium. |
+| 894 | 249 | 9 | 1 year, 5 days ago | [IDDD_Samples_NET](https://github.com/VaughnVernon/IDDD_Samples_NET)/531 | These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon:  http://vaughnvernon.co/?page_id=168 |
+| 893 | 91 | 63 | 3 months ago | [intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper)/532 | Fingerprint audio to automatically detect and skip intro sequences in Jellyfin |
+| 890 | 624 | 255 | 4 years ago | [allReady](https://github.com/HTBox/allReady)/533 | This repo contains the code for allReady, an open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities. |
+| 890 | 205 | 0 | 4 years ago | [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)/534 | Road Architect for Unity |
+| 889 | 197 | 214 | 3 months ago | [ai2thor](https://github.com/allenai/ai2thor)/535 | An open-source platform for Visual AI. |
+| 889 | 148 | 63 | 6 months ago | [ra2](https://github.com/OpenRA/ra2)/536 | A Red Alert 2 mod for the OpenRA game engine |
+| 889 | 91 | 42 | 4 years ago | [graphql-net](https://github.com/chkimes/graphql-net)/537 | Convert GraphQL to IQueryable |
+| 887 | 150 | 12 | 3 years ago | [VertexPaint](https://github.com/slipster216/VertexPaint)/538 | Unity 5.3 Vertex Painter |
+| 887 | 92 | 2 | a day ago | [FishNet](https://github.com/FirstGearGames/FishNet)/539 | FishNet: Unity Networking Evolved.  |
+| 884 | 165 | 2 | 29 days ago | [SigFlip](https://github.com/med0x2e/SigFlip)/540 | SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature. |
+| 879 | 86 | 12 | 13 days ago | [dnGrep](https://github.com/dnGrep/dnGrep)/541 | Graphical GREP tool for Windows |
+| 879 | 102 | 27 | a month ago | [FlubuCore](https://github.com/dotnetcore/FlubuCore)/542 | A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code. |
+| 879 | 143 | 14 | 21 days ago | [Riptide](https://github.com/RiptideNetworking/Riptide)/543 | Lightweight C# networking solution for multiplayer games. |
+| 878 | 312 | 20 | 11 months ago | [IoTClient](https://github.com/zhaopeiym/IoTClient)/544 | This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacnet protocol. This component is open source and free for life, using the most relaxed MIT open source agreement, you can modify and commercial use at will (commercial use please evaluate and test).   这是一个物联网设备通讯协议实现客户端，将会包括主流PLC通信读取、ModBus协议、Bacnet协议等常用工业通讯协议。本组件终身开源免费，采用最宽松的MIT开源协议，您可以随意修改和商业使用（商业使用请做好评估和测试）。 |
+| 873 | 159 | 218 | 6 years ago | [CodeContracts](https://github.com/microsoft/CodeContracts)/545 | Source code for the CodeContracts tools for .NET |
+| 872 | 184 | 27 | 2 months ago | [machine.specifications](https://github.com/machine/machine.specifications)/546 | Machine.Specifications is a Context/Specification framework for .NET that removes language noise and simplifies tests. |
+| 872 | 807 | 20 | 3 months ago | [TrainingContent](https://github.com/OfficeDev/TrainingContent)/547 | Training Content used for developer.microsoft.com/office |
+| 872 | 160 | 46 | 10 months ago | [security-code-scan](https://github.com/security-code-scan/security-code-scan)/548 | Vulnerability Patterns Detector for C# and VB.NET |
+| 871 | 150 | 182 | 3 months ago | [VS-PPT](https://github.com/microsoft/VS-PPT)/549 | Productivity Power Tools - a set of Visual Studio extensions improving developer productivity. |
+| 871 | 113 | 9 | 11 days ago | [ControlzEx](https://github.com/ControlzEx/ControlzEx)/550 | Shared Controlz for WPF and ... more |
+| 871 | 130 | 36 | 2 years ago | [DllExport](https://github.com/3F/DllExport)/551 | .NET DllExport with .NET Core support (aka 3F/DllExport aka DllExport.bat) |
+| 870 | 457 | 78 | 1 year, 10 months ago | [facebook-csharp-sdk](https://github.com/facebook-csharp-sdk/facebook-csharp-sdk)/552 | Facebook SDK for .NET |
+| 868 | 80 | 0 | 1 year, 3 months ago | [URP_Toon](https://github.com/ChiliMilk/URP_Toon)/553 | A Toon Shader in Unity Universal Render Pipeline. |
+| 868 | 358 | 187 | 26 days ago | [netDxf](https://github.com/haplokuon/netDxf)/554 | .net dxf Reader-Writer |
+| 864 | 158 | 7 | 1 year, 11 months ago | [ThreeDPoseTracker](https://github.com/digital-standard/ThreeDPoseTracker)/555 | None |
+| 863 | 352 | 1 | 6 months ago | [OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets)/556 | A repository with my notable code snippets for Offensive Security's PEN-300 (OSEP) course. |
+| 862 | 207 | 112 | 9 months ago | [GLTFUtility](https://github.com/Siccity/GLTFUtility)/557 | Simple GLTF importer for Unity |
+| 862 | 155 | 0 | 2 months ago | [IocPerformance](https://github.com/danielpalme/IocPerformance)/558 | Performance comparison of .NET IoC containers |
+| 861 | 151 | 0 | 2 years ago | [KeeThief](https://github.com/GhostPack/KeeThief)/559 | Methods for attacking KeePass 2.X databases, including extracting of encryption key material from memory. |
+| 860 | 131 | 8 | 3 years ago | [EarthLiveSharp](https://github.com/bitdust/EarthLiveSharp)/560 | live view of earth from space |
+| 859 | 105 | 39 | 11 months ago | [Xamarin.Forms.PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView)/561 | An extended ContentView for Xamarin.Forms with rounded corners, borders, shadows and more! |
+| 857 | 222 | 0 | 2 years ago | [UnityOctree](https://github.com/Nition/UnityOctree)/562 | A dynamic, loose octree implementation for Unity written in C# |
+| 855 | 267 | 9 | 2 years ago | [PaySharp](https://github.com/Varorbc/PaySharp)/563 | PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。 |
+| 854 | 172 | 20 | 10 months ago | [StackExchange.Exceptional](https://github.com/NickCraver/StackExchange.Exceptional)/564 | Error handler used for the Stack Exchange network |
+| 854 | 182 | 8 | 5 days ago | [soundfingerprinting](https://github.com/AddictedCS/soundfingerprinting)/565 | Open source audio fingerprinting in .NET. An efficient algorithm for acoustic fingerprinting written purely in C#.   |
+| 854 | 125 | 4 | 1 year, 10 months ago | [SharpKatz](https://github.com/b4rtik/SharpKatz)/566 | Porting of mimikatz sekurlsa::logonpasswords,  sekurlsa::ekeys and lsadump::dcsync commands |
+| 854 | 233 | 27 | 1 year, 5 months ago | [MiNET](https://github.com/NiclasOlofsson/MiNET)/567 | A (not so) basic Minecraft Pocket Edition server written in C# |
+| 850 | 162 | 21 | a month ago | [designs](https://github.com/dotnet/designs)/568 | This repo is used for reviewing new .NET designs. |
+| 849 | 265 | 11 | 5 years ago | [UnityLockStepDemo](https://github.com/GaoKaiHaHa/UnityLockStepDemo)/569 | 基于Unity做的帧同步Demo,ECS架构 |
+| 847 | 131 | 2 | 1 year, 1 month ago | [AMSITrigger](https://github.com/RythmStick/AMSITrigger)/570 | The Hunt for Malicious Strings |
+| 846 | 233 | 20 | 4 months ago | [WpfDesigner](https://github.com/icsharpcode/WpfDesigner)/571 | The WPF Designer from SharpDevelop |
+| 844 | 249 | 0 | 3 days ago | [AKStream](https://github.com/chatop2020/AKStream)/572 | AKStream是一套全平台(Linux,MacOS,Windows)、全架构(X86_64,Arm...)、全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体 |
+| 844 | 146 | 9 | a month ago | [ConsoleTables](https://github.com/khalidabuhakmeh/ConsoleTables)/573 | Print out a nicely formatted table in a console application C# |
+| 842 | 357 | 514 | 6 years ago | [NiceHashMiner-Archived](https://github.com/nicehash/NiceHashMiner-Archived)/574 | NiceHash easy to use CPU&GPU Miner |
+| 842 | 144 | 10 | 2 months ago | [Otp.NET](https://github.com/kspearrin/Otp.NET)/575 | A .NET implementation of TOTP and HOTP for things like two-factor authentication codes. |
+| 840 | 99 | 3 | 3 days ago | [ReactiveProperty](https://github.com/runceel/ReactiveProperty)/576 | ReactiveProperty provides MVVM and asynchronous support features under Reactive Extensions. Target frameworks are .NET 6+, .NET Framework 4.7.2 and .NET Standard 2.0. |
+| 838 | 96 | 106 | 5 months ago | [outlookcaldavsynchronizer](https://github.com/aluxnimm/outlookcaldavsynchronizer)/577 | Sync Outlook with Google, SOGo, Nextcloud or any other CalDAV/CardDAV server |
+| 838 | 238 | 7 | 2 years ago | [ProjectTinySamples](https://github.com/Unity-Technologies/ProjectTinySamples)/578 | Samples for Project Tiny |
+| 833 | 164 | 0 | 1 year, 1 month ago | [unity-gameplay-ability-system](https://github.com/sjai013/unity-gameplay-ability-system)/579 | A unified framework for implementing ability systems in Unity |
+| 829 | 303 | 53 | 10 months ago | [NPoco](https://github.com/schotime/NPoco)/580 | Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco |
+| 828 | 153 | 66 | 8 days ago | [FreeRedis](https://github.com/2881099/FreeRedis)/581 | 🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling. |
+| 828 | 144 | 55 | 1 year, 2 months ago | [boo](https://github.com/boo-lang/boo)/582 | The Boo Programming Language. |
+| 827 | 96 | 27 | 2 years ago | [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture)/583 | Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy |
+| 827 | 83 | 60 | 5 years ago | [AudioSwitcher_v1](https://github.com/xenolightning/AudioSwitcher_v1)/584 | Version 1 of Audio Switcher |
+| 825 | 119 | 2 | 5 months ago | [NaughtyCharacter](https://github.com/dbrizov/NaughtyCharacter)/585 | Third Person Controller for Unity |
+| 825 | 224 | 91 | 1 year, 9 months ago | [NtMiner](https://github.com/ntminer/NtMiner)/586 | GPU miner. github不太慢，https://ntminer.coding.net/public/NtMiner/NtMiner/git/files |
+| 823 | 23 | 19 | 1 year, 4 months ago | [stronginject](https://github.com/YairHalberstadt/stronginject)/587 | compile time dependency injection for .NET |
+| 823 | 120 | 32 | 5 months ago | [UnityNativeShare](https://github.com/yasirkula/UnityNativeShare)/588 | A Unity plugin to natively share files (images, videos, documents, etc.) and/or plain text on Android & iOS |
+| 823 | 177 | 48 | 5 years ago | [InfluxDBStudio](https://github.com/CymaticLabs/InfluxDBStudio)/589 | InfluxDB Studio is a UI management tool for the InfluxDB time series database. |
+| 822 | 242 | 67 | 25 days ago | [WorkflowEngine.NET](https://github.com/optimajet/WorkflowEngine.NET)/590 | WorkflowEngine.NET - component that adds workflow in your application. It can be fully integrated into your application, or be in the form of a specific service (such as a web service). |
+| 822 | 100 | 59 | a month ago | [dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated)/591 | A .NET Core global tool to display and update outdated NuGet packages in a project |
+| 820 | 479 | 45 | 6 days ago | [botbuilder-dotnet](https://github.com/microsoft/botbuilder-dotnet)/592 | Welcome to the Bot Framework SDK for .NET repository, which is the home for the libraries and packages that enable developers to build sophisticated bot applications using .NET.  |
+| 820 | 98 | 3 | 11 days ago | [Core2D](https://github.com/wieslawsoltes/Core2D)/593 | A multi-platform data driven 2D diagram editor. |
+| 817 | 361 | 253 | 6 months ago | [DotSpatial](https://github.com/DotSpatial/DotSpatial)/594 | Geographic information system library written for .NET |
+| 815 | 131 | 99 | 1 year, 2 months ago | [Futile](https://github.com/MattRix/Futile)/595 | A super simple Unity 2D framework |
+| 815 | 168 | 21 | 6 years ago | [Fido](https://github.com/Netflix/Fido)/596 | None |
+| 814 | 240 | 55 | 1 year, 7 months ago | [TinyIoC](https://github.com/grumpydev/TinyIoC)/597 | An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike. |
+| 814 | 134 | 20 | 25 days ago | [NCrontab](https://github.com/atifaziz/NCrontab)/598 | Crontab for .NET |
+| 813 | 100 | 47 | 1 year, 4 months ago | [GenFu](https://github.com/MisterJames/GenFu)/599 | GenFu is a library you can use to generate realistic test data. It is composed of several property fillers that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can override any of the fillers, give GenFu hints on how to fill them. |
+| 813 | 143 | 60 | 29 days ago | [metadata-extractor-dotnet](https://github.com/drewnoakes/metadata-extractor-dotnet)/600 | Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files |
+| 996 | 172 | 8 | 3 years ago | [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen)/601 | Next gen iteration of the unity community ocean shader |
+| 995 | 24 | 2 | 6 years ago | [GithubXamarin](https://github.com/prajjwaldimri/GithubXamarin)/602 | GithubXamarin(GitIt) is a cross-platform application for https://github.com which is built using Xamarin. |
+| 995 | 220 | 32 | 5 days ago | [SmartSql](https://github.com/dotnetcore/SmartSql)/603 | SmartSql = MyBatis in C# + .NET Core+ Cache(Memory | Redis) + R/W Splitting + PropertyChangedTrack  +Dynamic Repository + InvokeSync + Diagnostics |
+| 991 | 253 | 44 | 21 hours ago | [clrmd](https://github.com/microsoft/clrmd)/604 | Microsoft.Diagnostics.Runtime is a set of APIs for introspecting processes and dumps. |
+| 991 | 386 | 118 | 5 years ago | [DinkToPdf](https://github.com/rdvojmoc/DinkToPdf)/605 | C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF. |
+| 990 | 122 | 6 | 4 days ago | [GTA5OnlineTools](https://github.com/CrazyZhang666/GTA5OnlineTools)/606 | GTA5线上小助手 |
+| 990 | 418 | 161 | 1 year, 23 days ago | [GameServer](https://github.com/LeagueSandbox/GameServer)/607 | League Sandbox's Game Server |
+| 986 | 190 | 44 | a month ago | [SourceBrowser](https://github.com/KirillOsenkov/SourceBrowser)/608 | Source browser website generator that powers http://referencesource.microsoft.com and http://sourceroslyn.io |
+| 986 | 190 | 24 | 3 years ago | [Unity-QuickSheet](https://github.com/kimsama/Unity-QuickSheet)/609 | Unity-QuickSheet enables you to use spreadsheet file data within Unity editor.  |
+| 985 | 389 | 3 | a day ago | [WebVella-ERP](https://github.com/WebVella/WebVella-ERP)/610 | Free and open-source pluggable ERP and CRM software based on ASP.NET Core 5, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.  |
+| 983 | 180 | 10 | 9 months ago | [NPBehave](https://github.com/meniku/NPBehave)/611 | Event Driven Behavior Trees for Unity 3D |
+| 979 | 83 | 9 | 22 days ago | [FreeMove](https://github.com/imDema/FreeMove)/612 | Move directories without breaking shortcuts or installations |
+| 979 | 264 | 326 | 2 years ago | [steamvr_unity_plugin](https://github.com/ValveSoftware/steamvr_unity_plugin)/613 | SteamVR Unity Plugin - Documentation at: https://valvesoftware.github.io/steamvr_unity_plugin/ |
+| 978 | 56 | 5 | 6 days ago | [Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide)/614 | Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.  |
+| 975 | 101 | 1 | 20 hours ago | [SmartFormat](https://github.com/axuno/SmartFormat)/615 | A lightweight text templating library written in C# which can be a drop-in replacement for string.Format |
+| 975 | 121 | 9 | 2 years ago | [Computational-geometry](https://github.com/Habrador/Computational-geometry)/616 | Computational Geometry Unity library with implementations of intersection algorithms, triangulations like delaunay, voronoi diagrams, polygon clipping, bezier curves, ear clipping, convex hulls, mesh simplification, etc |
+| 972 | 415 | 248 | 2 months ago | [powerapps-tools](https://github.com/microsoft/powerapps-tools)/617 | Unsupported PowerApps Tools & Apps |
+| 970 | 96 | 18 | 3 years ago | [Sigil](https://github.com/kevin-montrose/Sigil)/618 | A fail-fast validating helper for .NET CIL generation |
+| 970 | 144 | 24 | 3 days ago | [bililive_dm](https://github.com/copyliu/bililive_dm)/619 | B站弹幕姬 - B站直播彈幕工具 |
+| 970 | 250 | 82 | 5 months ago | [globalmousekeyhook](https://github.com/gmamaladze/globalmousekeyhook)/620 | This library allows you to tap keyboard and mouse, detect and record their activity even when an application is inactive and runs in background. |
+| 969 | 194 | 10 | 2 years ago | [ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS)/621 | ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming |
+| 969 | 583 | 43 | 2 months ago | [try-samples](https://github.com/dotnet/try-samples)/622 | None |
+| 967 | 125 | 33 | 1 year, 8 months ago | [WOA-Deployer-Rpi](https://github.com/WOA-Project/WOA-Deployer-Rpi)/623 | WOA Deployer for Raspberry Pi |
+| 964 | 291 | 18 | 6 years ago | [EasyHttp](https://github.com/EasyHttp/EasyHttp)/624 | Http Library for C# |
+| 963 | 136 | 25 | 2 months ago | [PotatoNV](https://github.com/mashed-potatoes/PotatoNV)/625 | Unlock bootloader of Huawei devices on Kirin 960/95х/65x/620 |
+| 963 | 252 | 13 | 11 years ago | [dnscrypt-win-client](https://github.com/opendns/dnscrypt-win-client)/626 | Windows front end for DNSCrypt Proxy |
+| 963 | 261 | 13 | 6 months ago | [SpaceshipDemo](https://github.com/Unity-Technologies/SpaceshipDemo)/627 | Spaceship Demo - AAA Playable First person demo showcasing effects made with Visual Effect Graph and rendered with High Definition Render Pipeline |
+| 962 | 123 | 19 | 1 year, 8 days ago | [Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone)/628 | unity bone cloth spring system,base by jobs  |
+| 960 | 358 | 0 | 1 year, 29 days ago | [userdialogs](https://github.com/aritchie/userdialogs)/629 | A cross platform library that allows you to call for standard user dialogs from a core .net standard library,  Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun |
+| 957 | 248 | 20 | 24 days ago | [IdentityModel](https://github.com/IdentityModel/IdentityModel)/630 | .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect. |
+| 956 | 133 | 29 | 4 years ago | [Netjs](https://github.com/praeclarum/Netjs)/631 | Compile .NET assemblies to TypeScript and JavaScript |
+| 954 | 370 | 154 | 6 days ago | [azure-activedirectory-identitymodel-extensions-for-dotnet](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet)/632 | IdentityModel extensions for .Net |
+| 954 | 80 | 34 | 21 hours ago | [ookii-dialogs-wpf](https://github.com/ookii-dialogs/ookii-dialogs-wpf)/633 | Awesome dialogs for Windows Desktop applications built with Microsoft .NET (WPF) |
+| 953 | 109 | 13 | a day ago | [Mixture](https://github.com/alelievr/Mixture)/634 | Mixture is a powerful node-based tool crafted in unity to generate all kinds of textures in realtime |
+| 952 | 614 | 113 | a day ago | [fo-dicom](https://github.com/fo-dicom/fo-dicom)/635 | Fellow Oak DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono and Unity |
+| 949 | 221 | 10 | 1 year, 4 months ago | [AVIator](https://github.com/Ch0pin/AVIator)/636 | Antivirus evasion project  |
+| 947 | 159 | 17 | 27 days ago | [Nager.Date](https://github.com/nager/Nager.Date)/637 | :earth_americas: Worldwide holiday (REST API), NuGet or docker container |
+| 946 | 247 | 199 | a day ago | [MechJeb2](https://github.com/MuMech/MechJeb2)/638 | MechJeb2 - KSP mod |
+| 944 | 106 | 11 | 11 months ago | [Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO)/639 | Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#) |
+| 943 | 279 | 137 | 3 years ago | [msbuildtasks](https://github.com/loresoft/msbuildtasks)/640 | The MSBuild Community Tasks Project is an open source project for MSBuild tasks. |
+| 943 | 331 | 30 | 4 months ago | [CrystalQuartz](https://github.com/guryanovev/CrystalQuartz)/641 | pluggable UI for Quartz.NET |
+| 942 | 224 | 88 | 9 months ago | [Mobius](https://github.com/microsoft/Mobius)/642 | C# and F# language binding and extensions to Apache Spark |
+| 941 | 87 | 3 | 5 years ago | [StableFluids](https://github.com/keijiro/StableFluids)/643 | A straightforward GPU implementation of Jos Stam's "Stable Fluids" on Unity. |
+| 941 | 71 | 12 | 3 months ago | [MOOS](https://github.com/nifanfa/MOOS)/644 | C# x64 operating system programming with the .NET native ahead-of-time compilation technology. |
+| 939 | 235 | 110 | 9 months ago | [ValheimPlus](https://github.com/valheimPlus/ValheimPlus)/645 | A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim. |
+| 938 | 164 | 0 | 27 days ago | [ProcessInjection](https://github.com/3xpl01tc0d3r/ProcessInjection)/646 | This program is designed to demonstrate various process injection techniques |
+| 934 | 166 | 21 | 2 months ago | [wixsharp](https://github.com/oleg-shilo/wixsharp)/647 | Framework for building a complete MSI or WiX source code by using script files written with C# syntax. |
+| 932 | 94 | 11 | 1 year, 3 months ago | [superpower](https://github.com/datalust/superpower)/648 | A C# parser construction toolkit with high-quality error reporting |
+| 931 | 88 | 60 | 1 year, 6 months ago | [EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore)/649 | A small utility to remove frame rate limit, change FOV, add widescreen support and more for Elden Ring |
+| 931 | 132 | 120 | 4 days ago | [MASA.Blazor](https://github.com/masastack/MASA.Blazor)/650 | Blazor UI component library based on Material Design. Support Blazor Server, Blazor WebAssembly and MAUI Blazor.  |
+| 930 | 346 | 11 | 3 months ago | [GalaxyExplorer](https://github.com/microsoft/GalaxyExplorer)/651 | Galaxy Explorer is the application Microsoft is building as part of the Share Your Idea campaign. |
+| 930 | 403 | 46 | 2 days ago | [Binance.Net](https://github.com/JKorf/Binance.Net)/652 | .Net API wrapper for the Binance web API |
+| 929 | 155 | 0 | 3 years ago | [LibLog](https://github.com/damianh/LibLog)/653 | LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction.  |
+| 929 | 138 | 85 | 2 years ago | [TumblThree](https://github.com/johanneszab/TumblThree)/654 | A Tumblr Blog Backup Application |
+| 926 | 32 | 13 | 9 months ago | [jab](https://github.com/pakrym/jab)/655 | C# Source Generator based dependency injection container implementation. |
+| 923 | 151 | 10 | 2 years ago | [ReGoap](https://github.com/luxkun/ReGoap)/656 | Generic C# GOAP (Goal Oriented Action Planning) library with Unity3d examples |
+| 922 | 144 | 15 | 4 years ago | [NetGain](https://github.com/StackExchange/NetGain)/657 | A high performance websocket server library powering Stack Overflow. |
+| 921 | 106 | 5 | 4 years ago | [RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)/658 | Customizable radial progress bar shader for Unity3D. Allows you to set arc range, minimum and maximum colors, textures, radius, and a few more things. Create HP Bars, Speedometers, rank progress, etc! |
+| 921 | 802 | 95 | 1 year, 1 month ago | [SolrNet](https://github.com/SolrNet/SolrNet)/659 | Solr client for .Net |
+| 920 | 99 | 25 | 6 days ago | [ILGPU](https://github.com/m4rs-mt/ILGPU)/660 | ILGPU JIT Compiler for high-performance .Net GPU programs |
+| 919 | 111 | 13 | 8 months ago | [FlipIt](https://github.com/phaselden/FlipIt)/661 | Flip Clock screensaver |
+| 913 | 4513 | 2 | 5 years ago | [shadowsocksr-csharp](https://github.com/shadowsocksr-rm/shadowsocksr-csharp)/662 | None |
+| 912 | 284 | 44 | 4 years ago | [structuremap](https://github.com/structuremap/structuremap)/663 | A Dependency Injection/Inversion of Control tool for .NET |
+| 912 | 355 | 1 | a day ago | [SoapCore](https://github.com/DigDes/SoapCore)/664 | SOAP extension for ASP.NET Core |
+| 910 | 151 | 25 | 1 year, 6 months ago | [BiliDuang](https://github.com/kengwang/BiliDuang)/665 | (暂停维护) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载 |
+| 910 | 263 | 35 | 3 months ago | [InteractiveDataDisplay.WPF](https://github.com/microsoft/InteractiveDataDisplay.WPF)/666 | Interactive Data Display for WPF is a set of controls for adding interactive visualization of dynamic data to your application. It allows to create line graphs, bubble charts, heat maps and other complex 2D plots which are very common in scientific software. Interactive Data Display for WPF integrates well with Bing Maps control to show data on a geographic map in latitude/longitude coordinates. The controls can also be operated programmatically. |
+| 908 | 223 | 171 | 7 months ago | [Posh-SSH](https://github.com/darkoperator/Posh-SSH)/667 | PowerShell Module for automating tasks on remote systems using SSH |
+| 908 | 36 | 149 | 25 days ago | [xunkong](https://github.com/xunkong/xunkong)/668 | 记录旅途中发生的事 |
+| 907 | 248 | 81 | 2 years ago | [roundhouse](https://github.com/chucknorris/roundhouse)/669 | RoundhousE is a Database Migration Utility for .NET using sql files and versioning based on source control |
+| 903 | 184 | 5 | a month ago | [cron-expression-descriptor](https://github.com/bradymholt/cron-expression-descriptor)/670 | A .NET library that converts cron expressions into human readable descriptions. |
+| 903 | 178 | 95 | 1 year, 7 months ago | [EditorXR](https://github.com/Unity-Technologies/EditorXR)/671 | Author XR in XR |
+| 902 | 67 | 46 | 2 months ago | [Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player)/672 | One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI. |
+| 902 | 229 | 54 | 3 years ago | [ini-parser](https://github.com/rickyah/ini-parser)/673 | Read/Write an INI file the easy way! |
+| 902 | 172 | 23 | 7 years ago | [Json.Net.Unity3D](https://github.com/SaladLab/Json.Net.Unity3D)/674 | Forked Newtonsoft.Json to support Unity3D |
+| 901 | 151 | 18 | 4 months ago | [Deceive](https://github.com/molenzwiebel/Deceive)/675 | 🎩 Appear offline for the League of Legends client. |
+| 898 | 272 | 119 | 23 hours ago | [Mapsui](https://github.com/Mapsui/Mapsui)/676 | Mapsui is a .NET Map component for: MAUI, WPF, Avalonia, Uno, Blazor, WinUI, Xamarin and Eto |
+| 897 | 76 | 9 | 11 days ago | [EasyButtons](https://github.com/madsbangh/EasyButtons)/677 | Add buttons to your inspector in Unity super easily with this simple attribute |
+| 897 | 799 | 0 | 11 months ago | [Taiwu_mods](https://github.com/phorcys/Taiwu_mods)/678 | 太吾绘卷游戏Mod |
+| 896 | 139 | 15 | 4 years ago | [TouchKit](https://github.com/prime31/TouchKit)/679 | Gestures and input handling made sane for Unity |
+| 896 | 111 | 2 | 2 years ago | [unity-fracture](https://github.com/ElasticSea/unity-fracture)/680 | Fracture any mesh at runtime |
+| 895 | 185 | 0 | 4 days ago | [AntDeploy](https://github.com/yuzd/AntDeploy)/681 | Tools to deploy applications to remote server(iis,windowsService,linuxService,docker) support netframework and dotnetcore,support rollback and increment deploy |
+| 893 | 91 | 63 | 3 months ago | [intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper)/682 | Fingerprint audio to automatically detect and skip intro sequences in Jellyfin |
+| 890 | 596 | 88 | 18 hours ago | [Saml2](https://github.com/Sustainsys/Saml2)/683 | Saml2 Authentication services for ASP.NET |
+| 890 | 624 | 255 | 4 years ago | [allReady](https://github.com/HTBox/allReady)/684 | This repo contains the code for allReady, an open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities. |
+| 890 | 356 | 26 | 1 year, 3 months ago | [ros-sharp](https://github.com/siemens/ros-sharp)/685 | ROS# is a set of open source software libraries and tools in C# for communicating with ROS from .NET applications, in particular Unity3D |
+| 890 | 205 | 0 | 4 years ago | [RoadArchitect](https://github.com/MicroGSD/RoadArchitect)/686 | Road Architect for Unity |
+| 889 | 197 | 214 | 3 months ago | [ai2thor](https://github.com/allenai/ai2thor)/687 | An open-source platform for Visual AI. |
+| 889 | 91 | 42 | 4 years ago | [graphql-net](https://github.com/chkimes/graphql-net)/688 | Convert GraphQL to IQueryable |
+| 887 | 92 | 2 | a day ago | [FishNet](https://github.com/FirstGearGames/FishNet)/689 | FishNet: Unity Networking Evolved.  |
+| 886 | 87 | 11 | 1 year, 5 months ago | [Wu10Man](https://github.com/WereDev/Wu10Man)/690 | Enable/Disable Windows 10 Automatic Updates |
+| 886 | 63 | 2 | 14 days ago | [NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)/691 | Multi-functional shader for the Particle System that supports Universal Render Pipeline (URP) of Unity. |
+| 884 | 96 | 67 | 16 days ago | [ikvm](https://github.com/ikvmnet/ikvm)/692 | A Java Virtual Machine and Bytecode-to-IL Converter for .NET |
+| 882 | 235 | 0 | 4 years ago | [Razor](https://github.com/aspnet/Razor)/693 | [Archived] Parser and code generator for CSHTML files used in view pages for MVC web apps. Project moved to https://github.com/aspnet/AspNetCore |
+| 880 | 50 | 15 | 8 months ago | [Smart-Inspector](https://github.com/neon-age/Smart-Inspector)/694 | Fluent re-take on Unity Inspector UX. Packed with QoL improvements. |
+| 879 | 102 | 27 | a month ago | [FlubuCore](https://github.com/dotnetcore/FlubuCore)/695 | A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code. |
+| 879 | 143 | 14 | 21 days ago | [Riptide](https://github.com/RiptideNetworking/Riptide)/696 | Lightweight C# networking solution for multiplayer games. |
+| 877 | 180 | 46 | 9 months ago | [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt)/697 | Ultimate Javascript Object Signing and Encryption (JOSE), JSON Web Token (JWT) and Json Web Keys (JWK) Implementation for .NET and .NET Core |
+| 875 | 120 | 3 | a month ago | [UnityHeapExplorer](https://github.com/pschraut/UnityHeapExplorer)/698 | A Memory Profiler, Debugger and Analyzer for Unity 2019.3 and newer. |
+| 875 | 173 | 0 | 13 days ago | [awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips)/699 | A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native |
+| 873 | 159 | 218 | 6 years ago | [CodeContracts](https://github.com/microsoft/CodeContracts)/700 | Source code for the CodeContracts tools for .NET |
+| 619 | 165 | 50 | 2 years ago | [monitor-table-change-with-sqltabledependency](https://github.com/christiandelbianco/monitor-table-change-with-sqltabledependency)/701 | Get SQL Server notification on record table change |
+| 618 | 75 | 53 | 3 years ago | [Scripty](https://github.com/daveaglick/Scripty)/702 | Tools to let you use Roslyn-powered C# scripts for code generation |
+| 617 | 90 | 7 | 20 days ago | [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor)/703 | In-game inspector and debugging tools for applications made with Unity3D game engine |
+| 615 | 70 | 14 | 5 years ago | [Warden](https://github.com/warden-stack/Warden)/704 | Define "health checks" for your applications, resources and infrastructure. Keep your Warden on the watch. |
+| 614 | 60 | 9 | 2 years ago | [SimdJsonSharp](https://github.com/EgorBo/SimdJsonSharp)/705 | C# bindings for lemire/simdjson (and full C# port) |
+| 614 | 231 | 3 | 3 years ago | [Celeste-Movement](https://github.com/mixandjam/Celeste-Movement)/706 | Recreating the movement and feel from Celeste |
+| 612 | 86 | 19 | 2 years ago | [Unity-SerializableDictionary](https://github.com/azixMcAze/Unity-SerializableDictionary)/707 | Serializable dictionary class for Unity |
+| 611 | 114 | 1 | 3 months ago | [EfsPotato](https://github.com/zcgonvh/EfsPotato)/708 | Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability). |
+| 611 | 69 | 2 | 3 days ago | [GOAP](https://github.com/crashkonijn/GOAP)/709 | A multi-threaded GOAP system for Unity |
+| 610 | 49 | 13 | 4 months ago | [onenote-md-exporter](https://github.com/alxnbl/onenote-md-exporter)/710 | ConsoleApp to export OneNote notebooks to Markdown formats |
+| 610 | 24 | 35 | 26 days ago | [HyPlayer](https://github.com/HyPlayer/HyPlayer)/711 | 仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player |
+| 609 | 94 | 13 | a month ago | [dotnet-console-games](https://github.com/dotnet/dotnet-console-games)/712 | Game examples implemented as .NET console applications primarily for providing education and inspiration. :) |
+| 609 | 114 | 1 | 3 years ago | [MoveKit](https://github.com/0xthirteen/MoveKit)/713 | Cobalt Strike kit for Lateral Movement |
+| 608 | 75 | 0 | 3 years ago | [HelpfulScripts](https://github.com/cjacobwade/HelpfulScripts)/714 | A collection of random, useful scripts |
+| 608 | 77 | 21 | 1 year, 19 days ago | [com.unity.uiwidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets)/715 | UIWidgets is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps. |
+| 607 | 139 | 23 | 1 year, 6 months ago | [Unreal-Binary-Builder](https://github.com/ryanjon2040/Unreal-Binary-Builder)/716 | An application designed to create installed Unreal Engine builds (aka Rocket builds) from Unreal Engine GitHub source. |
+| 606 | 55 | 17 | 4 years ago | [BeatPulse](https://github.com/Xabaril/BeatPulse)/717 | Liveness, health check library for ASP.NET Core Applications |
+| 606 | 90 | 22 | 3 years ago | [DNSAgent](https://github.com/stackia/DNSAgent)/718 | A powerful "hosts" replacement. |
+| 604 | 58 | 31 | 1 year, 1 month ago | [OpenVIII-monogame](https://github.com/MaKiPL/OpenVIII-monogame)/719 | Open source Final Fantasy VIII engine implementation in C# working on Windows and Linux (Android and iOS planned too!) [Monogame] |
+| 604 | 82 | 1 | 1 year, 1 month ago | [ADCollector](https://github.com/dev-2null/ADCollector)/720 | A lightweight tool to quickly extract valuable information from the Active Directory environment for both attacking and defending. |
+| 604 | 243 | 12 | 5 years ago | [Pathfinding](https://github.com/SebLague/Pathfinding)/721 | None |
+| 604 | 121 | 94 | a month ago | [LightInject](https://github.com/seesharper/LightInject)/722 | An ultra lightweight IoC container  |
+| 603 | 32 | 15 | 2 years ago | [ObjectLayoutInspector](https://github.com/SergeyTeplyakov/ObjectLayoutInspector)/723 | A tool that helps to see an internal structure of the CLR types at runtime |
+| 600 | 256 | 4 | 3 days ago | [csharp-driver](https://github.com/datastax/csharp-driver)/724 | DataStax C# Driver for Apache Cassandra |
+| 600 | 85 | 23 | 10 months ago | [config](https://github.com/aloneguid/config)/725 | ⚙ Config.Net - the easiest configuration framework for .NET developers. No BS. |
+| 599 | 174 | 38 | 3 years ago | [pretzel](https://github.com/Code52/pretzel)/726 | A site generation tool (and then some) for .NET platforms  |
+| 599 | 23 | 72 | 3 years ago | [UniversalSplitScreen](https://github.com/UniversalSplitScreen/UniversalSplitScreen)/727 | Split screen multiplayer for any game with multiple keyboards, mice and controllers. |
+| 597 | 37 | 39 | 5 months ago | [Depressurizer](https://github.com/Theo47/Depressurizer)/728 | Depressurizer is a program that helps you categorize your steam games. |
+| 597 | 86 | 2 | 4 years ago | [MouseFlight](https://github.com/brihernandez/MouseFlight)/729 | War Thunder style mouse flight controls for aircraft |
+| 596 | 134 | 17 | 1 year, 21 days ago | [SharpConfig](https://github.com/cemdervis/SharpConfig)/730 | An easy to use CFG/INI configuration library for .NET. |
+| 595 | 100 | 18 | 1 year, 7 months ago | [DInvoke](https://github.com/TheWover/DInvoke)/731 | Dynamically invoke arbitrary unmanaged code from managed code without PInvoke. |
+| 595 | 133 | 70 | 8 months ago | [storage](https://github.com/aloneguid/storage)/732 | 💿 Storage abstractions with implementations for .NET/.NET Standard |
+| 595 | 1424 | 24 | 2 months ago | [youtube-tutorials](https://github.com/MoralisWeb3/youtube-tutorials)/733 | None |
+| 595 | 23 | 5 | 10 days ago | [jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark)/734 | jellyfin电影元数据插件 |
+| 594 | 165 | 39 | 2 months ago | [SmtpServer](https://github.com/cosullivan/SmtpServer)/735 | A SMTP Server component written in C# |
+| 593 | 117 | 2 | 1 year, 11 months ago | [WpfAnimatedGif](https://github.com/XamlAnimatedGif/WpfAnimatedGif)/736 | A simple library to display animated GIF images in WPF, usable in XAML or in code. |
+| 593 | 96 | 28 | 3 months ago | [fluent-xaml-theme-editor](https://github.com/microsoft/fluent-xaml-theme-editor)/737 | The Fluent Design XAML theme editor. |
+| 592 | 174 | 305 | 2 years ago | [BundlerMinifier](https://github.com/madskristensen/BundlerMinifier)/738 | Visual Studio extension |
+| 592 | 67 | 4 | a month ago | [tusdotnet](https://github.com/tusdotnet/tusdotnet)/739 | .NET server implementation of the Tus protocol for resumable file uploads. Read more at https://tus.io |
+| 592 | 73 | 2 | 3 months ago | [Whisker](https://github.com/eladshamir/Whisker)/740 | Whisker is a C# tool for taking over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding "Shadow Credentials" to the target account. |
+| 592 | 70 | 9 | a month ago | [K4os.Compression.LZ4](https://github.com/MiloszKrajewski/K4os.Compression.LZ4)/741 | LZ4/LH4HC compression for .NET Standard 1.6/2.0 (formerly known as lz4net)  |
+| 591 | 115 | 12 | 1 year, 9 months ago | [StandIn](https://github.com/FuzzySecurity/StandIn)/742 | StandIn is a small .NET35/45 AD post-exploitation toolkit |
+| 590 | 296 | 0 | 4 months ago | [NETBookMaterials](https://github.com/yangzhongke/NETBookMaterials)/743 | None |
+| 588 | 1459 | 1267 | 19 hours ago | [dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs)/744 | .NET API reference documentation (.NET 5+, .NET Core, .NET Framework) |
+| 587 | 290 | 8 | 7 months ago | [RockPaperScissorsLizardSpock](https://github.com/microsoft/RockPaperScissorsLizardSpock)/745 | Rock, Paper, Scissors, Lizard, Spock - Sample Application |
+| 586 | 148 | 2 | 14 days ago | [CoreShop](https://github.com/CoreUnion/CoreShop)/746 | 基于 Asp.Net Core 7.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。 |
+| 585 | 51 | 5 | 2 months ago | [Jot](https://github.com/anakic/Jot)/747 | Jot is a library for persisting and applying .NET application state. |
+| 584 | 88 | 1 | 1 year, 2 months ago | [FFT-Ocean](https://github.com/gasgiant/FFT-Ocean)/748 | FFT ocean for Unity |
+| 583 | 222 | 13 | 2 months ago | [samples-for-ai](https://github.com/microsoft/samples-for-ai)/749 | Samples for getting started with deep learning across TensorFlow, CNTK, Theano and more. |
+| 582 | 123 | 3 | 1 year, 23 days ago | [Stanford.NLP.NET](https://github.com/sergey-tihon/Stanford.NLP.NET)/750 | Stanford NLP for .NET |
+| 579 | 296 | 115 | 3 months ago | [MixedRealityCompanionKit](https://github.com/microsoft/MixedRealityCompanionKit)/751 | This is a MixedRealityToolkit style repository for code bits and components that may not run directly on Microsoft HoloLens or immersive headsets but instead pair with them to build experiences. |
+| 578 | 291 | 11 | 2 years ago | [equeue](https://github.com/tangxuehua/equeue)/752 | a distributed mq written by c#. |
+| 574 | 178 | 8 | a month ago | [SMBLibrary](https://github.com/TalAloni/SMBLibrary)/753 | Free, Open Source, User-Mode SMB 1.0/CIFS, SMB 2.0, SMB 2.1 and SMB 3.0 server and client library |
+| 573 | 198 | 5 | 3 years ago | [AngryBots_ECS](https://github.com/UnityTechnologies/AngryBots_ECS)/754 | The DOTS project used for the presentation Converting Your Game to DOTS |
+| 573 | 89 | 0 | 8 months ago | [EfCore.GenericServices](https://github.com/JonPSmith/EfCore.GenericServices)/755 | A library to help you quickly code CRUD accesses for a web/mobile/desktop application using EF Core. |
+| 573 | 231 | 7 | 13 years ago | [mongodb-csharp](https://github.com/samus/mongodb-csharp)/756 | A driver written in c# to connect to the MongoDB document oriented database. |
+| 572 | 92 | 13 | 7 years ago | [Unity-2D-Destruction](https://github.com/mjholtzem/Unity-2D-Destruction)/757 | None |
+| 572 | 317 | 200 | 5 years ago | [ews-managed-api](https://github.com/OfficeDev/ews-managed-api)/758 | None |
+| 571 | 98 | 73 | 27 days ago | [ecommerce-microservices](https://github.com/mehdihadeli/ecommerce-microservices)/759 | 🛍️ A practical e-commerce microservices, built with .Net 7, Domain-Driven Design, CQRS, Vertical Slice Architecture, Event-Driven Architecture, and the latest technologies. |
+| 570 | 143 | 61 | 1 year, 1 month ago | [Device.Net](https://github.com/MelbourneDeveloper/Device.Net)/760 | A C# cross platform connected device framework |
+| 568 | 341 | 316 | 1 year, 11 months ago | [RocketBot](https://github.com/brianzhouzc/RocketBot)/761 | An automated Pokémon Go Bot |
+| 567 | 218 | 4 | 1 year, 6 months ago | [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk)/762 | :video_game: Unity SDK to use the IBM Watson services. |
+| 566 | 85 | 1 | 1 year, 3 months ago | [SharpNoPSExec](https://github.com/juliourena/SharpNoPSExec)/763 | Get file less command execution for lateral movement. |
+| 565 | 86 | 19 | 1 year, 11 months ago | [CyLR](https://github.com/orlikoski/CyLR)/764 | CyLR - Live Response Collection Tool |
+| 565 | 70 | 4 | 1 year, 2 months ago | [SuperBenchmarker](https://github.com/aliostad/SuperBenchmarker)/765 | Apache Benchmark (ab.exe) on steroids |
+| 564 | 43 | 6 | 3 days ago | [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader)/766 | Bilibili 直播录制 |
+| 563 | 175 | 3 | 1 year, 6 months ago | [quick_psd2ugui](https://github.com/zs9024/quick_psd2ugui)/767 | parse psd file and auto generate ui prefab（解析psd文件，一键生成ugui面板） |
+| 563 | 78 | 10 | 1 year, 10 months ago | [grpc-errors](https://github.com/avinassh/grpc-errors)/768 | A handy guide to gRPC errors |
+| 563 | 60 | 0 | 2 years ago | [LaspVfx](https://github.com/keijiro/LaspVfx)/769 | Audio reactive Unity VFX with LASP |
+| 563 | 97 | 82 | 3 days ago | [xaml-math](https://github.com/ForNeVeR/xaml-math)/770 | A collection of .NET libraries for rendering mathematical formulae using the LaTeX typesetting style, for the WPF and Avalonia XAML-based frameworks |
+| 563 | 76 | 1 | 3 years ago | [SharpDllProxy](https://github.com/Flangvik/SharpDllProxy)/771 | Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL proxy loading or sideloading |
+| 562 | 322 | 9 | 4 years ago | [Procedural-Planets](https://github.com/SebLague/Procedural-Planets)/772 | None |
+| 562 | 156 | 0 | 3 years ago | [AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server)/773 | OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core |
+| 561 | 210 | 104 | 18 days ago | [testfx](https://github.com/microsoft/testfx)/774 | MSTest framework and adapter |
+| 561 | 195 | 73 | 7 years ago | [ets2-telemetry-server](https://github.com/Funbit/ets2-telemetry-server)/775 | ETS2/ATS Telemetry Web Server + Mobile Dashboard |
+| 561 | 121 | 18 | 5 months ago | [Keras.NET](https://github.com/SciSharp/Keras.NET)/776 | Keras.NET is a high-level neural networks API for C# and F#, with Python Binding and capable of running on top of TensorFlow, CNTK, or Theano.  |
+| 560 | 313 | 0 | a day ago | [OsEngine](https://github.com/AlexWan/OsEngine)/777 | Open Source algo trading platform |
+| 560 | 146 | 5 | a month ago | [coypu](https://github.com/featurist/coypu)/778 | Intuitive, robust browser automation for .Net |
+| 559 | 309 | 0 | 8 months ago | [MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo)/779 | This is a demo with two ASP .NET 6 microservices using RabbitMQ and Docker |
+| 557 | 40 | 4 | 7 months ago | [resin](https://github.com/kreeben/resin)/780 | Vector space search engine. Available as a HTTP service or as an embedded library. |
+| 557 | 26 | 3 | 28 days ago | [lunr-core](https://github.com/bleroy/lunr-core)/781 | A port of LUNR.js to .NET Core |
+| 556 | 288 | 3 | 3 years ago | [Entropy](https://github.com/aspnet/Entropy)/782 | A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features. |
+| 556 | 50 | 8 | a day ago | [LWGUI](https://github.com/JasonMa0012/LWGUI)/783 | A Lightweight, Flexible, Powerful Shader GUI System for Unity. |
+| 555 | 211 | 101 | 3 years ago | [SubSonic-3.0](https://github.com/subsonic/SubSonic-3.0)/784 | SubSonic 3.0 for the .NET 3.5 Framework |
+| 555 | 68 | 64 | 12 days ago | [SuperTiled2Unity](https://github.com/Seanba/SuperTiled2Unity)/785 | Imports Tiled files to Unity. Better than regular Tiled2Unity. |
+| 554 | 183 | 5 | 2 months ago | [RJCP.DLL.SerialPortStream](https://github.com/jcurl/RJCP.DLL.SerialPortStream)/786 | SerialPortStream is an independent implementation of System.IO.Ports.SerialPort and SerialStream for better reliability and maintainability. Default branch is 2.x and now has support for Mono with help of a C library. |
+| 553 | 52 | 11 | 3 days ago | [Raylib-cs](https://github.com/ChrisDill/Raylib-cs)/787 | C# bindings for raylib, a simple and easy-to-use library to learn videogames programming |
+| 552 | 164 | 19 | 2 days ago | [GRBL-Plotter](https://github.com/svenhb/GRBL-Plotter)/788 | A GCode sender (not only for lasers or plotters) for up to two GRBL controller. SVG, DXF, HPGL import. 6 axis DRO.  |
+| 550 | 107 | 0 | 18 days ago | [CSSG](https://github.com/RCStep/CSSG)/789 | Cobalt Strike Shellcode Generator |
+| 548 | 60 | 38 | a month ago | [EasyData](https://github.com/KorzhCom/EasyData)/790 | Adaptive CRUD for ASP.NET Core. With EasyData you can get both API endpoints and client-side UI for all CRUD operations in a matter of minutes using just your DbContext and a few lines of code. |
+| 548 | 242 | 15 | a month ago | [FSLib.App.SimpleUpdater](https://github.com/iccfish/FSLib.App.SimpleUpdater)/791 | A simple automatic update library for .net. 一个炒鸡简单但是足够好用的自动更新库。 |
+| 547 | 60 | 13 | 3 years ago | [consoleframework](https://github.com/elw00d/consoleframework)/792 | Cross-platform toolkit for easy development of TUI applications. |
+| 546 | 398 | 1 | 5 years ago | [dotnet-docker-samples](https://github.com/dotnet/dotnet-docker-samples)/793 | The .NET Core Docker samples have moved to https://github.com/dotnet/dotnet-docker/tree/master/samples |
+| 545 | 110 | 4 | a day ago | [ApprovalTests.Net](https://github.com/approvals/ApprovalTests.Net)/794 | ApprovalTest verification library for .Net |
+| 544 | 87 | 8 | 4 years ago | [graph-visualizer](https://github.com/Unity-Technologies/graph-visualizer)/795 | Visualizer for your Playable graphs |
+| 542 | 164 | 17 | 7 years ago | [ncqrs](https://github.com/pjvds/ncqrs)/796 | Ncqrs Framework - The CQRS Framework for .NET |
+| 541 | 58 | 4 | 4 years ago | [dnc](https://github.com/dncto/dnc)/797 | dnc 去中心化 开源社区 轻联盟 dncto.com QQ群 779699538 |
+| 539 | 110 | 5 | 9 days ago | [Npoi.Mapper](https://github.com/donnytian/Npoi.Mapper)/798 | Use this tool to import or export data with Excel file. The tool is a convention based mapper between strong typed object and Excel data via NPOI. |
+| 539 | 358 | 164 | 6 months ago | [Xamarin.Forms.GoogleMaps](https://github.com/amay077/Xamarin.Forms.GoogleMaps)/799 | Map library for Xamarin.Forms using Google maps API |
+| 539 | 586 | 6 | 7 years ago | [AbsoluteBeginnersWin10](https://github.com/Windows-Readiness/AbsoluteBeginnersWin10)/800 | Video content can be found at https://channel9.msdn.com/Series/Windows-10-development-for-absolute-beginners |
+| 396 | 158 | 0 | 3 months ago | [samples.xunit](https://github.com/xunit/samples.xunit)/801 | Samples for xUnit.net (please open issues in https://github.com/xunit/xunit) |
+| 395 | 199 | 22 | 5 years ago | [training-tutorials](https://github.com/dotnet/training-tutorials)/802 | Getting started tutorials for C# and ASP.NET |
+| 394 | 39 | 8 | 3 years ago | [enhancer](https://github.com/xeleh/enhancer)/803 | A collection of utilities to enhance the Unity Editor |
+| 394 | 90 | 2 | 2 years ago | [Trinity](https://github.com/CatImmortal/Trinity)/804 | 基于Unity的纯C#（客户端+服务端+热更新）游戏开发整合方案 |
+| 394 | 23 | 1 | 2 years ago | [Gochiusearch](https://github.com/ksasao/Gochiusearch)/805 | A Fast Scene Search Engine for Anime Series 'Gochuumon wa Usagi Desuka?' |
+| 393 | 64 | 62 | 4 years ago | [Hangfire.Console](https://github.com/pieceofsummer/Hangfire.Console)/806 | Job console extension for Hangfire |
+| 393 | 85 | 0 | 3 days ago | [DotNetCore](https://github.com/rafaelfgx/DotNetCore)/807 | .NET Nuget Packages. |
+| 392 | 48 | 1 | 3 years ago | [DotsUI](https://github.com/supron54321/DotsUI)/808 | Unity engine DOTS UI solution |
+| 392 | 63 | 68 | 7 months ago | [actools](https://github.com/gro-ove/actools)/809 | Alternative launcher for Assetto Corsa named Content Manager, and some utils as well. |
+| 391 | 180 | 104 | 4 months ago | [GMap.NET](https://github.com/judero01col/GMap.NET)/810 | GMap.NET Windows Forms & Presentation is an excellent open source, powerful, free and cross-platform .NET control. Allows the use of routing, geocoding, directions and maps from Google, Yahoo!, Bing, OpenStreetMap, ArcGIS, Pergo, SigPac, Yendux, Mapy.cz, Maps.lt, iKarte.lv, NearMap, HereMap, CloudMade, WikiMapia, MapQuest and many more. |
+| 391 | 39 | 5 | 4 days ago | [evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example)/811 | Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. Go beyond the one-size-fits-all solutions and understand how to blend these approaches based on your unique needs. |
+| 391 | 73 | 84 | 3 months ago | [Statiq.Framework](https://github.com/statiqdev/Statiq.Framework)/812 | A flexible and extensible static content generation framework for .NET. |
+| 390 | 42 | 9 | 1 year, 19 days ago | [PlaceViewer](https://github.com/GregBahm/PlaceViewer)/813 | A VR Unity project to viewing  reddit's 2017 "Place" data in 3D. |
+| 390 | 128 | 5 | 21 days ago | [TokenPay](https://github.com/LightCountry/TokenPay)/814 | ✅一款同时支持动态和静态收款地址收取TRX、USDT-TRC20、ETH系列区块链所有代币的支付解决方案！✅A payment solution that supports both dynamic and static payee addresses to receive TRX, USDT-TRC20, all tokens of ETH series blockchain!  |
+| 390 | 86 | 6 | 5 months ago | [DynamicRoleBasedAuthorizationNETCore](https://github.com/mo-esmp/DynamicRoleBasedAuthorizationNETCore)/815 | Dynamic Role-Based Authorization for ASP.NET Core MVC 3.1, 5.0, 6.0 and 7.0 |
+| 389 | 180 | 137 | 11 months ago | [FirebasePushNotificationPlugin](https://github.com/CrossGeeks/FirebasePushNotificationPlugin)/816 | Firebase Push Notification Plugin for Xamarin iOS and Android |
+| 388 | 110 | 17 | 4 years ago | [nfx](https://github.com/aumcode/nfx)/817 | C# Server UNISTACK framework [MOVED] |
+| 388 | 52 | 18 | a month ago | [CppAst.NET](https://github.com/xoofx/CppAst.NET)/818 | CppAst is a .NET library providing a C/C++ parser for header files powered by Clang/libclang with access to the full AST, comments and macros |
+| 387 | 69 | 26 | 3 years ago | [Chronicle](https://github.com/snatch-dev/Chronicle)/819 | Implementation of saga pattern for .NET Core |
+| 386 | 197 | 11 | 4 years ago | [bitcoinlib](https://github.com/cryptean/bitcoinlib)/820 | Bitcoin Core RPC compatible, battle-tested .NET library and RPC wrapper for Bitcoin and Altcoins |
+| 386 | 65 | 34 | a month ago | [redis-om-dotnet](https://github.com/redis/redis-om-dotnet)/821 | Object mapping, and more, for Redis and .NET |
+| 386 | 207 | 6 | 2 days ago | [CryptoExchange.Net](https://github.com/JKorf/CryptoExchange.Net)/822 | Base for exchanges |
+| 385 | 139 | 4 | 4 years ago | [VerificationCode](https://github.com/eatage/VerificationCode)/823 | 滑动验证码、滑块验证码 、Slider Verification Code (ASP.NET/C#) |
+| 385 | 119 | 21 | 2 years ago | [web-push-csharp](https://github.com/web-push-libs/web-push-csharp)/824 | Web Push library for C#  |
+| 384 | 259 | 48 | 4 years ago | [app-crm](https://github.com/xamarin/app-crm)/825 | None |
+| 384 | 195 | 2 | 10 years ago | [Open-Source-AHRS-With-x-IMU](https://github.com/xioTechnologies/Open-Source-AHRS-With-x-IMU)/826 | None |
+| 384 | 111 | 4 | 3 years ago | [OnionArchitecture](https://github.com/iammukeshm/OnionArchitecture)/827 | The onion architecture, introduced by Jeffrey Palermo, overcomes the issues of the layered architecture with great ease. With Onion Architecture, the game-changer is that the Domain Layer (Entities and Validation Rules that are common to the business case ) is at the Core of the Entire Application. This means higher flexibility and lesser coupling. In this approach, we can see that all the Layers are dependent only on the Core Layers. |
+| 383 | 209 | 2 | 6 years ago | [WechatYUNchart](https://github.com/Liberxue/WechatYUNchart)/828 | 微信多开多账号机器人 云客服系统 微商营销 系统web协议一键登录 非公众号微信机器人微信群管家  微信自动回复 微信定时发送消息 微信多账号登录    微信网页版本协议多开   一键登录    红包数量提醒   微信用户识别男女签名备注地理位置等，群发   自动发消息 定时发消息 群消息监控   机器人回复 ，定时回复，超时回复    聊天记录保存，聊天记录查看 |
+| 383 | 418 | 0 | a month ago | [DockerAndKubernetesCourseCode](https://github.com/DanWahlin/DockerAndKubernetesCourseCode)/829 | Course code for the Docker and Kubernetes course: https://codewithdan.com/products/docker-kubernetes |
+| 383 | 87 | 36 | a month ago | [WampSharp](https://github.com/Code-Sharp/WampSharp)/830 | A C# implementation of WAMP (The Web Application Messaging Protocol) |
+| 383 | 284 | 48 | 3 years ago | [MyDriving](https://github.com/Azure-Samples/MyDriving)/831 | Building IoT or Mobile solutions are fun and exciting. This year for Build, we wanted to show the amazing scenarios that can come together when these two are combined. So, we went and developed a sample application. MyDriving uses a wide range of Azure services to process and analyze car telemetry data for both real-time insights and long-term patterns and trends. The following features are supported in the current version of the mobile app. |
+| 383 | 68 | 23 | 3 months ago | [aliyun-ddns](https://github.com/sanjusss/aliyun-ddns)/832 | 阿里云动态域名工具，支持docker和ipv6。 |
+| 382 | 100 | 6 | 7 years ago | [NVIDIAHairWorksIntegration](https://github.com/unity3d-jp/NVIDIAHairWorksIntegration)/833 | NVIDIA Hair Works Integration for Unity |
+| 382 | 93 | 0 | 5 years ago | [rrod](https://github.com/Maarten88/rrod)/834 | Exploring a new web architecture with React, Redux, Orleans and Dotnet Core |
+| 382 | 50 | 5 | 4 days ago | [atldotnet](https://github.com/Zeugma440/atldotnet)/835 | Fully managed, portable and easy-to-use C# library to read and edit audio data and metadata (tags) from various audio formats, playlists and CUE sheets |
+| 381 | 53 | 6 | 3 years ago | [EasyMotionRecorder](https://github.com/neon-izm/EasyMotionRecorder)/836 | Unityエディタ上でVRIKなどのモーションキャプチャをしたHumanoidキャラクターのモーションを記録, 再生をするスクリプト |
+| 381 | 84 | 0 | 2 years ago | [SharpRDPHijack](https://github.com/bohops/SharpRDPHijack)/837 | A POC Remote Desktop (RDP) session hijack utility for disconnected sessions |
+| 380 | 101 | 53 | 3 years ago | [omnisharp-server](https://github.com/OmniSharp/omnisharp-server)/838 | HTTP wrapper around NRefactory allowing C# editor plugins to be written in any language. |
+| 380 | 75 | 9 | 1 year, 7 months ago | [ElasticLINQ](https://github.com/ElasticLINQ/ElasticLINQ)/839 | Use LINQ to query Elasticsearch with results as .NET objects |
+| 379 | 28 | 3 | 4 months ago | [LINQPad.QueryPlanVisualizer](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer)/840 | SQL Server and PostgreSQL query execution plan visualizer for LINQPad |
+| 379 | 78 | 25 | 6 years ago | [VirtualDesktopManager](https://github.com/m0ngr31/VirtualDesktopManager)/841 | None |
+| 379 | 60 | 22 | 2 months ago | [ncalc](https://github.com/ncalc/ncalc)/842 | Mathematical Expressions Evaluator for .NET |
+| 378 | 38 | 16 | 4 years ago | [CloudSeed](https://github.com/ValdemarOrn/CloudSeed)/843 | Algorithmic Reverb VST Plugin |
+| 378 | 62 | 18 | a month ago | [SharpGLTF](https://github.com/vpenades/SharpGLTF)/844 | glTF reader and writer for .NET Standard |
+| 377 | 37 | 2 | 6 months ago | [awesome-german-piracy](https://github.com/SeppPenner/awesome-german-piracy)/845 | A curated list of (not only) German piracy sites. |
+| 377 | 87 | 27 | 17 days ago | [vs-mef](https://github.com/microsoft/vs-mef)/846 | Managed Extensibility Framework (MEF) implementation used by Visual Studio |
+| 376 | 69 | 1 | 3 years ago | [lospro](https://github.com/devdogio/lospro)/847 | Los pro |
+| 376 | 80 | 32 | 9 days ago | [Typography](https://github.com/LayoutFarm/Typography)/848 | C# Font Reader (TrueType / OpenType / OpenFont / CFF / woff / woff2) , Glyphs Layout and Rendering |
+| 375 | 156 | 157 | 6 years ago | [BetterCMS](https://github.com/devbridge/BetterCMS)/849 | A publishing focused and developer friendly .NET Open Source CMS. |
+| 375 | 56 | 2 | 3 years ago | [SharpSniper](https://github.com/HunnicCyber/SharpSniper)/850 | Find specific users in active directory via their username and logon IP address |
+| 374 | 77 | 3 | 2 years ago | [Terraforming](https://github.com/SebLague/Terraforming)/851 | None |
+| 374 | 135 | 2 | 6 years ago | [Apworks](https://github.com/daxnet/Apworks)/852 | Apworks is a flexible, scalable, configurable and efficient .NET based application development framework that helps software developers to easily build enterprise applications by applying either Classic Layering or Command-Query Responsibility Segregation (CQRS) architectural patterns. |
+| 373 | 380 | 53 | 9 months ago | [BotFramework-BlogSamples](https://github.com/microsoft/BotFramework-BlogSamples)/853 | Welcome to the Bot Framework samples repository. Here you will find sample bots that take advantage of Bot Framework capabilities.  |
+| 373 | 46 | 0 | 5 months ago | [AsyncCaptureTest](https://github.com/keijiro/AsyncCaptureTest)/854 | Non-blocking screen capture example with asynchronous GPU readback |
+| 370 | 71 | 3 | 1 year, 2 months ago | [physmem2profit](https://github.com/WithSecureLabs/physmem2profit)/855 | Physmem2profit can be used to create a minidump of a target hosts' LSASS process by analysing physical memory remotely |
+| 370 | 26 | 33 | 5 months ago | [DiscordBee](https://github.com/sll552/DiscordBee)/856 | MusicBee plugin that updates your Discord status with the currently playing track |
+| 370 | 28 | 5 | 30 days ago | [NativeCollections](https://github.com/jacksondunstan/NativeCollections)/857 | Native Collection Types for Unity |
+| 370 | 39 | 7 | 1 year, 10 months ago | [CharTweener](https://github.com/mdechatech/CharTweener)/858 | Unity3D - Animate characters in text |
+| 369 | 63 | 14 | 2 years ago | [QuickLook.Plugin.OfficeViewer](https://github.com/QL-Win/QuickLook.Plugin.OfficeViewer)/859 | Word, Excel, and PowerPoint plugin for QuickLook. |
+| 369 | 66 | 12 | 2 months ago | [VSSpellChecker](https://github.com/EWSoftware/VSSpellChecker)/860 | A Visual Studio spell checker editor extension that checks the spelling of comments, strings, and plain text as you type.  Supports configuration and various languages. |
+| 368 | 32 | 9 | 7 days ago | [morpeh](https://github.com/scellecs/morpeh)/861 | 🎲 ECS Framework for Unity Game Engine and .Net Platform |
+| 366 | 76 | 67 | 2 years ago | [snaketail-net](https://github.com/snakefoot/snaketail-net)/862 | Tail utility for monitoring text log files and Windows EventLog |
+| 366 | 21 | 1 | 11 months ago | [ProcessX](https://github.com/Cysharp/ProcessX)/863 | Simplify call an external process with the async streams in C# 8.0. |
+| 365 | 107 | 20 | 5 years ago | [MSBuildExtensionPack](https://github.com/mikefourie-zz/MSBuildExtensionPack)/864 | None |
+| 363 | 53 | 5 | 4 years ago | [Unity.GPUAnimation](https://github.com/joeante/Unity.GPUAnimation)/865 | Simple but very fast GPU vertex shader based animation system for Unity.Entities |
+| 363 | 43 | 18 | 3 months ago | [KeePassOneDriveSync](https://github.com/KoenZomers/KeePassOneDriveSync)/866 | Allows syncing of KeePass databases stored on OneDrive Personal, OneDrive for Business or SharePoint |
+| 362 | 107 | 8 | 8 years ago | [Kalkulator1](https://github.com/wybory2014/Kalkulator1)/867 | None |
+| 362 | 201 | 161 | 5 years ago | [n2cms](https://github.com/n2cms/n2cms)/868 | N2 CMS, an open source CMS for ASP.NET |
+| 362 | 123 | 3 | 2 years ago | [Splatoon-Ink](https://github.com/mixandjam/Splatoon-Ink)/869 | Recreating the Ink System from Splatoon |
+| 362 | 115 | 6 | 9 months ago | [pcsc-sharp](https://github.com/danm-de/pcsc-sharp)/870 | PC/SC wrapper classes for .NET, written in C# |
+| 362 | 97 | 44 | 3 years ago | [SharpLearning](https://github.com/mdabros/SharpLearning)/871 | Machine learning for C# .Net   |
+| 361 | 196 | 45 | 3 years ago | [SuperSocket.ClientEngine](https://github.com/kerryjiang/SuperSocket.ClientEngine)/872 | A .NET library which can make your socket client development easier |
+| 361 | 154 | 9 | 2 months ago | [opencvsharp_samples](https://github.com/shimat/opencvsharp_samples)/873 | None |
+| 359 | 75 | 9 | 3 years ago | [ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate)/874 | A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1 |
+| 357 | 49 | 65 | 3 months ago | [WiinUPro](https://github.com/KeyPuncher/WiinUPro)/875 | None |
+| 357 | 116 | 0 | 4 years ago | [WebSockets](https://github.com/aspnet/WebSockets)/876 | [Archived] Implementation of the WebSocket protocol, along with client and server integration components. |
+| 357 | 235 | 55 | 2 years ago | [aliyun-oss-csharp-sdk](https://github.com/aliyun/aliyun-oss-csharp-sdk)/877 | Aliyun OSS SDK for C# |
+| 357 | 6 | 16 | 2 months ago | [SFP](https://github.com/PhantomGamers/SFP)/878 | This utility is designed to allow you to apply skins to the modern Steam client |
+| 356 | 76 | 13 | 1 year, 11 months ago | [ThreeDPoseUnitySample](https://github.com/yukihiko/ThreeDPoseUnitySample)/879 |  Unity sample of 3D pose estimation |
+| 355 | 74 | 6 | 3 months ago | [TinyCsvParser](https://github.com/TinyCsvParser/TinyCsvParser)/880 | Easy to use, easy to extend and high-performance library for CSV parsing with .NET |
+| 355 | 143 | 1 | 4 years ago | [LockStepSimpleFramework-Shared](https://github.com/CraneInForest/LockStepSimpleFramework-Shared)/881 | unity帧同步游戏极简框架-客户端服务器共享逻辑 |
+| 354 | 63 | 27 | 8 years ago | [WebMConverter](https://github.com/WebMBro/WebMConverter)/882 | WebM for bakas. |
+| 354 | 47 | 0 | 5 months ago | [SharpToken](https://github.com/BeichenDream/SharpToken)/883 | Windows Token Stealing Expert |
+| 353 | 59 | 35 | 6 months ago | [DNT](https://github.com/RicoSuter/DNT)/884 | DNT (DotNetTools): Command line tools to manage .NET projects and solutions. |
+| 353 | 59 | 0 | 7 years ago | [KvantSwarm](https://github.com/keijiro/KvantSwarm)/885 | Flowing line renderer for Unity |
+| 353 | 85 | 0 | 3 years ago | [NoteEditor](https://github.com/setchi/NoteEditor)/886 | Note editor for rhythm games. |
+| 353 | 56 | 8 | 3 years ago | [SourceLink](https://github.com/ctaggart/SourceLink)/887 | Source Code On Demand |
+| 353 | 127 | 5 | 1 year, 3 months ago | [saga-orchestration-serverless](https://github.com/Azure-Samples/saga-orchestration-serverless)/888 | An orchestration-based saga implementation reference in a serverless architecture |
+| 353 | 106 | 86 | 10 months ago | [ZXing.Net.Maui](https://github.com/Redth/ZXing.Net.Maui)/889 | Barcode Scanning for MAUI? |
+| 352 | 84 | 10 | 1 year, 6 months ago | [Dapper-Plus](https://github.com/zzzprojects/Dapper-Plus)/890 | Dapper Plus - High-Efficient Bulk Actions (Insert, Update, Delete, and Merge) for .NET |
+| 352 | 12 | 35 | 1 year, 6 months ago | [CyanEmu](https://github.com/CyanLaser/CyanEmu)/891 | CyanEmu is a VRChat client emulator in Unity. Includes a player controller with interact system. Works with SDK2 and SDK3. |
+| 352 | 106 | 0 | 3 years ago | [FastNoise_CSharp](https://github.com/Auburn/FastNoise_CSharp)/892 | FastNoise C# Version |
+| 352 | 46 | 110 | a day ago | [Havit.Blazor](https://github.com/havit/Havit.Blazor)/893 | Free Bootstrap 5 components for ASP.NET Blazor + optional enterprise-level stack for Blazor development (gRPC code-first, layered architecture, localization, auth, ...) |
+| 352 | 278 | 75 | a day ago | [RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)/894 | Multipatch to KSP to give things realistic stats and sizes |
+| 351 | 75 | 14 | 2 years ago | [Bumblebee](https://github.com/beetlex-io/Bumblebee)/895 | .net core fast http and websocket gateway components |
+| 351 | 78 | 31 | 5 years ago | [editorconfig-visualstudio](https://github.com/editorconfig/editorconfig-visualstudio)/896 | EditorConfig Visual Studio Addin |
+| 351 | 145 | 59 | 2 months ago | [multiplayer-community-contributions](https://github.com/Unity-Technologies/multiplayer-community-contributions)/897 | Community contributions to Unity Multiplayer Networking products and services. |
+| 351 | 27 | 27 | 5 months ago | [MedallionShell](https://github.com/madelson/MedallionShell)/898 | A .NET library simplifying the execution and chaining of processes |
+| 351 | 61 | 14 | 6 months ago | [EFDesigner](https://github.com/msawczyn/EFDesigner)/899 | Entity Framework visual design surface and code-first code generation for EF6, Core and beyond |
+| 351 | 101 | 37 | a month ago | [UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering)/900 | Volume rendering, implemented in Unity3D.  Want to support the project? Donate a small sum to Save The Children(https://www.savethechildren.net/) or another charity, and send me a message, and I will be greatly motivated! |
+| 488 | 505 | 96 | 3 years ago | [azure-devops-dotnet-samples](https://github.com/microsoft/azure-devops-dotnet-samples)/901 | .NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server |
+| 487 | 149 | 12 | 2 years ago | [Merp](https://github.com/mastreeno/Merp)/902 | An event based Micro ERP |
+| 487 | 65 | 28 | 6 years ago | [VFW](https://github.com/vexe/VFW)/903 | None |
+| 487 | 156 | 6 | 2 years ago | [run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore)/904 | A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD best practices. Download 100+ page eBook PDF from here -> |
+| 486 | 55 | 24 | 1 year, 6 months ago | [unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer)/905 | Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once |
+| 486 | 53 | 232 | a day ago | [data-api-builder](https://github.com/Azure/data-api-builder)/906 | Data API builder for Azure Databases provides modern REST and GraphQL endpoints to your Azure Databases. |
+| 486 | 51 | 10 | 14 days ago | [SecureDNSClient](https://github.com/msasanmh/SecureDNSClient)/907 | A GUI for DNSLookup, DNSProxy, DNSCrypt and GoodbyeDPI. |
+| 485 | 41 | 5 | 1 year, 19 days ago | [CustomToolbar](https://github.com/smkplus/CustomToolbar)/908 | CustomToolbar |
+| 484 | 177 | 95 | a month ago | [EDEngineer](https://github.com/msarilar/EDEngineer)/909 | An overlay to track Elite Dangerous blueprints progress in real time |
+| 483 | 114 | 0 | 2 years ago | [facial-ar-remote](https://github.com/Unity-Technologies/facial-ar-remote)/910 | **This project is discontinued** Facial AR Remote is a tool that allows you to capture blendshape animations directly from your iPhone X into Unity 3d by use of an app on your phone. |
+| 483 | 86 | 47 | 4 days ago | [psi](https://github.com/microsoft/psi)/911 | Platform for Situated Intelligence |
+| 482 | 298 | 132 | 29 days ago | [ClassicUO](https://github.com/ClassicUO/ClassicUO)/912 | ClassicUO - an open source implementation of the Ultima Online Classic Client. |
+| 481 | 118 | 11 | 29 days ago | [AvillaForensics](https://github.com/AvillaDaniel/AvillaForensics)/913 | Avilla Forensics 3.0 |
+| 480 | 143 | 8 | 2 years ago | [ZKWeb](https://github.com/zkweb-framework/ZKWeb)/914 | A flexible web framework supports .Net Framework and .Net Core |
+| 480 | 218 | 0 | 4 years ago | [Caching](https://github.com/aspnet/Caching)/915 | [Archived] Libraries for in-memory caching and distributed caching. Project moved to https://github.com/aspnet/Extensions |
+| 480 | 206 | 7 | 6 years ago | [Html2Article](https://github.com/stanzhai/Html2Article)/916 | Html网页正文提取 |
+| 480 | 125 | 12 | 6 months ago | [Platformus](https://github.com/Platformus/Platformus)/917 | Platformus is free, open source, and cross-platform developer-friendly CMS based on ASP.NET Core, ExtCore framework, and Magicalizer |
+| 479 | 79 | 4 | 23 hours ago | [VisualHFT](https://github.com/silahian/VisualHFT)/918 | GUI for enterprise level high frequency trading systems, making focus on visualizing market microstructure analytics, such Limit Order Book dynamic, latencies, execution quality, and other analytics. WPF & C# |
+| 478 | 71 | 15 | 2 months ago | [Pandas.NET](https://github.com/SciSharp/Pandas.NET)/919 | Pandas port for C# and F#, data analysis tool, process multi-dim array in DataFrame. |
+| 477 | 142 | 85 | 3 months ago | [SoMall](https://github.com/jerrytang67/SoMall)/920 | 社交电商商城开源项目.socail+mall即取名SoMall ,abp netcore 3.1 angular vue uni-app typescript docker mssql |
+| 477 | 20 | 5 | a month ago | [nein-linq](https://github.com/axelheer/nein-linq)/921 | NeinLinq provides helpful extensions for using LINQ providers such as Entity Framework that support only a minor subset of .NET functions, reusing functions, rewriting queries, even making them null-safe, and building dynamic queries using translatable predicates and selectors. |
+| 476 | 92 | 42 | 10 months ago | [PluginFramework](https://github.com/weikio/PluginFramework)/922 | Everything is a Plugin in .NET |
+| 476 | 284 | 85 | 5 years ago | [ProjectPorcupine](https://github.com/TeamPorcupine/ProjectPorcupine)/923 | Project Porcupine: A Base-Building Game...in Space! |
+| 476 | 136 | 7 | a day ago | [Moonglade](https://github.com/EdiWang/Moonglade)/924 | The .NET 7 blog system of https://edi.wang, runs on Microsoft Azure |
+| 476 | 72 | 5 | 2 years ago | [animation-jobs-samples](https://github.com/Unity-Technologies/animation-jobs-samples)/925 | Code samples using the animation C# jobs feature. |
+| 475 | 211 | 0 | 2 years ago | [roro](https://github.com/arviedelgado/roro)/926 | roro is a free, open-source robotic process automation software |
+| 474 | 121 | 1 | 3 months ago | [RVO2-CS](https://github.com/snape/RVO2-CS)/927 | Optimal Reciprocal Collision Avoidance (C#) |
+| 474 | 110 | 63 | 1 year, 8 months ago | [xamarin-fingerprint](https://github.com/smstuebe/xamarin-fingerprint)/928 | Xamarin and MvvMCross plugin for authenticate a user via fingerprint sensor |
+| 474 | 105 | 1 | 5 years ago | [SharpWeb](https://github.com/djhohnstein/SharpWeb)/929 | .NET 2.0 CLR project to retrieve saved browser credentials from Google Chrome, Mozilla Firefox and Microsoft Internet Explorer/Edge. |
+| 472 | 26 | 10 | a month ago | [com.unity.demoteam.mesh-to-sdf](https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf)/930 | A light and fast real-time SDF generator, primarily for animated characters. The dynamic SDF can be used for all sorts of VFX. Also enables hair-to-character collisions in the new hair package. |
+| 472 | 577 | 2 | a day ago | [AI-102-AIEngineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer)/931 | Lab files for AI-102 - AI Engineer |
+| 470 | 24 | 20 | 7 days ago | [NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes)/932 | GUI for AV1 (aomenc, rav1e & svt-av1) |
+| 470 | 28 | 55 | 4 months ago | [DiffusionToolkit](https://github.com/RupertAvery/DiffusionToolkit)/933 | Metadata-indexer and Viewer for AI-generated images |
+| 470 | 107 | 125 | 5 years ago | [barebones-masterserver](https://github.com/alvyxaz/barebones-masterserver)/934 | Master Server framework for Unity |
+| 470 | 245 | 17 | 5 years ago | [AngularASPNETCore2WebApiAuth](https://github.com/mmacneil/AngularASPNETCore2WebApiAuth)/935 | Sample project demonstrating jwt-based authentication with an Angular (v5.2.1) frontend and ASP.NET Core 2 WebApi.  Includes both local user registration with .NET Core Identity membership and facebook login scenarios. |
+| 470 | 228 | 1 | 2 years ago | [ASP.NET-MVC-CMS](https://github.com/SeriaWei/ASP.NET-MVC-CMS)/936 | ZKEACMS，建网站就像搭积木一样 |
+| 469 | 48 | 8 | 29 days ago | [blazor-state](https://github.com/TimeWarpEngineering/blazor-state)/937 | A Blazor State management library by TimeWarp. |
+| 468 | 84 | 140 | 4 years ago | [workbooks](https://github.com/microsoft/workbooks)/938 | Workbooks is an interactive programming environment that’s perfect for experimentation, learning, and documentation: an educational tool for learning the myriad of .NET platforms, APIs, and libraries. |
+| 467 | 127 | 12 | 1 year, 10 months ago | [knative-tutorial](https://github.com/meteatamel/knative-tutorial)/939 | A collection of samples for Knative Serving, Knative Eventing and Knative-GCP projects. |
+| 466 | 54 | 12 | 6 hours ago | [PmsService](https://github.com/cjmurph/PmsService)/940 | Plex Media Server service wrapper for windows |
+| 465 | 94 | 8 | 9 hours ago | [FreeControl](https://github.com/pdone/FreeControl)/941 | 在PC上控制Android设备。 |
+| 465 | 192 | 49 | 6 days ago | [minio-dotnet](https://github.com/minio/minio-dotnet)/942 | MinIO Client SDK for .NET |
+| 465 | 85 | 34 | 3 years ago | [nbuilder](https://github.com/nbuilder/nbuilder)/943 | Rapid generation of test objects in .NET |
+| 464 | 52 | 0 | 1 year, 6 months ago | [Compute-Shaders-Fluid-Dynamic-](https://github.com/IRCSS/Compute-Shaders-Fluid-Dynamic-)/944 | Fluid Simulation Implementation in Compute Shaders using Unity3D |
+| 464 | 62 | 1 | 9 months ago | [PrintNotifyPotato](https://github.com/BeichenDream/PrintNotifyPotato)/945 | PrintNotifyPotato |
+| 464 | 77 | 5 | 3 years ago | [UChart](https://github.com/spr1ngd/UChart)/946 | data chart / data graph for untiy |
+| 464 | 284 | 6 | 11 months ago | [MonoGame.Samples](https://github.com/MonoGame/MonoGame.Samples)/947 | A few cross-platform game samples using MonoGame. |
+| 463 | 81 | 41 | 7 months ago | [kafkaflow](https://github.com/Farfetch/kafkaflow)/948 | KafkaFlow is a .NET framework to create Kafka based applications, simple to use and extend. |
+| 463 | 91 | 2 | 2 years ago | [KDTree](https://github.com/viliwonka/KDTree)/949 | Fast KDTree for Unity, with thread-safe querying. |
+| 463 | 97 | 8 | a month ago | [JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET)/950 | An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu. |
+| 462 | 100 | 43 | 4 years ago | [CSharpClient-for-Kafka](https://github.com/microsoft/CSharpClient-for-Kafka)/951 | .Net implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes. The project also offers balanced consumer implementation. |
+| 461 | 57 | 1 | 1 year, 6 months ago | [Procedural-painting](https://github.com/IRCSS/Procedural-painting)/952 | Procedural painting algorithms in Unity 3d with compute shaders based on genetic evolution algorithms |
+| 460 | 69 | 0 | 7 months ago | [HandPoseBarracuda](https://github.com/keijiro/HandPoseBarracuda)/953 | Hand and finger tracking solution (MediaPipe Hands) for Unity Barracuda |
+| 460 | 132 | 4 | 10 months ago | [Blog.IdentityServer](https://github.com/anjoy8/Blog.IdentityServer)/954 | 🥗 打造一个功能强大的通用型Ids4用户认证授权服务中心，配合之前的所有开源项目 |
+| 460 | 35 | 4 | 4 years ago | [KinoContour](https://github.com/keijiro/KinoContour)/955 | Contour line filter for Unity |
+| 460 | 60 | 74 | 1 year, 9 months ago | [dotnet-packaging](https://github.com/quamotion/dotnet-packaging)/956 | Extensions for the .NET Core CLI which help packaging and publishing .NET Core applications |
+| 460 | 86 | 5 | 2 years ago | [Aircraft-Physics](https://github.com/gasgiant/Aircraft-Physics)/957 | Fixed wing aircraft physics for Unity |
+| 459 | 55 | 0 | 3 years ago | [Multiplayer](https://github.com/Zetrith/Multiplayer)/958 | Zetrith's Multiplayer mod for RimWorld |
+| 458 | 91 | 35 | 3 years ago | [run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs)/959 | Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD best practices. Download 100+ page eBook PDF from here -> |
+| 458 | 47 | 0 | 5 years ago | [Flipbook](https://github.com/keijiro/Flipbook)/960 | Flip book effect example for Unity |
+| 458 | 57 | 55 | 8 months ago | [YAPA-2](https://github.com/YetAnotherPomodoroApp/YAPA-2)/961 | Minimalistic desktop timer app for Pomodoro Technique users |
+| 458 | 76 | 12 | 4 months ago | [BedrockLauncher](https://github.com/BedrockLauncher/BedrockLauncher)/962 | None |
+| 458 | 92 | 57 | 6 months ago | [QobuzDownloaderX](https://github.com/ImAiiR/QobuzDownloaderX)/963 | Downloads streams directly from Qobuz |
+| 458 | 50 | 5 | 3 years ago | [csharp-monad](https://github.com/louthy/csharp-monad)/964 | Library of monads for C# |
+| 457 | 31 | 8 | 1 year, 23 days ago | [AdvancedDLSupport](https://github.com/Nihlus/AdvancedDLSupport)/965 | Delegate-based C# P/Invoke alternative - compatible with all platforms and runtimes. |
+| 457 | 69 | 13 | 4 days ago | [Implem.Pleasanter](https://github.com/Implem/Implem.Pleasanter)/966 | Pleasanter is a no-code/low-code development platform that runs on .NET. You can quickly create business applications with simple operations. |
+| 456 | 126 | 157 | 4 years ago | [urho](https://github.com/xamarin/urho)/967 | Code to integrate with the Urho3D engine |
+| 456 | 41 | 37 | 2 years ago | [pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp)/968 | A Pixiv client for UWP users |
+| 456 | 53 | 4 | 4 years ago | [uiframework](https://github.com/yankooliveira/uiframework)/969 | The deVoid UI Framework for Unity |
+| 455 | 28 | 0 | 29 days ago | [KinoAqua](https://github.com/keijiro/KinoAqua)/970 | Watercolor effect for Unity URP/HDRP |
+| 455 | 94 | 49 | a month ago | [ClosedXML.Report](https://github.com/ClosedXML/ClosedXML.Report)/971 | ClosedXML.Report is a tool for report generation with which you can easily export any data from your .NET classes to Excel using a XLSX-template. |
+| 455 | 74 | 64 | 26 days ago | [Reinforced.Typings](https://github.com/reinforced/Reinforced.Typings)/972 | Converts C# classes to TypeScript interfaces (and many more) within project build. 0-dependency, minimal, gluten-free |
+| 455 | 58 | 15 | 3 years ago | [UberLogger](https://github.com/bbbscarter/UberLogger)/973 | Replacement logging framework for Unity, with a new editor and in-game console |
+| 455 | 35 | 24 | 4 years ago | [WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader)/974 | WinThumbsPreloader is a simple open source tool for preloading thumbnails in Windows Explorer. |
+| 454 | 103 | 5 | 3 months ago | [Serialize.Linq](https://github.com/esskar/Serialize.Linq)/975 | C# library to serialize LINQ expressions |
+| 454 | 124 | 16 | 3 years ago | [statemachine](https://github.com/appccelerate/statemachine)/976 | A .net library that lets you build state machines (hierarchical, async with fluent definition syntax and reporting capabilities). |
+| 453 | 63 | 26 | 2 years ago | [manos](https://github.com/jacksonh/manos)/977 | Manos is an easy to use, easy to test, high performance web application framework that stays out of your way and makes your life ridiculously simple. |
+| 452 | 89 | 2 | 1 year, 6 months ago | [SharpSocks](https://github.com/nettitude/SharpSocks)/978 | Tunnellable HTTP/HTTPS socks4a proxy written in C# and deployable via PowerShell |
+| 451 | 123 | 15 | 5 months ago | [VaultSharp](https://github.com/rajanadar/VaultSharp)/979 | A comprehensive cross-platform .NET Library for HashiCorp's Vault, a secret management tool |
+| 450 | 69 | 5 | 21 days ago | [drywetmidi](https://github.com/melanchall/drywetmidi)/980 | .NET library to read, write, process MIDI files and to work with MIDI devices |
+| 450 | 47 | 19 | 6 months ago | [USBHelperLauncher](https://github.com/FailedShack/USBHelperLauncher)/981 | USBHelperLauncher restores and enhances Wii U USB Helper functionality by patching it at runtime and intercepting its network requests. |
+| 449 | 59 | 8 | 2 years ago | [Recyclable-Scroll-Rect](https://github.com/MdIqubal/Recyclable-Scroll-Rect)/982 | Recyclable Scroll Rect reuses or recycles the least number of cells required to fill the viewport. As a result a huge number of items can be shown in the list without any performance hit. |
+| 449 | 70 | 0 | 2 months ago | [PhysicsExamples2D](https://github.com/Unity-Technologies/PhysicsExamples2D)/983 | Examples of various Unity 2D Physics components and features. |
+| 448 | 60 | 7 | 1 year, 4 months ago | [TAA_Unity_URP](https://github.com/sienaiwun/TAA_Unity_URP)/984 | Temporal Anti-Aliasing(TAA) for Unity’s Universal Render Pipeline |
+| 447 | 35 | 1 | 14 days ago | [Reflex](https://github.com/gustavopsantos/Reflex)/985 | Minimal dependency injection framework for Unity |
+| 447 | 39 | 11 | 4 months ago | [ScreenRecorder](https://github.com/akon47/ScreenRecorder)/986 | ⏺️ A simple recording program with the ability to record screens and audio on your computer. |
+| 447 | 116 | 15 | 4 years ago | [Unity3dAsyncAwaitUtil](https://github.com/modesttree/Unity3dAsyncAwaitUtil)/987 | A bunch of code to make using async-await easier in Unity3D |
+| 447 | 82 | 43 | 4 years ago | [JoyconLib](https://github.com/Looking-Glass/JoyconLib)/988 | Joy-Con library for Unity. |
+| 447 | 82 | 73 | 3 days ago | [RatScanner](https://github.com/RatScanner/RatScanner)/989 | Rat Scanner a helpful tool for Escape from Tarkov. |
+| 446 | 59 | 2 | 1 year, 2 months ago | [Koh](https://github.com/GhostPack/Koh)/990 | The Token Stealer |
+| 445 | 96 | 16 | 6 years ago | [OpenVRDesktopDisplayPortal](https://github.com/Hotrian/OpenVRDesktopDisplayPortal)/991 | Put your favorite Desktop Window directly into any OpenVR game! |
+| 445 | 40 | 4 | 2 months ago | [genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy)/992 | 🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Automatic Fishing Machine. |
+| 445 | 80 | 3 | 7 months ago | [FaceMeshBarracuda](https://github.com/keijiro/FaceMeshBarracuda)/993 | Lightweight facial capture package for Unity |
+| 445 | 32 | 123 | 1 year, 3 months ago | [Chisel.Prototype](https://github.com/RadicalCSG/Chisel.Prototype)/994 | Work in progress prototype for the Chisel Level Editor, for Unity |
+| 444 | 59 | 10 | 4 years ago | [dotnet-win32-service](https://github.com/dasMulli/dotnet-win32-service)/995 | Helper classes to set up and run as windows services directly on .net core. A ServiceBase alternative. |
+| 444 | 46 | 24 | 23 days ago | [MiniWord](https://github.com/mini-software/MiniWord)/996 | .NET Word(docx) exporting template engine without COM+ & interop (support Linux and Mac) |
+| 443 | 174 | 78 | 7 years ago | [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities)/997 | Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts |
+| 443 | 108 | 3 | 2 years ago | [SchTask_0x727](https://github.com/0x727/SchTask_0x727)/998 | 创建隐藏计划任务，权限维持，Bypass AV |
+| 443 | 192 | 5 | 3 years ago | [ToxicEye](https://github.com/LimerBoy/ToxicEye)/999 | :alien: Program for remote control of windows computers via telegram bot. Written in C# |
+| 442 | 209 | 0 | 6 months ago | [AngryBirdsStyleGame](https://github.com/dgkanatsios/AngryBirdsStyleGame)/1000 | Angry Birds style game in Unity |
