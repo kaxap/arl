@@ -37,23 +37,25 @@ def file_ranames_to_rate_lngs (lng_rate, path ) :
             if DBG == 1:
                 print( f'lng={cnt_stars} lng_name={lng_name}')
 
-            if lng_name in file_name and (len(lng_name) == len(file_name[4:]) ) :
+            if lng_name in file_name and (len(lng_name) == len(file_name[3:]) ) :
                 
                 dir_name = get_dir_name( full_path_to_file)
-                new_name = f'{path}/' + str(ind+1) + '_' + str(lng_name) + "." + ext
+                new_name = f'{path}/' + "%02d" % (ind+1) + '_' + str(lng_name) + "." + ext
 
                 try:
-                    
-                    os.rename(full_path_to_file, new_name)
+           
+                    # os.rename(full_path_to_file, new_name)
                     if DBG == 1 :
                         print (f'full_path_to_file={full_path_to_file} , new_name={new_name}')
-
-                        _str = f'* [{lng_name}](https://github.com/{repo_user_name}/{repo_name}/blob/master/{new_name}) \n'
-                        file_link.write (_str)
-                 
-                    break 
+                    # break 
                 except IOError:
                     continue  
+
+                # Gen links
+                _str = f'* [{lng_name}](https://github.com/{repo_user_name}/{repo_name}/blob/master/{new_name}) \n'
+                file_link.write (_str)
+
+                print (_str)
 
         
 
