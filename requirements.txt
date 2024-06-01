@@ -1,0 +1,5 @@
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+humanize
+glob
