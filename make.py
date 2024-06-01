@@ -192,33 +192,36 @@ if __name__ == "__main__":
         # args = parser.parse_args()
         # languages = [l.strip() for l in args.langs.split(",")]
 
-    # import random 
+   
 
 
-    # lng_rate = []
-    # provider = RepositoryInformationProvider()
-    # for lng in languages:
+    lng_rate = []
+    provider = RepositoryInformationProvider()
+    for lng in languages:
         
-    #     # test
-    #     # cnt_strs, readme = random.randrange(30), lng
+        # ---test----
+        # import random 
+        # cnt_strs, readme = random.randrange(30), lng
         
-    #     # work
-    #     cnt_strs, readme = generate_md_files_with_list_repos(lng, provider)
+        # work
+        cnt_strs, readme = generate_md_files_with_list_repos(lng, provider)
 
-    #     if cnt_strs != 0:
-    #         lng_rate.append ( (lng,cnt_strs))
+        if cnt_strs != 0:
+            lng_rate.append ( (lng,cnt_strs))
         
-    #         with open(f"{repo_out_path}/lng_{lng}.md", "w+", encoding="utf-8") as f:
-    #             f.write(readme)
+            with open(f"{repo_out_path}/lng_{lng}.md", "w+", encoding="utf-8") as f:
+                f.write(readme)
         
-    # print(f'lng_rate={lng_rate}')   
-    # # set rate langs for filenames
-    # lng_rate = sorted(lng_rate, key=lambda x: x[1], reverse=True )
+    print(f'lng_rate={lng_rate}')   
+    # set rate langs for filenames
+    lng_rate = sorted(lng_rate, key=lambda x: x[1], reverse=True )
 
-    # print(f'sorted_lng_rate={lng_rate}')  
+    print(f'sorted_lng_rate={lng_rate}')  
 
-    lng_rate=[('Python', 8328288), ('Node', 7970087), ('JavaScript', 7970086), ('Java', 4536509), ('CPP', 4402521), ('Rust', 3387501), ('C', 3113744), ('CSharp', 2222923), ('PHP', 2136581), ('Kotlin', 1515987), ('MATLAB', 156093), ('Verilog', 81805), ('SystemVerilog', 39984), ('SQL', 5268)]
+    # lng_rate=[('Python', 8328288), ('Node', 7970087), ('JavaScript', 7970086), ('Java', 4536509), ('CPP', 4402521), ('Rust', 3387501), ('C', 3113744), ('CSharp', 2222923), ('PHP', 2136581), ('Kotlin', 1515987), ('MATLAB', 156093), ('Verilog', 81805), ('SystemVerilog', 39984), ('SQL', 5268)]
 
     fil.file_ranames_to_rate_lngs(lng_rate, repo_out_path)
+
+    fil.README_add_links ()
 
     print ( "Finish !!!")

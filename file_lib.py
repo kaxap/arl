@@ -5,6 +5,36 @@ from param_repo import *
 
 DBG = 0
 
+sign_strt_link = "<!-- start_links -->"
+
+def README_add_links ():
+     
+    file_link = open(f"links.md", "r", encoding="utf-8") 
+    file_RDME = open(f"README.md", "a+", encoding="utf-8") 
+    
+    pos_sign = 0
+    file_RDME.seek(0)
+    #clean links
+    for line in file_RDME.readlines():
+
+        pos_sign += len(line)+1 #\n == CRLF
+        if sign_strt_link in  line :
+           file_RDME.truncate(pos_sign)
+           file_RDME.flush()
+           print(f"pos_sign={pos_sign}") 
+
+           break
+
+           
+    #insert lines
+    str_links = file_link.readlines()
+
+    file_RDME.writelines(str_links)
+
+    file_link.close()    
+    file_RDME.close()    
+
+
 def get_file_name(path):
 	if not os.path.isdir(path):
 		return os.path.splitext(os.path.basename(path))[0].split(".")[0]
