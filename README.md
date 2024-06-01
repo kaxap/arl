@@ -11,5 +11,5 @@ Below is the list of lists of most popular repositories, sorted by number of sta
 
 # code-reference-in-readme
 
-https://github.com/ElPrg/popl_reps_by_stars_in_langs-arl-/blob/master/README.md
+https://github.com/ElPrg/popl_reps_by_stars_in_langs-arl-/blob/master/links.md
 
