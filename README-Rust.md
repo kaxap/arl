@@ -1,1003 +1,1003 @@
 ## This is a most popular repository list for Rust sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 93634 | 12050 | 9898 | 7 hours ago | [rust](https://github.com/rust-lang/rust)/1 | Empowering everyone to build reliable and efficient software. |
-| 93068 | 5143 | 2146 | 5 hours ago | [deno](https://github.com/denoland/deno)/2 | A modern runtime for JavaScript and TypeScript. |
-| 78132 | 2309 | 852 | a day ago | [tauri](https://github.com/tauri-apps/tauri)/3 | Build smaller, faster, and more secure desktop applications with a web frontend. |
-| 64934 | 7091 | 46 | 21 hours ago | [rustdesk](https://github.com/rustdesk/rustdesk)/4 | An open-source remote desktop, and alternative to TeamViewer. |
-| 63049 | 5254 | 730 | 3 hours ago | [sway](https://github.com/FuelLabs/sway)/5 | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
-| 58425 | 2675 | 164 | 3 days ago | [fuel-core](https://github.com/FuelLabs/fuel-core)/6 | Rust full node implementation of the Fuel v2 protocol. |
-| 53289 | 2930 | 335 | 4 days ago | [alacritty](https://github.com/alacritty/alacritty)/7 | A cross-platform, OpenGL terminal emulator. |
-| 50250 | 5644 | 645 | 19 hours ago | [ChatGPT](https://github.com/lencx/ChatGPT)/8 | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) |
-| 50021 | 9538 | 85 | 8 days ago | [rustlings](https://github.com/rust-lang/rustlings)/9 | :crab: Small exercises to get you used to reading and writing Rust code! |
-| 46910 | 1159 | 273 | 20 days ago | [bat](https://github.com/sharkdp/bat)/10 | A cat(1) clone with wings. |
-| 45360 | 1886 | 107 | 7 days ago | [ripgrep](https://github.com/BurntSushi/ripgrep)/11 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore |
-| 44508 | 1292 | 81 | 3 days ago | [fuels-rs](https://github.com/FuelLabs/fuels-rs)/12 | Fuel Network Rust SDK |
-| 43673 | 1628 | 172 | 3 days ago | [meilisearch](https://github.com/meilisearch/meilisearch)/13 | A lightning-fast search API that fits effortlessly into your apps, websites, and workflow |
-| 43496 | 2577 | 13 | a day ago | [awesome-rust](https://github.com/rust-unofficial/awesome-rust)/14 | A curated list of Rust code and resources. |
-| 41265 | 1777 | 676 | a day ago | [starship](https://github.com/starship/starship)/15 | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
-| 34562 | 1721 | 1970 | 3 hours ago | [zed](https://github.com/zed-industries/zed)/16 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
-| 33622 | 1639 | 23 | a day ago | [vaultwarden](https://github.com/dani-garcia/vaultwarden)/17 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
-| 33192 | 986 | 780 | 9 days ago | [lapce](https://github.com/lapce/lapce)/18 | Lightning-fast and Powerful Code Editor written in Rust |
-| 32761 | 3183 | 2111 | 9 hours ago | [bevy](https://github.com/bevyengine/bevy)/19 | A refreshingly simple data-driven game engine built in Rust |
-| 31948 | 769 | 96 | 4 days ago | [fd](https://github.com/sharkdp/fd)/20 | A simple, fast and user-friendly alternative to 'find' |
-| 30404 | 2243 | 755 | 8 hours ago | [helix](https://github.com/helix-editor/helix)/21 | A post-modern modal text editor. |
-| 30354 | 1561 | 1353 | 4 hours ago | [nushell](https://github.com/nushell/nushell)/22 | A new type of shell |
-| 30132 | 1156 | 332 | 4 hours ago | [swc](https://github.com/swc-project/swc)/23 | Rust-based platform for the Web |
-| 28832 | 788 | 649 | 2 days ago | [typst](https://github.com/typst/typst)/24 | A new markup-based typesetting system that is powerful and easy to learn. |
-| 27889 | 3490 | 1960 | 3 days ago | [influxdb](https://github.com/influxdata/influxdb)/25 | Scalable datastore for metrics, events, and real-time analytics |
-| 27178 | 869 | 855 | a day ago | [ruff](https://github.com/astral-sh/ruff)/26 | An extremely fast Python linter and code formatter, written in Rust. |
-| 26673 | 1632 | 1664 | 10 hours ago | [polars](https://github.com/pola-rs/polars)/27 | Dataframes powered by a multithreaded, vectorized query engine, written in Rust |
-| 26304 | 1547 | 138 | 10 hours ago | [comprehensive-rust](https://github.com/google/comprehensive-rust)/28 | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. |
-| 25710 | 789 | 596 | 4 days ago | [surrealdb](https://github.com/surrealdb/surrealdb)/29 | A scalable, distributed, collaborative, document-graph database, for the realtime web |
-| 25141 | 1704 | 199 | 7 hours ago | [turbo](https://github.com/vercel/turbo)/30 | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. |
-| 24949 | 2270 | 291 | a day ago | [tokio](https://github.com/tokio-rs/tokio)/31 | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... |
-| 24740 | 1864 | 427 | 10 hours ago | [fish-shell](https://github.com/fish-shell/fish-shell)/32 | The user-friendly command line shell. |
-| 24216 | 1709 | 121 | 6 days ago | [firecracker](https://github.com/firecracker-microvm/firecracker)/33 | Secure and fast microVMs for serverless computing. |
-| 23856 | 667 | 94 | 8 months ago | [tools](https://github.com/rome/tools)/34 | Unified developer tools for JavaScript, TypeScript, and the web |
-| 23530 | 1517 | 58 | 11 hours ago | [Rocket](https://github.com/rwf2/Rocket)/35 | A web framework for Rust. |
-| 23398 | 3797 | 9 | 8 days ago | [Pake](https://github.com/tw93/Pake)/36 | 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 |
-| 23355 | 2011 | 70 | 14 days ago | [rust-course](https://github.com/sunface/rust-course)/37 | “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book  |
-| 23311 | 663 | 260 | a month ago | [exa](https://github.com/ogham/exa)/38 | A modern replacement for ‘ls’. |
-| 22965 | 1059 | 283 | 2 days ago | [iced](https://github.com/iced-rs/iced)/39 | A cross-platform GUI library for Rust, inspired by Elm |
-| 20947 | 348 | 285 | 10 days ago | [delta](https://github.com/dandavison/delta)/40 | A syntax-highlighting pager for git, diff, grep, and blame output |
-| 20639 | 2014 | 14 | 9 hours ago | [Rust](https://github.com/TheAlgorithms/Rust)/41 |  All Algorithms implemented in Rust  |
-| 20395 | 1619 | 211 | 20 hours ago | [actix-web](https://github.com/actix/actix-web)/42 | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. |
-| 20210 | 326 | 57 | a month ago | [hyperfine](https://github.com/sharkdp/hyperfine)/43 | A command-line benchmarking tool |
-| 20108 | 1448 | 742 | 14 hours ago | [egui](https://github.com/emilk/egui)/44 | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native |
-| 19811 | 702 | 154 | 9 months ago | [xi-editor](https://github.com/xi-editor/xi-editor)/45 | A modern editor with a backend written in Rust. |
-| 19715 | 308 | 199 | 6 days ago | [difftastic](https://github.com/Wilfred/difftastic)/46 | a structural diff that understands syntax 🟥🟩 |
-| 19703 | 1078 | 74 | 7 days ago | [pingora](https://github.com/cloudflare/pingora)/47 | A library for building fast, reliable and evolvable network services. |
-| 19499 | 550 | 66 | 5 months ago | [sonic](https://github.com/valeriansaliou/sonic)/48 | 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. |
-| 19277 | 506 | 89 | 4 days ago | [zoxide](https://github.com/ajeetdsouza/zoxide)/49 | A smarter cd command. Supports all major shells. |
-| 19246 | 1332 | 112 | 25 days ago | [v86](https://github.com/copy/v86)/50 | x86 PC emulator and x86-to-wasm JIT, running in the browser |
-| 18682 | 712 | 277 | 11 hours ago | [dioxus](https://github.com/DioxusLabs/dioxus)/51 | Fullstack GUI library for web, desktop, mobile, and more. |
-| 18223 | 1234 | 239 | 10 days ago | [qdrant](https://github.com/qdrant/qdrant)/52 | Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
-| 18209 | 572 | 844 | 2 days ago | [zellij](https://github.com/zellij-org/zellij)/53 | A terminal workspace with batteries included |
-| 18206 | 1796 | 661 | 9 hours ago | [relay](https://github.com/facebook/relay)/54 | Relay is a JavaScript framework for building data-driven React applications. |
-| 18034 | 500 | 203 | 3 hours ago | [atuin](https://github.com/atuinsh/atuin)/55 | ✨ Magical shell history |
-| 17963 | 752 | 361 | 15 hours ago | [wasmer](https://github.com/wasmerio/wasmer)/56 | 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten |
-| 17814 | 593 | 404 | 2 months ago | [czkawka](https://github.com/qarmin/czkawka)/57 | Multi functional app to find duplicates, empty folders, similar images etc. |
-| 17733 | 1188 | 394 | 10 hours ago | [RustPython](https://github.com/RustPython/RustPython)/58 | A Python Interpreter written in Rust |
-| 17727 | 398 | 234 | 5 hours ago | [just](https://github.com/casey/just)/59 | 🤖 Just a command runner |
-| 17669 | 727 | 130 | 8 hours ago | [tabby](https://github.com/TabbyML/tabby)/60 | Self-hosted AI coding assistant |
-| 17464 | 535 | 166 | 14 hours ago | [gitui](https://github.com/extrawurst/gitui)/61 | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
-| 17409 | 2006 | 147 | 3 days ago | [anki](https://github.com/ankitects/anki)/62 | Anki's shared backend and web components, and the Qt frontend |
-| 17224 | 1708 | 906 | 19 hours ago | [cube](https://github.com/cube-js/cube)/63 | 📊  Cube — The Semantic Layer for Building Data Applications |
-| 16947 | 1217 | 370 | 21 hours ago | [coreutils](https://github.com/uutils/coreutils)/64 | Cross-platform Rust rewrite of the GNU coreutils |
-| 16861 | 1556 | 538 | 4 days ago | [mdBook](https://github.com/rust-lang/mdBook)/65 | Create book from markdown files. Like Gitbook but implemented in Rust |
-| 16738 | 1213 | 334 | a day ago | [tree-sitter](https://github.com/tree-sitter/tree-sitter)/66 | An incremental parsing system for programming tools |
-| 16707 | 2574 | 364 | 11 months ago | [diem](https://github.com/diem/diem)/67 | Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. |
-| 16687 | 1432 | 1821 | 10 days ago | [vector](https://github.com/vectordotdev/vector)/68 | A high-performance observability data pipeline. |
-| 16684 | 506 | 297 | 2 years ago | [spotify-tui](https://github.com/Rigellute/spotify-tui)/69 | Spotify for the terminal written in Rust 🚀 |
-| 16646 | 963 | 78 | 13 days ago | [axum](https://github.com/tokio-rs/axum)/70 | Ergonomic and modular web framework built with Tokio, Tower, and Hyper |
-| 15756 | 393 | 199 | 2 months ago | [fnm](https://github.com/Schniz/fnm)/71 | 🚀 Fast and simple Node.js version manager, built in Rust |
-| 15630 | 652 | 164 | 9 hours ago | [gleam](https://github.com/gleam-lang/gleam)/72 | ⭐️ A friendly language for building type-safe, scalable systems! |
-| 15344 | 497 | 525 | a day ago | [slint](https://github.com/slint-ui/slint)/73 | Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps. |
-| 14894 | 579 | 85 | 9 days ago | [leptos](https://github.com/leptos-rs/leptos)/74 | Build fast web applications with Rust. |
-| 14593 | 1206 | 684 | 4 hours ago | [wasmtime](https://github.com/bytecodealliance/wasmtime)/75 | A fast and secure runtime for WebAssembly |
-| 14584 | 2073 | 1557 | 19 hours ago | [tikv](https://github.com/tikv/tikv)/76 | Distributed transactional key-value database, originally created to complement TiDB |
-| 14570 | 754 | 4621 | a day ago | [ruffle](https://github.com/ruffle-rs/ruffle)/77 | A Flash Player emulator written in Rust |
-| 14436 | 484 | 70 | 13 days ago | [navi](https://github.com/denisidoro/navi)/78 | An interactive cheatsheet tool for the command-line |
-| 14392 | 792 | 527 | 1 year, 1 month ago | [universal-android-debloater](https://github.com/0x192/universal-android-debloater)/79 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
-| 14338 | 3267 | 223 | 4 days ago | [book](https://github.com/rust-lang/book)/80 | The Rust Programming Language |
-| 14186 | 279 | 68 | 1 year, 2 months ago | [carbonyl](https://github.com/fathyb/carbonyl)/81 | Chromium running inside your terminal |
-| 14082 | 652 | 843 | 13 hours ago | [wezterm](https://github.com/wez/wezterm)/82 | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust |
-| 14019 | 420 | 35 | a day ago | [sniffnet](https://github.com/GyulyVGC/sniffnet)/83 | Comfortably monitor your Internet traffic 🕵️‍♂️ |
-| 13915 | 1523 | 231 | 6 days ago | [hyper](https://github.com/hyperium/hyper)/84 | An HTTP library for Rust |
-| 13850 | 761 | 292 | 2 days ago | [candle](https://github.com/huggingface/candle)/85 | Minimalist ML framework for Rust |
-| 13624 | 1489 | 1614 | a day ago | [rust-analyzer](https://github.com/rust-lang/rust-analyzer)/86 | A Rust compiler front-end for IDEs |
-| 13423 | 1001 | 305 | 8 hours ago | [clap](https://github.com/clap-rs/clap)/87 | A full featured, fast Command Line Argument Parser for Rust |
-| 13333 | 889 | 9 | 5 days ago | [asciinema](https://github.com/asciinema/asciinema)/88 | Terminal session recorder 📹 |
-| 13266 | 809 | 6 | 12 days ago | [pyxel](https://github.com/kitao/pyxel)/89 | A retro game engine for Python |
-| 13071 | 762 | 11 | 5 months ago | [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)/90 | :books: Learn to write an embedded OS in Rust :crab: |
-| 12938 | 1329 | 0 | 12 hours ago | [static-analysis](https://github.com/analysis-tools-dev/static-analysis)/91 | ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. |
-| 12852 | 858 | 209 | 3 days ago | [lemmy](https://github.com/LemmyNet/lemmy)/92 | 🐀 A link aggregator and forum for the fediverse |
-| 12777 | 853 | 19 | 17 hours ago | [RustScan](https://github.com/RustScan/RustScan)/93 | 🤖 The Modern Port Scanner 🤖 |
-| 12772 | 902 | 273 | 2 days ago | [zola](https://github.com/getzola/zola)/94 | A fast static site generator in a single binary with everything built-in. https://www.getzola.org |
-| 12538 | 405 | 150 | 25 days ago | [lsd](https://github.com/lsd-rs/lsd)/95 | The next gen ls command |
-| 12489 | 348 | 842 | 5 hours ago | [neon](https://github.com/neondatabase/neon)/96 | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. |
-| 12406 | 3868 | 421 | a month ago | [solana](https://github.com/solana-labs/solana)/97 | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
-| 12086 | 2284 | 1436 | 10 hours ago | [cargo](https://github.com/rust-lang/cargo)/98 | The Rust package manager |
-| 12045 | 1001 | 141 | a day ago | [diesel](https://github.com/diesel-rs/diesel)/99 | A safe, extensible ORM and Query Builder for Rust |
-| 12034 | 1133 | 598 | 3 days ago | [sqlx](https://github.com/launchbadge/sqlx)/100 | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. |
-| 12026 | 485 | 194 | 13 hours ago | [neovide](https://github.com/neovide/neovide)/101 | No Nonsense Neovim Client in Rust |
-| 11951 | 396 | 183 | 2 months ago | [py-spy](https://github.com/benfred/py-spy)/102 | Sampling profiler for Python programs |
-| 11911 | 329 | 321 | 4 hours ago | [uv](https://github.com/astral-sh/uv)/103 | An extremely fast Python package installer and resolver, written in Rust. |
-| 11868 | 467 | 129 | 17 hours ago | [hurl](https://github.com/Orange-OpenSource/hurl)/104 | Hurl, run and test HTTP requests with plain text. |
-| 11651 | 289 | 40 | 8 hours ago | [Bend](https://github.com/HigherOrderCO/Bend)/105 | A massively parallel, high-level programming language |
-| 11608 | 409 | 208 | 9 hours ago | [rye](https://github.com/astral-sh/rye)/106 | a Hassle-Free Python Experience |
-| 11199 | 885 | 70 | a month ago | [rust-by-practice](https://github.com/sunface/rust-by-practice)/107 | Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects. |
-| 11161 | 671 | 233 | a day ago | [pyo3](https://github.com/PyO3/pyo3)/108 | Rust bindings for the Python interpreter |
-| 11140 | 836 | 819 | 2 days ago | [wgpu](https://github.com/gfx-rs/wgpu)/109 | A cross-platform, safe, pure-Rust graphics API. |
-| 11125 | 896 | 0 | 1 year, 2 months ago | [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)/110 | ISG lets you use YouTube as cloud storage for ANY files, not just video |
-| 11046 | 364 | 154 | 14 hours ago | [biome](https://github.com/biomejs/biome)/111 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. |
-| 10912 | 1461 | 2028 | 2 days ago | [rust-clippy](https://github.com/rust-lang/rust-clippy)/112 | A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/ |
-| 10810 | 486 | 0 | 9 months ago | [tui-rs](https://github.com/fdehau/tui-rs)/113 | Build terminal user interfaces and dashboards using Rust |
-| 10517 | 1166 | 518 | 5 hours ago | [hyperswitch](https://github.com/juspay/hyperswitch)/114 | An open source payments switch written in Rust to make payments fast, reliable and affordable |
-| 10355 | 303 | 34 | a month ago | [gping](https://github.com/orf/gping)/115 | Ping, but with a graph |
-| 10351 | 484 | 181 | 18 days ago | [rayon](https://github.com/rayon-rs/rayon)/116 | Rayon: A data parallelism library for Rust |
-| 10282 | 493 | 154 | 7 days ago | [tokei](https://github.com/XAMPPRocky/tokei)/117 | Count your code, quickly. |
-| 10190 | 220 | 202 | 12 days ago | [broot](https://github.com/Canop/broot)/118 | A new way to see and navigate directory trees : https://dystroy.org/broot |
-| 10123 | 314 | 158 | 2 years ago | [xsv](https://github.com/BurntSushi/xsv)/119 | A fast CSV command line toolkit written in Rust. |
-| 10101 | 215 | 263 | 5 days ago | [volta](https://github.com/volta-cli/volta)/120 | Volta: JS Toolchains as Code. ⚡ |
-| 10092 | 286 | 51 | 3 days ago | [monolith](https://github.com/Y2Z/monolith)/121 | ⬛️ CLI tool for saving complete web pages as a single HTML file |
-| 10044 | 593 | 313 | 3 hours ago | [tantivy](https://github.com/quickwit-oss/tantivy)/122 | Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust |
-| 9913 | 462 | 27 | 10 hours ago | [windows-rs](https://github.com/microsoft/windows-rs)/123 | Rust for Windows |
-| 9850 | 1278 | 123 | 1 year, 10 months ago | [talent-plan](https://github.com/pingcap/talent-plan)/124 | open source training courses about distributed database and distributed systems |
-| 9821 | 333 | 317 | 13 hours ago | [openobserve](https://github.com/openobserve/openobserve)/125 | 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). |
-| 9594 | 445 | 80 | 7 days ago | [spotifyd](https://github.com/Spotifyd/spotifyd)/126 | A spotify daemon |
-| 9489 | 205 | 230 | 6 hours ago | [prql](https://github.com/PRQL/prql)/127 | PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement |
-| 9482 | 1089 | 12 | 24 days ago | [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)/128 | 阿里云盘 WebDAV 服务 |
-| 9396 | 569 | 303 | 2 months ago | [druid](https://github.com/linebender/druid)/129 | A data-first Rust-native UI design toolkit.  |
-| 9245 | 256 | 335 | 6 days ago | [espanso](https://github.com/espanso/espanso)/130 | Cross-platform Text Expander written in Rust |
-| 9234 | 1026 | 431 | 12 hours ago | [reqwest](https://github.com/seanmonstar/reqwest)/131 | An easy and powerful Rust HTTP Client |
-| 9192 | 708 | 226 | a month ago | [warp](https://github.com/seanmonstar/warp)/132 | A super-easy, composable, web server framework for warp speeds. |
-| 9137 | 337 | 96 | 12 hours ago | [oxc](https://github.com/oxc-project/oxc)/133 | ⚓ A collection of JavaScript tools written in Rust. |
-| 9087 | 387 | 12 | a month ago | [genact](https://github.com/svenstaro/genact)/134 | 🌀 A nonsense activity generator |
-| 9087 | 920 | 247 | 8 hours ago | [tonic](https://github.com/hyperium/tonic)/135 | A native gRPC client & server implementation with async/await support. |
-| 9065 | 234 | 30 | 11 hours ago | [yazi](https://github.com/sxyazi/yazi)/136 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
-| 9062 | 788 | 247 | 7 days ago | [nom](https://github.com/rust-bakery/nom)/137 | Rust parser combinator framework |
-| 9038 | 257 | 34 | 10 days ago | [onefetch](https://github.com/o2sh/onefetch)/138 | Command-line Git information tool |
-| 9003 | 213 | 95 | 9 days ago | [bottom](https://github.com/ClementTsang/bottom)/139 | Yet another cross-platform graphical process/system monitor. |
-| 8984 | 672 | 227 | 21 hours ago | [quiche](https://github.com/cloudflare/quiche)/140 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
-| 8859 | 224 | 14 | 3 months ago | [hexyl](https://github.com/sharkdp/hexyl)/141 | A command-line hex viewer |
-| 8726 | 263 | 27 | a month ago | [bandwhich](https://github.com/imsnif/bandwhich)/142 | Terminal bandwidth utilization tool |
-| 8637 | 740 | 259 | 2 days ago | [serde](https://github.com/serde-rs/serde)/143 | Serialization framework for Rust |
-| 8608 | 518 | 29 | 21 days ago | [bloop](https://github.com/BloopAI/bloop)/144 | bloop is a fast code search engine written in Rust. |
-| 8566 | 355 | 271 | 14 days ago | [eww](https://github.com/elkowar/eww)/145 | ElKowars wacky widgets |
-| 8524 | 732 | 62 | 14 days ago | [tokenizers](https://github.com/huggingface/tokenizers)/146 | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production |
-| 8499 | 235 | 22 | 4 years ago | [xray](https://github.com/atom-archive/xray)/147 | An experimental next-generation Electron-based text editor |
-| 8411 | 640 | 40 | 19 days ago | [actix](https://github.com/actix/actix)/148 | Actor framework for Rust. |
-| 8391 | 2655 | 632 | 8 months ago | [substrate](https://github.com/paritytech/substrate)/149 | Substrate: The platform for blockchain innovators |
-| 8233 | 490 | 270 | 3 hours ago | [bottlerocket](https://github.com/bottlerocket-os/bottlerocket)/150 | An operating system designed for hosting containers |
-| 8186 | 208 | 114 | a month ago | [psst](https://github.com/jpochyla/psst)/151 | Fast and multi-platform Spotify client with native GUI |
-| 8074 | 310 | 9 | 9 months ago | [bore](https://github.com/ekzhang/bore)/152 | 🕳 bore is a simple CLI tool for making tunnels to localhost |
-| 8059 | 248 | 125 | 17 hours ago | [ratatui](https://github.com/ratatui-org/ratatui)/153 | Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 |
-| 7979 | 256 | 98 | 3 days ago | [gitoxide](https://github.com/Byron/gitoxide)/154 | An idiomatic, lean, fast & safe pure Rust implementation of Git |
-| 7977 | 748 | 0 | 2 years ago | [amethyst](https://github.com/amethyst/amethyst)/155 | Data-oriented and data-driven game engine written in Rust |
-| 7894 | 476 | 70 | 4 days ago | [ZLUDA](https://github.com/vosen/ZLUDA)/156 | CUDA on AMD GPUs |
-| 7893 | 152 | 191 | 4 days ago | [eza](https://github.com/eza-community/eza)/157 | A modern, maintained replacement for ls |
-| 7882 | 1105 | 68 | 14 hours ago | [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)/158 | A Rust port of shadowsocks |
-| 7879 | 165 | 10 | 14 days ago | [dust](https://github.com/bootandy/dust)/159 | A more intuitive version of du in rust |
-| 7807 | 377 | 148 | 9 months ago | [sled](https://github.com/spacejam/sled)/160 | the champagne of beta embedded databases |
-| 7802 | 280 | 99 | 10 hours ago | [neon](https://github.com/neon-bindings/neon)/161 | Rust bindings for writing safe and fast native Node.js modules. |
-| 7771 | 390 | 81 | 2 months ago | [rathole](https://github.com/rapiz1/rathole)/162 | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. |
-| 7747 | 153 | 44 | 2 days ago | [git-cliff](https://github.com/orhun/git-cliff)/163 | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  |
-| 7657 | 1492 | 1027 | 11 hours ago | [foundry](https://github.com/foundry-rs/foundry)/164 | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. |
-| 7646 | 324 | 151 | 3 years ago | [citybound](https://github.com/citybound/citybound)/165 | A work-in-progress, open-source, multi-player city simulation game. |
-| 7515 | 192 | 9 | 2 months ago | [min-sized-rust](https://github.com/johnthagen/min-sized-rust)/166 | 🦀 How to minimize Rust binary size 📦 |
-| 7467 | 462 | 273 | 20 hours ago | [rspack](https://github.com/web-infra-dev/rspack)/167 | A fast Rust-based web bundler 🦀️ |
-| 7339 | 1013 | 481 | 6 days ago | [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)/168 | Facilitating high-level interactions between Wasm modules and JavaScript |
-| 7330 | 332 | 53 | 9 hours ago | [Fyrox](https://github.com/FyroxEngine/Fyrox)/169 | 3D and 2D game engine written in Rust |
-| 7321 | 333 | 227 | 8 days ago | [abstreet](https://github.com/a-b-street/abstreet)/170 | Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit |
-| 7291 | 701 | 685 | 4 hours ago | [databend](https://github.com/datafuselabs/databend)/171 | 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com |
-| 7283 | 345 | 199 | a day ago | [burn](https://github.com/tracel-ai/burn)/172 | Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. |
-| 7116 | 1581 | 224 | 8 months ago | [polkadot](https://github.com/paritytech/polkadot)/173 | Polkadot Node Implementation |
-| 7095 | 379 | 152 | 8 hours ago | [Graphite](https://github.com/GraphiteEditor/Graphite)/174 | 2D raster & vector editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
-| 7005 | 244 | 117 | 2 months ago | [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)/175 | 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 |
-| 6999 | 142 | 50 | 14 hours ago | [komorebi](https://github.com/LGUG2Z/komorebi)/176 | A tiling window manager for Windows 🍉 |
-| 6968 | 187 | 156 | 4 hours ago | [mise](https://github.com/jdx/mise)/177 | dev tools, env vars, task runner |
-| 6945 | 106 | 34 | 1 year, 1 month ago | [htmlq](https://github.com/mgdm/htmlq)/178 | Like jq, but for HTML. |
-| 6885 | 439 | 137 | a day ago | [crossbeam](https://github.com/crossbeam-rs/crossbeam)/179 | Tools for concurrent programming in Rust |
-| 6876 | 221 | 333 | 5 days ago | [jj](https://github.com/martinvonz/jj)/180 | A Git-compatible VCS that is both simple and powerful |
-| 6863 | 164 | 9 | a month ago | [grex](https://github.com/pemistahl/grex)/181 | A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases |
-| 6854 | 178 | 33 | 8 months ago | [ffsend](https://github.com/timvisee/ffsend)/182 | :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client. |
-| 6800 | 1674 | 161 | 4 years ago | [parity-ethereum](https://github.com/openethereum/parity-ethereum)/183 | The fast, light, and robust client for Ethereum-like networks. |
-| 6796 | 391 | 54 | 4 hours ago | [rolldown](https://github.com/rolldown/rolldown)/184 | Fast Rust bundler for JavaScript with Rollup-compatible API. |
-| 6768 | 364 | 7 | 5 days ago | [rust-blog](https://github.com/pretzelhammer/rust-blog)/185 | Educational blog posts for Rust beginners |
-| 6690 | 172 | 131 | 2 days ago | [mcfly](https://github.com/cantino/mcfly)/186 | Fly through your shell history. Great Scott! |
-| 6593 | 251 | 126 | 11 days ago | [websocat](https://github.com/vi/websocat)/187 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions |
-| 6487 | 249 | 115 | 1 year, 9 months ago | [Weylus](https://github.com/H-M-H/Weylus)/188 | Use your tablet as graphic tablet/touch screen on your computer. |
-| 6395 | 522 | 1161 | 3 hours ago | [risingwave](https://github.com/risingwavelabs/risingwave)/189 | SQL stream processing, analytics, and management. We decouple storage and compute to offer instant failover, dynamic scaling, speedy bootstrapping, and efficient joins. |
-| 6393 | 453 | 114 | 10 days ago | [sea-orm](https://github.com/SeaQL/sea-orm)/190 | 🐚 An async & dynamic ORM for Rust |
-| 6226 | 276 | 598 | 13 hours ago | [quickwit](https://github.com/quickwit-oss/quickwit)/191 | Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. |
-| 6210 | 144 | 27 | 2 days ago | [ripgrep-all](https://github.com/phiresky/ripgrep-all)/192 | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. |
-| 6181 | 210 | 245 | 2 days ago | [rnote](https://github.com/flxzt/rnote)/193 | Sketch and take handwritten notes. |
-| 6179 | 262 | 49 | 3 days ago | [gyroflow](https://github.com/gyroflow/gyroflow)/194 | Video stabilization using gyroscope data |
-| 6121 | 401 | 56 | 3 years ago | [iron](https://github.com/iron/iron)/195 | An Extensible, Concurrent Web Framework for Rust |
-| 6103 | 144 | 53 | 6 hours ago | [ast-grep](https://github.com/ast-grep/ast-grep)/196 | ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust |
-| 6102 | 701 | 27 | 25 days ago | [mio](https://github.com/tokio-rs/mio)/197 | Metal I/O library for Rust. |
-| 6031 | 345 | 149 | 3 days ago | [cross](https://github.com/cross-rs/cross)/198 | “Zero setup” cross compilation and “cross testing” of Rust crates |
-| 6008 | 164 | 196 | 3 days ago | [lightningcss](https://github.com/parcel-bundler/lightningcss)/199 | An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. |
-| 6001 | 177 | 2 | 10 days ago | [idiomatic-rust](https://github.com/mre/idiomatic-rust)/200 | 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust. |
-| 5974 | 398 | 312 | 2 months ago | [wasm-pack](https://github.com/rustwasm/wasm-pack)/201 | 📦✨ your favorite rust -> wasm workflow tool! |
-| 5962 | 339 | 83 | 5 months ago | [llm](https://github.com/rustformers/llm)/202 | An ecosystem of Rust libraries for working with large language models |
-| 5925 | 855 | 461 | a day ago | [rustup](https://github.com/rust-lang/rustup)/203 | The Rust toolchain installer |
-| 5917 | 547 | 8 | 23 days ago | [toydb](https://github.com/erikgrinaker/toydb)/204 | Distributed SQL database in Rust, written as a learning project |
-| 5870 | 391 | 95 | 6 months ago | [boringtun](https://github.com/cloudflare/boringtun)/205 | Userspace WireGuard® Implementation in Rust |
-| 5856 | 323 | 73 | a day ago | [youki](https://github.com/containers/youki)/206 | A container runtime written in Rust |
-| 5853 | 299 | 255 | 4 months ago | [nannou](https://github.com/nannou-org/nannou)/207 | A Creative Coding Framework for Rust. |
-| 5845 | 3535 | 622 | 19 hours ago | [aptos-core](https://github.com/aptos-labs/aptos-core)/208 | Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience. |
-| 5835 | 268 | 195 | 6 hours ago | [sapling](https://github.com/facebook/sapling)/209 | A Scalable, User-Friendly Source Control System. |
-| 5818 | 218 | 50 | 5 days ago | [azul](https://github.com/fschutt/azul)/210 | Desktop GUI Framework |
-| 5810 | 159 | 72 | 2 years ago | [dog](https://github.com/ogham/dog)/211 | A command-line DNS client. |
-| 5793 | 846 | 731 | 19 days ago | [rustfmt](https://github.com/rust-lang/rustfmt)/212 | Format Rust code |
-| 5783 | 11017 | 772 | 3 hours ago | [sui](https://github.com/MystenLabs/sui)/213 |  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
-| 5727 | 1172 | 79 | 26 days ago | [rustdesk-server](https://github.com/rustdesk/rustdesk-server)/214 | RustDesk Server Program |
-| 5710 | 166 | 75 | 6 months ago | [stc](https://github.com/dudykr/stc)/215 | Speedy TypeScript type checker |
-| 5662 | 278 | 91 | a day ago | [miniserve](https://github.com/svenstaro/miniserve)/216 | 🌟 For when you really just want to serve some files over HTTP right now! |
-| 5643 | 240 | 107 | 4 days ago | [shuttle](https://github.com/shuttle-hq/shuttle)/217 | Build & ship backends without writing any infrastructure files. |
-| 5607 | 453 | 2557 | 5 hours ago | [materialize](https://github.com/MaterializeInc/materialize)/218 | The data warehouse for operational workloads. |
-| 5569 | 416 | 100 | 19 hours ago | [juniper](https://github.com/graphql-rust/juniper)/219 | GraphQL server library for Rust |
-| 5567 | 588 | 122 | 16 hours ago | [rustls](https://github.com/rustls/rustls)/220 | A modern TLS library in Rust |
-| 5566 | 714 | 122 | 16 hours ago | [massa](https://github.com/massalabs/massa)/221 | The Decentralized and Scaled Blockchain |
-| 5561 | 315 | 257 | 2 days ago | [cxx](https://github.com/dtolnay/cxx)/222 | Safe interop between Rust and C++ |
-| 5554 | 236 | 174 | a day ago | [napi-rs](https://github.com/napi-rs/napi-rs)/223 | A framework for building compiled Node.js add-ons in Rust via Node-API |
-| 5552 | 270 | 33 | 6 years ago | [leaf](https://github.com/autumnai/leaf)/224 | Open Machine Intelligence Framework for Hackers. (GPU/CPU) |
-| 5550 | 221 | 141 | 2 months ago | [paru](https://github.com/Morganamilo/paru)/225 | Feature packed AUR helper |
-| 5495 | 260 | 136 | 10 hours ago | [postgresml](https://github.com/postgresml/postgresml)/226 | The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models. |
-| 5433 | 150 | 14 | 16 days ago | [sshx](https://github.com/ekzhang/sshx)/227 | Fast, collaborative live terminal sharing over the web |
-| 5427 | 513 | 325 | 5 days ago | [sccache](https://github.com/mozilla/sccache)/228 | Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage. |
-| 5421 | 131 | 63 | 6 months ago | [sd](https://github.com/chmln/sd)/229 | Intuitive find & replace CLI (sed alternative) |
-| 5421 | 368 | 4 | 5 days ago | [veloren](https://github.com/veloren/veloren)/230 | An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. |
-| 5402 | 497 | 4 | 1 year, 4 months ago | [game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap)/231 | Roadmap to becoming a game developer in 2022 |
-| 5361 | 450 | 49 | 24 days ago | [feroxbuster](https://github.com/epi052/feroxbuster)/232 | A fast, simple, recursive content discovery tool written in Rust. |
-| 5339 | 549 | 332 | 2 years ago | [gfx](https://github.com/gfx-rs/gfx)/233 | [maintenance mode] A low-overhead Vulkan-like GPU API for Rust. |
-| 5331 | 245 | 870 | 10 hours ago | [rerun](https://github.com/rerun-io/rerun)/234 | Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui. |
-| 5252 | 604 | 215 | 18 days ago | [futures-rs](https://github.com/rust-lang/futures-rs)/235 | Zero-cost asynchronous programming in Rust |
-| 5250 | 210 | 107 | a month ago | [evcxr](https://github.com/evcxr/evcxr)/236 | None |
-| 5246 | 459 | 34 | 7 months ago | [zero-to-production](https://github.com/LukeMathWalker/zero-to-production)/237 | Code for "Zero To Production In Rust", a book on API development using Rust. |
-| 5220 | 226 | 345 | 1 year, 3 months ago | [PyOxidizer](https://github.com/indygreg/PyOxidizer)/238 | A modern Python application packaging and distribution tool |
-| 5216 | 961 | 1027 | 5 hours ago | [datafusion](https://github.com/apache/datafusion)/239 | Apache DataFusion SQL Query Engine |
-| 5122 | 71 | 7 | a day ago | [tailspin](https://github.com/bensadeh/tailspin)/240 | 🌀 A log file highlighter |
-| 5108 | 65 | 6 | 4 months ago | [crab](https://github.com/crablang/crab)/241 | A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  |
-| 5102 | 135 | 24 | 2 days ago | [anyhow](https://github.com/dtolnay/anyhow)/242 | Flexible concrete Error type built on std::error::Error |
-| 5038 | 417 | 67 | 5 months ago | [rust](https://github.com/tensorflow/rust)/243 | Rust language bindings for TensorFlow |
-| 5033 | 988 | 132 | 21 hours ago | [grin](https://github.com/mimblewimble/grin)/244 | Minimal implementation of the Mimblewimble protocol. |
-| 5018 | 650 | 138 | 3 days ago | [tock](https://github.com/tock/tock)/245 | A secure embedded operating system for microcontrollers |
-| 5001 | 267 | 204 | 18 days ago | [libreddit](https://github.com/libreddit/libreddit)/246 | Private front-end for Reddit |
-| 4999 | 654 | 637 | 17 days ago | [tracing](https://github.com/tokio-rs/tracing)/247 | Application level tracing for Rust. |
-| 4974 | 319 | 135 | 4 months ago | [tide](https://github.com/http-rs/tide)/248 | Fast and friendly HTTP server framework for async Rust |
-| 4966 | 987 | 1401 | 8 hours ago | [kata-containers](https://github.com/kata-containers/kata-containers)/249 | Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ |
-| 4963 | 242 | 0 | 6 days ago | [dufs](https://github.com/sigoden/dufs)/250 | A file server that supports static serving, uploading, searching, accessing control, webdav... |
-| 4943 | 148 | 41 | 5 days ago | [watchexec](https://github.com/watchexec/watchexec)/251 | Executes commands in response to file modifications |
-| 4938 | 237 | 47 | 2 years ago | [noria](https://github.com/mit-pdos/noria)/252 | Fast web applications through dynamic, partially-stateful dataflow |
-| 4932 | 95 | 26 | a month ago | [pastel](https://github.com/sharkdp/pastel)/253 | A command-line tool to generate, analyze, convert and manipulate colors |
-| 4918 | 232 | 237 | 4 days ago | [spin](https://github.com/fermyon/spin)/254 | Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. |
-| 4877 | 172 | 151 | 1 year, 17 days ago | [skim](https://github.com/lotabout/skim)/255 | Fuzzy Finder in rust! |
-| 4853 | 179 | 82 | 27 days ago | [innernet](https://github.com/tonarino/innernet)/256 | A private network system that uses WireGuard under the hood. |
-| 4820 | 106 | 15 | 9 hours ago | [procs](https://github.com/dalance/procs)/257 | A modern replacement for ps written in Rust |
-| 4810 | 86 | 30 | 2 days ago | [xh](https://github.com/ducaale/xh)/258 | Friendly and fast tool for sending HTTP requests |
-| 4809 | 446 | 115 | a day ago | [ALVR](https://github.com/alvr-org/ALVR)/259 | Stream VR games from your PC to your headset via Wi-Fi |
-| 4776 | 187 | 12 | 3 months ago | [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison)/260 | A comparison of some web frameworks and libs written in Rust |
-| 4771 | 2707 | 86 | 6 months ago | [zksync](https://github.com/matter-labs/zksync)/261 | zkSync: trustless scaling and privacy engine for Ethereum |
-| 4766 | 621 | 382 | 2 days ago | [leo](https://github.com/AleoHQ/leo)/262 | 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
-| 4734 | 381 | 114 | 13 hours ago | [boa](https://github.com/boa-dev/boa)/263 | Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language. |
-| 4684 | 204 | 122 | 6 days ago | [ncspot](https://github.com/hrkfdn/ncspot)/264 | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. |
-| 4677 | 582 | 201 | 13 hours ago | [image](https://github.com/image-rs/image)/265 | Encoding and decoding images in Rust |
-| 4640 | 235 | 86 | 6 days ago | [WASI](https://github.com/WebAssembly/WASI)/266 | WebAssembly System Interface |
-| 4602 | 172 | 17 | 3 months ago | [kajiya](https://github.com/EmbarkStudios/kajiya)/267 | 💡 Experimental real-time global illumination renderer 🦀 |
-| 4598 | 126 | 10 | 8 days ago | [pueue](https://github.com/Nukesor/pueue)/268 | :stars: Manage your shell commands. |
-| 4594 | 54 | 8 | 10 months ago | [melody](https://github.com/yoav-lavi/melody)/269 | Melody is a language that compiles to regular expressions and aims to be more readable and maintainable |
-| 4580 | 525 | 169 | 2 days ago | [json](https://github.com/serde-rs/json)/270 | Strongly typed JSON library for Rust |
-| 4564 | 133 | 7 | a month ago | [shellharden](https://github.com/anordal/shellharden)/271 | The corrective bash syntax highlighter |
-| 4553 | 234 | 58 | 6 months ago | [piston](https://github.com/PistonDevelopers/piston)/272 | A modular game engine written in Rust |
-| 4540 | 135 | 47 | 2 months ago | [lunatic](https://github.com/lunatic-solutions/lunatic)/273 | Lunatic is an Erlang-inspired runtime for WebAssembly |
-| 4531 | 84 | 80 | 5 months ago | [jless](https://github.com/PaulJuliusMartinez/jless)/274 | jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. |
-| 4511 | 329 | 346 | 3 days ago | [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)/275 | The Mullvad VPN client app for desktop and mobile |
-| 4510 | 609 | 312 | 7 hours ago | [embassy](https://github.com/embassy-rs/embassy)/276 | Modern embedded framework, using Rust and async. |
-| 4454 | 862 | 466 | 13 hours ago | [winit](https://github.com/rust-windowing/winit)/277 | Window handling library in pure Rust |
-| 4447 | 560 | 35 | a day ago | [serenity](https://github.com/serenity-rs/serenity)/278 | A Rust library for the Discord API. |
-| 4409 | 249 | 64 | 19 days ago | [pest](https://github.com/pest-parser/pest)/279 | The Elegant Parser |
-| 4391 | 43 | 22 | 8 days ago | [jnv](https://github.com/ynqa/jnv)/280 | interactive JSON filter using jq |
-| 4358 | 525 | 61 | 9 days ago | [librespot](https://github.com/librespot-org/librespot)/281 | Open Source Spotify client library |
-| 4355 | 559 | 378 | 21 days ago | [ockam](https://github.com/build-trust/ockam)/282 | Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. |
-| 4348 | 433 | 99 | 15 days ago | [vulkano](https://github.com/vulkano-rs/vulkano)/283 | Safe and rich Rust wrapper around the Vulkan API |
-| 4337 | 137 | 56 | 16 hours ago | [flamegraph](https://github.com/flamegraph-rs/flamegraph)/284 | Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3 |
-| 4255 | 68 | 27 | 1 year, 27 days ago | [dura](https://github.com/tkellogg/dura)/285 | You shouldn't ever lose your work if you're using Git |
-| 4241 | 110 | 51 | 7 hours ago | [paradedb](https://github.com/paradedb/paradedb)/286 | Postgres for Search and Analytics |
-| 4229 | 393 | 83 | 1 year, 16 days ago | [nofwl](https://github.com/lencx/nofwl)/287 | NoFWL Desktop Application |
-| 4208 | 875 | 202 | 16 hours ago | [rust-libp2p](https://github.com/libp2p/rust-libp2p)/288 | The Rust Implementation of the libp2p networking stack.  |
-| 4200 | 283 | 174 | a month ago | [criterion.rs](https://github.com/bheisler/criterion.rs)/289 | Statistics-driven benchmarking library for Rust |
-| 4181 | 219 | 43 | 4 days ago | [rustler](https://github.com/rusterlium/rustler)/290 | Safe Rust bridge for creating Erlang NIF functions |
-| 4160 | 313 | 72 | 3 months ago | [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)/291 | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. |
-| 4153 | 668 | 409 | 5 days ago | [rust-bindgen](https://github.com/rust-lang/rust-bindgen)/292 | Automatically generates Rust FFI bindings to C (and some C++) libraries. |
-| 4144 | 236 | 73 | 24 days ago | [indicatif](https://github.com/console-rs/indicatif)/293 | A command line progress reporting library for Rust |
-| 4131 | 129 | 26 | 7 months ago | [Toshi](https://github.com/toshi-search/Toshi)/294 | A full-text search engine in rust |
-| 4130 | 100 | 182 | 11 hours ago | [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)/295 | Multiplayer at the speed of light |
-| 4129 | 422 | 68 | 10 months ago | [ggez](https://github.com/ggez/ggez)/296 | Rust library to create a Good Game Easily |
-| 4123 | 236 | 195 | a month ago | [cursive](https://github.com/gyscos/cursive)/297 | A Text User Interface library for the Rust programming language |
-| 4121 | 137 | 29 | 26 days ago | [imageflow](https://github.com/imazen/imageflow)/298 | High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow |
-| 4089 | 137 | 69 | 19 hours ago | [mountpoint-s3](https://github.com/awslabs/mountpoint-s3)/299 | A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. |
-| 4070 | 136 | 20 | 3 days ago | [thiserror](https://github.com/dtolnay/thiserror)/300 | derive(Error) for struct and enum error types |
-| 4066 | 164 | 65 | 2 years ago | [lucet](https://github.com/bytecodealliance/lucet)/301 | Lucet, the Sandboxing WebAssembly Compiler. |
-| 4065 | 99 | 35 | 6 days ago | [oha](https://github.com/hatoo/oha)/302 | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. |
-| 4038 | 305 | 131 | 23 hours ago | [miri](https://github.com/rust-lang/miri)/303 | An interpreter for Rust's mid-level intermediate representation |
-| 4009 | 128 | 108 | 17 days ago | [Replibyte](https://github.com/Qovery/Replibyte)/304 | Seed your development database with real data ⚡️ |
-| 3981 | 75 | 25 | 11 days ago | [xplr](https://github.com/sayanarijit/xplr)/305 | A hackable, minimal, fast TUI file explorer |
-| 3926 | 370 | 4 | 18 days ago | [cheats.rs](https://github.com/ralfbiedert/cheats.rs)/306 | Rust Language Cheat Sheet - https://cheats.rs |
-| 3914 | 119 | 24 | a month ago | [tealdeer](https://github.com/dbrgn/tealdeer)/307 | A very fast implementation of tldr in Rust. |
-| 3911 | 313 | 159 | 17 days ago | [tch-rs](https://github.com/LaurentMazare/tch-rs)/308 | Rust bindings for the C++ api of PyTorch. |
-| 3910 | 1913 | 7 | 1 year, 3 months ago | [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab)/309 | OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32 |
-| 3904 | 2501 | 106 | 3 days ago | [snarkOS](https://github.com/AleoNet/snarkOS)/310 | A Decentralized Operating System for ZK Applications |
-| 3896 | 108 | 420 | 6 days ago | [readyset](https://github.com/readysettech/readyset)/311 | Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes. |
-| 3867 | 126 | 20 | 27 days ago | [gifski](https://github.com/ImageOptim/gifski)/312 | GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. |
-| 3858 | 966 | 3 | a month ago | [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)/313 | Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019] |
-| 3846 | 274 | 195 | 17 hours ago | [greptimedb](https://github.com/GreptimeTeam/greptimedb)/314 | An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. |
-| 3843 | 331 | 184 | 3 months ago | [async-std](https://github.com/async-rs/async-std)/315 | Async version of the Rust standard library |
-| 3841 | 99 | 42 | 13 hours ago | [extism](https://github.com/extism/extism)/316 | The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. |
-| 3838 | 332 | 117 | a day ago | [webrtc](https://github.com/webrtc-rs/webrtc)/317 | A pure Rust implementation of WebRTC |
-| 3831 | 82 | 17 | a day ago | [fselect](https://github.com/jhspetersson/fselect)/318 | Find files with SQL-like queries |
-| 3788 | 153 | 55 | 1 year, 2 months ago | [seed](https://github.com/seed-rs/seed)/319 | A Rust framework for creating web apps |
-| 3780 | 193 | 88 | 1 year, 7 months ago | [orbtk](https://github.com/redox-os/orbtk)/320 | The Rust UI-Toolkit. |
-| 3775 | 320 | 161 | a month ago | [RedisJSON](https://github.com/RedisJSON/RedisJSON)/321 | RedisJSON - a JSON data type for Redis |
-| 3768 | 448 | 348 | 15 days ago | [nalgebra](https://github.com/dimforge/nalgebra)/322 | Linear algebra library for Rust. |
-| 3737 | 122 | 277 | 4 months ago | [Ambient](https://github.com/AmbientRun/Ambient)/323 | The multiplayer game engine |
-| 3734 | 109 | 31 | 2 months ago | [svgbob](https://github.com/ivanceras/svgbob)/324 | Convert your ascii diagram scribbles into happy little SVG |
-| 3713 | 207 | 256 | 18 days ago | [c2rust](https://github.com/immunant/c2rust)/325 | Migrate C code to Rust |
-| 3710 | 151 | 153 | 4 months ago | [dim](https://github.com/Dusk-Labs/dim)/326 | Dim, a media manager fueled by dark forces. |
-| 3692 | 1259 | 426 | 6 hours ago | [ord](https://github.com/ordinals/ord)/327 | 👁‍🗨 Rare and exotic sats |
-| 3691 | 265 | 1098 | 12 hours ago | [roc](https://github.com/roc-lang/roc)/328 | A fast, friendly, functional language. |
-| 3688 | 215 | 3 | 1 year, 2 months ago | [rust-algorithms](https://github.com/EbTech/rust-algorithms)/329 | Common data structures and algorithms in Rust |
-| 3680 | 203 | 34 | 24 days ago | [monoio](https://github.com/bytedance/monoio)/330 | Rust async runtime based on io-uring. |
-| 3659 | 226 | 103 | 15 days ago | [rapier](https://github.com/dimforge/rapier)/331 | 2D and 3D physics engines focused on performance. |
-| 3651 | 415 | 77 | 6 hours ago | [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)/332 | A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security. |
-| 3639 | 421 | 266 | 3 months ago | [hickory-dns](https://github.com/hickory-dns/hickory-dns)/333 | A Rust based DNS client, server, and resolver |
-| 3616 | 94 | 16 | a month ago | [cve-rs](https://github.com/Speykious/cve-rs)/334 | Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 |
-| 3610 | 103 | 96 | 3 days ago | [amp](https://github.com/jmacdonald/amp)/335 | A complete text editor for your terminal. |
-| 3601 | 137 | 43 | 1 year, 1 month ago | [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed)/336 | A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming |
-| 3593 | 103 | 49 | 9 months ago | [firefly](https://github.com/GetFirefly/firefly)/337 | An alternative BEAM implementation, designed for WebAssembly |
-| 3589 | 395 | 62 | 4 days ago | [smoltcp](https://github.com/smoltcp-rs/smoltcp)/338 | a smol tcp/ip stack |
-| 3589 | 417 | 33 | 2 months ago | [mini-redis](https://github.com/tokio-rs/mini-redis)/339 | Incomplete Redis client and server implementation using Tokio - for learning purposes only |
-| 3584 | 154 | 44 | 5 hours ago | [pushpin](https://github.com/fastly/pushpin)/340 | A proxy server for adding push to your API, used at the core of Fastly's Fanout service |
-| 3574 | 793 | 36 | 8 hours ago | [examples](https://github.com/actix/examples)/341 | Community showcase and examples of Actix ecosystem usage. |
-| 3573 | 208 | 58 | a month ago | [gdnative](https://github.com/godot-rust/gdnative)/342 | Rust bindings for Godot 3 |
-| 3572 | 263 | 120 | 10 hours ago | [plotters](https://github.com/plotters-rs/plotters)/343 | A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀 |
-| 3563 | 99 | 40 | 10 months ago | [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)/344 | A curated list of replacements for existing software written in Rust |
-| 3557 | 166 | 67 | 14 days ago | [lldap](https://github.com/lldap/lldap)/345 | Light LDAP implementation |
-| 3556 | 97 | 20 | a month ago | [dua-cli](https://github.com/Byron/dua-cli)/346 | View disk space usage and delete unwanted data, fast. |
-| 3548 | 468 | 232 | 13 hours ago | [prost](https://github.com/tokio-rs/prost)/347 | PROST! a Protocol Buffers implementation for the Rust Language |
-| 3547 | 274 | 124 | 1 year, 11 months ago | [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)/348 | Language Server Protocol (LSP) support for vim and neovim. |
-| 3539 | 279 | 53 | 2 months ago | [r4cppp](https://github.com/nrc/r4cppp)/349 | Rust for C++ programmers |
-| 3534 | 168 | 37 | 6 days ago | [rhai](https://github.com/rhaiscript/rhai)/350 | Rhai - An embedded scripting language for Rust. |
-| 3534 | 220 | 83 | 7 months ago | [krustlet](https://github.com/krustlet/krustlet)/351 | Kubernetes Rust Kubelet |
-| 3528 | 259 | 293 | 1 year, 8 months ago | [rls](https://github.com/rust-lang/rls)/352 | Repository for the Rust Language Server (aka RLS) |
-| 3500 | 136 | 54 | 4 days ago | [Kind1](https://github.com/HigherOrderCO/Kind1)/353 | A next-gen functional language |
-| 3495 | 354 | 103 | 10 hours ago | [quinn](https://github.com/quinn-rs/quinn)/354 | Async-friendly QUIC implementation in Rust |
-| 3476 | 193 | 115 | 2 months ago | [pathfinder](https://github.com/servo/pathfinder)/355 | A fast, practical GPU rasterizer for fonts and vector graphics |
-| 3462 | 536 | 148 | 4 days ago | [redis-rs](https://github.com/redis-rs/redis-rs)/356 | Redis library for rust |
-| 3446 | 148 | 13 | 2 months ago | [smol](https://github.com/smol-rs/smol)/357 | A small and fast async runtime for Rust |
-| 3443 | 227 | 69 | a month ago | [linfa](https://github.com/rust-ml/linfa)/358 | A Rust machine learning framework. |
-| 3436 | 178 | 134 | 4 years ago | [stdweb](https://github.com/koute/stdweb)/359 | A standard library for the client-side Web |
-| 3428 | 138 | 59 | 17 hours ago | [loco](https://github.com/loco-rs/loco)/360 | 🚂 🦀 The one-person framework for Rust for side-projects and startups |
-| 3427 | 92 | 163 | 14 hours ago | [mirrord](https://github.com/metalbear-co/mirrord)/361 | Connect your local process and your cloud environment, and run local code in cloud conditions. |
-| 3421 | 104 | 132 | a month ago | [warpgate](https://github.com/warp-tech/warpgate)/362 | Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software |
-| 3417 | 172 | 117 | 4 months ago | [oso](https://github.com/osohq/oso)/363 | Oso is a batteries-included framework for building authorization in your application. |
-| 3408 | 398 | 334 | 2 months ago | [glium](https://github.com/glium/glium)/364 | Safe OpenGL wrapper for the Rust language. |
-| 3388 | 71 | 29 | 5 months ago | [angle-grinder](https://github.com/rcoh/angle-grinder)/365 | Slice and dice logs on the command line |
-| 3369 | 162 | 67 | 1 year, 7 months ago | [topgrade](https://github.com/r-darwish/topgrade)/366 | Upgrade everything |
-| 3367 | 415 | 44 | 12 days ago | [regex](https://github.com/rust-lang/regex)/367 | An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs. |
-| 3360 | 143 | 66 | 16 days ago | [chumsky](https://github.com/zesterer/chumsky)/368 | Write expressive, high-performance parsers with ease. |
-| 3359 | 280 | 149 | 2 years ago | [racer](https://github.com/racer-rust/racer)/369 | Rust Code Completion utility |
-| 3357 | 289 | 222 | a day ago | [ndarray](https://github.com/rust-ndarray/ndarray)/370 | ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations |
-| 3349 | 297 | 219 | 2 years ago | [conrod](https://github.com/PistonDevelopers/conrod)/371 | An easy-to-use, 2D GUI library written entirely in Rust. |
-| 3346 | 368 | 11 | 8 months ago | [rCore](https://github.com/rcore-os/rCore)/372 | Rust version of THU uCore OS. Linux compatible. |
-| 3346 | 172 | 332 | 11 hours ago | [lance](https://github.com/lancedb/lance)/373 | Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. |
-| 3340 | 184 | 42 | 9 hours ago | [arroyo](https://github.com/ArroyoSystems/arroyo)/374 | Distributed stream processing engine in Rust |
-| 3331 | 80 | 76 | 9 days ago | [git-branchless](https://github.com/arxanas/git-branchless)/375 | High-velocity, monorepo-scale workflow for Git |
-| 3330 | 194 | 197 | 5 hours ago | [buck2](https://github.com/facebook/buck2)/376 | Build system, successor to Buck |
-| 3325 | 41 | 19 | 15 days ago | [borgo](https://github.com/borgo-lang/borgo)/377 | Borgo is a statically typed language that compiles to Go. |
-| 3322 | 226 | 57 | a day ago | [maturin](https://github.com/PyO3/maturin)/378 | Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages |
-| 3316 | 89 | 25 | 1 year, 4 months ago | [kerla](https://github.com/nuta/kerla)/379 | A new operating system kernel with Linux binary compatibility written in Rust. |
-| 3314 | 413 | 119 | a month ago | [rust-postgres](https://github.com/sfackler/rust-postgres)/380 | Native PostgreSQL driver for the Rust programming language |
-| 3291 | 297 | 6 | 26 days ago | [PPHC](https://github.com/johnlui/PPHC)/381 | 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com |
-| 3286 | 149 | 94 | a day ago | [joshuto](https://github.com/kamiyaa/joshuto)/382 | ranger-like terminal file manager written in Rust |
-| 3284 | 814 | 352 | 10 hours ago | [reth](https://github.com/paradigmxyz/reth)/383 | Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust |
-| 3277 | 125 | 36 | 4 months ago | [pua-lang](https://github.com/flaneur2020/pua-lang)/384 | a dialect of The Monkey Programming Language |
-| 3274 | 260 | 77 | 6 months ago | [tower](https://github.com/tower-rs/tower)/385 | async fn(Request) -> Result<Response, Error> |
-| 3272 | 217 | 269 | 6 hours ago | [pgrx](https://github.com/pgcentralfoundation/pgrx)/386 | Build Postgres Extensions with Rust! |
-| 3264 | 238 | 92 | 4 hours ago | [wry](https://github.com/tauri-apps/wry)/387 | Cross-platform WebView library in Rust for Tauri. |
-| 3264 | 1207 | 414 | 9 hours ago | [anchor](https://github.com/coral-xyz/anchor)/388 | ⚓ Solana Sealevel Framework |
-| 3261 | 59 | 23 | a month ago | [git-absorb](https://github.com/tummychow/git-absorb)/389 | git commit --fixup, but automatic |
-| 3245 | 116 | 93 | 13 hours ago | [mail-server](https://github.com/stalwartlabs/mail-server)/390 | Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP) |
-| 3244 | 256 | 115 | 2 days ago | [poem](https://github.com/poem-web/poem)/391 | A full-featured and easy-to-use web framework with the Rust programming language. |
-| 3244 | 275 | 169 | 3 months ago | [tera](https://github.com/Keats/tera)/392 | A template engine for Rust based on Jinja2/Django |
-| 3241 | 426 | 167 | 2 days ago | [async-graphql](https://github.com/async-graphql/async-graphql)/393 | A GraphQL server library implemented in Rust |
-| 3236 | 105 | 36 | 3 years ago | [ox](https://github.com/curlpipe/ox)/394 | An independent Rust text editor that runs in your terminal! |
-| 3219 | 290 | 7 | 22 hours ago | [wstunnel](https://github.com/erebe/wstunnel)/395 | Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available  |
-| 3212 | 337 | 0 | 9 months ago | [wrangler-legacy](https://github.com/cloudflare/wrangler-legacy)/396 | 🤠  Home to Wrangler v1 (deprecated) |
-| 3203 | 230 | 53 | 10 days ago | [trunk](https://github.com/trunk-rs/trunk)/397 | Build, bundle & ship your Rust WASM application to the web. |
-| 3200 | 132 | 77 | 4 days ago | [console](https://github.com/tokio-rs/console)/398 | a debugger for async rust! |
-| 3196 | 325 | 3 | 4 days ago | [aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime)/399 | A Rust runtime for AWS Lambda |
-| 3195 | 273 | 122 | 10 hours ago | [timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)/400 | A modular implementation of timely dataflow in Rust |
-| 3172 | 361 | 14 | 5 months ago | [Findomain](https://github.com/Findomain/Findomain)/401 | The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more. |
-| 3156 | 508 | 148 | 21 days ago | [chrono](https://github.com/chronotope/chrono)/402 | Date and time library for Rust |
-| 3149 | 116 | 30 | 15 days ago | [ron](https://github.com/ron-rs/ron)/403 | Rusty Object Notation |
-| 3147 | 88 | 27 | 12 days ago | [cozo](https://github.com/cozodb/cozo)/404 | A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! |
-| 3142 | 44 | 1 | 7 months ago | [computerraria](https://github.com/misprit7/computerraria)/405 | A fully compliant RISC-V computer made inside the game Terraria |
-| 3140 | 209 | 120 | 3 days ago | [askama](https://github.com/djc/askama)/406 | Type-safe, compiled Jinja-like templates for Rust |
-| 3137 | 57 | 11 | a month ago | [postgres_lsp](https://github.com/supabase-community/postgres_lsp)/407 | A Language Server for Postgres |
-| 3123 | 142 | 163 | 5 months ago | [gluon](https://github.com/gluon-lang/gluon)/408 | A static, type inferred and embeddable language written in Rust. |
-| 3110 | 130 | 4 | 8 days ago | [napkin-math](https://github.com/sirupsen/napkin-math)/409 | Techniques and numbers for estimating system's performance from first-principles |
-| 3100 | 172 | 45 | a day ago | [roapi](https://github.com/roapi/roapi)/410 | Create full-fledged APIs for slowly moving datasets without writing a single line of code. |
-| 3098 | 127 | 10 | a month ago | [FlyingCarpet](https://github.com/spieglt/FlyingCarpet)/411 | Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range. |
-| 3095 | 256 | 0 | 5 days ago | [RustMinerSystem](https://github.com/EvilGenius-dot/RustMinerSystem)/412 | 🔥minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy 矿池抽水 矿池代理 矿池中转 矿池抽水 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy |
-| 3086 | 91 | 111 | 13 days ago | [pagefind](https://github.com/CloudCannon/pagefind)/413 | Static low-bandwidth search at scale |
-| 3074 | 127 | 6 | 1 year, 4 months ago | [rustpad](https://github.com/ekzhang/rustpad)/414 | Efficient and minimal collaborative code editor, self-hosted, no database required |
-| 3066 | 62 | 44 | 23 hours ago | [trippy](https://github.com/fujiapple852/trippy)/415 | A network diagnostic tool  |
-| 3059 | 87 | 11 | 11 hours ago | [GQL](https://github.com/AmrDeveloper/GQL)/416 |  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions |
-| 3051 | 335 | 13 | 11 months ago | [black-hat-rust](https://github.com/skerkour/black-hat-rust)/417 | Applied offensive security with Rust  - https://kerkour.com/black-hat-rust |
-| 3051 | 1880 | 61 | 10 hours ago | [solana-program-library](https://github.com/solana-labs/solana-program-library)/418 | A collection of Solana programs maintained by Solana Labs |
-| 3042 | 183 | 40 | 2 months ago | [tarpc](https://github.com/google/tarpc)/419 | An RPC framework for Rust with a focus on ease of use. |
-| 3042 | 274 | 68 | 2 years ago | [too-many-lists](https://github.com/rust-unofficial/too-many-lists)/420 | Learn Rust by writing Entirely Too Many linked lists |
-| 3036 | 295 | 94 | 3 days ago | [rusty_v8](https://github.com/denoland/rusty_v8)/421 | Rust bindings for the V8 JavaScript engine |
-| 3034 | 108 | 37 | 11 months ago | [rx](https://github.com/cloudhead/rx)/422 | 👾 Modern and minimalist pixel editor |
-| 3032 | 51 | 15 | 7 hours ago | [loro](https://github.com/loro-dev/loro)/423 | Reimagine state management with CRDTs. Make your app collaborative effortlessly. |
-| 3029 | 162 | 54 | 2 years ago | [nickel.rs](https://github.com/nickel-org/nickel.rs)/424 | An expressjs inspired web framework for Rust |
-| 3017 | 264 | 198 | 9 days ago | [webrender](https://github.com/servo/webrender)/425 | A GPU-based renderer for the web |
-| 3010 | 255 | 136 | 15 days ago | [crossterm](https://github.com/crossterm-rs/crossterm)/426 | Cross platform terminal library rust |
-| 3002 | 143 | 62 | 3 months ago | [cargo-edit](https://github.com/killercup/cargo-edit)/427 | A utility for managing cargo dependencies from the command line. |
-| 2998 | 111 | 110 | 3 days ago | [artichoke](https://github.com/artichoke/artichoke)/428 | 💎 Artichoke is a Ruby made with Rust |
-| 2987 | 259 | 75 | 4 years ago | [weld](https://github.com/weld-project/weld)/429 | High-performance runtime for data analytics applications |
-| 2984 | 64 | 80 | 8 days ago | [dprint](https://github.com/dprint/dprint)/430 | Pluggable and configurable code formatting platform written in Rust. |
-| 2980 | 80 | 34 | 21 days ago | [silicon](https://github.com/Aloxaf/silicon)/431 | Create beautiful image of your source code. |
-| 2967 | 196 | 1 | 5 hours ago | [aichat](https://github.com/sigoden/aichat)/432 | All-in-one AI-Powered CLI Chat & Copilot that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek... |
-| 2966 | 91 | 77 | a day ago | [rio](https://github.com/raphamorim/rio)/433 | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. |
-| 2962 | 342 | 12 | 4 days ago | [libsignal](https://github.com/signalapp/libsignal)/434 | Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. |
-| 2958 | 129 | 7 | 8 days ago | [redb](https://github.com/cberner/redb)/435 | An embedded key-value database in pure Rust |
-| 2950 | 2030 | 130 | 9 hours ago | [zksync-era](https://github.com/matter-labs/zksync-era)/436 | zkSync era |
-| 2945 | 128 | 33 | 7 months ago | [tfs](https://github.com/redox-os/tfs)/437 | Mirror of https://gitlab.redox-os.org/redox-os/tfs |
-| 2944 | 86 | 53 | 13 hours ago | [xilem](https://github.com/linebender/xilem)/438 | An experimental Rust native UI framework |
-| 2930 | 198 | 126 | 4 months ago | [sandspiel](https://github.com/MaxBittker/sandspiel)/439 | Creative cellular automata browser game  |
-| 2918 | 405 | 195 | a day ago | [opendal](https://github.com/apache/opendal)/440 | Apache OpenDAL: access data freely. |
-| 2911 | 647 | 360 | 11 days ago | [stacks-core](https://github.com/stacks-network/stacks-core)/441 | The Stacks blockchain implementation |
-| 2905 | 282 | 27 | 20 days ago | [OpenSK](https://github.com/google/OpenSK)/442 | OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. |
-| 2903 | 287 | 155 | 13 hours ago | [lalrpop](https://github.com/lalrpop/lalrpop)/443 | LR(1) parser generator for Rust |
-| 2903 | 111 | 68 | 1 year, 10 months ago | [Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA)/444 | Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. |
-| 2898 | 285 | 237 | 4 days ago | [macroquad](https://github.com/not-fl3/macroquad)/445 | Cross-platform game engine in Rust.  |
-| 2872 | 157 | 55 | 7 days ago | [glommio](https://github.com/DataDog/glommio)/446 | Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. |
-| 2868 | 90 | 0 | 5 days ago | [himalaya](https://github.com/soywod/himalaya)/447 | CLI to manage emails |
-| 2862 | 188 | 116 | 21 days ago | [sozu](https://github.com/sozu-proxy/sozu)/448 | Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! |
-| 2830 | 76 | 57 | 9 days ago | [sudo-rs](https://github.com/memorysafety/sudo-rs)/449 | A memory safe implementation of sudo and su. |
-| 2823 | 160 | 226 | 8 hours ago | [hubris](https://github.com/oxidecomputer/hubris)/450 | A lightweight, memory-protected, message-passing kernel for deeply embedded systems. |
-| 2816 | 575 | 112 | 11 hours ago | [crates.io](https://github.com/rust-lang/crates.io)/451 | The Rust package registry |
-| 2816 | 898 | 441 | 17 hours ago | [graph-node](https://github.com/graphprotocol/graph-node)/452 | Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL |
-| 2814 | 388 | 58 | 5 days ago | [raft-rs](https://github.com/tikv/raft-rs)/453 | Raft distributed consensus algorithm implemented in Rust. |
-| 2807 | 176 | 8 | 18 days ago | [vtracer](https://github.com/visioncortex/vtracer)/454 | Raster to Vector Graphics Converter |
-| 2807 | 92 | 16 | 2 months ago | [maestro](https://github.com/llenotre/maestro)/455 | Unix-like kernel written in Rust |
-| 2790 | 470 | 92 | 5 days ago | [i3status-rust](https://github.com/greshake/i3status-rust)/456 | Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust |
-| 2784 | 107 | 24 | 6 months ago | [display-switch](https://github.com/haimgel/display-switch)/457 | Turn a $30 USB switch into a full-featured multi-monitor KVM switch |
-| 2783 | 331 | 152 | 2 days ago | [rusqlite](https://github.com/rusqlite/rusqlite)/458 | Ergonomic bindings to SQLite for Rust |
-| 2783 | 93 | 36 | 6 days ago | [pg_graphql](https://github.com/supabase/pg_graphql)/459 | GraphQL support for PostgreSQL  |
-| 2780 | 167 | 17 | a day ago | [salvo](https://github.com/salvo-rs/salvo)/460 | A powerful web framework built with a simplified design. |
-| 2777 | 65 | 38 | 2 years ago | [dijo](https://github.com/nerdypepper/dijo)/461 | scriptable, curses-based, digital habit tracker |
-| 2763 | 101 | 53 | 2 years ago | [bastion](https://github.com/bastion-rs/bastion)/462 | Highly-available Distributed Fault-tolerant Runtime |
-| 2756 | 672 | 425 | a month ago | [lighthouse](https://github.com/sigp/lighthouse)/463 | Ethereum consensus client in Rust |
-| 2753 | 165 | 62 | 4 months ago | [Theseus](https://github.com/theseus-os/Theseus)/464 | Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler. |
-| 2751 | 140 | 49 | 8 months ago | [dashmap](https://github.com/xacrimon/dashmap)/465 | Blazing fast concurrent HashMap for Rust. |
-| 2744 | 185 | 103 | 22 hours ago | [leftwm](https://github.com/leftwm/leftwm)/466 | A tiling window manager for Adventurers |
-| 2738 | 244 | 146 | 6 days ago | [aya](https://github.com/aya-rs/aya)/467 | Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. |
-| 2730 | 284 | 91 | 3 days ago | [kube](https://github.com/kube-rs/kube)/468 | Rust Kubernetes client and controller runtime |
-| 2728 | 226 | 16 | 10 days ago | [iced](https://github.com/icedland/iced)/469 | Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua |
-| 2722 | 122 | 19 | 3 days ago | [teach-rs](https://github.com/tweedegolf/teach-rs)/470 | A modular, reusable university course for Rust |
-| 2721 | 198 | 57 | 30 days ago | [teloxide](https://github.com/teloxide/teloxide)/471 | 🤖 An elegant Telegram bots framework for Rust |
-| 2715 | 446 | 259 | 2 years ago | [rusoto](https://github.com/rusoto/rusoto)/472 | AWS SDK for Rust |
-| 2710 | 56 | 46 | 10 months ago | [stork](https://github.com/jameslittle230/stork)/473 | 🔎 Impossibly fast web search, made for static sites. |
-| 2696 | 88 | 55 | 1 year, 3 months ago | [gobang](https://github.com/TaKO8Ki/gobang)/474 | A cross-platform TUI database management tool written in Rust |
-| 2694 | 318 | 202 | 12 days ago | [petgraph](https://github.com/petgraph/petgraph)/475 | Graph data structure library for Rust. |
-| 2694 | 148 | 8 | 10 months ago | [structopt](https://github.com/TeXitoi/structopt)/476 | Parse command line arguments by defining a struct. |
-| 2692 | 145 | 51 | a month ago | [sycamore](https://github.com/sycamore-rs/sycamore)/477 | A library for creating reactive web apps in Rust and WebAssembly |
-| 2689 | 195 | 137 | a day ago | [fluvio](https://github.com/infinyon/fluvio)/478 | Lean and mean distributed stream processing system written in rust and web assembly. |
-| 2685 | 296 | 41 | a day ago | [syn](https://github.com/dtolnay/syn)/479 | Parser for Rust source code |
-| 2681 | 366 | 67 | 2 months ago | [rust-protobuf](https://github.com/stepancheg/rust-protobuf)/480 | Rust implementation of Google protocol buffers |
-| 2673 | 78 | 36 | 2 years ago | [rslint](https://github.com/rslint/rslint)/481 | A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate |
-| 2665 | 84 | 9 | 9 months ago | [tinysearch](https://github.com/tinysearch/tinysearch)/482 | 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm |
-| 2656 | 110 | 38 | 28 days ago | [oxipng](https://github.com/shssoichiro/oxipng)/483 | Multithreaded PNG optimizer written in Rust |
-| 2655 | 99 | 89 | 17 days ago | [logos](https://github.com/maciejhirsz/logos)/484 | Create ridiculously fast Lexers |
-| 2639 | 329 | 7 | 5 months ago | [geph4-client](https://github.com/geph-official/geph4-client)/485 | Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.  |
-| 2638 | 76 | 34 | 6 days ago | [cargo-watch](https://github.com/watchexec/cargo-watch)/486 | Watches over your Cargo project's source. |
-| 2627 | 147 | 33 | 12 hours ago | [moon](https://github.com/moonrepo/moon)/487 | A task runner and repo management tool for the web ecosystem, written in Rust. |
-| 2623 | 458 | 262 | a month ago | [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2)/488 | SDL2 bindings for Rust |
-| 2617 | 52 | 22 | 1 year, 4 months ago | [forma](https://github.com/google/forma)/489 | An efficient vector-graphics renderer |
-| 2611 | 208 | 133 | a day ago | [gluesql](https://github.com/gluesql/gluesql)/490 | GlueSQL is quite sticky. It attaches to anywhere. |
-| 2597 | 155 | 65 | 13 hours ago | [rkyv](https://github.com/rkyv/rkyv)/491 | Zero-copy deserialization framework for Rust |
-| 2594 | 312 | 11 | 14 days ago | [FastNoiseLite](https://github.com/Auburn/FastNoiseLite)/492 | Fast Portable Noise Library - C# C++ C Java HLSL GLSL JavaScript Rust Go  |
-| 2594 | 53 | 72 | 3 days ago | [erg](https://github.com/erg-lang/erg)/493 | A statically typed language compatible with Python |
-| 2579 | 142 | 130 | 12 days ago | [pgcat](https://github.com/postgresml/pgcat)/494 | PostgreSQL pooler with sharding, load balancing and failover support. |
-| 2572 | 317 | 261 | 13 hours ago | [habitat](https://github.com/habitat-sh/habitat)/495 | Modern applications with built-in automation |
-| 2569 | 228 | 5 | a month ago | [chainsaw](https://github.com/WithSecureLabs/chainsaw)/496 | Rapidly Search and Hunt through Windows Forensic Artefacts |
-| 2568 | 345 | 82 | 16 days ago | [imgui-rs](https://github.com/imgui-rs/imgui-rs)/497 | Rust bindings for Dear ImGui |
-| 2559 | 165 | 18 | a day ago | [teller](https://github.com/tellerops/teller)/498 | Cloud native secrets management for developers - never leave your command line for secrets. |
-| 2559 | 72 | 24 | 2 years ago | [hora](https://github.com/hora-search/hora)/499 | 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .  |
-| 2558 | 291 | 120 | 5 days ago | [itertools](https://github.com/rust-itertools/itertools)/500 | Extra iterator adaptors, iterator methods, free functions, and macros. |
-| 2556 | 210 | 68 | 4 days ago | [resvg](https://github.com/RazrFalcon/resvg)/501 | An SVG rendering library. |
-| 2555 | 146 | 111 | 2 months ago | [feather](https://github.com/feather-rs/feather)/502 | A Minecraft server implementation in Rust |
-| 2554 | 202 | 55 | 25 days ago | [parking_lot](https://github.com/Amanieu/parking_lot)/503 | Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives. |
-| 2552 | 160 | 105 | 6 days ago | [gdext](https://github.com/godot-rust/gdext)/504 | Rust bindings for Godot 4 |
-| 2550 | 260 | 33 | 19 days ago | [bincode](https://github.com/bincode-org/bincode)/505 | A binary encoder / decoder implementation in Rust. |
-| 2542 | 643 | 249 | a day ago | [nix](https://github.com/nix-rust/nix)/506 | Rust friendly bindings to *nix APIs |
-| 2541 | 201 | 96 | 2 months ago | [notify](https://github.com/notify-rs/notify)/507 | 🔭 Cross-platform filesystem notification library for Rust.  |
-| 2536 | 92 | 61 | 4 days ago | [touchHLE](https://github.com/touchHLE/touchHLE)/508 | High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE |
-| 2514 | 139 | 46 | 30 days ago | [photon](https://github.com/silvia-odwyer/photon)/509 | ⚡ Rust/WebAssembly image processing library |
-| 2513 | 193 | 112 | 4 days ago | [incubator-horaedb](https://github.com/apache/incubator-horaedb)/510 | Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database. |
-| 2513 | 60 | 25 | 5 days ago | [jaq](https://github.com/01mf02/jaq)/511 | A jq clone focussed on correctness, speed, and simplicity |
-| 2509 | 98 | 5 | a day ago | [imessage-exporter](https://github.com/ReagentX/imessage-exporter)/512 | Export iMessage data + run iMessage Diagnostics |
-| 2500 | 55 | 28 | 3 days ago | [headway](https://github.com/headwaymaps/headway)/513 | Self-hostable maps stack, powered by OpenStreetMap. |
-| 2493 | 180 | 108 | 3 days ago | [differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow)/514 | An implementation of differential dataflow using timely dataflow on Rust. |
-| 2485 | 282 | 1 | 1 year, 2 months ago | [OffensiveRust](https://github.com/trickster0/OffensiveRust)/515 | Rust Weaponization for Red Team Engagements. |
-| 2478 | 165 | 36 | 2 months ago | [simple-http-server](https://github.com/TheWaWaR/simple-http-server)/516 | Simple http server in Rust (Windows/Mac/Linux) |
-| 2471 | 471 | 164 | 5 hours ago | [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs)/517 | Extensible SQL Lexer and Parser for Rust |
-| 2467 | 100 | 27 | 25 days ago | [rbspy](https://github.com/rbspy/rbspy)/518 | Sampling CPU profiler for Ruby |
-| 2467 | 55 | 36 | 2 months ago | [spyglass](https://github.com/spyglass-search/spyglass)/519 | A personal search engine:  Create a searchable library from your personal documents, interests, and more! |
-| 2462 | 65 | 8 | 4 days ago | [cargo-expand](https://github.com/dtolnay/cargo-expand)/520 | Subcommand to show result of macro expansion |
-| 2460 | 66 | 44 | 4 months ago | [cr-sqlite](https://github.com/vlcn-io/cr-sqlite)/521 | Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite |
-| 2453 | 113 | 77 | 4 hours ago | [farm](https://github.com/farm-fe/farm)/522 | Extremely fast Vite-compatible web build tool written in Rust |
-| 2447 | 329 | 205 | 8 days ago | [cpal](https://github.com/RustAudio/cpal)/523 | Cross-platform audio I/O library in pure Rust |
-| 2444 | 200 | 57 | 3 months ago | [rust-bert](https://github.com/guillaume-be/rust-bert)/524 | Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...) |
-| 2442 | 54 | 9 | 1 year, 3 months ago | [arpchat](https://github.com/kognise/arpchat)/525 | Answering the question nobody asked: what if you wanted to text your friends using only ARP? |
-| 2429 | 78 | 31 | 5 years ago | [sekey](https://github.com/sekey/sekey)/526 | Use Touch ID / Secure Enclave for SSH Authentication! |
-| 2425 | 44 | 65 | a day ago | [gritql](https://github.com/getgrit/gritql)/527 | GritQL is a query language for searching, linting, and modifying code. |
-| 2419 | 219 | 48 | 6 days ago | [specs](https://github.com/amethyst/specs)/528 | Specs - Parallel ECS |
-| 2418 | 50 | 27 | 1 year, 1 month ago | [fleet](https://github.com/dimensionhq/fleet)/529 | 🚀 The blazing fast build tool for Rust. |
-| 2416 | 55 | 34 | a month ago | [zenith](https://github.com/bvaisvil/zenith)/530 | Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage |
-| 2416 | 112 | 55 | 7 hours ago | [floem](https://github.com/lapce/floem)/531 | A native Rust UI library with fine-grained reactivity |
-| 2414 | 72 | 12 | 25 days ago | [kmon](https://github.com/orhun/kmon)/532 | Linux Kernel Manager and Activity Monitor 🐧💻 |
-| 2413 | 120 | 37 | 3 days ago | [cargo-make](https://github.com/sagiegurari/cargo-make)/533 | Rust task runner and build tool. |
-| 2412 | 124 | 80 | 2 months ago | [valence](https://github.com/valence-rs/valence)/534 | A Rust framework for building Minecraft servers. |
-| 2409 | 79 | 56 | a month ago | [relm](https://github.com/antoyo/relm)/535 | Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust |
-| 2409 | 204 | 5 | a month ago | [RustBook](https://github.com/QMHTMY/RustBook)/536 | A book about Rust Data Structures and Algorithms. |
-| 2396 | 53 | 30 | 5 months ago | [viu](https://github.com/atanunq/viu)/537 | Terminal image viewer with native support for iTerm and Kitty |
-| 2396 | 762 | 205 | a month ago | [ethers-rs](https://github.com/gakonst/ethers-rs)/538 | Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers |
-| 2390 | 85 | 23 | 3 years ago | [wtftw](https://github.com/Kintaro/wtftw)/539 | Window Tiling For The Win. A tiling window manager written in Rust |
-| 2372 | 94 | 45 | 3 months ago | [rage](https://github.com/str4d/rage)/540 | A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability. |
-| 2366 | 204 | 122 | a month ago | [config-rs](https://github.com/mehcode/config-rs)/541 | ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). |
-| 2366 | 957 | 310 | 11 days ago | [namada](https://github.com/anoma/namada)/542 | Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy |
-| 2365 | 231 | 158 | 8 months ago | [codelldb](https://github.com/vadimcn/codelldb)/543 | A native debugger extension for VSCode based on LLDB |
-| 2358 | 173 | 56 | 22 hours ago | [tarpaulin](https://github.com/xd009642/tarpaulin)/544 | A code coverage tool for Rust projects |
-| 2353 | 199 | 206 | 12 hours ago | [uniffi-rs](https://github.com/mozilla/uniffi-rs)/545 | a multi-language bindings generator for rust |
-| 2346 | 90 | 44 | 9 months ago | [gcsf](https://github.com/harababurel/gcsf)/546 | a FUSE file system based on Google Drive |
-| 2333 | 78 | 1473 | 13 days ago | [pop](https://github.com/pop-os/pop)/547 | A project for managing all Pop!_OS sources |
-| 2329 | 68 | 43 | 2 days ago | [Kooha](https://github.com/SeaDve/Kooha)/548 | Elegantly record your screen |
-| 2324 | 76 | 11 | 1 year, 2 months ago | [nebulet](https://github.com/nebulet/nebulet)/549 | A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0. |
-| 2323 | 231 | 110 | a day ago | [workers-rs](https://github.com/cloudflare/workers-rs)/550 | Write Cloudflare Workers in 100% Rust via WebAssembly |
-| 2319 | 94 | 6 | 2 years ago | [rust-doom](https://github.com/cristicbz/rust-doom)/551 | A Doom Renderer written in Rust. |
-| 2307 | 83 | 19 | 15 days ago | [skytable](https://github.com/skytable/skytable)/552 | Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences |
-| 2302 | 420 | 109 | 14 days ago | [leaf](https://github.com/eycorsican/leaf)/553 | A versatile and efficient proxy framework with nice features suitable for various use cases. |
-| 2295 | 46 | 21 | 3 months ago | [elfshaker](https://github.com/elfshaker/elfshaker)/554 | elfshaker stores binary objects efficiently |
-| 2294 | 71 | 16 | 3 months ago | [gptcommit](https://github.com/zurawiki/gptcommit)/555 | A git prepare-commit-msg hook for authoring commit messages with GPT-3. |
-| 2291 | 45 | 23 | 7 years ago | [notty](https://github.com/withoutboats/notty)/556 | A new kind of terminal |
-| 2289 | 39 | 25 | 15 hours ago | [csvlens](https://github.com/YS-L/csvlens)/557 | Command line csv viewer |
-| 2282 | 95 | 16 | 1 year, 3 months ago | [privaxy](https://github.com/Barre/privaxy)/558 | Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. |
-| 2281 | 90 | 58 | 3 days ago | [typeshare](https://github.com/1Password/typeshare)/559 | Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. |
-| 2280 | 66 | 53 | 22 days ago | [trustfall](https://github.com/obi1kenobi/trustfall)/560 | A query engine for any combination of data sources. Query your files and APIs as if they were databases! |
-| 2278 | 149 | 199 | a day ago | [kanidm](https://github.com/kanidm/kanidm)/561 | Kanidm: A simple, secure and fast identity management platform |
-| 2277 | 578 | 1139 | 7 hours ago | [nearcore](https://github.com/near/nearcore)/562 | Reference client for NEAR Protocol |
-| 2276 | 296 | 7 | 8 days ago | [mini-lsm](https://github.com/skyzh/mini-lsm)/563 | A tutorial of building an LSM-Tree storage engine in a week! |
-| 2276 | 127 | 43 | 5 months ago | [weggli](https://github.com/weggli-rs/weggli)/564 | weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases. |
-| 2276 | 125 | 57 | 2 years ago | [loc](https://github.com/cgag/loc)/565 | Count lines of code quickly. |
-| 2276 | 145 | 44 | 7 months ago | [quickcheck](https://github.com/BurntSushi/quickcheck)/566 | Automated property based testing for Rust (with shrinking). |
-| 2272 | 263 | 77 | 22 days ago | [hashbrown](https://github.com/rust-lang/hashbrown)/567 | Rust port of Google's SwissTable hash map |
-| 2264 | 61 | 28 | a month ago | [erdtree](https://github.com/solidiquis/erdtree)/568 | A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules. |
-| 2256 | 57 | 39 | 1 year, 30 days ago | [rq](https://github.com/dflemstr/rq)/569 | Record Query - A tool for doing record analysis and transformation |
-| 2250 | 62 | 28 | 3 hours ago | [qsv](https://github.com/jqnatividad/qsv)/570 | CSVs sliced, diced & analyzed. |
-| 2249 | 138 | 20 | 22 days ago | [lyon](https://github.com/nical/lyon)/571 | 2D graphics rendering on the GPU in rust using path tessellation. |
-| 2242 | 143 | 103 | 10 months ago | [microbin](https://github.com/szabodanika/microbin)/572 | A secure, configurable file-sharing and URL shortening web app written in Rust. |
-| 2240 | 668 | 212 | 16 days ago | [move](https://github.com/move-language/move)/573 | None |
-| 2239 | 83 | 41 | 10 months ago | [percy](https://github.com/chinedufn/percy)/574 | Build frontend browser apps with Rust + WebAssembly. Supports server side rendering. |
-| 2233 | 257 | 35 | 5 months ago | [shadow-tls](https://github.com/ihciah/shadow-tls)/575 | A proxy to expose real tls handshake to the firewall |
-| 2228 | 67 | 2 | 2 months ago | [engine](https://github.com/Qovery/engine)/576 | The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️ |
-| 2226 | 207 | 36 | 2 years ago | [vega](https://github.com/rajasekarv/vega)/577 | A new arguably faster implementation of Apache Spark from scratch in Rust |
-| 2224 | 281 | 193 | 6 days ago | [cbindgen](https://github.com/mozilla/cbindgen)/578 | A project for generating C bindings from Rust code |
-| 2223 | 125 | 51 | a month ago | [gotham](https://github.com/gotham-rs/gotham)/579 | A flexible web framework that promotes stability, safety, security and speed. |
-| 2221 | 654 | 313 | 12 hours ago | [arrow-rs](https://github.com/apache/arrow-rs)/580 | Official Rust implementation of Apache Arrow |
-| 2220 | 223 | 23 | 1 year, 6 months ago | [webapp.rs](https://github.com/saschagrunert/webapp.rs)/581 | A web application completely written in Rust. 🌍  |
-| 2213 | 40 | 34 | 15 hours ago | [ezno](https://github.com/kaleidawave/ezno)/582 | A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance |
-| 2212 | 116 | 101 | 6 months ago | [spot](https://github.com/xou816/spot)/583 | Native Spotify client for the GNOME desktop |
-| 2211 | 51 | 10 | 10 days ago | [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)/584 | Find out what takes most of the space in your executable. |
-| 2202 | 79 | 31 | 5 months ago | [flume](https://github.com/zesterer/flume)/585 | A safe and fast multi-producer, multi-consumer channel. |
-| 2194 | 202 | 80 | 3 days ago | [nixpacks](https://github.com/railwayapp/nixpacks)/586 | App source + Nix packages + Docker = Image |
-| 2191 | 295 | 124 | 9 months ago | [libpnet](https://github.com/libpnet/libpnet)/587 | Cross-platform, low level networking using the Rust programming language. |
-| 2180 | 61 | 35 | 2 years ago | [diskonaut](https://github.com/imsnif/diskonaut)/588 | Terminal disk space navigator 🔭 |
-| 2177 | 81 | 143 | 21 hours ago | [nickel](https://github.com/tweag/nickel)/589 | Better configuration for less |
-| 2174 | 81 | 85 | 18 days ago | [typos](https://github.com/crate-ci/typos)/590 | Source code spell checker |
-| 2172 | 207 | 95 | 2 days ago | [inkwell](https://github.com/TheDan64/inkwell)/591 | It's a New Kind of Wrapper for Exposing LLVM (Safely) |
-| 2167 | 52 | 55 | 18 hours ago | [niri](https://github.com/YaLTeR/niri)/592 | A scrollable-tiling Wayland compositor. |
-| 2150 | 151 | 57 | 8 days ago | [rbatis](https://github.com/rbatis/rbatis)/593 | Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL |
-| 2146 | 83 | 52 | 3 years ago | [ytop](https://github.com/cjbassi/ytop)/594 | A TUI system monitor written in Rust |
-| 2140 | 123 | 54 | 2 months ago | [Symphonia](https://github.com/pdeljanov/Symphonia)/595 | Pure Rust multimedia format demuxing, tag reading, and audio decoding library |
-| 2125 | 199 | 7 | 1 year, 9 months ago | [writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust)/596 | 《使用Rust编写操作系统》 |
-| 2123 | 51 | 142 | 12 hours ago | [flox](https://github.com/flox/flox)/597 | Developer environments you can take with you |
-| 2123 | 139 | 76 | 4 days ago | [svix-webhooks](https://github.com/svix/svix-webhooks)/598 | The enterprise-ready webhooks service 🦀 |
-| 2109 | 84 | 19 | 3 months ago | [perseus](https://github.com/framesurge/perseus)/599 | A state-driven web development framework for Rust with full support for server-side rendering and static generation. |
-| 2103 | 413 | 31 | 7 months ago | [artemis](https://github.com/paradigmxyz/artemis)/600 | A simple, modular, and fast framework for writing MEV bots in Rust. |
-| 2103 | 110 | 18 | 2 months ago | [indradb](https://github.com/indradb/indradb)/601 | A graph database written in rust |
-| 2101 | 216 | 113 | 12 days ago | [rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome)/602 | A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team. |
-| 2100 | 79 | 43 | 3 years ago | [flutter-rs](https://github.com/flutter-rs/flutter-rs)/603 | Build beautiful desktop apps with flutter and rust. 🌠 (wip) |
-| 2097 | 69 | 21 | 18 days ago | [granian](https://github.com/emmett-framework/granian)/604 | A Rust HTTP server for Python applications |
-| 2083 | 120 | 64 | 3 days ago | [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)/605 | A blazing fast inference solution for text embeddings models |
-| 2075 | 164 | 30 | 23 hours ago | [volo](https://github.com/cloudwego/volo)/606 | Rust RPC framework with high-performance and strong-extensibility for building micro-services. |
-| 2074 | 85 | 20 | 21 hours ago | [vim-clap](https://github.com/liuchengxu/vim-clap)/607 | :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim |
-| 2073 | 206 | 55 | 7 days ago | [tract](https://github.com/sonos/tract)/608 | Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference |
-| 2070 | 126 | 160 | 10 months ago | [Plume](https://github.com/Plume-org/Plume)/609 | Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror) |
-| 2070 | 244 | 16 | a month ago | [log](https://github.com/rust-lang/log)/610 | Logging implementation for Rust |
-| 2068 | 118 | 28 | 14 days ago | [termion](https://github.com/redox-os/termion)/611 | Mirror of https://gitlab.redox-os.org/redox-os/termion |
-| 2063 | 123 | 19 | 14 hours ago | [gosub-engine](https://github.com/gosub-browser/gosub-engine)/612 | A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions |
-| 2057 | 131 | 128 | 13 days ago | [autocxx](https://github.com/google/autocxx)/613 | Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers |
-| 2048 | 105 | 47 | 1 year, 7 months ago | [tunnelto](https://github.com/agrinman/tunnelto)/614 | Expose your local web server to the internet with a public URL. |
-| 2046 | 69 | 49 | 5 days ago | [freenet-core](https://github.com/freenet/freenet-core)/615 | Declare your digital independence |
-| 2041 | 86 | 45 | a month ago | [cargo-crev](https://github.com/crev-dev/cargo-crev)/616 | A cryptographically verifiable code review system for the cargo (Rust) package manager. |
-| 2033 | 69 | 22 | 1 year, 7 months ago | [unreal-rust](https://github.com/MaikKlein/unreal-rust)/617 | Rust integration for Unreal Engine 5 |
-| 2031 | 42 | 16 | a month ago | [tv](https://github.com/alexhallam/tv)/618 | 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment. |
-| 2027 | 64 | 3 | a month ago | [mdcat](https://github.com/swsnr/mdcat)/619 | cat for markdown |
-| 2024 | 68 | 22 | 5 days ago | [owshen](https://github.com/OwshenNetwork/owshen)/620 | The Deep Sea |
-| 2020 | 31 | 41 | 15 days ago | [pylyzer](https://github.com/mtshiba/pylyzer)/621 | A fast static code analyzer & language server for Python |
-| 2019 | 136 | 84 | 26 days ago | [salsa](https://github.com/salsa-rs/salsa)/622 | A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system. |
-| 2017 | 92 | 53 | 5 days ago | [insta](https://github.com/mitsuhiko/insta)/623 | A snapshot testing library for rust |
-| 2016 | 65 | 38 | 21 days ago | [glicol](https://github.com/chaosprint/glicol)/624 | Graph-oriented live coding language and music/audio DSP library written in Rust |
-| 2016 | 102 | 49 | 4 days ago | [vello](https://github.com/linebender/vello)/625 | An experimental GPU compute-centric 2D renderer. |
-| 2011 | 48 | 16 | 5 years ago | [stdx](https://github.com/brson/stdx)/626 | The missing batteries of Rust |
-| 2009 | 70 | 76 | 21 days ago | [ouch](https://github.com/ouch-org/ouch)/627 | Painless compression and decompression in the terminal |
-| 2004 | 119 | 197 | a day ago | [pixi](https://github.com/prefix-dev/pixi)/628 | Package management made easy |
-| 2003 | 209 | 49 | 27 days ago | [html5ever](https://github.com/servo/html5ever)/629 | High-performance browser-grade HTML5 parser |
-| 1991 | 986 | 191 | 3 days ago | [libc](https://github.com/rust-lang/libc)/630 | Raw bindings to platform APIs for Rust |
-| 1988 | 275 | 71 | 11 months ago | [CYFS](https://github.com/buckyos/CYFS)/631 | CYFS is the next-generation technology to build real Web3 by upgrading the basic protocol of Web (TCP/IP+DNS+HTTP),is short for CYberFileSystem. https://www.cyfs.com/, cyfs://cyfs/index_en.html. |
-| 1986 | 170 | 37 | 2 days ago | [hayabusa](https://github.com/Yamato-Security/hayabusa)/632 | Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. |
-| 1980 | 20 | 106 | 6 months ago | [sbtc-developer-release](https://github.com/stacks-network/sbtc-developer-release)/633 | sBTC primitives, signer components, helper tools |
-| 1980 | 61 | 41 | 3 years ago | [helix](https://github.com/tildeio/helix)/634 | Native Ruby extensions without fear |
-| 1977 | 109 | 53 | 1 year, 2 months ago | [drill](https://github.com/fcsonline/drill)/635 | Drill is an HTTP load testing application written in Rust |
-| 1975 | 78 | 40 | 3 months ago | [kdash](https://github.com/kdash-rs/kdash)/636 | A simple and fast dashboard for Kubernetes |
-| 1975 | 94 | 15 | 5 days ago | [javy](https://github.com/bytecodealliance/javy)/637 | JS to WebAssembly toolchain |
-| 1973 | 88 | 101 | 5 days ago | [nextest](https://github.com/nextest-rs/nextest)/638 | A next-generation test runner for Rust. |
-| 1973 | 36 | 14 | 3 years ago | [nft_ptr](https://github.com/zhuowei/nft_ptr)/639 | C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain |
-| 1973 | 107 | 47 | 3 years ago | [stretch](https://github.com/vislyhq/stretch)/640 | High performance flexbox implementation written in rust |
-| 1965 | 78 | 538 | 10 hours ago | [kani](https://github.com/model-checking/kani)/641 | Kani Rust Verifier |
-| 1964 | 79 | 72 | 1 year, 20 days ago | [wasmer-python](https://github.com/wasmerio/wasmer-python)/642 | 🐍🕸 WebAssembly runtime for Python |
-| 1961 | 37 | 18 | 3 days ago | [pgmq](https://github.com/tembo-io/pgmq)/643 | A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. |
-| 1960 | 186 | 39 | 1 year, 2 months ago | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop)/644 | Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust |
-| 1960 | 216 | 80 | 4 days ago | [capnproto-rust](https://github.com/capnproto/capnproto-rust)/645 | Cap'n Proto for Rust |
-| 1947 | 131 | 40 | 2 months ago | [maud](https://github.com/lambda-fairy/maud)/646 | :pencil: Compile-time HTML templates for Rust |
-| 1943 | 227 | 55 | 5 days ago | [pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark)/647 | An efficient, reliable parser for CommonMark, a standard dialect of Markdown |
-| 1939 | 466 | 29 | 15 days ago | [glutin](https://github.com/rust-windowing/glutin)/648 | A low-level library for OpenGL context creation, written in pure Rust. |
-| 1936 | 216 | 28 | 1 year, 1 month ago | [Krakatau](https://github.com/Storyyeller/Krakatau)/649 | Java decompiler, assembler, and disassembler |
-| 1933 | 264 | 11 | 18 hours ago | [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)/650 | A purpose-built proxy for the Linkerd service mesh. Written in Rust. |
-| 1924 | 179 | 103 | a day ago | [martin](https://github.com/maplibre/martin)/651 | Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling. |
-| 1922 | 54 | 31 | 1 year, 9 months ago | [blueboat](https://github.com/losfair/blueboat)/652 | All-in-one, multi-tenant serverless JavaScript runtime. |
-| 1921 | 56 | 1 | 22 days ago | [sauron](https://github.com/ivanceras/sauron)/653 | A versatile web framework and library for building client-side and server-side web applications |
-| 1919 | 614 | 305 | 13 hours ago | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)/654 | Rust Bitcoin library |
-| 1914 | 123 | 63 | 1 year, 3 months ago | [native-windows-gui](https://github.com/gabdube/native-windows-gui)/655 | A light windows GUI toolkit for rust |
-| 1910 | 108 | 89 | 13 hours ago | [loom](https://github.com/tokio-rs/loom)/656 | Concurrency permutation testing tool for Rust. |
-| 1906 | 110 | 263 | 7 days ago | [scryer-prolog](https://github.com/mthom/scryer-prolog)/657 | A modern Prolog implementation written mostly in Rust. |
-| 1905 | 94 | 6 | 8 months ago | [left-right](https://github.com/jonhoo/left-right)/658 | A lock-free, read-optimized, concurrency primitive. |
-| 1904 | 90 | 40 | 4 years ago | [warp](https://github.com/dgiagio/warp)/659 | Create self-contained single binary applications |
-| 1903 | 151 | 132 | 8 hours ago | [utoipa](https://github.com/juhaku/utoipa)/660 | Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust |
-| 1897 | 42 | 44 | 5 hours ago | [ludusavi](https://github.com/mtkennerly/ludusavi)/661 | Backup tool for PC game saves |
-| 1895 | 111 | 26 | 12 hours ago | [fornjot](https://github.com/hannobraun/fornjot)/662 | Early-stage b-rep CAD kernel, written in the Rust programming language. |
-| 1889 | 384 | 35 | 11 months ago | [jarvis](https://github.com/Priler/jarvis)/663 | Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc. |
-| 1878 | 174 | 47 | 3 months ago | [sn0int](https://github.com/kpcyrd/sn0int)/664 | Semi-automatic OSINT framework and package manager |
-| 1874 | 358 | 248 | 20 hours ago | [delta-rs](https://github.com/delta-io/delta-rs)/665 | A native Rust library for Delta Lake, with bindings into Python |
-| 1871 | 54 | 7 | 4 months ago | [Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide)/666 | Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.  |
-| 1863 | 106 | 37 | 5 months ago | [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs)/667 | A small macro for defining lazy evaluated static variables in Rust. |
-| 1860 | 291 | 116 | 17 hours ago | [LibAFL](https://github.com/AFLplusplus/LibAFL)/668 | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... |
-| 1859 | 89 | 61 | 1 year, 10 months ago | [wsl-distrod](https://github.com/nullpo-head/wsl-distrod)/669 | Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability. |
-| 1857 | 63 | 26 | 2 years ago | [typed-html](https://github.com/bodil/typed-html)/670 | Type checked JSX for Rust |
-| 1854 | 96 | 77 | 1 year, 11 months ago | [vagga](https://github.com/tailhook/vagga)/671 | Vagga is a containerization tool without daemons |
-| 1846 | 175 | 8 | 19 days ago | [BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer)/672 | 一键安装 Better 系软件 |
-| 1846 | 71 | 75 | a month ago | [tabled](https://github.com/zhiburt/tabled)/673 | An easy to use library for pretty print tables of Rust structs and enums. |
-| 1846 | 69 | 20 | 1 year, 7 months ago | [bayard](https://github.com/mosuka/bayard)/674 | A full-text search and indexing server written in Rust. |
-| 1844 | 76 | 31 | 2 months ago | [ante](https://github.com/jfecher/ante)/675 | A safe, easy systems language |
-| 1843 | 967 | 1 | 5 months ago | [ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course)/676 | Rust Programming Fundamentals - one course to rule them all, one course to find them... |
-| 1835 | 96 | 68 | 5 hours ago | [taffy](https://github.com/DioxusLabs/taffy)/677 | A high performance rust-powered UI layout library |
-| 1835 | 56 | 31 | a day ago | [swww](https://github.com/LGFae/swww)/678 | A Solution to your Wayland Wallpaper Woes |
-| 1833 | 132 | 85 | 17 days ago | [validator](https://github.com/Keats/validator)/679 | Simple validation for Rust structs |
-| 1833 | 44 | 106 | 3 days ago | [rivet](https://github.com/rivet-gg/rivet)/680 | 🔩 Open-source solution to deploy, scale, and operate your multiplayer game |
-| 1832 | 34 | 20 | 1 year, 4 months ago | [crush](https://github.com/liljencrantz/crush)/681 | Crush is a command line shell that is also a powerful modern programming language. |
-| 1828 | 40 | 27 | 4 months ago | [flowistry](https://github.com/willcrichton/flowistry)/682 | Flowistry is an IDE plugin for Rust that helps you focus on relevant code. |
-| 1826 | 88 | 47 | 3 days ago | [aurae](https://github.com/aurae-runtime/aurae)/683 | Distributed systems runtime daemon written in Rust. |
-| 1823 | 105 | 25 | 1 year, 4 months ago | [hematite](https://github.com/PistonDevelopers/hematite)/684 | A simple Minecraft written in Rust with the Piston game engine |
-| 1818 | 70 | 12 | a month ago | [gnvim](https://github.com/vhakulinen/gnvim)/685 | GUI for neovim, without any web bloat |
-| 1818 | 129 | 66 | 12 days ago | [syntect](https://github.com/trishume/syntect)/686 | Rust library for syntax highlighting using Sublime Text syntax definitions. |
-| 1815 | 91 | 49 | 2 months ago | [kubie](https://github.com/sbstp/kubie)/687 | A more powerful alternative to kubectx and kubens |
-| 1813 | 179 | 112 | 27 days ago | [embedded-hal](https://github.com/rust-embedded/embedded-hal)/688 | A Hardware Abstraction Layer (HAL) for embedded systems |
-| 1813 | 139 | 21 | 17 days ago | [opencv-rust](https://github.com/twistedfall/opencv-rust)/689 | Rust bindings for OpenCV 3 & 4 |
-| 1812 | 42 | 44 | 3 days ago | [samply](https://github.com/mstange/samply)/690 | Command-line sampling profiler for macOS and Linux |
-| 1811 | 154 | 33 | 13 days ago | [cargo-generate](https://github.com/cargo-generate/cargo-generate)/691 | cargo, make me a project |
-| 1810 | 144 | 170 | 12 hours ago | [connector-x](https://github.com/sfu-db/connector-x)/692 | Fastest library to load data from DB to DataFrames in Rust and Python |
-| 1805 | 386 | 276 | 2 years ago | [winapi-rs](https://github.com/retep998/winapi-rs)/693 | Rust bindings to Windows API |
-| 1804 | 277 | 61 | 9 hours ago | [sysinfo](https://github.com/GuillaumeGomez/sysinfo)/694 | Cross-platform library to fetch system information |
-| 1801 | 40 | 24 | a month ago | [aquascope](https://github.com/cognitive-engineering-lab/aquascope)/695 | Interactive visualizations of Rust at compile-time and run-time |
-| 1800 | 102 | 76 | 19 days ago | [miette](https://github.com/zkat/miette)/696 | Fancy extension for std::error::Error with pretty, detailed diagnostic printing. |
-| 1797 | 135 | 62 | 7 months ago | [rust-cpython](https://github.com/dgrunwald/rust-cpython)/697 | Rust <-> Python bindings |
-| 1790 | 100 | 5 | 7 days ago | [ntex](https://github.com/ntex-rs/ntex)/698 | framework for composable networking services  |
-| 1787 | 71 | 6 | 6 years ago | [kanban-app](https://github.com/huytd/kanban-app)/699 | Kanban board built with Rust and Elm |
-| 1781 | 263 | 92 | a day ago | [bytes](https://github.com/tokio-rs/bytes)/700 | Utilities for working with bytes |
-| 1779 | 419 | 62 | 1 year, 4 months ago | [code](https://github.com/rust-in-action/code)/701 | Source code for the book Rust in Action |
-| 1778 | 72 | 38 | 7 hours ago | [aici](https://github.com/microsoft/aici)/702 | AICI: Prompts as (Wasm) Programs |
-| 1777 | 250 | 93 | 14 days ago | [grpc-rs](https://github.com/tikv/grpc-rs)/703 | The gRPC library for Rust built on C Core library and futures |
-| 1775 | 116 | 107 | 3 days ago | [neqo](https://github.com/mozilla/neqo)/704 | Neqo, an implementation of QUIC in Rust |
-| 1772 | 173 | 42 | a month ago | [chalk](https://github.com/rust-lang/chalk)/705 | An implementation and definition of the Rust trait system using a PROLOG-like logic solver |
-| 1772 | 105 | 124 | 3 hours ago | [Daft](https://github.com/Eventual-Inc/Daft)/706 | Distributed DataFrame for Python designed for the cloud, powered by Rust |
-| 1771 | 115 | 5 | 1 year, 9 months ago | [rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap)/707 | Roadmap to becoming a Rust Web Developer in 2022 |
-| 1771 | 27 | 31 | 18 hours ago | [quary](https://github.com/quarylabs/quary)/708 | Open-source BI for engineers |
-| 1768 | 69 | 45 | a month ago | [mun](https://github.com/mun-lang/mun)/709 | Source code for the Mun language and runtime. |
-| 1767 | 64 | 30 | 6 months ago | [cacao](https://github.com/ryanmcgrath/cacao)/710 | Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working! |
-| 1766 | 148 | 15 | a month ago | [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)/711 | ⚡️Lightning-fast linter for .env files. Written in Rust 🦀 |
-| 1759 | 232 | 91 | 4 years ago | [RustPrimer](https://github.com/rustcc/RustPrimer)/712 | The Rust primer for beginners. We need native English speaker help us modify the translation. |
-| 1757 | 105 | 6 | 5 months ago | [once_cell](https://github.com/matklad/once_cell)/713 | Rust library for single assignment cells and lazy statics without macros |
-| 1757 | 81 | 15 | 1 year, 7 months ago | [rust-for-node-developers](https://github.com/Mercateo/rust-for-node-developers)/714 | An introduction to the Rust programming language for Node developers. |
-| 1756 | 112 | 0 | 11 months ago | [rsedis](https://github.com/seppo0010/rsedis)/715 | Redis re-implemented in Rust. |
-| 1756 | 88 | 11 | 9 months ago | [spotify-adblock](https://github.com/abba23/spotify-adblock)/716 | Adblocker for Spotify |
-| 1755 | 352 | 96 | a month ago | [ZoKrates](https://github.com/Zokrates/ZoKrates)/717 | A toolbox for zkSNARKs on Ethereum |
-| 1754 | 95 | 6 | 5 days ago | [scraper](https://github.com/causal-agent/scraper)/718 | HTML parsing and querying with CSS selectors |
-| 1754 | 68 | 31 | 15 days ago | [fclones](https://github.com/pkolaczk/fclones)/719 | Efficient Duplicate File Finder |
-| 1754 | 39 | 28 | a day ago | [stract](https://github.com/StractOrg/stract)/720 | web search done right |
-| 1750 | 74 | 21 | 25 days ago | [may](https://github.com/Xudong-Huang/may)/721 | rust stackful coroutine library |
-| 1744 | 414 | 119 | a day ago | [cc-rs](https://github.com/rust-lang/cc-rs)/722 | Rust library for build scripts to compile C/C++ code into a Rust library |
-| 1744 | 44 | 11 | 1 year, 9 months ago | [choose](https://github.com/theryangeary/choose)/723 | A human-friendly and fast alternative to cut and (sometimes) awk |
-| 1743 | 82 | 11 | 1 year, 3 months ago | [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis)/724 | 🎨 Example-based texture synthesis written in Rust 🦀 |
-| 1739 | 97 | 23 | 1 year, 3 months ago | [github-audio](https://github.com/debugger22/github-audio)/725 | Listen to music generated by events happening across GitHub :octocat: 🎷 |
-| 1739 | 20 | 26 | 2 months ago | [sqlsync](https://github.com/orbitinghail/sqlsync)/726 | SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. |
-| 1738 | 186 | 11 | 1 year, 8 months ago | [fuso](https://github.com/editso/fuso)/727 | 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption) |
-| 1736 | 700 | 135 | 6 days ago | [rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)/728 | rust wrapper for rocksdb |
-| 1735 | 204 | 27 | 7 days ago | [tungstenite-rs](https://github.com/snapview/tungstenite-rs)/729 | Lightweight stream-based WebSocket implementation for Rust. |
-| 1735 | 76 | 23 | 8 days ago | [MoonZoon](https://github.com/MoonZoon/MoonZoon)/730 | Rust Fullstack Framework |
-| 1733 | 300 | 13 | 2 months ago | [ninja](https://github.com/0x676e67/ninja)/731 | Reverse engineered ChatGPT proxy |
-| 1733 | 151 | 25 | a month ago | [vpncloud](https://github.com/dswd/vpncloud)/732 | Peer-to-peer VPN |
-| 1732 | 128 | 11 | 11 months ago | [smartgpt](https://github.com/Cormanz/smartgpt)/733 | A program that provides LLMs with the ability to complete complex tasks using plugins. |
-| 1732 | 57 | 64 | 2 months ago | [dyon](https://github.com/PistonDevelopers/dyon)/734 | A rusty dynamically typed scripting language |
-| 1731 | 88 | 29 | 4 days ago | [parseable](https://github.com/parseablehq/parseable)/735 | Parseable is a log analytics system platform for modern, cloud native workloads |
-| 1725 | 112 | 30 | 4 months ago | [rust-phf](https://github.com/rust-phf/rust-phf)/736 | Compile time static maps for Rust |
-| 1721 | 133 | 9 | a month ago | [champ-r](https://github.com/cangzhang/champ-r)/737 | 🐶 Yet another League of Legends helper |
-| 1718 | 82 | 5 | 12 days ago | [async-trait](https://github.com/dtolnay/async-trait)/738 | Type erasure for async trait methods |
-| 1715 | 117 | 37 | 7 months ago | [fst](https://github.com/BurntSushi/fst)/739 | Represent large sets and maps compactly with finite state transducers. |
-| 1715 | 191 | 66 | 27 days ago | [lettre](https://github.com/lettre/lettre)/740 | a mailer library for Rust |
-| 1713 | 186 | 64 | 23 hours ago | [ash](https://github.com/ash-rs/ash)/741 | Vulkan bindings for Rust |
-| 1713 | 252 | 31 | 5 days ago | [helios](https://github.com/a16z/helios)/742 | A fast, secure, and portable light client for Ethereum |
-| 1708 | 134 | 63 | 1 year, 5 months ago | [redbpf](https://github.com/foniod/redbpf)/743 | Rust library for building and running BPF/eBPF modules |
-| 1707 | 162 | 42 | 1 year, 7 months ago | [mainframer](https://github.com/buildfoundation/mainframer)/744 | Tool for remote builds. Sync project to remote machine, execute command, sync back. |
-| 1707 | 114 | 34 | 4 months ago | [pixels](https://github.com/parasyte/pixels)/745 | A tiny hardware-accelerated pixel frame buffer. 🦀 |
-| 1704 | 108 | 86 | a month ago | [bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook)/746 | Unofficial Reference Book for the Bevy Game Engine |
-| 1704 | 107 | 66 | a day ago | [lychee](https://github.com/lycheeverse/lychee)/747 | ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! |
-| 1704 | 86 | 1 | 1 year, 3 months ago | [learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe)/748 | Rust是未来前端基础设施 |
-| 1701 | 232 | 27 | 5 days ago | [hashes](https://github.com/RustCrypto/hashes)/749 | Collection of cryptographic hash functions written in pure Rust |
-| 1701 | 139 | 81 | 2 months ago | [gloo](https://github.com/rustwasm/gloo)/750 | A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM |
-| 1696 | 39 | 23 | 3 days ago | [lan-mouse](https://github.com/feschber/lan-mouse)/751 | mouse & keyboard sharing via LAN |
-| 1691 | 105 | 41 | 11 days ago | [prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust)/752 | Type-safe database access for Rust |
-| 1690 | 189 | 0 | 2 years ago | [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)/753 | Rust bindings to wgpu native library |
-| 1690 | 66 | 5 | 1 year, 3 months ago | [bingrep](https://github.com/m4b/bingrep)/754 | like ~~grep~~ UBER, but for binaries |
-| 1687 | 115 | 5 | 3 months ago | [rlua](https://github.com/mlua-rs/rlua)/755 | High level Lua bindings to Rust |
-| 1683 | 163 | 93 | a day ago | [gtk4-rs](https://github.com/gtk-rs/gtk4-rs)/756 | Rust bindings of GTK 4 |
-| 1682 | 38 | 15 | 27 days ago | [rui](https://github.com/audulus/rui)/757 | Declarative Rust UI library |
-| 1676 | 205 | 38 | 1 year, 5 months ago | [zCore](https://github.com/rcore-os/zCore)/758 | Zircon microkernel reimplemented in Rust. |
-| 1674 | 30 | 25 | 2 years ago | [kosmonaut](https://github.com/twilco/kosmonaut)/759 | A web browser engine for the space age :rocket: |
-| 1670 | 148 | 161 | 4 days ago | [smithay](https://github.com/Smithay/smithay)/760 | A smithy for rusty wayland compositors |
-| 1669 | 34 | 6 | 2 months ago | [reshape](https://github.com/fabianlindfors/reshape)/761 | An easy-to-use, zero-downtime schema migration tool for Postgres |
-| 1664 | 68 | 117 | 4 hours ago | [jsr](https://github.com/jsr-io/jsr)/762 | The open-source package registry for modern JavaScript and TypeScript |
-| 1658 | 53 | 20 | 6 hours ago | [faer-rs](https://github.com/sarah-ek/faer-rs)/763 | Linear algebra foundation for the Rust programming language |
-| 1655 | 46 | 174 | 17 days ago | [nix-installer](https://github.com/DeterminateSystems/nix-installer)/764 | Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs. |
-| 1652 | 69 | 53 | 28 days ago | [inquire](https://github.com/mikaelmello/inquire)/765 | A Rust library for building interactive prompts |
-| 1649 | 35 | 3 | 10 hours ago | [killport](https://github.com/jkfran/killport)/766 | A command-line tool to easily kill processes running on a specified port. |
-| 1649 | 380 | 163 | 4 hours ago | [opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)/767 | The Rust OpenTelemetry implementation |
-| 1648 | 115 | 233 | 5 years ago | [mentat](https://github.com/mozilla/mentat)/768 | UNMAINTAINED A persistent, relational store inspired by Datomic and DataScript. |
-| 1648 | 223 | 20 | 13 days ago | [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)/769 | Future-based Tungstenite for Tokio. Lightweight stream-based WebSocket implementation |
-| 1647 | 49 | 25 | 2 months ago | [kondo](https://github.com/tbillington/kondo)/770 | Cleans dependencies and build artifacts from your projects. |
-| 1641 | 190 | 46 | 12 days ago | [rtic](https://github.com/rtic-rs/rtic)/771 | Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers |
-| 1640 | 122 | 39 | 7 months ago | [vigil](https://github.com/valeriansaliou/vigil)/772 | 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). |
-| 1640 | 349 | 156 | 2 years ago | [openethereum](https://github.com/openethereum/openethereum)/773 | (deprecated) The fast, light, and robust client for the Ethereum mainnet.  |
-| 1637 | 140 | 22 | 5 hours ago | [mistral.rs](https://github.com/EricLBuehler/mistral.rs)/774 | Blazingly fast LLM inference. |
-| 1636 | 64 | 45 | 1 year, 7 months ago | [skia-canvas](https://github.com/samizdatco/skia-canvas)/775 | A GPU-accelerated 2D graphics environment for Node.js |
-| 1636 | 98 | 85 | 3 months ago | [dfdx](https://github.com/coreylowman/dfdx)/776 | Deep learning in Rust, with shape checked tensors and neural networks |
-| 1635 | 36 | 17 | 4 months ago | [tere](https://github.com/mgunyho/tere)/777 | Terminal file explorer |
-| 1629 | 156 | 16 | 13 hours ago | [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt)/778 | BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality |
-| 1626 | 70 | 63 | 4 days ago | [canvas](https://github.com/Brooooooklyn/canvas)/779 | High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp. |
-| 1620 | 121 | 175 | 2 days ago | [iroh](https://github.com/n0-computer/iroh)/780 | A toolkit for building distributed applications |
-| 1619 | 120 | 44 | 2 years ago | [nphysics](https://github.com/dimforge/nphysics)/781 | 2 and 3-dimensional rigid body physics engine for Rust. |
-| 1619 | 210 | 86 | 7 months ago | [rust-csv](https://github.com/BurntSushi/rust-csv)/782 | A CSV parser for Rust, with Serde support. |
-| 1616 | 211 | 132 | 15 days ago | [rodio](https://github.com/RustAudio/rodio)/783 | Rust audio playback library |
-| 1615 | 81 | 30 | 2 months ago | [colored](https://github.com/colored-rs/colored)/784 | (Rust) Coloring terminal so simple you already know how to do it ! |
-| 1614 | 81 | 41 | 4 years ago | [iota](https://github.com/gchp/iota)/785 | A terminal-based text editor written in Rust |
-| 1613 | 139 | 59 | 8 days ago | [strum](https://github.com/Peternator7/strum)/786 | A small rust library for adding custom derives to enums |
-| 1612 | 43 | 2 | a month ago | [case-studies](https://github.com/dtolnay/case-studies)/787 | Analysis of various tricky Rust code |
-| 1611 | 111 | 101 | a day ago | [topgrade](https://github.com/topgrade-rs/topgrade)/788 | Upgrade all the things |
-| 1608 | 374 | 133 | 13 hours ago | [git2-rs](https://github.com/rust-lang/git2-rs)/789 | libgit2 bindings for Rust |
-| 1607 | 93 | 104 | 2 years ago | [svgcleaner](https://github.com/RazrFalcon/svgcleaner)/790 | svgcleaner could help you to clean up your SVG files from the unnecessary data. |
-| 1606 | 82 | 13 | a month ago | [vivid](https://github.com/sharkdp/vivid)/791 | A themeable LS_COLORS generator with a rich filetype datebase |
-| 1604 | 297 | 16 | 30 days ago | [ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust)/792 | ✨ Rust 版 ServerStatus 探针、威力加强版 |
-| 1602 | 42 | 12 | 5 months ago | [fastmod](https://github.com/facebookincubator/fastmod)/793 | A fast partial replacement for the codemod tool |
-| 1602 | 52 | 32 | 2 years ago | [zz](https://github.com/zetzit/zz)/794 | 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C |
-| 1601 | 81 | 29 | a day ago | [hermit-rs](https://github.com/hermit-os/hermit-rs)/795 | Hermit for Rust. |
-| 1600 | 37 | 5 | 3 days ago | [plane](https://github.com/jamsocket/plane)/796 | A distributed system for running WebSocket services at scale. |
-| 1599 | 53 | 7 | 5 days ago | [rust-quiz](https://github.com/dtolnay/rust-quiz)/797 | Medium to hard Rust questions with explanations |
-| 1597 | 316 | 163 | 22 hours ago | [cnosdb](https://github.com/cnosdb/cnosdb)/798 | A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud |
-| 1592 | 149 | 114 | a day ago | [proptest](https://github.com/proptest-rs/proptest)/799 | Hypothesis-like property testing for Rust |
-| 1592 | 145 | 2 | 4 months ago | [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait)/800 | A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) |
-| 1591 | 54 | 29 | 3 years ago | [emu](https://github.com/calebwin/emu)/801 | The write-once-run-anywhere GPGPU library for Rust |
-| 1586 | 70 | 132 | a day ago | [iggy](https://github.com/iggy-rs/iggy)/802 | Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. |
-| 1586 | 53 | 6 | 9 days ago | [pavex](https://github.com/LukeMathWalker/pavex)/803 | An easy-to-use Rust framework for building robust and performant APIs |
-| 1585 | 167 | 96 | 27 days ago | [ureq](https://github.com/algesten/ureq)/804 | A simple, safe HTTP client |
-| 1584 | 66 | 36 | a month ago | [mCaptcha](https://github.com/mCaptcha/mCaptcha)/805 | A no-nonsense CAPTCHA system with seamless UX | Backend component |
-| 1583 | 85 | 64 | a month ago | [argh](https://github.com/google/argh)/806 | Rust derive-based argument parsing optimized for code size |
-| 1582 | 83 | 24 | 11 days ago | [gitu](https://github.com/altsem/gitu)/807 | A TUI Git client inspired by Magit |
-| 1582 | 421 | 71 | 9 days ago | [rand](https://github.com/rust-random/rand)/808 | A Rust library for random number generation. |
-| 1580 | 140 | 95 | 2 years ago | [legion](https://github.com/amethyst/legion)/809 | High performance Rust ECS library |
-| 1579 | 82 | 94 | 14 days ago | [rune](https://github.com/rune-rs/rune)/810 | An embeddable dynamic programming language for Rust. |
-| 1576 | 136 | 16 | 4 months ago | [x8](https://github.com/Sh1Yo/x8)/811 | Hidden parameters discovery suite |
-| 1575 | 71 | 51 | 21 days ago | [ariadne](https://github.com/zesterer/ariadne)/812 | A fancy diagnostics & error reporting crate |
-| 1574 | 79 | 10 | 4 months ago | [plz-cli](https://github.com/m1guelpf/plz-cli)/813 | Copilot for your terminal |
-| 1574 | 144 | 14 | a month ago | [indexmap](https://github.com/indexmap-rs/indexmap)/814 | A hash table with consistent order and fast iteration; access items by key or sequence index |
-| 1573 | 102 | 33 | 14 days ago | [afl.rs](https://github.com/rust-fuzz/afl.rs)/815 | 🐇 Fuzzing Rust code with American Fuzzy Lop |
-| 1572 | 168 | 158 | 5 days ago | [fe](https://github.com/ethereum/fe)/816 | Emerging smart contract language for the Ethereum blockchain. |
-| 1571 | 42 | 31 | a day ago | [ryot](https://github.com/IgnisDa/ryot)/817 | Roll your own tracker! |
-| 1571 | 55 | 68 | 7 days ago | [rustic](https://github.com/rustic-rs/rustic)/818 | rustic - fast, encrypted, and deduplicated backups powered by Rust |
-| 1567 | 247 | 40 | a month ago | [jsonwebtoken](https://github.com/Keats/jsonwebtoken)/819 | JWT lib in rust |
-| 1564 | 78 | 49 | 17 days ago | [cargo-deny](https://github.com/EmbarkStudios/cargo-deny)/820 | ❌ Cargo plugin for linting your dependencies 🦀 |
-| 1563 | 70 | 13 | 4 days ago | [LocustDB](https://github.com/cswinter/LocustDB)/821 | Blazingly fast analytics database that will rapidly devour all of your data. |
-| 1561 | 107 | 50 | 5 months ago | [inferno](https://github.com/jonhoo/inferno)/822 | A Rust port of FlameGraph |
-| 1559 | 60 | 13 | 12 days ago | [human-panic](https://github.com/rust-cli/human-panic)/823 | Panic messages for humans. |
-| 1558 | 72 | 28 | 30 days ago | [kalker](https://github.com/PaddiM8/kalker)/824 | Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals |
-| 1558 | 116 | 87 | 2 days ago | [jumpy](https://github.com/fishfolk/jumpy)/825 | Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 |
-| 1556 | 25 | 6 | 1 year, 3 months ago | [glidesort](https://github.com/orlp/glidesort)/826 | A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.  |
-| 1555 | 21 | 21 | 18 days ago | [sad](https://github.com/ms-jpq/sad)/827 | CLI search and replace | Space Age seD |
-| 1554 | 52 | 18 | a month ago | [charming](https://github.com/yuankunzhang/charming)/828 | A visualization library for Rust |
-| 1552 | 44 | 30 | 16 days ago | [cargo-udeps](https://github.com/est31/cargo-udeps)/829 | Find unused dependencies in Cargo.toml |
-| 1551 | 51 | 26 | 3 years ago | [faster](https://github.com/AdamNiederer/faster)/830 | SIMD for humans |
-| 1551 | 109 | 20 | a month ago | [cargo-chef](https://github.com/LukeMathWalker/cargo-chef)/831 | A cargo-subcommand to speed up Rust Docker builds using Docker layer caching. |
-| 1550 | 149 | 50 | 19 days ago | [calamine](https://github.com/tafia/calamine)/832 | A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets |
-| 1547 | 38 | 12 | 7 days ago | [toast](https://github.com/stepchowfun/toast)/833 | Containerize your development and continuous integration environments. 🥂 |
-| 1544 | 107 | 14 | 1 year, 8 months ago | [rezolus](https://github.com/twitter/rezolus)/834 | Systems performance telemetry |
-| 1544 | 96 | 51 | 4 months ago | [slog](https://github.com/slog-rs/slog)/835 | Structured, contextual, extensible, composable logging for Rust |
-| 1544 | 207 | 54 | a month ago | [risinglight](https://github.com/risinglightdb/risinglight)/836 | An educational OLAP database system. |
-| 1541 | 27 | 17 | 18 hours ago | [diffsitter](https://github.com/afnanenayet/diffsitter)/837 | A tree-sitter based AST difftool to get meaningful semantic diffs |
-| 1539 | 59 | 1 | 2 months ago | [cfonts](https://github.com/dominikwilkowski/cfonts)/838 | Sexy fonts for the console |
-| 1536 | 136 | 50 | 3 years ago | [rudr](https://github.com/oam-dev/rudr)/839 | A Kubernetes implementation of the Open Application Model specification |
-| 1536 | 84 | 13 | 9 days ago | [rust-embed](https://github.com/pyrossh/rust-embed)/840 | Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev. |
-| 1532 | 54 | 13 | a month ago | [stateright](https://github.com/stateright/stateright)/841 | A model checker for implementing distributed systems. |
-| 1530 | 125 | 112 | 12 days ago | [rustsec](https://github.com/rustsec/rustsec)/842 | RustSec API & Tooling |
-| 1529 | 107 | 8 | 9 days ago | [fltk-rs](https://github.com/fltk-rs/fltk-rs)/843 | Rust bindings for the FLTK GUI library. |
-| 1529 | 164 | 17 | 3 days ago | [xiu](https://github.com/harlanc/xiu)/844 |  A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀 |
-| 1527 | 205 | 19 | 2 days ago | [100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)/845 | A self-paced course to learn Rust, one exercise at a time. |
-| 1524 | 188 | 19 | 7 months ago | [rssbot](https://github.com/iovxw/rssbot)/846 | Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人 |
-| 1521 | 75 | 18 | 2 years ago | [zbox](https://github.com/zboxfs/zbox)/847 | Zero-details, privacy-focused in-app file system. |
-| 1520 | 73 | 27 | 3 days ago | [noseyparker](https://github.com/praetorian-inc/noseyparker)/848 | Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history. |
-| 1519 | 200 | 114 | 13 days ago | [rust-bio](https://github.com/rust-bio/rust-bio)/849 | This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration. |
-| 1519 | 61 | 5 | 8 months ago | [goscript](https://github.com/oxfeeefeee/goscript)/850 | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
-| 1516 | 119 | 30 | 7 months ago | [orange](https://github.com/naaive/orange)/851 | Cross-platform local file search engine. |
-| 1514 | 310 | 200 | 11 hours ago | [probe-rs](https://github.com/probe-rs/probe-rs)/852 | A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host |
-| 1513 | 60 | 50 | 3 hours ago | [spiceai](https://github.com/spiceai/spiceai)/853 | A unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data lake. |
-| 1513 | 123 | 244 | 1 year, 11 days ago | [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)/854 | Rust projects here are easy to use. There are blog posts for them also. |
-| 1512 | 20 | 8 | 4 years ago | [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)/855 | Redirect `.idk` domains using Wikipedia |
-| 1508 | 53 | 38 | 2 days ago | [wonnx](https://github.com/webonnx/wonnx)/856 | A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web |
-| 1508 | 133 | 6 | 2 years ago | [robinson](https://github.com/mbrubeck/robinson)/857 | A toy web rendering engine |
-| 1507 | 68 | 27 | a month ago | [MCHPRS](https://github.com/MCHPR/MCHPRS)/858 | A multithreaded Minecraft server built for redstone. |
-| 1506 | 97 | 87 | 3 months ago | [scaphandre](https://github.com/hubblo-org/scaphandre)/859 | ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable ! |
-| 1506 | 28 | 34 | 2 years ago | [dum](https://github.com/egoist/dum)/860 | An npm scripts runner written in Rust. |
-| 1506 | 154 | 82 | 28 days ago | [lopdf](https://github.com/J-F-Liu/lopdf)/861 | A Rust library for PDF document manipulation. |
-| 1504 | 256 | 110 | 4 months ago | [rust-rdkafka](https://github.com/fede1024/rust-rdkafka)/862 | A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka |
-| 1503 | 159 | 106 | 12 days ago | [deno_lint](https://github.com/denoland/deno_lint)/863 | Blazing fast linter for JavaScript and TypeScript written in Rust |
-| 1501 | 196 | 17 | 6 months ago | [naga](https://github.com/gfx-rs/naga)/864 | Universal shader translation in Rust |
-| 1500 | 50 | 30 | 13 hours ago | [crux](https://github.com/redbadger/crux)/865 | Cross-platform app development in Rust |
-| 1497 | 506 | 1601 | 23 hours ago | [polkadot-sdk](https://github.com/paritytech/polkadot-sdk)/866 | The Parity Polkadot Blockchain SDK |
-| 1494 | 67 | 5 | 3 years ago | [mesalink](https://github.com/mesalock-linux/mesalink)/867 | OpenSSL compatibility layer for the Rust SSL/TLS stack |
-| 1493 | 223 | 83 | 3 days ago | [rumqtt](https://github.com/bytebeamio/rumqtt)/868 | The MQTT ecosystem in rust |
-| 1492 | 26 | 13 | 5 years ago | [holyjit](https://github.com/nbp/holyjit)/869 | Generic purpose Just-In-time compiler for Rust. |
-| 1491 | 99 | 62 | 3 months ago | [oreboot](https://github.com/oreboot/oreboot)/870 | oreboot is a fork of coreboot, with C removed, written in Rust. |
-| 1484 | 223 | 45 | 8 months ago | [rust-websocket](https://github.com/websockets-rs/rust-websocket)/871 | A WebSocket (RFC6455) library written in Rust |
-| 1481 | 86 | 66 | 20 days ago | [cosmic-text](https://github.com/pop-os/cosmic-text)/872 | Pure Rust multi-line text handling |
-| 1480 | 99 | 265 | a month ago | [prusti-dev](https://github.com/viperproject/prusti-dev)/873 | A static verifier for Rust, based on the Viper verification infrastructure. |
-| 1479 | 427 | 28 | 19 days ago | [rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)/874 | Let's write an OS which can run on RISC-V in Rust from scratch! |
-| 1477 | 86 | 34 | 4 months ago | [click](https://github.com/databricks/click)/875 | The "Command Line Interactive Controller for Kubernetes" |
-| 1476 | 292 | 44 | 7 hours ago | [ic](https://github.com/dfinity/ic)/876 | Internet Computer blockchain source: the client/replica software run by nodes |
-| 1475 | 53 | 28 | 21 hours ago | [bacon](https://github.com/Canop/bacon)/877 | background rust code check |
-| 1474 | 472 | 69 | 20 days ago | [sway-applications](https://github.com/FuelLabs/sway-applications)/878 | Swaypplications |
-| 1472 | 53 | 15 | 5 days ago | [piccolo](https://github.com/kyren/piccolo)/879 | An experimental stackless Lua VM implemented in pure Rust |
-| 1472 | 171 | 106 | a month ago | [rustyline](https://github.com/kkawakam/rustyline)/880 | Readline Implementation in Rust |
-| 1472 | 83 | 50 | 3 days ago | [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk)/881 | Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器 |
-| 1469 | 62 | 22 | 23 hours ago | [create-rust-app](https://github.com/Wulf/create-rust-app)/882 | Set up a modern rust+react web app by running one command.  |
-| 1466 | 89 | 71 | 9 hours ago | [rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift)/883 | Cranelift based backend for rustc |
-| 1463 | 111 | 24 | 15 days ago | [fantoccini](https://github.com/jonhoo/fantoccini)/884 | A high-level API for programmatically interacting with web pages through WebDriver. |
-| 1462 | 112 | 47 | 2 years ago | [im-rs](https://github.com/bodil/im-rs)/885 | Assorted immutable collection datatypes for Rust |
-| 1462 | 122 | 15 | a month ago | [phantun](https://github.com/dndx/phantun)/886 | Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs. |
-| 1460 | 110 | 98 | 1 year, 4 months ago | [bracket-lib](https://github.com/amethyst/bracket-lib)/887 | The Roguelike Toolkit (RLTK), implemented for Rust. |
-| 1459 | 174 | 83 | 1 year, 24 days ago | [kiss3d](https://github.com/sebcrozet/kiss3d)/888 | Keep it simple, stupid 3d graphics engine for Rust. |
-| 1458 | 64 | 39 | 26 days ago | [modelfox](https://github.com/modelfoxdotdev/modelfox)/889 | ModelFox makes it easy to train, deploy, and monitor machine learning models. |
-| 1457 | 46 | 51 | 11 hours ago | [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)/890 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
-| 1456 | 218 | 125 | 9 months ago | [ws-rs](https://github.com/housleyjk/ws-rs)/891 | Lightweight, event-driven WebSockets for Rust. |
-| 1456 | 114 | 144 | a month ago | [dozer](https://github.com/getdozer/dozer)/892 | Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.  |
-| 1453 | 108 | 93 | 2 months ago | [cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz)/893 | Command line helpers for fuzzing |
-| 1452 | 46 | 10 | a month ago | [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool)/894 | Native cross-platform full feature terminal-based sequence editor for git interactive rebase. |
-| 1450 | 47 | 31 | 2 months ago | [Egregoria](https://github.com/Uriopass/Egregoria)/895 | 3D City Builder without a grid |
-| 1448 | 167 | 51 | 5 days ago | [tao](https://github.com/tauri-apps/tao)/896 | The TAO of cross-platform windowing. A library in Rust built for Tauri. |
-| 1447 | 79 | 22 | 10 months ago | [r2d2](https://github.com/sfackler/r2d2)/897 | A generic connection pool for Rust |
-| 1446 | 119 | 98 | 2 years ago | [surf](https://github.com/http-rs/surf)/898 | Fast and friendly HTTP client framework for async Rust |
-| 1444 | 107 | 54 | 3 days ago | [derive_more](https://github.com/JelteF/derive_more)/899 | Some more derive(Trait) options |
-| 1444 | 137 | 63 | a month ago | [ion](https://github.com/redox-os/ion)/900 | Mirror of https://gitlab.redox-os.org/redox-os/ion |
-| 1442 | 71 | 37 | 28 days ago | [cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2)/901 | Rust on mobile made easy! |
-| 1441 | 55 | 50 | 19 hours ago | [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs)/902 | Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. |
-| 1440 | 57 | 60 | a month ago | [vizia](https://github.com/vizia/vizia)/903 | A declarative GUI library written in Rust |
-| 1435 | 30 | 13 | 8 days ago | [diamond-types](https://github.com/josephg/diamond-types)/904 | The world's fastest CRDT. WIP. |
-| 1435 | 41 | 40 | 1 year, 9 months ago | [zee](https://github.com/zee-editor/zee)/905 | A modern text editor for the terminal written in Rust |
-| 1433 | 30 | 2 | 26 days ago | [jql](https://github.com/yamafaktory/jql)/906 | A JSON Query Language CLI tool |
-| 1430 | 117 | 46 | 2 years ago | [tensorbase](https://github.com/tensorbase/tensorbase)/907 | TensorBase is a new big data warehousing with modern efforts. |
-| 1427 | 140 | 109 | 4 years ago | [failure](https://github.com/rust-lang-deprecated/failure)/908 | Error management |
-| 1425 | 59 | 80 | 1 year, 4 months ago | [stevenarella](https://github.com/iceiix/stevenarella)/909 | Multi-protocol Minecraft-compatible client written in Rust |
-| 1424 | 86 | 58 | 5 years ago | [panopticon](https://github.com/das-labor/panopticon)/910 | A libre cross-platform disassembler. |
-| 1424 | 159 | 93 | 9 hours ago | [miniquad](https://github.com/not-fl3/miniquad)/911 | Cross platform rendering in Rust |
-| 1424 | 128 | 31 | 15 days ago | [nih-plug](https://github.com/robbert-vdh/nih-plug)/912 | Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself |
-| 1423 | 114 | 51 | 3 years ago | [Tickeys](https://github.com/yingDev/Tickeys)/913 | Instant audio feedback for typing. macOS version. (Rust)  |
-| 1423 | 186 | 125 | 12 days ago | [geo](https://github.com/georust/geo)/914 | Geospatial primitives and algorithms for Rust |
-| 1420 | 454 | 108 | a month ago | [rust-web3](https://github.com/tomusdrw/rust-web3)/915 | Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth |
-| 1419 | 109 | 587 | 25 days ago | [joystream](https://github.com/Joystream/joystream)/916 | Joystream Monorepo |
-| 1418 | 37 | 104 | 2 years ago | [redshirt](https://github.com/tomaka/redshirt)/917 | 🧑‍🔬 Operating system |
-| 1417 | 479 | 108 | 3 days ago | [discovery](https://github.com/rust-embedded/discovery)/918 | Discover the world of microcontrollers through Rust! |
-| 1414 | 51 | 60 | 7 months ago | [orogene](https://github.com/orogene/orogene)/919 | Makes `node_modules/` happen. Fast. No fuss. |
-| 1411 | 433 | 50 | 3 days ago | [revm](https://github.com/bluealloy/revm)/920 | Ethereum Virtual Machine written in rust that is fast and simple to use |
-| 1410 | 516 | 19 | 2 days ago | [rust](https://github.com/exercism/rust)/921 | Exercism exercises in Rust. |
-| 1410 | 54 | 61 | 3 days ago | [josh](https://github.com/josh-project/josh)/922 | Just One Single History |
-| 1410 | 429 | 128 | 17 hours ago | [cairo](https://github.com/starkware-libs/cairo)/923 | Cairo is the first Turing-complete language for creating provable programs for general computation. |
-| 1408 | 42 | 15 | 12 days ago | [termscp](https://github.com/veeso/termscp)/924 | 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB |
-| 1408 | 169 | 52 | 8 hours ago | [heapless](https://github.com/rust-embedded/heapless)/925 | Heapless, `static` friendly data structures |
-| 1408 | 77 | 44 | 2 months ago | [lol-html](https://github.com/cloudflare/lol-html)/926 | Low output latency streaming HTML parser/rewriter with CSS selector-based API |
-| 1408 | 136 | 28 | 2 days ago | [glam-rs](https://github.com/bitshifter/glam-rs)/927 | A simple and fast linear algebra library for games and graphics |
-| 1406 | 61 | 39 | 3 months ago | [StyLua](https://github.com/JohnnyMorganz/StyLua)/928 | An opinionated Lua code formatter |
-| 1405 | 47 | 43 | 9 days ago | [texlab](https://github.com/latex-lsp/texlab)/929 | An implementation of the Language Server Protocol for LaTeX |
-| 1404 | 79 | 5 | 4 months ago | [rjvm](https://github.com/andreabergia/rjvm)/930 | A tiny JVM written in Rust. Learning project |
-| 1399 | 106 | 31 | 23 days ago | [rust-peg](https://github.com/kevinmehall/rust-peg)/931 | Parsing Expression Grammar (PEG) parser generator for Rust |
-| 1397 | 244 | 17 | 2 days ago | [learn-wgpu](https://github.com/sotrh/learn-wgpu)/932 | Guide for using gfx-rs's wgpu library. |
-| 1396 | 84 | 53 | 13 days ago | [cached](https://github.com/jaemk/cached)/933 | Rust cache structures and easy function memoization |
-| 1390 | 96 | 12 | 3 hours ago | [uiua](https://github.com/uiua-lang/uiua)/934 | A stack-based array programming language |
-| 1389 | 56 | 28 | a month ago | [blackjack](https://github.com/setzer22/blackjack)/935 | A procedural, node-based modelling tool, made in rust 🦀 |
-| 1386 | 80 | 22 | 3 months ago | [kibi](https://github.com/ilai-deutel/kibi)/936 | A text editor in ≤1024 lines of code, written in Rust |
-| 1385 | 107 | 11 | 3 years ago | [atm-cli](https://github.com/allthemusicllc/atm-cli)/937 | Command line tool for generating and working with MIDI files. |
-| 1384 | 86 | 94 | 11 months ago | [zemeroth](https://github.com/ozkriff/zemeroth)/938 | 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust |
-| 1383 | 152 | 17 | 3 days ago | [mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver)/939 | The official MongoDB Rust Driver |
-| 1382 | 81 | 28 | 11 days ago | [polaris](https://github.com/agersant/polaris)/940 | Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device. |
-| 1382 | 36 | 12 | a month ago | [folderify](https://github.com/lgarron/folderify)/941 | :file_folder: Generate pixel-perfect macOS folder icons in the native style. |
-| 1376 | 95 | 15 | 4 years ago | [kernel](https://github.com/intermezzOS/kernel)/942 | A hobby operating system, in Rust |
-| 1374 | 61 | 37 | a month ago | [moka](https://github.com/moka-rs/moka)/943 | A high performance concurrent caching library for Rust |
-| 1373 | 124 | 60 | a month ago | [grpc-rust](https://github.com/stepancheg/grpc-rust)/944 | Rust implementation of gRPC |
-| 1370 | 59 | 40 | 6 years ago | [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB)/945 | Immutable Ordered Key-Value Database Engine |
-| 1369 | 295 | 111 | 7 years ago | [rust-crypto](https://github.com/DaGenix/rust-crypto)/946 | A (mostly) pure-Rust implementation of various cryptographic algorithms. |
-| 1369 | 22 | 3 | a month ago | [lapdev](https://github.com/lapce/lapdev)/947 | Self-Hosted Remote Dev Environment |
-| 1367 | 34 | 4 | 1 year, 10 days ago | [rustle](https://github.com/pintariching/rustle)/948 | Svelte compiler rewritten in Rust |
-| 1367 | 145 | 148 | 4 days ago | [Av1an](https://github.com/master-of-zen/Av1an)/949 | Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding |
-| 1366 | 89 | 54 | 2 months ago | [matano](https://github.com/matanolabs/matano)/950 | Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS |
-| 1365 | 287 | 184 | 2 days ago | [starcoin](https://github.com/starcoinorg/starcoin)/951 | Starcoin - A Move smart contract blockchain network that scales by layering |
-| 1365 | 45 | 10 | 16 days ago | [sniprun](https://github.com/michaelb/sniprun)/952 | A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages |
-| 1363 | 64 | 30 | 3 days ago | [puffin](https://github.com/EmbarkStudios/puffin)/953 | 🐦 Friendly little instrumentation profiler for Rust 🦀 |
-| 1360 | 51 | 30 | 5 days ago | [windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs)/954 | Platform that enables Windows driver development in Rust. Developed by Surface.  |
-| 1359 | 58 | 30 | 15 days ago | [mockall](https://github.com/asomers/mockall)/955 | A powerful mock object library for Rust |
-| 1358 | 32 | 4 | 9 months ago | [git-rs](https://github.com/chrisdickinson/git-rs)/956 | git, implemented in rust, for fun and education :crab: |
-| 1358 | 68 | 4 | 10 months ago | [node-to-rust](https://github.com/jsoverson/node-to-rust)/957 | None |
-| 1357 | 265 | 4 | a day ago | [realm](https://github.com/zhboner/realm)/958 | A network relay tool |
-| 1356 | 235 | 164 | 6 days ago | [shadow](https://github.com/shadow/shadow)/959 | Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux. |
-| 1356 | 43 | 56 | 15 days ago | [mprocs](https://github.com/pvolok/mprocs)/960 | Run multiple commands in parallel |
-| 1356 | 67 | 30 | 7 days ago | [fontdue](https://github.com/mooman219/fontdue)/961 | The fastest font renderer in the world, written in pure rust. |
-| 1355 | 47 | 21 | 13 days ago | [sqlite-zstd](https://github.com/phiresky/sqlite-zstd)/962 | Transparent dictionary-based row-level compression for SQLite |
-| 1352 | 119 | 37 | 5 days ago | [mlua](https://github.com/mlua-rs/mlua)/963 | High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support |
-| 1352 | 78 | 9 | 3 days ago | [minijinja](https://github.com/mitsuhiko/minijinja)/964 | MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2 |
-| 1351 | 133 | 15 | 5 days ago | [cs431](https://github.com/kaist-cp/cs431)/965 | None |
-| 1351 | 41 | 19 | 5 months ago | [krunvm](https://github.com/containers/krunvm)/966 | Create microVMs from OCI images |
-| 1351 | 264 | 37 | 14 hours ago | [wasmi](https://github.com/wasmi-labs/wasmi)/967 | WebAssembly (Wasm) interpreter. |
-| 1350 | 67 | 83 | 11 hours ago | [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)/968 | `taskwarrior-tui`: A terminal user interface for taskwarrior |
-| 1348 | 133 | 62 | 4 hours ago | [rustix](https://github.com/bytecodealliance/rustix)/969 | Safe Rust bindings to POSIX-ish APIs |
-| 1346 | 104 | 31 | 20 hours ago | [kcl](https://github.com/kcl-lang/kcl)/970 | KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io |
-| 1343 | 81 | 24 | 9 hours ago | [luminal](https://github.com/jafioti/luminal)/971 | Deep learning at the speed of light. |
-| 1342 | 121 | 35 | 13 hours ago | [rust-skia](https://github.com/rust-skia/rust-skia)/972 | Rust Bindings for the Skia Graphics Library |
-| 1342 | 101 | 101 | 2 months ago | [synth](https://github.com/shuttle-hq/synth)/973 | The Declarative Data Generator |
-| 1341 | 1115 | 24 | 6 days ago | [crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)/974 | A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems |
-| 1337 | 36 | 11 | 4 months ago | [so](https://github.com/samtay/so)/975 | A terminal interface for Stack Overflow |
-| 1334 | 70 | 68 | 10 days ago | [y-crdt](https://github.com/y-crdt/y-crdt)/976 | Rust port of Yjs |
-| 1334 | 78 | 5 | 4 months ago | [gameboy](https://github.com/mohanson/gameboy)/977 | Full featured Cross-platform GameBoy emulator by Rust. Forever boys!. |
-| 1333 | 96 | 74 | 20 days ago | [cobalt.rs](https://github.com/cobalt-org/cobalt.rs)/978 | Static site generator written in Rust |
-| 1332 | 58 | 12 | 4 months ago | [dnspeep](https://github.com/jvns/dnspeep)/979 | spy on the DNS queries your computer is making |
-| 1332 | 215 | 8 | 2 months ago | [command-line-rust](https://github.com/kyclark/command-line-rust)/980 | Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/ |
-| 1331 | 232 | 213 | 2 months ago | [occlum](https://github.com/occlum/occlum)/981 | Occlum is a memory-safe, multi-process library OS for Intel SGX |
-| 1329 | 158 | 4 | 7 months ago | [rouille](https://github.com/bnjbvr/rouille)/982 | Rust programming, in French. |
-| 1329 | 62 | 1 | 4 months ago | [type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)/983 | Learn Rust black magics by implementing an expression framework in database systems |
-| 1329 | 727 | 215 | 13 days ago | [rust-openssl](https://github.com/sfackler/rust-openssl)/984 | OpenSSL bindings for Rust |
-| 1329 | 37 | 32 | 1 year, 2 months ago | [mvsqlite](https://github.com/losfair/mvsqlite)/985 | Distributed, MVCC SQLite that runs on FoundationDB. |
-| 1328 | 41 | 79 | 2 months ago | [BoilR](https://github.com/PhilipK/BoilR)/986 | Synchronize games from other platforms into your Steam library |
-| 1328 | 65 | 52 | 2 months ago | [cargo-geiger](https://github.com/geiger-rs/cargo-geiger)/987 | Detects usage of unsafe Rust in a Rust crate and its dependencies. |
-| 1324 | 62 | 53 | a day ago | [Relm4](https://github.com/Relm4/Relm4)/988 |  Build truly native applications with ease! |
-| 1324 | 415 | 148 | 12 hours ago | [ink](https://github.com/use-ink/ink)/989 | Parity's ink! to write smart contracts. |
-| 1323 | 112 | 4 | 3 years ago | [rust-design-pattern](https://github.com/lpxxn/rust-design-pattern)/990 | rust design patterns |
-| 1322 | 117 | 56 | 3 years ago | [linux-kernel-module-rust](https://github.com/fishinabarrel/linux-kernel-module-rust)/991 | Framework for writing Linux kernel modules in safe Rust |
-| 1322 | 42 | 67 | 2 days ago | [cargo-binstall](https://github.com/cargo-bins/cargo-binstall)/992 | Binary installation for rust projects |
-| 1320 | 42 | 21 | 2 years ago | [uwu](https://github.com/Daniel-Liu-c0deb0t/uwu)/993 | fastest text uwuifier in the west |
-| 1319 | 58 | 11 | 4 years ago | [rusti](https://github.com/murarth/rusti)/994 | REPL for the Rust programming language |
-| 1317 | 46 | 67 | 2 years ago | [pyflow](https://github.com/David-OConnor/pyflow)/995 | An installation and dependency system for Python |
-| 1316 | 64 | 40 | 3 years ago | [hunter](https://github.com/rabite0/hunter)/996 | The fastest file manager in the galaxy! |
-| 1315 | 179 | 190 | a month ago | [datafusion-ballista](https://github.com/apache/datafusion-ballista)/997 | Apache Arrow Ballista Distributed Query Engine |
-| 1315 | 253 | 67 | 3 days ago | [h2](https://github.com/hyperium/h2)/998 | HTTP 2.0 client & server implementation for Rust. |
-| 1312 | 116 | 20 | 4 months ago | [videocall-rs](https://github.com/security-union/videocall-rs)/999 | teleconference system written in rust |
-| 1312 | 140 | 0 | 8 days ago | [sprite-dicing](https://github.com/elringus/sprite-dicing)/1000 | Cross-engine tool for lossless compression of sprites with identical areas |
+| 94513 | 12180 | 10057 | 7 hours ago | [rust](https://github.com/rust-lang/rust)/1 | Empowering everyone to build reliable and efficient software. |
+| 93313 | 5174 | 1995 | 11 hours ago | [deno](https://github.com/denoland/deno)/2 | A modern runtime for JavaScript and TypeScript. |
+| 79256 | 2354 | 886 | 4 hours ago | [tauri](https://github.com/tauri-apps/tauri)/3 | Build smaller, faster, and more secure desktop applications with a web frontend. |
+| 67333 | 7429 | 47 | 4 hours ago | [rustdesk](https://github.com/rustdesk/rustdesk)/4 | An open-source remote desktop, and alternative to TeamViewer. |
+| 63027 | 5336 | 751 | 3 hours ago | [sway](https://github.com/FuelLabs/sway)/5 | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
+| 58368 | 2746 | 169 | 11 hours ago | [fuel-core](https://github.com/FuelLabs/fuel-core)/6 | Rust full node implementation of the Fuel v2 protocol. |
+| 54312 | 2960 | 338 | a day ago | [alacritty](https://github.com/alacritty/alacritty)/7 | A cross-platform, OpenGL terminal emulator. |
+| 51505 | 5779 | 689 | 20 days ago | [ChatGPT](https://github.com/lencx/ChatGPT)/8 | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) |
+| 50833 | 9776 | 81 | 3 days ago | [rustlings](https://github.com/rust-lang/rustlings)/9 | :crab: Small exercises to get you used to reading and writing Rust code! |
+| 47493 | 1177 | 296 | 12 days ago | [bat](https://github.com/sharkdp/bat)/10 | A cat(1) clone with wings. |
+| 45994 | 1918 | 114 | 19 days ago | [ripgrep](https://github.com/BurntSushi/ripgrep)/11 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore |
+| 44642 | 1673 | 168 | 7 hours ago | [meilisearch](https://github.com/meilisearch/meilisearch)/12 | A lightning-fast search API that fits effortlessly into your apps, websites, and workflow |
+| 44425 | 1320 | 93 | 5 hours ago | [fuels-rs](https://github.com/FuelLabs/fuels-rs)/13 | Fuel Network Rust SDK |
+| 44222 | 2612 | 16 | a day ago | [awesome-rust](https://github.com/rust-unofficial/awesome-rust)/14 | A curated list of Rust code and resources. |
+| 42008 | 1810 | 700 | 20 hours ago | [starship](https://github.com/starship/starship)/15 | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! |
+| 38719 | 1989 | 2223 | 3 hours ago | [zed](https://github.com/zed-industries/zed)/16 | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| 34471 | 1672 | 31 | 3 hours ago | [vaultwarden](https://github.com/dani-garcia/vaultwarden)/17 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| 33450 | 996 | 760 | 3 hours ago | [lapce](https://github.com/lapce/lapce)/18 | Lightning-fast and Powerful Code Editor written in Rust |
+| 33351 | 3252 | 2171 | 3 days ago | [bevy](https://github.com/bevyengine/bevy)/19 | A refreshingly simple data-driven game engine built in Rust |
+| 32425 | 779 | 98 | 12 days ago | [fd](https://github.com/sharkdp/fd)/20 | A simple, fast and user-friendly alternative to 'find' |
+| 31013 | 2293 | 779 | a day ago | [helix](https://github.com/helix-editor/helix)/21 | A post-modern modal text editor. |
+| 30812 | 1580 | 1429 | 21 hours ago | [nushell](https://github.com/nushell/nushell)/22 | A new type of shell |
+| 30362 | 1172 | 348 | a day ago | [swc](https://github.com/swc-project/swc)/23 | Rust-based platform for the Web |
+| 29642 | 808 | 655 | 2 days ago | [typst](https://github.com/typst/typst)/24 | A new markup-based typesetting system that is powerful and easy to learn. |
+| 28350 | 922 | 922 | 8 hours ago | [ruff](https://github.com/astral-sh/ruff)/25 | An extremely fast Python linter and code formatter, written in Rust. |
+| 28113 | 3501 | 1983 | 7 days ago | [influxdb](https://github.com/influxdata/influxdb)/26 | Scalable datastore for metrics, events, and real-time analytics |
+| 27378 | 1675 | 1696 | 7 hours ago | [polars](https://github.com/pola-rs/polars)/27 | Dataframes powered by a multithreaded, vectorized query engine, written in Rust |
+| 26623 | 1571 | 152 | 6 hours ago | [comprehensive-rust](https://github.com/google/comprehensive-rust)/28 | This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust. |
+| 26051 | 805 | 622 | 2 days ago | [surrealdb](https://github.com/surrealdb/surrealdb)/29 | A scalable, distributed, collaborative, document-graph database, for the realtime web |
+| 25426 | 1721 | 191 | 3 hours ago | [turbo](https://github.com/vercel/turbo)/30 | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. |
+| 25288 | 2293 | 283 | a day ago | [tokio](https://github.com/tokio-rs/tokio)/31 | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... |
+| 25000 | 1878 | 431 | 2 days ago | [fish-shell](https://github.com/fish-shell/fish-shell)/32 | The user-friendly command line shell. |
+| 24533 | 4222 | 12 | 24 days ago | [Pake](https://github.com/tw93/Pake)/33 | 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 |
+| 24445 | 1716 | 115 | 5 days ago | [firecracker](https://github.com/firecracker-microvm/firecracker)/34 | Secure and fast microVMs for serverless computing. |
+| 23839 | 2052 | 74 | 11 days ago | [rust-course](https://github.com/sunface/rust-course)/35 | “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book  |
+| 23837 | 665 | 94 | 9 months ago | [tools](https://github.com/rome/tools)/36 | Unified developer tools for JavaScript, TypeScript, and the web |
+| 23729 | 1526 | 57 | 15 days ago | [Rocket](https://github.com/rwf2/Rocket)/37 | A web framework for Rust. |
+| 23393 | 658 | 258 | 2 months ago | [exa](https://github.com/ogham/exa)/38 | A modern replacement for ‘ls’. |
+| 23263 | 1069 | 289 | 3 days ago | [iced](https://github.com/iced-rs/iced)/39 | A cross-platform GUI library for Rust, inspired by Elm |
+| 21426 | 2083 | 18 | 3 hours ago | [Rust](https://github.com/TheAlgorithms/Rust)/40 |  All Algorithms implemented in Rust  |
+| 21265 | 356 | 293 | 3 hours ago | [delta](https://github.com/dandavison/delta)/41 | A syntax-highlighting pager for git, diff, grep, and blame output |
+| 20646 | 1630 | 195 | 11 hours ago | [actix-web](https://github.com/actix/actix-web)/42 | Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. |
+| 20633 | 333 | 54 | 12 days ago | [hyperfine](https://github.com/sharkdp/hyperfine)/43 | A command-line benchmarking tool |
+| 20528 | 1487 | 748 | a day ago | [egui](https://github.com/emilk/egui)/44 | egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native |
+| 20124 | 1097 | 91 | 10 days ago | [pingora](https://github.com/cloudflare/pingora)/45 | A library for building fast, reliable and evolvable network services. |
+| 20088 | 516 | 94 | 4 days ago | [zoxide](https://github.com/ajeetdsouza/zoxide)/46 | A smarter cd command. Supports all major shells. |
+| 19878 | 315 | 206 | 26 days ago | [difftastic](https://github.com/Wilfred/difftastic)/47 | a structural diff that understands syntax 🟥🟩 |
+| 19810 | 700 | 154 | 10 months ago | [xi-editor](https://github.com/xi-editor/xi-editor)/48 | A modern editor with a backend written in Rust. |
+| 19591 | 556 | 66 | 8 days ago | [sonic](https://github.com/valeriansaliou/sonic)/49 | 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. |
+| 19361 | 1342 | 111 | 3 hours ago | [v86](https://github.com/copy/v86)/50 | x86 PC emulator and x86-to-wasm JIT, running in the browser |
+| 19214 | 731 | 271 | a day ago | [dioxus](https://github.com/DioxusLabs/dioxus)/51 | Fullstack GUI library for web, desktop, mobile, and more. |
+| 19208 | 604 | 909 | 3 days ago | [zellij](https://github.com/zellij-org/zellij)/52 | A terminal workspace with batteries included |
+| 18666 | 1281 | 241 | 2 days ago | [qdrant](https://github.com/qdrant/qdrant)/53 | Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ |
+| 18483 | 518 | 206 | 5 hours ago | [atuin](https://github.com/atuinsh/atuin)/54 | ✨ Magical shell history |
+| 18362 | 416 | 223 | 3 days ago | [just](https://github.com/casey/just)/55 | 🤖 Just a command runner |
+| 18265 | 602 | 418 | 3 months ago | [czkawka](https://github.com/qarmin/czkawka)/56 | Multi functional app to find duplicates, empty folders, similar images etc. |
+| 18259 | 1803 | 666 | 2 days ago | [relay](https://github.com/facebook/relay)/57 | Relay is a JavaScript framework for building data-driven React applications. |
+| 18197 | 762 | 136 | 8 hours ago | [tabby](https://github.com/TabbyML/tabby)/58 | Self-hosted AI coding assistant |
+| 18160 | 764 | 325 | 3 days ago | [wasmer](https://github.com/wasmerio/wasmer)/59 | 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten |
+| 17987 | 1200 | 391 | 3 months ago | [RustPython](https://github.com/RustPython/RustPython)/60 | A Python Interpreter written in Rust |
+| 17752 | 541 | 176 | 5 days ago | [gitui](https://github.com/extrawurst/gitui)/61 | Blazing 💥 fast terminal-ui for git written in rust 🦀 |
+| 17660 | 2033 | 155 | 12 hours ago | [anki](https://github.com/ankitects/anki)/62 | Anki's shared backend and web components, and the Qt frontend |
+| 17440 | 1739 | 936 | a day ago | [cube](https://github.com/cube-js/cube)/63 | 📊  Cube — The Semantic Layer for Building Data Applications |
+| 17137 | 1572 | 546 | 11 days ago | [mdBook](https://github.com/rust-lang/mdBook)/64 | Create book from markdown files. Like Gitbook but implemented in Rust |
+| 17119 | 974 | 80 | a day ago | [axum](https://github.com/tokio-rs/axum)/65 | Ergonomic and modular web framework built with Tokio, Tower, and Hyper |
+| 17116 | 1228 | 380 | 9 hours ago | [coreutils](https://github.com/uutils/coreutils)/66 | Cross-platform Rust rewrite of the GNU coreutils |
+| 17107 | 1261 | 340 | 5 hours ago | [tree-sitter](https://github.com/tree-sitter/tree-sitter)/67 | An incremental parsing system for programming tools |
+| 16880 | 1449 | 1808 | 3 days ago | [vector](https://github.com/vectordotdev/vector)/68 | A high-performance observability data pipeline. |
+| 16825 | 514 | 296 | 2 years ago | [spotify-tui](https://github.com/Rigellute/spotify-tui)/69 | Spotify for the terminal written in Rust 🚀 |
+| 16711 | 2573 | 364 | 1 year, 6 days ago | [diem](https://github.com/diem/diem)/70 | Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world. |
+| 16534 | 408 | 72 | 3 hours ago | [Bend](https://github.com/HigherOrderCO/Bend)/71 | A massively parallel, high-level programming language |
+| 16303 | 679 | 196 | 4 days ago | [gleam](https://github.com/gleam-lang/gleam)/72 | ⭐️ A friendly language for building type-safe, scalable systems! |
+| 16273 | 413 | 192 | 6 days ago | [fnm](https://github.com/Schniz/fnm)/73 | 🚀 Fast and simple Node.js version manager, built in Rust |
+| 15818 | 514 | 529 | 9 hours ago | [slint](https://github.com/slint-ui/slint)/74 | Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps. |
+| 15164 | 589 | 95 | 3 days ago | [leptos](https://github.com/leptos-rs/leptos)/75 | Build fast web applications with Rust. |
+| 14773 | 1229 | 691 | 5 hours ago | [wasmtime](https://github.com/bytecodealliance/wasmtime)/76 | A fast and secure runtime for WebAssembly |
+| 14761 | 767 | 4746 | a day ago | [ruffle](https://github.com/ruffle-rs/ruffle)/77 | A Flash Player emulator written in Rust |
+| 14759 | 669 | 919 | 6 hours ago | [wezterm](https://github.com/wez/wezterm)/78 | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust |
+| 14698 | 2099 | 1548 | 10 hours ago | [tikv](https://github.com/tikv/tikv)/79 | Distributed transactional key-value database, originally created to complement TiDB |
+| 14662 | 795 | 526 | 1 year, 2 months ago | [universal-android-debloater](https://github.com/0x192/universal-android-debloater)/80 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. |
+| 14573 | 489 | 73 | 25 days ago | [navi](https://github.com/denisidoro/navi)/81 | An interactive cheatsheet tool for the command-line |
+| 14497 | 3296 | 223 | 4 days ago | [book](https://github.com/rust-lang/book)/82 | The Rust Programming Language |
+| 14277 | 433 | 33 | 5 days ago | [sniffnet](https://github.com/GyulyVGC/sniffnet)/83 | Comfortably monitor your Internet traffic 🕵️‍♂️ |
+| 14241 | 279 | 69 | 1 year, 3 months ago | [carbonyl](https://github.com/fathyb/carbonyl)/84 | Chromium running inside your terminal |
+| 14177 | 786 | 324 | 3 hours ago | [candle](https://github.com/huggingface/candle)/85 | Minimalist ML framework for Rust |
+| 14065 | 1542 | 228 | 3 days ago | [hyper](https://github.com/hyperium/hyper)/86 | An HTTP library for Rust |
+| 13766 | 1521 | 1639 | 8 hours ago | [rust-analyzer](https://github.com/rust-lang/rust-analyzer)/87 | A Rust compiler front-end for IDEs |
+| 13596 | 1012 | 316 | 3 days ago | [clap](https://github.com/clap-rs/clap)/88 | A full featured, fast Command Line Argument Parser for Rust |
+| 13513 | 898 | 11 | 9 days ago | [asciinema](https://github.com/asciinema/asciinema)/89 | Terminal session recorder 📹 |
+| 13370 | 811 | 7 | 8 hours ago | [pyxel](https://github.com/kitao/pyxel)/90 | A retro game engine for Python |
+| 13250 | 1129 | 504 | 8 hours ago | [chroma](https://github.com/chroma-core/chroma)/91 | the AI-native open-source embedding database |
+| 13185 | 763 | 11 | 6 months ago | [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)/92 | :books: Learn to write an embedded OS in Rust :crab: |
+| 13115 | 363 | 800 | 3 hours ago | [neon](https://github.com/neondatabase/neon)/93 | Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero. |
+| 13104 | 868 | 23 | 16 days ago | [RustScan](https://github.com/RustScan/RustScan)/94 | 🤖 The Modern Port Scanner 🤖 |
+| 13014 | 1337 | 0 | 6 days ago | [static-analysis](https://github.com/analysis-tools-dev/static-analysis)/95 | ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality. |
+| 12924 | 858 | 231 | 2 days ago | [lemmy](https://github.com/LemmyNet/lemmy)/96 | 🐀 A link aggregator and forum for the fediverse |
+| 12918 | 913 | 269 | 4 hours ago | [zola](https://github.com/getzola/zola)/97 | A fast static site generator in a single binary with everything built-in. https://www.getzola.org |
+| 12794 | 356 | 393 | 3 hours ago | [uv](https://github.com/astral-sh/uv)/98 | An extremely fast Python package installer and resolver, written in Rust. |
+| 12728 | 408 | 158 | 5 days ago | [lsd](https://github.com/lsd-rs/lsd)/99 | The next gen ls command |
+| 12608 | 3935 | 395 | 3 months ago | [solana](https://github.com/solana-labs/solana)/100 | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces. |
+| 12300 | 501 | 206 | 3 days ago | [neovide](https://github.com/neovide/neovide)/101 | No Nonsense Neovim Client in Rust |
+| 12291 | 1168 | 595 | 10 days ago | [sqlx](https://github.com/launchbadge/sqlx)/102 | 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite. |
+| 12225 | 2306 | 1450 | 7 hours ago | [cargo](https://github.com/rust-lang/cargo)/103 | The Rust package manager |
+| 12196 | 1008 | 133 | 7 hours ago | [diesel](https://github.com/diesel-rs/diesel)/104 | A safe, extensible ORM and Query Builder for Rust |
+| 12162 | 473 | 137 | 7 hours ago | [hurl](https://github.com/Orange-OpenSource/hurl)/105 | Hurl, run and test HTTP requests with plain text. |
+| 12093 | 400 | 186 | 3 months ago | [py-spy](https://github.com/benfred/py-spy)/106 | Sampling profiler for Python programs |
+| 12039 | 422 | 234 | 6 hours ago | [rye](https://github.com/astral-sh/rye)/107 | a Hassle-Free Python Experience |
+| 12038 | 387 | 164 | 5 hours ago | [biome](https://github.com/biomejs/biome)/108 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. |
+| 11562 | 914 | 68 | 11 days ago | [rust-by-practice](https://github.com/sunface/rust-by-practice)/109 | Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects. |
+| 11419 | 853 | 847 | 3 hours ago | [wgpu](https://github.com/gfx-rs/wgpu)/110 | A cross-platform, safe, pure-Rust graphics API. |
+| 11373 | 683 | 239 | 7 hours ago | [pyo3](https://github.com/PyO3/pyo3)/111 | Rust bindings for the Python interpreter |
+| 11224 | 615 | 314 | 12 hours ago | [tantivy](https://github.com/quickwit-oss/tantivy)/112 | Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust |
+| 11218 | 903 | 0 | 1 year, 3 months ago | [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch)/113 | ISG lets you use YouTube as cloud storage for ANY files, not just video |
+| 10997 | 1473 | 2045 | 7 hours ago | [rust-clippy](https://github.com/rust-lang/rust-clippy)/114 | A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/ |
+| 10982 | 1189 | 587 | 6 hours ago | [hyperswitch](https://github.com/juspay/hyperswitch)/115 | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| 10825 | 487 | 0 | 10 months ago | [tui-rs](https://github.com/fdehau/tui-rs)/116 | Build terminal user interfaces and dashboards using Rust |
+| 10484 | 486 | 187 | a month ago | [rayon](https://github.com/rayon-rs/rayon)/117 | Rayon: A data parallelism library for Rust |
+| 10483 | 502 | 164 | 6 days ago | [tokei](https://github.com/XAMPPRocky/tokei)/118 | Count your code, quickly. |
+| 10449 | 306 | 36 | 12 days ago | [gping](https://github.com/orf/gping)/119 | Ping, but with a graph |
+| 10441 | 249 | 35 | 10 hours ago | [yazi](https://github.com/sxyazi/yazi)/120 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
+| 10368 | 294 | 53 | 4 hours ago | [monolith](https://github.com/Y2Z/monolith)/121 | ⬛️ CLI tool for saving complete web pages as a single HTML file |
+| 10295 | 222 | 204 | 17 days ago | [broot](https://github.com/Canop/broot)/122 | A new way to see and navigate directory trees : https://dystroy.org/broot |
+| 10241 | 217 | 269 | 7 days ago | [volta](https://github.com/volta-cli/volta)/123 | Volta: JS Toolchains as Code. ⚡ |
+| 10182 | 313 | 161 | 3 years ago | [xsv](https://github.com/BurntSushi/xsv)/124 | A fast CSV command line toolkit written in Rust. |
+| 10145 | 354 | 321 | 4 hours ago | [openobserve](https://github.com/openobserve/openobserve)/125 | 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). |
+| 10045 | 468 | 29 | a day ago | [windows-rs](https://github.com/microsoft/windows-rs)/126 | Rust for Windows |
+| 9937 | 1286 | 123 | 1 year, 11 months ago | [talent-plan](https://github.com/pingcap/talent-plan)/127 | open source training courses about distributed database and distributed systems |
+| 9641 | 443 | 83 | a month ago | [spotifyd](https://github.com/Spotifyd/spotifyd)/128 | A spotify daemon |
+| 9574 | 207 | 239 | 3 hours ago | [prql](https://github.com/PRQL/prql)/129 | PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement |
+| 9534 | 1089 | 13 | a month ago | [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)/130 | 阿里云盘 WebDAV 服务 |
+| 9452 | 349 | 109 | 5 hours ago | [oxc](https://github.com/oxc-project/oxc)/131 | ⚓ A collection of JavaScript tools written in Rust. |
+| 9415 | 568 | 304 | a month ago | [druid](https://github.com/linebender/druid)/132 | A data-first Rust-native UI design toolkit.  |
+| 9403 | 261 | 343 | 6 days ago | [espanso](https://github.com/espanso/espanso)/133 | Cross-platform Text Expander written in Rust |
+| 9361 | 1042 | 428 | 3 days ago | [reqwest](https://github.com/seanmonstar/reqwest)/134 | An easy and powerful Rust HTTP Client |
+| 9307 | 709 | 226 | 2 months ago | [warp](https://github.com/seanmonstar/warp)/135 | A super-easy, composable, web server framework for warp speeds. |
+| 9276 | 553 | 35 | 12 days ago | [bloop](https://github.com/BloopAI/bloop)/136 | bloop is a fast code search engine written in Rust. |
+| 9269 | 219 | 99 | 5 days ago | [bottom](https://github.com/ClementTsang/bottom)/137 | Yet another cross-platform graphical process/system monitor. |
+| 9254 | 942 | 215 | 7 hours ago | [tonic](https://github.com/hyperium/tonic)/138 | A native gRPC client & server implementation with async/await support. |
+| 9235 | 389 | 13 | 22 days ago | [genact](https://github.com/svenstaro/genact)/139 | 🌀 A nonsense activity generator |
+| 9157 | 791 | 248 | a month ago | [nom](https://github.com/rust-bakery/nom)/140 | Rust parser combinator framework |
+| 9131 | 259 | 36 | a day ago | [onefetch](https://github.com/o2sh/onefetch)/141 | Command-line Git information tool |
+| 9072 | 678 | 233 | 13 days ago | [quiche](https://github.com/cloudflare/quiche)/142 | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
+| 9001 | 269 | 26 | 23 days ago | [bandwhich](https://github.com/imsnif/bandwhich)/143 | Terminal bandwidth utilization tool |
+| 8910 | 226 | 15 | 2 days ago | [hexyl](https://github.com/sharkdp/hexyl)/144 | A command-line hex viewer |
+| 8772 | 747 | 272 | 14 days ago | [serde](https://github.com/serde-rs/serde)/145 | Serialization framework for Rust |
+| 8752 | 440 | 88 | 18 days ago | [rathole](https://github.com/rapiz1/rathole)/146 | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok. |
+| 8730 | 363 | 291 | a month ago | [eww](https://github.com/elkowar/eww)/147 | ElKowars wacky widgets |
+| 8663 | 166 | 197 | 6 days ago | [eza](https://github.com/eza-community/eza)/148 | A modern, maintained replacement for ls |
+| 8651 | 741 | 50 | 10 hours ago | [tokenizers](https://github.com/huggingface/tokenizers)/149 | 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production |
+| 8602 | 258 | 132 | 9 hours ago | [ratatui](https://github.com/ratatui-org/ratatui)/150 | Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 |
+| 8494 | 234 | 22 | 4 years ago | [xray](https://github.com/atom-archive/xray)/151 | An experimental next-generation Electron-based text editor |
+| 8441 | 646 | 35 | 7 days ago | [actix](https://github.com/actix/actix)/152 | Actor framework for Rust. |
+| 8389 | 2649 | 632 | 9 months ago | [substrate](https://github.com/paritytech/substrate)/153 | Substrate: The platform for blockchain innovators |
+| 8348 | 271 | 95 | 6 hours ago | [gitoxide](https://github.com/Byron/gitoxide)/154 | An idiomatic, lean, fast & safe pure Rust implementation of Git |
+| 8339 | 495 | 267 | 3 days ago | [bottlerocket](https://github.com/bottlerocket-os/bottlerocket)/155 | An operating system designed for hosting containers |
+| 8253 | 486 | 79 | a month ago | [ZLUDA](https://github.com/vosen/ZLUDA)/156 | CUDA on AMD GPUs |
+| 8236 | 209 | 114 | 6 days ago | [psst](https://github.com/jpochyla/psst)/157 | Fast and multi-platform Spotify client with native GUI |
+| 8196 | 318 | 8 | 11 days ago | [bore](https://github.com/ekzhang/bore)/158 | 🕳 bore is a simple CLI tool for making tunnels to localhost |
+| 8026 | 171 | 8 | 5 days ago | [dust](https://github.com/bootandy/dust)/159 | A more intuitive version of du in rust |
+| 8025 | 1123 | 31 | 5 hours ago | [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust)/160 | A Rust port of shadowsocks |
+| 7987 | 748 | 0 | 2 years ago | [amethyst](https://github.com/amethyst/amethyst)/161 | Data-oriented and data-driven game engine written in Rust |
+| 7904 | 163 | 55 | 2 days ago | [git-cliff](https://github.com/orhun/git-cliff)/162 | A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  |
+| 7877 | 379 | 151 | 10 months ago | [sled](https://github.com/spacejam/sled)/163 | the champagne of beta embedded databases |
+| 7860 | 209 | 204 | 4 days ago | [mise](https://github.com/jdx/mise)/164 | dev tools, env vars, task runner |
+| 7838 | 281 | 101 | 21 days ago | [neon](https://github.com/neon-bindings/neon)/165 | Rust bindings for writing safe and fast native Node.js modules. |
+| 7822 | 1549 | 1001 | 3 hours ago | [foundry](https://github.com/foundry-rs/foundry)/166 | Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust. |
+| 7705 | 477 | 217 | 8 hours ago | [rspack](https://github.com/web-infra-dev/rspack)/167 | The fast Rust-based web bundler with webpack-compatible API 🦀️ |
+| 7665 | 324 | 151 | 3 years ago | [citybound](https://github.com/citybound/citybound)/168 | A work-in-progress, open-source, multi-player city simulation game. |
+| 7627 | 196 | 8 | 7 days ago | [min-sized-rust](https://github.com/johnthagen/min-sized-rust)/169 | 🦀 How to minimize Rust binary size 📦 |
+| 7613 | 364 | 212 | 3 days ago | [burn](https://github.com/tracel-ai/burn)/170 | Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals. |
+| 7455 | 340 | 51 | 3 hours ago | [Fyrox](https://github.com/FyroxEngine/Fyrox)/171 | 3D and 2D game engine written in Rust |
+| 7415 | 1021 | 478 | 5 hours ago | [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen)/172 | Facilitating high-level interactions between Wasm modules and JavaScript |
+| 7399 | 711 | 612 | 11 hours ago | [databend](https://github.com/datafuselabs/databend)/173 | 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com |
+| 7375 | 147 | 60 | 22 hours ago | [komorebi](https://github.com/LGUG2Z/komorebi)/174 | A tiling window manager for Windows 🍉 |
+| 7356 | 332 | 227 | a month ago | [abstreet](https://github.com/a-b-street/abstreet)/175 | Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit |
+| 7269 | 385 | 132 | 2 days ago | [Graphite](https://github.com/GraphiteEditor/Graphite)/176 | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
+| 7115 | 1582 | 224 | 9 months ago | [polkadot](https://github.com/paritytech/polkadot)/177 | Polkadot Node Implementation |
+| 7077 | 246 | 119 | 3 months ago | [rust-gpu](https://github.com/EmbarkStudios/rust-gpu)/178 | 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧 |
+| 7077 | 237 | 359 | a month ago | [jj](https://github.com/martinvonz/jj)/179 | A Git-compatible VCS that is both simple and powerful |
+| 7067 | 403 | 71 | 6 hours ago | [rolldown](https://github.com/rolldown/rolldown)/180 | Fast Rust bundler for JavaScript with Rollup-compatible API. |
+| 6982 | 168 | 13 | 2 months ago | [grex](https://github.com/pemistahl/grex)/181 | A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases |
+| 6981 | 107 | 37 | 1 year, 2 months ago | [htmlq](https://github.com/mgdm/htmlq)/182 | Like jq, but for HTML. |
+| 6973 | 445 | 138 | a month ago | [crossbeam](https://github.com/crossbeam-rs/crossbeam)/183 | Tools for concurrent programming in Rust |
+| 6921 | 291 | 608 | 13 hours ago | [quickwit](https://github.com/quickwit-oss/quickwit)/184 | Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. |
+| 6879 | 179 | 33 | 10 months ago | [ffsend](https://github.com/timvisee/ffsend)/185 | :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client. |
+| 6850 | 367 | 7 | 28 days ago | [rust-blog](https://github.com/pretzelhammer/rust-blog)/186 | Educational blog posts for Rust beginners |
+| 6804 | 1680 | 161 | 4 years ago | [parity-ethereum](https://github.com/openethereum/parity-ethereum)/187 | The fast, light, and robust client for Ethereum-like networks. |
+| 6748 | 439 | 71 | 14 hours ago | [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu)/188 | Clash Nyanpasu～(∠・ω< )⌒☆​ |
+| 6745 | 175 | 124 | 23 days ago | [mcfly](https://github.com/cantino/mcfly)/189 | Fly through your shell history. Great Scott! |
+| 6696 | 257 | 127 | 3 days ago | [websocat](https://github.com/vi/websocat)/190 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions |
+| 6576 | 255 | 122 | 1 year, 10 months ago | [Weylus](https://github.com/H-M-H/Weylus)/191 | Use your tablet as graphic tablet/touch screen on your computer. |
+| 6546 | 533 | 1135 | 6 hours ago | [risingwave](https://github.com/risingwavelabs/risingwave)/192 | SQL stream processing, analytics, and management. We decouple storage and compute to offer instant failover, dynamic scaling, speedy bootstrapping, and efficient joins. |
+| 6546 | 457 | 117 | 3 days ago | [sea-orm](https://github.com/SeaQL/sea-orm)/193 | 🐚 An async & dynamic ORM for Rust |
+| 6410 | 213 | 256 | a day ago | [rnote](https://github.com/flxzt/rnote)/194 | Sketch and take handwritten notes. |
+| 6383 | 148 | 27 | 9 hours ago | [ripgrep-all](https://github.com/phiresky/ripgrep-all)/195 | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. |
+| 6360 | 152 | 52 | 17 hours ago | [ast-grep](https://github.com/ast-grep/ast-grep)/196 | ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust |
+| 6299 | 266 | 41 | 6 hours ago | [gyroflow](https://github.com/gyroflow/gyroflow)/197 | Video stabilization using gyroscope data |
+| 6172 | 351 | 159 | a month ago | [cross](https://github.com/cross-rs/cross)/198 | “Zero setup” cross compilation and “cross testing” of Rust crates |
+| 6152 | 714 | 18 | 3 days ago | [mio](https://github.com/tokio-rs/mio)/199 | Metal I/O library for Rust. |
+| 6126 | 179 | 0 | a month ago | [idiomatic-rust](https://github.com/mre/idiomatic-rust)/200 | 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust. |
+| 6124 | 402 | 57 | 3 years ago | [iron](https://github.com/iron/iron)/201 | An Extensible, Concurrent Web Framework for Rust |
+| 6081 | 166 | 208 | 21 days ago | [lightningcss](https://github.com/parcel-bundler/lightningcss)/202 | An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. |
+| 6049 | 402 | 318 | 3 months ago | [wasm-pack](https://github.com/rustwasm/wasm-pack)/203 | 📦✨ your favorite rust -> wasm workflow tool! |
+| 6044 | 350 | 81 | 4 hours ago | [llm](https://github.com/rustformers/llm)/204 | [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models |
+| 6002 | 871 | 437 | 10 hours ago | [rustup](https://github.com/rust-lang/rustup)/205 | The Rust toolchain installer |
+| 5960 | 553 | 5 | 6 hours ago | [toydb](https://github.com/erikgrinaker/toydb)/206 | Distributed SQL database in Rust, written as a learning project |
+| 5954 | 331 | 81 | 2 days ago | [youki](https://github.com/containers/youki)/207 | A container runtime written in Rust |
+| 5914 | 395 | 95 | 7 months ago | [boringtun](https://github.com/cloudflare/boringtun)/208 | Userspace WireGuard® Implementation in Rust |
+| 5891 | 269 | 200 | 4 hours ago | [sapling](https://github.com/facebook/sapling)/209 | A Scalable, User-Friendly Source Control System. |
+| 5889 | 1209 | 87 | 29 days ago | [rustdesk-server](https://github.com/rustdesk/rustdesk-server)/210 | RustDesk Server Program |
+| 5883 | 3560 | 661 | 6 hours ago | [aptos-core](https://github.com/aptos-labs/aptos-core)/211 | Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience. |
+| 5880 | 301 | 256 | 5 months ago | [nannou](https://github.com/nannou-org/nannou)/212 | A Creative Coding Framework for Rust. |
+| 5857 | 162 | 74 | 2 years ago | [dog](https://github.com/ogham/dog)/213 | A command-line DNS client. |
+| 5837 | 218 | 50 | 26 days ago | [azul](https://github.com/fschutt/azul)/214 | Desktop GUI Framework |
+| 5835 | 858 | 750 | 2 days ago | [rustfmt](https://github.com/rust-lang/rustfmt)/215 | Format Rust code |
+| 5831 | 11059 | 790 | 3 hours ago | [sui](https://github.com/MystenLabs/sui)/216 |  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language |
+| 5746 | 241 | 105 | 5 hours ago | [shuttle](https://github.com/shuttle-hq/shuttle)/217 | Build & ship backends without writing any infrastructure files. |
+| 5742 | 281 | 84 | 10 days ago | [miniserve](https://github.com/svenstaro/miniserve)/218 | 🌟 For when you really just want to serve some files over HTTP right now! |
+| 5714 | 166 | 75 | 7 months ago | [stc](https://github.com/dudykr/stc)/219 | Speedy TypeScript type checker |
+| 5652 | 602 | 111 | 3 days ago | [rustls](https://github.com/rustls/rustls)/220 | A modern TLS library in Rust |
+| 5651 | 218 | 144 | 3 months ago | [paru](https://github.com/Morganamilo/paru)/221 | Feature packed AUR helper |
+| 5649 | 457 | 2580 | 3 hours ago | [materialize](https://github.com/MaterializeInc/materialize)/222 | The data warehouse for operational workloads. |
+| 5647 | 276 | 145 | 5 days ago | [postgresml](https://github.com/postgresml/postgresml)/223 | The GPU-powered AI application database. Get your app to market faster using the simplicity of SQL and the latest NLP, ML + LLM models. |
+| 5644 | 242 | 178 | 5 hours ago | [napi-rs](https://github.com/napi-rs/napi-rs)/224 | A framework for building compiled Node.js add-ons in Rust via Node-API |
+| 5639 | 317 | 259 | 10 days ago | [cxx](https://github.com/dtolnay/cxx)/225 | Safe interop between Rust and C++ |
+| 5603 | 417 | 102 | 5 days ago | [juniper](https://github.com/graphql-rust/juniper)/226 | GraphQL server library for Rust |
+| 5569 | 717 | 123 | 3 days ago | [massa](https://github.com/massalabs/massa)/227 | The Decentralized and Scaled Blockchain |
+| 5566 | 253 | 913 | 4 hours ago | [rerun](https://github.com/rerun-io/rerun)/228 | Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui. |
+| 5558 | 271 | 33 | 6 years ago | [leaf](https://github.com/autumnai/leaf)/229 | Open Machine Intelligence Framework for Hackers. (GPU/CPU) |
+| 5555 | 160 | 14 | a month ago | [sshx](https://github.com/ekzhang/sshx)/230 | Fast, collaborative live terminal sharing over the web |
+| 5537 | 529 | 334 | a day ago | [sccache](https://github.com/mozilla/sccache)/231 | Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage. |
+| 5528 | 136 | 60 | a month ago | [sd](https://github.com/chmln/sd)/232 | Intuitive find & replace CLI (sed alternative) |
+| 5513 | 373 | 4 | 15 hours ago | [veloren](https://github.com/veloren/veloren)/233 | An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. |
+| 5495 | 463 | 35 | 5 days ago | [feroxbuster](https://github.com/epi052/feroxbuster)/234 | A fast, simple, recursive content discovery tool written in Rust. |
+| 5433 | 1002 | 1041 | 4 hours ago | [datafusion](https://github.com/apache/datafusion)/235 | Apache DataFusion SQL Query Engine |
+| 5416 | 500 | 4 | 1 year, 5 months ago | [game-developer-roadmap](https://github.com/utilForever/game-developer-roadmap)/236 | Roadmap to becoming a game developer in 2022 |
+| 5401 | 469 | 35 | 8 months ago | [zero-to-production](https://github.com/LukeMathWalker/zero-to-production)/237 | Code for "Zero To Production In Rust", a book on API development using Rust. |
+| 5346 | 550 | 331 | 2 years ago | [gfx](https://github.com/gfx-rs/gfx)/238 | [maintenance mode] A low-overhead Vulkan-like GPU API for Rust. |
+| 5313 | 213 | 107 | 3 days ago | [evcxr](https://github.com/evcxr/evcxr)/239 | None |
+| 5284 | 226 | 351 | 1 year, 5 months ago | [PyOxidizer](https://github.com/indygreg/PyOxidizer)/240 | A modern Python application packaging and distribution tool |
+| 5279 | 605 | 219 | a month ago | [futures-rs](https://github.com/rust-lang/futures-rs)/241 | Zero-cost asynchronous programming in Rust |
+| 5210 | 250 | 1 | a day ago | [dufs](https://github.com/sigoden/dufs)/242 | A file server that supports static serving, uploading, searching, accessing control, webdav... |
+| 5187 | 74 | 7 | 16 hours ago | [tailspin](https://github.com/bensadeh/tailspin)/243 | 🌀 A log file highlighter |
+| 5183 | 138 | 24 | 11 days ago | [anyhow](https://github.com/dtolnay/anyhow)/244 | Flexible concrete Error type built on std::error::Error |
+| 5162 | 659 | 138 | a day ago | [tock](https://github.com/tock/tock)/245 | A secure embedded operating system for microcontrollers |
+| 5115 | 67 | 4 | 7 days ago | [crab](https://github.com/crablang/crab)/246 | A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  |
+| 5097 | 667 | 647 | 3 days ago | [tracing](https://github.com/tokio-rs/tracing)/247 | Application level tracing for Rust. |
+| 5081 | 1003 | 1430 | 4 hours ago | [kata-containers](https://github.com/kata-containers/kata-containers)/248 | Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/ |
+| 5048 | 420 | 67 | 6 months ago | [rust](https://github.com/tensorflow/rust)/249 | Rust language bindings for TensorFlow |
+| 5039 | 990 | 134 | 6 days ago | [grin](https://github.com/mimblewimble/grin)/250 | Minimal implementation of the Mimblewimble protocol. |
+| 5033 | 149 | 51 | a month ago | [watchexec](https://github.com/watchexec/watchexec)/251 | Executes commands in response to file modifications |
+| 5010 | 267 | 202 | a month ago | [libreddit](https://github.com/libreddit/libreddit)/252 | Private front-end for Reddit |
+| 4983 | 321 | 135 | 5 months ago | [tide](https://github.com/http-rs/tide)/253 | Fast and friendly HTTP server framework for async Rust |
+| 4982 | 241 | 245 | 10 hours ago | [spin](https://github.com/fermyon/spin)/254 | Spin is the open source developer tool for building and running serverless applications powered by WebAssembly. |
+| 4966 | 97 | 25 | a month ago | [pastel](https://github.com/sharkdp/pastel)/255 | A command-line tool to generate, analyze, convert and manipulate colors |
+| 4962 | 461 | 129 | 9 days ago | [ALVR](https://github.com/alvr-org/ALVR)/256 | Stream VR games from your PC to your headset via Wi-Fi |
+| 4957 | 241 | 47 | 2 years ago | [noria](https://github.com/mit-pdos/noria)/257 | Fast web applications through dynamic, partially-stateful dataflow |
+| 4934 | 173 | 152 | 1 year, 1 month ago | [skim](https://github.com/lotabout/skim)/258 | Fuzzy Finder in rust! |
+| 4931 | 90 | 29 | a day ago | [xh](https://github.com/ducaale/xh)/259 | Friendly and fast tool for sending HTTP requests |
+| 4881 | 108 | 15 | 14 days ago | [procs](https://github.com/dalance/procs)/260 | A modern replacement for ps written in Rust |
+| 4876 | 180 | 84 | 2 months ago | [innernet](https://github.com/tonarino/innernet)/261 | A private network system that uses WireGuard under the hood. |
+| 4872 | 2744 | 91 | 7 months ago | [zksync](https://github.com/matter-labs/zksync)/262 | zkSync: trustless scaling and privacy engine for Ethereum |
+| 4844 | 188 | 12 | 14 days ago | [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison)/263 | A comparison of some web frameworks and libs written in Rust |
+| 4793 | 384 | 113 | 4 hours ago | [boa](https://github.com/boa-dev/boa)/264 | Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language. |
+| 4785 | 633 | 537 | 2 days ago | [leo](https://github.com/ProvableHQ/leo)/265 | 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
+| 4778 | 121 | 37 | 19 days ago | [sudo](https://github.com/microsoft/sudo)/266 | It's sudo, for Windows |
+| 4770 | 205 | 125 | 12 hours ago | [ncspot](https://github.com/hrkfdn/ncspot)/267 | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. |
+| 4757 | 642 | 326 | 10 hours ago | [embassy](https://github.com/embassy-rs/embassy)/268 | Modern embedded framework, using Rust and async. |
+| 4742 | 587 | 205 | 22 hours ago | [image](https://github.com/image-rs/image)/269 | Encoding and decoding images in Rust |
+| 4700 | 240 | 88 | 5 days ago | [WASI](https://github.com/WebAssembly/WASI)/270 | WebAssembly System Interface |
+| 4657 | 173 | 17 | 4 months ago | [kajiya](https://github.com/EmbarkStudios/kajiya)/271 | 💡 Experimental real-time global illumination renderer 🦀 |
+| 4642 | 127 | 10 | a day ago | [pueue](https://github.com/Nukesor/pueue)/272 | :stars: Manage your shell commands. |
+| 4639 | 528 | 174 | 16 days ago | [json](https://github.com/serde-rs/json)/273 | Strongly typed JSON library for Rust |
+| 4629 | 122 | 55 | a day ago | [paradedb](https://github.com/paradedb/paradedb)/274 | Postgres for Search and Analytics |
+| 4617 | 137 | 23 | a day ago | [gifski](https://github.com/ImageOptim/gifski)/275 | GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. |
+| 4610 | 55 | 8 | 11 months ago | [melody](https://github.com/yoav-lavi/melody)/276 | Melody is a language that compiles to regular expressions and aims to be more readable and maintainable |
+| 4597 | 330 | 347 | 5 hours ago | [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)/277 | The Mullvad VPN client app for desktop and mobile |
+| 4589 | 87 | 79 | 23 days ago | [jless](https://github.com/PaulJuliusMartinez/jless)/278 | jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. |
+| 4573 | 132 | 5 | 16 days ago | [shellharden](https://github.com/anordal/shellharden)/279 | The corrective bash syntax highlighter |
+| 4567 | 234 | 34 | a month ago | [piston](https://github.com/PistonDevelopers/piston)/280 | A modular game engine written in Rust |
+| 4558 | 136 | 47 | 3 months ago | [lunatic](https://github.com/lunatic-solutions/lunatic)/281 | Lunatic is an Erlang-inspired runtime for WebAssembly |
+| 4536 | 567 | 37 | 2 days ago | [serenity](https://github.com/serenity-rs/serenity)/282 | A Rust library for the Discord API. |
+| 4535 | 45 | 14 | 5 days ago | [jnv](https://github.com/ynqa/jnv)/283 | Interactive JSON filter using jq |
+| 4530 | 875 | 471 | 9 hours ago | [winit](https://github.com/rust-windowing/winit)/284 | Window handling library in pure Rust |
+| 4464 | 252 | 64 | a month ago | [pest](https://github.com/pest-parser/pest)/285 | The Elegant Parser |
+| 4415 | 137 | 57 | 7 days ago | [flamegraph](https://github.com/flamegraph-rs/flamegraph)/286 | Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3 |
+| 4413 | 533 | 58 | 6 days ago | [librespot](https://github.com/librespot-org/librespot)/287 | Open Source Spotify client library |
+| 4385 | 434 | 102 | 4 days ago | [vulkano](https://github.com/vulkano-rs/vulkano)/288 | Safe and rich Rust wrapper around the Vulkan API |
+| 4383 | 559 | 378 | 3 days ago | [ockam](https://github.com/build-trust/ockam)/289 | Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. |
+| 4338 | 106 | 36 | 14 days ago | [oha](https://github.com/hatoo/oha)/290 | Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. |
+| 4272 | 884 | 186 | 3 days ago | [rust-libp2p](https://github.com/libp2p/rust-libp2p)/291 | The Rust Implementation of the libp2p networking stack.  |
+| 4260 | 68 | 27 | 1 year, 2 months ago | [dura](https://github.com/tkellogg/dura)/292 | You shouldn't ever lose your work if you're using Git |
+| 4257 | 288 | 175 | 2 months ago | [criterion.rs](https://github.com/bheisler/criterion.rs)/293 | Statistics-driven benchmarking library for Rust |
+| 4252 | 400 | 84 | 1 year, 1 month ago | [nofwl](https://github.com/lencx/nofwl)/294 | NoFWL Desktop Application |
+| 4226 | 143 | 64 | 5 days ago | [mountpoint-s3](https://github.com/awslabs/mountpoint-s3)/295 | A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system. |
+| 4220 | 219 | 43 | 4 days ago | [rustler](https://github.com/rusterlium/rustler)/296 | Safe Rust bridge for creating Erlang NIF functions |
+| 4208 | 675 | 412 | 29 days ago | [rust-bindgen](https://github.com/rust-lang/rust-bindgen)/297 | Automatically generates Rust FFI bindings to C (and some C++) libraries. |
+| 4199 | 320 | 73 | 10 days ago | [check-if-email-exists](https://github.com/reacherhq/check-if-email-exists)/298 | Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. |
+| 4198 | 237 | 73 | 4 days ago | [indicatif](https://github.com/console-rs/indicatif)/299 | A command line progress reporting library for Rust |
+| 4194 | 101 | 209 | 3 days ago | [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)/300 | Multiplayer at the speed of light |
+| 4157 | 239 | 196 | a day ago | [cursive](https://github.com/gyscos/cursive)/301 | A Text User Interface library for the Rust programming language |
+| 4154 | 421 | 66 | 11 months ago | [ggez](https://github.com/ggez/ggez)/302 | Rust library to create a Good Game Easily |
+| 4153 | 140 | 25 | 16 days ago | [thiserror](https://github.com/dtolnay/thiserror)/303 | derive(Error) for struct and enum error types |
+| 4149 | 129 | 26 | 8 months ago | [Toshi](https://github.com/toshi-search/Toshi)/304 | A full-text search engine in rust |
+| 4138 | 139 | 29 | a month ago | [imageflow](https://github.com/imazen/imageflow)/305 | High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow |
+| 4126 | 317 | 138 | 14 hours ago | [miri](https://github.com/rust-lang/miri)/306 | An interpreter for Rust's mid-level intermediate representation |
+| 4069 | 164 | 65 | 2 years ago | [lucet](https://github.com/bytecodealliance/lucet)/307 | Lucet, the Sandboxing WebAssembly Compiler. |
+| 4043 | 75 | 22 | 8 days ago | [xplr](https://github.com/sayanarijit/xplr)/308 | A hackable, minimal, fast TUI file explorer |
+| 4039 | 129 | 111 | a month ago | [Replibyte](https://github.com/Qovery/Replibyte)/309 | Seed your development database with real data ⚡️ |
+| 4022 | 115 | 433 | 2 days ago | [readyset](https://github.com/readysettech/readyset)/310 | Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes. |
+| 3999 | 316 | 161 | a month ago | [tch-rs](https://github.com/LaurentMazare/tch-rs)/311 | Rust bindings for the C++ api of PyTorch. |
+| 3974 | 120 | 23 | 7 days ago | [tealdeer](https://github.com/dbrgn/tealdeer)/312 | A very fast implementation of tldr in Rust. |
+| 3958 | 372 | 4 | 4 days ago | [cheats.rs](https://github.com/ralfbiedert/cheats.rs)/313 | Rust Language Cheat Sheet - https://cheats.rs |
+| 3952 | 988 | 3 | 2 months ago | [proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)/314 | Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019] |
+| 3950 | 2537 | 112 | a day ago | [snarkOS](https://github.com/AleoNet/snarkOS)/315 | A Decentralized Operating System for ZK Applications |
+| 3943 | 100 | 22 | 2 days ago | [extism](https://github.com/extism/extism)/316 | The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. |
+| 3935 | 281 | 197 | 4 hours ago | [greptimedb](https://github.com/GreptimeTeam/greptimedb)/317 | An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. |
+| 3923 | 1915 | 7 | 1 year, 4 months ago | [os_kernel_lab](https://github.com/chyyuu/os_kernel_lab)/318 | OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32 |
+| 3920 | 83 | 18 | 9 hours ago | [fselect](https://github.com/jhspetersson/fselect)/319 | Find files with SQL-like queries |
+| 3901 | 340 | 118 | 6 hours ago | [webrtc](https://github.com/webrtc-rs/webrtc)/320 | A pure Rust implementation of WebRTC |
+| 3863 | 335 | 186 | 6 days ago | [async-std](https://github.com/async-rs/async-std)/321 | Async version of the Rust standard library |
+| 3842 | 283 | 1107 | 5 hours ago | [roc](https://github.com/roc-lang/roc)/322 | A fast, friendly, functional language. |
+| 3821 | 455 | 344 | a day ago | [nalgebra](https://github.com/dimforge/nalgebra)/323 | Linear algebra library for Rust. |
+| 3789 | 153 | 55 | 1 year, 3 months ago | [seed](https://github.com/seed-rs/seed)/324 | A Rust framework for creating web apps |
+| 3789 | 320 | 164 | a month ago | [RedisJSON](https://github.com/RedisJSON/RedisJSON)/325 | RedisJSON - a JSON data type for Redis |
+| 3776 | 193 | 88 | 1 year, 8 months ago | [orbtk](https://github.com/redox-os/orbtk)/326 | The Rust UI-Toolkit. |
+| 3764 | 108 | 31 | 3 months ago | [svgbob](https://github.com/ivanceras/svgbob)/327 | Convert your ascii diagram scribbles into happy little SVG |
+| 3758 | 215 | 257 | 18 days ago | [c2rust](https://github.com/immunant/c2rust)/328 | Migrate C code to Rust |
+| 3755 | 123 | 277 | 12 days ago | [Ambient](https://github.com/AmbientRun/Ambient)/329 | The multiplayer game engine |
+| 3739 | 233 | 94 | 23 hours ago | [rapier](https://github.com/dimforge/rapier)/330 | 2D and 3D physics engines focused on performance. |
+| 3733 | 153 | 154 | 5 months ago | [dim](https://github.com/Dusk-Labs/dim)/331 | Dim, a media manager fueled by dark forces. |
+| 3729 | 208 | 38 | 6 days ago | [monoio](https://github.com/bytedance/monoio)/332 | Rust async runtime based on io-uring. |
+| 3728 | 1291 | 421 | 14 days ago | [ord](https://github.com/ordinals/ord)/333 | 👁‍🗨 Rare and exotic sats |
+| 3721 | 429 | 279 | 4 days ago | [hickory-dns](https://github.com/hickory-dns/hickory-dns)/334 | A Rust based DNS client, server, and resolver |
+| 3715 | 419 | 78 | 2 days ago | [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)/335 | A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security. |
+| 3703 | 216 | 3 | 1 year, 3 months ago | [rust-algorithms](https://github.com/EbTech/rust-algorithms)/336 | Common data structures and algorithms in Rust |
+| 3680 | 94 | 16 | 2 months ago | [cve-rs](https://github.com/Speykious/cve-rs)/337 | Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀 |
+| 3671 | 423 | 33 | 11 days ago | [mini-redis](https://github.com/tokio-rs/mini-redis)/338 | Incomplete Redis client and server implementation using Tokio - for learning purposes only |
+| 3658 | 268 | 127 | 6 hours ago | [plotters](https://github.com/plotters-rs/plotters)/339 | A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀 |
+| 3652 | 102 | 19 | 28 days ago | [dua-cli](https://github.com/Byron/dua-cli)/340 | View disk space usage and delete unwanted data, fast. |
+| 3641 | 103 | 97 | a month ago | [amp](https://github.com/jmacdonald/amp)/341 | A complete text editor for your terminal. |
+| 3637 | 171 | 68 | 8 days ago | [lldap](https://github.com/lldap/lldap)/342 | Light LDAP implementation |
+| 3627 | 401 | 66 | 27 days ago | [smoltcp](https://github.com/smoltcp-rs/smoltcp)/343 | a smol tcp/ip stack |
+| 3620 | 475 | 221 | 14 days ago | [prost](https://github.com/tokio-rs/prost)/344 | PROST! a Protocol Buffers implementation for the Rust Language |
+| 3611 | 99 | 40 | a year ago | [awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)/345 | A curated list of replacements for existing software written in Rust |
+| 3609 | 137 | 43 | 1 year, 2 months ago | [Project-Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed)/346 | A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming |
+| 3607 | 313 | 11 | 5 days ago | [wstunnel](https://github.com/erebe/wstunnel)/347 | Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available  |
+| 3603 | 794 | 32 | 6 days ago | [examples](https://github.com/actix/examples)/348 | Community showcase and examples of Actix Web ecosystem usage. |
+| 3600 | 103 | 49 | 10 months ago | [firefly](https://github.com/GetFirefly/firefly)/349 | An alternative BEAM implementation, designed for WebAssembly |
+| 3594 | 148 | 39 | 4 hours ago | [pushpin](https://github.com/fastly/pushpin)/350 | A proxy server for adding push to your API, used at the core of Fastly's Fanout service |
+| 3591 | 296 | 1 | 19 days ago | [RustMinerSystem](https://github.com/EvilGenius-dot/RustMinerSystem)/351 | 🔥minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy 矿池抽水 矿池代理 矿池中转 矿池抽水 minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy minerproxy |
+| 3586 | 208 | 60 | 2 months ago | [gdnative](https://github.com/godot-rust/gdnative)/352 | Rust bindings for Godot 3 |
+| 3577 | 169 | 41 | 11 hours ago | [rhai](https://github.com/rhaiscript/rhai)/353 | Rhai - An embedded scripting language for Rust. |
+| 3564 | 282 | 53 | 4 months ago | [r4cppp](https://github.com/nrc/r4cppp)/354 | Rust for C++ programmers |
+| 3563 | 362 | 103 | 2 days ago | [quinn](https://github.com/quinn-rs/quinn)/355 | Async-friendly QUIC implementation in Rust |
+| 3560 | 97 | 174 | 3 hours ago | [mirrord](https://github.com/metalbear-co/mirrord)/356 | Connect your local process and your cloud environment, and run local code in cloud conditions. |
+| 3560 | 153 | 51 | 13 hours ago | [loco](https://github.com/loco-rs/loco)/357 | 🚂 🦀 The one-person framework for Rust for side-projects and startups |
+| 3547 | 45 | 21 | a month ago | [borgo](https://github.com/borgo-lang/borgo)/358 | Borgo is a statically typed language that compiles to Go. |
+| 3546 | 221 | 84 | 8 months ago | [krustlet](https://github.com/krustlet/krustlet)/359 | Kubernetes Rust Kubelet |
+| 3545 | 274 | 125 | 2 years ago | [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)/360 | Language Server Protocol (LSP) support for vim and neovim. |
+| 3529 | 258 | 293 | 1 year, 9 months ago | [rls](https://github.com/rust-lang/rls)/361 | Repository for the Rust Language Server (aka RLS) |
+| 3520 | 141 | 54 | a month ago | [Kind1](https://github.com/HigherOrderCO/Kind1)/362 | A next-gen functional language |
+| 3519 | 108 | 132 | 24 days ago | [warpgate](https://github.com/warp-tech/warpgate)/363 | Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software |
+| 3518 | 229 | 69 | 2 months ago | [linfa](https://github.com/rust-ml/linfa)/364 | A Rust machine learning framework. |
+| 3511 | 181 | 379 | 20 hours ago | [lance](https://github.com/lancedb/lance)/365 | Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. |
+| 3510 | 197 | 113 | 13 days ago | [pathfinder](https://github.com/servo/pathfinder)/366 | A fast, practical GPU rasterizer for fonts and vector graphics |
+| 3506 | 149 | 15 | 15 days ago | [smol](https://github.com/smol-rs/smol)/367 | A small and fast async runtime for Rust |
+| 3499 | 550 | 145 | 6 days ago | [redis-rs](https://github.com/redis-rs/redis-rs)/368 | Redis library for rust |
+| 3495 | 131 | 105 | a day ago | [mail-server](https://github.com/stalwartlabs/mail-server)/369 | Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) |
+| 3481 | 66 | 66 | 6 days ago | [Amber](https://github.com/Ph0enixKM/Amber)/370 | 💎 Amber the programming language compiled to bash |
+| 3441 | 172 | 114 | 11 days ago | [oso](https://github.com/osohq/oso)/371 | Oso is a batteries-included framework for building authorization in your application. |
+| 3437 | 178 | 134 | 4 years ago | [stdweb](https://github.com/koute/stdweb)/372 | A standard library for the client-side Web |
+| 3432 | 398 | 336 | 3 months ago | [glium](https://github.com/glium/glium)/373 | Safe OpenGL wrapper for the Rust language. |
+| 3417 | 876 | 360 | 3 hours ago | [reth](https://github.com/paradigmxyz/reth)/374 | Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust |
+| 3415 | 232 | 60 | 3 days ago | [maturin](https://github.com/PyO3/maturin)/375 | Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages |
+| 3413 | 144 | 69 | a month ago | [chumsky](https://github.com/zesterer/chumsky)/376 | Write expressive, high-performance parsers with ease. |
+| 3413 | 188 | 47 | 2 days ago | [arroyo](https://github.com/ArroyoSystems/arroyo)/377 | Distributed stream processing engine in Rust |
+| 3412 | 72 | 26 | 16 days ago | [angle-grinder](https://github.com/rcoh/angle-grinder)/378 | Slice and dice logs on the command line |
+| 3411 | 291 | 221 | 28 days ago | [ndarray](https://github.com/rust-ndarray/ndarray)/379 | ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations |
+| 3400 | 422 | 45 | 15 days ago | [regex](https://github.com/rust-lang/regex)/380 | An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs. |
+| 3378 | 200 | 226 | 3 hours ago | [buck2](https://github.com/facebook/buck2)/381 | Build system, successor to Buck |
+| 3366 | 162 | 67 | 1 year, 8 months ago | [topgrade](https://github.com/r-darwish/topgrade)/382 | Upgrade everything |
+| 3363 | 420 | 124 | 2 months ago | [rust-postgres](https://github.com/sfackler/rust-postgres)/383 | Native PostgreSQL driver for the Rust programming language |
+| 3361 | 369 | 11 | 10 months ago | [rCore](https://github.com/rcore-os/rCore)/384 | Rust version of THU uCore OS. Linux compatible. |
+| 3360 | 280 | 149 | 2 years ago | [racer](https://github.com/racer-rust/racer)/385 | Rust Code Completion utility |
+| 3357 | 222 | 278 | 10 days ago | [pgrx](https://github.com/pgcentralfoundation/pgrx)/386 | Build Postgres Extensions with Rust! |
+| 3356 | 298 | 6 | a month ago | [PPHC](https://github.com/johnlui/PPHC)/387 | 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com |
+| 3351 | 80 | 76 | 8 days ago | [git-branchless](https://github.com/arxanas/git-branchless)/388 | High-velocity, monorepo-scale workflow for Git |
+| 3351 | 297 | 219 | 2 years ago | [conrod](https://github.com/PistonDevelopers/conrod)/389 | An easy-to-use, 2D GUI library written entirely in Rust. |
+| 3344 | 1238 | 424 | 4 days ago | [anchor](https://github.com/coral-xyz/anchor)/390 | ⚓ Solana Sealevel Framework |
+| 3334 | 246 | 95 | 12 hours ago | [wry](https://github.com/tauri-apps/wry)/391 | Cross-platform WebView library in Rust for Tauri. |
+| 3330 | 151 | 96 | a month ago | [joshuto](https://github.com/kamiyaa/joshuto)/392 | ranger-like terminal file manager written in Rust |
+| 3326 | 264 | 123 | 13 days ago | [poem](https://github.com/poem-web/poem)/393 | A full-featured and easy-to-use web framework with the Rust programming language. |
+| 3319 | 262 | 79 | 7 months ago | [tower](https://github.com/tower-rs/tower)/394 | async fn(Request) -> Result<Response, Error> |
+| 3318 | 90 | 25 | 1 year, 5 months ago | [kerla](https://github.com/nuta/kerla)/395 | A new operating system kernel with Linux binary compatibility written in Rust. |
+| 3309 | 60 | 23 | 24 days ago | [git-absorb](https://github.com/tummychow/git-absorb)/396 | git commit --fixup, but automatic |
+| 3308 | 279 | 163 | 26 days ago | [tera](https://github.com/Keats/tera)/397 | A template engine for Rust based on Jinja2/Django |
+| 3292 | 46 | 0 | 12 days ago | [computerraria](https://github.com/misprit7/computerraria)/398 | A fully compliant RISC-V computer made inside the game Terraria |
+| 3276 | 133 | 12 | 2 months ago | [FlyingCarpet](https://github.com/spieglt/FlyingCarpet)/399 | Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range. |
+| 3274 | 125 | 36 | 5 months ago | [pua-lang](https://github.com/flaneur2020/pua-lang)/400 | a dialect of The Monkey Programming Language |
+| 3271 | 430 | 179 | 9 days ago | [async-graphql](https://github.com/async-graphql/async-graphql)/401 | A GraphQL server library implemented in Rust |
+| 3267 | 122 | 91 | 3 days ago | [farm](https://github.com/farm-fe/farm)/402 | Extremely fast Vite-compatible web build tool written in Rust |
+| 3255 | 236 | 56 | 19 days ago | [trunk](https://github.com/trunk-rs/trunk)/403 | Build, bundle & ship your Rust WASM application to the web. |
+| 3250 | 135 | 79 | 3 days ago | [console](https://github.com/tokio-rs/console)/404 | a debugger for async rust! |
+| 3246 | 105 | 36 | 3 years ago | [ox](https://github.com/curlpipe/ox)/405 | An independent Rust text editor that runs in your terminal! |
+| 3243 | 56 | 17 | 3 days ago | [loro](https://github.com/loro-dev/loro)/406 | Reimagine state management with CRDTs. Make your app collaborative effortlessly. |
+| 3231 | 330 | 3 | 5 days ago | [aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime)/407 | A Rust runtime for AWS Lambda |
+| 3230 | 1935 | 70 | 7 hours ago | [solana-program-library](https://github.com/solana-labs/solana-program-library)/408 | A collection of Solana programs maintained by Solana Labs |
+| 3223 | 92 | 29 | 13 days ago | [cozo](https://github.com/cozodb/cozo)/409 | A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! |
+| 3214 | 274 | 110 | 10 days ago | [timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow)/410 | A modular implementation of timely dataflow in Rust |
+| 3213 | 210 | 122 | 3 days ago | [askama](https://github.com/djc/askama)/411 | Type-safe, compiled Jinja-like templates for Rust |
+| 3211 | 337 | 0 | 10 months ago | [wrangler-legacy](https://github.com/cloudflare/wrangler-legacy)/412 | 🤠  Home to Wrangler v1 (deprecated) |
+| 3203 | 130 | 4 | a month ago | [napkin-math](https://github.com/sirupsen/napkin-math)/413 | Techniques and numbers for estimating system's performance from first-principles |
+| 3203 | 509 | 150 | 12 days ago | [chrono](https://github.com/chronotope/chrono)/414 | Date and time library for Rust |
+| 3194 | 118 | 30 | 13 days ago | [ron](https://github.com/ron-rs/ron)/415 | Rusty Object Notation |
+| 3189 | 363 | 15 | 6 months ago | [Findomain](https://github.com/Findomain/Findomain)/416 | The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more. |
+| 3189 | 102 | 85 | 6 days ago | [rio](https://github.com/raphamorim/rio)/417 | A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. |
+| 3185 | 95 | 126 | a month ago | [pagefind](https://github.com/CloudCannon/pagefind)/418 | Static low-bandwidth search at scale |
+| 3177 | 65 | 43 | 18 hours ago | [trippy](https://github.com/fujiapple852/trippy)/419 | A network diagnostic tool  |
+| 3174 | 212 | 3 | 11 hours ago | [aichat](https://github.com/sigoden/aichat)/420 | All-in-one AI CLI tool that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek... |
+| 3156 | 58 | 11 | 3 months ago | [postgres_lsp](https://github.com/supabase-community/postgres_lsp)/421 | A Language Server for Postgres |
+| 3145 | 143 | 163 | 6 months ago | [gluon](https://github.com/gluon-lang/gluon)/422 | A static, type inferred and embeddable language written in Rust. |
+| 3142 | 173 | 42 | 28 days ago | [roapi](https://github.com/roapi/roapi)/423 | Create full-fledged APIs for slowly moving datasets without writing a single line of code. |
+| 3130 | 89 | 10 | 3 days ago | [GQL](https://github.com/AmrDeveloper/GQL)/424 |  Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions |
+| 3120 | 91 | 78 | 3 hours ago | [xilem](https://github.com/linebender/xilem)/425 | An experimental Rust native UI framework |
+| 3101 | 130 | 6 | 1 year, 5 months ago | [rustpad](https://github.com/ekzhang/rustpad)/426 | Efficient and minimal collaborative code editor, self-hosted, no database required |
+| 3082 | 2093 | 166 | 6 hours ago | [zksync-era](https://github.com/matter-labs/zksync-era)/427 | zkSync era |
+| 3081 | 272 | 67 | 2 years ago | [too-many-lists](https://github.com/rust-unofficial/too-many-lists)/428 | Learn Rust by writing Entirely Too Many linked lists |
+| 3075 | 341 | 13 | 1 year, 19 days ago | [black-hat-rust](https://github.com/skerkour/black-hat-rust)/429 | Applied offensive security with Rust  - https://kerkour.com/black-hat-rust |
+| 3073 | 188 | 41 | 3 months ago | [tarpc](https://github.com/google/tarpc)/430 | An RPC framework for Rust with a focus on ease of use. |
+| 3066 | 299 | 95 | 7 hours ago | [rusty_v8](https://github.com/denoland/rusty_v8)/431 | Rust bindings for the V8 JavaScript engine |
+| 3066 | 258 | 135 | 8 days ago | [crossterm](https://github.com/crossterm-rs/crossterm)/432 | Cross platform terminal library rust |
+| 3056 | 108 | 37 | 1 year, 22 days ago | [rx](https://github.com/cloudhead/rx)/433 | 👾 Modern and minimalist pixel editor |
+| 3048 | 65 | 76 | 6 days ago | [dprint](https://github.com/dprint/dprint)/434 | Pluggable and configurable code formatting platform written in Rust. |
+| 3036 | 267 | 199 | a day ago | [webrender](https://github.com/servo/webrender)/435 | A GPU-based renderer for the web |
+| 3029 | 162 | 54 | 2 years ago | [nickel.rs](https://github.com/nickel-org/nickel.rs)/436 | An expressjs inspired web framework for Rust |
+| 3027 | 134 | 7 | a month ago | [redb](https://github.com/cberner/redb)/437 | An embedded key-value database in pure Rust |
+| 3024 | 351 | 9 | 3 days ago | [libsignal](https://github.com/signalapp/libsignal)/438 | Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. |
+| 3014 | 111 | 114 | 6 days ago | [artichoke](https://github.com/artichoke/artichoke)/439 | 💎 Artichoke is a Ruby made with Rust |
+| 3014 | 144 | 60 | 25 days ago | [cargo-edit](https://github.com/killercup/cargo-edit)/440 | A utility for managing cargo dependencies from the command line. |
+| 3005 | 79 | 34 | a month ago | [silicon](https://github.com/Aloxaf/silicon)/441 | Create beautiful image of your source code. |
+| 3001 | 594 | 11 | 8 hours ago | [openvas-scanner](https://github.com/greenbone/openvas-scanner)/442 | This repository contains the scanner component for Greenbone Community Edition. |
+| 2998 | 295 | 244 | 18 hours ago | [macroquad](https://github.com/not-fl3/macroquad)/443 | Cross-platform game engine in Rust.  |
+| 2989 | 259 | 75 | 4 years ago | [weld](https://github.com/weld-project/weld)/444 | High-performance runtime for data analytics applications |
+| 2979 | 414 | 208 | 6 hours ago | [opendal](https://github.com/apache/opendal)/445 | Apache OpenDAL: access data freely. |
+| 2946 | 93 | 0 | 26 days ago | [himalaya](https://github.com/soywod/himalaya)/446 | CLI to manage emails |
+| 2945 | 127 | 33 | 8 months ago | [tfs](https://github.com/redox-os/tfs)/447 | Mirror of https://gitlab.redox-os.org/redox-os/tfs |
+| 2943 | 199 | 126 | 5 months ago | [sandspiel](https://github.com/MaxBittker/sandspiel)/448 | Creative cellular automata browser game  |
+| 2942 | 111 | 69 | 1 year, 11 months ago | [Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA)/449 | Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust. |
+| 2939 | 192 | 8 | 25 days ago | [vtracer](https://github.com/visioncortex/vtracer)/450 | Raster to Vector Graphics Converter |
+| 2933 | 287 | 155 | 10 hours ago | [lalrpop](https://github.com/lalrpop/lalrpop)/451 | LR(1) parser generator for Rust |
+| 2923 | 286 | 28 | a month ago | [OpenSK](https://github.com/google/OpenSK)/452 | OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. |
+| 2918 | 646 | 371 | a month ago | [stacks-core](https://github.com/stacks-network/stacks-core)/453 | The Stacks blockchain implementation |
+| 2909 | 188 | 120 | 21 days ago | [sozu](https://github.com/sozu-proxy/sozu)/454 | Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! |
+| 2906 | 160 | 57 | 4 days ago | [glommio](https://github.com/DataDog/glommio)/455 | Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans. |
+| 2904 | 244 | 127 | 3 days ago | [aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust)/456 | AWS SDK for the Rust Programming Language |
+| 2872 | 171 | 15 | 7 hours ago | [salvo](https://github.com/salvo-rs/salvo)/457 | A powerful web framework built with a simplified design. |
+| 2868 | 163 | 232 | 2 days ago | [hubris](https://github.com/oxidecomputer/hubris)/458 | A lightweight, memory-protected, message-passing kernel for deeply embedded systems. |
+| 2864 | 132 | 22 | 19 days ago | [teach-rs](https://github.com/tweedegolf/teach-rs)/459 | A modular, reusable university course for Rust |
+| 2854 | 492 | 13 | 4 days ago | [100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust)/460 | A self-paced course to learn Rust, one exercise at a time. |
+| 2853 | 334 | 154 | 3 hours ago | [rusqlite](https://github.com/rusqlite/rusqlite)/461 | Ergonomic bindings to SQLite for Rust |
+| 2852 | 253 | 150 | 3 days ago | [aya](https://github.com/aya-rs/aya)/462 | Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. |
+| 2851 | 585 | 103 | 2 days ago | [crates.io](https://github.com/rust-lang/crates.io)/463 | The Rust package registry |
+| 2843 | 922 | 465 | 3 days ago | [graph-node](https://github.com/graphprotocol/graph-node)/464 | Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL |
+| 2837 | 391 | 58 | a month ago | [raft-rs](https://github.com/tikv/raft-rs)/465 | Raft distributed consensus algorithm implemented in Rust. |
+| 2836 | 77 | 59 | a month ago | [sudo-rs](https://github.com/memorysafety/sudo-rs)/466 | A memory safe implementation of sudo and su. |
+| 2822 | 90 | 18 | 3 months ago | [maestro](https://github.com/maestro-os/maestro)/467 | Unix-like kernel written in Rust |
+| 2820 | 140 | 47 | 7 hours ago | [dashmap](https://github.com/xacrimon/dashmap)/468 | Blazing fast concurrent HashMap for Rust. |
+| 2806 | 110 | 27 | 7 months ago | [display-switch](https://github.com/haimgel/display-switch)/469 | Turn a $30 USB switch into a full-featured multi-monitor KVM switch |
+| 2806 | 472 | 94 | 4 days ago | [i3status-rust](https://github.com/greshake/i3status-rust)/470 | Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust |
+| 2804 | 688 | 442 | 14 days ago | [lighthouse](https://github.com/sigp/lighthouse)/471 | Ethereum consensus client in Rust |
+| 2803 | 96 | 39 | 12 days ago | [pg_graphql](https://github.com/supabase/pg_graphql)/472 | GraphQL support for PostgreSQL  |
+| 2801 | 206 | 60 | 2 months ago | [teloxide](https://github.com/teloxide/teloxide)/473 | 🤖 An elegant Telegram bots framework for Rust |
+| 2786 | 65 | 38 | 2 years ago | [dijo](https://github.com/nerdypepper/dijo)/474 | scriptable, curses-based, digital habit tracker |
+| 2779 | 185 | 108 | a month ago | [leftwm](https://github.com/leftwm/leftwm)/475 | A tiling window manager for Adventurers |
+| 2779 | 164 | 64 | 5 months ago | [Theseus](https://github.com/theseus-os/Theseus)/476 | Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus aims to shift OS responsibilities like resource management into the compiler. |
+| 2773 | 289 | 96 | 3 days ago | [kube](https://github.com/kube-rs/kube)/477 | Rust Kubernetes client and controller runtime |
+| 2770 | 227 | 21 | 12 days ago | [iced](https://github.com/icedland/iced)/478 | Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua |
+| 2769 | 101 | 53 | 2 years ago | [bastion](https://github.com/bastion-rs/bastion)/479 | Highly-available Distributed Fault-tolerant Runtime |
+| 2752 | 199 | 144 | 2 days ago | [fluvio](https://github.com/infinyon/fluvio)/480 | Lean and mean distributed stream processing system written in rust and web assembly. |
+| 2744 | 324 | 204 | a month ago | [petgraph](https://github.com/petgraph/petgraph)/481 | Graph data structure library for Rust. |
+| 2741 | 204 | 42 | 3 hours ago | [mistral.rs](https://github.com/EricLBuehler/mistral.rs)/482 | Blazingly fast LLM inference. |
+| 2731 | 54 | 77 | a day ago | [gritql](https://github.com/getgrit/gritql)/483 | GritQL is a query language for searching, linting, and modifying code. |
+| 2727 | 89 | 55 | 1 year, 4 months ago | [gobang](https://github.com/TaKO8Ki/gobang)/484 | A cross-platform TUI database management tool written in Rust |
+| 2724 | 447 | 258 | 2 years ago | [rusoto](https://github.com/rusoto/rusoto)/485 | AWS SDK for Rust |
+| 2715 | 299 | 42 | 23 hours ago | [syn](https://github.com/dtolnay/syn)/486 | Parser for Rust source code |
+| 2712 | 367 | 65 | 6 days ago | [rust-protobuf](https://github.com/stepancheg/rust-protobuf)/487 | Rust implementation of Google protocol buffers |
+| 2710 | 56 | 46 | 11 months ago | [stork](https://github.com/jameslittle230/stork)/488 | 🔎 Impossibly fast web search, made for static sites. |
+| 2710 | 144 | 51 | a day ago | [sycamore](https://github.com/sycamore-rs/sycamore)/489 | A library for creating reactive web apps in Rust and WebAssembly |
+| 2700 | 111 | 36 | a day ago | [oxipng](https://github.com/shssoichiro/oxipng)/490 | Multithreaded PNG optimizer written in Rust |
+| 2699 | 105 | 90 | 14 days ago | [logos](https://github.com/maciejhirsz/logos)/491 | Create ridiculously fast Lexers |
+| 2695 | 148 | 8 | 11 months ago | [structopt](https://github.com/TeXitoi/structopt)/492 | Parse command line arguments by defining a struct. |
+| 2682 | 84 | 10 | 10 months ago | [tinysearch](https://github.com/tinysearch/tinysearch)/493 | 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm |
+| 2677 | 329 | 6 | 6 months ago | [geph4-client](https://github.com/geph-official/geph4-client)/494 | Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.  |
+| 2675 | 148 | 32 | 7 days ago | [moon](https://github.com/moonrepo/moon)/495 | A build system and monorepo management tool for the web ecosystem, written in Rust. |
+| 2671 | 78 | 36 | 2 years ago | [rslint](https://github.com/rslint/rslint)/496 | A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate |
+| 2667 | 78 | 35 | 12 days ago | [cargo-watch](https://github.com/watchexec/cargo-watch)/497 | Watches over your Cargo project's source. |
+| 2667 | 164 | 106 | a day ago | [gdext](https://github.com/godot-rust/gdext)/498 | Rust bindings for Godot 4 |
+| 2649 | 157 | 66 | 5 days ago | [rkyv](https://github.com/rkyv/rkyv)/499 | Zero-copy deserialization framework for Rust |
+| 2647 | 463 | 244 | 9 days ago | [rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2)/500 | SDL2 bindings for Rust |
+| 2641 | 146 | 135 | 4 hours ago | [pgcat](https://github.com/postgresml/pgcat)/501 | PostgreSQL pooler with sharding, load balancing and failover support. |
+| 2636 | 212 | 136 | 5 days ago | [gluesql](https://github.com/gluesql/gluesql)/502 | GlueSQL is quite sticky. It attaches to anywhere. |
+| 2629 | 311 | 14 | a month ago | [FastNoiseLite](https://github.com/Auburn/FastNoiseLite)/503 | Fast Portable Noise Library - C# C++ C Java HLSL GLSL JavaScript Rust Go  |
+| 2617 | 52 | 23 | 1 year, 5 months ago | [forma](https://github.com/google/forma)/504 | An efficient vector-graphics renderer |
+| 2610 | 53 | 69 | 2 days ago | [erg](https://github.com/erg-lang/erg)/505 | A statically typed language compatible with Python |
+| 2604 | 232 | 6 | 3 days ago | [chainsaw](https://github.com/WithSecureLabs/chainsaw)/506 | Rapidly Search and Hunt through Windows Forensic Artefacts |
+| 2601 | 214 | 76 | 13 days ago | [resvg](https://github.com/RazrFalcon/resvg)/507 | An SVG rendering library. |
+| 2599 | 297 | 123 | 6 days ago | [itertools](https://github.com/rust-itertools/itertools)/508 | Extra iterator adaptors, iterator methods, free functions, and macros. |
+| 2592 | 99 | 8 | 14 days ago | [imessage-exporter](https://github.com/ReagentX/imessage-exporter)/509 | Export iMessage data + run iMessage Diagnostics |
+| 2590 | 352 | 72 | 18 days ago | [imgui-rs](https://github.com/imgui-rs/imgui-rs)/510 | Rust bindings for Dear ImGui |
+| 2587 | 203 | 55 | 30 days ago | [parking_lot](https://github.com/Amanieu/parking_lot)/511 | Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives. |
+| 2586 | 171 | 28 | a month ago | [teller](https://github.com/tellerops/teller)/512 | Cloud native secrets management for developers - never leave your command line for secrets. |
+| 2584 | 68 | 46 | 29 days ago | [cr-sqlite](https://github.com/vlcn-io/cr-sqlite)/513 | Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite |
+| 2583 | 316 | 260 | 7 hours ago | [habitat](https://github.com/habitat-sh/habitat)/514 | Modern applications with built-in automation |
+| 2581 | 261 | 34 | 27 days ago | [bincode](https://github.com/bincode-org/bincode)/515 | A binary encoder / decoder implementation in Rust. |
+| 2572 | 96 | 66 | 2 days ago | [touchHLE](https://github.com/touchHLE/touchHLE)/516 | High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE |
+| 2571 | 61 | 24 | 6 days ago | [jaq](https://github.com/01mf02/jaq)/517 | A jq clone focussed on correctness, speed, and simplicity |
+| 2570 | 205 | 104 | 4 months ago | [notify](https://github.com/notify-rs/notify)/518 | 🔭 Cross-platform filesystem notification library for Rust.  |
+| 2568 | 143 | 111 | 4 months ago | [feather](https://github.com/feather-rs/feather)/519 | A Minecraft server implementation in Rust |
+| 2567 | 146 | 44 | 13 days ago | [photon](https://github.com/silvia-odwyer/photon)/520 | ⚡ Rust/WebAssembly image processing library |
+| 2564 | 648 | 250 | 20 hours ago | [nix](https://github.com/nix-rust/nix)/521 | Rust friendly bindings to *nix APIs |
+| 2561 | 71 | 24 | 2 years ago | [hora](https://github.com/hora-search/hora)/522 | 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .  |
+| 2551 | 488 | 166 | a day ago | [sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs)/523 | Extensible SQL Lexer and Parser for Rust |
+| 2536 | 195 | 116 | 13 days ago | [horaedb](https://github.com/apache/horaedb)/524 | Apache HoraeDB (incubating) is a high-performance, distributed, cloud native time-series database. |
+| 2528 | 66 | 76 | 2 days ago | [niri](https://github.com/YaLTeR/niri)/525 | A scrollable-tiling Wayland compositor. |
+| 2519 | 114 | 63 | 4 days ago | [floem](https://github.com/lapce/floem)/526 | A native Rust UI library with fine-grained reactivity |
+| 2512 | 55 | 29 | 16 days ago | [headway](https://github.com/headwaymaps/headway)/527 | Self-hostable maps stack, powered by OpenStreetMap. |
+| 2511 | 287 | 1 | 1 year, 3 months ago | [OffensiveRust](https://github.com/trickster0/OffensiveRust)/528 | Rust Weaponization for Red Team Engagements. |
+| 2510 | 166 | 38 | 3 months ago | [simple-http-server](https://github.com/TheWaWaR/simple-http-server)/529 | Simple http server in Rust (Windows/Mac/Linux) |
+| 2507 | 182 | 106 | 11 days ago | [differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow)/530 | An implementation of differential dataflow using timely dataflow on Rust. |
+| 2506 | 65 | 34 | 2 months ago | [zenith](https://github.com/bvaisvil/zenith)/531 | Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage |
+| 2498 | 334 | 208 | a month ago | [cpal](https://github.com/RustAudio/cpal)/532 | Cross-platform audio I/O library in pure Rust |
+| 2495 | 66 | 9 | a month ago | [cargo-expand](https://github.com/dtolnay/cargo-expand)/533 | Subcommand to show result of macro expansion |
+| 2493 | 56 | 36 | 3 months ago | [spyglass](https://github.com/spyglass-search/spyglass)/534 | A personal search engine:  Create a searchable library from your personal documents, interests, and more! |
+| 2483 | 205 | 58 | 2 days ago | [rust-bert](https://github.com/guillaume-be/rust-bert)/535 | Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...) |
+| 2481 | 128 | 83 | 3 days ago | [valence](https://github.com/valence-rs/valence)/536 | A Rust framework for building Minecraft servers. |
+| 2473 | 101 | 27 | 12 days ago | [rbspy](https://github.com/rbspy/rbspy)/537 | Sampling CPU profiler for Ruby |
+| 2458 | 209 | 220 | 13 days ago | [uniffi-rs](https://github.com/mozilla/uniffi-rs)/538 | a multi-language bindings generator for rust |
+| 2448 | 121 | 38 | 12 days ago | [cargo-make](https://github.com/sagiegurari/cargo-make)/539 | Rust task runner and build tool. |
+| 2446 | 53 | 9 | 1 year, 4 months ago | [arpchat](https://github.com/kognise/arpchat)/540 | Answering the question nobody asked: what if you wanted to text your friends using only ARP? |
+| 2444 | 73 | 16 | 29 days ago | [kmon](https://github.com/orhun/kmon)/541 | Linux Kernel Manager and Activity Monitor 🐧💻 |
+| 2442 | 222 | 48 | 17 days ago | [specs](https://github.com/amethyst/specs)/542 | Specs - Parallel ECS |
+| 2440 | 53 | 31 | 7 months ago | [viu](https://github.com/atanunq/viu)/543 | Terminal image viewer with native support for iTerm and Kitty |
+| 2435 | 78 | 31 | 5 years ago | [sekey](https://github.com/sekey/sekey)/544 | Use Touch ID / Secure Enclave for SSH Authentication! |
+| 2429 | 207 | 6 | 2 months ago | [RustBook](https://github.com/QMHTMY/RustBook)/545 | A book about Rust Data Structures and Algorithms. |
+| 2424 | 206 | 125 | 2 months ago | [config-rs](https://github.com/mehcode/config-rs)/546 | ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). |
+| 2423 | 772 | 209 | 11 days ago | [ethers-rs](https://github.com/gakonst/ethers-rs)/547 | Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers |
+| 2420 | 51 | 27 | 1 year, 2 months ago | [fleet](https://github.com/dimensionhq/fleet)/548 | 🚀 The blazing fast build tool for Rust. |
+| 2417 | 93 | 47 | 4 months ago | [rage](https://github.com/str4d/rage)/549 | A simple, secure and modern file encryption tool (and Rust library) with small explicit keys, no config options, and UNIX-style composability. |
+| 2412 | 79 | 56 | 2 months ago | [relm](https://github.com/antoyo/relm)/550 | Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust |
+| 2409 | 236 | 169 | 9 months ago | [codelldb](https://github.com/vadimcn/codelldb)/551 | A native debugger extension for VSCode based on LLDB |
+| 2397 | 157 | 195 | 8 hours ago | [kanidm](https://github.com/kanidm/kanidm)/552 | Kanidm: A simple, secure and fast identity management platform |
+| 2391 | 174 | 59 | 5 hours ago | [tarpaulin](https://github.com/xd009642/tarpaulin)/553 | A code coverage tool for Rust projects |
+| 2388 | 85 | 23 | 3 years ago | [wtftw](https://github.com/Kintaro/wtftw)/554 | Window Tiling For The Win. A tiling window manager written in Rust |
+| 2385 | 70 | 45 | 3 days ago | [Kooha](https://github.com/SeaDve/Kooha)/555 | Elegantly record your screen |
+| 2377 | 949 | 264 | 12 days ago | [namada](https://github.com/anoma/namada)/556 | Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy |
+| 2372 | 75 | 28 | 5 days ago | [granian](https://github.com/emmett-framework/granian)/557 | A Rust HTTP server for Python applications |
+| 2370 | 150 | 103 | 11 months ago | [microbin](https://github.com/szabodanika/microbin)/558 | A secure, configurable file-sharing and URL shortening web app written in Rust. |
+| 2369 | 237 | 111 | 6 days ago | [workers-rs](https://github.com/cloudflare/workers-rs)/559 | Write Cloudflare Workers in 100% Rust via WebAssembly |
+| 2365 | 313 | 6 | a day ago | [mini-lsm](https://github.com/skyzh/mini-lsm)/560 | A tutorial of building an LSM-Tree storage engine in a week! |
+| 2361 | 39 | 30 | a month ago | [csvlens](https://github.com/YS-L/csvlens)/561 | Command line csv viewer |
+| 2357 | 81 | 1478 | a month ago | [pop](https://github.com/pop-os/pop)/562 | A project for managing all Pop!_OS sources |
+| 2347 | 90 | 45 | 14 days ago | [gcsf](https://github.com/harababurel/gcsf)/563 | a FUSE file system based on Google Drive |
+| 2330 | 426 | 109 | 21 days ago | [leaf](https://github.com/eycorsican/leaf)/564 | A versatile and efficient proxy framework with nice features suitable for various use cases. |
+| 2326 | 76 | 11 | 1 year, 3 months ago | [nebulet](https://github.com/nebulet/nebulet)/565 | A proof-of-concept microkernel that implements a WebAssembly "usermode" that runs in Ring 0. |
+| 2326 | 84 | 23 | a day ago | [skytable](https://github.com/skytable/skytable)/566 | Skytable is a modern scalable NoSQL database with BlueQL, designed for performance, scalability and flexibility. Skytable gives you spaces, models, data types, complex collections and more to build powerful experiences |
+| 2321 | 95 | 6 | 2 years ago | [rust-doom](https://github.com/cristicbz/rust-doom)/567 | A Doom Renderer written in Rust. |
+| 2320 | 90 | 59 | 12 days ago | [typeshare](https://github.com/1Password/typeshare)/568 | Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI. |
+| 2312 | 266 | 77 | 5 days ago | [hashbrown](https://github.com/rust-lang/hashbrown)/569 | Rust port of Google's SwissTable hash map |
+| 2301 | 674 | 330 | 11 hours ago | [arrow-rs](https://github.com/apache/arrow-rs)/570 | Official Rust implementation of Apache Arrow |
+| 2299 | 72 | 19 | 25 days ago | [gptcommit](https://github.com/zurawiki/gptcommit)/571 | A git prepare-commit-msg hook for authoring commit messages with GPT-3. |
+| 2296 | 596 | 1051 | 5 hours ago | [nearcore](https://github.com/near/nearcore)/572 | Reference client for NEAR Protocol |
+| 2295 | 45 | 23 | 7 years ago | [notty](https://github.com/withoutboats/notty)/573 | A new kind of terminal |
+| 2294 | 46 | 21 | 5 months ago | [elfshaker](https://github.com/elfshaker/elfshaker)/574 | elfshaker stores binary objects efficiently |
+| 2292 | 217 | 87 | 25 days ago | [nixpacks](https://github.com/railwayapp/nixpacks)/575 | App source + Nix packages + Docker = Image |
+| 2292 | 66 | 53 | 17 hours ago | [trustfall](https://github.com/obi1kenobi/trustfall)/576 | A query engine for any combination of data sources. Query your files and APIs as if they were databases! |
+| 2291 | 145 | 44 | 8 months ago | [quickcheck](https://github.com/BurntSushi/quickcheck)/577 | Automated property based testing for Rust (with shrinking). |
+| 2290 | 128 | 43 | 7 months ago | [weggli](https://github.com/weggli-rs/weggli)/578 | weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases. |
+| 2288 | 96 | 16 | 1 year, 4 months ago | [privaxy](https://github.com/Barre/privaxy)/579 | Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. |
+| 2284 | 65 | 32 | 6 hours ago | [qsv](https://github.com/jqnatividad/qsv)/580 | CSVs sliced, diced & analyzed. |
+| 2283 | 41 | 38 | 11 hours ago | [ezno](https://github.com/kaleidawave/ezno)/581 | A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance |
+| 2282 | 126 | 58 | 2 years ago | [loc](https://github.com/cgag/loc)/582 | Count lines of code quickly. |
+| 2273 | 90 | 90 | 2 days ago | [typos](https://github.com/crate-ci/typos)/583 | Source code spell checker |
+| 2271 | 61 | 28 | 2 months ago | [erdtree](https://github.com/solidiquis/erdtree)/584 | A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules. |
+| 2265 | 139 | 21 | a month ago | [lyon](https://github.com/nical/lyon)/585 | 2D graphics rendering on the GPU in rust using path tessellation. |
+| 2264 | 57 | 39 | 1 year, 2 months ago | [rq](https://github.com/dflemstr/rq)/586 | Record Query - A tool for doing record analysis and transformation |
+| 2254 | 62 | 35 | 2 years ago | [diskonaut](https://github.com/imsnif/diskonaut)/587 | Terminal disk space navigator 🔭 |
+| 2253 | 290 | 195 | 21 days ago | [cbindgen](https://github.com/mozilla/cbindgen)/588 | A project for generating C bindings from Rust code |
+| 2249 | 84 | 40 | 21 days ago | [percy](https://github.com/chinedufn/percy)/589 | Build frontend browser apps with Rust + WebAssembly. Supports server side rendering. |
+| 2243 | 259 | 35 | 6 months ago | [shadow-tls](https://github.com/ihciah/shadow-tls)/590 | A proxy to expose real tls handshake to the firewall |
+| 2243 | 67 | 2 | 3 months ago | [engine](https://github.com/Qovery/engine)/591 | The Orchestration Engine To Deliver Self-Service Infrastructure ⚡️ |
+| 2242 | 81 | 33 | 13 days ago | [flume](https://github.com/zesterer/flume)/592 | A safe and fast multi-producer, multi-consumer channel. |
+| 2240 | 674 | 212 | a month ago | [move](https://github.com/move-language/move)/593 | None |
+| 2238 | 51 | 10 | a month ago | [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat)/594 | Find out what takes most of the space in your executable. |
+| 2230 | 125 | 53 | 2 months ago | [gotham](https://github.com/gotham-rs/gotham)/595 | A flexible web framework that promotes stability, safety, security and speed. |
+| 2230 | 207 | 36 | 2 years ago | [vega](https://github.com/rajasekarv/vega)/596 | A new arguably faster implementation of Apache Spark from scratch in Rust |
+| 2228 | 116 | 101 | 7 months ago | [spot](https://github.com/xou816/spot)/597 | Native Spotify client for the GNOME desktop |
+| 2223 | 224 | 23 | 1 year, 8 months ago | [webapp.rs](https://github.com/saschagrunert/webapp.rs)/598 | A web application completely written in Rust. 🌍  |
+| 2217 | 303 | 112 | 2 days ago | [libpnet](https://github.com/libpnet/libpnet)/599 | Cross-platform, low level networking using the Rust programming language. |
+| 2211 | 132 | 60 | 3 days ago | [text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)/600 | A blazing fast inference solution for text embeddings models |
+| 2210 | 216 | 100 | a month ago | [inkwell](https://github.com/TheDan64/inkwell)/601 | It's a New Kind of Wrapper for Exposing LLVM (Safely) |
+| 2207 | 41 | 24 | 3 days ago | [pgmq](https://github.com/tembo-io/pgmq)/602 | A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. |
+| 2206 | 83 | 142 | 7 hours ago | [nickel](https://github.com/tweag/nickel)/603 | Better configuration for less |
+| 2184 | 127 | 59 | 3 months ago | [Symphonia](https://github.com/pdeljanov/Symphonia)/604 | Pure Rust multimedia format demuxing, tag reading, and audio decoding library |
+| 2181 | 52 | 174 | 4 hours ago | [flox](https://github.com/flox/flox)/605 | Developer environments you can take with you |
+| 2180 | 155 | 57 | 3 days ago | [rbatis](https://github.com/rbatis/rbatis)/606 | Rust  Compile Time ORM robustness,async, pure Rust Dynamic SQL |
+| 2174 | 145 | 77 | 4 days ago | [svix-webhooks](https://github.com/svix/svix-webhooks)/607 | The enterprise-ready webhooks service 🦀 |
+| 2163 | 130 | 209 | 11 hours ago | [pixi](https://github.com/prefix-dev/pixi)/608 | Package management made easy |
+| 2149 | 220 | 114 | 18 days ago | [rust-headless-chrome](https://github.com/rust-headless-chrome/rust-headless-chrome)/609 | A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team. |
+| 2146 | 84 | 52 | 3 years ago | [ytop](https://github.com/cjbassi/ytop)/610 | A TUI system monitor written in Rust |
+| 2141 | 420 | 30 | 8 months ago | [artemis](https://github.com/paradigmxyz/artemis)/611 | A simple, modular, and fast framework for writing MEV bots in Rust. |
+| 2137 | 27 | 26 | 3 months ago | [sqlsync](https://github.com/orbitinghail/sqlsync)/612 | SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. |
+| 2130 | 199 | 7 | 1 year, 10 months ago | [writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust)/613 | 《使用Rust编写操作系统》 |
+| 2124 | 110 | 18 | 3 months ago | [indradb](https://github.com/indradb/indradb)/614 | A graph database written in rust |
+| 2119 | 92 | 159 | 5 days ago | [jsr](https://github.com/jsr-io/jsr)/615 | The open-source package registry for modern JavaScript and TypeScript |
+| 2118 | 166 | 34 | 7 hours ago | [volo](https://github.com/cloudwego/volo)/616 | Rust RPC framework with high-performance and strong-extensibility for building micro-services. |
+| 2115 | 70 | 39 | 9 hours ago | [freenet-core](https://github.com/freenet/freenet-core)/617 | Declare your digital independence |
+| 2114 | 87 | 22 | 4 months ago | [perseus](https://github.com/framesurge/perseus)/618 | A state-driven web development framework for Rust with full support for server-side rendering and static generation. |
+| 2113 | 207 | 59 | 3 days ago | [tract](https://github.com/sonos/tract)/619 | Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference |
+| 2099 | 79 | 43 | 3 years ago | [flutter-rs](https://github.com/flutter-rs/flutter-rs)/620 | Build beautiful desktop apps with flutter and rust. 🌠 (wip) |
+| 2094 | 247 | 15 | 2 months ago | [log](https://github.com/rust-lang/log)/621 | Logging implementation for Rust |
+| 2091 | 32 | 43 | 7 days ago | [pylyzer](https://github.com/mtshiba/pylyzer)/622 | A fast static code analyzer & language server for Python |
+| 2086 | 113 | 52 | 5 hours ago | [vello](https://github.com/linebender/vello)/623 | An experimental GPU compute-centric 2D renderer. |
+| 2082 | 136 | 180 | 10 hours ago | [iroh](https://github.com/n0-computer/iroh)/624 | A toolkit for building distributed applications |
+| 2081 | 86 | 20 | 4 days ago | [vim-clap](https://github.com/liuchengxu/vim-clap)/625 | :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim |
+| 2079 | 126 | 161 | 1 year, 4 days ago | [Plume](https://github.com/Plume-org/Plume)/626 | Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror) |
+| 2079 | 132 | 129 | 4 days ago | [autocxx](https://github.com/google/autocxx)/627 | Tool for safe ergonomic Rust/C++ interop driven from existing C++ headers |
+| 2078 | 118 | 28 | a month ago | [termion](https://github.com/redox-os/termion)/628 | Mirror of https://gitlab.redox-os.org/redox-os/termion |
+| 2065 | 109 | 47 | 1 year, 8 months ago | [tunnelto](https://github.com/agrinman/tunnelto)/629 | Expose your local web server to the internet with a public URL. |
+| 2065 | 71 | 42 | 3 days ago | [glicol](https://github.com/chaosprint/glicol)/630 | Graph-oriented live coding language and music/audio DSP library written in Rust |
+| 2062 | 123 | 23 | 5 days ago | [gosub-engine](https://github.com/gosub-browser/gosub-engine)/631 | A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions |
+| 2056 | 86 | 49 | 2 months ago | [cargo-crev](https://github.com/crev-dev/cargo-crev)/632 | A cryptographically verifiable code review system for the cargo (Rust) package manager. |
+| 2053 | 92 | 69 | a month ago | [insta](https://github.com/mitsuhiko/insta)/633 | A snapshot testing library for rust |
+| 2050 | 36 | 32 | 19 hours ago | [quary](https://github.com/quarylabs/quary)/634 | Open-source BI for engineers |
+| 2048 | 178 | 38 | 10 hours ago | [hayabusa](https://github.com/Yamato-Security/hayabusa)/635 | Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs. |
+| 2047 | 71 | 80 | 24 days ago | [ouch](https://github.com/ouch-org/ouch)/636 | Painless compression and decompression in the terminal |
+| 2044 | 71 | 22 | 1 year, 8 months ago | [unreal-rust](https://github.com/MaikKlein/unreal-rust)/637 | Rust integration for Unreal Engine 5 |
+| 2044 | 92 | 2 | 2 days ago | [owshen](https://github.com/OwshenNetwork/owshen)/638 | The Deep Sea |
+| 2042 | 63 | 5 | 2 months ago | [mdcat](https://github.com/swsnr/mdcat)/639 | cat for markdown |
+| 2040 | 213 | 52 | 4 days ago | [html5ever](https://github.com/servo/html5ever)/640 | High-performance browser-grade HTML5 parser |
+| 2040 | 98 | 15 | 3 days ago | [javy](https://github.com/bytecodealliance/javy)/641 | JS to WebAssembly toolchain |
+| 2038 | 42 | 16 | 2 months ago | [tv](https://github.com/alexhallam/tv)/642 | 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment. |
+| 2031 | 139 | 94 | a day ago | [salsa](https://github.com/salsa-rs/salsa)/643 | A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system. |
+| 2025 | 55 | 27 | 5 days ago | [lan-mouse](https://github.com/feschber/lan-mouse)/644 | mouse & keyboard sharing via LAN |
+| 2021 | 90 | 103 | 11 days ago | [nextest](https://github.com/nextest-rs/nextest)/645 | A next-generation test runner for Rust. |
+| 2017 | 85 | 527 | 3 days ago | [kani](https://github.com/model-checking/kani)/646 | Kani Rust Verifier |
+| 2014 | 47 | 16 | 5 years ago | [stdx](https://github.com/brson/stdx)/647 | The missing batteries of Rust |
+| 2014 | 45 | 34 | a day ago | [ludusavi](https://github.com/mtkennerly/ludusavi)/648 | Backup tool for PC game saves |
+| 2013 | 1000 | 196 | 6 days ago | [libc](https://github.com/rust-lang/libc)/649 | Raw bindings to platform APIs for Rust |
+| 2008 | 108 | 53 | 1 year, 3 months ago | [drill](https://github.com/fcsonline/drill)/650 | Drill is an HTTP load testing application written in Rust |
+| 2001 | 79 | 40 | 4 months ago | [kdash](https://github.com/kdash-rs/kdash)/651 | A simple and fast dashboard for Kubernetes |
+| 1992 | 275 | 71 | 1 year, 11 days ago | [CYFS](https://github.com/buckyos/CYFS)/652 | CYFS is the next-generation technology to build real Web3 by upgrading the basic protocol of Web (TCP/IP+DNS+HTTP),is short for CYberFileSystem. https://www.cyfs.com/, cyfs://cyfs/index_en.html. |
+| 1989 | 159 | 137 | 25 days ago | [utoipa](https://github.com/juhaku/utoipa)/653 | Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust |
+| 1987 | 183 | 101 | 4 days ago | [martin](https://github.com/maplibre/martin)/654 | Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling. |
+| 1980 | 20 | 107 | 7 months ago | [sbtc-developer-release](https://github.com/stacks-network/sbtc-developer-release)/655 | sBTC primitives, signer components, helper tools |
+| 1980 | 218 | 79 | 6 days ago | [capnproto-rust](https://github.com/capnproto/capnproto-rust)/656 | Cap'n Proto for Rust |
+| 1980 | 61 | 41 | 3 years ago | [helix](https://github.com/tildeio/helix)/657 | Native Ruby extensions without fear |
+| 1977 | 132 | 38 | 8 days ago | [maud](https://github.com/lambda-fairy/maud)/658 | :pencil: Compile-time HTML templates for Rust |
+| 1975 | 79 | 72 | 1 year, 1 month ago | [wasmer-python](https://github.com/wasmerio/wasmer-python)/659 | 🐍🕸 WebAssembly runtime for Python |
+| 1975 | 36 | 14 | 3 years ago | [nft_ptr](https://github.com/zhuowei/nft_ptr)/660 | C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain |
+| 1975 | 106 | 47 | 4 years ago | [stretch](https://github.com/vislyhq/stretch)/661 | High performance flexbox implementation written in rust |
+| 1968 | 230 | 55 | 2 days ago | [pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark)/662 | An efficient, reliable parser for CommonMark, a standard dialect of Markdown |
+| 1967 | 187 | 39 | 1 year, 3 months ago | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop)/663 | Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust |
+| 1957 | 630 | 304 | 17 hours ago | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)/664 | Rust Bitcoin library |
+| 1956 | 365 | 256 | 4 hours ago | [delta-rs](https://github.com/delta-io/delta-rs)/665 | A native Rust library for Delta Lake, with bindings into Python |
+| 1956 | 61 | 30 | 2 days ago | [swww](https://github.com/LGFae/swww)/666 | A Solution to your Wayland Wallpaper Woes |
+| 1954 | 468 | 22 | 16 days ago | [glutin](https://github.com/rust-windowing/glutin)/667 | A low-level library for OpenGL context creation, written in pure Rust. |
+| 1949 | 265 | 10 | 10 hours ago | [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy)/668 | A purpose-built proxy for the Linkerd service mesh. Written in Rust. |
+| 1947 | 108 | 90 | a month ago | [loom](https://github.com/tokio-rs/loom)/669 | Concurrency permutation testing tool for Rust. |
+| 1944 | 217 | 28 | 1 year, 2 months ago | [Krakatau](https://github.com/Storyyeller/Krakatau)/670 | Java decompiler, assembler, and disassembler |
+| 1935 | 394 | 41 | 1 year, 14 days ago | [jarvis](https://github.com/Priler/jarvis)/671 | Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc. |
+| 1934 | 56 | 1 | 22 days ago | [sauron](https://github.com/ivanceras/sauron)/672 | A versatile web framework and library for building client-side and server-side web applications |
+| 1929 | 110 | 28 | 7 hours ago | [fornjot](https://github.com/hannobraun/fornjot)/673 | Early-stage b-rep CAD kernel, written in the Rust programming language. |
+| 1929 | 47 | 36 | 4 days ago | [samply](https://github.com/mstange/samply)/674 | Command-line sampling profiler for macOS and Linux |
+| 1926 | 115 | 274 | 17 days ago | [scryer-prolog](https://github.com/mthom/scryer-prolog)/675 | A modern Prolog implementation written mostly in Rust. |
+| 1926 | 43 | 32 | 11 hours ago | [stract](https://github.com/StractOrg/stract)/676 | web search done right |
+| 1925 | 123 | 63 | 1 year, 4 months ago | [native-windows-gui](https://github.com/gabdube/native-windows-gui)/677 | A light windows GUI toolkit for rust |
+| 1923 | 54 | 31 | 1 year, 10 months ago | [blueboat](https://github.com/losfair/blueboat)/678 | All-in-one, multi-tenant serverless JavaScript runtime. |
+| 1914 | 95 | 6 | 9 months ago | [left-right](https://github.com/jonhoo/left-right)/679 | A lock-free, read-optimized, concurrency primitive. |
+| 1908 | 91 | 41 | 4 years ago | [warp](https://github.com/dgiagio/warp)/680 | Create self-contained single binary applications |
+| 1904 | 176 | 48 | 4 months ago | [sn0int](https://github.com/kpcyrd/sn0int)/681 | Semi-automatic OSINT framework and package manager |
+| 1897 | 55 | 7 | 5 months ago | [Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide)/682 | Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation.  |
+| 1894 | 292 | 106 | 5 hours ago | [LibAFL](https://github.com/AFLplusplus/LibAFL)/683 | Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ... |
+| 1887 | 176 | 5 | a month ago | [BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer)/684 | 一键安装 Better 系软件 |
+| 1884 | 99 | 71 | 24 days ago | [taffy](https://github.com/DioxusLabs/taffy)/685 | A high performance rust-powered UI layout library |
+| 1881 | 107 | 34 | 7 days ago | [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs)/686 | A small macro for defining lazy evaluated static variables in Rust. |
+| 1881 | 89 | 61 | 1 year, 11 months ago | [wsl-distrod](https://github.com/nullpo-head/wsl-distrod)/687 | Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability. |
+| 1874 | 74 | 76 | 2 days ago | [tabled](https://github.com/zhiburt/tabled)/688 | An easy to use library for pretty print tables of Rust structs and enums. |
+| 1874 | 44 | 115 | 16 hours ago | [rivet](https://github.com/rivet-gg/rivet)/689 | 🔩 Open-source solution to deploy, scale, and operate your multiplayer game |
+| 1868 | 984 | 2 | 6 months ago | [ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course)/690 | Rust Programming Fundamentals - one course to rule them all, one course to find them... |
+| 1866 | 135 | 86 | 5 days ago | [validator](https://github.com/Keats/validator)/691 | Simple validation for Rust structs |
+| 1864 | 78 | 31 | 3 months ago | [ante](https://github.com/jfecher/ante)/692 | A safe, easy systems language |
+| 1864 | 63 | 26 | 2 years ago | [typed-html](https://github.com/bodil/typed-html)/693 | Type checked JSX for Rust |
+| 1856 | 96 | 77 | 2 years ago | [vagga](https://github.com/tailhook/vagga)/694 | Vagga is a containerization tool without daemons |
+| 1850 | 280 | 63 | a day ago | [sysinfo](https://github.com/GuillaumeGomez/sysinfo)/695 | Cross-platform library to fetch system information |
+| 1849 | 184 | 115 | 19 days ago | [embedded-hal](https://github.com/rust-embedded/embedded-hal)/696 | A Hardware Abstraction Layer (HAL) for embedded systems |
+| 1849 | 69 | 20 | 1 year, 8 months ago | [bayard](https://github.com/mosuka/bayard)/697 | A full-text search and indexing server written in Rust. |
+| 1848 | 145 | 23 | 6 days ago | [opencv-rust](https://github.com/twistedfall/opencv-rust)/698 | Rust bindings for OpenCV 3 & 4 |
+| 1847 | 113 | 160 | 2 days ago | [Daft](https://github.com/Eventual-Inc/Daft)/699 | Distributed DataFrame for Python designed for the cloud, powered by Rust |
+| 1847 | 43 | 24 | 2 months ago | [aquascope](https://github.com/cognitive-engineering-lab/aquascope)/700 | Interactive visualizations of Rust at compile-time and run-time |
+| 1846 | 157 | 32 | 3 days ago | [cargo-generate](https://github.com/cargo-generate/cargo-generate)/701 | cargo, make me a project |
+| 1845 | 40 | 27 | 5 months ago | [flowistry](https://github.com/willcrichton/flowistry)/702 | Flowistry is an IDE plugin for Rust that helps you focus on relevant code. |
+| 1844 | 103 | 80 | 13 days ago | [miette](https://github.com/zkat/miette)/703 | Fancy extension for std::error::Error with pretty, detailed diagnostic printing. |
+| 1843 | 145 | 177 | 3 days ago | [connector-x](https://github.com/sfu-db/connector-x)/704 | Fastest library to load data from DB to DataFrames in Rust and Python |
+| 1841 | 94 | 50 | 3 months ago | [kubie](https://github.com/sbstp/kubie)/705 | A more powerful alternative to kubectx and kubens |
+| 1837 | 130 | 65 | 25 days ago | [syntect](https://github.com/trishume/syntect)/706 | Rust library for syntax highlighting using Sublime Text syntax definitions. |
+| 1836 | 73 | 39 | 3 hours ago | [aici](https://github.com/microsoft/aici)/707 | AICI: Prompts as (Wasm) Programs |
+| 1836 | 105 | 6 | 2 days ago | [ntex](https://github.com/ntex-rs/ntex)/708 | framework for composable networking services  |
+| 1835 | 76 | 22 | 20 days ago | [may](https://github.com/Xudong-Huang/may)/709 | rust stackful coroutine library |
+| 1834 | 88 | 44 | 3 days ago | [aurae](https://github.com/aurae-runtime/aurae)/710 | Distributed systems runtime daemon written in Rust. |
+| 1831 | 34 | 20 | 1 year, 5 months ago | [crush](https://github.com/liljencrantz/crush)/711 | Crush is a command line shell that is also a powerful modern programming language. |
+| 1831 | 105 | 25 | 1 year, 5 months ago | [hematite](https://github.com/PistonDevelopers/hematite)/712 | A simple Minecraft written in Rust with the Piston game engine |
+| 1828 | 70 | 12 | 20 days ago | [gnvim](https://github.com/vhakulinen/gnvim)/713 | GUI for neovim, without any web bloat |
+| 1828 | 111 | 73 | 8 days ago | [lychee](https://github.com/lycheeverse/lychee)/714 | ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! |
+| 1813 | 388 | 277 | 2 years ago | [winapi-rs](https://github.com/retep998/winapi-rs)/715 | Rust bindings to Windows API |
+| 1803 | 69 | 34 | a month ago | [fclones](https://github.com/pkolaczk/fclones)/716 | Efficient Duplicate File Finder |
+| 1801 | 134 | 62 | 8 months ago | [rust-cpython](https://github.com/dgrunwald/rust-cpython)/717 | Rust <-> Python bindings |
+| 1801 | 271 | 94 | 3 days ago | [bytes](https://github.com/tokio-rs/bytes)/718 | Utilities for working with bytes |
+| 1799 | 423 | 62 | 1 year, 5 months ago | [code](https://github.com/rust-in-action/code)/719 | Source code for the book Rust in Action |
+| 1792 | 71 | 46 | 19 days ago | [mun](https://github.com/mun-lang/mun)/720 | Source code for the Mun language and runtime. |
+| 1789 | 71 | 6 | 6 years ago | [kanban-app](https://github.com/huytd/kanban-app)/721 | Kanban board built with Rust and Elm |
+| 1787 | 106 | 7 | 6 months ago | [once_cell](https://github.com/matklad/once_cell)/722 | Rust library for single assignment cells and lazy statics without macros |
+| 1786 | 97 | 6 | a month ago | [scraper](https://github.com/causal-agent/scraper)/723 | HTML parsing and querying with CSS selectors |
+| 1786 | 54 | 11 | 3 days ago | [lsp-ai](https://github.com/SilasMarvin/lsp-ai)/724 | LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them. |
+| 1786 | 119 | 113 | 5 days ago | [neqo](https://github.com/mozilla/neqo)/725 | Neqo, an implementation of QUIC in Rust |
+| 1785 | 252 | 93 | a month ago | [grpc-rs](https://github.com/tikv/grpc-rs)/726 | The gRPC library for Rust built on C Core library and futures |
+| 1785 | 149 | 20 | 2 months ago | [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)/727 | ⚡️Lightning-fast linter for .env files. Written in Rust 🦀 |
+| 1785 | 86 | 10 | 11 months ago | [spotify-adblock](https://github.com/abba23/spotify-adblock)/728 | Adblocker for Spotify |
+| 1784 | 65 | 32 | 7 months ago | [cacao](https://github.com/ryanmcgrath/cacao)/729 | Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working! |
+| 1780 | 173 | 42 | 18 hours ago | [chalk](https://github.com/rust-lang/chalk)/730 | An implementation and definition of the Rust trait system using a PROLOG-like logic solver |
+| 1780 | 206 | 29 | 22 days ago | [tungstenite-rs](https://github.com/snapview/tungstenite-rs)/731 | Lightweight stream-based WebSocket implementation for Rust. |
+| 1773 | 114 | 5 | 1 year, 10 months ago | [rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap)/732 | Roadmap to becoming a Rust Web Developer in 2022 |
+| 1770 | 353 | 99 | 2 months ago | [ZoKrates](https://github.com/Zokrates/ZoKrates)/733 | A toolbox for zkSNARKs on Ethereum |
+| 1769 | 80 | 23 | a month ago | [MoonZoon](https://github.com/MoonZoon/MoonZoon)/734 | Rust Fullstack Framework |
+| 1765 | 44 | 12 | 1 year, 10 months ago | [choose](https://github.com/theryangeary/choose)/735 | A human-friendly and fast alternative to cut and (sometimes) awk |
+| 1764 | 422 | 120 | a day ago | [cc-rs](https://github.com/rust-lang/cc-rs)/736 | Rust library for build scripts to compile C/C++ code into a Rust library |
+| 1762 | 114 | 4 | 1 year, 19 days ago | [rsedis](https://github.com/seppo0010/rsedis)/737 | Redis re-implemented in Rust. |
+| 1762 | 89 | 29 | 3 days ago | [parseable](https://github.com/parseablehq/parseable)/738 | Open Source ElasticSearch Alternative. Parseable helps you search and get insights from your logs in the most simple way possible. |
+| 1760 | 47 | 198 | 5 days ago | [nix-installer](https://github.com/DeterminateSystems/nix-installer)/739 | Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs. |
+| 1760 | 231 | 91 | 4 years ago | [RustPrimer](https://github.com/rustcc/RustPrimer)/740 | The Rust primer for beginners. We need native English speaker help us modify the translation. |
+| 1760 | 706 | 136 | 25 days ago | [rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb)/741 | rust wrapper for rocksdb |
+| 1759 | 81 | 15 | 1 year, 8 months ago | [rust-for-node-developers](https://github.com/Mercateo/rust-for-node-developers)/742 | An introduction to the Rust programming language for Node developers. |
+| 1753 | 265 | 31 | a month ago | [helios](https://github.com/a16z/helios)/743 | A fast, secure, and portable light client for Ethereum |
+| 1753 | 189 | 66 | 13 days ago | [lettre](https://github.com/lettre/lettre)/744 | a mailer library for Rust |
+| 1753 | 191 | 11 | 1 year, 9 months ago | [fuso](https://github.com/editso/fuso)/745 | 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption) |
+| 1751 | 309 | 16 | a month ago | [ninja](https://github.com/0x676e67/ninja)/746 | Reverse engineered ChatGPT proxy |
+| 1751 | 154 | 25 | 3 months ago | [vpncloud](https://github.com/dswd/vpncloud)/747 | Peer-to-peer VPN |
+| 1746 | 81 | 104 | a day ago | [iggy](https://github.com/iggy-rs/iggy)/748 | Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. |
+| 1746 | 113 | 30 | 5 months ago | [rust-phf](https://github.com/rust-phf/rust-phf)/749 | Compile time static maps for Rust |
+| 1745 | 113 | 88 | 7 days ago | [bevy-cheatbook](https://github.com/bevy-cheatbook/bevy-cheatbook)/750 | Unofficial Reference Book for the Bevy Game Engine |
+| 1744 | 234 | 30 | 3 days ago | [hashes](https://github.com/RustCrypto/hashes)/751 | Collection of cryptographic hash functions written in pure Rust |
+| 1743 | 81 | 11 | 1 year, 5 months ago | [texture-synthesis](https://github.com/EmbarkStudios/texture-synthesis)/752 | 🎨 Example-based texture synthesis written in Rust 🦀 |
+| 1743 | 83 | 5 | 16 days ago | [async-trait](https://github.com/dtolnay/async-trait)/753 | Type erasure for async trait methods |
+| 1741 | 186 | 65 | 21 days ago | [ash](https://github.com/ash-rs/ash)/754 | Vulkan bindings for Rust |
+| 1739 | 98 | 23 | 1 year, 4 months ago | [github-audio](https://github.com/debugger22/github-audio)/755 | Listen to music generated by events happening across GitHub :octocat: 🎷 |
+| 1738 | 56 | 64 | 3 months ago | [dyon](https://github.com/PistonDevelopers/dyon)/756 | A rusty dynamically typed scripting language |
+| 1736 | 106 | 44 | a month ago | [prisma-client-rust](https://github.com/Brendonovich/prisma-client-rust)/757 | Type-safe database access for Rust |
+| 1734 | 128 | 11 | 1 year, 23 days ago | [smartgpt](https://github.com/Cormanz/smartgpt)/758 | A program that provides LLMs with the ability to complete complex tasks using plugins. |
+| 1731 | 165 | 12 | 3 days ago | [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt)/759 | BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality |
+| 1729 | 114 | 35 | 5 months ago | [pixels](https://github.com/parasyte/pixels)/760 | A tiny hardware-accelerated pixel frame buffer. 🦀 |
+| 1727 | 169 | 92 | 7 days ago | [gtk4-rs](https://github.com/gtk-rs/gtk4-rs)/761 | Rust bindings of GTK 4 |
+| 1726 | 117 | 36 | 8 months ago | [fst](https://github.com/BurntSushi/fst)/762 | Represent large sets and maps compactly with finite state transducers. |
+| 1724 | 135 | 11 | 2 months ago | [champ-r](https://github.com/cangzhang/champ-r)/763 | 🐶 Yet another League of Legends helper |
+| 1723 | 55 | 21 | a day ago | [faer-rs](https://github.com/sarah-ek/faer-rs)/764 | Linear algebra foundation for the Rust programming language |
+| 1715 | 161 | 42 | 1 year, 8 months ago | [mainframer](https://github.com/buildfoundation/mainframer)/765 | Tool for remote builds. Sync project to remote machine, execute command, sync back. |
+| 1715 | 141 | 84 | 4 months ago | [gloo](https://github.com/rustwasm/gloo)/766 | A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM |
+| 1709 | 151 | 163 | 2 days ago | [smithay](https://github.com/Smithay/smithay)/767 | A smithy for rusty wayland compositors |
+| 1708 | 134 | 63 | 1 year, 6 months ago | [redbpf](https://github.com/foniod/redbpf)/768 | Rust library for building and running BPF/eBPF modules |
+| 1708 | 86 | 1 | 1 year, 4 months ago | [learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe)/769 | Rust是未来前端基础设施 |
+| 1702 | 71 | 59 | 2 months ago | [inquire](https://github.com/mikaelmello/inquire)/770 | A Rust library for building interactive prompts |
+| 1700 | 384 | 169 | 3 days ago | [opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)/771 | The Rust OpenTelemetry implementation |
+| 1699 | 38 | 15 | 2 months ago | [rui](https://github.com/audulus/rui)/772 | Declarative Rust UI library |
+| 1695 | 66 | 5 | 1 year, 4 months ago | [bingrep](https://github.com/m4b/bingrep)/773 | like ~~grep~~ UBER, but for binaries |
+| 1692 | 115 | 5 | 4 months ago | [rlua](https://github.com/mlua-rs/rlua)/774 | High level Lua bindings to Rust |
+| 1691 | 226 | 17 | 8 days ago | [tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)/775 | Future-based Tungstenite for Tokio. Lightweight stream-based WebSocket implementation |
+| 1690 | 187 | 0 | 3 years ago | [wgpu-rs](https://github.com/gfx-rs/wgpu-rs)/776 | Rust bindings to wgpu native library |
+| 1689 | 208 | 38 | 1 year, 7 months ago | [zCore](https://github.com/rcore-os/zCore)/777 | Zircon microkernel reimplemented in Rust. |
+| 1682 | 116 | 99 | 5 days ago | [topgrade](https://github.com/topgrade-rs/topgrade)/778 | Upgrade all the things |
+| 1680 | 50 | 26 | 3 months ago | [kondo](https://github.com/tbillington/kondo)/779 | Cleans dependencies and build artifacts from your projects. |
+| 1680 | 43 | 32 | 4 hours ago | [ryot](https://github.com/IgnisDa/ryot)/780 | Roll your own tracker! |
+| 1679 | 189 | 45 | a day ago | [rtic](https://github.com/rtic-rs/rtic)/781 | Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers |
+| 1677 | 34 | 6 | 3 months ago | [reshape](https://github.com/fabianlindfors/reshape)/782 | An easy-to-use, zero-downtime schema migration tool for Postgres |
+| 1675 | 30 | 25 | 3 years ago | [kosmonaut](https://github.com/twilco/kosmonaut)/783 | A web browser engine for the space age :rocket: |
+| 1662 | 97 | 85 | 4 months ago | [dfdx](https://github.com/coreylowman/dfdx)/784 | Deep learning in Rust, with shape checked tensors and neural networks |
+| 1661 | 57 | 52 | 13 days ago | [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)/785 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
+| 1661 | 37 | 1 | 24 days ago | [killport](https://github.com/jkfran/killport)/786 | A command-line tool to easily kill processes running on a specified port. |
+| 1657 | 123 | 39 | 8 months ago | [vigil](https://github.com/valeriansaliou/vigil)/787 | 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.). |
+| 1655 | 139 | 61 | 22 hours ago | [strum](https://github.com/Peternator7/strum)/788 | A small rust library for adding custom derives to enums |
+| 1653 | 70 | 65 | 3 days ago | [canvas](https://github.com/Brooooooklyn/canvas)/789 | High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp. |
+| 1649 | 55 | 7 | a day ago | [pavex](https://github.com/LukeMathWalker/pavex)/790 | An easy-to-use Rust framework for building robust and performant APIs |
+| 1649 | 213 | 131 | 6 days ago | [rodio](https://github.com/RustAudio/rodio)/791 | Rust audio playback library |
+| 1648 | 115 | 233 | 5 years ago | [mentat](https://github.com/mozilla/mentat)/792 | UNMAINTAINED A persistent, relational store inspired by Datomic and DataScript. |
+| 1647 | 64 | 45 | 1 year, 8 months ago | [skia-canvas](https://github.com/samizdatco/skia-canvas)/793 | A GPU-accelerated 2D graphics environment for Node.js |
+| 1645 | 302 | 18 | 2 months ago | [ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust)/794 | ✨ Rust 版 ServerStatus 探针、威力加强版 |
+| 1643 | 36 | 17 | 5 months ago | [tere](https://github.com/mgunyho/tere)/795 | Terminal file explorer |
+| 1643 | 81 | 30 | 3 months ago | [colored](https://github.com/colored-rs/colored)/796 | (Rust) Coloring terminal so simple you already know how to do it ! |
+| 1640 | 350 | 156 | 2 years ago | [openethereum](https://github.com/openethereum/openethereum)/797 | (deprecated) The fast, light, and robust client for the Ethereum mainnet.  |
+| 1637 | 150 | 63 | 3 days ago | [webx](https://github.com/face-hh/webx)/798 | An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more. |
+| 1636 | 22 | 21 | 13 days ago | [sad](https://github.com/ms-jpq/sad)/799 | CLI search and replace | Space Age seD |
+| 1632 | 212 | 87 | 8 months ago | [rust-csv](https://github.com/BurntSushi/rust-csv)/800 | A CSV parser for Rust, with Serde support. |
+| 1631 | 44 | 2 | 16 days ago | [case-studies](https://github.com/dtolnay/case-studies)/801 | Analysis of various tricky Rust code |
+| 1630 | 85 | 28 | 5 days ago | [gitu](https://github.com/altsem/gitu)/802 | A TUI Git client inspired by Magit |
+| 1629 | 82 | 14 | 2 days ago | [vivid](https://github.com/sharkdp/vivid)/803 | A themeable LS_COLORS generator with a rich filetype datebase |
+| 1628 | 377 | 136 | 10 days ago | [git2-rs](https://github.com/rust-lang/git2-rs)/804 | libgit2 bindings for Rust |
+| 1625 | 42 | 12 | 6 months ago | [fastmod](https://github.com/facebookincubator/fastmod)/805 | A fast partial replacement for the codemod tool |
+| 1623 | 38 | 4 | 6 hours ago | [plane](https://github.com/jamsocket/plane)/806 | A distributed system for running WebSocket services at scale. |
+| 1621 | 121 | 44 | 2 years ago | [nphysics](https://github.com/dimforge/nphysics)/807 | 2 and 3-dimensional rigid body physics engine for Rust. |
+| 1620 | 82 | 27 | 12 hours ago | [hermit-rs](https://github.com/hermit-os/hermit-rs)/808 | Hermit for Rust. |
+| 1620 | 59 | 20 | 9 days ago | [charming](https://github.com/yuankunzhang/charming)/809 | A visualization library for Rust |
+| 1619 | 81 | 41 | 4 years ago | [iota](https://github.com/gchp/iota)/810 | A terminal-based text editor written in Rust |
+| 1619 | 152 | 122 | 4 days ago | [proptest](https://github.com/proptest-rs/proptest)/811 | Hypothesis-like property testing for Rust |
+| 1616 | 93 | 104 | 2 years ago | [svgcleaner](https://github.com/RazrFalcon/svgcleaner)/812 | svgcleaner could help you to clean up your SVG files from the unnecessary data. |
+| 1616 | 83 | 92 | 10 days ago | [rune](https://github.com/rune-rs/rune)/813 | An embeddable dynamic programming language for Rust. |
+| 1615 | 59 | 76 | a month ago | [rustic](https://github.com/rustic-rs/rustic)/814 | rustic - fast, encrypted, and deduplicated backups powered by Rust |
+| 1614 | 54 | 7 | a month ago | [rust-quiz](https://github.com/dtolnay/rust-quiz)/815 | Medium to hard Rust questions with explanations |
+| 1613 | 168 | 95 | a month ago | [ureq](https://github.com/algesten/ureq)/816 | A simple, safe HTTP client |
+| 1610 | 320 | 139 | 4 days ago | [cnosdb](https://github.com/cnosdb/cnosdb)/817 | A cloud-native open source distributed time series database with high performance, high compression ratio and high availability. http://www.cnosdb.cloud |
+| 1608 | 553 | 1656 | 5 hours ago | [polkadot-sdk](https://github.com/paritytech/polkadot-sdk)/818 | The Parity Polkadot Blockchain SDK |
+| 1605 | 66 | 36 | 2 months ago | [mCaptcha](https://github.com/mCaptcha/mCaptcha)/819 | A no-nonsense CAPTCHA system with seamless UX | Backend component |
+| 1604 | 79 | 51 | 5 days ago | [cargo-deny](https://github.com/EmbarkStudios/cargo-deny)/820 | ❌ Cargo plugin for linting your dependencies 🦀 |
+| 1602 | 142 | 18 | 6 months ago | [x8](https://github.com/Sh1Yo/x8)/821 | Hidden parameters discovery suite |
+| 1602 | 423 | 68 | 20 days ago | [rand](https://github.com/rust-random/rand)/822 | A Rust library for random number generation. |
+| 1601 | 145 | 2 | 6 months ago | [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait)/823 | A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever) |
+| 1600 | 110 | 20 | a month ago | [cargo-chef](https://github.com/LukeMathWalker/cargo-chef)/824 | A cargo-subcommand to speed up Rust Docker builds using Docker layer caching. |
+| 1600 | 147 | 14 | a month ago | [indexmap](https://github.com/indexmap-rs/indexmap)/825 | A hash table with consistent order and fast iteration; access items by key or sequence index |
+| 1600 | 52 | 32 | 2 years ago | [zz](https://github.com/zetzit/zz)/826 | 🍺🐙  ZetZ a zymbolic verifier and tranzpiler to bare metal C |
+| 1599 | 72 | 53 | a month ago | [ariadne](https://github.com/zesterer/ariadne)/827 | A fancy diagnostics & error reporting crate |
+| 1597 | 45 | 30 | 19 days ago | [cargo-udeps](https://github.com/est31/cargo-udeps)/828 | Find unused dependencies in Cargo.toml |
+| 1597 | 55 | 29 | 3 years ago | [emu](https://github.com/calebwin/emu)/829 | The write-once-run-anywhere GPGPU library for Rust |
+| 1596 | 86 | 66 | 2 months ago | [argh](https://github.com/google/argh)/830 | Rust derive-based argument parsing optimized for code size |
+| 1595 | 153 | 51 | 25 days ago | [calamine](https://github.com/tafia/calamine)/831 | A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets |
+| 1594 | 138 | 95 | 2 years ago | [legion](https://github.com/amethyst/legion)/832 | High performance Rust ECS library |
+| 1593 | 250 | 45 | 2 months ago | [jsonwebtoken](https://github.com/Keats/jsonwebtoken)/833 | JWT lib in rust |
+| 1591 | 102 | 32 | 13 days ago | [afl.rs](https://github.com/rust-fuzz/afl.rs)/834 | 🐇 Fuzzing Rust code with American Fuzzy Lop |
+| 1589 | 177 | 155 | 18 days ago | [fe](https://github.com/ethereum/fe)/835 | Emerging smart contract language for the Ethereum blockchain. |
+| 1587 | 110 | 51 | 6 months ago | [inferno](https://github.com/jonhoo/inferno)/836 | A Rust port of FlameGraph |
+| 1585 | 65 | 62 | 5 hours ago | [spiceai](https://github.com/spiceai/spiceai)/837 | A unified SQL query interface and portable runtime to locally materialize, accelerate, and query datasets from any database, data warehouse, or data lake. |
+| 1584 | 321 | 215 | 9 hours ago | [probe-rs](https://github.com/probe-rs/probe-rs)/838 | A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host |
+| 1584 | 166 | 17 | 15 days ago | [xiu](https://github.com/harlanc/xiu)/839 |  A simple,high performance and secure live media server in pure Rust (RTMP[cluster]/RTSP/WebRTC[whip/whep]/HTTP-FLV/HLS).🦀 |
+| 1583 | 56 | 32 | 20 days ago | [bacon](https://github.com/Canop/bacon)/840 | background rust code check |
+| 1581 | 70 | 28 | a month ago | [kalker](https://github.com/PaddiM8/kalker)/841 | Scientific calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals |
+| 1581 | 100 | 8 | a month ago | [aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter)/842 | Run web applications on AWS Lambda |
+| 1580 | 117 | 88 | 15 days ago | [jumpy](https://github.com/fishfolk/jumpy)/843 | Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶 |
+| 1579 | 80 | 10 | 5 months ago | [plz-cli](https://github.com/m1guelpf/plz-cli)/844 | Copilot for your terminal |
+| 1576 | 71 | 13 | 15 days ago | [LocustDB](https://github.com/cswinter/LocustDB)/845 | Blazingly fast analytics database that will rapidly devour all of your data. |
+| 1571 | 61 | 13 | 11 days ago | [human-panic](https://github.com/rust-cli/human-panic)/846 | Panic messages for humans. |
+| 1566 | 25 | 5 | 1 year, 4 months ago | [glidesort](https://github.com/orlp/glidesort)/847 | A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.  |
+| 1563 | 83 | 12 | a month ago | [rust-embed](https://github.com/pyrossh/rust-embed)/848 | Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev. |
+| 1559 | 50 | 32 | a month ago | [crux](https://github.com/redbadger/crux)/849 | Cross-platform app development in Rust |
+| 1556 | 105 | 6 | 2 days ago | [fltk-rs](https://github.com/fltk-rs/fltk-rs)/850 | Rust bindings for the FLTK GUI library. |
+| 1555 | 28 | 20 | 23 hours ago | [diffsitter](https://github.com/afnanenayet/diffsitter)/851 | A tree-sitter based AST difftool to get meaningful semantic diffs |
+| 1554 | 51 | 26 | 3 years ago | [faster](https://github.com/AdamNiederer/faster)/852 | SIMD for humans |
+| 1554 | 95 | 52 | 5 months ago | [slog](https://github.com/slog-rs/slog)/853 | Structured, contextual, extensible, composable logging for Rust |
+| 1554 | 61 | 1 | 8 days ago | [cfonts](https://github.com/dominikwilkowski/cfonts)/854 | Sexy fonts for the console |
+| 1553 | 208 | 52 | 7 days ago | [risinglight](https://github.com/risinglightdb/risinglight)/855 | An educational OLAP database system. |
+| 1550 | 77 | 27 | 6 days ago | [noseyparker](https://github.com/praetorian-inc/noseyparker)/856 | Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history. |
+| 1550 | 38 | 12 | 10 days ago | [toast](https://github.com/stepchowfun/toast)/857 | Containerize your development and continuous integration environments. 🥂 |
+| 1546 | 129 | 109 | 4 hours ago | [rustsec](https://github.com/rustsec/rustsec)/858 | RustSec API & Tooling |
+| 1545 | 114 | 14 | 1 year, 9 months ago | [rezolus](https://github.com/twitter/rezolus)/859 | Systems performance telemetry |
+| 1541 | 54 | 13 | 21 days ago | [stateright](https://github.com/stateright/stateright)/860 | A model checker for implementing distributed systems. |
+| 1541 | 54 | 38 | a month ago | [wonnx](https://github.com/webonnx/wonnx)/861 | A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web |
+| 1539 | 258 | 117 | 5 months ago | [rust-rdkafka](https://github.com/fede1024/rust-rdkafka)/862 | A fully asynchronous, futures-based Kafka client library for Rust based on librdkafka |
+| 1539 | 155 | 84 | 2 months ago | [lopdf](https://github.com/J-F-Liu/lopdf)/863 | A Rust library for PDF document manipulation. |
+| 1537 | 518 | 70 | 13 days ago | [sway-applications](https://github.com/FuelLabs/sway-applications)/864 | Swaypplications |
+| 1536 | 121 | 30 | 8 months ago | [orange](https://github.com/naaive/orange)/865 | Cross-platform local file search engine. |
+| 1536 | 136 | 50 | 3 years ago | [rudr](https://github.com/oam-dev/rudr)/866 | A Kubernetes implementation of the Open Application Model specification |
+| 1535 | 202 | 114 | a month ago | [rust-bio](https://github.com/rust-bio/rust-bio)/867 | This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All provided implementations are rigorously tested via continuous integration. |
+| 1534 | 68 | 20 | 1 year, 8 months ago | [MCHPRS](https://github.com/MCHPR/MCHPRS)/868 | A multithreaded Minecraft server built for redstone. |
+| 1534 | 189 | 20 | 8 months ago | [rssbot](https://github.com/iovxw/rssbot)/869 | Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人 |
+| 1530 | 74 | 18 | 2 years ago | [zbox](https://github.com/zboxfs/zbox)/870 | Zero-details, privacy-focused in-app file system. |
+| 1530 | 99 | 89 | 4 months ago | [scaphandre](https://github.com/hubblo-org/scaphandre)/871 | ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable ! |
+| 1525 | 125 | 244 | 1 year, 1 month ago | [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack)/872 | Rust projects here are easy to use. There are blog posts for them also. |
+| 1523 | 56 | 16 | 17 hours ago | [piccolo](https://github.com/kyren/piccolo)/873 | An experimental stackless Lua VM implemented in pure Rust |
+| 1522 | 232 | 83 | 6 hours ago | [rumqtt](https://github.com/bytebeamio/rumqtt)/874 | The MQTT ecosystem in rust |
+| 1522 | 134 | 6 | 2 years ago | [robinson](https://github.com/mbrubeck/robinson)/875 | A toy web rendering engine |
+| 1521 | 61 | 5 | 9 months ago | [goscript](https://github.com/oxfeeefeee/goscript)/876 | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
+| 1518 | 20 | 8 | 4 years ago | [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia)/877 | Redirect `.idk` domains using Wikipedia |
+| 1515 | 101 | 272 | 2 months ago | [prusti-dev](https://github.com/viperproject/prusti-dev)/878 | A static verifier for Rust, based on the Viper verification infrastructure. |
+| 1514 | 59 | 54 | 4 days ago | [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs)/879 | Scalable, Low-latency and Hybrid-enabled Vector Search in Postgres. Revolutionize Vector Search, not Database. |
+| 1514 | 273 | 34 | 5 hours ago | [wasmi](https://github.com/wasmi-labs/wasmi)/880 | WebAssembly (Wasm) interpreter. |
+| 1512 | 437 | 29 | a month ago | [rCore-Tutorial-v3](https://github.com/rcore-os/rCore-Tutorial-v3)/881 | Let's write an OS which can run on RISC-V in Rust from scratch! |
+| 1509 | 197 | 17 | 7 months ago | [naga](https://github.com/gfx-rs/naga)/882 | Universal shader translation in Rust |
+| 1509 | 28 | 34 | 26 days ago | [dum](https://github.com/egoist/dum)/883 | An npm scripts runner written in Rust. |
+| 1508 | 162 | 111 | 20 days ago | [deno_lint](https://github.com/denoland/deno_lint)/884 | Blazing fast linter for JavaScript and TypeScript written in Rust |
+| 1508 | 92 | 72 | 3 days ago | [rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift)/885 | Cranelift based backend for rustc |
+| 1506 | 113 | 58 | 3 days ago | [derive_more](https://github.com/JelteF/derive_more)/886 | Some more derive(Trait) options |
+| 1505 | 88 | 56 | 5 days ago | [cosmic-text](https://github.com/pop-os/cosmic-text)/887 | Pure Rust multi-line text handling |
+| 1504 | 100 | 65 | 2 days ago | [oreboot](https://github.com/oreboot/oreboot)/888 | oreboot is a fork of coreboot, with C removed, written in Rust. |
+| 1499 | 224 | 45 | 9 months ago | [rust-websocket](https://github.com/websockets-rs/rust-websocket)/889 | A WebSocket (RFC6455) library written in Rust |
+| 1496 | 172 | 106 | 27 days ago | [rustyline](https://github.com/kkawakam/rustyline)/890 | Readline Implementation in Rust |
+| 1495 | 26 | 13 | 5 years ago | [holyjit](https://github.com/nbp/holyjit)/891 | Generic purpose Just-In-time compiler for Rust. |
+| 1495 | 67 | 5 | 3 years ago | [mesalink](https://github.com/mesalock-linux/mesalink)/892 | OpenSSL compatibility layer for the Rust SSL/TLS stack |
+| 1495 | 133 | 38 | 15 days ago | [nih-plug](https://github.com/robbert-vdh/nih-plug)/893 | Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself |
+| 1494 | 298 | 14 | 5 hours ago | [ic](https://github.com/dfinity/ic)/894 | Internet Computer blockchain source: the client/replica software run by nodes |
+| 1491 | 88 | 45 | a day ago | [netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk)/895 | Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器 |
+| 1491 | 125 | 19 | 2 months ago | [phantun](https://github.com/dndx/phantun)/896 | Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs. |
+| 1489 | 63 | 23 | a month ago | [create-rust-app](https://github.com/Wulf/create-rust-app)/897 | Set up a modern rust+react web app by running one command.  |
+| 1489 | 109 | 98 | 1 year, 5 months ago | [bracket-lib](https://github.com/amethyst/bracket-lib)/898 | The Roguelike Toolkit (RLTK), implemented for Rust. |
+| 1485 | 115 | 27 | 2 days ago | [fantoccini](https://github.com/jonhoo/fantoccini)/899 | A high-level API for programmatically interacting with web pages through WebDriver. |
+| 1485 | 47 | 8 | 10 days ago | [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool)/900 | Native cross-platform full feature terminal-based sequence editor for git interactive rebase. |
+| 1483 | 86 | 34 | 5 months ago | [click](https://github.com/databricks/click)/901 | The "Command Line Interactive Controller for Kubernetes" |
+| 1481 | 71 | 28 | 12 days ago | [cargo-mobile2](https://github.com/tauri-apps/cargo-mobile2)/902 | Rust on mobile made easy! |
+| 1478 | 108 | 92 | 4 months ago | [cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz)/903 | Command line helpers for fuzzing |
+| 1477 | 49 | 31 | 4 days ago | [Egregoria](https://github.com/Uriopass/Egregoria)/904 | 3D City Builder without a grid |
+| 1474 | 176 | 55 | 18 hours ago | [tao](https://github.com/tauri-apps/tao)/905 | The TAO of cross-platform windowing. A library in Rust built for Tauri. |
+| 1474 | 58 | 61 | 16 days ago | [vizia](https://github.com/vizia/vizia)/906 | A declarative GUI library written in Rust |
+| 1471 | 44 | 16 | a month ago | [termscp](https://github.com/veeso/termscp)/907 | 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB |
+| 1470 | 174 | 83 | 1 year, 1 month ago | [kiss3d](https://github.com/sebcrozet/kiss3d)/908 | Keep it simple, stupid 3d graphics engine for Rust. |
+| 1468 | 464 | 47 | 9 hours ago | [revm](https://github.com/bluealloy/revm)/909 | Ethereum Virtual Machine written in rust that is fast and simple to use |
+| 1467 | 164 | 101 | 18 hours ago | [miniquad](https://github.com/not-fl3/miniquad)/910 | Cross platform rendering in Rust |
+| 1466 | 116 | 145 | 2 months ago | [dozer](https://github.com/getdozer/dozer)/911 | Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.  |
+| 1465 | 111 | 47 | 2 years ago | [im-rs](https://github.com/bodil/im-rs)/912 | Assorted immutable collection datatypes for Rust |
+| 1462 | 30 | 13 | 29 days ago | [diamond-types](https://github.com/josephg/diamond-types)/913 | The world's fastest CRDT. WIP. |
+| 1459 | 79 | 22 | 11 months ago | [r2d2](https://github.com/sfackler/r2d2)/914 | A generic connection pool for Rust |
+| 1459 | 187 | 126 | 12 days ago | [geo](https://github.com/georust/geo)/915 | Geospatial primitives and algorithms for Rust |
+| 1458 | 218 | 125 | 10 months ago | [ws-rs](https://github.com/housleyjk/ws-rs)/916 | Lightweight, event-driven WebSockets for Rust. |
+| 1458 | 64 | 46 | 5 days ago | [StyLua](https://github.com/JohnnyMorganz/StyLua)/917 | An opinionated Lua code formatter |
+| 1458 | 64 | 39 | a month ago | [modelfox](https://github.com/modelfoxdotdev/modelfox)/918 | ModelFox makes it easy to train, deploy, and monitor machine learning models. |
+| 1453 | 444 | 120 | 5 hours ago | [cairo](https://github.com/starkware-libs/cairo)/919 | Cairo is the first Turing-complete language for creating provable programs for general computation. |
+| 1449 | 119 | 98 | 2 years ago | [surf](https://github.com/http-rs/surf)/920 | Fast and friendly HTTP client framework for async Rust |
+| 1448 | 33 | 2 | 3 days ago | [jql](https://github.com/yamafaktory/jql)/921 | A JSON Query Language CLI tool |
+| 1444 | 138 | 63 | 2 months ago | [ion](https://github.com/redox-os/ion)/922 | Mirror of https://gitlab.redox-os.org/redox-os/ion |
+| 1444 | 41 | 40 | 1 year, 10 months ago | [zee](https://github.com/zee-editor/zee)/923 | A modern text editor for the terminal written in Rust |
+| 1439 | 307 | 3 | a day ago | [hftbacktest](https://github.com/nkaz001/hftbacktest)/924 | A high-frequency trading and market-making backtesting tool in Python and Rust, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books, with real-world crypto market-making examples for Binance Futures |
+| 1438 | 54 | 62 | 4 days ago | [josh](https://github.com/josh-project/josh)/925 | Just One Single History |
+| 1438 | 49 | 43 | a day ago | [texlab](https://github.com/latex-lsp/texlab)/926 | An implementation of the Language Server Protocol for LaTeX |
+| 1437 | 87 | 55 | 11 days ago | [cached](https://github.com/jaemk/cached)/927 | Rust cache structures and easy function memoization |
+| 1436 | 460 | 109 | 9 days ago | [rust-web3](https://github.com/tomusdrw/rust-web3)/928 | Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.  ENS address: rust-web3.eth |
+| 1436 | 102 | 12 | a day ago | [uiua](https://github.com/uiua-lang/uiua)/929 | A stack-based array programming language |
+| 1434 | 173 | 52 | a month ago | [heapless](https://github.com/rust-embedded/heapless)/930 | Heapless, `static` friendly data structures |
+| 1433 | 490 | 107 | 11 days ago | [discovery](https://github.com/rust-embedded/discovery)/931 | Discover the world of microcontrollers through Rust! |
+| 1433 | 116 | 46 | 2 years ago | [tensorbase](https://github.com/tensorbase/tensorbase)/932 | TensorBase is a new big data warehousing with modern efforts. |
+| 1428 | 140 | 109 | 4 years ago | [failure](https://github.com/rust-lang-deprecated/failure)/933 | Error management |
+| 1428 | 79 | 44 | 3 months ago | [lol-html](https://github.com/cloudflare/lol-html)/934 | Low output latency streaming HTML parser/rewriter with CSS selector-based API |
+| 1428 | 142 | 30 | 8 days ago | [glam-rs](https://github.com/bitshifter/glam-rs)/935 | A simple and fast linear algebra library for games and graphics |
+| 1427 | 59 | 81 | 1 year, 5 months ago | [stevenarella](https://github.com/iceiix/stevenarella)/936 | Multi-protocol Minecraft-compatible client written in Rust |
+| 1426 | 86 | 58 | 5 years ago | [panopticon](https://github.com/das-labor/panopticon)/937 | A libre cross-platform disassembler. |
+| 1425 | 114 | 51 | 3 years ago | [Tickeys](https://github.com/yingDev/Tickeys)/938 | Instant audio feedback for typing. macOS version. (Rust)  |
+| 1423 | 127 | 39 | 6 days ago | [mlua](https://github.com/mlua-rs/mlua)/939 | High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support |
+| 1423 | 109 | 582 | 7 days ago | [joystream](https://github.com/Joystream/joystream)/940 | Joystream Monorepo |
+| 1421 | 37 | 104 | 2 years ago | [redshirt](https://github.com/tomaka/redshirt)/941 | 🧑‍🔬 Operating system |
+| 1419 | 79 | 5 | 5 months ago | [rjvm](https://github.com/andreabergia/rjvm)/942 | A tiny JVM written in Rust. Learning project |
+| 1419 | 51 | 60 | 8 months ago | [orogene](https://github.com/orogene/orogene)/943 | Makes `node_modules/` happen. Fast. No fuss. |
+| 1418 | 252 | 24 | 11 days ago | [learn-wgpu](https://github.com/sotrh/learn-wgpu)/944 | Guide for using gfx-rs's wgpu library. |
+| 1415 | 62 | 39 | 16 days ago | [moka](https://github.com/moka-rs/moka)/945 | A high performance concurrent caching library for Rust |
+| 1412 | 27 | 5 | 2 months ago | [lapdev](https://github.com/lapce/lapdev)/946 | Self-Hosted Remote Dev Environment |
+| 1411 | 106 | 32 | 21 days ago | [rust-peg](https://github.com/kevinmehall/rust-peg)/947 | Parsing Expression Grammar (PEG) parser generator for Rust |
+| 1411 | 36 | 11 | 19 days ago | [folderify](https://github.com/lgarron/folderify)/948 | :file_folder: Generate pixel-perfect macOS folder icons in the native style. |
+| 1407 | 517 | 20 | 2 days ago | [rust](https://github.com/exercism/rust)/949 | Exercism exercises in Rust. |
+| 1403 | 154 | 16 | 5 hours ago | [mongo-rust-driver](https://github.com/mongodb/mongo-rust-driver)/950 | The official MongoDB Rust Driver |
+| 1403 | 54 | 36 | 6 days ago | [windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs)/951 | Platform that enables Windows driver development in Rust. Developed by Surface.  |
+| 1402 | 79 | 10 | 23 hours ago | [minijinja](https://github.com/mitsuhiko/minijinja)/952 | MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2 |
+| 1398 | 237 | 163 | 5 hours ago | [shadow](https://github.com/shadow/shadow)/953 | Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux. |
+| 1398 | 81 | 23 | 4 months ago | [kibi](https://github.com/ilai-deutel/kibi)/954 | A text editor in ≤1024 lines of code, written in Rust |
+| 1397 | 81 | 29 | a month ago | [polaris](https://github.com/agersant/polaris)/955 | Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device. |
+| 1397 | 147 | 152 | 3 days ago | [Av1an](https://github.com/master-of-zen/Av1an)/956 | Cross-platform command-line AV1 / VP9 / HEVC / H264  encoding framework with per scene quality encoding |
+| 1396 | 58 | 28 | 2 months ago | [blackjack](https://github.com/setzer22/blackjack)/957 | A procedural, node-based modelling tool, made in rust 🦀 |
+| 1395 | 108 | 30 | a day ago | [kcl](https://github.com/kcl-lang/kcl)/958 | KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io |
+| 1392 | 265 | 4 | a month ago | [realm](https://github.com/zhboner/realm)/959 | A network relay tool |
+| 1392 | 96 | 53 | 19 days ago | [matano](https://github.com/matanolabs/matano)/960 | Open source security data lake for threat hunting, detection & response, and cybersecurity analytics at petabyte scale on AWS |
+| 1390 | 107 | 11 | 3 years ago | [atm-cli](https://github.com/allthemusicllc/atm-cli)/961 | Command line tool for generating and working with MIDI files. |
+| 1389 | 180 | 191 | 3 days ago | [datafusion-ballista](https://github.com/apache/datafusion-ballista)/962 | Apache DataFusion Ballista Distributed Query Engine |
+| 1389 | 88 | 94 | 1 year, 16 days ago | [zemeroth](https://github.com/ozkriff/zemeroth)/963 | 😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust |
+| 1388 | 66 | 31 | 8 days ago | [puffin](https://github.com/EmbarkStudios/puffin)/964 | 🐦 Friendly little instrumentation profiler for Rust 🦀 |
+| 1387 | 48 | 69 | a day ago | [cargo-binstall](https://github.com/cargo-bins/cargo-binstall)/965 | Binary installation for rust projects |
+| 1385 | 46 | 59 | 4 hours ago | [mprocs](https://github.com/pvolok/mprocs)/966 | Run multiple commands in parallel |
+| 1383 | 45 | 11 | 15 days ago | [sniprun](https://github.com/michaelb/sniprun)/967 | A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages |
+| 1382 | 76 | 49 | a day ago | [spotify-player](https://github.com/aome510/spotify-player)/968 | A Spotify player in the terminal with full feature parity |
+| 1381 | 85 | 33 | a day ago | [luminal](https://github.com/jafioti/luminal)/969 | Deep learning at the speed of light. |
+| 1381 | 43 | 19 | 14 days ago | [krunvm](https://github.com/containers/krunvm)/970 | Create microVMs from OCI images |
+| 1380 | 137 | 71 | 10 days ago | [rustix](https://github.com/bytecodealliance/rustix)/971 | Safe Rust bindings to POSIX-ish APIs |
+| 1380 | 59 | 29 | 19 hours ago | [mockall](https://github.com/asomers/mockall)/972 | A powerful mock object library for Rust |
+| 1378 | 219 | 10 | 3 months ago | [command-line-rust](https://github.com/kyclark/command-line-rust)/973 | Code for Command-Line Rust (O'Reilly, 2022, ISBN 9781098109417) https://learning.oreilly.com/library/view/command-line-rust/9781098109424/ |
+| 1377 | 89 | 15 | 4 years ago | [kernel](https://github.com/intermezzOS/kernel)/974 | A hobby operating system, in Rust |
+| 1376 | 296 | 110 | 7 years ago | [rust-crypto](https://github.com/DaGenix/rust-crypto)/975 | A (mostly) pure-Rust implementation of various cryptographic algorithms. |
+| 1376 | 1196 | 31 | a day ago | [crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)/976 | A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems |
+| 1375 | 124 | 60 | 2 months ago | [grpc-rust](https://github.com/stepancheg/grpc-rust)/977 | Rust implementation of gRPC |
+| 1374 | 69 | 29 | 14 days ago | [fontdue](https://github.com/mooman219/fontdue)/978 | The fastest font renderer in the world, written in pure rust. |
+| 1373 | 68 | 89 | 13 days ago | [taskwarrior-tui](https://github.com/kdheepak/taskwarrior-tui)/979 | `taskwarrior-tui`: A terminal user interface for taskwarrior |
+| 1373 | 59 | 40 | 6 years ago | [PumpkinDB](https://github.com/PumpkinDB/PumpkinDB)/980 | Immutable Ordered Key-Value Database Engine |
+| 1370 | 49 | 22 | a month ago | [sqlite-zstd](https://github.com/phiresky/sqlite-zstd)/981 | Transparent dictionary-based row-level compression for SQLite |
+| 1369 | 288 | 183 | 3 days ago | [starcoin](https://github.com/starcoinorg/starcoin)/982 | Starcoin - A Move smart contract blockchain network that scales by layering |
+| 1369 | 35 | 4 | 1 year, 1 month ago | [rustle](https://github.com/pintariching/rustle)/983 | Svelte compiler rewritten in Rust |
+| 1368 | 98 | 49 | a day ago | [kanata](https://github.com/jtroo/kanata)/984 | Improve keyboard comfort and usability with advanced customization |
+| 1365 | 71 | 75 | 9 days ago | [y-crdt](https://github.com/y-crdt/y-crdt)/985 | Rust port of Yjs |
+| 1365 | 135 | 6 | 4 days ago | [cs431](https://github.com/kaist-cp/cs431)/986 | None |
+| 1361 | 71 | 4 | 11 months ago | [node-to-rust](https://github.com/jsoverson/node-to-rust)/987 | None |
+| 1358 | 32 | 4 | 10 months ago | [git-rs](https://github.com/chrisdickinson/git-rs)/988 | git, implemented in rust, for fun and education :crab: |
+| 1357 | 63 | 52 | 8 days ago | [Relm4](https://github.com/Relm4/Relm4)/989 |  Build truly native applications with ease! |
+| 1356 | 124 | 41 | 11 days ago | [rust-skia](https://github.com/rust-skia/rust-skia)/990 | Rust Bindings for the Skia Graphics Library |
+| 1355 | 66 | 53 | 3 months ago | [cargo-geiger](https://github.com/geiger-rs/cargo-geiger)/991 | Detects usage of unsafe Rust in a Rust crate and its dependencies. |
+| 1354 | 103 | 101 | 3 months ago | [synth](https://github.com/shuttle-hq/synth)/992 | The Declarative Data Generator |
+| 1348 | 41 | 81 | 3 months ago | [BoilR](https://github.com/PhilipK/BoilR)/993 | Synchronize games from other platforms into your Steam library |
+| 1348 | 37 | 32 | 1 year, 3 months ago | [mvsqlite](https://github.com/losfair/mvsqlite)/994 | Distributed, MVCC SQLite that runs on FoundationDB. |
+| 1347 | 233 | 224 | 28 days ago | [occlum](https://github.com/occlum/occlum)/995 | Occlum is a memory-safe, multi-process library OS for Intel SGX |
+| 1344 | 70 | 9 | a day ago | [Loungy](https://github.com/MatthiasGrandl/Loungy)/996 | Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. |
+| 1342 | 79 | 5 | 5 months ago | [gameboy](https://github.com/mohanson/gameboy)/997 | Full featured Cross-platform GameBoy emulator by Rust. Forever boys!. |
+| 1341 | 58 | 12 | 6 months ago | [dnspeep](https://github.com/jvns/dnspeep)/998 | spy on the DNS queries your computer is making |
+| 1341 | 727 | 222 | a month ago | [rust-openssl](https://github.com/sfackler/rust-openssl)/999 | OpenSSL bindings for Rust |
+| 1339 | 63 | 1 | 5 months ago | [type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)/1000 | Learn Rust black magics by implementing an expression framework in database systems |
