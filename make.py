@@ -151,7 +151,7 @@ def generate_readme(language: str, info_provider: RepositoryInformationProvider)
             result.append(TABLE_ITEM_MASK.format(n_stars=item.get(KEY_STAR_COUNT),
                                                  n_forks=item.get(KEY_FORK_COUNT),
                                                  n_issues=item.get(KEY_ISSUE_COUNT),
-                                                 name=item.get(KEY_REPOSITORY_NAME),
+                                                 name=item.get(KEY_REPOSITORY_NAME, "None")[:25],  # limit repository name to 25 chars to keep the table layot from breaking.
                                                  url=item.get(KEY_URL),
                                                  description=desc,
                                                  place=place,
