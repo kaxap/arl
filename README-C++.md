@@ -1,4 +1,4 @@
-## This is a most popular repository list for C sorted by number of stars
+## This is a most popular repository list for C++ sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
 | 181216 | 53800 | 422 | a day ago | [linux](https://github.com/torvalds/linux)/1 | Linux kernel source tree |
@@ -6,19 +6,19 @@
 | 71682 | 5922 | 190 | 13 hours ago | [netdata](https://github.com/netdata/netdata)/3 | Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed! |
 | 66825 | 23783 | 2513 | 5 days ago | [redis](https://github.com/redis/redis)/4 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. |
 | 62512 | 4076 | 801 | 4 months ago | [Ventoy](https://github.com/ventoy/Ventoy)/5 | A new bootable USB solution. |
-| 59985 | 7943 | 758 | 4 days ago | [obs-studio](https://github.com/obsproject/obs-studio)/6 | OBS Studio - Free and open source software for live streaming and screen recording |
+| 59984 | 7943 | 758 | 4 days ago | [obs-studio](https://github.com/obsproject/obs-studio)/6 | OBS Studio - Free and open source software for live streaming and screen recording |
 | 52311 | 25607 | 201 | a day ago | [git](https://github.com/git/git)/7 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. |
 | 45651 | 12126 | 3 | 4 days ago | [FFmpeg](https://github.com/FFmpeg/FFmpeg)/8 | Mirror of https://git.ffmpeg.org/ffmpeg.git |
 | 38149 | 7743 | 1261 | a day ago | [php-src](https://github.com/php/php-src)/9 | The PHP Interpreter |
 | 37901 | 2939 | 196 | 3 years ago | [wrk](https://github.com/wg/wrk)/10 | Modern HTTP benchmarking tool |
-| 35769 | 6409 | 48 | 18 hours ago | [curl](https://github.com/curl/curl)/11 | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features |
+| 35768 | 6409 | 48 | 18 hours ago | [curl](https://github.com/curl/curl)/11 | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features |
 | 35155 | 2117 | 44 | a day ago | [tmux](https://github.com/tmux/tmux)/12 | tmux source code |
 | 32514 | 8125 | 2877 | 3 years ago | [ijkplayer](https://github.com/bilibili/ijkplayer)/13 | Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support. |
 | 30444 | 1575 | 456 | 21 days ago | [jq](https://github.com/jqlang/jq)/14 | Command-line JSON processor |
 | 30023 | 3371 | 128 | 4 months ago | [my-tv](https://github.com/lizongying/my-tv)/15 | 我的电视 电视直播软件，安装即可使用 |
 | 29747 | 19513 | 772 | a day ago | [lede](https://github.com/coolsnowwolf/lede)/16 | Lean's LEDE source |
 | 29086 | 2579 | 12 | 5 days ago | [rufus](https://github.com/pbatard/rufus)/17 | The Reliable USB Formatting Utility |
-| 28295 | 2901 | 941 | 17 hours ago | [mpv](https://github.com/mpv-player/mpv)/18 | 🎥 Command line video player |
+| 28295 | 2901 | 941 | 16 hours ago | [mpv](https://github.com/mpv-player/mpv)/18 | 🎥 Command line video player |
 | 27192 | 3297 | 122 | 1 year, 1 month ago | [os-tutorial](https://github.com/cfenollosa/os-tutorial)/19 | How to create an OS from scratch |
 | 26748 | 7713 | 274 | 8 days ago | [stb](https://github.com/nothings/stb)/20 | stb single-file public domain libraries for C/C++ |
 | 26143 | 1425 | 556 | 3 years ago | [the_silver_searcher](https://github.com/ggreer/the_silver_searcher)/21 | A code-searching tool similar to ack, but faster. |
@@ -41,10 +41,10 @@
 | 20615 | 2996 | 873 | a day ago | [radare2](https://github.com/radareorg/radare2)/38 | UNIX-like reverse engineering framework and command-line toolset |
 | 20490 | 3869 | 982 | 13 days ago | [bcc](https://github.com/iovisor/bcc)/39 | BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more |
 | 20106 | 10434 | 2904 | a day ago | [openwrt](https://github.com/openwrt/openwrt)/40 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
-| 19387 | 3721 | 174 | 9 months ago | [mimikatz](https://github.com/gentilkiwi/mimikatz)/41 | A little tool to play with Windows security |
+| 19387 | 3720 | 174 | 9 months ago | [mimikatz](https://github.com/gentilkiwi/mimikatz)/41 | A little tool to play with Windows security |
 | 19366 | 3312 | 50 | 3 years ago | [HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS)/42 | A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。 |
 | 19314 | 7733 | 1637 | a day ago | [micropython](https://github.com/micropython/micropython)/43 | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems |
-| 19236 | 760 | 2 | 3 days ago | [nnn](https://github.com/jarun/nnn)/44 | n³ The unorthodox terminal file manager |
+| 19236 | 760 | 2 | 2 days ago | [nnn](https://github.com/jarun/nnn)/44 | n³ The unorthodox terminal file manager |
 | 19195 | 4371 | 40 | 1 year, 30 days ago | [C](https://github.com/TheAlgorithms/C)/45 | Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes. |
 | 18418 | 1112 | 409 | 6 days ago | [goaccess](https://github.com/allinurl/goaccess)/46 | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. |
 | 18283 | 626 | 151 | 5 days ago | [cosmopolitan](https://github.com/jart/cosmopolitan)/47 | build-once run-anywhere c library |
@@ -53,10 +53,10 @@
 | 17668 | 1338 | 280 | a day ago | [HandBrake](https://github.com/HandBrake/HandBrake)/50 | HandBrake's main development repository  |
 | 17360 | 2066 | 166 | 4 months ago | [llama2.c](https://github.com/karpathy/llama2.c)/51 | Inference Llama 2 in one file of pure C |
 | 17351 | 1442 | 90 | 5 days ago | [unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)/52 | Flipper Zero Unleashed Firmware |
-| 17044 | 901 | 604 | 2 days ago | [ish](https://github.com/ish-app/ish)/53 | Linux shell for iOS |
+| 17043 | 901 | 604 | 2 days ago | [ish](https://github.com/ish-app/ish)/53 | Linux shell for iOS |
 | 16971 | 632 | 293 | 6 hours ago | [valkey](https://github.com/valkey-io/valkey)/54 | A flexible distributed key-value datastore that supports both caching and beyond caching workloads. |
 | 16475 | 3230 | 137 | 3 hours ago | [lvgl](https://github.com/lvgl/lvgl)/55 | Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.  |
-| 16105 | 4592 | 1 | 7 hours ago | [postgres](https://github.com/postgres/postgres)/56 | Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch |
+| 16105 | 4592 | 1 | 6 hours ago | [postgres](https://github.com/postgres/postgres)/56 | Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch |
 | 15804 | 359 | 46 | 5 months ago | [blurhash](https://github.com/woltapp/blurhash)/57 | A very compact representation of a placeholder for an image. |
 | 15524 | 906 | 8 | 28 days ago | [Mailspring](https://github.com/Foundry376/Mailspring)/58 | :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux. |
 | 15346 | 2501 | 181 | 11 days ago | [kcp](https://github.com/skywind3000/kcp)/59 | :zap: KCP - A Fast and Reliable ARQ Protocol |
@@ -75,7 +75,7 @@
 | 13450 | 2591 | 141 | 1 year, 10 months ago | [esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)/72 | Affordable WiFi hacking platform for testing and learning |
 | 13434 | 3512 | 1138 | 6 months ago | [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)/73 | NGINX-based Media Streaming Server |
 | 13357 | 2104 | 6 | 12 days ago | [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)/74 | OpenCore bootloader |
-| 13348 | 1406 | 6 | a day ago | [ecapture](https://github.com/gojue/ecapture)/75 | Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. |
+| 13348 | 1406 | 6 | 23 hours ago | [ecapture](https://github.com/gojue/ecapture)/75 | Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64. |
 | 13310 | 4200 | 21 | 3 days ago | [skynet](https://github.com/cloudwu/skynet)/76 | A lightweight online game framework |
 | 13229 | 612 | 78 | a day ago | [rofi](https://github.com/davatorium/rofi)/77 | Rofi: A window switcher, application launcher and dmenu replacement |
 | 13227 | 3782 | 2528 | 8 hours ago | [systemd](https://github.com/systemd/systemd)/78 | The systemd System and Service Manager  |
@@ -108,7 +108,7 @@
 | 10878 | 3002 | 143 | a day ago | [openvpn](https://github.com/OpenVPN/openvpn)/105 | OpenVPN  is  an open source VPN daemon |
 | 10811 | 1409 | 7 | 3 days ago | [wcdb](https://github.com/Tencent/wcdb)/106 | WCDB is a cross-platform database framework developed by WeChat. |
 | 10762 | 3208 | 239 | a month ago | [cJSON](https://github.com/DaveGamble/cJSON)/107 | Ultralightweight JSON parser in ANSI C |
-| 10758 | 6562 | 2734 | 2 days ago | [zephyr](https://github.com/zephyrproject-rtos/zephyr)/108 | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
+| 10758 | 6562 | 2735 | 2 days ago | [zephyr](https://github.com/zephyrproject-rtos/zephyr)/108 | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
 | 10724 | 614 | 252 | 3 years ago | [libui](https://github.com/andlabs/libui)/109 | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. |
 | 10570 | 1744 | 1502 | a day ago | [zfs](https://github.com/openzfs/zfs)/110 | OpenZFS on Linux and FreeBSD |
 | 10556 | 668 | 1066 | a month ago | [citus](https://github.com/citusdata/citus)/111 | Distributed PostgreSQL as an extension |
@@ -118,8 +118,8 @@
 | 10426 | 1390 | 124 | 3 years ago | [Craft](https://github.com/fogleman/Craft)/115 | A simple Minecraft clone written in C using modern OpenGL (shaders). |
 | 10397 | 405 | 7 | 8 hours ago | [fastfetch](https://github.com/fastfetch-cli/fastfetch)/116 | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
 | 10349 | 1390 | 30 | 11 days ago | [lz4](https://github.com/lz4/lz4)/117 | Extremely Fast Compression algorithm |
-| 10317 | 5541 | 0 | 2 days ago | [qemu](https://github.com/qemu/qemu)/118 | Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. |
-| 10246 | 1827 | 2822 | 14 hours ago | [RetroArch](https://github.com/libretro/RetroArch)/119 | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. |
+| 10316 | 5541 | 0 | 2 days ago | [qemu](https://github.com/qemu/qemu)/118 | Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. |
+| 10246 | 1827 | 2822 | 13 hours ago | [RetroArch](https://github.com/libretro/RetroArch)/119 | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. |
 | 10218 | 2090 | 465 | 10 hours ago | [john](https://github.com/openwall/john)/120 | John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs |
 | 10116 | 2400 | 872 | 11 days ago | [nmap](https://github.com/nmap/nmap)/121 | Nmap - the Network Mapper. Github mirror of official SVN repository. |
 | 10079 | 4231 | 25 | 9 years ago | [redis-3.0-annotated](https://github.com/huangzworks/redis-3.0-annotated)/122 | 带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。 |
@@ -188,12 +188,12 @@
 | 7591 | 1340 | 120 | a month ago | [unicorn](https://github.com/unicorn-engine/unicorn)/185 | Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86) |
 | 7568 | 1550 | 330 | 2 days ago | [capstone](https://github.com/capstone-engine/capstone)/186 | Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86. |
 | 7528 | 294 | 2 | 1 year, 8 months ago | [no-more-secrets](https://github.com/bartobri/no-more-secrets)/187 | A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. |
-| 7446 | 3314 | 441 | 28 days ago | [pygame](https://github.com/pygame/pygame)/188 | 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL. |
+| 7446 | 3314 | 441 | 27 days ago | [pygame](https://github.com/pygame/pygame)/188 | 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL. |
 | 7385 | 813 | 46 | 4 years ago | [kilo](https://github.com/antirez/kilo)/189 | A text editor in less than 1000 LOC with syntax highlight and search. |
 | 7346 | 481 | 2 | 27 days ago | [GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources)/190 | A Curated List of Multiplayer Game Network Programming Resources |
 | 7327 | 1801 | 52 | 3 years ago | [L-ink_Card](https://github.com/peng-zhihui/L-ink_Card)/191 | Smart NFC & ink-Display Card |
 | 7287 | 280 | 45 | 3 years ago | [endlessh](https://github.com/skeeto/endlessh)/192 | SSH tarpit that slowly sends an endless banner |
-| 7286 | 810 | 13 | 11 months ago | [smallchat](https://github.com/antirez/smallchat)/193 | A minimal programming example for a chat server |
+| 7285 | 810 | 13 | 11 months ago | [smallchat](https://github.com/antirez/smallchat)/193 | A minimal programming example for a chat server |
 | 7281 | 458 | 66 | a month ago | [wasm3](https://github.com/wasm3/wasm3)/194 | 🚀 A fast WebAssembly interpreter and the most universal WASM runtime |
 | 7232 | 1874 | 2 | 4 hours ago | [wireshark](https://github.com/wireshark/wireshark)/195 | Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. ⚠️ GitHub won't let us disable pull requests. ⚠️ THEY WILL BE IGNORED HERE ⚠️ Upload them at GitLab instead. |
 | 7218 | 715 | 95 | 22 days ago | [IronOS](https://github.com/Ralim/IronOS)/196 | Open Source Soldering Iron firmware |
@@ -201,11 +201,11 @@
 | 7185 | 1136 | 11 | a month ago | [how2heap](https://github.com/shellphish/how2heap)/198 | A repository for learning various heap exploitation techniques. |
 | 7125 | 2634 | 88 | a month ago | [xv6-riscv](https://github.com/mit-pdos/xv6-riscv)/199 | Xv6 for RISC-V |
 | 7117 | 1367 | 62 | 1 year, 9 months ago | [lab](https://github.com/google-deepmind/lab)/200 | A customisable 3D platform for agent-based AI research |
-| 7103 | 235 | 189 | a month ago | [sioyek](https://github.com/ahrm/sioyek)/201 | Sioyek is a PDF viewer with a focus on textbooks and research papers |
+| 7102 | 235 | 189 | a month ago | [sioyek](https://github.com/ahrm/sioyek)/201 | Sioyek is a PDF viewer with a focus on textbooks and research papers |
 | 7095 | 1901 | 3 | 12 years ago | [Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena)/202 | Quake III Arena GPL Source Release |
 | 7082 | 1717 | 92 | a day ago | [ccv](https://github.com/liuliu/ccv)/203 | C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library |
 | 7018 | 508 | 73 | a month ago | [winfsp](https://github.com/winfsp/winfsp)/204 | Windows File System Proxy - FUSE for Windows |
-| 7016 | 492 | 148 | 2 days ago | [sokol](https://github.com/floooh/sokol)/205 | minimal cross-platform standalone C headers |
+| 7016 | 492 | 147 | 2 days ago | [sokol](https://github.com/floooh/sokol)/205 | minimal cross-platform standalone C headers |
 | 6958 | 330 | 24 | 5 days ago | [qoi](https://github.com/phoboslab/qoi)/206 | The “Quite OK Image Format” for fast, lossless image compression |
 | 6955 | 4935 | 443 | 12 days ago | [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples)/207 | This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples. |
 | 6951 | 220 | 32 | 10 days ago | [blink](https://github.com/jart/blink)/208 | tiniest x86-64-linux emulator |
@@ -224,7 +224,7 @@
 | 6644 | 1300 | 198 | 5 years ago | [Undecimus](https://github.com/pwn20wndstuff/Undecimus)/221 | unc0ver jailbreak for iOS 11.0 - 12.4 |
 | 6639 | 1327 | 755 | a day ago | [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)/222 | A cross-platform protocol library to communicate with iOS devices |
 | 6621 | 624 | 39 | 9 months ago | [proxychains](https://github.com/haad/proxychains)/223 | proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP. |
-| 6566 | 996 | 10 | 3 hours ago | [sqlite](https://github.com/sqlite/sqlite)/224 | Official Git mirror of the SQLite source tree |
+| 6566 | 996 | 10 | 4 hours ago | [sqlite](https://github.com/sqlite/sqlite)/224 | Official Git mirror of the SQLite source tree |
 | 6551 | 873 | 46 | 1 year, 8 months ago | [beanstalkd](https://github.com/beanstalkd/beanstalkd)/225 | Beanstalk is a simple, fast work queue. |
 | 6550 | 1526 | 70 | 3 months ago | [hackrf](https://github.com/greatscottgadgets/hackrf)/226 | low cost software radio platform |
 | 6538 | 623 | 230 | 4 hours ago | [ctags](https://github.com/universal-ctags/ctags)/227 | A maintained ctags implementation |
@@ -270,12 +270,12 @@
 | 5928 | 1413 | 10 | 6 months ago | [30dayMakeOS](https://github.com/yourtion/30dayMakeOS)/267 | 《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程 |
 | 5895 | 428 | 297 | 4 years ago | [redshift](https://github.com/jonls/redshift)/268 | Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night. |
 | 5871 | 318 | 1 | 1 year, 11 months ago | [i3](https://github.com/Airblader/i3)/269 | A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.  |
-| 5854 | 226 | 141 | a month ago | [btrfs](https://github.com/maharmstone/btrfs)/270 | WinBtrfs - an open-source btrfs driver for Windows |
+| 5853 | 226 | 141 | a month ago | [btrfs](https://github.com/maharmstone/btrfs)/270 | WinBtrfs - an open-source btrfs driver for Windows |
 | 5846 | 582 | 317 | 4 years ago | [htop](https://github.com/hishamhm/htop)/271 | htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'. |
 | 5826 | 1581 | 633 | 22 hours ago | [fluent-bit](https://github.com/fluent/fluent-bit)/272 | Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows |
 | 5812 | 215 | 25 | 1 year, 1 month ago | [reptyr](https://github.com/nelhage/reptyr)/273 | Reparent a running program to a new terminal |
 | 5784 | 867 | 34 | 2 years ago | [HDMI-PI](https://github.com/peng-zhihui/HDMI-PI)/274 | 我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。 |
-| 5769 | 565 | 451 | 2 days ago | [firejail](https://github.com/netblue30/firejail)/275 | Linux namespaces and seccomp-bpf sandbox |
+| 5769 | 565 | 451 | a day ago | [firejail](https://github.com/netblue30/firejail)/275 | Linux namespaces and seccomp-bpf sandbox |
 | 5721 | 874 | 146 | 5 months ago | [Logan](https://github.com/Meituan-Dianping/Logan)/276 | Logan is a lightweight case logging system based on mobile platform. |
 | 5709 | 1731 | 273 | 4 days ago | [xrdp](https://github.com/neutrinolabs/xrdp)/277 | xrdp: an open source RDP server |
 | 5708 | 1757 | 22 | a month ago | [HP-Socket](https://github.com/ldcsaa/HP-Socket)/278 | High Performance TCP/UDP/HTTP Communication Component |
@@ -410,7 +410,7 @@
 | 4217 | 950 | 120 | 4 years ago | [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS)/407 | Tesseract OCR iOS is a Framework for iOS7+, compiled also for armv7s and arm64. |
 | 4192 | 531 | 115 | 2 years ago | [dynomite](https://github.com/Netflix/dynomite)/408 | A generic dynamo implementation for different k-v storage engines |
 | 4183 | 556 | 88 | 4 months ago | [klib](https://github.com/attractivechaos/klib)/409 | A standalone and lightweight C library |
-| 4172 | 131 | 25 | 9 hours ago | [wuffs](https://github.com/google/wuffs)/410 | Wrangling Untrusted File Formats Safely |
+| 4172 | 131 | 25 | 8 hours ago | [wuffs](https://github.com/google/wuffs)/410 | Wrangling Untrusted File Formats Safely |
 | 4162 | 1249 | 14 | 3 years ago | [reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2)/411 | nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕 |
 | 4155 | 895 | 535 | a month ago | [espeak-ng](https://github.com/espeak-ng/espeak-ng)/412 | eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. |
 | 4146 | 436 | 3 | 3 months ago | [CPython-Internals](https://github.com/zpoint/CPython-Internals)/413 | Dive into CPython internals, trying to illustrate every detail of CPython implementation |
@@ -441,8 +441,8 @@
 | 3987 | 436 | 39 | 3 years ago | [minecraft-weekend](https://github.com/jdah/minecraft-weekend)/438 | Minecraft, but I made it in 48 hours. |
 | 3983 | 3630 | 160 | a day ago | [u-boot](https://github.com/u-boot/u-boot)/439 | "Das U-Boot" Source Tree |
 | 3983 | 735 | 37 | 4 days ago | [keepalived](https://github.com/acassen/keepalived)/440 | Keepalived |
-| 3964 | 161 | 135 | 12 days ago | [tectonic](https://github.com/tectonic-typesetting/tectonic)/441 | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. |
-| 3951 | 1047 | 89 | 4 hours ago | [proxmark3](https://github.com/RfidResearchGroup/proxmark3)/442 | Iceman Fork - Proxmark3 |
+| 3963 | 161 | 135 | 12 days ago | [tectonic](https://github.com/tectonic-typesetting/tectonic)/441 | A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. |
+| 3951 | 1047 | 89 | 3 hours ago | [proxmark3](https://github.com/RfidResearchGroup/proxmark3)/442 | Iceman Fork - Proxmark3 |
 | 3948 | 469 | 68 | 2 years ago | [qira](https://github.com/geohot/qira)/443 | QEMU Interactive Runtime Analyser |
 | 3946 | 255 | 18 | 1 year, 1 month ago | [ttygif](https://github.com/icholy/ttygif)/444 | Convert terminal recordings to animated gifs |
 | 3933 | 717 | 38 | 19 days ago | [pocketsphinx](https://github.com/cmusphinx/pocketsphinx)/445 | A small speech recognizer |
@@ -456,7 +456,7 @@
 | 3849 | 896 | 263 | 10 days ago | [f-stack](https://github.com/F-Stack/f-stack)/453 | F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API. |
 | 3828 | 274 | 462 | 6 hours ago | [box64](https://github.com/ptitSeb/box64)/454 | Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices |
 | 3828 | 412 | 81 | 3 months ago | [miraclecast](https://github.com/albfan/miraclecast)/455 | Connect external monitors to your system via Wifi-Display specification also known as Miracast |
-| 3825 | 896 | 79 | 7 hours ago | [nDPI](https://github.com/ntop/nDPI)/456 | Open Source Deep Packet Inspection Software Toolkit |
+| 3825 | 896 | 79 | 6 hours ago | [nDPI](https://github.com/ntop/nDPI)/456 | Open Source Deep Packet Inspection Software Toolkit |
 | 3823 | 490 | 91 | 2 days ago | [nng](https://github.com/nanomsg/nng)/457 | nanomsg-next-generation -- light-weight brokerless messaging |
 | 3810 | 199 | 543 | 25 days ago | [Ditto](https://github.com/sabrogden/Ditto)/458 | Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time. |
 | 3807 | 633 | 5 | 2 years ago | [mimipenguin](https://github.com/huntergregal/mimipenguin)/459 | A tool to dump the login password from the current linux user |
@@ -514,7 +514,7 @@
 | 3503 | 227 | 38 | 2 days ago | [janet](https://github.com/janet-lang/janet)/511 | A dynamic language and bytecode vm |
 | 3482 | 243 | 29 | 2 months ago | [microui](https://github.com/rxi/microui)/512 | A tiny immediate-mode UI library |
 | 3480 | 2481 | 32 | a month ago | [Dopamine](https://github.com/opa334/Dopamine)/513 | Dopamine is a semi-untethered jailbreak for iOS 15 and 16 |
-| 3480 | 1835 | 18 | 2 months ago | [openwrt](https://github.com/Lienol/openwrt)/514 | Lienol's Modified OpenWrt source |
+| 3479 | 1835 | 18 | 2 months ago | [openwrt](https://github.com/Lienol/openwrt)/514 | Lienol's Modified OpenWrt source |
 | 3472 | 801 | 51 | 14 hours ago | [gnucash](https://github.com/Gnucash/gnucash)/515 | GnuCash Double-Entry Accounting Program. |
 | 3469 | 503 | 54 | 5 years ago | [pthreads](https://github.com/krakjoe/pthreads)/516 | Threading for PHP - Share Nothing, Do Everything :) |
 | 3465 | 176 | 83 | 4 days ago | [raddebugger](https://github.com/EpicGamesExt/raddebugger)/517 | A native, user-mode, multi-process, graphical debugger. |
@@ -673,7 +673,7 @@
 | 2819 | 756 | 55 | 5 years ago | [MemoryModule](https://github.com/fancycode/MemoryModule)/670 | Library to load a DLL from memory. |
 | 2816 | 671 | 4 | 12 years ago | [Quake-2](https://github.com/id-Software/Quake-2)/671 | Quake 2 GPL Source Release |
 | 2813 | 967 | 27 | 6 days ago | [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)/672 | STM32 core support for Arduino |
-| 2810 | 471 | 166 | 10 months ago | [ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer)/673 | Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter |
+| 2809 | 471 | 166 | 10 months ago | [ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer)/673 | Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter |
 | 2805 | 61 | 4 | 3 months ago | [nq](https://github.com/leahneukirchen/nq)/674 | Unix command line queue utility |
 | 2796 | 118 | 13 | 5 months ago | [audioFlux](https://github.com/libAudioFlux/audioFlux)/675 | A library for audio and music analysis, feature extraction. |
 | 2791 | 1157 | 539 | 5 hours ago | [nuttx](https://github.com/apache/nuttx)/676 | Apache NuttX is a mature, real-time embedded operating system (RTOS) |
@@ -724,7 +724,7 @@
 | 2652 | 619 | 68 | 1 year, 3 months ago | [glew](https://github.com/nigels-com/glew)/721 | The OpenGL Extension Wrangler Library |
 | 2648 | 176 | 13 | 1 year, 2 months ago | [pigz](https://github.com/madler/pigz)/722 | A parallel implementation of gzip for modern multi-processor, multi-core machines. |
 | 2647 | 212 | 43 | 3 months ago | [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite)/723 | None |
-| 2645 | 113 | 2 | 15 hours ago | [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)/724 | An OpenGL RTS game engine written in C |
+| 2645 | 113 | 2 | 14 hours ago | [permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine)/724 | An OpenGL RTS game engine written in C |
 | 2645 | 560 | 1684 | 3 days ago | [dynamorio](https://github.com/DynamoRIO/dynamorio)/725 | Dynamic Instrumentation Tool Platform |
 | 2642 | 828 | 16 | 8 years ago | [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates)/726 | Android应用增量更新 |
 | 2635 | 352 | 90 | 3 months ago | [Goldleaf](https://github.com/XorTroll/Goldleaf)/727 | 🍂 Multipurpose homebrew tool for Nintendo Switch |
@@ -752,7 +752,7 @@
 | 2558 | 733 | 130 | a month ago | [OpenSC](https://github.com/OpenSC/OpenSC)/749 | Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend |
 | 2554 | 397 | 117 | 3 months ago | [sniproxy](https://github.com/dlundquist/sniproxy)/750 | Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session. |
 | 2550 | 466 | 67 | 4 years ago | [printf](https://github.com/mpaland/printf)/751 | Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing. |
-| 2544 | 199 | 12 | 11 hours ago | [esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd)/752 | A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. |
+| 2544 | 199 | 12 | 10 hours ago | [esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd)/752 | A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. |
 | 2541 | 1615 | 424 | 6 years ago | [RTKLIB](https://github.com/tomojitakasu/RTKLIB)/753 | None |
 | 2541 | 143 | 68 | 2 months ago | [f3](https://github.com/AltraMayor/f3)/754 | F3 - Fight Flash Fraud |
 | 2540 | 1098 | 20 | 1 year, 11 months ago | [amazon-freertos](https://github.com/aws/amazon-freertos)/755 | DEPRECATED - See README.md |
