@@ -1,1003 +1,1003 @@
 ## This is a most popular repository list for Java sorted by number of stars
 |STARS|FORKS|ISSUES|LAST COMMIT|NAME/PLACE|DESCRIPTION|
 | --- | --- | --- | --- | --- | --- |
-| 126516 | 42327 | 65 | 2 hours ago | [JavaGuide](https://github.com/Snailclimb/JavaGuide)/1 | 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！ |
-| 76411 | 23705 | 292 | a month ago | [java-design-patterns](https://github.com/iluwatar/java-design-patterns)/2 | Design patterns implemented in Java |
-| 71212 | 13657 | 14 | 7 months ago | [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)/3 | Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） |
-| 62857 | 37090 | 557 | 2 hours ago | [spring-boot](https://github.com/spring-projects/spring-boot)/4 | Spring Boot |
-| 60576 | 25389 | 30 | 17 hours ago | [mall](https://github.com/macrozheng/mall)/5 | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 |
-| 58035 | 12263 | 107 | 2 years ago | [interviews](https://github.com/kdn251/interviews)/6 | Everything you need to know to get the job. |
-| 48881 | 34495 | 1412 | 16 hours ago | [spring-framework](https://github.com/spring-projects/spring-framework)/7 | Spring Framework |
-| 47683 | 6883 | 92 | 5 hours ago | [GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)/8 | :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。 |
-| 46352 | 7640 | 14 | 22 hours ago | [RxJava](https://github.com/ReactiveX/RxJava)/9 | RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. |
-| 40419 | 7164 | 167 | 19 days ago | [retrofit](https://github.com/square/retrofit)/10 | A type-safe HTTP client for Android and the JVM |
-| 37779 | 25255 | 449 | 3 hours ago | [dubbo](https://github.com/apache/dubbo)/11 | Apache Dubbo is a high-performance, java based, open source RPC framework. |
-| 35472 | 8806 | 2094 | 1 year, 2 months ago | [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)/12 | A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations. |
-| 33917 | 4387 | 1356 | 12 hours ago | [ghidra](https://github.com/NationalSecurityAgency/ghidra)/13 | Ghidra is a software reverse engineering (SRE) framework |
-| 32901 | 5982 | 406 | a day ago | [glide](https://github.com/bumptech/glide)/14 | An image loading and caching library for Android focused on smooth scrolling |
-| 31680 | 50219 | 56 | 2 hours ago | [tutorials](https://github.com/eugenp/tutorials)/15 | Just Announced - "Learn Spring Security OAuth":  |
-| 30560 | 12140 | 34 | 5 days ago | [jeecg-boot](https://github.com/jeecgboot/jeecg-boot)/16 | 「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 |
-| 27186 | 9932 | 135 | 7 days ago | [apollo](https://github.com/apolloconfig/apollo)/17 | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. |
-| 26778 | 7144 | 41 | 10 months ago | [JCSprout](https://github.com/crossoverJie/JCSprout)/18 | 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm  |
-| 25173 | 4571 | 212 | 2 years ago | [proxyee-down](https://github.com/proxyee-down-org/proxyee-down)/19 | http下载工具，基于http代理，支持多连接分块下载 |
-| 24797 | 6592 | 160 | a month ago | [easyexcel](https://github.com/alibaba/easyexcel)/20 | 快速、简洁、解决大文件内存溢出的java处理Excel工具 |
-| 24716 | 9992 | 197 | 1 year, 8 months ago | [vhr](https://github.com/lenve/vhr)/21 | 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 |
-| 24395 | 7107 | 103 | a day ago | [selenium](https://github.com/SeleniumHQ/selenium)/22 | A browser automation framework and ecosystem. |
-| 24072 | 7263 | 24 | 1 year, 6 months ago | [SpringAll](https://github.com/wuyouzhuguli/SpringAll)/23 | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc |
-| 23654 | 5290 | 55 | 2 months ago | [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)/24 | To Be Top Javaer - Java工程师成神之路 |
-| 23267 | 7812 | 173 | 4 days ago | [halo](https://github.com/halo-dev/halo)/25 | ✍ 一款现代化的开源博客 / CMS 系统。 |
-| 22883 | 4645 | 389 | 3 years ago | [Hystrix](https://github.com/Netflix/Hystrix)/26 | Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable. |
-| 22711 | 5508 | 240 | 11 hours ago | [Signal-Android](https://github.com/signalapp/Signal-Android)/27 | A private messenger for Android. |
-| 22697 | 8016 | 757 | 2 days ago | [seata](https://github.com/seata/seata)/28 | :fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution. |
-| 22315 | 9416 | 977 | 3 months ago | [xxl-job](https://github.com/xuxueli/xxl-job)/29 | A distributed task scheduling framework.（分布式任务调度平台XXL-JOB） |
-| 20581 | 7007 | 498 | 9 days ago | [Telegram](https://github.com/DrKLO/Telegram)/30 | Telegram for Android source |
-| 20550 | 2400 | 1155 | 2 days ago | [NewPipe](https://github.com/TeamNewPipe/NewPipe)/31 | A libre lightweight streaming front-end for Android. |
-| 19701 | 7100 | 588 | 7 days ago | [Sentinel](https://github.com/alibaba/Sentinel)/32 | A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件) |
-| 19687 | 3008 | 2 | 11 months ago | [RxAndroid](https://github.com/ReactiveX/RxAndroid)/33 | RxJava bindings for Android |
-| 19628 | 4778 | 341 | 18 hours ago | [redisson](https://github.com/redisson/redisson)/34 | Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ... |
-| 19247 | 3501 | 2603 | 8 hours ago | [bazel](https://github.com/bazelbuild/bazel)/35 | a fast, scalable, multi-language and extensible build system |
-| 18961 | 2904 | 183 | 26 days ago | [DoKit](https://github.com/didi/DoKit)/36 | 一款面向泛前端产品研发全生命周期的效率平台。 |
-| 18618 | 6796 | 27 | 13 days ago | [eladmin](https://github.com/elunez/eladmin)/37 | 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 |
-| 17929 | 10088 | 666 | 15 hours ago | [rocketmq](https://github.com/apache/rocketmq)/38 | Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications. |
-| 17800 | 718 | 413 | 2 years ago | [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)/39 | FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes. |
-| 17726 | 3927 | 19 | 16 minutes ago | [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)/40 | 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。  |
-| 17601 | 11826 | 215 | 6 days ago | [mybatis-3](https://github.com/mybatis/mybatis-3)/41 | MyBatis SQL mapper framework for Java |
-| 17364 | 1400 | 907 | a day ago | [graal](https://github.com/oracle/graal)/42 | GraalVM: Run Programs Faster Anywhere :rocket: |
-| 17324 | 6790 | 24 | 2 days ago | [litemall](https://github.com/linlinjava/litemall)/43 | 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 |
-| 16509 | 3305 | 469 | 28 days ago | [tinker](https://github.com/Tencent/tinker)/44 | Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk. |
-| 15894 | 3899 | 15 | 3 years ago | [java8-tutorial](https://github.com/winterbe/java8-tutorial)/45 | Modern Java - A Guide to Java 8 |
-| 15612 | 2991 | 202 | 17 hours ago | [zipkin](https://github.com/openzipkin/zipkin)/46 | Zipkin is a distributed tracing system |
-| 15124 | 3652 | 7 | a month ago | [disruptor](https://github.com/LMAX-Exchange/disruptor)/47 | High Performance Inter-Thread Messaging Library |
-| 15033 | 1940 | 292 | a month ago | [termux-app](https://github.com/termux/termux-app)/48 | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
-| 14631 | 4770 | 63 | 6 months ago | [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)/49 | 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！ |
-| 13683 | 1793 | 144 | 11 days ago | [APIJSON](https://github.com/Tencent/APIJSON)/50 | 🚀 零代码、全功能、强安全 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for providing APIs and Docs without writing any code. |
-| 13558 | 2532 | 18 | 4 years ago | [Material-Animations](https://github.com/lgvalle/Material-Animations)/51 | Android Transition animations explanation with examples. |
-| 13235 | 2315 | 331 | a day ago | [mockito](https://github.com/mockito/mockito)/52 | Most popular Mocking framework for unit tests written in Java |
-| 13211 | 1036 | 79 | a month ago | [bytecode-viewer](https://github.com/Konloch/bytecode-viewer)/53 | A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More) |
-| 13108 | 1959 | 236 | 22 hours ago | [vert.x](https://github.com/eclipse-vertx/vert.x)/54 | Vert.x is a tool-kit for building reactive applications on the JVM |
-| 13092 | 7034 | 825 | 3 months ago | [Arduino](https://github.com/arduino/Arduino)/55 | Arduino IDE 1.x |
-| 13031 | 2204 | 144 | 3 years ago | [Luban](https://github.com/Curzibn/Luban)/56 | Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法 |
-| 12850 | 7972 | 702 | 6 days ago | [hadoop](https://github.com/apache/hadoop)/57 | Apache Hadoop |
-| 12807 | 2779 | 748 | 8 days ago | [antlr4](https://github.com/antlr/antlr4)/58 | ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. |
-| 12585 | 4936 | 761 | 7 days ago | [deeplearning4j](https://github.com/eclipse/deeplearning4j)/59 | Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation. |
-| 12567 | 1849 | 88 | 1 year, 1 month ago | [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)/60 | 🔥 A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案). |
-| 12565 | 1151 | 81 | 1 year, 4 months ago | [stetho](https://github.com/facebook/stetho)/61 | Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more. |
-| 12544 | 2898 | 234 | 1 year, 6 months ago | [greenDAO](https://github.com/greenrobot/greenDAO)/62 | greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. |
-| 12336 | 3626 | 343 | 20 hours ago | [pinpoint](https://github.com/pinpoint-apm/pinpoint)/63 | APM, (Application Performance Management) tool for large-scale distributed systems.  |
-| 12325 | 2036 | 456 | 2 years ago | [Matisse](https://github.com/zhihu/Matisse)/64 | :fireworks: A well-designed local image and video selector for Android |
-| 12134 | 2246 | 259 | 4 days ago | [zuul](https://github.com/Netflix/zuul)/65 | Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more. |
-| 12096 | 2371 | 226 | 1 year, 2 months ago | [banner](https://github.com/youth5201314/banner)/66 | 🔥🔥🔥Banner 2.0 来了！Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义。 |
-| 12081 | 1275 | 117 | a day ago | [jib](https://github.com/GoogleContainerTools/jib)/67 | 🏗 Build container images for your Java applications. |
-| 11980 | 3322 | 1553 | 33 minutes ago | [druid](https://github.com/apache/druid)/68 | Apache Druid: a high performance real-time analytics database. |
-| 11911 | 3888 | 15 | 1 year, 5 months ago | [spring-analysis](https://github.com/seaswalker/spring-analysis)/69 | Spring源码阅读 |
-| 11831 | 3697 | 79 | 1 year, 4 months ago | [Auto.js](https://github.com/hyb1996/Auto.js)/70 | A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) |
-| 11824 | 5672 | 13 | 9 months ago | [piggymetrics](https://github.com/sqshq/piggymetrics)/71 | Microservice Architecture with Spring Boot, Spring Cloud and Docker |
-| 11817 | 2741 | 259 | 9 days ago | [PictureSelector](https://github.com/LuckSiege/PictureSelector)/72 | Picture Selector Library for Android or 图片选择器 |
-| 11425 | 3594 | 52 | 9 months ago | [eureka](https://github.com/Netflix/eureka)/73 | AWS Service registry for resilient mid-tier load balancing and failover. |
-| 11413 | 2167 | 752 | a month ago | [lombok](https://github.com/projectlombok/lombok)/74 | Very spicy additions to the Java programming language. |
-| 11405 | 1598 | 393 | a month ago | [guice](https://github.com/google/guice)/75 | Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google. |
-| 11302 | 3069 | 82 | 2 months ago | [Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)/76 | Mybatis通用分页插件 |
-| 11294 | 2074 | 238 | 6 months ago | [uCrop](https://github.com/Yalantis/uCrop)/77 | Image Cropping Library for Android |
-| 11157 | 2417 | 50 | 2 months ago | [androidannotations](https://github.com/androidannotations/androidannotations)/78 | Fast Android Development. Easy maintainance. |
-| 10797 | 2083 | 4 | 15 days ago | [source-code-hunter](https://github.com/doocs/source-code-hunter)/79 | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 |
-| 10743 | 6754 | 206 | 28 days ago | [zookeeper](https://github.com/apache/zookeeper)/80 | Apache ZooKeeper |
-| 10703 | 2395 | 18 | 5 months ago | [fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)/81 | 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试 |
-| 10607 | 2154 | 151 | 2 years ago | [FileDownloader](https://github.com/lingochamp/FileDownloader)/82 | Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process |
-| 10567 | 1950 | 2071 | 41 minutes ago | [quarkus](https://github.com/quarkusio/quarkus)/83 | Quarkus: Supersonic Subatomic Java.  |
-| 10478 | 1798 | 112 | 4 months ago | [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)/84 | android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62 |
-| 10364 | 1316 | 96 | 1 year, 27 days ago | [RxPermissions](https://github.com/tbruyelle/RxPermissions)/85 | Android runtime permissions powered by RxJava2 |
-| 10331 | 2177 | 262 | 4 days ago | [neo4j](https://github.com/neo4j/neo4j)/86 | Graphs for Everyone |
-| 10183 | 2428 | 43 | 9 months ago | [MVPArms](https://github.com/JessYanCoding/MVPArms)/87 | ⚔️ A common architecture for Android applications developing based on MVP, integrates many open source projects, to make your developing quicker and easier (一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架).  |
-| 10169 | 4138 | 137 | 3 years ago | [CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition)/88 | Cracking the Coding Interview 6th Ed. Solutions |
-| 10087 | 1881 | 375 | 9 months ago | [dex2jar](https://github.com/pxb1988/dex2jar)/89 | Tools to work with android .dex and java .class files |
-| 9980 | 3443 | 525 | 8 hours ago | [grpc-java](https://github.com/grpc/grpc-java)/90 | The Java gRPC implementation. HTTP/2 based RPC |
-| 9833 | 1165 | 81 | a day ago | [auto](https://github.com/google/auto)/91 | A collection of source code generators for Java. |
-| 9727 | 2147 | 192 | 2 years ago | [Fragmentation](https://github.com/YoKeyword/Fragmentation)/92 | [DEPRECATED] A powerful library that manage Fragment for Android |
-| 9691 | 1416 | 55 | 1 year, 3 months ago | [glide-transformations](https://github.com/wasabeef/glide-transformations)/93 | An Android transformation library providing a variety of image transformations for Glide. |
-| 9645 | 2714 | 172 | 6 years ago | [android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)/94 | Ultra Pull to Refresh for Android. Support all the views. |
-| 9625 | 1419 | 0 | a month ago | [clojure](https://github.com/clojure/clojure)/95 | The Clojure programming language |
-| 9616 | 2098 | 179 | 6 years ago | [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)/96 | Android library to observe scroll events on scrollable views. |
-| 9535 | 1457 | 24 | 1 year, 3 months ago | [easypermissions](https://github.com/googlesamples/easypermissions)/97 | Simplify Android M system permissions |
-| 9425 | 3549 | 128 | 2 years ago | [PocketHub](https://github.com/pockethub/PocketHub)/98 | PocketHub Android App |
-| 9424 | 4330 | 94 | 3 years ago | [paascloud-master](https://github.com/paascloud/paascloud-master)/99 | spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。 |
-| 9323 | 2120 | 257 | 4 years ago | [DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster)/100 | Android开源弹幕引擎·烈焰弹幕使 ～ |
-| 7110 | 1332 | 10 | a day ago | [spider-flow](https://github.com/ssssssss-team/spider-flow)/101 | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 |
-| 6907 | 232 | 76 | 5 days ago | [supertokens-core](https://github.com/supertokens/supertokens-core)/102 | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  |
-| 6865 | 2419 | 216 | 5 years ago | [okhttputils](https://github.com/hongyangAndroid/okhttputils)/103 | [停止维护]okhttp的辅助类 |
-| 6859 | 1873 | 0 | 6 months ago | [LeetCode](https://github.com/yuanguangxin/LeetCode)/104 | LeetCode刷题记录与面试整理 |
-| 6738 | 2157 | 209 | 1 year, 10 months ago | [Timber](https://github.com/naman14/Timber)/105 | Material Design Music Player |
-| 6737 | 2552 | 224 | 2 years ago | [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)/106 | A plugin framework on android,Run any third-party apk without installation, modification or repackage |
-| 6719 | 2530 | 24 | 1 year, 26 days ago | [xmall](https://github.com/Exrick/xmall)/107 | 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 |
-| 6690 | 1934 | 132 | 3 years ago | [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)/108 | [停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。 |
-| 6686 | 1318 | 91 | 5 days ago | [flyway](https://github.com/flyway/flyway)/109 | Flyway by Redgate • Database Migrations Made Easy. |
-| 6682 | 1367 | 101 | 2 minutes ago | [dataease](https://github.com/dataease/dataease)/110 | 人人可用的开源数据可视化分析工具。 |
-| 6656 | 2854 | 60 | 2 years ago | [VBlog](https://github.com/lenve/VBlog)/111 | V部落，Vue+SpringBoot实现的多用户博客管理平台! |
-| 6626 | 1077 | 39 | 7 days ago | [XPopup](https://github.com/li-xiaojun/XPopup)/112 | 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup view.) |
-| 6584 | 1616 | 120 | 2 months ago | [angel](https://github.com/Angel-ML/angel)/113 | A Flexible and Powerful Parameter Server for large-scale machine learning |
-| 6541 | 2148 | 8 | a day ago | [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)/114 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 6534 | 1757 | 111 | a day ago | [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)/115 | Source for the TechEmpower Framework Benchmarks project |
-| 6534 | 2286 | 0 | 28 days ago | [yudao-cloud](https://github.com/YunaiV/yudao-cloud)/116 | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 6470 | 1018 | 102 | 1 year, 8 months ago | [walle](https://github.com/Meituan-Dianping/walle)/117 | Android Signature V2 Scheme签名下的新一代渠道包打包神器 |
-| 6386 | 1766 | 18 | a month ago | [jmeter](https://github.com/apache/jmeter)/118 | Apache JMeter |
-| 6275 | 2433 | 110 | 1 year, 1 month ago | [mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui)/119 | mybatis-generator界面工具，让你生成代码更简单更快捷 |
-| 6270 | 2544 | 87 | 2 days ago | [react-native-video](https://github.com/react-native-video/react-native-video)/120 | A <Video /> component for react-native |
-| 6232 | 1707 | 201 | an hour ago | [datahub](https://github.com/datahub-project/datahub)/121 | The Metadata Platform for the Modern Data Stack |
-| 6144 | 1326 | 359 | 3 years ago | [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)/122 | Image Cropping Library for Android, optimized for Camera / Gallery. |
-| 6140 | 1440 | 119 | 4 years ago | [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)/123 | An Android library that help you to build app with swipe back gesture. |
-| 6053 | 685 | 345 | 3 hours ago | [error-prone](https://github.com/google/error-prone)/124 | Catch common Java mistakes as compile-time errors |
-| 6047 | 890 | 212 | 18 hours ago | [lawnchair](https://github.com/LawnchairLauncher/lawnchair)/125 | No clever tagline needed. |
-| 6010 | 1420 | 29 | 5 years ago | [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)/126 | A beautiful, slim Android ProgressBar. |
-| 5982 | 3032 | 72 | 8 hours ago | [pentaho-kettle](https://github.com/pentaho/pentaho-kettle)/127 | Pentaho Data Integration ( ETL ) a.k.a Kettle |
-| 5824 | 2725 | 896 | 3 hours ago | [alluxio](https://github.com/Alluxio/alluxio)/128 | Alluxio, data orchestration for analytics and machine learning in the cloud |
-| 5822 | 1567 | 187 | 17 days ago | [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo)/129 | Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc |
-| 5795 | 2687 | 111 | a day ago | [zeppelin](https://github.com/apache/zeppelin)/130 | Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. |
-| 5790 | 1793 | 350 | 12 days ago | [motan](https://github.com/weibocom/motan)/131 | A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services. |
-| 5751 | 2273 | 8 | 1 year, 12 days ago | [FEBS-Shiro](https://github.com/febsteam/FEBS-Shiro)/132 | Spring Boot 2.4.2，Shiro1.6.0 & Layui 2.5.6 权限管理系统。 |
-| 5725 | 783 | 8 | 1 year, 3 months ago | [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin)/133 | From Java To Kotlin - Your Cheat Sheet For Java To Kotlin |
-| 5711 | 960 | 14 | 4 years ago | [u2020](https://github.com/JakeWharton/u2020)/134 | A sample Android app which showcases advanced usage of Dagger among other open source libraries. |
-| 5682 | 1530 | 310 | 1 year, 10 months ago | [springfox](https://github.com/springfox/springfox)/135 | Automated JSON API documentation for API's built with Spring |
-| 5653 | 1694 | 310 | 7 years ago | [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)/136 | An amazing and convenient Android image slider. |
-| 5650 | 1389 | 154 | a month ago | [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)/137 | 安卓选择器类库，包括日期及时间选择器（可用于出生日期、营业时间等）、单项选择器（可用于性别、民族、职业、学历、星座等）、二三级联动选择器（可用于车牌号、基金定投日期等）、城市地址选择器（分省级、地市级及区县级）、数字选择器（可用于年龄、身高、体重、温度等）、日历选日期择器（可用于酒店及机票预定日期）、颜色选择器、文件及目录选择器、图片选择器等……WheelPicker/DatePicker/TimePicker/OptionPicker/NumberPicker/LinkagePicker/AddressPicker/CarPlatePicker/CalendarPicker/ColorPicker/FilePicker/ImagePicker etc.  |
-| 5622 | 1014 | 343 | 2 years ago | [FastHub](https://github.com/k0shk0sh/FastHub)/138 | FastHub the ultimate GitHub client for Android. |
-| 5617 | 1693 | 87 | 5 years ago | [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)/139 | [DEPRECATED] An Android library which allows developers to easily add animations to ListView items |
-| 5611 | 767 | 41 | 1 year, 11 months ago | [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView)/140 | A scrollable list of items that centers the current element and provides easy-to-use APIs for cool item animations. |
-| 5600 | 1525 | 42 | a month ago | [ysoserial](https://github.com/frohoff/ysoserial)/141 | A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization. |
-| 5596 | 1203 | 23 | a month ago | [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)/142 | Android Circular Progress Button |
-| 5592 | 1028 | 74 | a day ago | [graphql-java](https://github.com/graphql-java/graphql-java)/143 | GraphQL Java implementation |
-| 5573 | 994 | 131 | 3 years ago | [aurora-imui](https://github.com/jpush/aurora-imui)/144 | General IM UI components. Android/iOS/RectNative ready.  通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。 |
-| 5566 | 688 | 685 | 7 hours ago | [OpenSearch](https://github.com/opensearch-project/OpenSearch)/145 | 🔎 Open source distributed and RESTful search engine. |
-| 5556 | 1178 | 115 | 4 years ago | [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)/146 | [不再维护]Android流式布局，支持单选、多选等，适合用于产品标签等。 |
-| 5509 | 1314 | 708 | a day ago | [robolectric](https://github.com/robolectric/robolectric)/147 | Android Unit Testing Framework |
-| 5503 | 762 | 389 | 2 days ago | [mapstruct](https://github.com/mapstruct/mapstruct)/148 | An annotation processor for generating type-safe bean mappers |
-| 5466 | 859 | 31 | 5 years ago | [rebound](https://github.com/facebookarchive/rebound)/149 | A Java library that models spring dynamics and adds real world physics to your app.  |
-| 5353 | 1213 | 148 | 9 days ago | [junit5](https://github.com/junit-team/junit5)/150 | ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM |
-| 5327 | 1861 | 44 | 1 year, 26 days ago | [dubbo-spring-boot-project](https://github.com/apache/dubbo-spring-boot-project)/151 | Spring Boot Project for Apache Dubbo |
-| 5310 | 1290 | 243 | 2 years ago | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)/152 | A RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView |
-| 5304 | 1155 | 4 | a month ago | [useful-java-links](https://github.com/Vedenin/useful-java-links)/153 | A list of useful Java frameworks, libraries, software and hello worlds examples |
-| 5282 | 3848 | 0 | 3 years ago | [cw-omnibus](https://github.com/commonsguy/cw-omnibus)/154 | Source code to omnibus edition of _The Busy Coder's Guide to Android Development_ |
-| 5269 | 2110 | 293 | 7 years ago | [VitamioBundle](https://github.com/yixia/VitamioBundle)/155 | Vitamio for Android |
-| 5263 | 1047 | 349 | 8 months ago | [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)/156 | A splash screen for react-native, hide when application loaded ,it works on iOS and Android. |
-| 5228 | 886 | 192 | 1 year, 6 months ago | [android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview)/157 | RecyclerView extension library which provides advanced features. (ex. Google's Inbox app like swiping, Play Music app like drag and drop sorting) |
-| 5204 | 1532 | 20 | 2 years ago | [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android)/158 | Side menu with some categories to choose. |
-| 5202 | 690 | 27 | 1 year, 5 months ago | [android-lifecycle](https://github.com/xxv/android-lifecycle)/159 | A diagram of the Android Activity / Fragment lifecycle |
-| 5152 | 963 | 1202 | 7 hours ago | [ksql](https://github.com/confluentinc/ksql)/160 | The database purpose-built for stream processing applications. |
-| 5116 | 1357 | 9 | 21 days ago | [Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)/161 | 🔥Android MVP 快速开发框架，做国内 「示例最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架。                🔥An Android MVP Framework with many demos, detailed documents, simple usages and strict codes. |
-| 5069 | 3146 | 181 | a day ago | [hibernate-orm](https://github.com/hibernate/hibernate-orm)/162 | Hibernate's core Object/Relational Mapping functionality |
-| 5003 | 2699 | 18 | 2 years ago | [android-common](https://github.com/Trinea/android-common)/163 | Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on |
-| 4990 | 780 | 145 | 11 months ago | [Aria](https://github.com/AriaLyy/Aria)/164 | 下载可以很简单 |
-| 4939 | 1041 | 205 | 5 years ago | [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)/165 | 几行代码快速集成二维码扫描功能 |
-| 4928 | 1512 | 455 | 20 days ago | [gephi](https://github.com/gephi/gephi)/166 | Gephi - The Open Graph Viz Platform |
-| 4923 | 630 | 6 | 11 months ago | [GravitySnapHelper](https://github.com/rubensousa/GravitySnapHelper)/167 | A SnapHelper that snaps a RecyclerView to an edge. |
-| 4917 | 1079 | 743 | 12 days ago | [GmsCore](https://github.com/microg/GmsCore)/168 | Free implementation of Play Services |
-| 4872 | 853 | 4 | 28 days ago | [java-jwt](https://github.com/auth0/java-jwt)/169 | Java implementation of JSON Web Token (JWT) |
-| 4861 | 991 | 119 | 3 months ago | [SoloPi](https://github.com/alipay/SoloPi)/170 | SoloPi 自动化测试工具 |
-| 4827 | 816 | 192 | 4 years ago | [smartTable](https://github.com/huangyanbin/smartTable)/171 | 一款android自动生成表格框架---An Android automatically generated table framework |
-| 4810 | 924 | 32 | 4 days ago | [joda-time](https://github.com/JodaOrg/joda-time)/172 | Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8. |
-| 4809 | 594 | 42 | 1 year, 5 months ago | [EdXposed](https://github.com/ElderDrivers/EdXposed)/173 | Elder driver Xposed Framework. |
-| 4774 | 1162 | 107 | 6 years ago | [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)/174 | An Android staggered grid view which supports multiple columns with rows of varying sizes. |
-| 4753 | 1446 | 29 | 3 years ago | [uid-generator](https://github.com/baidu/uid-generator)/175 | UniqueID generator |
-| 4719 | 1262 | 523 | 7 months ago | [opentsdb](https://github.com/OpenTSDB/opentsdb)/176 | A scalable, distributed Time Series Database. |
-| 4713 | 1222 | 183 | 6 years ago | [cardslib](https://github.com/gabrielemariotti/cardslib)/177 | Android Library to build a UI Card |
-| 4645 | 972 | 107 | 2 years ago | [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)/178 | Pick a date or time on Android in style |
-| 4621 | 3054 | 145 | 4 minutes ago | [hbase](https://github.com/apache/hbase)/179 | Apache HBase |
-| 4618 | 2380 | 105 | 18 days ago | [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix)/180 | Integration with Netflix OSS components |
-| 4614 | 585 | 2 | 7 months ago | [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)/181 | :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development |
-| 4579 | 1646 | 41 | 5 years ago | [SimplifyReader](https://github.com/chentao0707/SimplifyReader)/182 | 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！ |
-| 4576 | 602 | 11 | 3 years ago | [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-)/183 | A library that gives depth to Views. |
-| 4567 | 1087 | 465 | 4 days ago | [janusgraph](https://github.com/JanusGraph/janusgraph)/184 | JanusGraph: an open-source, distributed graph database |
-| 4547 | 971 | 364 | 2 months ago | [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)/185 | PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。 |
-| 4546 | 865 | 164 | 1 year, 6 months ago | [mapdb](https://github.com/jankotek/mapdb)/186 | MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine. |
-| 4543 | 555 | 53 | 3 years ago | [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView)/187 | An page indicator for Android ViewPager |
-| 4534 | 1336 | 13 | 1 year, 3 months ago | [springboot-guide](https://github.com/CodingDocs/springboot-guide)/188 | SpringBoot2.0+从入门到实战！ |
-| 4520 | 1172 | 17 | 2 years ago | [Douya](https://github.com/zhanghai/Douya)/189 | 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com） |
-| 4513 | 1573 | 42 | 7 years ago | [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)/190 | [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! |
-| 4497 | 859 | 234 | 21 hours ago | [orientdb](https://github.com/orientechnologies/orientdb)/191 | OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. |
-| 4488 | 943 | 169 | 1 year, 5 months ago | [Luyten](https://github.com/deathmarine/Luyten)/192 | An Open Source Java Decompiler Gui for Procyon |
-| 4482 | 4580 | 6 | 34 minutes ago | [camel](https://github.com/apache/camel)/193 | Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data. |
-| 4433 | 490 | 20 | 3 months ago | [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm)/194 | Reactive Streams Specification for the JVM |
-| 4433 | 1020 | 13 | 1 year, 3 months ago | [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar)/195 | A small Android library allowing you to have a smooth and customizable horizontal or circular indeterminate ProgressBar |
-| 4398 | 853 | 46 | 7 days ago | [CameraView](https://github.com/natario1/CameraView)/196 | 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size. |
-| 4343 | 1099 | 2 | 1 year, 5 months ago | [SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit)/197 | SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list |
-| 4332 | 1602 | 70 | 5 years ago | [android-volley](https://github.com/mcxiaoke/android-volley)/198 | DEPRECATED |
-| 4323 | 712 | 26 | 2 years ago | [BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)/199 | This Library helps users to use Bottom Navigation Bar (A new pattern from google) with ease and allows ton of customizations |
-| 4303 | 1020 | 69 | 4 years ago | [GT](https://github.com/Tencent/GT)/200 | GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones. |
-| 5013 | 1119 | 262 | 4 years ago | [Small](https://github.com/wequick/Small)/201 | A small framework to split app into small parts |
-| 5003 | 2699 | 18 | 2 years ago | [android-common](https://github.com/Trinea/android-common)/202 | Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on |
-| 4990 | 780 | 145 | 11 months ago | [Aria](https://github.com/AriaLyy/Aria)/203 | 下载可以很简单 |
-| 4970 | 1670 | 1274 | 14 hours ago | [hazelcast](https://github.com/hazelcast/hazelcast)/204 |  Open-source distributed computation and storage platform |
-| 4954 | 1097 | 54 | 6 years ago | [RippleEffect](https://github.com/traex/RippleEffect)/205 | Implementation of Ripple effect from Material Design for Android API 9+ |
-| 4954 | 563 | 74 | 4 months ago | [vavr](https://github.com/vavr-io/vavr)/206 | vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality. |
-| 4947 | 1322 | 6 | 17 hours ago | [Discovery](https://github.com/Nepxion/Discovery)/207 | ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover 蓝绿、灰度、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移 |
-| 4939 | 1041 | 205 | 5 years ago | [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)/208 | 几行代码快速集成二维码扫描功能 |
-| 4923 | 630 | 6 | 11 months ago | [GravitySnapHelper](https://github.com/rubensousa/GravitySnapHelper)/209 | A SnapHelper that snaps a RecyclerView to an edge. |
-| 4917 | 1079 | 743 | 12 days ago | [GmsCore](https://github.com/microg/GmsCore)/210 | Free implementation of Play Services |
-| 4880 | 952 | 165 | 1 year, 10 months ago | [google-authenticator](https://github.com/google/google-authenticator)/211 | Open source version of Google Authenticator (except the Android app) |
-| 4878 | 857 | 8 | 1 year, 1 month ago | [folding-cell-android](https://github.com/Ramotion/folding-cell-android)/212 | :octocat: 📃  FoldingCell is a material design expanding content cell inspired by folding paper material made by @Ramotion |
-| 4858 | 505 | 7 | 2 years ago | [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)/213 |  Set of extra Transitions on top of Jetpack Transitions Library |
-| 4853 | 680 | 41 | 2 years ago | [LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup)/214 | :point_right: Customize the LayoutManager of RecyclerView(自定义LayoutManager) |
-| 4830 | 1222 | 695 | a month ago | [baritone](https://github.com/cabaletta/baritone)/215 | google maps for block game |
-| 4827 | 816 | 192 | 4 years ago | [smartTable](https://github.com/huangyanbin/smartTable)/216 | 一款android自动生成表格框架---An Android automatically generated table framework |
-| 4818 | 916 | 73 | 2 years ago | [lucida](https://github.com/claritylab/lucida)/217 | Speech and Vision Based Intelligent Personal Assistant |
-| 4809 | 594 | 42 | 1 year, 5 months ago | [EdXposed](https://github.com/ElderDrivers/EdXposed)/218 | Elder driver Xposed Framework. |
-| 4807 | 859 | 21 | a month ago | [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin)/219 | 下一代Android打包工具（对Gradle 7.x的支持，欢迎提PR） |
-| 4774 | 1162 | 107 | 6 years ago | [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)/220 | An Android staggered grid view which supports multiple columns with rows of varying sizes. |
-| 4753 | 1446 | 29 | 3 years ago | [uid-generator](https://github.com/baidu/uid-generator)/221 | UniqueID generator |
-| 4719 | 1262 | 523 | 7 months ago | [opentsdb](https://github.com/OpenTSDB/opentsdb)/222 | A scalable, distributed Time Series Database. |
-| 4715 | 1076 | 337 | 7 years ago | [ActiveAndroid](https://github.com/pardom-zz/ActiveAndroid)/223 | Active record style SQLite persistence for Android |
-| 4713 | 1222 | 183 | 6 years ago | [cardslib](https://github.com/gabrielemariotti/cardslib)/224 | Android Library to build a UI Card |
-| 4683 | 694 | 240 | 1 year, 2 months ago | [okdownload](https://github.com/lingochamp/okdownload)/225 | A Reliable, Flexible, Fast and Powerful download engine. |
-| 4645 | 972 | 107 | 2 years ago | [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)/226 | Pick a date or time on Android in style |
-| 4621 | 3054 | 145 | 4 minutes ago | [hbase](https://github.com/apache/hbase)/227 | Apache HBase |
-| 4618 | 2380 | 105 | 18 days ago | [spring-cloud-netflix](https://github.com/spring-cloud/spring-cloud-netflix)/228 | Integration with Netflix OSS components |
-| 4614 | 585 | 2 | 7 months ago | [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)/229 | :ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development |
-| 4606 | 1753 | 19 | 30 minutes ago | [groovy](https://github.com/apache/groovy)/230 | Apache Groovy: A powerful multi-faceted programming language for the JVM platform |
-| 4603 | 590 | 417 | 4 years ago | [go-lang-idea-plugin](https://github.com/go-lang-plugin-org/go-lang-idea-plugin)/231 | Google Go language IDE built using the IntelliJ Platform |
-| 4602 | 768 | 106 | 14 days ago | [google-java-format](https://github.com/google/google-java-format)/232 | Reformats Java source code to comply with Google Java Style. |
-| 4579 | 1646 | 41 | 5 years ago | [SimplifyReader](https://github.com/chentao0707/SimplifyReader)/233 | 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！ |
-| 4576 | 602 | 11 | 3 years ago | [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-)/234 | A library that gives depth to Views. |
-| 4567 | 1087 | 465 | 4 days ago | [janusgraph](https://github.com/JanusGraph/janusgraph)/235 | JanusGraph: an open-source, distributed graph database |
-| 4547 | 971 | 364 | 2 months ago | [PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)/236 | PLDroidPlayer 是七牛推出的一款免费的适用于 Android 平台的播放器 SDK，采用全自研的跨平台播放内核，拥有丰富的功能和优异的性能，可高度定制化和二次开发。 |
-| 4544 | 615 | 54 | 4 years ago | [bottomsheet](https://github.com/Flipboard/bottomsheet)/237 | Android component which presents a dismissible view from the bottom of the screen |
-| 4543 | 555 | 53 | 3 years ago | [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView)/238 | An page indicator for Android ViewPager |
-| 4534 | 1336 | 13 | 1 year, 3 months ago | [springboot-guide](https://github.com/CodingDocs/springboot-guide)/239 | SpringBoot2.0+从入门到实战！ |
-| 4520 | 1172 | 17 | 2 years ago | [Douya](https://github.com/zhanghai/Douya)/240 | 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com） |
-| 4504 | 462 | 217 | 2 years ago | [gnirehtet](https://github.com/Genymobile/gnirehtet)/241 | Gnirehtet provides reverse tethering for Android |
-| 4497 | 859 | 234 | 21 hours ago | [orientdb](https://github.com/orientechnologies/orientdb)/242 | OrientDB is the most versatile DBMS supporting Graph, Document, Reactive, Full-Text and Geospatial models in one Multi-Model product. OrientDB can run distributed (Multi-Master), supports SQL, ACID Transactions, Full-Text indexing and Reactive Queries. |
-| 4482 | 4580 | 6 | 34 minutes ago | [camel](https://github.com/apache/camel)/243 | Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data. |
-| 4460 | 1504 | 8 | 2 years ago | [bilibili-android-client](https://github.com/HotBitmapGG/bilibili-android-client)/244 | An unofficial bilibili client for android  http://www.jianshu.com/p/f69a55b94c05   -- 该项目已停止维护！ |
-| 4447 | 1492 | 4 | 5 days ago | [lamp-cloud](https://github.com/zuihou/lamp-cloud)/245 | lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot的微服务快速开发平台，其中的可配置的SaaS功能尤其闪耀， 具备RBAC功能、网关统一鉴权、Xss防跨站攻击、自动代码生成、多种存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。代码简洁，注释齐全，架构清晰，非常适合学习和企业作为基础框架使用。 |
-| 4444 | 1815 | 45 | 8 months ago | [gpmall](https://github.com/2227324689/gpmall)/246 | 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch |
-| 4441 | 573 | 98 | 3 years ago | [quasar](https://github.com/puniverse/quasar)/247 | Fibers, Channels and Actors for the JVM |
-| 4433 | 490 | 20 | 3 months ago | [reactive-streams-jvm](https://github.com/reactive-streams/reactive-streams-jvm)/248 | Reactive Streams Specification for the JVM |
-| 4428 | 1883 | 93 | 3 months ago | [FirebaseUI-Android](https://github.com/firebase/FirebaseUI-Android)/249 | Optimized UI components for Firebase |
-| 4398 | 853 | 46 | 7 days ago | [CameraView](https://github.com/natario1/CameraView)/250 | 📸 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs. Real-time filters, gestures, watermarks, frame processing, RAW, output of any size. |
-| 4390 | 1182 | 226 | 2 days ago | [AntennaPod](https://github.com/AntennaPod/AntennaPod)/251 | A podcast manager for Android |
-| 4389 | 1481 | 23 | 2 years ago | [Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action)/252 | Spring Boot 系列实战合集 |
-| 4373 | 2722 | 168 | 1 year, 2 months ago | [views-widgets-samples](https://github.com/android/views-widgets-samples)/253 | Multiple samples showing the best practices in views-widgets on Android. |
-| 4343 | 1099 | 2 | 1 year, 5 months ago | [SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit)/254 | SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list |
-| 4331 | 2272 | 27 | 5 years ago | [shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system)/255 | 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。 |
-| 4330 | 1475 | 1 | a month ago | [spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects)/256 | :fire: 该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring Boot 开发。 |
-| 4308 | 1199 | 212 | 1 year, 6 days ago | [ribbon](https://github.com/Netflix/ribbon)/257 | Ribbon is a Inter Process Communication (remote procedure calls) library with built in software load balancers. The primary usage model involves REST calls with various serialization scheme support. |
-| 4294 | 1019 | 96 | 1 year, 4 months ago | [BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)/258 | 多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位 |
-| 4279 | 743 | 58 | 6 months ago | [thumbnailator](https://github.com/coobird/thumbnailator)/259 | Thumbnailator - a thumbnail generation library for Java |
-| 4269 | 1476 | 0 | 4 months ago | [LintCode](https://github.com/awangdev/LintCode)/260 | Java Solutions to problems on LintCode/LeetCode |
-| 4249 | 1041 | 173 | 4 years ago | [ImagePicker](https://github.com/jeasonlzy/ImagePicker)/261 | 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数 |
-| 4210 | 2048 | 304 | 1 year, 6 months ago | [YCSB](https://github.com/brianfrankcooper/YCSB)/262 | Yahoo! Cloud Serving Benchmark |
-| 4210 | 1418 | 199 | a month ago | [web3j](https://github.com/web3j/web3j)/263 | Lightweight Java and Android library for integration with Ethereum clients |
-| 4164 | 1461 | 192 | 1 year, 9 months ago | [tx-lcn](https://github.com/codingapi/tx-lcn)/264 | LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases |
-| 4114 | 1244 | 166 | a day ago | [Conversations](https://github.com/iNPUTmice/Conversations)/265 | Conversations is an open source XMPP/Jabber client for Android |
-| 4108 | 1531 | 784 | 6 days ago | [azkaban](https://github.com/azkaban/azkaban)/266 | Azkaban workflow manager. |
-| 4106 | 1735 | 0 | 2 months ago | [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)/267 | 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置） |
-| 4102 | 833 | 44 | 5 years ago | [StepView](https://github.com/baoyachi/StepView)/268 | Step by step，just use HorizontalStepView，VerticalStepView. step indicator，flow indicator，timeline，order process，express status |
-| 4093 | 1697 | 61 | 2 years ago | [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation)/269 | Algorithms and Data Structures implemented in Java |
-| 4092 | 1667 | 219 | 1 year, 5 months ago | [datax-web](https://github.com/WeiYe-Jing/datax-web)/270 | DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。 |
-| 4080 | 715 | 25 | 1 year, 6 months ago | [CircleIndicator](https://github.com/ongakuer/CircleIndicator)/271 | A lightweight indicator like in nexus 5 launcher |
-| 4078 | 291 | 144 | a month ago | [objectbox-java](https://github.com/objectbox/objectbox-java)/272 | Fast lightweight Java Database for storing and syncing objects in Mobile & IoT  |
-| 4076 | 446 | 239 | 1 year, 5 months ago | [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)/273 | An open source GitHub Android client app, faster and concise. |
-| 4075 | 2186 | 18 | 2 years ago | [mybatis](https://github.com/tuguangquan/mybatis)/274 | mybatis源码中文注释 |
-| 4057 | 629 | 15 | 5 years ago | [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)/275 | ViewPager cards inspired by Duolingo |
-| 4034 | 939 | 14 | 5 years ago | [Phoenix](https://github.com/Yalantis/Phoenix)/276 | Phoenix Pull-to-Refresh |
-| 4026 | 848 | 81 | 5 years ago | [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton)/277 | [DEPRECATED] Android floating action button |
-| 4021 | 801 | 38 | 6 months ago | [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)/278 | AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~ |
-| 4017 | 1213 | 4 | 1 year, 10 months ago | [java-learning](https://github.com/brianway/java-learning)/279 | 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web |
-| 4011 | 487 | 128 | 8 hours ago | [vespa](https://github.com/vespa-engine/vespa)/280 | The open big data serving engine. https://vespa.ai |
-| 3999 | 1076 | 70 | a month ago | [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc)/281 | The WebRTC module for React Native |
-| 3989 | 1133 | 13 | 3 months ago | [IJPay](https://github.com/Javen205/IJPay)/282 | IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨  |
-| 3975 | 536 | 54 | 1 year, 4 months ago | [BadgeView](https://github.com/qstumn/BadgeView)/283 | 支持自由定制外观、拖拽消除的MaterialDesign风格Android BadgeView |
-| 3944 | 709 | 6 | 4 months ago | [XUI](https://github.com/xuexiangjys/XUI)/284 | 💍A simple and elegant Android native UI framework, free your hands! (一个简洁而优雅的Android原生UI框架，解放你的双手！) |
-| 3936 | 652 | 462 | a month ago | [Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge)/285 | We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more. |
-| 3928 | 609 | 42 | 3 days ago | [kafdrop](https://github.com/obsidiandynamics/kafdrop)/286 | Kafka Web UI |
-| 3914 | 535 | 69 | 4 years ago | [android-iconify](https://github.com/JoanZapata/android-iconify)/287 | Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,... |
-| 3910 | 787 | 120 | 2 months ago | [querydsl](https://github.com/querydsl/querydsl)/288 | Unified Queries for Java |
-| 3909 | 745 | 2 | 2 months ago | [jodd](https://github.com/oblac/jodd)/289 | Jodd! Lightweight. Java. Zero dependencies. Use what you like. |
-| 3883 | 405 | 29 | 1 year, 21 days ago | [BigImageViewer](https://github.com/Piasy/BigImageViewer)/290 | Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻 |
-| 3873 | 1221 | 75 | 2 years ago | [greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)/291 | Java诊断工具 |
-| 3873 | 394 | 51 | 4 years ago | [hawk](https://github.com/orhanobut/hawk)/292 | ✔️ Secure, simple key-value storage for Android |
-| 3872 | 4604 | 1894 | a day ago | [runelite](https://github.com/runelite/runelite)/293 | Open source Old School RuneScape client |
-| 3854 | 347 | 119 | 26 days ago | [Conductor](https://github.com/bluelinelabs/Conductor)/294 | A small, yet full-featured framework that allows building View-based Android applications |
-| 3816 | 615 | 146 | 7 days ago | [pig](https://github.com/pig-mesh/pig)/295 | ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2021 、Spring Boot 2.7、 OAuth2 的 RBAC 权限管理系统 |
-| 3814 | 717 | 443 | 3 hours ago | [armeria](https://github.com/line/armeria)/296 | Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard. |
-| 3797 | 632 | 167 | 5 years ago | [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)/297 | Cute library to implement SearchView in a Material Design Approach |
-| 3796 | 619 | 155 | 2 years ago | [malmo](https://github.com/microsoft/malmo)/298 | Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information: |
-| 3785 | 2436 | 30 | 6 years ago | [learning-spark](https://github.com/databricks/learning-spark)/299 | Example code from Learning Spark book |
-| 3773 | 557 | 133 | 1 year, 7 months ago | [RichText](https://github.com/zzhoujay/RichText)/300 | Android平台下的富文本解析器，支持Html和Markdown |
-| 7040 | 5121 | 771 | 8 hours ago | [spring-security](https://github.com/spring-projects/spring-security)/301 | Spring Security |
-| 7009 | 1483 | 343 | 4 months ago | [RePlugin](https://github.com/Qihoo360/RePlugin)/302 | RePlugin - A flexible, stable, easy-to-use Android Plug-in Framework |
-| 6992 | 2901 | 19 | 1 year, 9 months ago | [SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)/303 | Spring Cloud基础教程，持续连载更新中 |
-| 6986 | 1367 | 125 | 3 years ago | [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)/304 | A custom ViewPager title strip which gives continuous feedback to the user when scrolling |
-| 6959 | 2398 | 162 | 22 hours ago | [shenyu](https://github.com/apache/shenyu)/305 | Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. |
-| 6934 | 1584 | 379 | 3 months ago | [Mapper](https://github.com/abel533/Mapper)/306 | Mybatis Common Mapper - Easy to use |
-| 6907 | 232 | 76 | 5 days ago | [supertokens-core](https://github.com/supertokens/supertokens-core)/307 | Open source alternative to Auth0 / Firebase Auth / AWS Cognito  |
-| 6865 | 2419 | 216 | 5 years ago | [okhttputils](https://github.com/hongyangAndroid/okhttputils)/308 | [停止维护]okhttp的辅助类 |
-| 6859 | 1873 | 0 | 6 months ago | [LeetCode](https://github.com/yuanguangxin/LeetCode)/309 | LeetCode刷题记录与面试整理 |
-| 6770 | 1577 | 11 | 23 hours ago | [im-server](https://github.com/wildfirechat/im-server)/310 | 即时通讯(IM)系统 |
-| 6740 | 1512 | 287 | 8 days ago | [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql)/311 | Use SQL to query Elasticsearch |
-| 6738 | 2157 | 209 | 1 year, 10 months ago | [Timber](https://github.com/naman14/Timber)/312 | Material Design Music Player |
-| 6737 | 2552 | 224 | 2 years ago | [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)/313 | A plugin framework on android,Run any third-party apk without installation, modification or repackage |
-| 6719 | 2530 | 24 | 1 year, 26 days ago | [xmall](https://github.com/Exrick/xmall)/314 | 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 |
-| 6690 | 1934 | 132 | 3 years ago | [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout)/315 | [停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。 |
-| 6686 | 1318 | 91 | 5 days ago | [flyway](https://github.com/flyway/flyway)/316 | Flyway by Redgate • Database Migrations Made Easy. |
-| 6683 | 491 | 958 | 7 hours ago | [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)/317 | Ad free app for watching tube videos on Android TV boxes |
-| 6682 | 1367 | 101 | 3 minutes ago | [dataease](https://github.com/dataease/dataease)/318 | 人人可用的开源数据可视化分析工具。 |
-| 6656 | 2854 | 60 | 2 years ago | [VBlog](https://github.com/lenve/VBlog)/319 | V部落，Vue+SpringBoot实现的多用户博客管理平台! |
-| 6626 | 1077 | 39 | 7 days ago | [XPopup](https://github.com/li-xiaojun/XPopup)/320 | 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup view.) |
-| 6603 | 1676 | 494 | 3 days ago | [Paper](https://github.com/PaperMC/Paper)/321 | High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies |
-| 6584 | 1616 | 120 | 2 months ago | [angel](https://github.com/Angel-ML/angel)/322 | A Flexible and Powerful Parameter Server for large-scale machine learning |
-| 6573 | 1131 | 858 | 12 hours ago | [closure-compiler](https://github.com/google/closure-compiler)/323 | A JavaScript checker and optimizer. |
-| 6567 | 1113 | 171 | 2 years ago | [AndPermission](https://github.com/yanzhenjie/AndPermission)/324 | :strawberry: Permissions manager for Android platform. |
-| 6560 | 941 | 56 | an hour ago | [gocd](https://github.com/gocd/gocd)/325 | Main repository for GoCD - Continuous Delivery server |
-| 6541 | 2148 | 8 | a day ago | [ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)/326 | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 6534 | 1757 | 111 | a day ago | [FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks)/327 | Source for the TechEmpower Framework Benchmarks project |
-| 6534 | 2286 | 0 | 28 days ago | [yudao-cloud](https://github.com/YunaiV/yudao-cloud)/328 | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
-| 6524 | 1085 | 215 | a month ago | [Shadow](https://github.com/Tencent/Shadow)/329 | 零反射全动态Android插件框架 |
-| 6470 | 1018 | 102 | 1 year, 8 months ago | [walle](https://github.com/Meituan-Dianping/walle)/330 | Android Signature V2 Scheme签名下的新一代渠道包打包神器 |
-| 6462 | 661 | 505 | 13 hours ago | [plantuml](https://github.com/plantuml/plantuml)/331 | Generate diagrams from textual description |
-| 6436 | 1955 | 243 | 8 months ago | [react-native-push-notification](https://github.com/zo0r/react-native-push-notification)/332 | React Native Local and Remote Notifications |
-| 6419 | 990 | 52 | 5 years ago | [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor)/333 | A transparent ui-block detection library for Android. (known as BlockCanary) |
-| 6386 | 1766 | 18 | a month ago | [jmeter](https://github.com/apache/jmeter)/334 | Apache JMeter |
-| 6381 | 4093 | 49 | a month ago | [storm](https://github.com/apache/storm)/335 | Mirror of Apache Storm |
-| 6380 | 1661 | 184 | 3 years ago | [nanohttpd](https://github.com/NanoHttpd/nanohttpd)/336 | Tiny, easily embeddable HTTP server in Java. |
-| 6378 | 812 | 48 | 11 months ago | [Toasty](https://github.com/GrenderG/Toasty)/337 | The usual Toast, but with steroids 💪 |
-| 6376 | 1494 | 157 | 2 years ago | [android-floating-action-button](https://github.com/zendesk/android-floating-action-button)/338 | Floating Action Button for Android based on Material Design specification |
-| 6344 | 1256 | 40 | 1 year, 4 months ago | [RoundedImageView](https://github.com/vinc3m1/RoundedImageView)/339 | A fast ImageView that supports rounded corners, ovals, and circles. |
-| 6304 | 1062 | 336 | 1 year, 8 months ago | [ion](https://github.com/koush/ion)/340 | Android Asynchronous Networking and Image Loading |
-| 6285 | 908 | 8 | a day ago | [LSPosed](https://github.com/LSPosed/LSPosed)/341 | LSPosed Framework |
-| 6275 | 2433 | 110 | 1 year, 1 month ago | [mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui)/342 | mybatis-generator界面工具，让你生成代码更简单更快捷 |
-| 6270 | 2544 | 87 | 2 days ago | [react-native-video](https://github.com/react-native-video/react-native-video)/343 | A <Video /> component for react-native |
-| 6263 | 1243 | 536 | 9 hours ago | [testcontainers-java](https://github.com/testcontainers/testcontainers-java)/344 | Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. |
-| 6247 | 909 | 325 | 21 hours ago | [react-native-svg](https://github.com/react-native-svg/react-native-svg)/345 | SVG library for React Native, React Native Web, and plain React web projects. |
-| 6246 | 1533 | 510 | 4 months ago | [processing](https://github.com/processing/processing)/346 | Source code for the Processing Core and Development Environment (PDE) |
-| 6237 | 4246 | 20 | 11 hours ago | [tomcat](https://github.com/apache/tomcat)/347 | Apache Tomcat |
-| 6232 | 1707 | 201 | an hour ago | [datahub](https://github.com/datahub-project/datahub)/348 | The Metadata Platform for the Modern Data Stack |
-| 6231 | 1612 | 29 | a day ago | [karate](https://github.com/karatelabs/karate)/349 | Test Automation Made Simple |
-| 6230 | 739 | 137 | 10 months ago | [haven](https://github.com/guardianproject/haven)/350 | Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors |
-| 6224 | 976 | 1429 | 9 hours ago | [graylog2-server](https://github.com/Graylog2/graylog2-server)/351 | Free and open source log management |
-| 6178 | 2333 | 45 | 1 year, 8 days ago | [ansj_seg](https://github.com/NLPchina/ansj_seg)/352 | ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典 |
-| 6162 | 1879 | 4 | 9 months ago | [SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions)/353 | Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.  |
-| 6152 | 1844 | 36 | 1 year, 11 months ago | [BookReader](https://github.com/smuyyh/BookReader)/354 | :closed_book:  "任阅" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~ |
-| 6144 | 1326 | 359 | 3 years ago | [Android-Image-Cropper](https://github.com/ArthurHub/Android-Image-Cropper)/355 | Image Cropping Library for Android, optimized for Camera / Gallery. |
-| 6140 | 1440 | 119 | 4 years ago | [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)/356 | An Android library that help you to build app with swipe back gesture. |
-| 6119 | 1448 | 267 | 19 days ago | [javacv](https://github.com/bytedeco/javacv)/357 | Java interface to OpenCV, FFmpeg, and more |
-| 6117 | 759 | 19 | 9 hours ago | [aeron](https://github.com/real-logic/aeron)/358 | Efficient reliable UDP unicast, UDP multicast, and IPC message transport |
-| 6117 | 1066 | 196 | 6 years ago | [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)/359 | EditText in Material Design |
-| 6053 | 685 | 345 | 3 hours ago | [error-prone](https://github.com/google/error-prone)/360 | Catch common Java mistakes as compile-time errors |
-| 6047 | 890 | 212 | 18 hours ago | [lawnchair](https://github.com/LawnchairLauncher/lawnchair)/361 | No clever tagline needed. |
-| 6040 | 1358 | 219 | 2 years ago | [material](https://github.com/rey5137/material)/362 | A library to bring fully animated Material Design components to pre-Lolipop Android.  |
-| 6037 | 1222 | 5 | 10 months ago | [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)/363 | Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI". |
-| 6031 | 707 | 93 | 5 years ago | [physical-web](https://github.com/google/physical-web)/364 | The Physical Web: walk up and use anything |
-| 6028 | 1918 | 87 | 5 years ago | [remusic](https://github.com/aa112901/remusic)/365 | 仿网易云音乐 安卓版，netease  android，音乐播放器 在线 下载 |
-| 6010 | 1420 | 29 | 5 years ago | [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)/366 | A beautiful, slim Android ProgressBar. |
-| 5996 | 1566 | 111 | 1 year, 2 months ago | [async-http-client](https://github.com/AsyncHttpClient/async-http-client)/367 | Asynchronous Http and WebSocket Client library for Java  |
-| 5988 | 1922 | 2247 | 13 hours ago | [trino](https://github.com/trinodb/trino)/368 | Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) |
-| 5982 | 3032 | 72 | 8 hours ago | [pentaho-kettle](https://github.com/pentaho/pentaho-kettle)/369 | Pentaho Data Integration ( ETL ) a.k.a Kettle |
-| 5980 | 1684 | 472 | 2 months ago | [rest-assured](https://github.com/rest-assured/rest-assured)/370 | Java DSL for easy testing of REST services |
-| 5972 | 1048 | 118 | 7 months ago | [JFoenix](https://github.com/sshahine/JFoenix)/371 | JavaFX Material Design Library |
-| 5970 | 2017 | 91 | 5 years ago | [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)/372 | DL : dynamic load framework in android |
-| 5970 | 1614 | 5 | 3 years ago | [androidmvp](https://github.com/antoniolg/androidmvp)/373 | MVP Android Example |
-| 5953 | 3089 | 3 | 2 years ago | [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)/374 | Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等 |
-| 5940 | 3485 | 6 | a month ago | [rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials)/375 | Tutorials for using RabbitMQ in various ways |
-| 5938 | 2006 | 34 | 5 months ago | [xUtils3](https://github.com/wyouflf/xUtils3)/376 | Android orm, bitmap, http, view inject...  |
-| 5895 | 1274 | 42 | 7 days ago | [zfile](https://github.com/zfile-dev/zfile)/377 | 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载 |
-| 5893 | 932 | 70 | 5 hours ago | [j2objc](https://github.com/google/j2objc)/378 | A Java to iOS Objective-C translation tool and runtime. |
-| 5888 | 1165 | 208 | 1 year, 6 months ago | [richeditor-android](https://github.com/wasabeef/richeditor-android)/379 | RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android. |
-| 5883 | 1006 | 89 | 2 years ago | [Android-skin-support](https://github.com/ximsfei/Android-skin-support)/380 | Android-skin-support is an easy dynamic skin framework to use  for Android, Only one line of code to integrate it. Android 换肤框架, 极低的学习成本, 极好的用户体验. "一行"代码就可以实现换肤, 你值得拥有!!! |
-| 5881 | 4066 | 231 | 6 hours ago | [aws-doc-sdk-examples](https://github.com/awsdocs/aws-doc-sdk-examples)/381 | Welcome to the AWS Code Examples Repository.  This repo contains code examples used in the AWS documentation, AWS SDK Developer Guides, and more. For more information, see the Readme.rst file below. |
-| 5873 | 1524 | 377 | 28 days ago | [netty-socketio](https://github.com/mrniko/netty-socketio)/382 | Socket.IO server implemented on Java. Realtime java framework |
-| 5824 | 2725 | 896 | 3 hours ago | [alluxio](https://github.com/Alluxio/alluxio)/383 | Alluxio, data orchestration for analytics and machine learning in the cloud |
-| 5822 | 1567 | 187 | 17 days ago | [jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo)/384 | Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc |
-| 5821 | 2349 | 12 | 5 months ago | [Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform)/385 | 🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。 🔝 🔝 记得上边点个star 关注更新 |
-| 5801 | 1313 | 236 | 3 years ago | [material-calendarview](https://github.com/prolificinteractive/material-calendarview)/386 | A Material design back port of Android's CalendarView |
-| 5795 | 2687 | 111 | a day ago | [zeppelin](https://github.com/apache/zeppelin)/387 | Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more. |
-| 5790 | 1793 | 350 | 12 days ago | [motan](https://github.com/weibocom/motan)/388 | A cross-language remote procedure call(RPC) framework for rapid development of high performance distributed services. |
-| 5786 | 3613 | 4031 | 7 hours ago | [beam](https://github.com/apache/beam)/389 | Apache Beam is a unified programming model for Batch and Streaming data processing. |
-| 5769 | 2978 | 71 | 4 years ago | [springside4](https://github.com/springside/springside4)/390 | A Spring Framework based, pragmatic style JavaEE application reference architecture. |
-| 5767 | 1177 | 118 | 4 years ago | [BoomMenu](https://github.com/Nightonke/BoomMenu)/391 | A menu which can ... BOOM! - Android |
-| 5751 | 2273 | 8 | 1 year, 12 days ago | [FEBS-Shiro](https://github.com/febsteam/FEBS-Shiro)/392 | Spring Boot 2.4.2，Shiro1.6.0 & Layui 2.5.6 权限管理系统。 |
-| 5725 | 783 | 8 | 1 year, 3 months ago | [from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin)/393 | From Java To Kotlin - Your Cheat Sheet For Java To Kotlin |
-| 5718 | 932 | 246 | 4 months ago | [config](https://github.com/lightbend/config)/394 | configuration library for JVM languages using HOCON files |
-| 5716 | 847 | 57 | 4 years ago | [InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)/395 | Infinite cycle ViewPager with two-way orientation and interactive effect. |
-| 5711 | 960 | 14 | 4 years ago | [u2020](https://github.com/JakeWharton/u2020)/396 | A sample Android app which showcases advanced usage of Dagger among other open source libraries. |
-| 5705 | 2404 | 155 | 3 days ago | [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge)/397 | Modifications to the Minecraft base files to assist in compatibility between mods. |
-| 5694 | 1192 | 23 | 6 years ago | [DiskLruCache](https://github.com/JakeWharton/DiskLruCache)/398 | Java implementation of a Disk-based LRU cache which specifically targets Android compatibility. |
-| 5682 | 1530 | 310 | 1 year, 10 months ago | [springfox](https://github.com/springfox/springfox)/399 | Automated JSON API documentation for API's built with Spring |
-| 5681 | 2877 | 80 | 2 years ago | [springBoot](https://github.com/527515025/springBoot)/400 | springboot 框架与其它组件结合如 jpa、mybatis、websocket、security、shiro、cache等 |
-| 1917 | 328 | 29 | 4 months ago | [XBanner](https://github.com/xiaohaibin/XBanner)/401 | :fire:【图片轮播】支持图片无限轮播，支持AndroidX、自定义指示点、显示提示文字、切换动画、自定义布局，一屏多显、视频图片混合轮播等功能 |
-| 1913 | 386 | 36 | a month ago | [EasyProtector](https://github.com/lamster2018/EasyProtector)/402 | 一行代码检测XP/调试/多开/模拟器/root |
-| 1910 | 589 | 61 | 2 months ago | [jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater)/403 |  A Java server-side recording and playback solution based on JVM-Sandbox |
-| 1902 | 327 | 38 | 2 years ago | [poli](https://github.com/shzlw/poli)/404 | An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights. |
-| 1901 | 349 | 2 | a month ago | [XUpdate](https://github.com/xuexiangjys/XUpdate)/405 | 🚀A lightweight, high availability Android version update framework.(一个轻量级、高可用性的Android版本更新框架) |
-| 1894 | 551 | 17 | 1 year, 7 months ago | [PLMCodeTemplate](https://github.com/xwjie/PLMCodeTemplate)/406 | 给部门制定的代码框架模板 |
-| 1887 | 581 | 279 | a day ago | [connectbot](https://github.com/connectbot/connectbot)/407 | ConnectBot is the first SSH client for Android. |
-| 1887 | 634 | 37 | a day ago | [wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro)/408 | WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。 |
-| 1886 | 489 | 55 | 3 years ago | [QRCodeReaderView](https://github.com/dlazaro66/QRCodeReaderView)/409 | Modification of ZXING Barcode Scanner project for easy Android QR-Code detection and AR purposes |
-| 1881 | 412 | 7 | 6 months ago | [ponymusic](https://github.com/wangchenyan/ponymusic)/410 | Android online music player use okhttp&gson&material design |
-| 1878 | 1131 | 49 | 1 year, 2 months ago | [smart-sso](https://github.com/a466350665/smart-sso)/411 | springboot SSO 单点登录，OAuth2实现，支持App登录，支持分布式 |
-| 1876 | 410 | 59 | 3 years ago | [android-segmented-control](https://github.com/Kaopiz/android-segmented-control)/412 | ios UISegmentedControl for android |
-| 1875 | 450 | 16 | 4 years ago | [jianshi](https://github.com/wingjay/jianshi)/413 | A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style. |
-| 1874 | 885 | 18 | 3 years ago | [superCleanMaster](https://github.com/joyoyao/superCleanMaster)/414 | [DEPRECATED]  |
-| 1873 | 1292 | 3 | 4 years ago | [QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem)/415 | QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案。 |
-| 1871 | 183 | 164 | 2 years ago | [snowflake](https://github.com/subhra74/snowflake)/416 | Graphical SFTP client and terminal emulator with helpful utilities |
-| 1857 | 423 | 66 | 5 years ago | [DatePicker](https://github.com/AigeStudio/DatePicker)/417 | Useful and powerful date picker for android |
-| 1841 | 614 | 30 | 2 years ago | [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler)/418 | 一个简单、敏捷、分布式的支持SpringBoot的Java爬虫框架;An agile, distributed crawler framework. |
-| 1838 | 287 | 74 | a month ago | [protostuff](https://github.com/protostuff/protostuff)/419 | Java serialization library, proto compiler, code generator |
-| 1836 | 253 | 13 | 2 months ago | [commonmark-java](https://github.com/commonmark/commonmark-java)/420 | Java library for parsing and rendering CommonMark (Markdown) |
-| 1834 | 799 | 1 | 21 days ago | [PublicCMS](https://github.com/sanluan/PublicCMS)/421 | 200多万行代码修改 持续迭代7年 现代化java cms，轻松支撑千万数据、千万PV；支持静态化，服务器端包含; 目前已经拥有全球0.0004%(w3techs提供的数据)的用户，语言支持中、繁、日、英；是一个已走向海外的成熟CMS产品 |
-| 1831 | 313 | 1 | 6 years ago | [ProductTour](https://github.com/matrixxun/ProductTour)/422 | ProductTour is android sample project implementing a parallax effect welcome page using ViewPager and PageTransformer, similar to the one found in Google's app like Sheet, Drive, Docs... |
-| 1830 | 133 | 54 | 6 days ago | [Hyperion-Android](https://github.com/willowtreeapps/Hyperion-Android)/423 | App Debugging & Inspection Tool for Android |
-| 1828 | 223 | 101 | 6 months ago | [flexmark-java](https://github.com/vsch/flexmark-java)/424 | CommonMark/Markdown Java parser with source level AST. CommonMark 0.28, emulation of: pegdown, kramdown, markdown.pl, MultiMarkdown. With HTML to MD, MD to PDF, MD to DOCX  conversion modules. |
-| 1819 | 508 | 40 | 6 years ago | [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)/425 | a extends lib for android-percent-support(Google百分比布局库的扩展) |
-| 1800 | 662 | 108 | 2 months ago | [marytts](https://github.com/marytts/marytts)/426 | MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java |
-| 1799 | 578 | 13 | 2 months ago | [algorithms-sedgewick-wayne](https://github.com/reneargento/algorithms-sedgewick-wayne)/427 | Solutions to all the exercises of the Algorithms book by Robert Sedgewick and Kevin Wayne  |
-| 1796 | 723 | 49 | 8 years ago | [android-viewflow](https://github.com/pakerfeldt/android-viewflow)/428 | A horizontal view scroller library for Android |
-| 1792 | 513 | 72 | 1 year, 6 months ago | [open-event-organizer-android](https://github.com/fossasia/open-event-organizer-android)/429 | Open Event Mobile App for Organizers and Entry Managers https://play.google.com/store/apps/details?id=com.eventyay.organizer |
-| 1785 | 378 | 3 | 5 months ago | [AndroidProcesses](https://github.com/jaredrummler/AndroidProcesses)/430 | DEPRECATED |
-| 1784 | 304 | 504 | 6 days ago | [flutter-intellij](https://github.com/flutter/flutter-intellij)/431 | Flutter Plugin for IntelliJ |
-| 1782 | 433 | 50 | 2 months ago | [spring-retry](https://github.com/spring-projects/spring-retry)/432 | None |
-| 1775 | 534 | 80 | 3 months ago | [secor](https://github.com/pinterest/secor)/433 | Secor is a service implementing Kafka log persistence |
-| 1775 | 221 | 20 | 2 months ago | [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)/434 | 🔥🔥🔥 BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。现已支持androidx。 |
-| 1773 | 399 | 27 | 1 year, 6 months ago | [Fancybuttons](https://github.com/medyo/Fancybuttons)/435 | Icons, Borders, Radius ... for Android buttons |
-| 1769 | 369 | 5 | 9 months ago | [DeepVision](https://github.com/peng-zhihui/DeepVision)/436 | 在我很多项目中用到的CV算法推理框架应用。 |
-| 1768 | 942 | 286 | a month ago | [testng](https://github.com/cbeust/testng)/437 | TestNG testing framework |
-| 1768 | 205 | 17 | 4 years ago | [qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)/438 | Android Development Culture |
-| 1766 | 577 | 29 | 1 year, 9 months ago | [sia-task](https://github.com/siaorg/sia-task)/439 | 微服务任务调度框架 |
-| 1765 | 291 | 6 | 4 years ago | [welcome-android](https://github.com/stephentuso/welcome-android)/440 | A customizable welcome screen |
-| 1764 | 340 | 377 | 9 days ago | [grobid](https://github.com/kermitt2/grobid)/441 | A machine learning software for extracting information from scholarly documents |
-| 1764 | 124 | 5 | 3 years ago | [stampede](https://github.com/torodb/stampede)/442 | The ToroDB solution to provide better analytics on top of MongoDB and make it easier to migrate from MongoDB to SQL  |
-| 1759 | 1754 | 3 | 14 days ago | [spring-security-oauth](https://github.com/Baeldung/spring-security-oauth)/443 | Just Announced - "Learn Spring Security OAuth":  |
-| 1758 | 818 | 259 | 5 years ago | [FBReaderJ](https://github.com/geometer/FBReaderJ)/444 | Official FBReaderJ project repository |
-| 1756 | 232 | 24 | 4 years ago | [PaletteImageView](https://github.com/DingMouRen/PaletteImageView)/445 | 懂得智能配色的ImageView,还能给自己设置多彩的阴影哦。(Understand the intelligent color matching ImageView, but also to set their own colorful shadow Oh!) |
-| 1745 | 309 | 139 | 5 months ago | [jcommander](https://github.com/cbeust/jcommander)/446 | Command line parsing framework for Java |
-| 1744 | 262 | 32 | 2 years ago | [lancet](https://github.com/eleme/lancet)/447 | A lightweight and fast AOP framework for Android App and SDK developers |
-| 1730 | 360 | 29 | 6 years ago | [TimePickerDialog](https://github.com/JZXiang/TimePickerDialog)/448 | An Android time picker library. |
-| 1729 | 736 | 408 | 22 days ago | [framework](https://github.com/vaadin/framework)/449 | Vaadin 6, 7, 8   is a Java framework for modern Java web applications. |
-| 1727 | 1099 | 43 | 2 years ago | [staffjoy](https://github.com/spring2go/staffjoy)/450 | 微服务(Microservices)和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈 |
-| 1724 | 116 | 1 | 8 months ago | [Logout4Shell](https://github.com/Cybereason/Logout4Shell)/451 | Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell |
-| 1715 | 232 | 4 | 1 year, 3 months ago | [FingerprintIdentify](https://github.com/uccmawei/FingerprintIdentify)/452 | :+1: Android Fingerprint Verification SDK |
-| 1711 | 916 | 74 | 16 hours ago | [drill](https://github.com/apache/drill)/453 | Apache Drill is a distributed MPP query layer for self describing data |
-| 1707 | 317 | 56 | 4 years ago | [ViewPagerLayoutManager](https://github.com/leochuan/ViewPagerLayoutManager)/454 | ViewPager like LayoutManager which supports some awesome animations and infinite scroll. |
-| 1705 | 354 | 449 | 5 days ago | [Slide](https://github.com/Haptic-Apps/Slide)/455 | Slide is an open-source, ad-free Reddit browser for Android. |
-| 1705 | 1461 | 69 | 13 hours ago | [ambari](https://github.com/apache/ambari)/456 | Mirror of Apache Ambari |
-| 1703 | 585 | 3 | 8 days ago | [spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice)/457 | Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。 |
-| 1700 | 384 | 58 | 8 days ago | [dynmap](https://github.com/webbukkit/dynmap)/458 | A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations. |
-| 1699 | 797 | 17 | 3 years ago | [ssm-demo](https://github.com/ZHENFENG13/ssm-demo)/459 | :banana:Spring+SpringMVC+Mybatis+easyUI实现简单的后台管理系统 |
-| 1692 | 889 | 1 | 4 years ago | [spring-boot-demo](https://github.com/roncoo/spring-boot-demo)/460 | Spring Boot的基础教程，由浅入深，一步一步学习Spring Boot，最后学到的不单单是基础！Spring Cloud基础教程请看：https://github.com/roncoo/spring-cloud-demo |
-| 1688 | 556 | 12 | 2 years ago | [TouTiao](https://github.com/chaychan/TouTiao)/461 | 精仿今日头条 |
-| 1685 | 575 | 57 | 10 days ago | [remote-desktop-clients](https://github.com/iiordanov/remote-desktop-clients)/462 | VNC, RDP, SPICE, and oVirt/RHEV/Proxmox Clients for Android and Blackberry 10 |
-| 1682 | 219 | 26 | 3 years ago | [Recovery](https://github.com/Sunzxyong/Recovery)/463 | a crash recovery framework.（一个App异常恢复框架） |
-| 1680 | 290 | 83 | 5 months ago | [stagemonitor](https://github.com/stagemonitor/stagemonitor)/464 | an open source solution to application performance monitoring for java server applications |
-| 1679 | 301 | 179 | 9 days ago | [SkyTube](https://github.com/SkyTubeTeam/SkyTube)/465 | Copylefted libre / open source YouTube player for Android |
-| 1679 | 510 | 138 | 1 year, 4 months ago | [jmxtrans](https://github.com/jmxtrans/jmxtrans)/466 | jmxtrans |
-| 1677 | 246 | 4 | 2 years ago | [MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView)/467 | 一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图。 |
-| 1676 | 431 | 18 | 4 months ago | [java-sec-code](https://github.com/JoyChou93/java-sec-code)/468 | Java web common vulnerabilities and security code which is base on springboot and spring security |
-| 1675 | 439 | 17 | 7 years ago | [FlatUI](https://github.com/eluleci/FlatUI)/469 | Android FlatUI Kit |
-| 1674 | 481 | 26 | 19 days ago | [Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework)/470 | Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件 |
-| 1674 | 309 | 129 | 13 days ago | [jdbi](https://github.com/jdbi/jdbi)/471 | jdbi is designed to provide convenient tabular data access in Java; including templated SQL, parameterized and strongly typed queries, and Streams integration |
-| 1673 | 373 | 45 | 1 year, 2 months ago | [SandHook](https://github.com/asLody/SandHook)/472 | Android ART Hook/Native Inline Hook/Single Instruction Hook - support 4.4 - 11.0 32/64 bit - Xposed API Compat |
-| 1672 | 232 | 6 | 2 years ago | [GlidePalette](https://github.com/florent37/GlidePalette)/473 | Android Lollipop Palette is now easy to use with Glide |
-| 1672 | 368 | 0 | 5 months ago | [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter)/474 | An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers. Each Section can have its state controlled individually. |
-| 1668 | 444 | 45 | 7 years ago | [chromeview](https://github.com/pwnall/chromeview)/475 | Proof of concept Android WebView implementation based on Chromium code |
-| 1665 | 906 | 13 | 5 years ago | [spring-boot-microservices](https://github.com/rohitghatol/spring-boot-microservices)/476 | Spring Boot Template for Micro services Architecture - Show cases how to use Zuul for API Gateway, Spring OAuth 2.0 as Auth Server, Multiple Resource (Web Services) Servers, Angular Web App, Eureka dor registration and Discover and Hystrix for circuit breaker |
-| 1664 | 314 | 11 | 2 years ago | [MultipleTheme](https://github.com/dersoncheng/MultipleTheme)/477 | Android换肤／夜间模式的Android框架，配合theme和换肤控件框架可以做到无缝切换换肤（无需重启应用和当前页面）。         This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity when you switch theme-mode. |
-| 1660 | 348 | 125 | 21 days ago | [kairosdb](https://github.com/kairosdb/kairosdb)/478 | Fast scalable time series database |
-| 1660 | 352 | 7 | 4 months ago | [TheMVP](https://github.com/kymjs/TheMVP)/479 | An Android MVP Architecture Diagram Framwork.  |
-| 1660 | 664 | 7 | 5 months ago | [android-examples](https://github.com/nisrulz/android-examples)/480 | :shipit: [Examples] Simple basic isolated apps, for budding android devs. |
-| 1658 | 206 | 49 | 7 months ago | [elassandra](https://github.com/strapdata/elassandra)/481 | Elassandra = Elasticsearch + Apache Cassandra |
-| 1656 | 336 | 0 | 4 years ago | [talon-twitter-holo](https://github.com/klinker24/talon-twitter-holo)/482 | [Deprecated] The Holo version of my popular Android Talon for Twitter app, 100% open-source |
-| 1647 | 187 | 1 | 2 years ago | [Just-Another-Android-App](https://github.com/athkalia/Just-Another-Android-App)/483 | An Android base app with loads of cool libraries/configuration NOT MAINTAINED |
-| 1643 | 580 | 53 | 2 years ago | [VirusBroadcast](https://github.com/KikiLetGo/VirusBroadcast)/484 | A java virus broadcast simulation |
-| 1642 | 216 | 18 | 3 years ago | [SlideUp-Android](https://github.com/mancj/SlideUp-Android)/485 | SlideUp is a small library that allows you to add sweet slide effect to any view. |
-| 1638 | 699 | 6 | 12 days ago | [BigDataGuide](https://github.com/MoRan1607/BigDataGuide)/486 | 大数据学习，从零开始学习大数据，包含大数据学习各阶段学习视频、面试资料 |
-| 1636 | 523 | 352 | 15 hours ago | [autopsy](https://github.com/sleuthkit/autopsy)/487 | Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.  |
-| 1629 | 254 | 81 | 5 days ago | [trime](https://github.com/osfans/trime)/488 | 同文安卓輸入法平臺3.x/Android-rime/Rime Input Method Engine for Android |
-| 1620 | 278 | 16 | 5 years ago | [Android-Pay](https://github.com/mayubao/Android-Pay)/489 | A pay library for Android, and which support Wechat pay and Ali pay. And developer can easily use Wechat pay in two lines of code. And developer can easily use Ali pay in three lines of code.             支持微信和支付宝两种主流支付的集成库， 两行代码实现微信支付， 三行代码实现支付宝支付 |
-| 1618 | 357 | 122 | 3 years ago | [smart-location-lib](https://github.com/mrmans0n/smart-location-lib)/490 | Android library project that lets you manage the location updates to be as painless as possible |
-| 1611 | 278 | 79 | 1 year, 1 month ago | [JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android)/491 | 📡 Native App over HTTP, on Android |
-| 1609 | 313 | 0 | 5 years ago | [VerticalSlideFragment](https://github.com/xmuSistone/VerticalSlideFragment)/492 | vertical slide to switch to the next fragment page,  looks like vertical viewpager |
-| 1607 | 704 | 19 | 4 years ago | [SpringBlog](https://github.com/Raysmond/SpringBlog)/493 | A simple blogging system implemented with Spring Boot + Hibernate + MySQL + Bootstrap4.  |
-| 1607 | 311 | 27 | 4 years ago | [RecyclerBanner](https://github.com/ren93/RecyclerBanner)/494 | 用RecyclerView实现无限轮播图，有普通版和3d版 |
-| 1601 | 479 | 2 | 3 years ago | [KingTV](https://github.com/jenly1314/KingTV)/495 | 📺 【暂停维护】高仿全民直播（全民TV），项目采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建。因为全民TV已经凉了，导致App已经连不上了。在这里特意向你推荐MVPFrame： https://github.com/jenly1314/MVPFrame 和你值得拥有的MVVMFrame快速开发框架:  https://github.com/jenly1314/MVVMFrame  |
-| 1595 | 725 | 28 | 15 hours ago | [jshERP](https://github.com/jishenghua/jshERP)/496 | 华夏ERP基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。 |
-| 1594 | 1600 | 80 | 2 months ago | [lemon](https://github.com/xuhuisheng/lemon)/497 | 开源OA |
-| 1592 | 159 | 47 | 1 year, 9 months ago | [rapidoid](https://github.com/rapidoid/rapidoid)/498 | Rapidoid - Extremely Fast, Simple and Powerful Java Web Framework and HTTP Server! |
-| 1590 | 342 | 0 | 4 years ago | [PhotoNoter](https://github.com/yydcdut/PhotoNoter)/499 | :notebook:Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+AspectJ+Dex处理)       |
-| 1587 | 306 | 24 | 5 years ago | [SmoothCheckBox](https://github.com/andyxialm/SmoothCheckBox)/500 | :dango: A custom CheckBox with animation for Android. |
-| 2544 | 112 | 158 | 10 months ago | [lbry-android](https://github.com/lbryio/lbry-android)/501 | The LBRY Android app |
-| 2535 | 564 | 13 | 20 days ago | [android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher)/502 | Android SQLite API based on SQLCipher |
-| 2534 | 1312 | 22 | 14 days ago | [Openfire](https://github.com/igniterealtime/Openfire)/503 | An XMPP server licensed under the Open Source Apache License. |
-| 2519 | 758 | 241 | 2 years ago | [paho.mqtt.android](https://github.com/eclipse/paho.mqtt.android)/504 | MQTT Android |
-| 2513 | 399 | 11 | 9 months ago | [ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog)/505 | A simple watchdog that detects Android ANR (Application Not Responding) error and throws a meaningful exception |
-| 2513 | 510 | 45 | 7 years ago | [Android-ItemTouchHelper-Demo](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)/506 | Basic example of using ItemTouchHelper to add drag & drop and swipe-to-dismiss to RecyclerView. |
-| 2513 | 1144 | 190 | a day ago | [logback](https://github.com/qos-ch/logback)/507 | The reliable, generic, fast and flexible logging framework for Java. |
-| 2511 | 363 | 3 | 4 hours ago | [TagMo](https://github.com/HiddenRamblings/TagMo)/508 | None |
-| 2505 | 599 | 0 | 1 year, 3 months ago | [ViewServer](https://github.com/romainguy/ViewServer)/509 | Local server for Android's HierarchyViewer |
-| 2493 | 492 | 38 | 1 year, 11 months ago | [html-textview](https://github.com/SufficientlySecure/html-textview)/510 | TextView to display simple HTML |
-| 2493 | 275 | 35 | 2 years ago | [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork)/511 |  Android library listening network connection state and Internet connectivity with RxJava Observables |
-| 2480 | 475 | 37 | 1 year, 11 months ago | [Telecine](https://github.com/JakeWharton/Telecine)/512 | Record full-resolution video on your Android devices. |
-| 2479 | 1054 | 41 | 8 years ago | [android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)/513 | DEPRECATED This project aims to provide a reusable pull to refresh widget for Android. |
-| 2478 | 522 | 74 | 7 years ago | [AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)/514 | :four_leaf_clover:A beautiful android tag group widget. |
-| 2476 | 335 | 8 | 2 years ago | [AndroidGodEye](https://github.com/Kyson/AndroidGodEye)/515 | An app performance monitor(APM) , like "Android Studio profiler", you can easily monitor the performance of your app real time in browser |
-| 2474 | 173 | 5 | 2 years ago | [condom](https://github.com/oasisfeng/condom)/516 | 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』） |
-| 2467 | 440 | 481 | 2 hours ago | [zeebe](https://github.com/camunda/zeebe)/517 | Distributed Workflow Engine for Microservices Orchestration |
-| 2465 | 501 | 132 | 3 years ago | [Album](https://github.com/yanzhenjie/Album)/518 | :watermelon: Album and Gallery for Android platform. |
-| 2460 | 113 | 22 | 27 days ago | [skija](https://github.com/JetBrains/skija)/519 | Java bindings for Skia |
-| 2456 | 627 | 31 | 5 years ago | [SopCastComponent](https://github.com/LaiFeng-Android/SopCastComponent)/520 | 该项目不再维护，仅供学习参考 |
-| 2447 | 624 | 17 | 6 years ago | [Material-Movies](https://github.com/saulmm/Material-Movies)/521 | [Deprecated] An application about movies with material design |
-| 2443 | 1056 | 166 | a day ago | [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)/522 | Open source note-taking application for Android |
-| 2436 | 1193 | 172 | 19 days ago | [spring-data-jpa](https://github.com/spring-projects/spring-data-jpa)/523 | Simplifies the development of creating a JPA-based data access layer.  |
-| 2434 | 1051 | 34 | 8 months ago | [weixin-popular](https://github.com/liyiorg/weixin-popular)/524 | 微信SDK  JAVA  (公众平台、开放平台、 商户平台、 服务商平台) |
-| 2434 | 1084 | 56 | 1 year, 11 months ago | [susi_server](https://github.com/fossasia/susi_server)/525 | SUSI.AI server backend - the Artificial Intelligence server for personal assistants  https://api.susi.ai |
-| 2426 | 398 | 34 | 6 years ago | [android-priority-jobqueue](https://github.com/path/android-priority-jobqueue)/526 | A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability. |
-| 2424 | 409 | 33 | 5 years ago | [FreeFlow](https://github.com/Comcast/FreeFlow)/527 | A layout engine for Android that decouples layouts from the View containers that manage scrolling and view recycling. FreeFlow makes it really easy to create custom layouts and beautiful transition animations as data and layouts change |
-| 2419 | 247 | 15 | 4 years ago | [android-material-design-icon-generator-plugin](https://github.com/konifar/android-material-design-icon-generator-plugin)/528 | This plugin help you to set material design icon to your project. |
-| 2410 | 297 | 26 | 3 years ago | [tape](https://github.com/square/tape)/529 | A lightning fast, transactional, file-based FIFO for Android and Java. |
-| 2400 | 927 | 226 | a day ago | [osmdroid](https://github.com/osmdroid/osmdroid)/530 | OpenStreetMap-Tools for Android |
-| 2398 | 114 | 131 | a month ago | [dolby_beta](https://github.com/nining377/dolby_beta)/531 | 杜比大喇叭的β版迎来了重大的革新，合并了UnblockMusic Pro的所有功能且更加强大，同时UnblockMusicPro_Xposed项目将会停止维护，让我们欢送这位老朋友！ |
-| 2398 | 389 | 2 | 4 days ago | [MyPerf4J](https://github.com/LinShunKang/MyPerf4J)/532 | High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it. |
-| 2397 | 200 | 21 | 2 years ago | [RxCache](https://github.com/VictorAlbertos/RxCache)/533 | Reactive caching library for Android and Java |
-| 2396 | 1659 | 34 | 20 days ago | [stickers](https://github.com/WhatsApp/stickers)/534 | This repository contains the iOS and Android sample apps and API for creating third party sticker packs for WhatsApp. |
-| 2392 | 382 | 77 | 3 months ago | [swagger2markup](https://github.com/Swagger2Markup/swagger2markup)/535 | A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentation. |
-| 2390 | 224 | 31 | 1 year, 7 months ago | [X2C](https://github.com/iReaderAndroid/X2C)/536 | Increase layout loading speed 200%  |
-| 2380 | 191 | 5 | 9 days ago | [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash)/537 | 🚀 Show a splash screen during app startup. Hide it when you are ready. |
-| 2379 | 320 | 8 | 5 years ago | [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim)/538 | A cool search view animation library  |
-| 2370 | 392 | 34 | 2 months ago | [ZXingLite](https://github.com/jenly1314/ZXingLite)/539 | 🔥 ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成更简单。（扫码识别速度快如微信） |
-| 2361 | 433 | 105 | 8 days ago | [thymeleaf](https://github.com/thymeleaf/thymeleaf)/540 | Thymeleaf is a modern server-side Java template engine for both web and standalone environments. |
-| 2343 | 569 | 42 | 3 months ago | [AndroidCamera](https://github.com/aserbao/AndroidCamera)/541 | 🔥🔥🔥自定义Android相机(仿抖音 TikTok)，其中功能包括视频人脸识别贴纸，美颜，分段录制，视频裁剪，视频帧处理，获取视频关键帧，视频旋转，添加滤镜，添加水印，合成Gif到视频，文字转视频，图片转视频，音视频合成，音频变声处理，SoundTouch，Fmod音频处理。 Android camera(imitation Tik Tok), which includes video editor,audio editor,video face recognition stickers, segment recording,video cropping, video frame processing, get the first video frame, key frame, video rotation, add filter Mirror ,add watermark ,add gif to video, add text to video, picture to video, audio and video synthesis, audio change processing, SoundTouch, Fmod audio processing. |
-| 2340 | 484 | 46 | 5 years ago | [material-ripple](https://github.com/balysv/material-ripple)/542 | Android L Ripple effect wrapper for Views |
-| 2336 | 298 | 0 | 1 year, 4 months ago | [FlowLayout](https://github.com/nex3z/FlowLayout)/543 | A flow layout for Android with auto-spacing. |
-| 2329 | 428 | 68 | 5 months ago | [JZVideo](https://github.com/Jzvd/JZVideo)/544 | 高度自定义的安卓视频框架 MediaPlayer exoplayer ijkplayer ffmpeg |
-| 2326 | 924 | 95 | 1 year, 6 months ago | [yugong](https://github.com/alibaba/yugong)/545 | 阿里巴巴去Oracle数据迁移同步工具(全量+增量,目标支持MySQL/DRDS) |
-| 2325 | 944 | 21 | 5 years ago | [TProfiler](https://github.com/alibaba/TProfiler)/546 | TProfiler是一个可以在生产环境长期使用的性能分析工具 |
-| 2318 | 585 | 6 | 9 hours ago | [unirest-java](https://github.com/Kong/unirest-java)/547 | Unirest in Java: Simplified, lightweight HTTP client library. |
-| 2316 | 808 | 49 | 2 years ago | [EasyTransaction](https://github.com/QNJR-GROUP/EasyTransaction)/548 | A distribute transaction solution（分布式事务） unified the usage of TCC , SAGA ,FMT (seata/fescar AutoCompensation)， reliable message, compensate and so on; |
-| 2314 | 149 | 29 | 6 months ago | [Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)/549 | Pixiv第三方Android客户端 |
-| 2313 | 1521 | 108 | 10 days ago | [flume](https://github.com/apache/flume)/550 | Mirror of Apache Flume |
-| 2306 | 421 | 104 | 2 years ago | [CameraFragment](https://github.com/florent37/CameraFragment)/551 | A simple easy-to-integrate Camera Fragment for Android |
-| 2305 | 881 | 30 | 16 days ago | [Smack](https://github.com/igniterealtime/Smack)/552 | A modular and portable open source XMPP client library written in Java for Android and Java (SE) VMs |
-| 2305 | 284 | 36 | 1 year, 5 months ago | [tray](https://github.com/GCX-HCI/tray)/553 | a SharedPreferences replacement for Android with multiprocess support |
-| 2296 | 324 | 67 | a month ago | [http-kit](https://github.com/http-kit/http-kit)/554 | http-kit is a minimalist, event-driven, high-performance Clojure HTTP server/client library with WebSocket and asynchronous support |
-| 2285 | 545 | 31 | 5 years ago | [FlycoDialog_Master](https://github.com/H07000223/FlycoDialog_Master)/555 | An Android Dialog Lib simplify customization. |
-| 2271 | 1160 | 50 | 2 years ago | [Java](https://github.com/HelloWorld521/Java)/556 | java项目实战练习 |
-| 2269 | 797 | 373 | a month ago | [DataSphereStudio](https://github.com/WeBankFinTech/DataSphereStudio)/557 | DataSphereStudio is a one stop data application development& management portal, covering scenarios including data exchange, desensitization/cleansing, analysis/mining, quality measurement, visualization, and task scheduling. |
-| 2268 | 1812 | 79 | 6 days ago | [deeplearning4j-examples](https://github.com/eclipse/deeplearning4j-examples)/558 | Deeplearning4j Examples (DL4J, DL4J Spark, DataVec) |
-| 2257 | 284 | 28 | 7 hours ago | [markor](https://github.com/gsantner/markor)/559 | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. |
-| 2244 | 328 | 38 | 1 year, 10 months ago | [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip)/560 | Navigation tab strip with smooth interaction. |
-| 2243 | 567 | 2 | 5 years ago | [Euclid](https://github.com/Yalantis/Euclid)/561 | User Profile Interface Animation |
-| 2242 | 698 | 233 | 2 days ago | [unidbg](https://github.com/zhkl0228/unidbg)/562 | Allows you to emulate an Android native library, and an experimental  iOS emulation |
-| 2240 | 586 | 36 | 7 years ago | [android-ripple-background](https://github.com/skyfishjy/android-ripple-background)/563 | A beautiful ripple animation for your app |
-| 2232 | 590 | 15 | 3 years ago | [C-OCR](https://github.com/ctripcorp/C-OCR)/564 |   C-OCR是携程自研的OCR项目，主要包括身份证、护照、火车票、签证等旅游相关证件、材料的识别。  项目包含4个部分，拒识、检测、识别、后处理。 |
-| 2230 | 680 | 39 | 2 years ago | [spring-boot-plus](https://github.com/geekidea/spring-boot-plus)/565 | :fire: Spring-Boot-Plus is a easy-to-use, high-speed, high-efficient,feature-rich, open source spring boot scaffolding. :rocket: |
-| 2229 | 406 | 51 | 11 months ago | [jasypt-spring-boot](https://github.com/ulisesbocchio/jasypt-spring-boot)/566 | Jasypt integration for Spring boot |
-| 2228 | 586 | 18 | 6 years ago | [h2o-2](https://github.com/h2oai/h2o-2)/567 | Please visit https://github.com/h2oai/h2o-3 for latest H2O |
-| 2227 | 453 | 1 | 3 years ago | [HelloDaemon](https://github.com/xingda920813/HelloDaemon)/568 | Android 服务保活/常驻 (Android service daemon using JobScheduler) |
-| 2223 | 724 | 23 | 5 years ago | [LookLook](https://github.com/xinghongfei/LookLook)/569 | A amazing reading app |
-| 2220 | 467 | 11 | 1 year, 9 months ago | [WeiXinRecordedDemo](https://github.com/Zhaoss/WeiXinRecordedDemo)/570 | 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑 |
-| 2220 | 1382 | 105 | a day ago | [avro](https://github.com/apache/avro)/571 | Apache Avro is a data serialization system. |
-| 2220 | 399 | 43 | 3 years ago | [Leonids](https://github.com/plattysoft/Leonids)/572 | A Particle System for standard Android UI: http://plattysoft.github.io/Leonids/ |
-| 2219 | 344 | 16 | a day ago | [spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent)/573 | Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent. |
-| 2214 | 941 | 53 | 2 years ago | [zkui](https://github.com/DeemOpen/zkui)/574 | A UI dashboard that allows CRUD operations on Zookeeper. |
-| 2209 | 463 | 3 | 6 years ago | [Android-Clean-Boilerplate](https://github.com/dmilicic/Android-Clean-Boilerplate)/575 | This is starter template for writing Android apps using Clean architecture |
-| 2204 | 513 | 428 | 1 year, 21 days ago | [materialistic](https://github.com/hidroh/materialistic)/576 | A material-design Hacker News Android reader |
-| 2203 | 357 | 38 | 1 year, 7 months ago | [RangeSeekBar](https://github.com/Jay-Goo/RangeSeekBar)/577 |  A beautiful and powerful SeekBar what supports single、 range、steps、vetical、custom（ 一款美观强大的支持单向、双向范围选择、分步、垂直、高度自定义的SeekBar) |
-| 2201 | 728 | 16 | 4 months ago | [community](https://github.com/codedrinker/community)/578 | 开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中…… 技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap |
-| 2201 | 371 | 9 | 1 year, 4 months ago | [RoundCornerProgressBar](https://github.com/akexorcist/RoundCornerProgressBar)/579 | [Android] Round Corner Progress Bar Library for Android |
-| 2199 | 688 | 110 | a month ago | [brave](https://github.com/openzipkin/brave)/580 | Java distributed tracing implementation compatible with Zipkin backend services. |
-| 2197 | 781 | 146 | 8 months ago | [AppAuth-Android](https://github.com/openid/AppAuth-Android)/581 | Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers. |
-| 2196 | 1197 | 39 | 2 years ago | [seckill](https://github.com/codingXiaxw/seckill)/582 | the source code of `seckill` with development documentation :zap: |
-| 2193 | 334 | 37 | 2 days ago | [rsocket-java](https://github.com/rsocket/rsocket-java)/583 | Java implementation of RSocket |
-| 2191 | 323 | 18 | 4 months ago | [Horizon](https://github.com/Yalantis/Horizon)/584 | Horizon - Simple visual equaliser for Android |
-| 2189 | 908 | 0 | 4 years ago | [android-ocr](https://github.com/rmtheis/android-ocr)/585 | Experimental optical character recognition app |
-| 2189 | 415 | 86 | 1 year, 4 months ago | [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)/586 | Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件 |
-| 2188 | 622 | 49 | 7 years ago | [HoloEverywhere](https://github.com/Prototik/HoloEverywhere)/587 | NO LONGER MAINTAINED. DEVELOP FOR 4.X+ DUDE. |
-| 2185 | 1059 | 0 | 2 years ago | [openjdk](https://github.com/unofficial-openjdk/openjdk)/588 | Do not send pull requests! Automated Git clone of various OpenJDK branches |
-| 2179 | 170 | 33 | 2 years ago | [mortar](https://github.com/square/mortar)/589 | A simple library that makes it easy to pair thin views with dedicated controllers, isolated from most of the vagaries of the Activity life cycle. |
-| 2179 | 274 | 89 | 27 days ago | [pdfsam](https://github.com/torakiki/pdfsam)/590 | PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages |
-| 2177 | 545 | 165 | 6 months ago | [android-inapp-billing-v3](https://github.com/anjlab/android-inapp-billing-v3)/591 | A lightweight implementation of Android In-app Billing Version 3 |
-| 2173 | 253 | 9 | 5 years ago | [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView)/592 | An imageView can auto scroll with device rotating. |
-| 2171 | 271 | 7 | 1 year, 6 months ago | [ExpandableLayout](https://github.com/cachapa/ExpandableLayout)/593 | An expandable layout container for Android |
-| 2169 | 786 | 85 | 3 years ago | [jieba-analysis](https://github.com/huaban/jieba-analysis)/594 | 结巴分词(java版) |
-| 2166 | 330 | 25 | 1 year, 1 month ago | [WMRouter](https://github.com/meituan/WMRouter)/595 | WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。 |
-| 2163 | 630 | 2 | 9 hours ago | [pac4j](https://github.com/pac4j/pac4j)/596 | Security engine for Java (authentication, authorization, multi frameworks): OAuth, CAS, SAML, OpenID Connect, LDAP, JWT... |
-| 2162 | 209 | 13 | 3 years ago | [ViewInspector](https://github.com/xfumihiro/ViewInspector)/597 | View Inspection Toolbar for Android Development |
-| 2157 | 236 | 24 | 5 years ago | [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx)/598 | make performance bottleneck detection easily when app blocked |
-| 2150 | 305 | 46 | 3 days ago | [react-native-view-shot](https://github.com/gre/react-native-view-shot)/599 | Snapshot a React Native view and save it to an image |
-| 2144 | 474 | 103 | 2 years ago | [NiceVieoPlayer](https://github.com/jianjunxiao/NiceVieoPlayer)/600 | IjkPlayer/MediaPlayer+TextureView，支持列表，完美切换全屏、小窗口的Android视频播放器  |
-| 4193 | 1634 | 107 | 13 days ago | [libsvm](https://github.com/cjlin1/libsvm)/601 | None |
-| 4192 | 696 | 57 | 6 years ago | [android-autofittextview](https://github.com/grantland/android-autofittextview)/602 | A TextView that automatically resizes text to fit perfectly within its bounds. |
-| 4177 | 654 | 687 | 1 year, 18 days ago | [linuxdeploy](https://github.com/meefik/linuxdeploy)/603 | Install and run GNU/Linux on Android |
-| 4164 | 1461 | 192 | 1 year, 9 months ago | [tx-lcn](https://github.com/codingapi/tx-lcn)/604 | LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases |
-| 4154 | 359 | 71 | a month ago | [Recaf](https://github.com/Col-E/Recaf)/605 | The modern Java bytecode editor |
-| 4153 | 674 | 61 | 3 years ago | [JKeyboardPanelSwitch](https://github.com/Jacksgong/JKeyboardPanelSwitch)/606 | For resolve the layout conflict when keybord & panel are switching (Android键盘面板冲突 布局闪动处理方案) |
-| 4152 | 551 | 29 | 3 years ago | [ShineButton](https://github.com/ChadCSong/ShineButton)/607 | This is a UI lib for Android. Effects like shining. |
-| 4149 | 939 | 968 | an hour ago | [pinot](https://github.com/apache/pinot)/608 | Apache Pinot - A realtime distributed OLAP datastore |
-| 4141 | 919 | 54 | 6 days ago | [DKVideoPlayer](https://github.com/Doikki/DKVideoPlayer)/609 | Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕，视频水印，视频滤镜 |
-| 4137 | 591 | 20 | 4 years ago | [CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)/610 | Combination of TabLayout and CoordinatorLayout./TabLayout和CoordinatorLayout相结合的折叠控件 |
-| 4123 | 491 | 23 | 3 years ago | [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB)/611 | IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected. |
-| 4114 | 1244 | 166 | a day ago | [Conversations](https://github.com/iNPUTmice/Conversations)/612 | Conversations is an open source XMPP/Jabber client for Android |
-| 4113 | 2431 | 24 | 7 hours ago | [JSON-java](https://github.com/stleary/JSON-java)/613 | A reference implementation of a JSON package in Java. |
-| 4111 | 798 | 50 | 1 year, 4 months ago | [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)/614 | 引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果 |
-| 4108 | 1531 | 784 | 6 days ago | [azkaban](https://github.com/azkaban/azkaban)/615 | Azkaban workflow manager. |
-| 4106 | 1735 | 0 | 2 months ago | [SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue)/616 | 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置） |
-| 4102 | 833 | 44 | 5 years ago | [StepView](https://github.com/baoyachi/StepView)/617 | Step by step，just use HorizontalStepView，VerticalStepView. step indicator，flow indicator，timeline，order process，express status |
-| 4093 | 1697 | 61 | 2 years ago | [java-algorithms-implementation](https://github.com/phishman3579/java-algorithms-implementation)/618 | Algorithms and Data Structures implemented in Java |
-| 4092 | 1667 | 219 | 1 year, 5 months ago | [datax-web](https://github.com/WeiYe-Jing/datax-web)/619 | DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。 |
-| 4087 | 1273 | 14 | 3 years ago | [dddsample-core](https://github.com/citerus/dddsample-core)/620 | This is the new home of the original DDD Sample app (previously hosted at sf.net)..  |
-| 4080 | 715 | 25 | 1 year, 6 months ago | [CircleIndicator](https://github.com/ongakuer/CircleIndicator)/621 | A lightweight indicator like in nexus 5 launcher |
-| 4078 | 531 | 72 | 1 year, 1 month ago | [Tangram-Android](https://github.com/alibaba/Tangram-Android)/622 | Tangram is a modular UI solution for building native page dynamically including Tangram for Android, Tangram for iOS and even backend CMS. This project provides the sdk on Android. |
-| 4078 | 291 | 144 | a month ago | [objectbox-java](https://github.com/objectbox/objectbox-java)/623 | Fast lightweight Java Database for storing and syncing objects in Mobile & IoT  |
-| 4076 | 446 | 239 | 1 year, 5 months ago | [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)/624 | An open source GitHub Android client app, faster and concise. |
-| 4075 | 2186 | 18 | 2 years ago | [mybatis](https://github.com/tuguangquan/mybatis)/625 | mybatis源码中文注释 |
-| 4070 | 1235 | 229 | a day ago | [bisq](https://github.com/bisq-network/bisq)/626 | A decentralized bitcoin exchange network |
-| 4057 | 629 | 15 | 5 years ago | [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)/627 | ViewPager cards inspired by Duolingo |
-| 4051 | 639 | 10 | 5 years ago | [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)/628 | Some beautiful android loading drawable, can be combined with any view as the LoadingView or the ProgressBar. Besides, some Drawable can customize the loading progress too. |
-| 4050 | 930 | 73 | 4 months ago | [GCViewer](https://github.com/chewiebug/GCViewer)/629 | Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector) |
-| 4040 | 2776 | 23 | 2 years ago | [InternetArchitect](https://github.com/bjmashibing/InternetArchitect)/630 | 年薪百万互联网架构师课程文档及源码(公开部分) |
-| 4035 | 987 | 1282 | 11 hours ago | [rstudio](https://github.com/rstudio/rstudio)/631 | RStudio is an integrated development environment (IDE) for R |
-| 4034 | 939 | 14 | 5 years ago | [Phoenix](https://github.com/Yalantis/Phoenix)/632 | Phoenix Pull-to-Refresh |
-| 4027 | 1041 | 137 | 18 days ago | [moco](https://github.com/dreamhead/moco)/633 | Easy Setup Stub Server |
-| 4026 | 848 | 81 | 5 years ago | [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton)/634 | [DEPRECATED] Android floating action button |
-| 4021 | 801 | 38 | 6 months ago | [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)/635 | AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~ |
-| 4017 | 1213 | 4 | 1 year, 10 months ago | [java-learning](https://github.com/brianway/java-learning)/636 | 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web |
-| 4016 | 430 | 29 | 1 year, 3 months ago | [simplify](https://github.com/CalebFenton/simplify)/637 | Android virtual machine and deobfuscator |
-| 4011 | 487 | 128 | 8 hours ago | [vespa](https://github.com/vespa-engine/vespa)/638 | The open big data serving engine. https://vespa.ai |
-| 4010 | 905 | 51 | 1 year, 4 months ago | [easy-rules](https://github.com/j-easy/easy-rules)/639 | The simple, stupid rules engine for Java |
-| 4009 | 552 | 27 | 3 years ago | [Bolts-Android](https://github.com/BoltsFramework/Bolts-Android)/640 | Bolts is a collection of low-level libraries designed to make developing mobile apps easier. |
-| 3999 | 1076 | 70 | a month ago | [react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc)/641 | The WebRTC module for React Native |
-| 3999 | 635 | 99 | 4 years ago | [FloatWindow](https://github.com/yhaolpz/FloatWindow)/642 | Andorid 任意界面悬浮窗，实现悬浮窗如此简单 |
-| 3989 | 1133 | 13 | 3 months ago | [IJPay](https://github.com/Javen205/IJPay)/643 | IJPay 让支付触手可及，封装了微信支付、QQ支付、支付宝支付、京东支付、银联支付、PayPal 支付等常用的支付方式以及各种常用的接口。不依赖任何第三方 mvc 框架，仅仅作为工具使用简单快速完成支付模块的开发，可轻松嵌入到任何系统里。右上角点下小星星✨  |
-| 3986 | 1323 | 468 | 8 hours ago | [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager)/644 | Material design file manager for Android |
-| 3975 | 536 | 54 | 1 year, 4 months ago | [BadgeView](https://github.com/qstumn/BadgeView)/645 | 支持自由定制外观、拖拽消除的MaterialDesign风格Android BadgeView |
-| 3965 | 877 | 22 | 4 years ago | [RxJavaSamples](https://github.com/rengwuxian/RxJavaSamples)/646 | RxJava 2 和 Retrofit 结合使用的几个最常见使用方式举例 |
-| 3963 | 802 | 44 | 4 years ago | [ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)/647 | Android's TextView that can expand/collapse like the Google Play's app description |
-| 3962 | 1334 | 653 | 13 days ago | [pmd](https://github.com/pmd/pmd)/648 | An extensible multilanguage static code analyzer. |
-| 3952 | 676 | 109 | 4 years ago | [TwinklingRefreshLayout](https://github.com/lcodecorex/TwinklingRefreshLayout)/649 | RefreshLayout that support for OverScroll and better than iOS.  支持下拉刷新和上拉加载的RefreshLayout,自带越界回弹效果，支持RecyclerView,AbsListView,ScrollView,WebView |
-| 3946 | 611 | 24 | 2 years ago | [CC](https://github.com/luckybilly/CC)/650 | 业界首个支持渐进式组件化改造的Android组件化开源框架，支持跨进程调用。Componentize your android project gradually. |
-| 3944 | 709 | 6 | 4 months ago | [XUI](https://github.com/xuexiangjys/XUI)/651 | 💍A simple and elegant Android native UI framework, free your hands! (一个简洁而优雅的Android原生UI框架，解放你的双手！) |
-| 3941 | 1843 | 224 | 4 years ago | [jstorm](https://github.com/alibaba/jstorm)/652 | Enterprise Stream Process Engine |
-| 3936 | 652 | 462 | a month ago | [Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge)/653 | We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more. |
-| 3933 | 1141 | 8 | 5 years ago | [XCL-Charts](https://github.com/xcltapestry/XCL-Charts)/654 | Android图表库(XCL-Charts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图(Circle Chart)、弧线比较图、散点图(Scatter Chart)、气泡图(Bubble Chart)、范围条形图(RangeBar Chart)等图表。其它特性还包括支持图表缩放、手势移动、点击响应、动画效果、多轴显示、图表参考线、混合图表及同数据源不同图表类型切换等。 |
-| 3928 | 609 | 42 | 3 days ago | [kafdrop](https://github.com/obsidiandynamics/kafdrop)/655 | Kafka Web UI |
-| 3927 | 6072 | 31 | 1 year, 5 months ago | [AndroidTutorialForBeginners](https://github.com/hussien89aa/AndroidTutorialForBeginners)/656 | Step by step to build Android apps using Android Studio |
-| 3915 | 540 | 62 | a month ago | [javacpp](https://github.com/bytedeco/javacpp)/657 | The missing bridge between Java and native C++ |
-| 3914 | 535 | 69 | 4 years ago | [android-iconify](https://github.com/JoanZapata/android-iconify)/658 | Android integration of multiple icon providers such as FontAwesome, Entypo, Typicons,... |
-| 3910 | 787 | 120 | 2 months ago | [querydsl](https://github.com/querydsl/querydsl)/659 | Unified Queries for Java |
-| 3909 | 745 | 2 | 2 months ago | [jodd](https://github.com/oblac/jodd)/660 | Jodd! Lightweight. Java. Zero dependencies. Use what you like. |
-| 3892 | 554 | 64 | 4 days ago | [lwjgl3](https://github.com/LWJGL/lwjgl3)/661 | LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications. |
-| 3883 | 1390 | 34 | 10 months ago | [hmily](https://github.com/dromara/hmily)/662 | Distributed transaction solutions |
-| 3883 | 405 | 29 | 1 year, 21 days ago | [BigImageViewer](https://github.com/Piasy/BigImageViewer)/663 | Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻 |
-| 3879 | 730 | 17 | 8 months ago | [epic](https://github.com/tiann/epic)/664 | Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 5.0~11 |
-| 3877 | 2219 | 16 | 28 days ago | [shiro](https://github.com/apache/shiro)/665 | Apache Shiro |
-| 3873 | 1221 | 75 | 2 years ago | [greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)/666 | Java诊断工具 |
-| 3873 | 394 | 51 | 4 years ago | [hawk](https://github.com/orhanobut/hawk)/667 | ✔️ Secure, simple key-value storage for Android |
-| 3872 | 4604 | 1894 | a day ago | [runelite](https://github.com/runelite/runelite)/668 | Open source Old School RuneScape client |
-| 3872 | 570 | 438 | 5 months ago | [powermock](https://github.com/powermock/powermock)/669 | PowerMock is a Java framework that allows you to unit test code normally regarded as untestable. |
-| 3869 | 693 | 145 | 3 years ago | [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)/670 | A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design. |
-| 3867 | 823 | 302 | a month ago | [frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin)/671 | "Maven-node-grunt-gulp-npm-node-plugin to end all maven-node-grunt-gulp-npm-plugins." A Maven plugin that downloads/installs Node and NPM locally, runs NPM install, Grunt, Gulp and/or Karma. |
-| 3854 | 347 | 119 | 26 days ago | [Conductor](https://github.com/bluelinelabs/Conductor)/672 | A small, yet full-featured framework that allows building View-based Android applications |
-| 3853 | 1148 | 196 | 7 days ago | [JSqlParser](https://github.com/JSQLParser/JSqlParser)/673 | JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern |
-| 3816 | 615 | 146 | 8 days ago | [pig](https://github.com/pig-mesh/pig)/674 | ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2021 、Spring Boot 2.7、 OAuth2 的 RBAC 权限管理系统 |
-| 3814 | 717 | 443 | 4 hours ago | [armeria](https://github.com/line/armeria)/675 | Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard. |
-| 3808 | 853 | 147 | 6 years ago | [roboguice](https://github.com/roboguice/roboguice)/676 | Google Guice on Android, version 3.0 [RETIRED] |
-| 3800 | 949 | 13 | an hour ago | [mockserver](https://github.com/mock-server/mockserver)/677 | MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding). |
-| 3797 | 632 | 167 | 5 years ago | [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)/678 | Cute library to implement SearchView in a Material Design Approach |
-| 3796 | 619 | 155 | 2 years ago | [malmo](https://github.com/microsoft/malmo)/679 | Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information: |
-| 3795 | 683 | 16 | 2 months ago | [JustTrustMe](https://github.com/Fuzion24/JustTrustMe)/680 | An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning |
-| 3792 | 340 | 109 | 9 hours ago | [picocli](https://github.com/remkop/picocli)/681 | Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.  |
-| 3788 | 284 | 46 | 9 days ago | [failsafe](https://github.com/failsafe-lib/failsafe)/682 | Fault tolerance and resilience patterns for the JVM |
-| 3787 | 858 | 71 | 7 days ago | [spring-authorization-server](https://github.com/spring-projects/spring-authorization-server)/683 | Spring Authorization Server |
-| 3785 | 2436 | 30 | 6 years ago | [learning-spark](https://github.com/databricks/learning-spark)/684 | Example code from Learning Spark book |
-| 3782 | 650 | 378 | 5 hours ago | [incubator-seatunnel](https://github.com/apache/incubator-seatunnel)/685 | SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). |
-| 3773 | 557 | 133 | 1 year, 7 months ago | [RichText](https://github.com/zzhoujay/RichText)/686 | Android平台下的富文本解析器，支持Html和Markdown |
-| 3771 | 1310 | 259 | a day ago | [graphhopper](https://github.com/graphhopper/graphhopper)/687 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
-| 3771 | 704 | 22 | 1 year, 9 months ago | [SmartCropper](https://github.com/pqpo/SmartCropper)/688 | 🔥 A library for cropping image in a smart way that can identify the border and correct the cropped image.    智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。 |
-| 3766 | 552 | 0 | 18 days ago | [concurrent](https://github.com/RedSpider1/concurrent)/689 | 这是RedSpider社区成员原创与维护的Java多线程系列文章。 |
-| 3762 | 1540 | 26 | a month ago | [ForestBlog](https://github.com/saysky/ForestBlog)/690 | 一个简单漂亮的SSM(Spring+SpringMVC+Mybatis)博客系统 |
-| 3738 | 774 | 82 | 6 years ago | [sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview)/691 | [UNMAINTAINED] Sticky Headers decorator for Android's RecyclerView |
-| 3735 | 196 | 58 | a day ago | [Aegis](https://github.com/beemdevelopment/Aegis)/692 | A free, secure and open source app for Android to manage your 2-step verification tokens. |
-| 3729 | 934 | 85 | 1 year, 1 day ago | [CircleProgress](https://github.com/lzyzsd/CircleProgress)/693 | CircleProgress, DonutProgress, ArcProgress |
-| 3718 | 862 | 75 | 4 years ago | [NoHttp](https://github.com/yanzhenjie/NoHttp)/694 | :lemon: Android实现Http标准协议框架，支持多种缓存模式，底层可动态切换OkHttp、URLConnection。 |
-| 3713 | 378 | 1 | 1 year, 6 months ago | [spruce-android](https://github.com/willowtreeapps/spruce-android)/695 | Spruce Animation Library |
-| 3705 | 636 | 27 | 2 years ago | [GuideView](https://github.com/binIoter/GuideView)/696 | 东半球最好用的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导串联展示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment |
-| 3705 | 937 | 213 | a month ago | [jitsi](https://github.com/jitsi/jitsi)/697 | Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features. |
-| 3702 | 2104 | 397 | 7 hours ago | [traccar](https://github.com/traccar/traccar)/698 | Traccar GPS Tracking System |
-| 3700 | 463 | 67 | a month ago | [open-location-code](https://github.com/google/open-location-code)/699 | Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist. |
-| 3699 | 1489 | 4 | a month ago | [microservices-platform](https://github.com/zlt2000/microservices-platform)/700 | 基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。 |
-| 1914 | 227 | 433 | 1 year, 12 days ago | [airsonic](https://github.com/airsonic/airsonic)/701 |  :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic) |
-| 1911 | 492 | 35 | 1 year, 6 months ago | [PinchImageView](https://github.com/boycy815/PinchImageView)/702 | 体验非常好的Android图片手势控件。 |
-| 1910 | 589 | 61 | 2 months ago | [jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater)/703 |  A Java server-side recording and playback solution based on JVM-Sandbox |
-| 1910 | 921 | 15 | 2 months ago | [sqli](https://github.com/x-ream/sqli)/704 | orm sql interface, Criteria, CriteriaBuilder, ResultMapBuilder |
-| 1909 | 450 | 77 | 3 months ago | [servicecomb-pack](https://github.com/apache/servicecomb-pack)/705 | Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by using Alpha as a transaction coordinator and Omega as an transaction agent . |
-| 1907 | 239 | 75 | 9 months ago | [lanterna](https://github.com/mabe02/lanterna)/706 | Java library for creating text-based GUIs |
-| 1906 | 270 | 11 | 20 days ago | [ratel](https://github.com/ainilili/ratel)/707 | 命令行斗地主! |
-| 1901 | 349 | 2 | a month ago | [XUpdate](https://github.com/xuexiangjys/XUpdate)/708 | 🚀A lightweight, high availability Android version update framework.(一个轻量级、高可用性的Android版本更新框架) |
-| 1899 | 786 | 9 | 2 months ago | [scm-biz-suite](https://github.com/doublechaintech/scm-biz-suite)/709 | 供应链中台系统基础版，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。 |
-| 1899 | 430 | 19 | 4 months ago | [kafka-monitor](https://github.com/linkedin/kafka-monitor)/710 | Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more. |
-| 1898 | 239 | 19 | 3 years ago | [AdaptiveTableLayout](https://github.com/Cleveroad/AdaptiveTableLayout)/711 | Library that makes it possible to read, edit and write CSV files |
-| 1893 | 533 | 121 | 7 months ago | [ninja](https://github.com/ninjaframework/ninja)/712 | Ninja is a full stack web framework for Java. Rock solid, fast and super productive. |
-| 1885 | 493 | 357 | 13 hours ago | [firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)/713 | Firebase Android SDK |
-| 1881 | 412 | 7 | 6 months ago | [ponymusic](https://github.com/wangchenyan/ponymusic)/714 | Android online music player use okhttp&gson&material design |
-| 1878 | 1003 | 29 | 7 months ago | [spring-cloud-code](https://github.com/SpringCloud/spring-cloud-code)/715 | 🔥《重新定义Spring Cloud实战》实体书对应源码，欢迎大家Star点赞收藏 |
-| 1876 | 965 | 92 | a day ago | [elasticsearch-hadoop](https://github.com/elastic/elasticsearch-hadoop)/716 |  :elephant: Elasticsearch real-time search and analytics natively integrated with Hadoop |
-| 1875 | 174 | 10 | 3 years ago | [TinyDancer](https://github.com/friendlyrobotnyc/TinyDancer)/717 | An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped |
-| 1866 | 507 | 144 | 21 days ago | [scouter](https://github.com/scouter-project/scouter)/718 | Scouter is an open source APM (Application Performance Management) tool. |
-| 1861 | 336 | 58 | 5 years ago | [SuspensionIndexBar](https://github.com/mcxtzhang/SuspensionIndexBar)/719 | 仿美团选择城市、微信通讯录、饿了么点餐列表的导航悬停分组索引列表。 |
-| 1859 | 538 | 43 | 4 months ago | [WSLiveDemo](https://github.com/WangShuo1143368701/WSLiveDemo)/720 | 音视频，直播SDK，rtmp推流，录制视频，滤镜。百万用户，线上迭代半年，已经稳定。 |
-| 1857 | 423 | 66 | 5 years ago | [DatePicker](https://github.com/AigeStudio/DatePicker)/721 | Useful and powerful date picker for android |
-| 1857 | 159 | 202 | 5 hours ago | [tlaplus](https://github.com/tlaplus/tlaplus)/722 | TLC is an explicit state model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.    |
-| 1855 | 262 | 0 | 2 years ago | [garland-view-android](https://github.com/Ramotion/garland-view-android)/723 | :octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Made by @Ramotion |
-| 1854 | 301 | 0 | 2 years ago | [material-design-data](https://github.com/Luosunce/material-design-data)/724 | 关于 Material Design 的一切资料都在这里 |
-| 1853 | 133 | 75 | 24 days ago | [mcaselector](https://github.com/Querz/mcaselector)/725 | A tool to select chunks from Minecraft worlds for deletion or export. |
-| 1853 | 331 | 29 | 6 months ago | [Xpatch](https://github.com/WindySha/Xpatch)/726 | 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device. |
-| 1850 | 333 | 14 | 5 years ago | [MVVMLight](https://github.com/Kelin-Hong/MVVMLight)/727 | A toolkit help to build Android MVVM Application |
-| 1848 | 878 | 78 | 9 months ago | [flinkStreamSQL](https://github.com/DTStack/flinkStreamSQL)/728 | 基于开源的flink，对其实时sql进行扩展；主要实现了流与维表的join，支持原生flink SQL所有的语法 |
-| 1847 | 276 | 52 | 9 months ago | [ECTranslation](https://github.com/Skykai521/ECTranslation)/729 | Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文. |
-| 1845 | 236 | 0 | 10 months ago | [scissors](https://github.com/lyft/scissors)/730 | ✂ Android image cropping library |
-| 1842 | 350 | 6 | 5 years ago | [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco)/731 | This project aims to provide a working page flip implementation for usage in ListView. |
-| 1841 | 629 | 2 | 5 months ago | [system-design-interviews](https://github.com/DreamOfTheRedChamber/system-design-interviews)/732 | None |
-| 1840 | 165 | 14 | 2 years ago | [Rosie](https://github.com/Karumi/Rosie)/733 | Rosie is an Android framework to create applications following the principles of Clean Architecture. |
-| 1838 | 287 | 74 | a month ago | [protostuff](https://github.com/protostuff/protostuff)/734 | Java serialization library, proto compiler, code generator |
-| 1838 | 267 | 52 | 1 year, 5 months ago | [CacheWebView](https://github.com/yale8848/CacheWebView)/735 | Custom implement Android WebView cache, offline website, let cahe config more simple and  flexible  |
-| 1837 | 213 | 27 | 7 months ago | [AirMapView](https://github.com/airbnb/AirMapView)/736 | A view abstraction to provide a map user interface with various underlying map providers |
-| 1836 | 365 | 43 | 9 months ago | [rootbeer](https://github.com/scottyab/rootbeer)/737 | Simple to use root checking Android library and sample app |
-| 1834 | 799 | 1 | 21 days ago | [PublicCMS](https://github.com/sanluan/PublicCMS)/738 | 200多万行代码修改 持续迭代7年 现代化java cms，轻松支撑千万数据、千万PV；支持静态化，服务器端包含; 目前已经拥有全球0.0004%(w3techs提供的数据)的用户，语言支持中、繁、日、英；是一个已走向海外的成熟CMS产品 |
-| 1830 | 1389 | 71 | 2 months ago | [aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide)/739 | The AWS Lambda Developer Guide |
-| 1830 | 190 | 4 | 9 days ago | [react-native-localize](https://github.com/zoontek/react-native-localize)/740 | 🌍 A toolbox for your React Native app localization |
-| 1829 | 180 | 73 | 10 months ago | [Cimoc](https://github.com/Haleydu/Cimoc)/741 | 漫画阅读器 |
-| 1829 | 560 | 2 | 5 years ago | [Titanic](https://github.com/romainpiel/Titanic)/742 | (DEPRECATED) Android experiment showing a sinking TextView |
-| 1828 | 691 | 93 | 5 days ago | [fitnesse](https://github.com/unclebob/fitnesse)/743 | FitNesse -- The Acceptance Test Wiki |
-| 1827 | 568 | 10 | 3 years ago | [JavaLambdaInternals](https://github.com/CarpenterLee/JavaLambdaInternals)/744 | 深入理解Java函数式编程和Streams API |
-| 1827 | 1903 | 13 | 2 months ago | [mybatis-plus-samples](https://github.com/baomidou/mybatis-plus-samples)/745 | MyBatis-Plus Samples |
-| 1824 | 205 | 48 | 4 months ago | [soter](https://github.com/Tencent/soter)/746 | A secure and quick biometric authentication standard and platform in Android held by Tencent. |
-| 1823 | 881 | 12 | 10 years ago | [Notes](https://github.com/MiCode/Notes)/747 | 小米便签社区开源版（Community edition of XM notepad/MIUI notes) |
-| 1823 | 591 | 45 | 2 months ago | [AisenWeiBo](https://github.com/wangdan/AisenWeiBo)/748 | 新浪微博第三方Android客户端 |
-| 1819 | 508 | 40 | 6 years ago | [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)/749 | a extends lib for android-percent-support(Google百分比布局库的扩展) |
-| 1817 | 235 | 13 | 2 months ago | [EVCache](https://github.com/Netflix/EVCache)/750 | A distributed in-memory data store for the cloud |
-| 1817 | 215 | 176 | 22 hours ago | [GraphScope](https://github.com/alibaba/GraphScope)/751 | 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习 |
-| 1816 | 358 | 1 | 2 years ago | [android-interview-guide](https://github.com/sucese/android-interview-guide)/752 | An interview guide for Android development engineers. |
-| 1814 | 436 | 35 | 3 years ago | [AsymmetricGridView](https://github.com/felipecsl/AsymmetricGridView)/753 | Android ListView that mimics a GridView with asymmetric items. Supports items with row span and column span |
-| 1813 | 745 | 2 | 4 years ago | [wechat-api](https://github.com/hellokaton/wechat-api)/754 | 🗯 wechat-api by java7. |
-| 1809 | 808 | 18 | 2 years ago | [funiture](https://github.com/kanwangzjm/funiture)/755 | 慕课网课程推荐 Java并发编程与高并发解决方案：http://coding.imooc.com/class/195.html Java开发企业级权限管理系统：http://coding.imooc.com/class/149.html github: https://github.com/kanwangzjm/funiture, spring项目，权限管理、系统监控、定时任务动态调整、qps限制、sql监控(邮件)、验证码服务、短链接服务、动态配置等 |
-| 1806 | 252 | 3 | 3 years ago | [FloatingView](https://github.com/UFreedom/FloatingView)/756 | FloatingView can make the target view floating above the anchor view with cool animation |
-| 1806 | 287 | 38 | 3 years ago | [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)/757 | Customizable Android full screen image viewer for Fresco library supporting "pinch to zoom" and "swipe to dismiss" gestures. Made by Stfalcon |
-| 1803 | 757 | 20 | 28 days ago | [thinking-in-spring-boot-samples](https://github.com/mercyblitz/thinking-in-spring-boot-samples)/758 | 小马哥书籍《Spring Boot 编程思想》示例工程 |
-| 1802 | 295 | 165 | 4 months ago | [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)/759 | Unofficial, FOSS-friendly fork of the original Telegram client for Android |
-| 1800 | 157 | 61 | 3 days ago | [FlatLaf](https://github.com/JFormDesigner/FlatLaf)/760 | FlatLaf - Swing Look and Feel (with Darcula/IntelliJ themes support) |
-| 1799 | 578 | 13 | 2 months ago | [algorithms-sedgewick-wayne](https://github.com/reneargento/algorithms-sedgewick-wayne)/761 | Solutions to all the exercises of the Algorithms book by Robert Sedgewick and Kevin Wayne  |
-| 1797 | 157 | 2 | 1 year, 4 months ago | [shortbread](https://github.com/MatthiasRobbers/shortbread)/762 | Android library that creates app shortcuts from annotations |
-| 1797 | 415 | 1 | 1 year, 1 month ago | [oryx](https://github.com/OryxProject/oryx)/763 | Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning |
-| 1796 | 383 | 22 | 7 years ago | [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)/764 | a custom pull-to-refresh layout which contains a interesting animation |
-| 1796 | 723 | 49 | 8 years ago | [android-viewflow](https://github.com/pakerfeldt/android-viewflow)/765 | A horizontal view scroller library for Android |
-| 1790 | 346 | 2 | 7 days ago | [jcasbin](https://github.com/casbin/jcasbin)/766 | An authorization library that supports access control models like ACL, RBAC, ABAC in Java |
-| 1787 | 321 | 12 | 9 days ago | [erupt](https://github.com/erupts/erupt)/767 | 🚀 纯 Java 注解，单个类文件，快速开发 Admin 管理后台。不生成任何代码、零前端代码、零 CURD、自动建表、注解式API、自定义服务逻辑，支持所有主流数据库，支持自定义页面，支持多数据源，提供二十几类业务组件，十几种展示形式，支持逻辑删除，动态定时任务，前端后端分离等。核心技术：Spring Boot、JPA、Reflect、TypeScript、NG-ZORRO等。 开源不易，记得右上角点个star鼓励作者~ |
-| 1785 | 249 | 41 | 4 years ago | [smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)/768 | Smooth version of Google Support Design AppBarLayout |
-| 1780 | 373 | 221 | a day ago | [pravega](https://github.com/pravega/pravega)/769 | Pravega - Streaming as a new software defined storage primitive |
-| 1777 | 430 | 8 | 5 years ago | [android-shapeLoadingView](https://github.com/zzz40500/android-shapeLoadingView)/770 | 高仿新版58 加载动画 |
-| 1776 | 675 | 151 | 1 year, 4 months ago | [java-apns](https://github.com/notnoop/java-apns)/771 | Java Apple Push Notification Service Provider |
-| 1775 | 498 | 0 | 6 years ago | [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)/772 | A simple app to showcase Androids Material Design and some of the cool new cool stuff in Android Lollipop. RecyclerView, CardView, ActionBarDrawerToggle, DrawerLayout, Animations, Android Compat Design, Toolbar |
-| 1773 | 399 | 27 | 1 year, 6 months ago | [Fancybuttons](https://github.com/medyo/Fancybuttons)/773 | Icons, Borders, Radius ... for Android buttons |
-| 1767 | 542 | 15 | 6 years ago | [base-adapter-helper](https://github.com/JoanZapata/base-adapter-helper)/774 | Abstraction for the usual BaseAdapter "ViewHolder" pattern |
-| 1763 | 227 | 3 | 5 years ago | [ENViews](https://github.com/codeestX/ENViews)/775 | :star2:A cool dynamic view library |
-| 1758 | 986 | 165 | 23 hours ago | [bc-java](https://github.com/bcgit/bc-java)/776 | Bouncy Castle Java Distribution (Mirror) |
-| 1756 | 407 | 16 | 2 years ago | [TranslateApp](https://github.com/maoruibin/TranslateApp)/777 | :memo: A translations app without interruptions, copy words and translate directly, show result by top view. |
-| 1756 | 587 | 20 | 5 years ago | [OpenCVForAndroid](https://github.com/kongqw/OpenCVForAndroid)/778 | 目标检测&目标追踪&人脸检测&人脸识别 |
-| 1756 | 413 | 371 | 3 days ago | [UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer)/779 | A DLNA, UPnP and HTTP(S) Media Server. |
-| 1752 | 268 | 35 | 1 year, 1 month ago | [GlideImageView](https://github.com/sunfusheng/GlideImageView)/780 | 基于Glide V4.9.0封装的图片加载库，可以监听加载图片时的进度 |
-| 1743 | 698 | 21 | 3 days ago | [pdfbox](https://github.com/apache/pdfbox)/781 | Mirror of Apache PDFBox |
-| 1742 | 443 | 14 | 7 years ago | [NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar)/782 | News Stand app makes the ActionBar not boring! |
-| 1742 | 807 | 22 | 4 months ago | [FEBS-Cloud](https://github.com/febsteam/FEBS-Cloud)/783 | 基于Spring Cloud Hoxton.RELEASE、Spring Cloud OAuth2 & Spring Cloud Alibaba & Element 微服务权限系统，开箱即用。 |
-| 1738 | 255 | 44 | 6 months ago | [AlphaPlayer](https://github.com/bytedance/AlphaPlayer)/784 | AlphaPlayer is a video animation engine. |
-| 1737 | 460 | 407 | 1 year, 6 days ago | [open-keychain](https://github.com/open-keychain/open-keychain)/785 | OpenKeychain is an OpenPGP implementation for Android. |
-| 1734 | 704 | 308 | 3 years ago | [react-native-fcm](https://github.com/evollu/react-native-fcm)/786 | react native module for firebase cloud messaging and local notification |
-| 1734 | 1040 | 191 | 12 days ago | [spring-session](https://github.com/spring-projects/spring-session)/787 | Spring Session |
-| 1730 | 315 | 59 | 1 year, 9 months ago | [material-intro](https://github.com/heinrichreimer/material-intro)/788 | A simple material design app intro with cool animations and a fluent API. |
-| 1730 | 914 | 5 | 3 years ago | [spring-cloud](https://github.com/yinjihuan/spring-cloud)/789 | 《Spring Cloud微服务-全栈技术与案例解析》和《Spring Cloud微服务 入门 实战与进阶》配套源码 |
-| 1729 | 317 | 44 | 2 years ago | [SwipeBack](https://github.com/liuguangqiang/SwipeBack)/790 | SwipeBack is an android library that can finish a activity by using gesture. |
-| 1728 | 330 | 40 | 5 years ago | [update](https://github.com/czy1121/update)/791 | 清晰灵活简单易用的应用更新库 |
-| 1728 | 759 | 34 | a month ago | [xxl-sso](https://github.com/xuxueli/xxl-sso)/792 | A distributed single-sign-on framework.（分布式单点登录框架XXL-SSO） |
-| 1722 | 176 | 10 | 6 years ago | [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid)/793 | This sample project shows how to apply MVP and Clean architecture on an Android app |
-| 1719 | 1264 | 44 | 5 days ago | [spring-kafka](https://github.com/spring-projects/spring-kafka)/794 | Provides Familiar Spring Abstractions for Apache Kafka |
-| 1718 | 370 | 35 | 6 years ago | [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin)/795 | 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity. |
-| 1715 | 518 | 1 | 1 year, 8 months ago | [Document](https://github.com/FangWW/Document)/796 | 📘  各种编程学习资料 (Android C C++ DataBase HTML5 JavaWeb ios python uml 人工智能 操作系统 数学 数据结构 程序员需要的技术 程序设计 编译原理 计算机组成与结构 计算机网络 设计模式 软件工程 面试经验) |
-| 1714 | 758 | 24 | 3 years ago | [android-art-res](https://github.com/singwhatiwanna/android-art-res)/797 | the source code in research art of android development |
-| 1712 | 325 | 17 | a month ago | [GifView](https://github.com/Cutta/GifView)/798 | Library for playing gifs on Android |
-| 1712 | 383 | 4 | 3 years ago | [dimens_sw](https://github.com/ladingwu/dimens_sw)/799 | Android UI适配方案 |
-| 1710 | 454 | 69 | 9 months ago | [neurolab-android](https://github.com/fossasia/neurolab-android)/800 | NeuroLab Android https://github.com/fossasia/neurolab-android/raw/apk/neurolab-dev-debug.apk |
-| 1423 | 358 | 169 | 14 days ago | [tabula-java](https://github.com/tabulapdf/tabula-java)/801 | Extract tables from PDF files |
-| 1421 | 211 | 36 | 23 days ago | [TTS](https://github.com/ag2s20150909/TTS)/802 | None |
-| 1415 | 382 | 34 | 2 years ago | [leveldb](https://github.com/dain/leveldb)/803 | Port of LevelDB to Java |
-| 1415 | 853 | 541 | 1 year, 2 months ago | [flutter_webview_plugin](https://github.com/fluttercommunity/flutter_webview_plugin)/804 | Community WebView Plugin - Allows Flutter to communicate with a native WebView.  |
-| 1414 | 197 | 136 | 6 months ago | [ha-bridge](https://github.com/bwssytems/ha-bridge)/805 | Home automation bridge that emulates a Philips Hue light system and can control other systems such as a Vera, Harmony Hub, Nest, MiLight bulbs or any other system that has an http/https/tcp/udp interface. This is a compact impl to run on small format computers. This is impl started from this project https://github.com/armzilla/amazon-echo-ha-bridge. |
-| 1410 | 331 | 18 | 3 years ago | [MVCHelper](https://github.com/LuckyJayce/MVCHelper)/806 | 实现下拉刷新，滚动底部自动加载更多，分页加载，自动切换显示网络失败布局，暂无数据布局，支持任意view，支持切换主流下拉刷新框架，真正的android MVC架构,listview,RecyclerView,refresh,loadmore |
-| 1410 | 633 | 1109 | 2 hours ago | [mage](https://github.com/magefree/mage)/807 | Magic Another Game Engine |
-| 1409 | 631 | 51 | 11 hours ago | [maps](https://github.com/rnmapbox/maps)/808 | A Mapbox react native module for creating custom maps |
-| 1409 | 410 | 5 | 15 days ago | [AndroidStudy](https://github.com/crazyqiang/AndroidStudy)/809 | 🔥 Android学习知识点总结 Jetpack、MVVM、Kotlin、ViewPager2、JUC多线程等，欢迎star！ |
-| 1407 | 805 | 36 | 5 years ago | [beauty_ssm](https://github.com/wosyingjun/beauty_ssm)/810 | 优雅的SSM（Spring+SpringMVC+Mybatis）框架 |
-| 1405 | 567 | 64 | 4 months ago | [jsprit](https://github.com/graphhopper/jsprit)/811 | jsprit is a java based, open source toolkit for solving rich vehicle routing problems |
-| 1404 | 397 | 54 | 6 years ago | [MaterialTabs](https://github.com/neokree/MaterialTabs)/812 | Custom Tabs with Material Design effects |
-| 1401 | 5 | 5 | 7 years ago | [ots15-companion](https://github.com/OpnTec/ots15-companion)/813 | Opentech Event app |
-| 1400 | 286 | 34 | 1 year, 22 days ago | [git-commit-id-maven-plugin](https://github.com/git-commit-id/git-commit-id-maven-plugin)/814 | Maven plugin which includes build-time git repository information into an POJO / *.properties). Make your apps tell you which version exactly they were built from! Priceless in large distributed deployments... :-) |
-| 1398 | 347 | 28 | 3 years ago | [Android-ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager)/815 | DEPRECATED |
-| 1397 | 402 | 8 | 7 years ago | [LDrawer](https://github.com/keklikhasan/LDrawer)/816 | Android drawer icon with material design animation |
-| 1397 | 663 | 17 | 7 days ago | [Springboot-Notebook](https://github.com/chengxy-nds/Springboot-Notebook)/817 | Springboot-Notebook 一个以 springboot 为基础开发框架， 整合 Redis 、Mysql 、 Rabbitmq 、ES 、MongoDB、sharding-jdbc 分库分表、zookeeper 、web人脸识别 、实时消息推送 、SQL优化、注册中心 、数据脱敏 等互联网主流技术， 文章图解理论配合实战案例，实现开发中常见功能点的综合项目。 本着拿来即用的原则，助力于减少开发者在工作中的学习成本。 |
-| 1396 | 120 | 10 | 2 months ago | [flow-core-x](https://github.com/FlowCI/flow-core-x)/818 | Powerful and user-friendly CI / CD server with high availability, parallel build, agent scaling |
-| 1394 | 127 | 6 | 4 months ago | [phrase](https://github.com/square/phrase)/819 | Phrase is an Android string resource templating library |
-| 1392 | 168 | 13 | 4 years ago | [mkloader](https://github.com/nntuyen/mkloader)/820 | Beautiful and smooth custom loading views |
-| 1392 | 52 | 27 | 4 years ago | [tailor](https://github.com/sleekbyte/tailor)/821 | Cross-platform static analyzer and linter for Swift. |
-| 1391 | 373 | 28 | 6 years ago | [Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)/822 | 仿iOS的AlertViewController |
-| 1389 | 171 | 8 | 5 years ago | [Particle](https://github.com/JeasonWong/Particle)/823 | It's a cool animation which can use in splash or somewhere else. |
-| 1387 | 361 | 26 | a month ago | [sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin)/824 | A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube |
-| 1386 | 742 | 22 | 3 years ago | [httpclientutil](https://github.com/Arronlong/httpclientutil)/825 | 该项目基于HttpClient-4.4.1封装的一个工具类。提供了更为简单的GET、POST及上传下载等功能。同时支持插件式配置Http-Header（包含自定义header）、配置SSL和Proxy等。 |
-| 1380 | 495 | 0 | 2 years ago | [android-FingerprintDialog](https://github.com/googlearchive/android-FingerprintDialog)/826 | Migrated: |
-| 1382 | 120 | 1 | 5 years ago | [AnimatorDurationTile](https://github.com/nickbutcher/AnimatorDurationTile)/827 | A quick settings tile to quickly set the animator duration scale. |
-| 1378 | 295 | 2 | 4 months ago | [servo](https://github.com/Netflix/servo)/828 | Netflix Application Monitoring Library |
-| 1378 | 302 | 70 | 3 months ago | [jnativehook](https://github.com/kwhat/jnativehook)/829 | Global keyboard and mouse listeners for Java. |
-| 1376 | 338 | 2 | 2 years ago | [QBox](https://github.com/OCNYang/QBox)/830 | :cat2:  RxJava+Retrofit+Okhttp+Glide + A life tool App, contains modules: news; jokes; constellation fortune; LED; weather; calendar; two-dimensional code, and more ...  小秋魔盒是一个生活工具  App，主要功能有：新闻资讯；微信精选美文；笑话趣图；星座运势；LED字幕；天气；日历；二维码；手电筒；老黄历。在开发中尽可能多的用了目前比较流行的框架和库。 |
-| 1376 | 189 | 1 | a month ago | [TitleBar](https://github.com/getActivity/TitleBar)/831 | Android 标题栏框架，从此布局属性不用记 |
-| 1375 | 286 | 32 | 30 days ago | [bootique](https://github.com/bootique/bootique)/832 | Bootique is a minimally opinionated platform for modern runnable Java apps. |
-| 1373 | 328 | 27 | 4 years ago | [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView)/833 | A RecyclerView solution, support addHeaderView、addFooterView |
-| 1370 | 245 | 26 | 4 years ago | [AlignTextView](https://github.com/androiddevelop/AlignTextView)/834 | 字体对齐的textview |
-| 1369 | 206 | 214 | 3 months ago | [gh4a](https://github.com/slapperwan/gh4a)/835 | Github client for Android |
-| 1367 | 212 | 12 | 5 years ago | [Amigo](https://github.com/eleme/Amigo)/836 | A hotfix library for Android platform, and not just this... |
-| 1367 | 226 | 14 | 3 months ago | [android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)/837 | Android Morphing Button |
-| 1364 | 314 | 0 | 2 years ago | [JD-Test](https://github.com/liu-xiao-dong/JD-Test)/838 | 仿京东app 全新组件化架构升级 |
-| 1363 | 253 | 73 | a month ago | [react-native-geolocation-service](https://github.com/Agontuk/react-native-geolocation-service)/839 | React native geolocation service for iOS and android |
-| 1368 | 249 | 0 | 2 years ago | [BezierMaker](https://github.com/venshine/BezierMaker)/840 | 🔥 通过de Casteljau算法绘制贝塞尔曲线，并计算它的切线，实现1-7阶贝塞尔曲线的形成动画。 |
-| 1361 | 285 | 5 | 21 hours ago | [mica](https://github.com/lets-mica/mica)/841 | Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。 🔝 🔝 记得右上角点个star 关注更新！ |
-| 1358 | 942 | 263 | 3 years ago | [cordova-plugin-background-mode](https://github.com/katzer/cordova-plugin-background-mode)/842 | Keep app running in background |
-| 1358 | 461 | 17 | 3 years ago | [canal_mysql_nosql_sync](https://github.com/liukelin/canal_mysql_nosql_sync)/843 | 基于canal 的 mysql 与 redis/memcached/mongodb 的 nosql 数据实时同步方案 案例 demo canal client |
-| 1354 | 266 | 21 | 7 years ago | [Android-StepsView](https://github.com/anton46/Android-StepsView)/844 | Android-StepsView |
-| 1346 | 81 | 37 | 4 days ago | [manifold](https://github.com/manifold-systems/manifold)/845 | Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more. |
-| 1346 | 221 | 13 | 4 years ago | [RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout)/846 | An efficient TabLayout library implemented with RecyclerView. |
-| 1346 | 369 | 17 | 4 years ago | [strman-java](https://github.com/shekhargulati/strman-java)/847 | A Java 8 string manipulation library.  |
-| 1344 | 209 | 13 | 6 months ago | [reflectasm](https://github.com/EsotericSoftware/reflectasm)/848 | High performance Java reflection |
-| 1340 | 202 | 7 | 5 years ago | [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)/849 | As the name describes, this is an Android library that you can use to show new messages badge and new features badge. |
-| 1340 | 181 | 13 | 1 year, 8 days ago | [RecyclerView-FastScroll](https://github.com/timusus/RecyclerView-FastScroll)/850 | A simple FastScroller for Android's RecyclerView |
-| 1339 | 468 | 115 | 30 days ago | [CountryCodePickerProject](https://github.com/hbb20/CountryCodePickerProject)/851 | Country Code Picker (CCP) is an android library which provides an easy way to search and select country or international phone code. Also supports Android EditText phone mask and international phone validation. |
-| 1341 | 222 | 10 | 1 year, 10 months ago | [Paginate](https://github.com/MarkoMilos/Paginate)/852 | Library for creating simple pagination functionality upon RecyclerView and AbsListView |
-| 1334 | 169 | 16 | 6 years ago | [FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView)/853 | Yet another floating search view implementation, also known as persistent search. |
-| 1333 | 1037 | 11 | 7 days ago | [geotools](https://github.com/geotools/geotools)/854 | Official GeoTools repository |
-| 1331 | 345 | 3 | 12 days ago | [AndroidAll](https://github.com/chiclaim/AndroidAll)/855 | Android 程序员需要掌握的技术栈：数据结构算法、程序架构、设计模式、性能优化、Kotlin、NDK、Jetpack，以及常用的开源框架源码分析如 Flutter、Router、RxJava、Glide、LeakCanary、Dagger2、Retrofit、OkHttp、ButterKnife 等 |
-| 1329 | 453 | 5 | 3 days ago | [sonic-server](https://github.com/SonicCloudOrg/sonic-server)/856 | 🎉Back end of Sonic cloud real machine testing platform. Sonic云真机测试平台后端服务。 |
-| 1328 | 262 | 30 | 5 months ago | [zt-zip](https://github.com/zeroturnaround/zt-zip)/857 | ZeroTurnaround ZIP Library |
-| 1327 | 259 | 11 | 2 years ago | [UpdatePlugin](https://github.com/easyandroidgroup/UpdatePlugin)/858 | 可任意定制的app更新组件。 |
-| 1322 | 344 | 14 | 7 days ago | [itext7](https://github.com/itext/itext7)/859 | iText 7 for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText 7 can be a boon to nearly every workflow. |
-| 1321 | 188 | 6 | 6 months ago | [EasyFlipView](https://github.com/wajahatkarim3/EasyFlipView)/860 | 💳 A quick and easy flip view through which you can create views with two sides like credit cards, poker cards etc. |
-| 1321 | 146 | 24 | 3 years ago | [Cipher.so](https://github.com/linisme/Cipher.so)/861 | A simple way to encrypt your secure data like passwords into a native .so library. |
-| 1320 | 277 | 14 | 3 years ago | [MaterialDateRangePicker](https://github.com/heysupratim/MaterialDateRangePicker)/862 | A material Date Range Picker based on wdullaers MaterialDateTimePicker |
-| 1320 | 369 | 2 | 5 years ago | [AndroidMultiChannelBuildTool](https://github.com/GavinCT/AndroidMultiChannelBuildTool)/863 | 安卓多渠道打包工具 |
-| 1319 | 138 | 37 | 3 months ago | [FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)/864 | A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification (https://material.io/components/buttons-floating-action-button#types-of-transitions) |
-| 1318 | 430 | 8 | 5 years ago | [ColorfulNews](https://github.com/kaku2015/ColorfulNews)/865 | A news-reading App (MVP+Dagger2+RxJava+Retrofit2+Material Design) |
-| 1317 | 147 | 1 | 30 days ago | [HaE](https://github.com/gh0stkey/HaE)/866 | HaE - Highlighter and Extractor, 赋能白帽 高效作战 |
-| 1317 | 156 | 143 | 11 months ago | [jsweet](https://github.com/cincheo/jsweet)/867 | A Java to JavaScript transpiler. |
-| 1316 | 182 | 9 | 1 year, 9 months ago | [AnimatedPieView](https://github.com/razerdp/AnimatedPieView)/868 | // 一个好吃的甜甜圈？ |
-| 1316 | 140 | 1 | 4 months ago | [EventHub](https://github.com/Codecademy/EventHub)/869 | An open source event analytics platform |
-| 1316 | 575 | 26 | 8 years ago | [android-actionbar](https://github.com/johannilsson/android-actionbar)/870 | DEPRECATED Android Action Bar Implementation |
-| 1315 | 925 | 1 | 2 years ago | [RandomImage](https://github.com/unline2/RandomImage)/871 | 一个能够获取随机图片的 Api，使用 SpringBoot 构建 |
-| 1314 | 471 | 34 | 1 year, 2 months ago | [pi4j-v1](https://github.com/Pi4J/pi4j-v1)/872 | Java I/O library for Raspberry Pi (GPIO, I2C, SPI, UART) |
-| 1310 | 246 | 10 | 3 years ago | [firing-range](https://github.com/google/firing-range)/873 | None |
-| 1308 | 431 | 0 | 1 year, 9 months ago | [android-utils](https://github.com/jingle1267/android-utils)/874 | It contains most of the Android utility classes.  |
-| 1307 | 231 | 8 | 5 years ago | [PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition)/875 | Simple tool which help you to implement activity and fragment transition for pre-Lollipop devices. |
-| 1306 | 576 | 0 | 4 years ago | [kkkajs](https://github.com/xuruoxuan/kkkajs)/876 | my js project |
-| 1304 | 218 | 1 | 2 years ago | [GifLoadingView](https://github.com/Rogero0o/GifLoadingView)/877 | Some loading GIF .    |
-| 1303 | 306 | 15 | 6 years ago | [WaveView](https://github.com/john990/WaveView)/878 | A wave view of android,can be used as progress bar. |
-| 1299 | 223 | 35 | 4 years ago | [RoboBinding](https://github.com/RoboBinding/RoboBinding)/879 | A data-binding Presentation Model(MVVM) framework for the Android platform. |
-| 1301 | 535 | 251 | 3 months ago | [spring-statemachine](https://github.com/spring-projects/spring-statemachine)/880 | Spring Statemachine is a framework for application developers to use state machine concepts with Spring. |
-| 1299 | 294 | 8 | 5 years ago | [XDroid](https://github.com/limedroid/XDroid)/881 | 轻量级Android快速开发框架 |
-| 1296 | 155 | 11 | 1 year, 8 months ago | [SimpleRatingBar](https://github.com/williamyyu/SimpleRatingBar)/882 | A simple RatingBar that you can easier to customize image and animations |
-| 1296 | 213 | 6 | 1 year, 4 months ago | [live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine)/883 | Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe. |
-| 1296 | 394 | 6 | 5 years ago | [Android-SwipeToDismiss](https://github.com/romannurik/Android-SwipeToDismiss)/884 | Android swipe-to-dismiss mini-library and sample code |
-| 1294 | 185 | 12 | 5 years ago | [AnimShopButton](https://github.com/mcxtzhang/AnimShopButton)/885 | A shopping cart button with a telescopic displacement rotation animation ...一个带伸缩位移旋转动画的购物车按钮 |
-| 1294 | 197 | 11 | 5 years ago | [ParticleTextView](https://github.com/Yasic/ParticleTextView)/886 | 一个用粒子动画显示文字的 Android 自定义 View |
-| 1293 | 282 | 6 | 2 years ago | [GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar)/887 | Android library to display progress like google does in some of his services. |
-| 1292 | 162 | 9 | 4 years ago | [Crescento](https://github.com/developer-shivam/Crescento)/888 | Add curve at bottom of image views and relative layouts. |
-| 1292 | 148 | 2 | 3 years ago | [coolMenu](https://github.com/notice501/coolMenu)/889 | A Cool Cards Menu Concept |
-| 1290 | 260 | 41 | 4 years ago | [RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)/890 | Quick solutions for Floating Action Button，RapidFloatingActionButton（RFAB） |
-| 1288 | 117 | 21 | 2 years ago | [ea-async](https://github.com/electronicarts/ea-async)/891 | EA Async implements async-await methods in the JVM. |
-| 1286 | 324 | 554 | a month ago | [CodenameOne](https://github.com/codenameone/CodenameOne)/892 | Cross-platform framework for building truly native mobile apps with Java or Kotlin. Write Once Run Anywhere support for iOS, Android, Desktop & Web. |
-| 1286 | 339 | 355 | 3 days ago | [dependency-track](https://github.com/DependencyTrack/dependency-track)/893 | Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. |
-| 1285 | 827 | 167 | 2 years ago | [dr-elephant](https://github.com/linkedin/dr-elephant)/894 | Dr. Elephant is a job and flow-level performance monitoring and tuning tool for Apache Hadoop and Apache Spark |
-| 1283 | 431 | 49 | 9 hours ago | [google-http-java-client](https://github.com/googleapis/google-http-java-client)/895 | Google HTTP Client Library for Java |
-| 1282 | 493 | 2 | 3 months ago | [pysonar2](https://github.com/yinwang0/pysonar2)/896 | PySonar2: a semantic indexer for Python with interprocedual type inference |
-| 1281 | 317 | 11 | 5 years ago | [RxjavaRetrofitDemo](https://github.com/tough1985/RxjavaRetrofitDemo)/897 | A demo show how to use Retrofit with Rxjava |
-| 1282 | 125 | 103 | 8 days ago | [Shelter](https://github.com/PeterCxy/Shelter)/898 | SThis repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter |
-| 1282 | 404 | 1 | 6 days ago | [FAANG](https://github.com/neerazz/FAANG)/899 | Competitive programming questions. |
-| 1281 | 225 | 86 | 5 years ago | [pegdown](https://github.com/sirthias/pegdown)/900 | A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions |
-| 898 | 122 | 7 | 5 years ago | [IconSwitch](https://github.com/polyak01/IconSwitch)/901 | 🍭 Custom Android Switch widget |
-| 896 | 142 | 22 | 2 months ago | [param-miner](https://github.com/PortSwigger/param-miner)/902 | None |
-| 895 | 199 | 30 | 1 year, 1 month ago | [react-native-sensitive-info](https://github.com/mCodex/react-native-sensitive-info)/903 | Save sensitive data into Android's Shared Preferences with keystore encryption/iOS's Keychain for React Native |
-| 893 | 432 | 4 | 7 years ago | [Volley-demo](https://github.com/smanikandan14/Volley-demo)/904 | An demonstration of Volley - HTTP library announced by google in I/O 2013. Illustrates, JSONRequest,StringRequest, Image caching. |
-| 894 | 305 | 132 | 5 days ago | [imagej2](https://github.com/imagej/imagej2)/905 | Open scientific N-dimensional image processing :microscope: :sparkler: |
-| 893 | 98 | 1 | 2 years ago | [android-arscblamer](https://github.com/google/android-arscblamer)/906 | ArscBlamer is a command-line tool that can parse an Android app's resources.arsc file and extract useful, actionable information about its contents |
-| 894 | 133 | 11 | 1 year, 6 months ago | [fresco-processors](https://github.com/wasabeef/fresco-processors)/907 | An Android image processor library providing a variety of image transformations for Fresco. |
-| 892 | 268 | 1 | 5 years ago | [PullToZoomInListView](https://github.com/matrixxun/PullToZoomInListView)/908 | An Android custom ListView with pull to zoom-in and parallax effect header like Path App. |
-| 891 | 123 | 2 | 1 year, 4 months ago | [SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim)/909 | None |
-| 889 | 74 | 1 | 5 years ago | [LowPoly](https://github.com/CoXier/LowPoly)/910 | LowPoly For Android |
-| 890 | 87 | 6 | 6 years ago | [Shuffle](https://github.com/Meetic/Shuffle)/911 | An easy to use swiping-view for Android |
-| 888 | 157 | 6 | 4 years ago | [MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu)/912 | A demo of the power menu with Reveal and other animations |
-| 887 | 199 | 14 | 2 years ago | [AndroidArchitecture](https://github.com/iammert/AndroidArchitecture)/913 | Recommended architecture by Android |
-| 883 | 571 | 8 | 6 years ago | [dubbo-spring-boot-mybatis-redis](https://github.com/dearbinge/dubbo-spring-boot-mybatis-redis)/914 | 通过dubbo+spring boot+mybatis+redis等主流技术搭建成一套分布式服务框架 |
-| 884 | 550 | 3 | 10 years ago | [androidpn](https://github.com/dannytiehui/androidpn)/915 | An open source project to provide push notification support for Android -- a xmpp based notification server and a client tool kit. |
-| 886 | 180 | 5 | 6 years ago | [YahooNewsOnboarding](https://github.com/rahulrj/YahooNewsOnboarding)/916 | Demo of the onboarding animations of Yahoo News App |
-| 883 | 543 | 5 | 3 years ago | [QuickNews](https://github.com/tigerguixh/QuickNews)/917 | this is a news to the client |
-| 884 | 121 | 6 | 6 years ago | [MVVM_Hacker_News](https://github.com/hitherejoe/MVVM_Hacker_News)/918 | Android MVVM experiment project using the official Data Binding library |
-| 882 | 394 | 8 | 6 years ago | [BadgeView](https://github.com/stefanjauker/BadgeView)/919 | An extended TextView that mimics the iOS Springboard 'badges'. It can be overlaid on any other item. |
-| 882 | 199 | 39 | a month ago | [jave2](https://github.com/a-schild/jave2)/920 | The JAVE (Java Audio Video Encoder) library is Java wrapper on the ffmpeg project |
-| 881 | 141 | 12 | 7 days ago | [java-diff-utils](https://github.com/java-diff-utils/java-diff-utils)/921 | Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on. |
-| 881 | 474 | 3 | 6 years ago | [camus](https://github.com/LinkedInAttic/camus)/922 | LinkedIn's previous generation Kafka to HDFS pipeline. |
-| 881 | 269 | 47 | 4 years ago | [WheelView](https://github.com/LukeDeighton/WheelView)/923 | An Android Widget for selecting items that rotate on a wheel. |
-| 881 | 198 | 27 | 4 years ago | [Mizuu](https://github.com/MizzleDK/Mizuu)/924 | Popular media indexer app for Android. No longer maintained. DEPRECATED. |
-| 877 | 586 | 14 | 7 years ago | [XListView-Android](https://github.com/Maxwin-z/XListView-Android)/925 | ListView supports pull refresh and pull up to load more feature. |
-| 878 | 132 | 5 | a month ago | [EasyHttp](https://github.com/getActivity/EasyHttp)/926 | Android 网络请求框架，简单易用，so easy |
-| 878 | 242 | 402 | 1 year, 4 months ago | [opentasks](https://github.com/dmfs/opentasks)/927 | A task app for Android |
-| 876 | 340 | 112 | a month ago | [Mallet](https://github.com/mimno/Mallet)/928 | MALLET is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text. |
-| 875 | 113 | 0 | 5 years ago | [qart4j](https://github.com/dieforfree/qart4j)/929 | QR code ASCII art for java |
-| 873 | 282 | 1 | 7 years ago | [Android-PullLayout](https://github.com/BlueMor/Android-PullLayout)/930 | 仿UC天气下拉和微信下拉眼睛 |
-| 875 | 238 | 0 | 3 years ago | [Basic](https://github.com/racofix/Basic)/931 | 🙈  mvvm flow 协程 |
-| 873 | 100 | 6 | 4 years ago | [BezierViewPager](https://github.com/qdxxxx/BezierViewPager)/932 | BezierView |
-| 872 | 157 | 6 | 6 years ago | [QQBubbleView](https://github.com/Yasic/QQBubbleView)/933 | 利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效 |
-| 869 | 229 | 61 | 5 years ago | [seyren](https://github.com/scobal/seyren)/934 | An alerting dashboard for Graphite |
-| 873 | 149 | 2 | 5 years ago | [SideBar](https://github.com/kongnanlive/SideBar)/935 | 全新的快速索引导航栏，联系人字母排序侧边栏。 |
-| 869 | 283 | 22 | 2 years ago | [AudioVideoRecordingSample](https://github.com/saki4510t/AudioVideoRecordingSample)/936 | Simultaneous audio and video recording sample using MediaCodec/MediaMuxer |
-| 868 | 411 | 13 | 4 years ago | [sso](https://github.com/kawhii/sso)/937 | cas单点登录系统，其中包括cas认证服务，配置中心，监控平台，服务管理的高可用项目 |
-| 867 | 194 | 14 | 4 years ago | [ThemeSkinning](https://github.com/burgessjp/ThemeSkinning)/938 | A library can easy to change your app's theme for android  |
-| 866 | 583 | 12 | 7 months ago | [logging-log4j1](https://github.com/apache/logging-log4j1)/939 | Apache log4j1 |
-| 866 | 458 | 12 | 2 years ago | [java-nio-server](https://github.com/jjenkov/java-nio-server)/940 | A Java NIO Server using non-blocking IO all the way through. |
-| 862 | 196 | 12 | 5 years ago | [WeexOne](https://github.com/dodola/WeexOne)/941 | Weex [one 一个]客户端 |
-| 863 | 235 | 42 | 4 years ago | [MockLocationDetector](https://github.com/smarques84/MockLocationDetector)/942 | An android library to help detect mock locations |
-| 863 | 290 | 74 | 7 years ago | [HorizontalVariableListView](https://github.com/sephiroth74/HorizontalVariableListView)/943 | Horizontal list view for Android which allows variable items widths |
-| 863 | 256 | 34 | a month ago | [browser](https://github.com/scoute-dich/browser)/944 | A simple Android webbrowser based on webview. |
-| 862 | 68 | 8 | 2 years ago | [RuntimePermission](https://github.com/florent37/RuntimePermission)/945 | Simpliest way to ask runtime permissions on Android, no need to extend class or override permissionResult method, choose your way : Kotlin / Coroutines / RxJava / Java7 / Java8 |
-| 861 | 327 | 9 | 4 years ago | [PullScrollView](https://github.com/MarkMjw/PullScrollView)/946 | 1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。 |
-| 861 | 819 | 475 | 2 years ago | [smarthome](https://github.com/eclipse-archived/smarthome)/947 | Eclipse SmartHome™ project |
-| 861 | 200 | 32 | 6 days ago | [eventuate-tram-sagas](https://github.com/eventuate-tram/eventuate-tram-sagas)/948 | Sagas for microservices |
-| 859 | 230 | 2 | 5 years ago | [A-MusicView](https://github.com/north2016/A-MusicView)/949 | 此项目已废弃 |
-| 859 | 90 | 23 | 6 months ago | [progressbar](https://github.com/ctongfei/progressbar)/950 | Terminal-based progress bar for Java / JVM |
-| 858 | 260 | 8 | 4 years ago | [MVP-RxJava-Hybride](https://github.com/youxin11544/MVP-RxJava-Hybride)/951 | This is an Android MVP model good architecture design，Which also inherited the Android architecture and HTML 5 interaction。（这是一个Android MVP模型良好的架构设计,同时也做了Android和HTML 5交互架构，用到了RxJava+Retrofit+MVP+泛型缩减mvp+模板模式+命令模式+观察者模式+管理者模式 +简单工厂模式） |
-| 856 | 290 | 16 | 6 years ago | [OkHttpFinal](https://github.com/pengjianbo/OkHttpFinal)/952 | OkHttp封装的一个简单易用HTTP请求 |
-| 856 | 553 | 426 | 22 days ago | [Mobile-SDK-Android](https://github.com/dji-sdk/Mobile-SDK-Android)/953 | DJI Mobile SDK for Android: http://developer.dji.com/mobile-sdk/ |
-| 854 | 181 | 7 | 1 year, 8 months ago | [react-native-web-monorepo](https://github.com/brunolemos/react-native-web-monorepo)/954 | Code sharing between iOS, Android & Web using monorepo |
-| 852 | 219 | 2 | 4 years ago | [BuildingBlocks](https://github.com/tangqi92/BuildingBlocks)/955 | Building Blocks - To help you quickly and easily take to build their own applications. |
-| 852 | 164 | 74 | 6 months ago | [spatial4j](https://github.com/locationtech/spatial4j)/956 | LocationTech Spatial4j: A Geospatial Library for Java |
-| 848 | 523 | 14 | 9 years ago | [Argo](https://github.com/58code/Argo)/957 | 58.com轻量级web框架 |
-| 849 | 308 | 25 | 4 years ago | [Final-Android-Resizer](https://github.com/asystat/Final-Android-Resizer)/958 | A simple yet powerful resizer for Android Image resources |
-| 848 | 226 | 75 | 1 year, 4 months ago | [univocity-parsers](https://github.com/uniVocity/univocity-parsers)/959 | uniVocity-parsers is a suite of extremely fast and reliable parsers for Java. It provides a consistent interface for handling different file formats, and a solid framework for the development of new parsers. |
-| 845 | 194 | 75 | 1 year, 2 months ago | [uReplicator](https://github.com/uber/uReplicator)/960 | Improvement of Apache Kafka Mirrormaker |
-| 841 | 78 | 6 | 4 years ago | [AdaptableBottomNavigation](https://github.com/bufferapp/AdaptableBottomNavigation)/961 | A simpler way for implementing the Bottom Navigation View on Android |
-| 842 | 395 | 32 | a month ago | [xxl-api](https://github.com/xuxueli/xxl-api)/962 | A api management platform.（API管理平台XXL-API） |
-| 842 | 246 | 0 | 8 days ago | [java](https://github.com/structurizr/java)/963 | Structurizr for Java |
-| 843 | 110 | 70 | 1 year, 4 months ago | [heroic](https://github.com/spotify/heroic)/964 | The Heroic Time Series Database |
-| 840 | 803 | 20 | 1 year, 7 months ago | [microservices-demo](https://github.com/paulc4/microservices-demo)/965 | Demo application to go with Blog on spring.io |
-| 839 | 105 | 6 | 4 days ago | [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown)/966 | (GUI-多平台支持) B站 哔哩哔哩 视频下载器。支持稍后再看、收藏夹、UP主视频批量下载|Bilibili Video Downloader 😳仅供交流学习使用喔 |
-| 838 | 401 | 4 | 1 year, 11 months ago | [SkyEye](https://github.com/JThink/SkyEye)/967 | 对java、scala等运行于jvm的程序进行实时日志采集、索引和可视化，对系统进行进程级别的监控，对系统内部的操作进行策略性的报警、对分布式的rpc调用进行trace跟踪以便于进行性能分析 |
-| 837 | 386 | 80 | 3 months ago | [alipay-easysdk](https://github.com/alipay/alipay-easysdk)/968 | Alipay Easy SDK for multi-language(java、c#、php、ts etc.) allows you to enjoy a minimalist programming experience and quickly access the various high-frequency capabilities of the Alipay Open Platform. |
-| 837 | 296 | 92 | 1 year, 3 months ago | [excel-streaming-reader](https://github.com/monitorjbl/excel-streaming-reader)/969 | An easy-to-use implementation of a streaming Excel reader using Apache POI |
-| 836 | 43 | 19 | 2 months ago | [mammoth](https://github.com/WorldQL/mammoth)/970 | Scale a single world horizontally across multiple Minecraft servers. |
-| 836 | 126 | 27 | 2 years ago | [kuromoji](https://github.com/atilika/kuromoji)/971 | Kuromoji is a self-contained and very easy to use Japanese morphological analyzer designed for search |
-| 839 | 300 | 13 | 2 years ago | [Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android)/972 | This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons. |
-| 835 | 176 | 48 | 6 months ago | [CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner)/973 | Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228 |
-| 833 | 147 | 1 | 5 years ago | [android-player](https://github.com/geftimov/android-player)/974 | Android animation when entering new screen. |
-| 833 | 245 | 104 | a day ago | [tispark](https://github.com/pingcap/tispark)/975 | TiSpark is built for running Apache Spark on top of TiDB/TiKV |
-| 832 | 225 | 25 | 9 years ago | [Android-BitmapCache](https://github.com/chrisbanes/Android-BitmapCache)/976 | Android-BitmapCache is a specialised cache, for use with Android Bitmap objects. |
-| 830 | 111 | 3 | 6 years ago | [SwipeAwayDialog](https://github.com/kakajika/SwipeAwayDialog)/977 | DialogFragment swipeable away like Tinder UI. |
-| 831 | 350 | 14 | 5 years ago | [android-lite-http](https://github.com/litesuits/android-lite-http)/978 | LiteHttp is a simple, intelligent and flexible HTTP framework for Android. With LiteHttp you can make HTTP request with only one line of code! It could convert a java model to the parameter and rander the response JSON as a java model intelligently. |
-| 829 | 170 | 13 | 7 years ago | [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable)/979 | Visual back-port of the rotating drawer-to-arrow drawable from Android L |
-| 831 | 421 | 7 | 5 years ago | [mina](https://github.com/apache/mina)/980 | Mirror of Apache MINA |
-| 829 | 111 | 4 | 6 years ago | [BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView)/981 | Cool bezier loading view |
-| 827 | 224 | 8 | 5 months ago | [IdCardOCR](https://github.com/XieZhiFa/IdCardOCR)/982 | 身份证正反面识别，身份证扫描识别，二代身份证OCR识别，OCR极速识别身份证所有信息正反面均可。离线无需联网,极速秒扫。 |
-| 827 | 174 | 88 | 3 months ago | [react-native-geolocation](https://github.com/michalchudziak/react-native-geolocation)/983 | Geolocation APIs for React Native |
-| 823 | 75 | 1 | 6 months ago | [CS-study](https://github.com/Seogeurim/CS-study)/984 | 🌎 진정한 컴퓨터공학도가 되기 위한 우리들의 지식 정리 공간 💥 |
-| 822 | 152 | 15 | 1 year, 2 months ago | [ExoPlayerFilter](https://github.com/MasayukiSuda/ExoPlayerFilter)/985 | This library uses OpenGL Shaders to apply effects on ExoPlayer video at Runtime |
-| 822 | 535 | 332 | 4 years ago | [ews-java-api](https://github.com/OfficeDev/ews-java-api)/986 | A java client library to access Exchange web services.  The API works against Office 365 Exchange Online as well as on premises Exchange. |
-| 816 | 129 | 9 | 3 years ago | [SwipeMenu](https://github.com/TUBB/SwipeMenu)/987 | [DEPRECATED] A swipe menu for horizontal/vertical, support left/right and top/bottom directions |
-| 821 | 124 | 4 | 6 years ago | [android-design-support-lib-sample](https://github.com/swissonid/android-design-support-lib-sample)/988 | Just Sample how to use the android design support lib |
-| 815 | 202 | 4 | 6 years ago | [CircleProgress](https://github.com/Fichardu/CircleProgress)/989 | A circle progress animation view on Android |
-| 816 | 71 | 2 | 2 years ago | [StatefulLayout](https://github.com/gturedi/StatefulLayout)/990 | Android layout to show template for loading, empty, error etc. states |
-| 818 | 510 | 775 | a month ago | [spring-data-rest](https://github.com/spring-projects/spring-data-rest)/991 | Simplifies building hypermedia-driven REST web services on top of Spring Data repositories |
-| 818 | 142 | 21 | 1 year, 10 days ago | [javafx-maven-plugin](https://github.com/javafx-maven-plugin/javafx-maven-plugin)/992 | Maven plugin for JavaFX |
-| 815 | 147 | 15 | 5 months ago | [cv4j](https://github.com/imageprocessor/cv4j)/993 | The target is to set up a high quality and real-time image process and machine learning library which is implemented in pure java. The framework can run application on java desktop and android platform. |
-| 815 | 126 | 28 | a month ago | [twoyi](https://github.com/twoyi/twoyi)/994 | A lightweight Android container on Android |
-| 814 | 226 | 6 | 6 years ago | [Android-ProgressFragment](https://github.com/johnkil/Android-ProgressFragment)/995 | Implementation of the fragment with the ability to display indeterminate progress indicator when you are waiting for the initial data. |
-| 813 | 188 | 35 | 3 months ago | [Singularity](https://github.com/HubSpot/Singularity)/996 | Scheduler (HTTP API and webapp) for running Mesos tasks—long running processes, one-off tasks, and scheduled jobs. #hubspot-open-source |
-| 813 | 151 | 8 | 5 years ago | [FlippableStackView](https://github.com/blipinsk/FlippableStackView)/997 | An Android library introducing a stack of Views with the first item being flippable. |
-| 812 | 164 | 19 | 3 months ago | [rome](https://github.com/rometools/rome)/998 | Java library for RSS and Atom feeds |
-| 811 | 212 | 2 | 10 months ago | [EasyReader](https://github.com/laotan7237/EasyReader)/999 | 用知乎和gankio 网易新闻 豆瓣电影的API，模仿网易云音乐UI来完成一个基于Material Design +Rxjava + Retrofit + dagger2 + MVP构架的项目 |
-| 811 | 183 | 5 | 5 years ago | [MixtureTextView](https://github.com/hongyangAndroid/MixtureTextView)/1000 | 支持Android图文混排、文字环绕图片等效果 |
+| 36750 | 8994 | 2136 | 2 years ago | [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)/1 | A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations. |
+| 33860 | 6097 | 452 | 2 days ago | [glide](https://github.com/bumptech/glide)/2 | An image loading and caching library for Android focused on smooth scrolling |
+| 26033 | 7749 | 30 | 2 years ago | [SpringAll](https://github.com/wuyouzhuguli/SpringAll)/3 | 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc |
+| 16304 | 3831 | 8 | a month ago | [disruptor](https://github.com/LMAX-Exchange/disruptor)/4 | High Performance Inter-Thread Messaging Library |
+| 13917 | 1133 | 85 | a month ago | [bytecode-viewer](https://github.com/Konloch/bytecode-viewer)/5 | A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More) |
+| 13126 | 4989 | 613 | 27 days ago | [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)/6 | Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation. |
+| 11133 | 2028 | 391 | 1 year, 9 months ago | [dex2jar](https://github.com/pxb1988/dex2jar)/7 | Tools to work with android .dex and java .class files |
+| 9929 | 2559 | 50 | 26 days ago | [Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)/8 | A barebones WebSocket client and server implementation written in 100% Java. |
+| 8563 | 1232 | 227 | 4 months ago | [buck](https://github.com/facebook/buck)/9 | A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages. |
+| 8186 | 1501 | 183 | 4 years ago | [MaterialViewPager](https://github.com/florent37/MaterialViewPager)/10 | A Material Design ViewPager easy to use library |
+| 7907 | 5577 | 943 | 5 days ago | [spring-security](https://github.com/spring-projects/spring-security)/11 | Spring Security |
+| 7787 | 2539 | 322 | 2 months ago | [otter](https://github.com/alibaba/otter)/12 | 阿里巴巴分布式数据库同步系统(解决中美异地机房) |
+| 7584 | 904 | 27 | 14 hours ago | [Hippy](https://github.com/Tencent/Hippy)/13 | Hippy is designed to easily build cross-platform dynamic apps. 👏 |
+| 7223 | 1511 | 425 | 5 years ago | [TakePhoto](https://github.com/crazycodeboy/TakePhoto)/14 | 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库 |
+| 7096 | 1242 | 273 | 4 months ago | [Shadow](https://github.com/Tencent/Shadow)/15 | 零反射全动态Android插件框架 |
+| 7032 | 1362 | 125 | 4 years ago | [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)/16 | A custom ViewPager title strip which gives continuous feedback to the user when scrolling |
+| 6858 | 4669 | 15 | a day ago | [tomcat](https://github.com/apache/tomcat)/17 | Apache Tomcat |
+| 6854 | 1546 | 358 | a month ago | [javacv](https://github.com/bytedeco/javacv)/18 | Java interface to OpenCV, FFmpeg, and more |
+| 6717 | 2041 | 4 | 1 year, 9 months ago | [SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions)/19 | Most comprehensive list :clipboard: of tech interview questions :blue_book: of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.  |
+| 6606 | 1107 | 173 | 3 years ago | [AndPermission](https://github.com/yanzhenjie/AndPermission)/20 | :strawberry: Permissions manager for Android platform. |
+| 6264 | 1517 | 30 | 6 months ago | [jvm-sandbox](https://github.com/alibaba/jvm-sandbox)/21 | Real - time non-invasive AOP framework container based on JVM |
+| 5962 | 2004 | 35 | 1 year, 5 months ago | [xUtils3](https://github.com/wyouflf/xUtils3)/22 | Android orm, bitmap, http, view inject...  |
+| 5748 | 2952 | 72 | 5 years ago | [springside4](https://github.com/springside/springside4)/23 | A Spring Framework based, pragmatic style JavaEE application reference architecture. |
+| 5565 | 2326 | 204 | 1 year, 10 months ago | [disconf](https://github.com/knightliao/disconf)/24 | Distributed Configuration Management Platform(分布式配置管理平台) |
+| 5331 | 1388 | 10 | 4 months ago | [Discovery](https://github.com/Nepxion/Discovery)/25 | ☀️ Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover, active 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活 |
+| 5321 | 592 | 83 | 4 months ago | [vavr](https://github.com/vavr-io/vavr)/26 | vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality. |
+| 5233 | 1143 | 231 | 6 years ago | [FloatingActionButton](https://github.com/Clans/FloatingActionButton)/27 | Android Floating Action Button based on Material Design specification |
+| 5231 | 1175 | 1002 | a day ago | [starrocks](https://github.com/StarRocks/starrocks)/28 | StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries. |
+| 5214 | 682 | 34 | 2 years ago | [Dexter](https://github.com/Karumi/Dexter)/29 | Android library that simplifies the process of requesting permissions at runtime. |
+| 5005 | 687 | 57 | 2 years ago | [UltraViewPager](https://github.com/alibaba/UltraViewPager)/30 | UltraViewPager is an extension for ViewPager to provide multiple features in a single ViewPager. |
+| 4996 | 827 | 274 | a day ago | [pig](https://github.com/pig-mesh/pig)/31 | ↥ ↥ ↥ 点击关注更新，基于 Spring Cloud 2022 、Spring Boot 3.1、 OAuth2 的 RBAC 权限管理系统 |
+| 4944 | 1097 | 54 | 7 years ago | [RippleEffect](https://github.com/traex/RippleEffect)/32 | Implementation of Ripple effect from Material Design for Android API 9+ |
+| 4842 | 505 | 7 | 3 years ago | [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)/33 |  Set of extra Transitions on top of Jetpack Transitions Library |
+| 4716 | 1626 | 134 | 4 days ago | [web3j](https://github.com/web3j/web3j)/34 | Lightweight Java and Android library for integration with Ethereum clients |
+| 4637 | 1374 | 36 | 11 days ago | [JimuReport](https://github.com/jeecgboot/JimuReport)/35 | 🔥「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。 |
+| 4606 | 538 | 178 | a day ago | [vespa](https://github.com/vespa-engine/vespa)/36 | The open big data serving engine. https://vespa.ai |
+| 4576 | 2192 | 332 | 2 years ago | [YCSB](https://github.com/brianfrankcooper/YCSB)/37 | Yahoo! Cloud Serving Benchmark |
+| 4544 | 611 | 54 | 5 years ago | [bottomsheet](https://github.com/Flipboard/bottomsheet)/38 | Android component which presents a dismissible view from the bottom of the screen |
+| 4414 | 2304 | 18 | 3 years ago | [mybatis](https://github.com/tuguangquan/mybatis)/39 | mybatis源码中文注释 |
+| 4342 | 14 | 0 | 8 months ago | [leet-code](https://github.com/awangdev/leet-code)/40 | Java Solutions to problems on LintCode/LeetCode |
+| 4239 | 841 | 38 | 1 year, 6 months ago | [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)/41 | AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~ |
+| 4144 | 1233 | 4 | 2 years ago | [java-learning](https://github.com/brianway/java-learning)/42 | 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web |
+| 4129 | 838 | 45 | 6 years ago | [StepView](https://github.com/baoyachi/StepView)/43 | Step by step，just use HorizontalStepView，VerticalStepView. step indicator，flow indicator，timeline，order process，express status |
+| 3994 | 1146 | 139 | 4 hours ago | [strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator)/44 | Apache Kafka® running on Kubernetes |
+| 3861 | 2441 | 29 | 7 years ago | [learning-spark](https://github.com/databricks/learning-spark)/45 | Example code from Learning Spark book |
+| 3841 | 566 | 135 | 2 years ago | [RichText](https://github.com/zzhoujay/RichText)/46 | Android平台下的富文本解析器，支持Html和Markdown |
+| 3720 | 1677 | 273 | 2 days ago | [chunjun](https://github.com/DTStack/chunjun)/47 | A data integration framework |
+| 3595 | 905 | 69 | a day ago | [openai-java](https://github.com/TheoKanning/openai-java)/48 | OpenAI Api Client in Java |
+| 3461 | 742 | 5 | 3 years ago | [SeeWeather](https://github.com/xcc3641/SeeWeather)/49 | :partly_sunny: [@Deprecated]RxJava+RxBus+Retrofit+Glide+Material Design Weather App |
+| 3325 | 529 | 53 | 10 months ago | [JCTools](https://github.com/JCTools/JCTools)/50 | None |
+| 3302 | 757 | 321 | 6 years ago | [actor-platform](https://github.com/actorapp/actor-platform)/51 | Actor Messaging platform |
+| 3290 | 626 | 125 | 25 days ago | [tablesaw](https://github.com/jtablesaw/tablesaw)/52 | Java dataframe and visualization library |
+| 3256 | 1808 | 22 | 5 months ago | [guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework)/53 | A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。） |
+| 3168 | 583 | 63 | 5 years ago | [GsonFormat](https://github.com/zzz40500/GsonFormat)/54 | 根据Gson库使用的要求,将JSONObject格式的String  解析成实体 |
+| 3168 | 988 | 68 | 9 years ago | [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh)/55 | DEPRECATED |
+| 3156 | 2262 | 25 | 6 years ago | [Java8InAction](https://github.com/java8/Java8InAction)/56 | None |
+| 3120 | 1105 | 210 | 2 days ago | [linkis](https://github.com/apache/linkis)/57 | Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines. |
+| 3095 | 592 | 45 | 2 years ago | [CityPicker](https://github.com/zaaach/CityPicker)/58 | :fire::fire::fire:城市选择、定位、搜索及右侧字母导航，类似美团 百度糯米 饿了么等APP选择城市功能 |
+| 3095 | 1128 | 368 | 2 years ago | [android](https://github.com/cSploit/android)/59 | cSploit - The most complete and advanced IT security professional toolkit on Android. |
+| 3092 | 767 | 92 | a day ago | [AxonFramework](https://github.com/AxonFramework/AxonFramework)/60 | Framework for Evolutionary Message-Driven Microservices on the JVM |
+| 3078 | 404 | 48 | 2 years ago | [ShapeOfView](https://github.com/florent37/ShapeOfView)/61 | Give a custom shape to any android view, Material Design 2 ready |
+| 2990 | 582 | 143 | 18 days ago | [akhq](https://github.com/tchiotludo/akhq)/62 | Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more... |
+| 2954 | 618 | 116 | 1 year, 6 months ago | [AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView)/63 | AndroidTreeView. TreeView implementation for android |
+| 2892 | 941 | 40 | 8 months ago | [android-mvvm-architecture](https://github.com/janishar/android-mvvm-architecture)/64 | This repository contains a detailed sample app that implements MVVM architecture using Dagger2,  Room, RxJava2, FastAndroidNetworking and PlaceholderView |
+| 2865 | 398 | 49 | 2 years ago | [xLog](https://github.com/elvishew/xLog)/65 | Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here. |
+| 2846 | 688 | 4 | 7 years ago | [anthelion](https://github.com/YahooArchive/anthelion)/66 | Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages. |
+| 2838 | 1007 | 8 | 7 years ago | [FastDev4Android](https://github.com/jiangqqlmj/FastDev4Android)/67 | 本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等，后续会进行逐步添加 |
+| 2834 | 450 | 109 | 3 years ago | [ice](https://github.com/Teevity/ice)/68 | AWS Usage Tool |
+| 2824 | 495 | 1 | 6 months ago | [Android-Animation-Set](https://github.com/OCNYang/Android-Animation-Set)/69 | :books: Android 所有动画系列详尽教程。          Explain all animations in Android.  |
+| 2695 | 300 | 86 | 19 days ago | [pdfsam](https://github.com/torakiki/pdfsam)/70 | PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages |
+| 2694 | 433 | 26 | 3 years ago | [ViewAnimator](https://github.com/florent37/ViewAnimator)/71 | A fluent Android animation library |
+| 2685 | 514 | 41 | 7 years ago | [SuperToasts](https://github.com/JohnPersano/SuperToasts)/72 | A library that extends the Android toast framework. |
+| 2680 | 537 | 140 | 9 months ago | [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView)/73 | A Material Design themed ShowcaseView for Android |
+| 2604 | 1132 | 27 | 9 years ago | [android-menudrawer](https://github.com/SimonVT/android-menudrawer)/74 | *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app. |
+| 2584 | 1103 | 177 | 9 days ago | [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)/75 | Open source note-taking application for Android |
+| 2558 | 186 | 42 | 4 years ago | [storio](https://github.com/pushtorefresh/storio)/76 | Reactive API for SQLiteDatabase and ContentResolver. |
+| 2537 | 866 | 181 | a month ago | [AppAuth-Android](https://github.com/openid/AppAuth-Android)/77 | Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers. |
+| 2531 | 511 | 38 | 2 years ago | [html-textview](https://github.com/SufficientlySecure/html-textview)/78 | TextView to display simple HTML |
+| 2530 | 280 | 37 | 8 months ago | [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork)/79 |  Android library listening network connection state and Internet connectivity with RxJava Observables |
+| 2501 | 595 | 0 | 2 years ago | [ViewServer](https://github.com/romainguy/ViewServer)/80 | Local server for Android's HierarchyViewer |
+| 2416 | 392 | 34 | 7 years ago | [android-priority-jobqueue](https://github.com/path/android-priority-jobqueue)/81 | A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability. |
+| 2413 | 298 | 0 | 2 years ago | [FlowLayout](https://github.com/nex3z/FlowLayout)/82 | A flow layout for Android with auto-spacing. |
+| 2390 | 950 | 53 | 6 hours ago | [jshERP](https://github.com/jishenghua/jshERP)/83 | 华夏ERP基于SpringBoot框架和SaaS模式，立志为中小企业提供开源好用的ERP软件，目前专注进销存+财务功能。主要模块有零售管理、采购管理、销售管理、仓库管理、财务管理、报表查询、系统管理等。支持预付款、收入支出、仓库调拨、组装拆卸、订单等特色功能。拥有库存状况、出入库统计等报表。同时对角色和权限进行了细致全面控制，精确到每个按钮和菜单。 |
+| 2371 | 326 | 8 | 6 years ago | [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim)/84 | A cool search view animation library  |
+| 2325 | 177 | 55 | 2 years ago | [TiebaLite](https://github.com/HuanCheng65/TiebaLite)/85 | 贴吧 Lite |
+| 2248 | 590 | 36 | 8 years ago | [android-ripple-background](https://github.com/skyfishjy/android-ripple-background)/86 | A beautiful ripple animation for your app |
+| 2242 | 545 | 149 | 19 days ago | [eclipse-collections](https://github.com/eclipse/eclipse-collections)/87 | Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API. |
+| 2178 | 253 | 9 | 6 years ago | [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView)/88 | An imageView can auto scroll with device rotating. |
+| 2108 | 135 | 1 | 3 months ago | [FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager)/89 | A module manager for Magisk because the official app dropped support for it |
+| 2107 | 568 | 21 | 10 months ago | [ImageEditor-Android](https://github.com/siwangqishiq/ImageEditor-Android)/90 | AndroidImageEdit 安卓设备上图形编辑开源控件，支持磨皮美白 自定义贴图 图片滤镜 图片旋转 图片剪裁 文字贴图 撤销 回退 等操作  |
+| 2102 | 788 | 98 | 3 years ago | [mysql-binlog-connector-java](https://github.com/shyiko/mysql-binlog-connector-java)/91 | MySQL Binary Log connector |
+| 2082 | 349 | 34 | 6 years ago | [BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment)/92 | Library project to display DialogFragment with a blur effect. |
+| 2081 | 274 | 1 | 2 years ago | [StyleableToast](https://github.com/Muddz/StyleableToast)/93 | [Moved to MavenCentral] An Android library that takes the standard toast to the next level with many styling options. Works on all Android versions. |
+| 2074 | 421 | 36 | 1 year, 1 month ago | [EasyProtector](https://github.com/lamster2018/EasyProtector)/94 | 一行代码检测XP/调试/多开/模拟器/root |
+| 2037 | 277 | 22 | 9 months ago | [commonmark-java](https://github.com/commonmark/commonmark-java)/95 | Java library for parsing and rendering CommonMark (Markdown) |
+| 2019 | 222 | 170 | 3 years ago | [snowflake](https://github.com/subhra74/snowflake)/96 | Graphical SFTP client and terminal emulator with helpful utilities |
+| 1995 | 307 | 4 | 4 years ago | [CircularAnim](https://github.com/XunMengWinter/CircularAnim)/97 | Android ripple animation helper, easy to create Circular Reveal. | Android水波动画帮助类，轻松实现View show/hide/startActivity()特效。(0.4.6) |
+| 1994 | 237 | 19 | 3 days ago | [BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager)/98 | 🔥🔥🔥 BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。 |
+| 1992 | 303 | 42 | 3 years ago | [lancet](https://github.com/eleme/lancet)/99 | A lightweight and fast AOP framework for Android App and SDK developers |
+| 1967 | 252 | 4 | 4 years ago | [AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView)/100 | Animated SVG Drawing for Android |
+| 5998 | 2019 | 92 | 6 years ago | [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)/101 | DL : dynamic load framework in android |
+| 5965 | 2738 | 21 | 1 year, 25 days ago | [springcloud-learning](https://github.com/macrozheng/springcloud-learning)/102 | 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。 |
+| 5883 | 1327 | 247 | 4 years ago | [material-calendarview](https://github.com/prolificinteractive/material-calendarview)/103 | A Material design back port of Android's CalendarView |
+| 5807 | 2794 | 45 | 5 years ago | [ssm](https://github.com/liyifeng1994/ssm)/104 | 手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis |
+| 5800 | 1121 | 18 | 9 days ago | [smile](https://github.com/haifengl/smile)/105 | Statistical Machine Intelligence & Learning Engine |
+| 5766 | 843 | 57 | 5 years ago | [InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager)/106 | Infinite cycle ViewPager with two-way orientation and interactive effect. |
+| 5764 | 1768 | 31 | 2 months ago | [itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design)/107 | :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn |
+| 5764 | 1846 | 35 | 4 months ago | [quartz](https://github.com/quartz-scheduler/quartz)/108 | Code for Quartz Scheduler |
+| 5730 | 1026 | 142 | 12 days ago | [PowerJob](https://github.com/PowerJob/PowerJob)/109 | Enterprise job scheduling middleware with distributed computing ability. |
+| 5611 | 1178 | 1907 | a day ago | [jOOQ](https://github.com/jOOQ/jOOQ)/110 | jOOQ is the best way to write SQL in Java |
+| 5453 | 1440 | 0 | 3 years ago | [barcodescanner](https://github.com/dm77/barcodescanner)/111 | Barcode Scanner Libraries for Android |
+| 5444 | 852 | 31 | 6 years ago | [rebound](https://github.com/facebookarchive/rebound)/112 | A Java library that models spring dynamics and adds real world physics to your app.  |
+| 5333 | 1268 | 243 | 3 years ago | [XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)/113 | A RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView |
+| 5317 | 472 | 76 | 4 years ago | [gradle-retrolambda](https://github.com/evant/gradle-retrolambda)/114 | A gradle plugin for getting java lambda support in java 6, 7 and android |
+| 5310 | 2591 | 45 | 5 years ago | [wechat](https://github.com/motianhuo/wechat)/115 | A High Copy WeChat ,SNS APP (高仿微信) |
+| 5309 | 1123 | 436 | 7 days ago | [DependencyCheck](https://github.com/jeremylong/DependencyCheck)/116 | OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. |
+| 5273 | 2100 | 293 | 8 years ago | [VitamioBundle](https://github.com/yixia/VitamioBundle)/117 | Vitamio for Android |
+| 5183 | 902 | 18 | 5 years ago | [otto](https://github.com/square/otto)/118 | An enhanced Guava-based event bus with emphasis on Android support. |
+| 5079 | 916 | 107 | 10 days ago | [lettuce-core](https://github.com/lettuce-io/lettuce-core)/119 | Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs. |
+| 5018 | 1176 | 232 | 1 year, 11 months ago | [FastBle](https://github.com/Jasonchenlijian/FastBle)/120 | Android Bluetooth Low Energy (BLE) Fast Development Framework. It uses simple ways to filter, scan, connect, read ,write, notify, readRssi, setMTU, and multiConnection. |
+| 5014 | 4808 | 11 | 22 hours ago | [camel](https://github.com/apache/camel)/121 | Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data. |
+| 5004 | 805 | 54 | 4 years ago | [dialogplus](https://github.com/orhanobut/dialogplus)/122 | Advanced dialog solution for android |
+| 4994 | 3765 | 14 | 1 year, 6 months ago | [spring-mvc-showcase](https://github.com/spring-attic/spring-mvc-showcase)/123 | Demonstrates the features of the Spring MVC web framework |
+| 4951 | 874 | 63 | 3 years ago | [NavigationTabBar](https://github.com/Devlight/NavigationTabBar)/124 | Navigation tab bar with colorful interactions. |
+| 4926 | 4013 | 14 | 1 year, 1 month ago | [TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)/125 | 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。 |
+| 4914 | 1128 | 497 | 2 days ago | [janusgraph](https://github.com/JanusGraph/janusgraph)/126 | JanusGraph: an open-source, distributed graph database |
+| 4771 | 1063 | 93 | 4 years ago | [Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)/127 | Simple and convenient banner, loop viewpager with 3D effects |
+| 4765 | 788 | 49 | a month ago | [thumbnailator](https://github.com/coobird/thumbnailator)/128 | Thumbnailator - a thumbnail generation library for Java |
+| 4743 | 1132 | 1327 | 16 hours ago | [pinot](https://github.com/apache/pinot)/129 | Apache Pinot - A realtime distributed OLAP datastore |
+| 4713 | 1198 | 115 | 7 years ago | [baseAdapter](https://github.com/hongyangAndroid/baseAdapter)/130 | Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。 |
+| 4686 | 1213 | 183 | 7 years ago | [cardslib](https://github.com/gabrielemariotti/cardslib)/131 | Android Library to build a UI Card |
+| 4672 | 4089 | 546 | 1 year, 2 months ago | [spring-security-oauth](https://github.com/spring-attic/spring-security-oauth)/132 | Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications. |
+| 4659 | 867 | 25 | 2 years ago | [SwitchButton](https://github.com/kyleduo/SwitchButton)/133 | A cute widget of Switch Button for  you to create beautiful and friendly UI. |
+| 4655 | 885 | 92 | 1 year, 6 months ago | [cglib](https://github.com/cglib/cglib)/134 | cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. |
+| 4593 | 638 | 325 | 28 days ago | [react-native-config](https://github.com/luggit/react-native-config)/135 | Bring some 12 factor love to your mobile apps! |
+| 4589 | 1392 | 14 | 2 months ago | [dddsample-core](https://github.com/citerus/dddsample-core)/136 | This is the new home of the original DDD Sample app (previously hosted at sf.net)..  |
+| 4588 | 557 | 52 | 4 years ago | [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView)/137 | An page indicator for Android ViewPager |
+| 4574 | 599 | 11 | 4 years ago | [Depth-LIB-Android-](https://github.com/danielzeller/Depth-LIB-Android-)/138 | A library that gives depth to Views. |
+| 4569 | 1641 | 41 | 6 years ago | [SimplifyReader](https://github.com/chentao0707/SimplifyReader)/139 | 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！ |
+| 4549 | 701 | 117 | 2 months ago | [reflections](https://github.com/ronmamo/reflections)/140 | Java runtime metadata analysis |
+| 4544 | 1088 | 132 | 5 years ago | [android-crop](https://github.com/jdamcd/android-crop)/141 | Android library project for cropping images |
+| 4533 | 1171 | 17 | 3 years ago | [Douya](https://github.com/zhanghai/Douya)/142 | 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com） |
+| 4522 | 1471 | 19 | 8 days ago | [jetlinks-community](https://github.com/jetlinks/jetlinks-community)/143 | JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。 |
+| 4500 | 943 | 22 | 4 years ago | [JGrowing](https://github.com/javagrowing/JGrowing)/144 | Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。 |
+| 4474 | 1080 | 21 | 7 years ago | [dexposed](https://github.com/alibaba/dexposed)/145 | dexposed enable 'god' mode for single android application. |
+| 4465 | 3090 | 113 | 12 days ago | [rocketmq-externals](https://github.com/apache/rocketmq-externals)/146 | Mirror of Apache RocketMQ (Incubating) |
+| 4439 | 1202 | 23 | 2 months ago | [android-times-square](https://github.com/square/android-times-square)/147 | Standalone Android widget for picking a single date from a calendar view. |
+| 4338 | 802 | 160 | 3 years ago | [Robust](https://github.com/Meituan-Dianping/Robust)/148 | Robust is an Android HotFix solution with high compatibility and high stability. Robust can fix bugs immediately without a reboot. |
+| 4331 | 465 | 17 | 1 year, 9 months ago | [ticker](https://github.com/robinhood/ticker)/149 | An Android text view with scrolling text change animation |
+| 4324 | 600 | 64 | 4 days ago | [lwjgl3](https://github.com/LWJGL/lwjgl3)/150 | LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications. |
+| 4321 | 752 | 20 | 1 year, 2 months ago | [JustTrustMe](https://github.com/Fuzion24/JustTrustMe)/151 | An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning |
+| 4278 | 5381 | 65 | 3 years ago | [coursera-android](https://github.com/aporter/coursera-android)/152 | Source Code for Android Course Example Applications |
+| 4269 | 1435 | 233 | a day ago | [graphhopper](https://github.com/graphhopper/graphhopper)/153 | Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server. |
+| 4250 | 1026 | 10 | 5 days ago | [QR-Code-generator](https://github.com/nayuki/QR-Code-generator)/154 | High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C. |
+| 4221 | 1627 | 10 | 2 months ago | [microservices-platform](https://github.com/zlt2000/microservices-platform)/155 | 基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务多租户系统架构。并引入组件化的思想实现高内聚低耦合，项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等。 |
+| 4219 | 964 | 327 | 3 days ago | [jetcache](https://github.com/alibaba/jetcache)/156 | JetCache is a Java cache framework. |
+| 4213 | 789 | 18 | 4 months ago | [epic](https://github.com/tiann/epic)/157 | Dynamic java method AOP hook for Android(continution of Dexposed on ART), Supporting 5.0~11 |
+| 4207 | 1066 | 141 | 6 days ago | [moco](https://github.com/dreamhead/moco)/158 | Easy Setup Stub Server |
+| 4207 | 1465 | 195 | 10 months ago | [tx-lcn](https://github.com/codingapi/tx-lcn)/159 | LCN distributed transaction framework, compatible with dubbo, spring cloud and Motan framework, supports various relational databases |
+| 4194 | 1483 | 31 | a day ago | [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android)/160 | Android USB host serial driver library for CDC, FTDI, Arduino and other devices. |
+| 4154 | 793 | 52 | 2 years ago | [BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)/161 | 引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果 |
+| 4154 | 447 | 240 | 2 years ago | [OpenHub](https://github.com/ThirtyDegreesRay/OpenHub)/162 | An open source GitHub Android client app, faster and concise. |
+| 4131 | 1616 | 36 | 1 year, 1 month ago | [ForestBlog](https://github.com/saysky/ForestBlog)/163 | 一个简单漂亮的SSM(Spring+SpringMVC+Mybatis)博客系统 |
+| 4100 | 576 | 268 | a day ago | [Geyser](https://github.com/GeyserMC/Geyser)/164 | A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition. |
+| 4072 | 638 | 10 | 6 years ago | [LoadingDrawable](https://github.com/dinuscxj/LoadingDrawable)/165 | Some beautiful android loading drawable, can be combined with any view as the LoadingView or the ProgressBar. Besides, some Drawable can customize the loading progress too. |
+| 4059 | 621 | 15 | 6 years ago | [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)/166 | ViewPager cards inspired by Duolingo |
+| 4032 | 933 | 15 | 6 years ago | [Phoenix](https://github.com/Yalantis/Phoenix)/167 | Phoenix Pull-to-Refresh |
+| 4014 | 754 | 1 | 1 year, 2 months ago | [jodd](https://github.com/oblac/jodd)/168 | Jodd! Lightweight. Java. Zero dependencies. Use what you like. |
+| 3963 | 1134 | 8 | 6 years ago | [XCL-Charts](https://github.com/xcltapestry/XCL-Charts)/169 | Android图表库(XCL-Charts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图(Circle Chart)、弧线比较图、散点图(Scatter Chart)、气泡图(Bubble Chart)、范围条形图(RangeBar Chart)等图表。其它特性还包括支持图表缩放、手势移动、点击响应、动画效果、多轴显示、图表参考线、混合图表及同数据源不同图表类型切换等。 |
+| 3950 | 1077 | 9 | 5 days ago | [mall4j](https://github.com/gz-yami/mall4j)/170 | ⭐️⭐️⭐️ 电商商城 java电商商城系统 PC商城 H5商城 APP商城 Java商城 O2O商城 |
+| 3950 | 1763 | 12 | 9 days ago | [spring-boot-starter](https://github.com/mybatis/spring-boot-starter)/171 | MyBatis integration with Spring Boot |
+| 3918 | 1398 | 17 | 2 years ago | [flink-recommandSystem-demo](https://github.com/will-che/flink-recommandSystem-demo)/172 | :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。 |
+| 3896 | 500 | 63 | 10 months ago | [open-location-code](https://github.com/google/open-location-code)/173 | Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist. |
+| 3861 | 2138 | 215 | a day ago | [dubbo-admin](https://github.com/apache/dubbo-admin)/174 | The ops and reference implementation for Apache Dubbo |
+| 3855 | 695 | 145 | 4 years ago | [ahbottomnavigation](https://github.com/aurelhubert/ahbottomnavigation)/175 | A library to reproduce the behavior of the Bottom Navigation guidelines from Material Design. |
+| 3782 | 850 | 147 | 7 years ago | [roboguice](https://github.com/roboguice/roboguice)/176 | Google Guice on Android, version 3.0 [RETIRED] |
+| 3751 | 1068 | 149 | a month ago | [jacoco](https://github.com/jacoco/jacoco)/177 | :microscope: Java Code Coverage Library |
+| 3749 | 527 | 261 | a day ago | [crate](https://github.com/crate/crate)/178 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene. |
+| 3715 | 373 | 1 | 2 years ago | [spruce-android](https://github.com/willowtreeapps/spruce-android)/179 | Spruce Animation Library |
+| 3676 | 546 | 3 | 1 year, 2 months ago | [CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)/180 | Android library that allows launching a custom activity when your app crashes, instead of showing the hated "Unfortunately, X has stopped" dialog. |
+| 3668 | 1858 | 16 | 3 years ago | [effective-java-3e-source-code](https://github.com/jbloch/effective-java-3e-source-code)/181 | The source code from the third edition of Effective Java, with minor additions as necessary to make it runnable. |
+| 3665 | 1455 | 31 | 5 years ago | [mpush](https://github.com/mpusher/mpush)/182 | MPush开源实时消息推送系统 |
+| 3654 | 318 | 36 | 4 years ago | [blurkit-android](https://github.com/CameraKit/blurkit-android)/183 | The missing Android blurring library. Fast blur-behind layout that parallels iOS. |
+| 3650 | 457 | 42 | 3 months ago | [TinyPinyin](https://github.com/promeG/TinyPinyin)/184 | 适用于Java和Android的快速、低内存占用的汉字转拼音库。 |
+| 3649 | 459 | 8 | 5 months ago | [BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary)/185 | A framework for directly generating shape through Tags, no need to write shape.xml again（通过标签直接生成shape，无需再写shape.xml） |
+| 3643 | 623 | 410 | 5 months ago | [incubator-heron](https://github.com/apache/incubator-heron)/186 | Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter |
+| 3642 | 764 | 48 | 4 months ago | [atmosphere](https://github.com/Atmosphere/atmosphere)/187 | Event Driven WebSockets Framework  with Cross-Browser Fallbacks |
+| 3637 | 1007 | 3 | 2 days ago | [lilishop](https://github.com/lilishop/lilishop)/188 | 商城 JAVA电商商城 多语言商城  uniapp商城  微服务商城  |
+| 3636 | 1103 | 13 | 6 years ago | [android-common](https://github.com/litesuits/android-common)/189 | Android Common Utils or Helper. Such as Log, Averager, Base64, Check, FlashLight, KeyguardLock, LogReader, Network, SilentInstaller, TimeAverager, TimeCounter, Toastor, WakeLock, ScreenReceiver, SmsReceiver, PhoneReceiver, NotificationService, AndroidUtil, AppUtil, BitmapUtil, ByteUtil, ClassUtil, DialogUtil, FieldUtil, FileUtil, HexUtil, MD5Util, NotificationUtil, NumberUtil, PackageUtil, RandomUtil, ShellUtil, TelephoneUtil, VibrateUtil, IOUtils, FileUtils, AsyncExecutor, etc.  通用性强，纯洁简单，体积不到50K！其中包括bitmap处理，文件操作，加密存储器，shell命令，静默安装，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。 |
+| 3588 | 445 | 28 | 2 years ago | [Skeleton](https://github.com/ethanhua/Skeleton)/190 | A library provides an easy way to show skeleton loading view like Facebook and Alipay |
+| 3573 | 287 | 68 | 9 months ago | [groupie](https://github.com/lisawray/groupie)/191 | Groupie helps you display and manage complex RecyclerView layouts. |
+| 3544 | 1330 | 479 | 12 days ago | [Terasology](https://github.com/MovingBlocks/Terasology)/192 | Terasology - open source voxel world |
+| 3536 | 475 | 25 | 1 year, 6 months ago | [MagicaSakura](https://github.com/bilibili/MagicaSakura)/193 | MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme.  |
+| 3526 | 941 | 12 | 1 year, 6 months ago | [IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide)/194 | :honeybee: IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析 :sparkles: :sparkles: :sparkles: (IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker) |
+| 3502 | 126 | 42 | 3 months ago | [ByteLegend](https://github.com/ByteLegend/ByteLegend)/195 | Enjoy programming while playing a game. |
+| 3497 | 224 | 65 | 10 months ago | [awaitility](https://github.com/awaitility/awaitility)/196 | Awaitility is a small Java DSL for synchronizing asynchronous operations |
+| 3496 | 876 | 31 | 1 year, 5 months ago | [IDDD_Samples](https://github.com/VaughnVernon/IDDD_Samples)/197 | These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon:  http://vaughnvernon.co/?page_id=168 |
+| 3490 | 841 | 52 | 5 years ago | [GeekNews](https://github.com/codeestX/GeekNews)/198 | :books:A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide |
+| 3487 | 471 | 33 | a month ago | [GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool)/199 | the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leaking detection, vulnerability detection, path solving, packer identification, variable tracking, deobfuscation, python&java scripts, device memory extraction, data decryption, and encryption, etc.  |
+| 3480 | 1551 | 34 | 2 days ago | [android-maps-utils](https://github.com/googlemaps/android-maps-utils)/200 | Maps SDK for Android Utility Library |
+| 1191 | 452 | 47 | 8 years ago | [cube-sdk](https://github.com/liaohuqiu/cube-sdk)/201 | A light package for Android development, it handles loading image and network request. |
+| 1189 | 155 | 28 | 6 months ago | [passive-scan-client](https://github.com/c0ny1/passive-scan-client)/202 | Burp被动扫描流量转发插件 |
+| 1161 | 225 | 0 | 7 years ago | [TransitionPlayer](https://github.com/linfaxin/TransitionPlayer)/203 | Android library to control Transition animates. A simple way to create a interactive animation. |
+| 1161 | 235 | 43 | 4 years ago | [TodayStepCounter](https://github.com/jiahongfei/TodayStepCounter)/204 | Android计步模块（类似微信运动，支付宝计步，今日步数），记录当天从0点到23:59的步数 |
+| 1157 | 186 | 4 | 7 years ago | [Curved-Fab-Reveal-Example](https://github.com/saulmm/Curved-Fab-Reveal-Example)/205 | None |
+| 1155 | 276 | 3 | 4 months ago | [DiscoveryGuide](https://github.com/Nepxion/DiscoveryGuide)/206 | ☀️ Nepxion Discovery Guide is a guide example for Nepxion Discovery 蓝绿灰度发布、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活的指南示例 |
+| 1151 | 336 | 49 | 1 year, 4 months ago | [Scanner](https://github.com/shouzhong/Scanner)/207 | 二维码/条码识别、身份证识别、银行卡识别、车牌识别、图片文字识别、黄图识别、驾驶证（驾照）识别 |
+| 1141 | 254 | 8 | 3 years ago | [WorldMap](https://github.com/johnnylambada/WorldMap)/208 | Android Scrolling Background Bitmap Example |
+| 1140 | 187 | 11 | 3 years ago | [HollyViewPager](https://github.com/florent37/HollyViewPager)/209 | A different beautiful ViewPager, with quick swipe controls |
+| 1133 | 217 | 57 | 8 years ago | [RecyclerViewFastScroller](https://github.com/danoz73/RecyclerViewFastScroller)/210 | A Fast Scroller for the RecyclerView world! |
+| 1133 | 536 | 223 | 3 years ago | [react-native-admob](https://github.com/sbugert/react-native-admob)/211 | A react-native component for Google AdMob banners |
+| 1132 | 342 | 9 | 7 years ago | [AndroidSystemUiTraining](https://github.com/D-clock/AndroidSystemUiTraining)/212 | Android System UI Training Code |
+| 1119 | 185 | 0 | 3 years ago | [android-ui-toolkit-demos](https://github.com/googlearchive/android-ui-toolkit-demos)/213 | Migrated: |
+| 1119 | 876 | 52 | 4 years ago | [Intro-to-Java-Programming](https://github.com/jsquared21/Intro-to-Java-Programming)/214 | Solutions to Programming Exercises in Introduction to Java Programming, Comprehensive Version (10th Edition) by Y. Daniel Liang |
+| 1110 | 341 | 65 | 17 days ago | [javers](https://github.com/javers/javers)/215 | JaVers - object auditing and diff framework for Java |
+| 1109 | 140 | 46 | 9 days ago | [BedrockConnect](https://github.com/Pugmatt/BedrockConnect)/216 | Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5 |
+| 1105 | 273 | 19 | 2 years ago | [PhotoEdit](https://github.com/jarlen/PhotoEdit)/217 | For Android studio 图片处理 1、图片编辑(图片添加，文字添加)，实现图片编辑中的图片添加，旋转，缩放，删除；文字的添加，大小缩放，字体更换，颜色更换，删除； 2，基本滤镜实现与接口封装； 涂鸦(画笔的样式，粗细，颜色，橡皮擦，贴图)； 相框(简单相框，酷炫相框)； 马赛就克(基本马赛克，酷炫马赛克，橡皮擦)及其接口封装 3，接下来， 图像剪切，旋转等功能实现测试接口封装 |
+| 1092 | 221 | 7 | 7 years ago | [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)/218 | MaterialLoadingProgressBar   provide a styled ProgressBar which looks  like SwipeRefreshLayout's loading indicator(support-v4  v21+) |
+| 1083 | 229 | 101 | 1 year, 4 months ago | [react-native-photo-editor](https://github.com/prscX/react-native-photo-editor)/219 | React Native: Native Photo Editor |
+| 1082 | 91 | 19 | 5 years ago | [fragmentargs](https://github.com/sockeqwe/fragmentargs)/220 | Annotation Processor for setting arguments in android fragments |
+| 1072 | 185 | 21 | 3 years ago | [SmileyRating](https://github.com/sujithkanna/SmileyRating)/221 | SmileyRating is a simple rating bar for android. It displays animated smileys as rating icon. |
+| 1071 | 206 | 55 | 2 years ago | [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp)/222 | NLP tools for Turkish. |
+| 1070 | 273 | 97 | 26 days ago | [captcha](https://github.com/anji-plus/captcha)/223 | 行为验证码(滑动拼图、点选文字)，前后端(java)交互，包含h5/Android/IOS/flutter/uni-app的源码和实现 |
+| 1066 | 240 | 71 | a day ago | [javacc](https://github.com/javacc/javacc)/224 | JavaCC - a parser generator for building parsers from grammars. It can generate code in Java, C++ and C#. |
+| 1052 | 353 | 13 | 4 years ago | [PokeGOAPI-Java](https://github.com/Grover-c13/PokeGOAPI-Java)/225 | Pokemon Go API |
+| 1048 | 618 | 16 | 5 years ago | [production_ssm](https://github.com/megagao/production_ssm)/226 | 这是一个SSM（Spring+SpringMVC+Mybatis）+jQuery EasyUI开发的ERP系统。 |
+| 1047 | 400 | 17 | 1 year, 7 months ago | [android-maven-plugin](https://github.com/simpligility/android-maven-plugin)/227 | Maven Plugin for Android Application development and more |
+| 1046 | 216 | 4 | 1 year, 7 months ago | [VerticalStepperForm](https://github.com/ernestoyaquello/VerticalStepperForm)/228 | Vertical Stepper Form Library for Android. It follows Google Material Design guidelines. |
+| 1042 | 150 | 69 | 9 days ago | [Arclight](https://github.com/IzzelAliz/Arclight)/229 | A Bukkit(1.19/1.20) server implementation on Forge using Mixin. ⚡ |
+| 1038 | 116 | 33 | 5 years ago | [LocationReportEnabler](https://github.com/GhostFlying/LocationReportEnabler)/230 | A simple android app to enable Google Location Report, Google Now and related functions in China mainland or somewhere like. |
+| 1037 | 209 | 32 | 22 days ago | [rtree](https://github.com/davidmoten/rtree)/231 | Immutable in-memory R-tree and R*-tree implementations in Java with reactive api |
+| 1035 | 298 | 45 | 5 years ago | [VideoEnabledWebView](https://github.com/cprcrack/VideoEnabledWebView)/232 | Android's WebView and WebChromeClient class extensions that enable fully working HTML5 video support |
+| 1035 | 129 | 4 | 6 years ago | [ActivitySwitcher](https://github.com/Hitomis/ActivitySwitcher)/233 | ActivitySwitcher is based on the Activity view operation management library, you can achieve any jump between Activity, close any Activity and end applications and other functions. |
+| 1028 | 104 | 271 | 5 years ago | [OpenMemories-Tweak](https://github.com/ma1co/OpenMemories-Tweak)/234 | Unlock your Sony camera's settings |
+| 1027 | 170 | 3 | 9 months ago | [StickyDecoration](https://github.com/Gavin-ZYX/StickyDecoration)/235 | None |
+| 1019 | 174 | 0 | 3 months ago | [android-checkout](https://github.com/serso/android-checkout)/236 | Library for Android In-App Billing (Version 3+) |
+| 1015 | 333 | 158 | 2 years ago | [SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)/237 | You can now select a date and a time with only one widget ! |
+| 1013 | 319 | 45 | 6 years ago | [Pokemap](https://github.com/omkarmoghe/Pokemap)/238 | A native Android client to map the Pokemon around you! |
+| 1011 | 165 | 1 | 7 years ago | [BlurredView](https://github.com/wl9739/BlurredView)/239 | 【Deprecated】 Dynamic blur of image views for Android |
+| 1009 | 299 | 24 | 8 years ago | [android-cube-app](https://github.com/liaohuqiu/android-cube-app)/240 | None |
+| 1007 | 55 | 0 | 2 years ago | [victor](https://github.com/trello/victor)/241 | Use SVGs as resources in Android |
+| 1005 | 162 | 6 | 5 years ago | [SmallBang](https://github.com/hanks-zyh/SmallBang)/242 |   twitter like animation for any view :heartbeat: |
+| 987 | 491 | 4 | 6 years ago | [spider](https://github.com/gsh199449/spider)/243 | A configurable web spider with a easy-to-use web console |
+| 986 | 279 | 37 | 3 years ago | [VolleyPlus](https://github.com/DWorkS/VolleyPlus)/244 | 🏐 Volley library : make everything faster . Its an improvements for Volley by Google for Android  https://android.googlesource.com/platform/frameworks/volley  |
+| 980 | 172 | 24 | 6 months ago | [DialogUtil](https://github.com/hss01248/DialogUtil)/245 | common used dialog with material style ( in support v7)，ios style，get top activity automatically, invoke everywhere (any thread , any window) |
+| 960 | 261 | 7 | a day ago | [Addax](https://github.com/wgzhao/Addax)/246 | Addax is a versatile open-source ETL tool that can seamlessly transfer data between various RDBMS and NoSQL databases, making it an ideal solution for data migration. |
+| 958 | 450 | 32 | 1 year, 10 days ago | [EsptouchForAndroid](https://github.com/EspressifApp/EsptouchForAndroid)/247 | EspTouch is one way for Android Phone to tell the connected Router's Ssid, Password and etc. to make IOT devices to connect to the same Router. EspTouch is developed and maintained by Espressif Corp.  |
+| 954 | 129 | 7 | 3 years ago | [Log4a](https://github.com/pqpo/Log4a)/248 | :octocat:Log4a is an mmap based, high-performance, highly available Android log collection library / Log4a 是一个基于 mmap, 高性能、高可用的 Android 日志收集框架 |
+| 951 | 322 | 9 | 1 year, 4 months ago | [geohash-java](https://github.com/kungfoo/geohash-java)/249 | Implementation of GeoHashes in java. We try to be/stay compliant to the spec, as far as possible. |
+| 943 | 217 | 249 | 4 days ago | [batfish](https://github.com/batfish/batfish)/250 | Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches. |
+| 942 | 226 | 48 | 2 years ago | [micro-server](https://github.com/aol/micro-server)/251 | Microserver is a Java 8 native, zero configuration, standards based, battle hardened library to run Java Rest Microservices via a standard Java main class. Supporting pure Microservice or Micro-monolith styles. |
+| 942 | 250 | 12 | a month ago | [dslabs](https://github.com/emichael/dslabs)/252 | Distributed Systems Labs and Framework |
+| 941 | 271 | 60 | 3 years ago | [farebot](https://github.com/codebutler/farebot)/253 | Read data from public transit cards using your NFC Android phone! |
+| 941 | 317 | 1 | 3 years ago | [androidScreenShare](https://github.com/android-notes/androidScreenShare)/254 | android  |
+| 936 | 196 | 28 | 6 years ago | [ColorArcProgressBar](https://github.com/Shinelw/ColorArcProgressBar)/255 | This is beautiful color arc progress bar. |
+| 929 | 276 | 54 | 8 years ago | [android-FlipView](https://github.com/emilsjolander/android-FlipView)/256 | A small, easy to use android library for implementing flipping between views as seen in the popular Flipboard application |
+| 926 | 198 | 64 | a month ago | [fred](https://github.com/hyphanet/fred)/257 | Freenet REference Daemon |
+| 924 | 177 | 9 | 7 years ago | [crash](https://github.com/crashub/crash)/258 | The shell for the Java Platform |
+| 898 | 141 | 9 | 8 years ago | [ColorArt](https://github.com/MichaelEvans/ColorArt)/259 | iTunes 11-style color matching code for Android |
+| 894 | 642 | 39 | 1 year, 2 months ago | [aws-big-data-blog](https://github.com/aws-samples/aws-big-data-blog)/260 | None |
+| 894 | 655 | 7 | 2 years ago | [SpringBootLearning](https://github.com/gf-huanchupk/SpringBootLearning)/261 | Spring Boot learning process |
+| 892 | 195 | 2 | 4 years ago | [GracefulMovies](https://github.com/woxingxiao/GracefulMovies)/262 | 简影讯，简约精彩影讯。基于Retrofit+RxJava+Android Arch+DataBinding+Room的高颜值影讯app。简约，优雅，精彩，即看即走，已正式发布上线。 |
+| 890 | 488 | 2 | 9 years ago | [TopNews](https://github.com/Rano1/TopNews)/263 | 今日头条 |
+| 890 | 211 | 10 | 3 years ago | [gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector)/264 | A byte code analyzer for finding deserialization gadget chains in Java applications |
+| 890 | 256 | 32 | 1 year, 3 months ago | [hadoop_study](https://github.com/realguoshuai/hadoop_study)/265 | 定期更新Hadoop生态圈中常用大数据组件文档  重心依次为: Flink Solr Sparksql  ES   Scala  Kafka Hbase/phoenix Redis Kerberos (项目包含hadoop思维导图 印象笔记  Scala版本简单demo  常用工具类 去敏后的train code   持续更新!!!) |
+| 887 | 314 | 0 | 5 years ago | [swift](https://github.com/facebookarchive/swift)/266 | An annotation-based Java library for creating Thrift serializable types and services. |
+| 883 | 167 | 4 | 7 years ago | [FlycoLabelView](https://github.com/H07000223/FlycoLabelView)/267 | A Simple Android LabelView. |
+| 882 | 152 | 59 | 11 years ago | [Solandra](https://github.com/tjake/Solandra)/268 | Solandra = Solr + Cassandra |
+| 879 | 290 | 38 | 6 years ago | [pigeon](https://github.com/dianping/pigeon)/269 | RPC framework of DIANPING |
+| 872 | 144 | 6 | 4 years ago | [AwesomeBar](https://github.com/florent37/AwesomeBar)/270 | Just beautiful |
+| 862 | 137 | 22 | 4 years ago | [android-drawable-importer-intellij-plugin](https://github.com/winterDroid/android-drawable-importer-intellij-plugin)/271 | Adds an option to IntelliJ to import drawables in different resolutions from AndroidIcons, own "drawable repos" and scale a certain image down/up to the defined resolutions. |
+| 862 | 271 | 17 | 1 year, 12 days ago | [jpmml-evaluator](https://github.com/jpmml/jpmml-evaluator)/272 | Java Evaluator API for PMML |
+| 862 | 136 | 8 | 3 years ago | [jsEncrypter](https://github.com/c0ny1/jsEncrypter)/273 | 一个用于前端加密Fuzz的Burp Suite插件 |
+| 861 | 296 | 120 | a day ago | [Payara](https://github.com/payara/Payara)/274 | Payara Server is an open source middleware platform that supports reliable and secure deployments of Java EE (Jakarta EE) and MicroProfile applications in any environment: on premise, in the cloud or hybrid.  |
+| 857 | 425 | 7 | 7 years ago | [spring-restful-authorization](https://github.com/ScienJus/spring-restful-authorization)/275 | 这个 Demo 用于演示如何在 RESTful 下使用自定义 Token 保持客户端登录状态，依靠 Spring 的拦截器和解析器完成权限验证及登录用户注入，并使用 Redis 存储 Token。 |
+| 850 | 145 | 6 | 2 years ago | [Music-App](https://github.com/vpaliy/Music-App)/276 | A fully-featured music app that contains various elements of Material Design. |
+| 847 | 142 | 27 | 2 years ago | [airline](https://github.com/airlift/airline)/277 | Java annotation-based framework for parsing Git like command line structures |
+| 846 | 214 | 16 | 3 days ago | [FluentLenium](https://github.com/FluentLenium/FluentLenium)/278 | FluentLenium is a web & mobile automation framework which extends Selenium to write reliable and resilient UI functional tests. This framework is React ready. Written and maintained by people who are automating browser-based tests on a daily basis. |
+| 845 | 125 | 4 | 1 year, 7 months ago | [SerializationDumper](https://github.com/NickstaDB/SerializationDumper)/279 | A tool to dump Java serialization streams in a more human readable form. |
+| 842 | 507 | 8 | 8 months ago | [opslabJutil](https://github.com/0opslab/opslabJutil)/280 | Java utils |
+| 841 | 182 | 15 | 3 years ago | [StikkyHeader](https://github.com/carlonzo/StikkyHeader)/281 | This is a very simple library for Android that allows you to stick an header to a scrollable view and easily apply animation to it |
+| 838 | 158 | 20 | 4 years ago | [DrawView](https://github.com/ByoxCode/DrawView)/282 | Android view that allows the user to create drawings. Customize settings like color, width or tools. Undo or redo actions. Zoom into DrawView and add a background. |
+| 833 | 295 | 6 | 2 years ago | [WeSync](https://github.com/rememberber/WeSync)/283 | 用Java Swing写的数据库同步软件 |
+| 832 | 261 | 54 | 8 years ago | [Turbine](https://github.com/Netflix/Turbine)/284 | SSE Stream Aggregator |
+| 827 | 549 | 25 | a day ago | [opennms](https://github.com/OpenNMS/opennms)/285 | Enterprise-Grade Open-Source Network Management Platform |
+| 826 | 530 | 100 | 1 year, 11 months ago | [gcm](https://github.com/google/gcm)/286 | Google Cloud Messaging - client libraries and sample implementations |
+| 823 | 253 | 4 | 6 years ago | [DashboardView](https://github.com/woxingxiao/DashboardView)/287 | Android自定义仪表盘View，仿新旧两版芝麻信用分、炫酷汽车速度仪表盘 |
+| 817 | 244 | 1 | 6 years ago | [ddd-leaven-v2](https://github.com/BottegaIT/ddd-leaven-v2)/288 | DDD-CqRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing |
+| 816 | 146 | 7 | 6 years ago | [MovingImageView](https://github.com/AlbertGrobas/MovingImageView)/289 | Custom ImageView for moving image around the screen (Android) |
+| 816 | 89 | 1 | 4 years ago | [PolygonDrawingUtil](https://github.com/stkent/PolygonDrawingUtil)/290 | A compact Android utility for constructing and drawing rounded regular polygons. |
+| 813 | 367 | 4 | 6 years ago | [vb-android-app-quality](https://github.com/vincentbrison/vb-android-app-quality)/291 | Sample android project using Gradle, with basic quality tools set up.  |
+| 811 | 130 | 8 | 4 years ago | [SwipeMenu](https://github.com/TUBB/SwipeMenu)/292 | [DEPRECATED] A swipe menu for horizontal/vertical, support left/right and top/bottom directions |
+| 811 | 158 | 22 | 5 months ago | [sureness](https://github.com/dromara/sureness)/293 | A simple and efficient security framework that focus on protection of API.  |
+| 811 | 362 | 66 | 4 years ago | [embedded-redis](https://github.com/kstyrc/embedded-redis)/294 | Redis embedded server for Java integration testing |
+| 810 | 126 | 3 | 4 years ago | [RelativePopupWindow](https://github.com/kakajika/RelativePopupWindow)/295 | Android PopupWindow that can be easily located relative to anchor View. |
+| 808 | 91 | 77 | 22 hours ago | [jreleaser](https://github.com/jreleaser/jreleaser)/296 | :rocket: Release projects quickly and easily with JReleaser |
+| 807 | 185 | 21 | 1 year, 8 months ago | [AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash)/297 | Awesome-looking customizable splash screen |
+| 805 | 282 | 24 | 9 years ago | [android-visualizer](https://github.com/felixpalmer/android-visualizer)/298 | Takes the input from the Android MediaPlayer and displays visualizations, like in iTunes or WinAmp |
+| 805 | 206 | 8 | 2 days ago | [gerrit](https://github.com/GerritCodeReview/gerrit)/299 | Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit) |
+| 801 | 219 | 2 | 11 months ago | [SnowJena](https://github.com/onblog/SnowJena)/300 | Distributed lock-free current limiting framework based on token bucket algorithm.基于令牌桶算法实现的分布式无锁限流框架。（欢迎Star，🚫禁止Fork） |
+| 195 | 59 | 9 | 7 years ago | [Gank](https://github.com/GcsSloop/Gank)/301 | :fish_cake:Gank干货集中营Android客户端。 |
+| 194 | 31 | 0 | 7 years ago | [PullDownView](https://github.com/w4lle/PullDownView)/302 | 大图作为header跟随手指向上滑动，下拉展示大图 |
+| 194 | 169 | 0 | 4 years ago | [piggymetrics](https://github.com/spring2go/piggymetrics)/303 | 微服务综合案例PiggyMetrics，极客时间微服务架构和实践课程 |
+| 194 | 36 | 1 | 7 years ago | [avatar-android](https://github.com/Pedroafa/avatar-android)/304 | Rounded and Squared Avatar for Android Applications |
+| 193 | 38 | 5 | 8 years ago | [bootstrap3-phpstorm-plugin](https://github.com/JasonMortonNZ/bootstrap3-phpstorm-plugin)/305 | A PHPStorm plugin containing Bootstrap 3 live templates - lot's of live template! |
+| 193 | 37 | 1 | 7 years ago | [AndroidCubeDemo](https://github.com/geminiwen/AndroidCubeDemo)/306 | Android Cube Effect Demo (not use view pager transformer) |
+| 193 | 37 | 26 | 5 years ago | [UMAndroidSdkDemo](https://github.com/umeng/UMAndroidSdkDemo)/307 | 友盟+ 统计SDK/推送SDK/分享SDK 三合一 Demo项目 |
+| 193 | 75 | 0 | 4 years ago | [AndroidLoadingAnimation](https://github.com/guohuanwen/AndroidLoadingAnimation)/308 | many loading animations,TaiJi or windows or...(各种android加载动画) |
+| 193 | 84 | 6 | 8 years ago | [GAHelloWorld](https://github.com/jsvazic/GAHelloWorld)/309 | A simple example of a Genetic Algorithm that generates "Hello world!" |
+| 192 | 49 | 1 | 1 year, 4 months ago | [LeetCode](https://github.com/617076674/LeetCode)/310 | 我的LeetCode代码仓，近乎所有题目都会提供多种解法  :) |
+| 192 | 21 | 9 | 6 months ago | [dempsy](https://github.com/Dempsy/dempsy)/311 | Distributed Elastic Message Processing System |
+| 192 | 40 | 14 | 7 years ago | [RetroFacebook](https://github.com/yongjhih/RetroFacebook)/312 | Retrofit Facebook Android SDK |
+| 192 | 161 | 0 | 8 years ago | [platform_packages_apps_browser](https://github.com/aosp-mirror/platform_packages_apps_browser)/313 | None |
+| 191 | 45 | 10 | 5 years ago | [SlideAdapter](https://github.com/yhaolpz/SlideAdapter)/314 |  一句代码搞定 RecycleView 侧滑菜单、添加头部底部、加载更多 , 像 Glide 一样简洁的链式调用轻松实现 Adapter   |
+| 191 | 83 | 2 | 2 years ago | [sample-simplepio](https://github.com/androidthings/sample-simplepio)/315 | Basic Peripheral I/O examples with Android Things |
+| 191 | 61 | 4 | 6 years ago | [nested-recycler-view](https://github.com/msahakyan/nested-recycler-view)/316 | Shows how to create android vertical recyclerView with nested horizontal linear recycler view  |
+| 191 | 123 | 16 | 9 years ago | [filecrush](https://github.com/edwardcapriolo/filecrush)/317 | Remedy small files by combining them into larger ones. |
+| 191 | 49 | 5 | 5 years ago | [JNCryptor](https://github.com/RNCryptor/JNCryptor)/318 | Java implementation of RNCryptor |
+| 190 | 146 | 5 | 2 years ago | [elasticsearch-jest-example](https://github.com/ameizi/elasticsearch-jest-example)/319 | ElasticSearch Java Rest Client Examples |
+| 190 | 313 | 49 | 1 year, 3 months ago | [600SeriesAndroidUploader](https://github.com/pazaan/600SeriesAndroidUploader)/320 | Your Medtronic 600-series pump data, direct to Nightscout |
+| 190 | 11 | 0 | 4 years ago | [acgn-community](https://github.com/taoyimin/acgn-community)/321 | A community app for news,animation,music and novels  developed  material design style. |
+| 190 | 50 | 3 | 10 years ago | [ActivitySplitAnimation](https://github.com/Udinic/ActivitySplitAnimation)/322 | None |
+| 189 | 25 | 0 | 8 years ago | [retro-dagger-example](https://github.com/fr4nk1/retro-dagger-example)/323 | MVP + Dagger2 + Retrofit |
+| 189 | 19 | 4 | 5 years ago | [permiso](https://github.com/greysonp/permiso)/324 | An Android library to make handling runtime permissions a whole lot easier. |
+| 188 | 2 | 1 | 5 years ago | [CustomBehavior](https://github.com/XiqingLiu/CustomBehavior)/325 | 自定义Behavior，实现QQ联系人tab和header动画 |
+| 188 | 45 | 3 | 6 years ago | [PracticalRecyclerView](https://github.com/ssseasonnn/PracticalRecyclerView)/326 | None |
+| 188 | 127 | 8 | 2 months ago | [vsphere-automation-sdk-java](https://github.com/vmware/vsphere-automation-sdk-java)/327 | Java samples, language bindings, and API reference documentation for vSphere, VMC, and NSX-T using the VMware REST API |
+| 188 | 92 | 5 | 4 years ago | [simple-spring-memcached](https://github.com/ragnor/simple-spring-memcached)/328 | A drop-in library to enable memcached caching in Spring beans via annotations |
+| 188 | 27 | 8 | 3 years ago | [InfiniteScroll](https://github.com/pwittchen/InfiniteScroll)/329 | Infinite Scroll (Endless Scrolling) for RecyclerView in Android |
+| 188 | 101 | 6 | 6 years ago | [Douban-Java-SDK-OAuth2](https://github.com/UglyTroLL/Douban-Java-SDK-OAuth2)/330 | Douban Java SDK OAuth2 |
+| 187 | 141 | 11 | 8 years ago | [simplehbase](https://github.com/alibaba/simplehbase)/331 | Simplehbase is a lightweight ORM framework between java app and hbase. |
+| 187 | 49 | 8 | 4 years ago | [android-passcodeview](https://github.com/Arjun-sna/android-passcodeview)/332 | A custom view with keyboard and character display to be used for authentication |
+| 187 | 114 | 30 | 2 years ago | [keycloak-docker-demo](https://github.com/thomasdarimont/keycloak-docker-demo)/333 | Repository for Keycloak Demos |
+| 187 | 41 | 2 | 6 years ago | [Polaris2](https://github.com/cyrilmottier/Polaris2)/334 | Polaris is a framework enhancing the Google Maps Android API v2. It aims to fix some of the most frustrating bugs of the original library and provide additional features. |
+| 187 | 144 | 0 | 7 years ago | [ng-spring-boot](https://github.com/g00glen00b/ng-spring-boot)/335 | Spring boot + Spring Data JPA + AngularJS example |
+| 187 | 17 | 0 | 12 years ago | [nbgit](https://github.com/myabc/nbgit)/336 | NetBeans Git Module |
+| 186 | 86 | 10 | 6 years ago | [jblog](https://github.com/kingschan1204/jblog)/337 | :trident:一个简洁漂亮的java blog :point_right:基于Spring /MVC+ Hibernate + MySQL + Bootstrap + freemarker. 实现 :rainbow: |
+| 186 | 6 | 14 | 5 years ago | [Dynamo](https://github.com/doridori/Dynamo)/338 | A lightweight state-based controller for Android |
+| 185 | 62 | 5 | 7 years ago | [maui](https://github.com/zelandiya/maui)/339 | None |
+| 185 | 26 | 2 | 5 years ago | [recyclerview-binder](https://github.com/satorufujiwara/recyclerview-binder)/340 | Android library for RecyclerView to manage order of items and multiple view types. |
+| 185 | 68 | 1 | 5 years ago | [cassandra-mesos-deprecated](https://github.com/mesosphere-backup/cassandra-mesos-deprecated)/341 | [DEPRECATED] This project is deprecated. It will be archived on December 1, 2017. |
+| 185 | 79 | 3 | 4 years ago | [ssm](https://github.com/jiangcaijun/ssm)/342 | Maven搭建SpringMVC+Spring+MyBatis框架，添加shiro权限控制、aop日志管理与异常统一处理、redis缓存、activeMQ通讯等功能 |
+| 185 | 2 | 0 | 2 months ago | [app-space-android](https://github.com/appspa/app-space-android)/343 | 应用内网发布分发测试部署管理平台版本管理类似蒲公英蒲公英 类似fir.im fir App publish IOS超级签名免签 开源| https://app-space.up.railway.app |APP增量热更新| 支持iOS、Android、flutter、 react-native更新摇一摇提Bug SDK 提供自动化部署jenkins fastlane 丰富组件库 安卓苹果发布发版publish 管理发发布适用于企业手机应用内测服务应用内测托管的平台开源 |
+| 185 | 80 | 5 | 10 years ago | [YiBo](https://github.com/cattong/YiBo)/344 | A simple and fast weibo app,support Sina, Tencent, Twiiter, Netease,Soho... |
+| 185 | 144 | 17 | 1 year, 8 months ago | [FTBLaunch](https://github.com/Slowpoke101/FTBLaunch)/345 | Launcher for the FTB Mod Pack |
+| 185 | 30 | 0 | 7 years ago | [FreeView](https://github.com/jcmore2/FreeView)/346 | FreeView create a floating view that you can use and move inside your app and also when your app is in background. |
+| 185 | 74 | 2 | 7 years ago | [SimpleInfiniteCarousel](https://github.com/mrleolink/SimpleInfiniteCarousel)/347 | A sample to show how to make a simple infinite carousel with ViewPager on Android |
+| 184 | 100 | 2 | 8 years ago | [StepCounter](https://github.com/zhouguangfu09/StepCounter)/348 | A small example about android pedometer  |
+| 184 | 187 | 3 | 1 year, 7 months ago | [thymeleafexamples-stsm](https://github.com/thymeleaf/thymeleafexamples-stsm)/349 | Spring Thyme Seedstarter Manager - Companion application for the  "Thymeleaf + Spring 3" tutorial downloadable at the Thymeleaf website: http://www.thymeleaf.org/documentation.html |
+| 184 | 40 | 0 | 6 years ago | [android-FancyBehaviorDemo](https://github.com/unixzii/android-FancyBehaviorDemo)/350 | A simple demo of customized CoordinatorLayout behavior. |
+| 184 | 77 | 5 | 3 years ago | [tcp-long-connection-based-on-apache-mina](https://github.com/sddyljsx/tcp-long-connection-based-on-apache-mina)/351 |  tcp-long-connection-based-on-apache-mina |
+| 184 | 21 | 11 | 1 year, 6 months ago | [bender](https://github.com/Nextdoor/bender)/352 | Bender - Serverless ETL Framework |
+| 183 | 25 | 13 | 7 years ago | [sqlbrite-dao](https://github.com/sockeqwe/sqlbrite-dao)/353 | DAO for SQLBrite |
+| 183 | 10 | 0 | 4 years ago | [Cartoon](https://github.com/chrissen0814/Cartoon)/354 | 漫画软件——使用MVP + Retrofit + RxJava开发 |
+| 183 | 182 | 5 | 7 months ago | [jshoper3x](https://github.com/sdywcd/jshoper3x)/355 | 简化原版，增加移动平台特性 |
+| 183 | 50 | 0 | 4 years ago | [android-mvp-dagger2-flytranslate](https://github.com/mxdldev/android-mvp-dagger2-flytranslate)/356 | MVP+RxJava+Retrofit+Dagger2, FlyTranslate是基于MVP开发的Android应用程序的通用架构集成了许多开源项目如Dagger2，RxJava，Retrofit ，使您的开发更快捷，更轻松。 |
+| 183 | 588 | 11 | 6 years ago | [POSA-15](https://github.com/douglascraigschmidt/POSA-15)/357 | None |
+| 183 | 122 | 25 | 1 year, 11 months ago | [gelfj](https://github.com/t0xa/gelfj)/358 | Graylog Extended Log Format (GELF) implementation in Java and log4j appender without any dependencies. |
+| 182 | 233 | 3 | 5 years ago | [ormlite-examples](https://github.com/j256/ormlite-examples)/359 | Various example programs |
+| 182 | 4 | 0 | 5 years ago | [oksharedprefs](https://github.com/sevenshal/oksharedprefs)/360 | 通过注解生成SharedPreferences包装类，解决跨进程数据访问不同步的问题。 |
+| 182 | 5 | 0 | 4 years ago | [MZSluggard-code](https://github.com/JianLin-Shen/MZSluggard-code)/361 | Android插件，辅助生成代码MZSluggard-code |
+| 182 | 33 | 3 | 7 years ago | [WechatOriginalFile](https://github.com/NigelYao/WechatOriginalFile)/362 | check wechat sns photos without sending lucky money |
+| 181 | 34 | 2 | 7 years ago | [TextViewSpanClickable](https://github.com/nimengbo/TextViewSpanClickable)/363 | None |
+| 181 | 27 | 0 | 7 years ago | [AndroidPullMenu](https://github.com/ShkurtiA/AndroidPullMenu)/364 | An Android Library that allows users to pull down a menu and select different actions. It can be implemented inside ScrollView, GridView, ListView. |
+| 181 | 23 | 3 | 4 years ago | [android-prefs](https://github.com/BoD/android-prefs)/365 | Android preferences for WINNERS! |
+| 181 | 95 | 6 | 7 years ago | [boot-stateless-auth](https://github.com/robbertvanwaveren/boot-stateless-auth)/366 | None |
+| 181 | 51 | 20 | 3 years ago | [react-native-action-sheet](https://github.com/yfuks/react-native-action-sheet)/367 | React native simple action sheet with native android (using the built-in AlertDialog) |
+| 181 | 35 | 4 | 2 years ago | [SlidingIntroScreen](https://github.com/jack-bradshaw/SlidingIntroScreen)/368 | An Android library designed to simplify the creation of introduction screens. |
+| 180 | 53 | 1 | 8 years ago | [FlyTxtView](https://github.com/tosslife/FlyTxtView)/369 | [DEPRECATED] android text fly into  仿《最美壁纸》iOS版文字逐个飞入效果 |
+| 180 | 8 | 1 | 6 years ago | [view-effects](https://github.com/mirrajabi/view-effects)/370 | Apply custom effects on view backgrounds |
+| 179 | 9 | 2 | 3 years ago | [mail-micro-service](https://github.com/hf-hf/mail-micro-service)/371 | mail-micro-service |
+| 179 | 21 | 68 | 7 years ago | [geppetto](https://github.com/cloudsmith/geppetto)/372 | Geppetto is an integrated toolset for developing Puppet modules and manifests. |
+| 179 | 29 | 0 | 6 years ago | [MultiStateView](https://github.com/XuDaojie/MultiStateView)/373 | 通用状态切换视图(已停止维护) |
+| 179 | 68 | 0 | 5 years ago | [sribbble](https://github.com/sugarac/sribbble)/374 | A third-party Android client for Dribbble |
+| 179 | 44 | 1 | 6 years ago | [Sport_Android](https://github.com/happyheng/Sport_Android)/375 | 一个Android版的运动APP。 |
+| 179 | 40 | 1 | 7 years ago | [SimpleToast](https://github.com/Pierry/SimpleToast)/376 | Notifications for Android (like a Toast) |
+| 179 | 21 | 0 | 8 years ago | [android-ActionQueue](https://github.com/liaohuqiu/android-ActionQueue)/377 | ActionQueue allows you run action one by one. |
+| 178 | 50 | 6 | 1 year, 6 months ago | [landmarker](https://github.com/googlecreativelab/landmarker)/378 | Orientation, GPS, and Places enabled Android Experiment |
+| 178 | 81 | 10 | 3 years ago | [zorka](https://github.com/jitlogic/zorka)/379 | Sophisticated monitoring agent for Java |
+| 178 | 75 | 0 | 6 years ago | [RedPackage](https://github.com/smartyuge/RedPackage)/380 | 红包精灵 |
+| 178 | 52 | 2 | 5 years ago | [TestCoordinatorLayout](https://github.com/SpikeKing/TestCoordinatorLayout)/381 | 熟练掌握 CoordinatorLayout 的开发技术 |
+| 178 | 106 | 14 | 3 years ago | [TurtlePlayer](https://github.com/eddturtle/TurtlePlayer)/382 | A Free, Fully Fledged, Open-Source Music Player for Android |
+| 177 | 30 | 13 | 6 years ago | [mirror](https://github.com/ineptech/mirror)/383 | Fully UI-configurable "smart mirror" Android app intended for a tablet behind a two-way mirror. |
+| 177 | 51 | 4 | 9 years ago | [Android-OrmLiteContentProvider](https://github.com/jakenjarvis/Android-OrmLiteContentProvider)/384 | [Android] This is a library that easy to make using ContentProvider with OrmLite. |
+| 177 | 27 | 6 | 8 years ago | [Rebuild](https://github.com/rejasupotaro/Rebuild)/385 | Rebuild.fm for Android |
+| 177 | 18 | 1 | 7 years ago | [HelloSwift](https://github.com/Ecco/HelloSwift)/386 | None |
+| 177 | 62 | 6 | 9 years ago | [io2014-codelabs](https://github.com/googlesamples/io2014-codelabs)/387 | Google I/O 2014 Codelabs |
+| 177 | 32 | 0 | 7 years ago | [AndroidGlitterView](https://github.com/liangfeidotme/AndroidGlitterView)/388 | A view to show bling bling stars when you touch it. |
+| 176 | 57 | 2 | 7 years ago | [dagger2-example](https://github.com/codepath/dagger2-example)/389 | None |
+| 176 | 20 | 0 | 6 years ago | [RxPaper](https://github.com/cesarferreira/RxPaper)/390 | Reactive extension for NoSQL data storage on Android |
+| 176 | 43 | 5 | 6 years ago | [SocialLoginManager](https://github.com/jaychang0917/SocialLoginManager)/391 | DEPRECATED |
+| 176 | 49 | 0 | 5 years ago | [LChart](https://github.com/linheimx/LChart)/392 | Simple & useful chart for Android |
+| 176 | 105 | 2 | 11 years ago | [AndroidImageCrop](https://github.com/lorensiuswlt/AndroidImageCrop)/393 | How select and crop image on Android |
+| 176 | 87 | 19 | 2 years ago | [hadoop](https://github.com/mesos/hadoop)/394 | Hadoop on Mesos |
+| 175 | 78 | 0 | 5 years ago | [ContentAssist](https://github.com/liaoziyang/ContentAssist)/395 | A code assist plugin for Eclipse. |
+| 175 | 107 | 0 | 5 years ago | [mattermost-android-classic](https://github.com/mattermost/mattermost-android-classic)/396 | Mattermost app for Android phones and tablets |
+| 175 | 32 | 3 | 9 years ago | [android-tagview](https://github.com/mcharmas/android-tagview)/397 | Simple android view to display list of colorful tags efficiently. |
+| 175 | 42 | 2 | 7 years ago | [GradationTitleBar](https://github.com/Hankkin/GradationTitleBar)/398 | 仿QQ空间标题栏渐变 |
+| 175 | 73 | 21 | 3 years ago | [digitalocean-api-java](https://github.com/jeevatkm/digitalocean-api-java)/399 | DigitalOcean API Client in Java |
+| 174 | 26 | 2 | 8 years ago | [Android-ShareEverywhere](https://github.com/dgmltn/Android-ShareEverywhere)/400 | Share all the things! |
+| 354 | 64 | 6 | 6 years ago | [FocusSurfaceView](https://github.com/CGmaybe10/FocusSurfaceView)/401 | 拍照时在相机的预览界面指定一个区域的大小，形状和位置，只拍摄该指定区域里的图像  |
+| 354 | 50 | 1 | 7 years ago | [InteractiveCanvas](https://github.com/elevenetc/InteractiveCanvas)/402 | Library for distribution canvas animation over set of devices |
+| 354 | 65 | 6 | 9 years ago | [code_swarm](https://github.com/rictic/code_swarm)/403 | A (fork of a) slick visualization for your source code |
+| 353 | 187 | 9 | a month ago | [kubernetes-tutorial](https://github.com/redhat-scholars/kubernetes-tutorial)/404 | Kubernetes Tutorial for https://dn.dev/master |
+| 353 | 101 | 1 | 7 years ago | [MaterialDesignSample](https://github.com/rejasupotaro/MaterialDesignSample)/405 | None |
+| 350 | 1194 | 0 | 1 year, 6 months ago | [ud843-QuakeReport](https://github.com/udacity/ud843-QuakeReport)/406 | Discover earthquake activity around the world. |
+| 350 | 43 | 5 | 4 years ago | [RxPicker](https://github.com/imuhao/RxPicker)/407 | The ImageSelect tool based on RxJava. |
+| 349 | 120 | 14 | 9 years ago | [Dex65536](https://github.com/mmin18/Dex65536)/408 | Solve the issue with dalvik compiler limitation on 65536 methods (Unable to execute dex: method ID not in [0, 0xffff]: 65536) |
+| 348 | 72 | 6 | 3 years ago | [Autocomplete](https://github.com/natario1/Autocomplete)/409 | Simple yet powerful autocomplete behavior for EditTexts, to avoid working with MultiAutoCompleteTextView APIs. |
+| 348 | 274 | 8 | 5 years ago | [NoCheatPlus](https://github.com/NoCheatPlus/NoCheatPlus)/410 | Anti cheating plugin for Minecraft (Bukkit/Spigot). |
+| 347 | 140 | 32 | 4 years ago | [purejavacomm](https://github.com/nyholku/purejavacomm)/411 | Pure Java implementation of JavaComm SerialPort |
+| 346 | 136 | 38 | 2 months ago | [jackson-module-jsonSchema](https://github.com/FasterXML/jackson-module-jsonSchema)/412 | Module for generating JSON Schema (v3) definitions from POJOs |
+| 346 | 54 | 1 | 6 months ago | [PipelinR](https://github.com/sizovs/PipelinR)/413 | PipelinR is a lightweight command processing pipeline ❍ ⇢ ❍ ⇢ ❍ for your Java awesome app.  |
+| 345 | 44 | 18 | 6 years ago | [clockwise](https://github.com/ustwo/clockwise)/414 | Watch face framework for Android Wear developed by ustwo |
+| 344 | 68 | 3 | 2 years ago | [FFmpeg-Android](https://github.com/yangfeng1994/FFmpeg-Android)/415 | 🔥FFmpeg-Android 是基于ffmpeg n4.0-39-gda39990编译运行在android平台的音视频的处理框架， 使用的是ProcessBuilder执行命令行操作， 可实现视频字幕添加、尺寸剪切、添加或去除水印、时长截取、转GIF动图、涂鸦、音频提取、拼接、质量压缩、加减速、涂鸦、 倒放、素描、色彩平衡、模糊、九宫格、添加贴纸、滤镜、分屏、图片合成视频等,音视频合成、截取、拼接，混音、音视频解码，视频特效等等音视频处理... |
+| 343 | 56 | 2 | 7 years ago | [AndroidtoAppleVectorLogo](https://github.com/lewismcgeary/AndroidtoAppleVectorLogo)/416 | An Android app demoing pathmorphing with AnimatedVectorDrawables |
+| 343 | 160 | 78 | 4 years ago | [mamute](https://github.com/caelum/mamute)/417 | Q&A Engine |
+| 341 | 122 | 6 | 6 years ago | [lsmtree](https://github.com/indeedeng/lsmtree)/418 | A fast key/value store that is efficient for high-volume random access reads and writes. |
+| 341 | 168 | 66 | 2 years ago | [kafka-connect-oracle](https://github.com/erdemcer/kafka-connect-oracle)/419 | Kafka Source Connector For Oracle |
+| 340 | 37 | 8 | 8 years ago | [android-asyncservice](https://github.com/JoanZapata/android-asyncservice)/420 | AsyncService uses annotations to shorten the code needed to start asynchronous long running tasks and return result |
+| 340 | 49 | 0 | 5 years ago | [ChangeTabLayout](https://github.com/simplezhli/ChangeTabLayout)/421 | [停止维护]一款炫酷的TabLayout |
+| 340 | 66 | 5 | 8 days ago | [Indium](https://github.com/comp500/Indium)/422 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
+| 340 | 33 | 0 | 7 years ago | [AndroidPermissions](https://github.com/SeongUgJung/AndroidPermissions)/423 | None |
+| 340 | 95 | 2 | 7 years ago | [ZhihuDailyFluxRRD](https://github.com/Sloaix/ZhihuDailyFluxRRD)/424 | This Demo is created by Flux RRD(Retrofit,RxJava,Dagger2). |
+| 338 | 260 | 1 | 6 years ago | [spring-boot](https://github.com/je-ge/spring-boot)/425 | Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程。该框架使用了特定的方式来进行配置，从而使开发人员不再需要定义样板化的配置。通过这种方式，Spring Boot致力于在蓬勃发展的快速应用开发领域（rapid application development）成为领导者。  |
+| 337 | 93 | 130 | 27 days ago | [minihud](https://github.com/maruohon/minihud)/426 | A client-side Minecraft mod with configurable "info lines" ("mini-F3") and various overlays, such as light level and structure bounding boxes |
+| 337 | 156 | 17 | 10 days ago | [zrlog](https://github.com/94fzb/zrlog)/427 | ZrLog是使用 Java 开发的博客/CMS程序，具有简约，易用，组件化，内存占用低等特点。自带 Markdown 编辑器，让更多的精力放在写作上，而不是花费大量时间在学习程序的使用上。 |
+| 337 | 69 | 2 | 5 years ago | [monkey-android](https://github.com/yeungeek/monkey-android)/428 | monkey android is a GitHub third party client, show the rank of users and repositories,trending. Base on Material Design,use MVP pattern |
+| 336 | 73 | 23 | 6 months ago | [XiaomiRobotVacuumProtocol](https://github.com/marcelrv/XiaomiRobotVacuumProtocol)/429 | Attempt to describe the Xiaomi Robot Vacuum Protocol |
+| 336 | 132 | 48 | 4 years ago | [ics-openconnect](https://github.com/cernekee/ics-openconnect)/430 | Android UI for OpenConnect VPN client |
+| 334 | 51 | 3 | 8 years ago | [AndroidProgressLayout](https://github.com/antonkrasov/AndroidProgressLayout)/431 | Android View to simplify working with ProgressBar |
+| 333 | 173 | 44 | 4 years ago | [KSYLive_Android](https://github.com/ksvc/KSYLive_Android)/432 | Android播放&推流融合版本[Android Play and LiveStreaming SDK] 直播延时2-3秒（Living delay 2 or 3 seconds），supporting jitter control，software&hardware decode, 支持内置/自定义美颜(Beauty Filter)、美声(Beauty Voice)、软硬编(Software/Hardware Encoder) 、网络自适应(Network Auto Adapt)、混音(Voice Mixer)、混响(Reverb)、画中画(PIP) 、连麦(RTC)、动态贴纸(Sticker) |
+| 333 | 102 | 10 | 3 months ago | [java-youtube-downloader](https://github.com/sealedtx/java-youtube-downloader)/433 | Simple, almost zero-dependency java parser for retrieving youtube video metadata |
+| 333 | 80 | 0 | 2 years ago | [neo4j-nlp](https://github.com/graphaware/neo4j-nlp)/434 | NLP Capabilities in Neo4j |
+| 332 | 274 | 0 | 7 years ago | [learning-spark-examples](https://github.com/holdenk/learning-spark-examples)/435 | Examples for learning spark |
+| 331 | 228 | 41 | 3 years ago | [filemanager](https://github.com/openintents/filemanager)/436 | OpenIntents file manager |
+| 329 | 173 | 3 | 10 years ago | [SwitchButton](https://github.com/ikew0ng/SwitchButton)/437 | 类似IOS上的SwitchButton 支持滑动和动画 |
+| 329 | 173 | 6 | 3 years ago | [LeetCode](https://github.com/cherryljr/LeetCode)/438 | LeetCode各题解法分析~（Java and Python） |
+| 329 | 39 | 4 | 2 years ago | [Toolkit](https://github.com/silently9527/Toolkit)/439 | 程序员常用的工具集Idea插件，帮助开发人员提升效率 |
+| 329 | 82 | 41 | 3 years ago | [dp3t-app-android-demo](https://github.com/DP-3T/dp3t-app-android-demo)/440 | The DP3T-App for Android |
+| 328 | 53 | 1 | 9 years ago | [shipfaster](https://github.com/pyricau/shipfaster)/441 | Dagger + Otto + Retrofit + Robolectric + Picasso + OkHttp |
+| 328 | 74 | 4 | 7 years ago | [TinderView](https://github.com/GadgetCheck/TinderView)/442 | Created a Tinder like Card Deck & Captain Train like Toolbar |
+| 328 | 198 | 49 | 3 years ago | [amazon-kinesis-connectors](https://github.com/amazon-archives/amazon-kinesis-connectors)/443 | None |
+| 326 | 36 | 0 | 7 years ago | [Constraints](https://github.com/hitherejoe/Constraints)/444 | Sample application for the new Android ConstraintLayout |
+| 326 | 38 | 3 | 1 year, 10 months ago | [RxFlux](https://github.com/marcelpinto/RxFlux)/445 | RxFlux is a small framework in order to follow Flux design pattern with RxJava functionalities |
+| 325 | 81 | 1 | 7 years ago | [PassWordInput](https://github.com/ldoublem/PassWordInput)/446 | A custom Password Input with animation for Android. |
+| 325 | 174 | 2 | 1 year, 9 months ago | [android-rest-client-template](https://github.com/codepath/android-rest-client-template)/447 | Template Creating an Android OAuth REST Client |
+| 324 | 138 | 7 | 2 years ago | [country-picker-android](https://github.com/mukeshsolanki/country-picker-android)/448 | A simple library that displays a beautiful list of all the countries allowing the user to pick the country he wishes and provide details like country code, iso code name,currency and flag. |
+| 324 | 129 | 0 | 8 years ago | [PinterestListView](https://github.com/vladexologija/PinterestListView)/449 | Pinterest style ListView for Android |
+| 323 | 131 | 14 | 4 years ago | [Android-PWA-Wrapper](https://github.com/xtools-at/Android-PWA-Wrapper)/450 | Android Wrapper to create native Android Apps from offline-capable Progressive Web Apps |
+| 323 | 65 | 9 | 4 years ago | [VerificationCodeView](https://github.com/jiaoyaning/VerificationCodeView)/451 | Android 自定义方形输入框，仿滴滴验证码输入框 |
+| 323 | 99 | 0 | 7 months ago | [Reference-arithmetic-coding](https://github.com/nayuki/Reference-arithmetic-coding)/452 | Clear implementation of arithmetic coding for educational purposes in Java, Python, C++. |
+| 321 | 98 | 3 | 5 months ago | [universa](https://github.com/UniversaBlockchain/universa)/453 | Universa network, node, client and API |
+| 321 | 83 | 5 | 7 years ago | [AndroidRivers](https://github.com/dodyg/AndroidRivers)/454 | Anxiety free news reader for Android - developed using Kotlin |
+| 320 | 101 | 75 | 4 years ago | [jaxrs-analyzer](https://github.com/sdaschner/jaxrs-analyzer)/455 | Creates REST documentation for JAX-RS projects |
+| 319 | 140 | 5 | 9 years ago | [SideNavigation](https://github.com/johnkil/SideNavigation)/456 | Implementation of "Side Navigation" or "Fly-in app menu" pattern for Android (based on Google+ app) |
+| 319 | 112 | 1 | 26 days ago | [webapp-runner](https://github.com/heroku/webapp-runner)/457 | Lightweight Application Launcher. Launch your webapp in the most popular open source web container available with a single command. |
+| 319 | 107 | 0 | 3 years ago | [android-DownloadableFonts](https://github.com/googlearchive/android-DownloadableFonts)/458 | Migrated: |
+| 318 | 64 | 1 | 6 years ago | [Memo](https://github.com/yezhidong/Memo)/459 | 一款基于Google Material Design设计开发的Android密码管理客户端--怕死我的（PassWord）如果对你有帮助，欢迎多多的star |
+| 317 | 191 | 25 | 4 days ago | [Open-API-SDK-V5](https://github.com/jane-cloud/Open-API-SDK-V5)/460 | None |
+| 316 | 53 | 42 | 3 months ago | [javafx-gradle-plugin](https://github.com/openjfx/javafx-gradle-plugin)/461 | Gradle plugin that makes it easy to work with JavaFX 11+ |
+| 316 | 103 | 6 | 6 years ago | [PlayStartApp](https://github.com/yesnault/PlayStartApp)/462 | Starting APP Play Framework 2.x with Signup, Signin, Reset password, Change Email from Settings... Common uses cases |
+| 315 | 88 | 5 | 2 years ago | [YouTubeBackgroundPlayback](https://github.com/pylerSM/YouTubeBackgroundPlayback)/463 | [Xposed module] Enable background playback in YouTube |
+| 314 | 244 | 7 | 8 years ago | [materialtest](https://github.com/slidenerd/materialtest)/464 | None |
+| 314 | 54 | 11 | 6 years ago | [u2020-mvp](https://github.com/LiveTyping/u2020-mvp)/465 | [DEPRECATED] Port of Jake Wharton's U2020 sample app with use of MVP and Dagger 2 |
+| 313 | 68 | 7 | 7 years ago | [XLog](https://github.com/promeG/XLog)/466 | Method call logging based on dexposed. |
+| 313 | 174 | 8 | 2 years ago | [sdkdemoapp3.0_android](https://github.com/easemob/sdkdemoapp3.0_android)/467 | None |
+| 313 | 58 | 4 | 8 years ago | [AnimatedPathView](https://github.com/matthewrkula/AnimatedPathView)/468 | An animated path view following the methods in a blog post from Romain Guy |
+| 312 | 33 | 5 | 1 year, 6 months ago | [totallylazy](https://github.com/bodar/totallylazy)/469 | Another functional library for Java |
+| 312 | 118 | 234 | 5 years ago | [codenvy](https://github.com/codenvy/codenvy)/470 | Codenvy |
+| 312 | 49 | 1 | 8 years ago | [FloatingAction](https://github.com/telly/FloatingAction)/471 | A basic implementation of Floating Action pattern |
+| 312 | 147 | 2 | 1 year, 2 months ago | [spring-security-oauth2-boot](https://github.com/spring-attic/spring-security-oauth2-boot)/472 | Provides spring-security-oauth2 & Boot 2 integration (i.e. autoconfig) |
+| 311 | 91 | 0 | 8 years ago | [ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo)/473 | None |
+| 310 | 167 | 44 | 6 years ago | [react-native-smart-barcode](https://github.com/react-native-component/react-native-smart-barcode)/474 | A smart barcode scanner component for React Native app. |
+| 310 | 54 | 5 | 8 years ago | [DexMovingImageView](https://github.com/dexlex/DexMovingImageView)/475 | DMIV aims to provide a flexible and customizable instrument for automated images moving on display. It provides scroll, gyroscope or time based moving. But you can create your own evaluator. |
+| 310 | 107 | 7 | 3 years ago | [SocketTest](https://github.com/akshath/SocketTest)/476 | A GUI tool for socket testing. It can create both TCP and UDP client or server.  |
+| 310 | 120 | 54 | a month ago | [DestinationSol](https://github.com/MovingBlocks/DestinationSol)/477 | Official continuation of Destination Sol, the great fun little arcade space shooter from http://sourceforge.net/projects/destinationsol/  Modules live at https://github.com/DestinationSol/ |
+| 309 | 34 | 1 | 7 years ago | [Android-TopScrollHelper](https://github.com/kmshack/Android-TopScrollHelper)/478 | Android-TopScrollHelper |
+| 309 | 56 | 6 | 3 months ago | [reactive](https://github.com/politrons/reactive)/479 | Reactive: Examples of the most famous reactive libraries that you can find in the market. |
+| 309 | 73 | 3 | 6 years ago | [UpMarqueeTextView-master](https://github.com/dreamlivemeng/UpMarqueeTextView-master)/480 | 仿淘宝首页的淘宝头条垂直滚动 |
+| 308 | 42 | 0 | 6 years ago | [SquareLoading](https://github.com/yuweiguocn/SquareLoading)/481 | A square animated loader. |
+| 307 | 72 | 17 | 8 months ago | [fenix](https://github.com/blinkfox/fenix)/482 | This is an extension library to the Spring Data JPA complex or dynamic SQL query. 这是一个比 MyBatis 更加强大的 Spring Data JPA 扩展库，为解决复杂动态 JPQL (或 SQL) 而生。https://blinkfox.github.io/fenix |
+| 307 | 53 | 3 | 6 years ago | [circular-slider-android](https://github.com/milosmns/circular-slider-android)/483 | Circular Slider UI Control for Android |
+| 306 | 35 | 1 | 3 years ago | [ToastBar](https://github.com/SwiftyWang/ToastBar)/484 | A Material Design Top/Bottom Toast Bar. |
+| 306 | 42 | 6 | 5 years ago | [AppCompat-Extension-Library](https://github.com/taltstidl/AppCompat-Extension-Library)/485 | A library that builds on the AppCompat Design Library and provides additional common components such as AccountHeaderView, FloatingActionMenu, CircleImageView, Picker Dialogs, FlexibleToolbarLayout, Delightful Detail Drawables and TypefaceCompat. |
+| 306 | 20 | 0 | 6 years ago | [RxWindowIfChanged](https://github.com/JakeWharton/RxWindowIfChanged)/486 | An RxJava 2 operator which splits an observable into windows using a key selector. |
+| 306 | 133 | 0 | 1 year, 2 months ago | [sumk](https://github.com/youtongluan/sumk)/487 | sumk的定位是为互联网公司提供一个快速开发、接口交互（RPC和HTTP）、数据缓存、读写分离、负载均衡、故障转移的框架。一站式解决互联网公司面临的常见问题 |
+| 305 | 143 | 26 | 3 months ago | [RaspberryJuice](https://github.com/zhuowei/RaspberryJuice)/488 | A plugin for Bukkit implementing the Minecraft Pi API |
+| 305 | 45 | 15 | 10 years ago | [hubroid](https://github.com/EddieRingle/hubroid)/489 | The Original & Awesome GitHub App for Android |
+| 304 | 42 | 8 | 5 years ago | [floatingMenu](https://github.com/rjsvieira/floatingMenu)/490 | An orbit-like action button |
+| 304 | 84 | 1 | 4 years ago | [GithubArchitectureComponents](https://github.com/PhilippeBoisney/GithubArchitectureComponents)/491 | The implementation of Android "Architecture Components" sample explained by Google : https://developer.android.com/topic/libraries/architecture/guide.html  |
+| 304 | 200 | 25 | 6 years ago | [qalingo-engine](https://github.com/qalingo/qalingo-engine)/492 | Qalingo : B2C B2B Engine (opensource Java eCommerce mCommerce Marketplace, sync with ERP CMS CRM) (based on Spring, Hibernate, Velocity, Drools, SOLR) |
+| 304 | 43 | 17 | 5 years ago | [Timelapse-Auto-Ramp-Photoshop-Plugin](https://github.com/DevonCrawford/Timelapse-Auto-Ramp-Photoshop-Plugin)/493 | Analyze RAW images from a timelapse, and auto - ramp the exposure for manual changes of camera settings. The best way to achieve amazing results in difficult lighting. |
+| 304 | 121 | 1 | 4 years ago | [spring-cloud-demo](https://github.com/chxfantasy/spring-cloud-demo)/494 | This repo is a spring-cloud-demo, can be used for a server backend |
+| 303 | 123 | 6 | 3 years ago | [jsets-shiro-spring-boot-starter](https://github.com/wj596/jsets-shiro-spring-boot-starter)/495 | SpringBoot Starter for Shiro (springboot shiro 权限管理插件) |
+| 302 | 179 | 3 | 5 years ago | [litespring](https://github.com/onlyliuxin/litespring)/496 | None |
+| 302 | 34 | 13 | 3 years ago | [huntbugs](https://github.com/amaembo/huntbugs)/497 | Java bytecode static analyzer |
+| 302 | 16 | 0 | 5 years ago | [RecordVoiceView](https://github.com/UCodeUStory/RecordVoiceView)/498 | 🍭自定义声音波纹，适合作录音应用的开发，模仿iPhone录音效果,模仿小米录音效果，其他录音效果录音效果 |
+| 302 | 53 | 0 | 3 years ago | [android-DarkTheme](https://github.com/googlearchive/android-DarkTheme)/499 | migrated: |
+| 302 | 56 | 1 | 4 years ago | [KJGallery](https://github.com/kymjs/KJGallery)/500 | 一个支持Gif图片以及普通图片预览，支持双击缩放，单机退出，同时可以选择使用jni的形式去高效加载gif或者更更精简的(仅2个类)gif控件 |
+| 450 | 104 | 26 | 6 years ago | [MediaUtils](https://github.com/werbhelius/MediaUtils)/501 | MediaUtils : a demo of record audio and video. |
+| 449 | 119 | 27 | 3 years ago | [engine](https://github.com/droidefense/engine)/502 | Droidefense: Advance Android Malware Analysis Framework |
+| 449 | 76 | 19 | 8 years ago | [android-floatinglabel-widgets](https://github.com/marvinlabs/android-floatinglabel-widgets)/503 | Floating label input widgets |
+| 447 | 55 | 0 | 1 year, 2 months ago | [JColor](https://github.com/dialex/JColor)/504 | An easy syntax to format your strings with colored fonts and backgrounds.  |
+| 446 | 88 | 3 | 3 years ago | [RxBasicsKata](https://github.com/sergiiz/RxBasicsKata)/505 | Practical challenges for RxJava learners |
+| 442 | 134 | 53 | 3 years ago | [jd-core](https://github.com/java-decompiler/jd-core)/506 | JD-Core is a JAVA decompiler written in JAVA. |
+| 441 | 61 | 52 | 2 years ago | [aparapi](https://github.com/Syncleus/aparapi)/507 | The New Official Aparapi: a framework for executing native Java and Scala code on the GPU. |
+| 440 | 80 | 49 | 24 days ago | [restx](https://github.com/restx/restx)/508 | RESTX, the lightweight Java REST framework |
+| 440 | 174 | 9 | 6 years ago | [AppEnv](https://github.com/kingsollyu/AppEnv)/509 | 应用变量 |
+| 440 | 71 | 17 | 8 months ago | [line-fido2-server](https://github.com/line/line-fido2-server)/510 | FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples. |
+| 440 | 400 | 2 | 6 months ago | [Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud](https://github.com/PacktPublishing/Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud)/511 | Hands-On Microservices with Spring Boot and Spring Cloud, published by Packt |
+| 440 | 49 | 26 | 3 years ago | [Android-Orma](https://github.com/maskarade/Android-Orma)/512 | An ORM for Android with type-safety and painless smart migrations |
+| 438 | 100 | 1 | 3 years ago | [mvp-android-arch-component](https://github.com/quangctkm9207/mvp-android-arch-component)/513 | Android MVP sample adapts with new Android architecture components (Lifecycle, Room). |
+| 437 | 88 | 4 | 3 years ago | [JNDI-Injection-Bypass](https://github.com/welk1n/JNDI-Injection-Bypass)/514 |  Some payloads of JNDI Injection in JDK 1.8.0_191+ |
+| 437 | 85 | 11 | 2 years ago | [parallaxviewpager](https://github.com/andraskindler/parallaxviewpager)/515 | [Development stopped in 2014. Unfinished and not stable - not recommended to use.] An easy-to-use ViewPager subclass with parallax background effect for Android apps. |
+| 436 | 127 | 0 | 6 years ago | [VerticalBannerView](https://github.com/guojunustb/VerticalBannerView)/516 | a vertical banner view in android.you can find it in 淘宝app、京东app... |
+| 436 | 51 | 2 | 6 years ago | [learn-retailmenot-list](https://github.com/iielse/learn-retailmenot-list)/517 | None |
+| 435 | 47 | 1 | 4 years ago | [how-to-use-travis-ci](https://github.com/nukc/how-to-use-travis-ci)/518 | 如何简单入门持续集成( Travis-CI ) http://travis-ci.org/ |
+| 435 | 69 | 2 | 7 years ago | [BadgedImageview](https://github.com/yesidlazaro/BadgedImageview)/519 | BadgedImageview allow you show a badge into a Imageview. |
+| 434 | 576 | 8 | 3 years ago | [spring-security-jwt](https://github.com/koushikkothagal/spring-security-jwt)/520 | None |
+| 434 | 75 | 1 | 4 days ago | [AWS-Guide](https://github.com/mikeroyal/AWS-Guide)/521 | Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications. |
+| 433 | 57 | 1 | 6 years ago | [ContinuousScrollableImageView](https://github.com/Cutta/ContinuousScrollableImageView)/522 | Library for animating images with continuous scrolling effects |
+| 432 | 44 | 11 | 6 years ago | [scytale](https://github.com/yakivmospan/scytale)/523 | One tool to manage key generation, key storing and encryption on different APIs of Android. |
+| 431 | 23 | 10 | 3 years ago | [Kafka-Sprout](https://github.com/oslabs-beta/Kafka-Sprout)/524 | :rocket: Web GUI for Kafka Cluster Management |
+| 431 | 89 | 36 | 2 months ago | [imgui-java](https://github.com/SpaiR/imgui-java)/525 | JNI based binding for Dear ImGui |
+| 431 | 88 | 8 | 7 years ago | [StatusBarAdapt](https://github.com/CoolThink/StatusBarAdapt)/526 | Android使用fitsSystemWindows属性实现--状态栏【status_bar】各版本适配 |
+| 430 | 31 | 0 | 4 years ago | [ferro](https://github.com/MaksTuev/ferro)/527 | Simple and powerful MVP library for Android |
+| 429 | 2 | 1 | 11 months ago | [OutSiderAPM](https://github.com/Jinxqq/OutSiderAPM)/528 | Powerful, comprehensice application performance management platform of Android |
+| 427 | 139 | 52 | 3 months ago | [jvarkit](https://github.com/lindenb/jvarkit)/529 | Java utilities for Bioinformatics |
+| 426 | 99 | 5 | 8 years ago | [HeadsUp](https://github.com/zzz40500/HeadsUp)/530 | [UNMAINTAINED] android 5.0 lollipop 风格 Heads-up |
+| 425 | 110 | 45 | 7 years ago | [android-oauth-client](https://github.com/wuman/android-oauth-client)/531 | Android OAuth Client (android-oauth-client) is a library that helps to easily add an OAuth flow to an existing Android application. |
+| 425 | 85 | 50 | 17 days ago | [jsch](https://github.com/mwiede/jsch)/532 | fork of the popular jsch library |
+| 425 | 84 | 22 | 5 years ago | [CalendarView](https://github.com/shehuan/CalendarView)/533 | Android 自定义日历控件 |
+| 425 | 97 | 4 | 4 years ago | [EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView)/534 | 仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件 |
+| 424 | 84 | 0 | 2 years ago | [bitmapMesh](https://github.com/7heaven/bitmapMesh)/535 | bitmapMesh demo |
+| 422 | 174 | 32 | 10 years ago | [scrypt](https://github.com/wg/scrypt)/536 | Java implementation of scrypt |
+| 422 | 153 | 15 | 5 years ago | [MillionHero](https://github.com/lingfengsan/MillionHero)/537 | 百万英雄/冲顶大会答题助手  |
+| 420 | 72 | 1 | 6 years ago | [ImageNice9Layout](https://github.com/wobiancao/ImageNice9Layout)/538 | 仿Nice首页图片列表9图样式，并实现拖拽效果 |
+| 420 | 689 | 20 | 18 days ago | [tomee](https://github.com/apache/tomee)/539 | Apache TomEE |
+| 419 | 164 | 1 | 2 years ago | [Android-Wheel-Menu](https://github.com/anupcowkur/Android-Wheel-Menu)/540 | Simple and easy to use circular menu widget for Android.  |
+| 418 | 168 | 46 | 2 years ago | [storm-yarn](https://github.com/yahoo/storm-yarn)/541 |  Storm-yarn enables Storm clusters to be deployed into machines managed by Hadoop YARN. |
+| 417 | 87 | 4 | 2 years ago | [TreeRecyclerView](https://github.com/Jlanglang/TreeRecyclerView)/542 | None |
+| 417 | 204 | 18 | 8 years ago | [Camera2](https://github.com/pinguo-yuyidong/Camera2)/543 | Android L Camera2 Demo |
+| 416 | 486 | 100 | 8 months ago | [spring-security-saml](https://github.com/spring-attic/spring-security-saml)/544 | SAML extension for the Spring Security project |
+| 415 | 101 | 16 | 30 days ago | [OpenLegislation](https://github.com/nysenate/OpenLegislation)/545 | OpenLegislation is a web service that delivers legislative information from the New York State Senate and Assembly to the public in near-real time.  It is used internally to serve up legislative data for nysenate.gov and the Bluebird-CRM. |
+| 414 | 146 | 10 | 3 years ago | [OpenExplorer](https://github.com/samsonw/OpenExplorer)/546 | Open Explorer plugin for Eclipse |
+| 414 | 105 | 151 | a month ago | [FastLogin](https://github.com/games647/FastLogin)/547 | Checks if a minecraft player has a valid paid account. If so, they can skip offline authentication automatically. (premium auto login) |
+| 413 | 231 | 49 | 2 days ago | [ice4j](https://github.com/jitsi/ice4j)/548 | A Java implementation of the ICE protocol |
+| 411 | 75 | 0 | 6 years ago | [colorize](https://github.com/cesarferreira/colorize)/549 | Access to 1000+ colors on android! |
+| 409 | 94 | 0 | 8 years ago | [WhorlView](https://github.com/Kyson/WhorlView)/550 | Progressbar with whorl style  |
+| 408 | 79 | 3 | 6 years ago | [FingerColoring-Android](https://github.com/SwiftyWang/FingerColoring-Android)/551 | None |
+| 407 | 38 | 1 | 6 years ago | [RxUnfurl](https://github.com/Schinizer/RxUnfurl)/552 | A reactive extension to generate URL previews. |
+| 407 | 120 | 61 | 6 years ago | [poly-picker](https://github.com/jaydeepw/poly-picker)/553 | Android library project for providing multiple image selection from the device.  |
+| 406 | 191 | 84 | 5 years ago | [gwt-bootstrap](https://github.com/gwtbootstrap/gwt-bootstrap)/554 | A GWT Library that provides the widgets of Bootstrap, from Twitter. |
+| 404 | 47 | 0 | 8 years ago | [TwitterCover-Android](https://github.com/cyndibaby905/TwitterCover-Android)/555 | The Android version of  https://github.com/cyndibaby905/TwitterCover |
+| 404 | 63 | 10 | 2 years ago | [latexdraw](https://github.com/latexdraw/latexdraw)/556 | A vector drawing editor for LaTeX (JavaFX). |
+| 404 | 57 | 37 | a month ago | [GrepConsole](https://github.com/krasa/GrepConsole)/557 | IntelliJ plugin - https://plugins.jetbrains.com/plugin/7125 |
+| 404 | 168 | 1 | 2 years ago | [object](https://github.com/eternity-oop/object)/558 | 오브젝트: 코드로 이해하는 객체지향 설계 예제 |
+| 403 | 37 | 2 | 9 months ago | [WheelView](https://github.com/CNCoderX/WheelView)/559 | The wheel widget for Android   滚轮选择控件 |
+| 403 | 53 | 60 | 17 days ago | [artipie](https://github.com/artipie/artipie)/560 | Binary Artifact Management Tool |
+| 403 | 46 | 0 | 6 years ago | [SafelyAndroid](https://github.com/Piasy/SafelyAndroid)/561 | Build safely Android app, no more Activity not found, Activity state loss and NPE during fragment transaction! |
+| 402 | 133 | 75 | 26 days ago | [mapbox-java](https://github.com/mapbox/mapbox-java)/562 | The Mapbox Java SDK – Java wrappers around Mapbox APIs and other location data  |
+| 401 | 147 | 19 | 6 years ago | [mmseg4j-solr](https://github.com/chenlb/mmseg4j-solr)/563 | mmseg4j for lucene or solr analyzer |
+| 399 | 72 | 3 | 6 years ago | [AnimCheckBox](https://github.com/lguipeng/AnimCheckBox)/564 | Animation CheckBox |
+| 399 | 234 | 2 | 5 years ago | [mixare](https://github.com/mixare/mixare)/565 | This repository has been moved to https://gitlab.com/mixare/mixare |
+| 398 | 55 | 3 | 6 years ago | [DragPointView](https://github.com/javonleee/DragPointView)/566 | A draggable PointView for Android. |
+| 397 | 119 | 4 | 2 years ago | [ms-backend-boilerplates](https://github.com/wx-chevalier/ms-backend-boilerplates)/567 | Boilerplate for Your Server Side(Backend) Application, Java | Spring(Boot, Cloud) | Node.js(Express, Koa, Egg) | Go | Python | DevOps 💫 服务端项目模板 |
+| 397 | 61 | 7 | 4 years ago | [MVVM-JueJin](https://github.com/fashare2015/MVVM-JueJin)/568 | 高仿"掘金Android App": databinding + kotlin + rx 的优雅实践。(持续打磨中~) |
+| 397 | 81 | 0 | 4 years ago | [UGank](https://github.com/Bakumon/UGank)/569 | :meat_on_bone:「有干货」Gank.io 第三方客户端(MVP) |
+| 396 | 77 | 10 | 4 years ago | [Android-Permissions](https://github.com/nabinbhandari/Android-Permissions)/570 | Library for easy handling of android run-time permissions. |
+| 394 | 37 | 3 | 8 years ago | [holoaccent](https://github.com/negusoft/holoaccent)/571 | Android library to customize the Holo theme with a custom accent color |
+| 394 | 68 | 2 | 3 years ago | [MNProgressHUD](https://github.com/maning0303/MNProgressHUD)/572 | 一个常用的自定义弹框封装(适配AndroidX),加载ProgressDialog,状态显示的StatusDialog和自定义Toast,全部支持背景颜色,圆角,边框和文字的自定义,构建者模式,链式调用。 |
+| 394 | 216 | 13 | 6 years ago | [ZhiHuSpider](https://github.com/KKys/ZhiHuSpider)/573 | Java无框架实现爬取知乎用户信息、图片和知乎推荐内容并下载到本地或数据库中 |
+| 394 | 52 | 8 | 5 years ago | [EasyTransition](https://github.com/huzenan/EasyTransition)/574 | A light Shared Elements Transition lib for Android. |
+| 394 | 293 | 6 | 3 years ago | [hackerrank](https://github.com/charles-wangkai/hackerrank)/575 | My HackerRank solutions |
+| 392 | 88 | 5 | 7 years ago | [ResideLayout](https://github.com/kyze8439690/ResideLayout)/576 | An Android Layout which has a same function like https://github.com/romaonthego/RESideMenu |
+| 392 | 212 | 9 | 1 year, 7 months ago | [iot_push](https://github.com/1ssqq1lxr/iot_push)/577 | 基于netty+mqtt3.1.1+springboot+jdk8 实现的 mqtt 服务端跟客户端 |
+| 392 | 81 | 2 | 1 year, 3 months ago | [XHttp2](https://github.com/xuexiangjys/XHttp2)/578 | 💪A powerful network request library, encapsulated using the RxJava2 + Retrofit2 + OKHttp combination.(一个功能强悍的网络请求库，使用RxJava2 + Retrofit2 + OKHttp组合进行封装) |
+| 391 | 235 | 50 | 2 years ago | [thorntail](https://github.com/thorntail/thorntail)/579 | Source code for the Thorntail project |
+| 390 | 19 | 38 | 6 years ago | [purplejs](https://github.com/purplejs/purplejs)/580 | PurpleJS framework :rocket: - A javascript application framework on the JVM. |
+| 388 | 122 | 13 | 8 years ago | [android-support-v4-preferencefragment](https://github.com/kolavar/android-support-v4-preferencefragment)/581 | None |
+| 387 | 121 | 12 | 3 years ago | [RTCStartupDemo](https://github.com/Jhuster/RTCStartupDemo)/582 | startup demo code for webrtc beginners. |
+| 387 | 78 | 0 | 6 years ago | [gank.io-unofficial-android-client](https://github.com/HotBitmapGG/gank.io-unofficial-android-client)/583 | An unofficial gank. io android client |
+| 386 | 56 | 2 | 6 years ago | [VerificationCodeView](https://github.com/Freshman111/VerificationCodeView)/584 | VerificationCode View |
+| 386 | 91 | 1 | 8 years ago | [MiClockView](https://github.com/AvatarQing/MiClockView)/585 | A duplication of the clock on MIUI v6  |
+| 386 | 47 | 45 | 3 years ago | [TachiWeb-Server](https://github.com/TachiWeb/TachiWeb-Server)/586 | A port of the Tachiyomi manga reader to the desktop and server |
+| 385 | 73 | 21 | 4 years ago | [SwitchButton](https://github.com/KingJA/SwitchButton)/587 | A smart switchable button,support multiple tabs. (多项选择器，切换按钮) |
+| 385 | 83 | 15 | 4 months ago | [LQRAudioRecord](https://github.com/GitLqr/LQRAudioRecord)/588 | 集成录音与播音功能，使用简单方便 |
+| 385 | 242 | 18 | 16 days ago | [spring-cloud-bus](https://github.com/spring-cloud/spring-cloud-bus)/589 | Spring Cloud event bus |
+| 385 | 208 | 29 | 3 years ago | [jeewx](https://github.com/zhangdaiscott/jeewx)/590 | JAVA版免费微信管家系统。支持微信公众号、微信企业号、支付宝服务窗等多触点管理。Jeewx实现了微信、支付窗、微信企业号的基础管理功能，便于用户二次开发。2014年荣获CSDN开发商大会第一名 |
+| 385 | 41 | 1 | 7 years ago | [QuickSand](https://github.com/blundell/QuickSand)/591 | Automatically manipulates the duration of animations dependent on view count. Quicksand .. the more you struggle. |
+| 384 | 161 | 41 | 5 years ago | [batch-import](https://github.com/jexp/batch-import)/592 | generic csv file neo4j batch importer |
+| 384 | 66 | 7 | 5 years ago | [Trojan](https://github.com/eleme/Trojan)/593 | Trojan is an efficient mobile terminal lightweight log SDK |
+| 384 | 57 | 0 | 6 years ago | [CProgressButton](https://github.com/jiang111/CProgressButton)/594 | a circle progress button like iOS  |
+| 384 | 117 | 2 | 6 months ago | [gobrs-async](https://github.com/dromara/gobrs-async)/595 | Gobrs-Async (异步任务 编排框架) 是一款功能强大、配置灵活、带有全链路异常回调、内存优化、异常状态管理于一身的高性能异步编排框架。为企业提供在复杂应用场景下动态任务编排的能力。 针对于复杂场景下，异步线程复杂性、任务依赖性、异常状态难控制性； Gobrs-Async 为此而生。 |
+| 384 | 64 | 3 | 2 years ago | [SLWidget](https://github.com/Simon-Leeeeeeeee/SLWidget)/596 | 轮子合集。角标、滚动选择器、自动换行布局、侧滑返回。 |
+| 383 | 148 | 0 | 1 year, 2 months ago | [app_process-shell-use](https://github.com/gtf35/app_process-shell-use)/597 | 利用 app_process 实现免root调用shell |
+| 381 | 49 | 5 | 7 years ago | [JikeGallery](https://github.com/JeasonWong/JikeGallery)/598 | 仿即刻首页滚动效果 |
+| 381 | 90 | 2 | 3 years ago | [DouDemo](https://github.com/18702953620/DouDemo)/599 | 仿抖音部分功能 |
+| 381 | 95 | 1 | 7 years ago | [500px-guideview](https://github.com/hanks-zyh/500px-guideview)/600 | 500px guideview demo |
+| 454 | 200 | 4 | 8 months ago | [android-dagger2-example](https://github.com/janishar/android-dagger2-example)/601 | This project implements the dagger 2 in android for dependency injection |
+| 454 | 34 | 1 | 3 years ago | [dante](https://github.com/fourlastor/dante)/602 | A sane rich text parsing and styling library. |
+| 452 | 233 | 46 | 3 years ago | [jmockit1](https://github.com/jmockit/jmockit1)/603 | Advanced Java library for integration testing, mocking, faking, and code coverage |
+| 452 | 153 | 27 | 2 months ago | [xsoup](https://github.com/code4craft/xsoup)/604 | When jsoup meets XPath. |
+| 452 | 230 | 13 | 2 years ago | [sensitive-words](https://github.com/elulis/sensitive-words)/605 | Java快速中文敏感词过滤，在15k敏感词库上的过滤速度超过50M字符每秒。 |
+| 452 | 203 | 2 | 6 months ago | [Jwt-Spring-Security-JPA](https://github.com/isopropylcyanide/Jwt-Spring-Security-JPA)/606 | Backend MVP showcasing JWT (Json Web Token) authentication with multiple login,  timeout / refresh / logout (with in memory invalidation) using Spring Security & MySQL JPA.   |
+| 451 | 87 | 3 | 15 days ago | [acme4j](https://github.com/shred/acme4j)/607 | Java client for ACME (Let's Encrypt) |
+| 450 | 116 | 6 | 7 years ago | [Android-Validator](https://github.com/throrin19/Android-Validator)/608 | Form Validator Library for Android |
+| 450 | 104 | 26 | 6 years ago | [MediaUtils](https://github.com/werbhelius/MediaUtils)/609 | MediaUtils : a demo of record audio and video. |
+| 450 | 130 | 114 | 7 years ago | [rootcloak](https://github.com/devadvance/rootcloak)/610 | Open source module for Xposed Framework that hides root from specific apps |
+| 449 | 76 | 19 | 8 years ago | [android-floatinglabel-widgets](https://github.com/marvinlabs/android-floatinglabel-widgets)/611 | Floating label input widgets |
+| 449 | 85 | 10 | 1 year, 6 months ago | [YCRefreshView](https://github.com/yangchong211/YCRefreshView)/612 | 自定义支持上拉加载更多，下拉刷新，可以自定义头部和底部，可以添加多个headerView，使用一个原生recyclerView就可以搞定复杂界面。支持自由切换状态【加载中，加载成功，加载失败，没网络等状态】的控件，可以自定义状态视图View。拓展功能【支持长按拖拽，侧滑删除】，轻量级，可以选择性添加 。多年前已经使用于前项目投资界，新芽，沙丘大学等APP正式项目中！持续更新…… |
+| 447 | 158 | 6 | 5 years ago | [PrettyGirls](https://github.com/PleaseCallMeCoder/PrettyGirls)/613 | A personal App based on gank.io. |
+| 447 | 55 | 0 | 1 year, 2 months ago | [JColor](https://github.com/dialex/JColor)/614 | An easy syntax to format your strings with colored fonts and backgrounds.  |
+| 447 | 121 | 17 | 7 years ago | [DragLinearLayout](https://github.com/justasm/DragLinearLayout)/615 | Android LinearLayout with drag and drop to reorder. |
+| 447 | 84 | 7 | a day ago | [SapMachine](https://github.com/SAP/SapMachine)/616 | An OpenJDK release maintained and supported by SAP |
+| 446 | 88 | 3 | 3 years ago | [RxBasicsKata](https://github.com/sergiiz/RxBasicsKata)/617 | Practical challenges for RxJava learners |
+| 445 | 41 | 11 | 5 years ago | [FastLayout](https://github.com/FabianTerhorst/FastLayout)/618 | Generates a Java Object for your xml layout to reduce inflate time to zero |
+| 443 | 53 | 5 | 10 years ago | [SplinterNet](https://github.com/megamattron/SplinterNet)/619 | A serverless, unblockable messaging system for Android. |
+| 441 | 40 | 7 | 6 months ago | [servicecomb-toolkit](https://github.com/apache/servicecomb-toolkit)/620 | Apache servicecomb |
+| 440 | 49 | 26 | 3 years ago | [Android-Orma](https://github.com/maskarade/Android-Orma)/621 | An ORM for Android with type-safety and painless smart migrations |
+| 439 | 55 | 0 | 4 years ago | [SuspensionWindow](https://github.com/24Kshign/SuspensionWindow)/622 | Android高仿微信阅读文章悬浮窗实现（含8.0权限适配） |
+| 439 | 163 | 38 | 3 years ago | [exp4j](https://github.com/fasseg/exp4j)/623 | A tiny math expression evaluator for the Java programming language |
+| 438 | 100 | 1 | 3 years ago | [mvp-android-arch-component](https://github.com/quangctkm9207/mvp-android-arch-component)/624 | Android MVP sample adapts with new Android architecture components (Lifecycle, Room). |
+| 438 | 587 | 212 | 17 days ago | [acs-aem-commons](https://github.com/Adobe-Consulting-Services/acs-aem-commons)/625 | None |
+| 438 | 388 | 17 | 8 years ago | [spring-in-action-4-samples](https://github.com/habuma/spring-in-action-4-samples)/626 | None |
+| 437 | 85 | 11 | 2 years ago | [parallaxviewpager](https://github.com/andraskindler/parallaxviewpager)/627 | [Development stopped in 2014. Unfinished and not stable - not recommended to use.] An easy-to-use ViewPager subclass with parallax background effect for Android apps. |
+| 436 | 51 | 2 | 6 years ago | [learn-retailmenot-list](https://github.com/iielse/learn-retailmenot-list)/628 | None |
+| 436 | 127 | 0 | 6 years ago | [VerticalBannerView](https://github.com/guojunustb/VerticalBannerView)/629 | a vertical banner view in android.you can find it in 淘宝app、京东app... |
+| 435 | 69 | 2 | 7 years ago | [BadgedImageview](https://github.com/yesidlazaro/BadgedImageview)/630 | BadgedImageview allow you show a badge into a Imageview. |
+| 434 | 212 | 35 | 4 years ago | [fabric-net-server](https://github.com/aberic/fabric-net-server)/631 | HyperLedger/Fabric Net Server |
+| 434 | 248 | 178 | 1 year, 2 months ago | [onebusaway-android](https://github.com/OneBusAway/onebusaway-android)/632 | The official Android/Fire Phone app for OneBusAway |
+| 434 | 204 | 45 | 4 days ago | [alipay-sdk-java-all](https://github.com/alipay/alipay-sdk-java-all)/633 | 支付宝开放平台 Alipay SDK for Java |
+| 433 | 45 | 1 | 5 years ago | [CoolViewPager](https://github.com/HuanHaiLiuXin/CoolViewPager)/634 | A Cool ViewPager |
+| 431 | 88 | 8 | 7 years ago | [StatusBarAdapt](https://github.com/CoolThink/StatusBarAdapt)/635 | Android使用fitsSystemWindows属性实现--状态栏【status_bar】各版本适配 |
+| 431 | 100 | 1 | 5 years ago | [AppPlus](https://github.com/maoruibin/AppPlus)/636 | A open source android application, and used to manage app,export apk, watch recent processes. |
+| 431 | 86 | 4 | 1 year, 5 months ago | [MySQLMonitor](https://github.com/TheKingOfDuck/MySQLMonitor)/637 | MySQL实时监控工具(代码审计/黑盒/白盒审计辅助工具) |
+| 431 | 244 | 0 | 3 years ago | [android-AutofillFramework](https://github.com/googlearchive/android-AutofillFramework)/638 | Migrated: |
+| 431 | 157 | 1 | 1 year, 10 months ago | [mmorpg](https://github.com/kingston-csj/mmorpg)/639 | springboot编写的高性能分布式mmorpg手游服务端框架，包含中心服，网关服，游戏服，战斗服等。 |
+| 430 | 31 | 0 | 4 years ago | [ferro](https://github.com/MaksTuev/ferro)/640 | Simple and powerful MVP library for Android |
+| 430 | 158 | 4 | 3 years ago | [annotationprocessing101](https://github.com/sockeqwe/annotationprocessing101)/641 | None |
+| 428 | 208 | 8 | 1 year, 7 months ago | [H2-Research](https://github.com/codefollower/H2-Research)/642 | H2数据库源代码学习研究(包括代码注释、文档、用于代码分析的测试用例) |
+| 427 | 82 | 1 | 7 years ago | [AZExplosion](https://github.com/Xieyupeng520/AZExplosion)/643 | 学习ExplosionField之粒子破碎效果 |
+| 427 | 139 | 52 | 3 months ago | [jvarkit](https://github.com/lindenb/jvarkit)/644 | Java utilities for Bioinformatics |
+| 427 | 190 | 16 | a month ago | [prey-android-client](https://github.com/prey/prey-android-client)/645 | Android client for the Prey anti-theft software. |
+| 426 | 99 | 5 | 8 years ago | [HeadsUp](https://github.com/zzz40500/HeadsUp)/646 | [UNMAINTAINED] android 5.0 lollipop 风格 Heads-up |
+| 426 | 329 | 4 | 7 years ago | [spring-mvc-mini](https://github.com/F4bwDP6a6W/spring-mvc-mini)/647 | Spring MVC Example Project, light weight, no Database |
+| 425 | 110 | 45 | 7 years ago | [android-oauth-client](https://github.com/wuman/android-oauth-client)/648 | Android OAuth Client (android-oauth-client) is a library that helps to easily add an OAuth flow to an existing Android application. |
+| 425 | 81 | 1 | 8 years ago | [samoa](https://github.com/YahooArchive/samoa)/649 | SAMOA (Scalable Advanced Massive Online Analysis) is an open-source platform for mining big data streams. |
+| 425 | 84 | 22 | 5 years ago | [CalendarView](https://github.com/shehuan/CalendarView)/650 | Android 自定义日历控件 |
+| 425 | 97 | 4 | 4 years ago | [EasyTagDragView](https://github.com/wenhuaijun/EasyTagDragView)/651 | 仿网易新闻app下拉标签选择菜单，长按拖动排序，点击增删标签控件 |
+| 425 | 53 | 0 | 6 years ago | [RxPeople](https://github.com/cesarferreira/RxPeople)/652 | Observing people... wait what? |
+| 425 | 304 | 16 | 4 years ago | [customers-stores](https://github.com/spring-cloud-samples/customers-stores)/653 | Two microservices for customers and stores |
+| 425 | 91 | 8 | 8 months ago | [react-native-app-upgrade](https://github.com/songxiaoliang/react-native-app-upgrade)/654 | react native 版本升级 |
+| 424 | 84 | 0 | 2 years ago | [bitmapMesh](https://github.com/7heaven/bitmapMesh)/655 | bitmapMesh demo |
+| 423 | 73 | 6 | 4 years ago | [Recyclerview-Gallery](https://github.com/ryanlijianchang/Recyclerview-Gallery)/656 | Recyclerview-Gallery：This library shows you a gallery using RecyclerView. |
+| 423 | 162 | 1 | 5 years ago | [spring-boot-security-oauth2-minimal](https://github.com/dynamind/spring-boot-security-oauth2-minimal)/657 | Minimal implementation of Authorization Server, Resource Server and OAuth2 Client in Spring Boot with Spring Security and JWT |
+| 423 | 74 | 8 | 2 years ago | [UIWidget](https://github.com/AriesHoo/UIWidget)/658 | 一个集成TabLayout、UIAlertDialog、UIActionSheetDialog、UIProgressDialog、TitleBarView(自带沉浸式标题栏)、CollapsingTitleBarLayout、RadiusView(圆角及状态背景设置View解放shape文件)、KeyboardHelper(软键盘控制及遮挡控制类)、StatusViewHelper(状态栏沉浸帮助类)、NavigationViewHelper（导航栏沉浸式帮助类）、AlphaViewHelper(View透明度控制帮助类) 等项目常用UI库 |
+| 423 | 59 | 1 | 6 years ago | [InputMethodHolder](https://github.com/pqpo/InputMethodHolder)/659 | A keyboard listener for Android which by hooking the InputMethodManager. 通过hook监听系统键盘显示 |
+| 422 | 43 | 2 | 3 years ago | [EfficientAdapter](https://github.com/StanKocken/EfficientAdapter)/660 | Create a new adapter for a RecyclerView or ViewPager is now much easier. |
+| 422 | 77 | 4 | 6 years ago | [PinterestView](https://github.com/brucetoo/PinterestView)/661 | Pinterest like awesome menu control for Android |
+| 422 | 114 | 335 | 5 years ago | [920-text-editor-v2](https://github.com/jecelyin/920-text-editor-v2)/662 | 920 Text Editor is a Free, Open Source and no Ad software for android |
+| 421 | 141 | 97 | 8 days ago | [hono](https://github.com/eclipse-hono/hono)/663 | Eclipse Hono™ Project |
+| 420 | 55 | 5 | 3 years ago | [android-intents](https://github.com/marvinlabs/android-intents)/664 | A small library which will save you from writing the same intent creation code again and again for the most simple tasks |
+| 420 | 83 | 21 | 2 months ago | [helper](https://github.com/lucko/helper)/665 | A collection of utilities and extended APIs to support the rapid and easy development of Bukkit plugins. |
+| 419 | 164 | 1 | 2 years ago | [Android-Wheel-Menu](https://github.com/anupcowkur/Android-Wheel-Menu)/666 | Simple and easy to use circular menu widget for Android.  |
+| 418 | 168 | 46 | 2 years ago | [storm-yarn](https://github.com/yahoo/storm-yarn)/667 |  Storm-yarn enables Storm clusters to be deployed into machines managed by Hadoop YARN. |
+| 417 | 367 | 0 | 1 year, 1 month ago | [algorithm-primary](https://github.com/algorithmzuo/algorithm-primary)/668 | 算法和数据结构新手班 |
+| 417 | 40 | 34 | 2 years ago | [blog](https://github.com/aCoder2013/blog)/669 | 个人博客，记录个人总结(见issues) |
+| 416 | 486 | 100 | 8 months ago | [spring-security-saml](https://github.com/spring-attic/spring-security-saml)/670 | SAML extension for the Spring Security project |
+| 414 | 234 | 93 | 3 years ago | [xchange-stream](https://github.com/bitrich-info/xchange-stream)/671 | XChange-stream is a Java library providing a simple and consistent streaming API for interacting with Bitcoin and other crypto currency exchanges via WebSocket protocol.  It is build on top of of XChange library providing new interfaces for streaming API. User can subscribe for live updates via reactive streams of RxJava library. |
+| 413 | 71 | 14 | 4 years ago | [microservices-dashboard](https://github.com/ordina-jworks/microservices-dashboard)/672 | Dashboard for visualizing Spring Boot microservices and the components they link to. |
+| 413 | 75 | 2 | 5 years ago | [CircularBarPager](https://github.com/omadahealth/CircularBarPager)/673 | An android view pager wrapped inside of a circular progress bar |
+| 412 | 36 | 0 | 10 months ago | [CaA](https://github.com/gh0stkey/CaA)/674 | CaA - BurpSuite Collector and Analyzer |
+| 410 | 548 | 0 | 12 days ago | [struts-examples](https://github.com/apache/struts-examples)/675 | Mirror of Apache Struts |
+| 410 | 54 | 543 | a day ago | [stroom](https://github.com/gchq/stroom)/676 | Stroom is a highly scalable data storage, processing and analysis platform. |
+| 409 | 94 | 0 | 8 years ago | [WhorlView](https://github.com/Kyson/WhorlView)/677 | Progressbar with whorl style  |
+| 409 | 196 | 72 | 1 year, 7 months ago | [consul-api](https://github.com/Ecwid/consul-api)/678 | Java client for Consul HTTP API |
+| 409 | 150 | 10 | 1 year, 8 months ago | [UICrawler](https://github.com/lgxqf/UICrawler)/679 | 基于Appium的 App UI 遍历 & Monkey工具 (支持操作步骤回放) |
+| 408 | 79 | 3 | 6 years ago | [FingerColoring-Android](https://github.com/SwiftyWang/FingerColoring-Android)/680 | None |
+| 408 | 60 | 0 | 1 year, 11 months ago | [Material-SearchTransition](https://github.com/alexstyl/Material-SearchTransition)/681 | A demo showcasing how to implement a Dial app-like Toolbar transition |
+| 408 | 81 | 38 | 18 hours ago | [PdfViewer](https://github.com/GrapheneOS/PdfViewer)/682 | Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static. |
+| 407 | 38 | 1 | 6 years ago | [RxUnfurl](https://github.com/Schinizer/RxUnfurl)/683 | A reactive extension to generate URL previews. |
+| 407 | 120 | 61 | 6 years ago | [poly-picker](https://github.com/jaydeepw/poly-picker)/684 | Android library project for providing multiple image selection from the device.  |
+| 405 | 118 | 41 | 3 years ago | [Android-WYSIWYG-Editor](https://github.com/irshu355/Android-WYSIWYG-Editor)/685 | :pager: A text editor written in Android using native components in the content tree. Integrate easily to work with web based WYSIWYG's. |
+| 405 | 184 | 8 | 3 years ago | [netty-restful-server](https://github.com/zhoumengkang/netty-restful-server)/686 | A light restful server built on netty. If you are preparing for leaning java or netty, it's a nice gift for you. |
+| 405 | 72 | 4 | 9 years ago | [android-grid-wichterle](https://github.com/inmite/android-grid-wichterle)/687 | This app will show grid overlay over whole system which helps you to verify your excellent app design. |
+| 405 | 56 | 0 | 10 months ago | [JNDIEXP](https://github.com/Bl0omZ/JNDIEXP)/688 | JDNI在java高版本的利用工具,FUZZ利用链 |
+| 404 | 47 | 0 | 8 years ago | [TwitterCover-Android](https://github.com/cyndibaby905/TwitterCover-Android)/689 | The Android version of  https://github.com/cyndibaby905/TwitterCover |
+| 404 | 65 | 0 | 4 years ago | [RulerView](https://github.com/superSp/RulerView)/690 | 一个可以滑动选择的尺子view，可以选择体重身高等信息，通过刷新当前屏幕模拟滑动效果，达到暂用内存最小的目的。。。 |
+| 403 | 46 | 0 | 6 years ago | [SafelyAndroid](https://github.com/Piasy/SafelyAndroid)/691 | Build safely Android app, no more Activity not found, Activity state loss and NPE during fragment transaction! |
+| 403 | 65 | 45 | 4 years ago | [Walrus](https://github.com/TeamWalrus/Walrus)/692 | An Android app that lets you use your access control card cloning devices in the field. |
+| 402 | 272 | 16 | 1 year, 8 months ago | [react-native-html-to-pdf](https://github.com/christopherdro/react-native-html-to-pdf)/693 | Convert html strings to PDF documents using React Native |
+| 401 | 242 | 9 | 9 years ago | [UltimateAndroidCameraGuide](https://github.com/rexstjohn/UltimateAndroidCameraGuide)/694 | The official "Ultimate Android Camera Guide" source repo |
+| 399 | 80 | 1 | 8 years ago | [BeerSwipeRefresh](https://github.com/recruit-lifestyle/BeerSwipeRefresh)/695 | None |
+| 399 | 72 | 3 | 6 years ago | [AnimCheckBox](https://github.com/lguipeng/AnimCheckBox)/696 | Animation CheckBox |
+| 399 | 234 | 2 | 5 years ago | [mixare](https://github.com/mixare/mixare)/697 | This repository has been moved to https://gitlab.com/mixare/mixare |
+| 399 | 246 | 16 | 11 years ago | [NewQuickAction3D](https://github.com/lorensiuswlt/NewQuickAction3D)/698 | Gallery3D like quickaction |
+| 399 | 79 | 915 | 30 days ago | [Perl5-IDEA](https://github.com/Camelcade/Perl5-IDEA)/699 | Perl5 plugins for IntelliJ IDEA |
+| 398 | 55 | 3 | 6 years ago | [DragPointView](https://github.com/javonleee/DragPointView)/700 | A draggable PointView for Android. |
+| 347 | 36 | 1 | 4 years ago | [PermissionDispatcher](https://github.com/MichaelJokAr/PermissionDispatcher)/701 | Annotation-based library for generating runtime permissions dispatcher.And make specially judgment to "Xiaomi" phone |
+| 347 | 186 | 25 | 6 months ago | [uap-java](https://github.com/ua-parser/uap-java)/702 | Java implementation of ua-parser |
+| 346 | 1136 | 9 | 5 months ago | [Advance-Android-Tutorials](https://github.com/StacktipsLab/Advance-Android-Tutorials)/703 | Advance Android Tutorials |
+| 346 | 86 | 3 | 2 years ago | [Rx-Mvp](https://github.com/RuffianZhong/Rx-Mvp)/704 | RxJava2+Retrofit2+RxLifecycle2+OkHttp3 封装RHttp  使用MVP模式构建项目 |
+| 345 | 131 | 71 | 4 years ago | [jenkins-gitlab-merge-request-builder-plugin](https://github.com/timols/jenkins-gitlab-merge-request-builder-plugin)/705 | A plugin that allows jenkins to build merge requests in Gitlab |
+| 345 | 63 | 9 | 2 years ago | [Raigad](https://github.com/Netflix/Raigad)/706 | Co-Process for backup/recovery, Auto Deployments and Centralized Configuration management for ElasticSearch |
+| 345 | 44 | 18 | 6 years ago | [clockwise](https://github.com/ustwo/clockwise)/707 | Watch face framework for Android Wear developed by ustwo |
+| 345 | 102 | 4 | 5 months ago | [RecordView](https://github.com/3llomi/RecordView)/708 | A Simple Audio Recorder View with "hold to Record Button" and "Swipe to Cancel " Like WhatsApp  |
+| 345 | 24 | 0 | 3 years ago | [r2dbc-client](https://github.com/r2dbc/r2dbc-client)/709 | Reactive Relational Database Connectivity |
+| 343 | 96 | 5 | 4 years ago | [YCAudioPlayer](https://github.com/yangchong211/YCAudioPlayer)/710 | 音频播放器，基础播放功能有：播放，暂停，下一首，上一首；可以设置多种播放类型：顺序播放，随机播放，单曲循环；可以设置播放进度快慢，参考混沌大学APP；支持后台播放，可以扫描本地音频，有效处理了捕获/丢弃音频焦点逻辑，支持耳机线控。通知栏，底部音频播放控制栏，音频List页面和播放详情页数据同步。持续更新中…… |
+| 344 | 57 | 3 | 5 years ago | [Bugtags-Android](https://github.com/bugtags/Bugtags-Android)/711 | Simple and effective bug & crash reporting tool for Android apps |
+| 343 | 56 | 2 | 7 years ago | [AndroidtoAppleVectorLogo](https://github.com/lewismcgeary/AndroidtoAppleVectorLogo)/712 | An Android app demoing pathmorphing with AnimatedVectorDrawables |
+| 343 | 26 | 4 | 7 years ago | [Aftermath](https://github.com/MichaelEvans/Aftermath)/713 | A simple, annotation-based Android library for generating onActivityForResult handlers. |
+| 343 | 234 | 2 | 6 years ago | [RestSpringMVCDemo](https://github.com/githubofrico/RestSpringMVCDemo)/714 | RestSpringMVCDemo项目是一个基于Spring的符合REST风格的项目，具有MVC分层结构并实现前后端分离。该项目体现了一个具有REST风格项目的基本特征，即具有统一响应结构、 前后台数据流转机制(HTTP消息与Java对象的互相转化机制)、统一的异常处理机制、参数验证机制、Cors跨域请求机制以及鉴权机制。 |
+| 343 | 230 | 16 | 1 year, 8 months ago | [spring-cloud-gateway-sample](https://github.com/spring-cloud-samples/spring-cloud-gateway-sample)/715 | Sample Spring Cloud Gateway Application |
+| 341 | 220 | 1 | 5 years ago | [fpinjava](https://github.com/fpinjava/fpinjava)/716 | Code, exercises and solutions from the book "Functional Programming in Java" |
+| 341 | 79 | 1 | 1 year, 8 months ago | [netty-practical-tutorial](https://github.com/Snailclimb/netty-practical-tutorial)/717 | Netty from introduction to practice(Netty从入门到实战：手写HTTP Server+RPC框架) |
+| 341 | 254 | 0 | 3 years ago | [micro-service](https://github.com/Lovnx/micro-service)/718 | :gem: Spring Cloud demo based on Camden.SR5 |
+| 341 | 131 | 42 | 4 years ago | [dcs-sdk-java](https://github.com/dueros/dcs-sdk-java)/719 | None |
+| 340 | 186 | 13 | 3 years ago | [oltu-oauth2-example](https://github.com/ameizi/oltu-oauth2-example)/720 | 使用Apache Oltu 搭建Oauth2 Server及Client开放授权 |
+| 340 | 155 | 10 | 3 years ago | [spring-boot-mybatis-rw](https://github.com/chenlei2/spring-boot-mybatis-rw)/721 | 基于mybatis，springboot开箱即用的读写分离插件 |
+| 340 | 58 | 2 | 4 years ago | [HideKeyboard](https://github.com/yingLanNull/HideKeyboard)/722 | 仿iOS输入法点击输入框以外区域 自动隐藏软键盘轻量级库 ， Imitation iOS automatic hidden soft keyboard |
+| 340 | 2052 | 1079 | 1 year, 10 months ago | [HacktoberFest](https://github.com/tarunsinghofficial/HacktoberFest)/723 | :octocat: Add your Programs or tech content to help other contributors ✅ |
+| 340 | 33 | 0 | 7 years ago | [AndroidPermissions](https://github.com/SeongUgJung/AndroidPermissions)/724 | None |
+| 340 | 95 | 2 | 7 years ago | [ZhihuDailyFluxRRD](https://github.com/Sloaix/ZhihuDailyFluxRRD)/725 | This Demo is created by Flux RRD(Retrofit,RxJava,Dagger2). |
+| 339 | 135 | 21 | 5 months ago | [TradeBot](https://github.com/markusaksli/TradeBot)/726 | Crypto trading bot using Binance API (Java) |
+| 339 | 100 | 1 | 2 years ago | [elasticsearch-analysis-morphology](https://github.com/imotov/elasticsearch-analysis-morphology)/727 | Morphological Analysis Plugin for ElasticSearch (No longer maintained) |
+| 338 | 260 | 1 | 6 years ago | [spring-boot](https://github.com/je-ge/spring-boot)/728 | Spring Boot是由Pivotal团队提供的全新框架，其设计目的是用来简化新Spring应用的初始搭建以及开发过程。该框架使用了特定的方式来进行配置，从而使开发人员不再需要定义样板化的配置。通过这种方式，Spring Boot致力于在蓬勃发展的快速应用开发领域（rapid application development）成为领导者。  |
+| 338 | 60 | 13 | 6 years ago | [elasticsearch-taste](https://github.com/codelibs/elasticsearch-taste)/729 | Mahout Taste-based recommendation on Elasticsearch |
+| 338 | 54 | 2 | 6 years ago | [ProgressView](https://github.com/WhiteDG/ProgressView)/730 | 🌈 Styleable progress view |
+| 338 | 226 | 9 | 3 years ago | [stanford-algs](https://github.com/beaunus/stanford-algs)/731 | Example Test Cases for Stanford's Algorithms Coursera Specialization |
+| 338 | 155 | 1 | 3 years ago | [CronHub](https://github.com/machanic/CronHub)/732 | CronHub is a better crontab, it is a web application which can schedule, monitor and control the crontabs of multiple machines from the web page. |
+| 337 | 69 | 2 | 5 years ago | [monkey-android](https://github.com/yeungeek/monkey-android)/733 | monkey android is a GitHub third party client, show the rank of users and repositories,trending. Base on Material Design,use MVP pattern |
+| 337 | 94 | 14 | 1 year, 10 months ago | [firenio](https://github.com/FireNio/firenio)/734 | 🐳🐳An easy of use io framework project based on java nio&epoll |
+| 335 | 237 | 19 | 5 years ago | [iveely.search](https://github.com/Fanping/iveely.search)/735 |  Pure java realize search engine, try to directly hit the user's search for answers. |
+| 335 | 181 | 5 | 7 years ago | [spring-authorization-manager](https://github.com/ScienJus/spring-authorization-manager)/736 | 基于 Spring MVC，提供 API 服务端的身份验证功能。通过 Redis、MySQL 维护登录用户与分配 Token 的映射关系。 |
+| 335 | 106 | 24 | 3 years ago | [xgboost-predictor-java](https://github.com/komiya-atsushi/xgboost-predictor-java)/737 | Pure Java implementation of XGBoost predictor for online prediction tasks. |
+| 335 | 720 | 4 | 2 days ago | [email-ext-plugin](https://github.com/jenkinsci/email-ext-plugin)/738 | Jenkins Email Extension Plugin |
+| 334 | 132 | 7 | 3 years ago | [android-gif-encoder](https://github.com/nbadal/android-gif-encoder)/739 | An animated GIF encoder for Android, without any native code required. Based on the J2ME encoder posted here: http://www.jappit.com/blog/2008/12/04/j2me-animated-gif-encoder/ with the addition of dirty rectangle support. |
+| 334 | 51 | 3 | 8 years ago | [AndroidProgressLayout](https://github.com/antonkrasov/AndroidProgressLayout)/740 | Android View to simplify working with ProgressBar |
+| 333 | 94 | 16 | 1 year, 2 months ago | [amazon-kinesis-scaling-utils](https://github.com/awslabs/amazon-kinesis-scaling-utils)/741 | The Kinesis Scaling Utility is designed to give you the ability to scale Amazon Kinesis Streams in the same way that you scale EC2 Auto Scaling groups – up or down by a count or as a percentage of the total fleet. You can also simply scale to an exact number of Shards. There is no requirement for you to manage the allocation of the keyspace to Shards when using this API, as it is done automatically. |
+| 333 | 65 | 2 | 7 years ago | [CircularMenu](https://github.com/sungerk/CircularMenu)/742 | None |
+| 332 | 81 | 26 | 4 months ago | [griffon](https://github.com/griffon/griffon)/743 | Next generation desktop application development platform for the JVM |
+| 332 | 62 | 1 | 8 years ago | [ColorPhrase](https://github.com/THEONE10211024/ColorPhrase)/744 | Phrase is an Android string resource color setting library  |
+| 332 | 129 | 0 | 3 years ago | [ConsistentHash](https://github.com/Jaskey/ConsistentHash)/745 | A universal Consistent Hash implementation in Java, which supports virtual nodes and user defined hash function |
+| 331 | 73 | 5 | 8 years ago | [PlayNewsStandDemo](https://github.com/naman14/PlayNewsStandDemo)/746 | Demo app for achieving UI like the one used in latest Google Play Newsstand app. |
+| 331 | 129 | 40 | 5 years ago | [subethasmtp](https://github.com/voodoodyne/subethasmtp)/747 | SubEtha SMTP is a Java library for receiving SMTP mail |
+| 330 | 79 | 8 | 16 days ago | [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/ChatGPT-YourChatRobot)/748 | ❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧 |
+| 329 | 228 | 31 | 7 years ago | [niubi-job](https://github.com/xiaolongzuo/niubi-job)/749 | 一个高可用的，专门针对定时任务的分布式任务调度框架 |
+| 329 | 39 | 0 | 6 years ago | [RaiflatButton](https://github.com/rubensousa/RaiflatButton)/750 | A raised button that lowers down to 0dp of elevation |
+| 329 | 17 | 3 | 4 years ago | [cortado](https://github.com/blipinsk/cortado)/751 | Android Espresso made more fluent :coffee: |
+| 329 | 16 | 2 | 5 years ago | [RxRecyclerView](https://github.com/exallium/RxRecyclerView)/752 | Reactive RecyclerView Adapter [DEPRECATED] |
+| 329 | 235 | 10 | 6 days ago | [APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo)/753 | 腾讯 APIJSON 各种语言、各种框架 的 使用示例项目、上手文档、测试数据 SQL 文件 等。Demo projects with document and SQL files for Tencent APIJSON with different programming languages and different frameworks. |
+| 329 | 134 | 31 | 6 years ago | [VitamioBundleStudio](https://github.com/yixia/VitamioBundleStudio)/754 | None |
+| 328 | 38 | 3 | 4 years ago | [AndroidSlideBack](https://github.com/qinci/AndroidSlideBack)/755 | Android 一键加入侧滑返回 (类似“小米MIX”和新版“即刻”滑动返回) |
+| 328 | 74 | 4 | 7 years ago | [TinderView](https://github.com/GadgetCheck/TinderView)/756 | Created a Tinder like Card Deck & Captain Train like Toolbar |
+| 328 | 198 | 49 | 3 years ago | [amazon-kinesis-connectors](https://github.com/amazon-archives/amazon-kinesis-connectors)/757 | None |
+| 327 | 22 | 1 | 5 years ago | [redux-java](https://github.com/glung/redux-java)/758 | The java version of Redux : a predictable state container for apps. |
+| 327 | 70 | 5 | 2 days ago | [launch4j-maven-plugin](https://github.com/orphan-oss/launch4j-maven-plugin)/759 | A Maven plugin which wraps Launch4j |
+| 326 | 36 | 0 | 7 years ago | [Constraints](https://github.com/hitherejoe/Constraints)/760 | Sample application for the new Android ConstraintLayout |
+| 326 | 38 | 3 | 1 year, 10 months ago | [RxFlux](https://github.com/marcelpinto/RxFlux)/761 | RxFlux is a small framework in order to follow Flux design pattern with RxJava functionalities |
+| 324 | 38 | 2 | 3 years ago | [ShadowHelper](https://github.com/zhengcx/ShadowHelper)/762 | A library to add shadows for the Android View.(一个方便为Android View添加自然的阴影的库) |
+| 324 | 44 | 2 | 2 years ago | [VideoLayout](https://github.com/AsynctaskCoffee/VideoLayout)/763 | To play video on layout background (textureview videoview for layout designs) |
+| 324 | 104 | 0 | 8 years ago | [google-io-2014-compat](https://github.com/unrarp/google-io-2014-compat)/764 | Android demo for the Material Witness talk presented at Google I/O ported to work from Android 2.3.3 (API Level 10) & up |
+| 324 | 30 | 0 | 18 days ago | [dtt-spring-boot-parent](https://github.com/Weasley-J/dtt-spring-boot-parent)/765 | DTT is an object-oriented Java framework that enables developers to automatically create database tables based on domain models through annotation-driven development, increasing productivity for developers. The core concept of DTT is domain-driven table, which makes you focus more on domain objects rather than database tables. |
+| 324 | 129 | 0 | 8 years ago | [PinterestListView](https://github.com/vladexologija/PinterestListView)/766 | Pinterest style ListView for Android |
+| 323 | 74 | 2 | 6 years ago | [MVPvsMVVM](https://github.com/florina-muntenescu/MVPvsMVVM)/767 | Model-View-Presenter vs Model-View-ViewModel in a "Hello, World!" project |
+| 323 | 285 | 0 | 1 year, 11 months ago | [JNDIExploit-1](https://github.com/Jeromeyoung/JNDIExploit-1)/768 | 一款用于JNDI注入利用的工具，大量参考/引用了Rogue JNDI项目的代码，支持直接植入内存shell，并集成了常见的bypass 高版本JDK的方式，适用于与自动化工具配合使用。 |
+| 322 | 115 | 10 | 18 days ago | [excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter)/769 | alibaba easyexcel  spring boot starter |
+| 321 | 80 | 3 | 4 years ago | [WellSwipe](https://github.com/gumingwei/WellSwipe)/770 | 猎豹"快切App"中用到的Android开发技巧探索[附源码] |
+| 320 | 101 | 75 | 4 years ago | [jaxrs-analyzer](https://github.com/sdaschner/jaxrs-analyzer)/771 | Creates REST documentation for JAX-RS projects |
+| 319 | 140 | 5 | 9 years ago | [SideNavigation](https://github.com/johnkil/SideNavigation)/772 | Implementation of "Side Navigation" or "Fly-in app menu" pattern for Android (based on Google+ app) |
+| 319 | 54 | 1 | 5 years ago | [OverWatchLoading](https://github.com/zhangyuChen1991/OverWatchLoading)/773 | 守望先锋的加载动画 |
+| 319 | 49 | 1 | 5 years ago | [Vertical-Intro](https://github.com/armcha/Vertical-Intro)/774 | Vertical intro allows you to integrate material vertical intro to your app |
+| 319 | 115 | 68 | 4 days ago | [CloudNet-v3](https://github.com/CloudNetService/CloudNet-v3)/775 | A modern application that can dynamically and easily deliver Minecraft oriented software |
+| 319 | 49 | 38 | 3 months ago | [PackageManager](https://github.com/SmartPack/PackageManager)/776 | Source code of Package Manager, an Application to Manage your Apps. |
+| 319 | 107 | 0 | 3 years ago | [android-DownloadableFonts](https://github.com/googlearchive/android-DownloadableFonts)/777 | Migrated: |
+| 318 | 120 | 5 | 3 years ago | [opencv_native_androidstudio](https://github.com/leadrien/opencv_native_androidstudio)/778 | An android studio project with native Opencv |
+| 317 | 73 | 0 | 1 year, 3 months ago | [titus-control-plane](https://github.com/Netflix/titus-control-plane)/779 | Titus is the Netflix Container Management Platform that manages containers and provides integrations to the infrastructure ecosystem. |
+| 317 | 105 | 12 | 6 years ago | [Android-PanesLibrary](https://github.com/cricklet/Android-PanesLibrary)/780 | (deprecated ~2012) Easily create Android apps with multi-pane tablet layouts. |
+| 317 | 16 | 46 | 15 days ago | [jdeploy](https://github.com/shannah/jdeploy)/781 | Developer friendly desktop deployment tool |
+| 316 | 106 | 12 | 4 years ago | [LuliChat](https://github.com/EggsBlue/LuliChat)/782 | 陆离Chat,一个以女朋友命名的即时通讯项目 |
+| 316 | 47 | 8 | 1 year, 11 months ago | [TransformersLayout](https://github.com/zaaach/TransformersLayout)/783 | :fire::fire::fire: App金刚区导航菜单，类似淘宝、QQ音乐等APP导航，方格布局横向多行滑动翻页带滚动条 |
+| 315 | 186 | 8 | 1 year, 1 month ago | [authserver](https://github.com/spring-attic/authserver)/784 | None |
+| 315 | 317 | 50 | 5 years ago | [react-native-wheel-picker](https://github.com/lesliesam/react-native-wheel-picker)/785 | None |
+| 315 | 76 | 3 | 5 years ago | [simmetrics](https://github.com/Simmetrics/simmetrics)/786 | Similarity or Distance Metrics, e.g. Levenshtein, for Java |
+| 314 | 99 | 4 | 6 years ago | [meiShi](https://github.com/sungerk/meiShi)/787 | The project is currently undergoing maintenance and upgrade, if you want to run this project please download release |
+| 314 | 388 | 12 | 2 months ago | [gs-securing-web](https://github.com/spring-guides/gs-securing-web)/788 | Securing a Web Application :: Learn how to protect your web application with Spring Security. |
+| 314 | 244 | 7 | 8 years ago | [materialtest](https://github.com/slidenerd/materialtest)/789 | None |
+| 314 | 58 | 6 | 5 years ago | [SimpleFingerGestures_Android_Library](https://github.com/championswimmer/SimpleFingerGestures_Android_Library)/790 | Android Library to implement simple touch/tap/swipe gestures |
+| 314 | 62 | 30 | 7 years ago | [Raccoon](https://github.com/onyxbits/Raccoon)/791 | Google Play desktop client |
+| 314 | 51 | 8 | 2 years ago | [cwac-security](https://github.com/commonsguy/cwac-security)/792 | CWAC-Security: Helping You Help Your Users Defend Their Data |
+| 313 | 68 | 7 | 7 years ago | [XLog](https://github.com/promeG/XLog)/793 | Method call logging based on dexposed. |
+| 313 | 387 | 5 | 8 years ago | [ShadowVPNAndroid](https://github.com/clowwindy/ShadowVPNAndroid)/794 | Removed according to regulations. |
+| 313 | 174 | 8 | 2 years ago | [sdkdemoapp3.0_android](https://github.com/easemob/sdkdemoapp3.0_android)/795 | None |
+| 313 | 105 | 5 | 7 years ago | [SectionedExpandableGridRecyclerView](https://github.com/bpncool/SectionedExpandableGridRecyclerView)/796 | The project in this repository is an attempt at a simple implementation of sectioned, expandable, grid RecyclerView  |
+| 313 | 58 | 4 | 8 years ago | [AnimatedPathView](https://github.com/matthewrkula/AnimatedPathView)/797 | An animated path view following the methods in a blog post from Romain Guy |
+| 312 | 260 | 5 | 10 years ago | [roman10-android-tutorial](https://github.com/roman10/roman10-android-tutorial)/798 | android tutorial source code |
+| 312 | 150 | 0 | 5 years ago | [CN5E-shop](https://github.com/15829238397/CN5E-shop)/799 | 《菜鸟商城》是一个仿淘宝客户端的实战课程，帮助你系统掌握商城类应用功能实现和开发流程，完整的实现一个商业化项目。其中功能包括：支付（支付宝、微信、百度钱包），首页，热卖，商品大全，购物车，我的，商品列表，商品详情，注册/登录，收货地址，我的订单，我的收藏等。 |
+| 311 | 91 | 0 | 8 years ago | [ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo)/800 | None |
+| 399 | 108 | 9 | 1 year, 1 month ago | [SENS](https://github.com/saysky/SENS)/801 | 基于SpringBoot+MyBatis+Shiro+Redis+ElasticSearch的企业级博客系统 |
+| 398 | 152 | 16 | 7 years ago | [cloudwatch-logs-subscription-consumer](https://github.com/amazon-archives/cloudwatch-logs-subscription-consumer)/802 | A specialized Amazon Kinesis stream reader (based on the Amazon Kinesis Connector Library) that can help you deliver data from Amazon CloudWatch Logs to any other system in near real-time using a CloudWatch Logs Subscription Filter. |
+| 398 | 870 | 15 | 5 years ago | [ShadowSocks-Share](https://github.com/zc-zh-001/ShadowSocks-Share)/803 | 示例站点 |
+| 398 | 368 | 93 | 6 months ago | [msf4j](https://github.com/wso2/msf4j)/804 | WSO2 Microservices Framework for Java (MSF4J) |
+| 398 | 74 | 7 | 2 days ago | [coherence](https://github.com/oracle/coherence)/805 | Oracle Coherence Community Edition |
+| 396 | 51 | 1 | 4 years ago | [RapidInterpolator](https://github.com/MartinRGB/RapidInterpolator)/806 | Realtime interpolator editor(Inspired by Facebook Rebound) |
+| 396 | 74 | 10 | 5 months ago | [markdown-writer-fx](https://github.com/JFormDesigner/markdown-writer-fx)/807 | Markdown Writer FX |
+| 394 | 16 | 0 | 5 years ago | [pocketknife](https://github.com/hansenji/pocketknife)/808 | Intent and Bundle utility for Android |
+| 394 | 133 | 9 | 6 years ago | [AdbLib](https://github.com/cgutman/AdbLib)/809 | A Java library implementation of the ADB network protocol |
+| 393 | 889 | 15 | 4 years ago | [mobilecloud-14](https://github.com/juleswhite/mobilecloud-14)/810 | Source code and assignments for the Programming Cloud Services for Android Handheld Systems Course |
+| 392 | 136 | 86 | 16 days ago | [MultiFunctionAndroidDemo](https://github.com/umeng/MultiFunctionAndroidDemo)/811 | 友盟多功能Android Demo |
+| 392 | 13 | 0 | 7 years ago | [madge](https://github.com/JakeWharton/madge)/812 | A debugging tool to determine whether or not your bitmaps are being drawn at their native resolution. |
+| 392 | 156 | 5 | 3 years ago | [MMall](https://github.com/sunweiguo/MMall)/813 | :loudspeaker:快乐蜗牛商城springcloud版本。本项目是对慕课网电商项目进行后端架构升级，主要是采用springcloud技术栈来进行服务拆分和治理，提高系统的并发能力。含有完整的前端页面，从用户选择商品-加入购物车-生成订单-支付宝扫码支付-后台管理系统。大体实现所有功能。除了springcloud技术栈，还涉及分布式锁、MQ异步下单、redis预减库存等内容 |
+| 392 | 560 | 4 | 4 years ago | [tank](https://github.com/bjmashibing/tank)/814 | 坦克大战 |
+| 392 | 197 | 16 | 5 years ago | [common-admin](https://github.com/yangxiufeng666/common-admin)/815 | 后台管理（Springboot+shiro+freemarker+mysql）。拥有基础的菜单管理、用户管理、角色管理等，菜单管理动态生成菜单、权限内容，开发者可以直接拿来使用。项目结构清晰、通俗易懂，是做一个后台管理系统的最佳选择，同时也可以作为任何系统的基础脚手架。 |
+| 391 | 30 | 14 | 11 years ago | [cssembed](https://github.com/nzakas/cssembed)/816 | A tool for embedding data URIs in CSS files. |
+| 391 | 80 | 27 | 1 year, 9 months ago | [geogig](https://github.com/locationtech/geogig)/817 | GeoGig project |
+| 389 | 185 | 531 | 5 days ago | [exist](https://github.com/eXist-db/exist)/818 | eXist Native XML Database and Application Platform |
+| 389 | 49 | 7 | 5 years ago | [VoiceRipple](https://github.com/wotomas/VoiceRipple)/819 |  Voice Record Button that has ripple effect with users voice |
+| 388 | 104 | 70 | 7 years ago | [MultiImagePicker](https://github.com/yazeed44/MultiImagePicker)/820 | A library to pick multi images in Android |
+| 387 | 177 | 24 | 1 year, 3 months ago | [json-data-generator](https://github.com/everwatchsolutions/json-data-generator)/821 | A robust, generic, streaming random json data generator for your data |
+| 387 | 53 | 21 | 3 years ago | [ehreader-android](https://github.com/tommy351/ehreader-android)/822 | [NO MAINTENANCE] The best E-Hentai Reader for Android ever! |
+| 387 | 57 | 13 | 1 year, 3 months ago | [grpc-swagger](https://github.com/grpc-swagger/grpc-swagger)/823 | Debugging gRPC application with swagger-ui. |
+| 386 | 129 | 28 | 2 months ago | [jackson-modules-java8](https://github.com/FasterXML/jackson-modules-java8)/824 | Set of support modules for Java 8 datatypes (Optionals, date/time) and features (parameter names) |
+| 386 | 91 | 28 | 2 years ago | [AmazMod](https://github.com/AmazMod/AmazMod)/825 | Phone/Watch app that provides a new notification system along with other features for Amazfit Pace/Stratos/Stratos3/Verge watches |
+| 386 | 107 | 13 | 8 years ago | [IconicDroid](https://github.com/atermenji/IconicDroid)/826 | IconicDroid is a custom Android Drawable which allows to draw icons from several iconic fonts. |
+| 385 | 83 | 6 | 5 years ago | [HintPopupWindow](https://github.com/Zhaoss/HintPopupWindow)/827 | 仿QQ的选项弹窗动画 |
+| 385 | 64 | 23 | 6 years ago | [CalendarView](https://github.com/henry-newbie/CalendarView)/828 | CalendarListview是一个高度定制的日期选择器，可以满足多选日期的需求 |
+| 385 | 176 | 13 | 25 days ago | [dew](https://github.com/gudaoxuri/dew)/829 | 微服务一站式解决方案，提供：架构指南、容器优先/兼容Spring Cloud与Service Mesh的框架、最佳实践及Devops标准化流程。 |
+| 385 | 76 | 13 | 25 days ago | [kalmanjs](https://github.com/wouterbulten/kalmanjs)/830 | Javascript based Kalman filter for 1D data |
+| 385 | 222 | 47 | 7 years ago | [vraptor](https://github.com/caelum/vraptor)/831 | Simple Java Web MVC Framework |
+| 385 | 41 | 1 | 7 years ago | [QuickSand](https://github.com/blundell/QuickSand)/832 | Automatically manipulates the duration of animations dependent on view count. Quicksand .. the more you struggle. |
+| 384 | 84 | 6 | 6 years ago | [EasyPay](https://github.com/xiong-it/EasyPay)/833 | [DEPRECATED]A simple frame for mobile pay in China, easy to use & expand . 简单易用的第三方可扩展支付框架。 |
+| 384 | 196 | 86 | 5 years ago | [android-calculatorpp](https://github.com/serso/android-calculatorpp)/834 | Android Calculator |
+| 384 | 68 | 5 | 8 years ago | [SilkCal](https://github.com/NLMartian/SilkCal)/835 | Android calendar view inspired by Sunrise calendar and iOS7 stock calendar |
+| 384 | 51 | 1 | 4 years ago | [CustomTabsHelper](https://github.com/zhanghai/CustomTabsHelper)/836 | Custom tabs, made easy. |
+| 384 | 179 | 276 | 7 months ago | [android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex)/837 | Android version of Money Manager Ex |
+| 383 | 160 | 0 | a month ago | [connectors](https://github.com/delta-io/connectors)/838 | This library allows Scala and Java-based projects (including Apache Flink, Apache Hive, Apache Beam, and PrestoDB) to read from and write to Delta Lake. |
+| 381 | 100 | 6 | 1 year, 5 months ago | [java-util](https://github.com/jdereg/java-util)/839 | Rare, hard-to-write utilities that are thoroughly tested |
+| 380 | 189 | 41 | 4 years ago | [jsch](https://github.com/is/jsch)/840 | Mirror of JSch from JCraft. |
+| 380 | 61 | 2 | 4 years ago | [SearchDialog](https://github.com/wenwenwen888/SearchDialog)/841 | 仿bilibili搜索框效果(三句代码实现) |
+| 380 | 37 | 16 | 1 year, 8 months ago | [mirror](https://github.com/stephenh/mirror)/842 | A tool for real-time, two-way sync for remote (e.g. desktop/laptop) development |
+| 379 | 96 | 1 | 5 years ago | [githot](https://github.com/andyiac/githot)/843 |  GitHot is an Android App that will help you to find the world most popular project  and person |
+| 378 | 58 | 1 | 7 years ago | [android-gradle-template](https://github.com/nenick/android-gradle-template)/844 | Combines tools for fast android app devlopment |
+| 378 | 149 | 8 | 10 years ago | [QuickReturnHeader](https://github.com/ManuelPeinado/QuickReturnHeader)/845 | A ListView/ScrollView header that hides when scrolling down and reappears immediately when scrolling up, regardless of how far down the list we've gone. Like the one from the Google Keep app. |
+| 378 | 52 | 3 | 5 years ago | [advancedtextview](https://github.com/oktayayr/advancedtextview)/846 | AdvancedTextView provides advanced features that simplifies complicated UI processes |
+| 378 | 142 | 31 | 2 years ago | [matrix-android-sdk](https://github.com/matrix-org/matrix-android-sdk)/847 | The Matrix SDK for Android - DEPRECATED |
+| 378 | 62 | 5 | 8 years ago | [GhostLog](https://github.com/jgilfelt/GhostLog)/848 | Android app that displays the logcat buffer in a system overlay window |
+| 377 | 101 | 0 | 8 years ago | [PullDownListView](https://github.com/guojunyi/PullDownListView)/849 | None |
+| 377 | 52 | 6 | 3 months ago | [XPage](https://github.com/xuexiangjys/XPage)/850 | 🔥A very useful Fragment page  framework!(一个非常方便实用的fragment页面框架!) |
+| 377 | 71 | 2 | 7 years ago | [LiulishuoPreview](https://github.com/JeasonWong/LiulishuoPreview)/851 | 手摸手带你用VideoView实现英语流利说炫酷引导页 |
+| 376 | 101 | 25 | 7 years ago | [Android-PullToRefreshRecyclerView](https://github.com/HomHomLin/Android-PullToRefreshRecyclerView)/852 | A RecyclerView library for Android which support pull-to-refresh ,auto-load-more and add header. |
+| 376 | 125 | 10 | 7 years ago | [WhatsApp-ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar)/853 | An Android custom animation view that looks like WhastApp Profile screen style |
+| 375 | 290 | 4 | 2 years ago | [cassandra-workshop-series](https://github.com/DataStax-Academy/cassandra-workshop-series)/854 | All materials for the Cassandra Workshop Series in a single place |
+| 375 | 275 | 9 | 4 years ago | [springboot-demo](https://github.com/chilexun/springboot-demo)/855 | Same springboot demo code |
+| 374 | 135 | 0 | 8 years ago | [LuckyMoneyTool](https://github.com/XiaoMi/LuckyMoneyTool)/856 | None |
+| 374 | 53 | 0 | 6 years ago | [Trigger](https://github.com/lkv1988/Trigger)/857 | JobScheduler is a good feature of Android Lollipop, but what a pity only Lollipop.  |
+| 374 | 67 | 16 | 4 years ago | [ImageWatcher](https://github.com/byc4426/ImageWatcher)/858 | 一种无缝顺畅的动画切换到图片查看的界面，同样以一种无缝顺畅的动画退出图片查看界面 *支持多图查看，快速翻页，双击放大，单击退出，双手缩放旋转图片 *下拽退出查看图片的操作，以及效果是本View的最大卖点(仿微信) |
+| 374 | 48 | 1 | 7 years ago | [ScrollableItemList](https://github.com/rohaanhamid/ScrollableItemList)/859 | An Android RecyclerView List with items that can scroll to reveal more content |
+| 373 | 245 | 31 | 2 years ago | [Git-Credential-Manager-for-Mac-and-Linux](https://github.com/microsoft/Git-Credential-Manager-for-Mac-and-Linux)/860 | Git Credential Manager for Mac and Linux stores credentials for Git version control securely. Provides secure logon for Visual Studio Team Services (visualstudio.com). |
+| 373 | 68 | 0 | 1 year, 11 months ago | [grouter-android](https://github.com/taoweiji/grouter-android)/861 | 原名ActivityRouter，Android 结构化路由框架 |
+| 373 | 72 | 0 | 7 years ago | [Beautyacticle](https://github.com/NicodeLee/Beautyacticle)/862 | Share the most beautiful words |
+| 372 | 170 | 25 | 23 hours ago | [commons-imaging](https://github.com/apache/commons-imaging)/863 | Apache Commons Imaging (previously Sanselan) is a pure-Java image library |
+| 372 | 158 | 92 | 2 years ago | [GoIV](https://github.com/farkam135/GoIV)/864 | None |
+| 372 | 314 | 1 | 7 years ago | [Rocko-Android-Demos](https://github.com/zhengxiaopeng/Rocko-Android-Demos)/865 | Rocko Android demos -  |
+| 370 | 97 | 5 | 4 years ago | [LikeMeiTuan](https://github.com/cachecats/LikeMeiTuan)/866 | 仿美团 Android 客户端的开源项目 |
+| 370 | 86 | 5 | 1 year, 9 months ago | [LagouAndroidShare](https://github.com/McoyJiang/LagouAndroidShare)/867 | 本应用是拉勾教育《Android 工程师进阶34讲》专栏的示例应用 |
+| 370 | 159 | 85 | 11 years ago | [reddit-is-fun](https://github.com/talklittle/reddit-is-fun)/868 | OLD VERSION 1.3 of reddit is fun -- Android app to interact with reddit.com |
+| 369 | 160 | 0 | 6 years ago | [Camera](https://github.com/lizhangqu/Camera)/869 | 二代身份证信息识别 |
+| 369 | 84 | 5 | 2 months ago | [Bridge](https://github.com/SPuerBRead/Bridge)/870 | 无回显漏洞测试辅助平台，平台使用Java编写，提供DNSLOG，HTTPLOG等功能，辅助渗透测试过程中无回显漏洞及SSRF等漏洞的验证和利用。 |
+| 368 | 110 | 6 | 2 years ago | [dexknife-wj](https://github.com/godlikewangjun/dexknife-wj)/871 | apk加固插件 带签名校验、dex加密、资源混淆 |
+| 367 | 66 | 12 | 23 days ago | [jifa](https://github.com/eclipse/jifa)/872 | Eclipse Jifa |
+| 366 | 135 | 20 | 5 years ago | [Android-Face-Recognition-with-Deep-Learning-Library](https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library)/873 | Face Recognition library for Android devices is an Android library (module) which includes several face recognition methods. |
+| 366 | 181 | 2 | 6 years ago | [fanfoudroid](https://github.com/fanfoudroid/fanfoudroid)/874 | 安能饭否 |
+| 366 | 69 | 1 | 6 years ago | [PlayWidget](https://github.com/Cleveroad/PlayWidget)/875 | Break the monotony and make your music player unique! |
+| 365 | 75 | 72 | 3 days ago | [quilt-loader](https://github.com/QuiltMC/quilt-loader)/876 | The loader for Quilt mods. |
+| 365 | 93 | 7 | 4 years ago | [AVdownloader-Face](https://github.com/KirieHaruna/AVdownloader-Face)/877 | 一个基于java的av人脸识别自动下载器 |
+| 365 | 62 | 7 | 1 year, 8 months ago | [YCNotification](https://github.com/yangchong211/YCNotification)/878 | 通知栏封装库，强大的通知栏工具类，链式编程调用，解决了8.0以上通知栏不显示问题，支持多种不同的使用场景，兼容老版本。还有自定义通知栏view，可高度定制布局…… |
+| 365 | 35 | 6 | 3 years ago | [PicassoPalette](https://github.com/florent37/PicassoPalette)/879 | Android Lollipop Palette is now easy to use with Picasso ! |
+| 365 | 100 | 36 | 1 year, 4 months ago | [SegmentedButton](https://github.com/ceryle/SegmentedButton)/880 | Segmented Control with animation for Android API 12+ |
+| 364 | 230 | 4 | 10 years ago | [android-sliding-menu-demo](https://github.com/gitgrimbo/android-sliding-menu-demo)/881 | None |
+| 364 | 44 | 2 | 5 years ago | [frenchtoast](https://github.com/pyricau/frenchtoast)/882 | Stale Android Toasts made tasty. |
+| 364 | 132 | 16 | 9 years ago | [zoie](https://github.com/senseidb/zoie)/883 | realtime search/indexing system |
+| 364 | 260 | 54 | 9 years ago | [android-xbmcremote](https://github.com/freezy/android-xbmcremote)/884 | Official XBMC Remote for Android |
+| 364 | 104 | 2 | 8 years ago | [SmoothTransition](https://github.com/dkmeteor/SmoothTransition)/885 | Smooth activity switch animation. |
+| 363 | 64 | 8 | 8 years ago | [MaterialSettings](https://github.com/kenumir/MaterialSettings)/886 | MaterialSettings - small library to create settings activity |
+| 363 | 467 | 105 | a month ago | [spring-mvc-test-examples](https://github.com/pkainulainen/spring-mvc-test-examples)/887 | None |
+| 362 | 161 | 47 | 1 year, 2 months ago | [ShareSDK-for-Android](https://github.com/MobClub/ShareSDK-for-Android)/888 | A demo of Share SDK for Android |
+| 362 | 60 | 0 | 7 years ago | [WashingMachineView](https://github.com/naman14/WashingMachineView)/889 | An interactive view with water waves flowing like in a Washing machine |
+| 362 | 42 | 13 | 5 years ago | [ExpandableRecyclerView](https://github.com/hgDendi/ExpandableRecyclerView)/890 | Customized recyclerViewAdapter which shows items in a 2-level list. |
+| 361 | 64 | 1 | 8 years ago | [MVPAndroidBootstrap](https://github.com/richardradics/MVPAndroidBootstrap)/891 | Clean MVP bootstrap architecture |
+| 361 | 159 | 31 | a month ago | [NotePad](https://github.com/spacecowboy/NotePad)/892 | Now under new management |
+| 360 | 65 | 9 | 4 years ago | [clipper](https://github.com/majido/clipper)/893 | Simple android app to interact with system clipboard service via adb shell |
+| 360 | 59 | 5 | 5 years ago | [GlideFaceDetectionTransformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation)/894 | A memory efficient Android image transformation library providing cropping above Face Detection (Face Centering) for Glide. |
+| 359 | 104 | 7 | 7 years ago | [matrix-toolkits-java](https://github.com/fommil/matrix-toolkits-java)/895 | :rocket: High Performance Linear Algebra OOP |
+| 359 | 173 | 9 | 2 years ago | [estruturaDeDadosJavaDio](https://github.com/jrdutra/estruturaDeDadosJavaDio)/896 | None |
+| 359 | 85 | 33 | 1 year, 4 months ago | [t-vault](https://github.com/tmobile/t-vault)/897 | Simplified secrets management solution |
+| 359 | 55 | 0 | 6 years ago | [ScrollingBackgroundView](https://github.com/noties/ScrollingBackgroundView)/898 | Endless scrolling background with drawable tiling |
+| 359 | 78 | 0 | 7 years ago | [OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material)/899 | OpenLibra client on Material Design |
+| 358 | 177 | 0 | 3 years ago | [oauth2-sso-demo](https://github.com/making/oauth2-sso-demo)/900 | OIDC SSO Demo with Spring Boot + Spring Security + Spring Cloud Gateway |
+| 641 | 170 | 2 | 3 years ago | [LazyWaimai-Android](https://github.com/cheikh-wang/LazyWaimai-Android)/901 | 一个类似于饿了么、美团外卖和百度外卖的APP，采用MVP架构，目前还有部分功能还未实现，但基本的订餐流程已实现。 |
+| 640 | 109 | 0 | 2 years ago | [spider-web-score-view](https://github.com/panpf/spider-web-score-view)/902 | SpiderWebScoreView 是 Android 上的一个蛛网评分控件 SpiderWebScoreView Android is used on a cobweb score view |
+| 640 | 126 | 11 | 4 years ago | [RxHttpUtils](https://github.com/lygttpod/RxHttpUtils)/903 | Rxjava+Retrofit封装，便捷使用 |
+| 639 | 90 | 20 | 3 years ago | [jarjar](https://github.com/shevek/jarjar)/904 | Jar Jar Links is a utility that makes it easy to repackage Java libraries and embed them into your own distribution. |
+| 639 | 231 | 2 | 7 years ago | [Lab-Android-DesignLibrary](https://github.com/nuuneoi/Lab-Android-DesignLibrary)/905 | None |
+| 639 | 184 | 60 | 2 years ago | [barefoot](https://github.com/bmwcarit/barefoot)/906 | Java map matching library for integrating the map into software and services with state-of-the-art online and offline map matching that can be used stand-alone and in the cloud. |
+| 638 | 144 | 9 | 5 years ago | [WeiYue](https://github.com/Will-Ls/WeiYue)/907 | 一款新闻客户端, MVP + RxJava + Retrofit + Dagger2  |
+| 635 | 180 | 30 | 7 years ago | [WeatherLib](https://github.com/survivingwithandroid/WeatherLib)/908 | Android Weather Library: android weather lib to develop weather based app fast and easily |
+| 635 | 194 | 16 | 12 days ago | [lu-raft-kv](https://github.com/stateIs0/lu-raft-kv)/909 | this is raft java project. raft-kv-storage  |
+| 632 | 147 | 19 | 5 years ago | [ShadowLayout](https://github.com/Devlight/ShadowLayout)/910 | This library allows you to create a shadow effect for your layout based on your child. |
+| 631 | 99 | 10 | 6 years ago | [AllAngleExpandableButton](https://github.com/uin3566/AllAngleExpandableButton)/911 | An expandable button menu that you can define expand angle and button count and so on |
+| 630 | 135 | 12 | 7 years ago | [PickerUI](https://github.com/DavidPizarro/PickerUI)/912 | Android library to display a list of items for pick one |
+| 626 | 76 | 3 | 5 years ago | [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts)/913 | Clean Architecture implementation on Android |
+| 626 | 377 | 9 | 6 years ago | [angular-rest-springsecurity](https://github.com/philipsorst/angular-rest-springsecurity)/914 | An example AngularJS Application that uses a Spring Security protected Jersey REST backend based on Hibernate/JPA |
+| 625 | 250 | 2 | 1 year, 1 month ago | [bootshiro](https://github.com/tomsun28/bootshiro)/915 | 基于springboot+sureness的面向REST API资源无状态认证权限管理系统 |
+| 625 | 10 | 0 | 7 years ago | [yacy_search_androidclient](https://github.com/yacy/yacy_search_androidclient)/916 | An Android App which searches on a YaCy search server |
+| 624 | 364 | 1 | 1 year, 4 months ago | [spring-hadoop](https://github.com/spring-attic/spring-hadoop)/917 | Spring for Apache Hadoop is a framework for application developers to take advantage of the features of both Hadoop and Spring. |
+| 624 | 1287 | 5 | 6 years ago | [android_frameworks_base](https://github.com/CyanogenMod/android_frameworks_base)/918 | None |
+| 624 | 143 | 4 | 2 years ago | [MobileInfo](https://github.com/guxiaonian/MobileInfo)/919 | 【Android】Hardware Information. For detailed network diagnosis, please refer to【HttpInfo】 |
+| 624 | 303 | 15 | 2 months ago | [android-testdpc](https://github.com/googlesamples/android-testdpc)/920 | Test DPC is a sample device policy controller for use with Android Enterprise. It gives developers the ability to see how their app will behave in a managed context such as device owner or within a managed profile. Users can set up a work profile, enable work apps, set applications restrictions, manage security polices, and much more. The app also serves as a implementation reference for other DPCs |
+| 623 | 193 | 11 | 2 years ago | [sample-tensorflow-imageclassifier](https://github.com/androidthings/sample-tensorflow-imageclassifier)/921 | Classify camera images locally using TensorFlow models |
+| 622 | 653 | 3 | 5 years ago | [SpringMVC-Spring-MyBatis](https://github.com/KevinXie0131/SpringMVC-Spring-MyBatis)/922 | SpringMVC+Spring+MyBatis+Maven |
+| 622 | 153 | 5 | 9 days ago | [spring-file-storage](https://github.com/1171736840/spring-file-storage)/923 | 在 SpringBoot 中通过简单的方式将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 Samba、NFS |
+| 621 | 131 | 20 | 2 months ago | [android-audio-visualizer](https://github.com/GautamChibde/android-audio-visualizer)/924 |  :musical_score: :musical_keyboard: :musical_note: Audio visualisation for android MediaPlayer :sound: |
+| 621 | 82 | 12 | 4 months ago | [gradle-download-task](https://github.com/michel-kraemer/gradle-download-task)/925 | 📥 Adds a download task to Gradle that displays progress information |
+| 620 | 11 | 2 | 8 months ago | [yacy_grid_loader](https://github.com/yacy/yacy_grid_loader)/926 | A headless browser as loader microservice in the YaCy Grid |
+| 620 | 145 | 5 | 2 years ago | [OneAccount](https://github.com/LouBii/OneAccount)/927 | 一款简约风格的记账app |
+| 619 | 780 | 19 | 9 months ago | [desafio-poo-dio](https://github.com/cami-la/desafio-poo-dio)/928 | None |
+| 619 | 239 | 7 | 2 years ago | [android-wheel](https://github.com/maarek/android-wheel)/929 | Android Wheel Picker. |
+| 618 | 159 | 5 | 1 year, 6 months ago | [react-native-keep-awake](https://github.com/corbt/react-native-keep-awake)/930 | Keep the screen from going to sleep. iOS and Android. |
+| 618 | 193 | 0 | 1 year, 8 months ago | [Sword-pointing-to-offer](https://github.com/xurui1995/Sword-pointing-to-offer)/931 | 剑指offer java版实现   |
+| 618 | 308 | 3 | 6 months ago | [JavaFamily](https://github.com/chenjiabing666/JavaFamily)/932 | 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 |
+| 617 | 135 | 2 | 9 months ago | [FlatBuffer](https://github.com/amitshekhariitbhu/FlatBuffer)/933 | FlatBuffer : Android Sample Application |
+| 617 | 63 | 8 | 4 years ago | [ja-micro](https://github.com/Sixt/ja-micro)/934 | Lightweight framework for building java microservices |
+| 614 | 97 | 33 | 7 years ago | [dynjs](https://github.com/dynjs/dynjs)/935 | ECMAScript runtime for the JVM |
+| 614 | 226 | 203 | 2 years ago | [MozStumbler](https://github.com/mozilla/MozStumbler)/936 | Android Stumbler for Mozilla |
+| 614 | 67 | 15 | 3 years ago | [Snake](https://github.com/yuanhoujun/Snake)/937 | 使用Snake，Android也可以轻松实现类iOS侧滑返回效果 |
+| 613 | 397 | 39 | 6 years ago | [microservices](https://github.com/arun-gupta/microservices)/938 | Java EE and Microservices |
+| 613 | 527 | 27 | 3 years ago | [SpringIn28Minutes](https://github.com/in28minutes/SpringIn28Minutes)/939 | Spring Tutorial For Beginners |
+| 611 | 88 | 8 | 6 months ago | [PageTransformerHelp](https://github.com/OCNYang/PageTransformerHelp)/940 | :+1: A PageTransformer library for Android ViewPager,have some Banner styles.  ViewPager 实现轮播图、实现卡片切换。 |
+| 611 | 83 | 2 | 5 years ago | [CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView)/941 | Custom ImageView to generate captcha image. |
+| 610 | 157 | 0 | 4 years ago | [LBehavior](https://github.com/Lauzy/LBehavior)/942 | [NO LONGER SUPPORTED]Simple implementation of sliding animation of title bar, bottom bar and floatingActionButton. |
+| 610 | 376 | 8 | 3 years ago | [sharding-jdbc](https://github.com/yinjihuan/sharding-jdbc)/943 | sharding-jdbc 分库分表示例 |
+| 609 | 198 | 5 | a month ago | [oreon-engine](https://github.com/fynnfluegge/oreon-engine)/944 | OpenGL/Vulkan Java 3D Engine |
+| 608 | 191 | 14 | 1 year, 10 months ago | [yanagishima](https://github.com/yanagishima/yanagishima)/945 | Web UI for Trino, Hive and SparkSQL |
+| 608 | 20 | 14 | 4 days ago | [KeenWrite](https://github.com/DaveJarvis/KeenWrite)/946 | Free, open-source, cross-platform desktop Markdown text editor with live preview, string interpolation, and math. |
+| 607 | 187 | 13 | 1 year, 5 months ago | [FreeBook](https://github.com/80945540/FreeBook)/947 | 基于MVP模式开发的带缓存网络爬虫,采用最流行框架搭建,干货多多 |
+| 606 | 31 | 3 | 6 months ago | [react-native-header-view](https://github.com/WrathChaos/react-native-header-view)/948 | Fully customizable Header View with multiple design options for React Native. |
+| 605 | 178 | 6 | 9 months ago | [opengles4android](https://github.com/byhook/opengles4android)/949 | OpenGLES 3.0从零开始，绘制点、线、三角形、立方体，相机实时预览等等实践学习 |
+| 604 | 147 | 69 | 5 years ago | [paho.mqtt-spy](https://github.com/eclipse/paho.mqtt-spy)/950 | mqtt-spy is an open source desktop & command line utility intended to help you with monitoring activity on MQTT topics |
+| 604 | 863 | 2 | 8 months ago | [JavaCourseCodes](https://github.com/JavaCourse00/JavaCourseCodes)/951 | JavaCourse |
+| 601 | 218 | 18 | 4 years ago | [PhotoCropper](https://github.com/ryanhoo/PhotoCropper)/952 | The Ultimate Approach to crop photos on android devices, especially for large size photos. This way can help you avoid OOM(OutOfMemory) exception. |
+| 601 | 142 | 49 | 10 months ago | [LearningNotes](https://github.com/moxi624/LearningNotes)/953 | Java学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在蘑菇博客，如果对我的博客网站感兴趣的话，欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~ |
+| 599 | 216 | 17 | 6 years ago | [kstools](https://github.com/fourbrother/kstools)/954 | Android中自动爆破签名工具 |
+| 599 | 254 | 23 | 4 years ago | [Tmall_SSM](https://github.com/wmyskxz/Tmall_SSM)/955 | 模仿天猫项目SSM版（前端+后台） |
+| 598 | 110 | 9 | 7 years ago | [ShowTipsView](https://github.com/fredericojssilva/ShowTipsView)/956 | Highligth specific points of interest of your app |
+| 597 | 118 | 25 | 2 years ago | [react-native-dialogs](https://github.com/react-native-dialogs/react-native-dialogs)/957 | React Native wrappers for https://github.com/afollestad/material-dialogs |
+| 596 | 134 | 5 | 8 years ago | [Watch](https://github.com/tuesda/Watch)/958 | A project which demonstrate how to develop a custom client on android for dribbble.com |
+| 595 | 223 | 85 | 3 years ago | [samourai-wallet-android](https://github.com/Samourai-Wallet/samourai-wallet-android)/959 | Bitcoin Wallet strongly focused on privacy when transacting on the bitcoin network |
+| 595 | 97 | 22 | 4 months ago | [typetools](https://github.com/jhalterman/typetools)/960 | Tools for working with generic types |
+| 595 | 217 | 4 | 1 year, 3 months ago | [seckill](https://github.com/lewky/seckill)/961 | SSM实战项目——Java高并发秒杀API，详细流程+学习笔记 |
+| 595 | 632 | 39 | a day ago | [java](https://github.com/exercism/java)/962 | Exercism exercises in Java. |
+| 594 | 72 | 11 | 3 years ago | [RxActivityResult](https://github.com/VictorAlbertos/RxActivityResult)/963 | A reactive-tiny-badass-vindictive library to break with the OnActivityResult implementation as it breaks the observable chain. |
+| 594 | 322 | 247 | 3 months ago | [Galacticraft](https://github.com/micdoodle8/Galacticraft)/964 | An advanced Space Dimension Mod for Minecraft |
+| 592 | 71 | 241 | 5 days ago | [chunky](https://github.com/chunky-dev/chunky)/965 | A path tracer to create realistic images of your Minecraft worlds. |
+| 592 | 183 | 0 | 8 years ago | [XhsParallaxWelcome](https://github.com/w446108264/XhsParallaxWelcome)/966 | 小红书欢迎引导界面第一版(视差动画版) |
+| 591 | 114 | 5 | 3 years ago | [ZLoading](https://github.com/zyao89/ZLoading)/967 | [Android] 这是一个自定义Loading View库。暂停更新 |
+| 590 | 105 | 51 | 11 months ago | [blueflood](https://github.com/rax-maas/blueflood)/968 | A distributed system designed to ingest and process time series data |
+| 590 | 392 | 61 | 5 months ago | [java-saml](https://github.com/SAML-Toolkits/java-saml)/969 | Java SAML toolkit |
+| 589 | 106 | 4 | 7 years ago | [CardSlidePanel](https://github.com/taoliuh/CardSlidePanel)/970 | Based on https://github.com/xmuSistone/android-card-slide-panel.git |
+| 586 | 391 | 188 | 2 months ago | [react-native-twilio-video-webrtc](https://github.com/blackuy/react-native-twilio-video-webrtc)/971 | Twilio Video (WebRTC) for React Native |
+| 586 | 128 | 4 | 3 years ago | [wlmusic](https://github.com/wanliyang1990/wlmusic)/972 | 基于FFmpeg + OpenSL ES的音频播放SDK。可循环不间断播放短音频；播放raw和assets音频文件；可独立设置音量大小；可实时现在音量分贝大小（用于绘制波形图）；可改变音频播放速度和音调（变速不变调、变调不变速、变速又变调）；可设置播放声道（左声道、右声道和立体声）；可边播边录留住美好音乐；可裁剪指定时间段的音频，制作自己的彩铃；还可以从中获取音频原始PCM数据(可指定采样率)，方便二次开发等。 |
+| 584 | 101 | 6 | 9 months ago | [GlideBitmapPool](https://github.com/amitshekhariitbhu/GlideBitmapPool)/973 | Glide Bitmap Pool is a memory management library for reusing the bitmap memory |
+| 584 | 336 | 2 | 3 years ago | [Android-Material-Design-for-pre-Lollipop](https://github.com/Suleiman19/Android-Material-Design-for-pre-Lollipop)/974 | Various UI implementations, animations & effects  based on Material Design compatible with pre Lollipop devices as well. (Work in progess) |
+| 583 | 95 | 2 | 7 years ago | [Android-UndoBar](https://github.com/jenzz/Android-UndoBar)/975 | [DEPRECATED] An implementation of Android's Undo Bar as seen in Google's Gmail app. |
+| 583 | 77 | 2 | 3 years ago | [sqlmap4burp-plus-plus](https://github.com/c0ny1/sqlmap4burp-plus-plus)/976 | sqlmap4burp++是一款兼容Windows，mac，linux多个系统平台的Burp与sqlmap联动插件 |
+| 581 | 151 | 71 | 4 months ago | [jvppeteer](https://github.com/fanyong920/jvppeteer)/977 | Headless Chrome For Java （Java 爬虫） |
+| 580 | 1692 | 28 | 7 years ago | [POSA-14](https://github.com/douglascraigschmidt/POSA-14)/978 | This repository contains assignments and examples for the 2014 offering of the POSA MOOC (see www.coursera.org/course/posa for more information) |
+| 579 | 320 | 14 | 4 years ago | [xdiamond](https://github.com/hengyunabc/xdiamond)/979 | 全局配置中心 |
+| 579 | 170 | 13 | 7 years ago | [AnimRefreshRecyclerView](https://github.com/shichaohui/AnimRefreshRecyclerView)/980 | 下拉刷新和上拉加载更多的RecyclerView，具有下拉和刷新动画。 |
+| 579 | 151 | 22 | 2 months ago | [LoggerPlusPlus](https://github.com/nccgroup/LoggerPlusPlus)/981 | Advanced Burp Suite Logging Extension |
+| 578 | 238 | 5 | 3 years ago | [Taroco](https://github.com/liuht777/Taroco)/982 | 整合Nacos、Spring Cloud Alibaba，提供了一系列starter组件， 同时提供服务治理、服务监控、OAuth2权限认证，支持服务降级/熔断、服务权重,前端采用vue+elementUI+webpack，可以很好的解决转向Spring Cloud的一系列问题。 |
+| 578 | 201 | 24 | 10 months ago | [osmbonuspack](https://github.com/MKergall/osmbonuspack)/983 | A third-party library of (very) useful additional objects for osmdroid |
+| 577 | 97 | 0 | 4 years ago | [DraggedViewPager](https://github.com/yueban/DraggedViewPager)/984 | (Deprecated) A View whose pages and items both can be dragged, looking like a ViewPager  |
+| 575 | 353 | 10 | 7 years ago | [LoonAndroid](https://github.com/gdpancheng/LoonAndroid)/985 |  整个框架式不同于androidannotations，Roboguice等ioc框架，这是一个类似spring的实现方式。在整应用的生命周期中找到切入点，然后对activity的生命周期进行拦截，然后插入自己的功能。 |
+| 575 | 100 | 0 | 6 months ago | [ContourView](https://github.com/OCNYang/ContourView)/986 | :unicorn: 利用本库绘制出贝塞尔曲线魔炫背景。Customize view:Draw the magic dazzle background with Bézier.  |
+| 575 | 81 | 0 | 6 years ago | [BubbleAnimationLayout](https://github.com/Cleveroad/BubbleAnimationLayout)/987 | You don’t want your apps look and feel boring, do you? Add some bubbles! |
+| 574 | 99 | 0 | 6 years ago | [AvatarLabelView](https://github.com/yanbober/AvatarLabelView)/988 | 一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。 |
+| 574 | 208 | 102 | 6 months ago | [syndesis](https://github.com/syndesisio/syndesis)/989 | A flexible, customizable, open source platform that provides core integration capabilities as a service. |
+| 573 | 250 | 19 | 4 years ago | [android-network-discovery](https://github.com/rorist/android-network-discovery)/990 | Android network tool: Discover hosts and scan their ports, in your Wifi/3G network. |
+| 573 | 119 | 29 | 7 years ago | [denominator](https://github.com/Netflix/denominator)/991 | Portably control DNS clouds using java or bash |
+| 571 | 245 | 328 | 1 year, 3 months ago | [webprotege](https://github.com/protegeproject/webprotege)/992 | The webprotege code base |
+| 571 | 162 | 2 | 1 year, 9 months ago | [GankMM](https://github.com/maning0303/GankMM)/993 | （Material Design & MVP & Retrofit + OKHttp & RecyclerView ...）Gank.io Android客户端：每天一张美女图片，一个视频短片，若干Android，iOS等程序干货，周一到周五每天更新，数据全部由 干货集中营 提供。 |
+| 571 | 168 | 29 | 2 years ago | [Android-Zxing](https://github.com/mylhyl/Android-Zxing)/994 | android google zxing 可配置扫描框、线样式 ，生成二维码（文字、联系人） |
+| 571 | 125 | 9 | 8 years ago | [LinearListView](https://github.com/frankiesardo/LinearListView)/995 | Android library that allows you to bind a LinearLayout with a ListAdapter.  |
+| 571 | 353 | 106 | 3 months ago | [OneSignal-Android-SDK](https://github.com/OneSignal/OneSignal-Android-SDK)/996 | OneSignal is a free push notification service for mobile apps. This plugin makes it easy to integrate your native Android or Amazon app with OneSignal. https://onesignal.com |
+| 570 | 238 | 33 | 3 years ago | [uflo](https://github.com/youseries/uflo)/997 | UFLO是一款基于Spring的纯Java流程引擎，支持并行、动态并行、串行、会签等各种流转方式。 |
+| 569 | 118 | 32 | 2 years ago | [PinView](https://github.com/ChaosLeung/PinView)/998 | A PIN view library for Android. Use to enter PIN/OTP/password etc. |
+| 569 | 119 | 2 | 2 years ago | [Idaily](https://github.com/liuguangqiang/Idaily)/999 | 使用data binding , dagger2 , retrofit2和rxjava实现的，基于MVVM的知乎日报APP。 |
+| 569 | 225 | 17 | 7 years ago | [Remindly](https://github.com/blanyal/Remindly)/1000 | Remindly is a simple and user friendly Android application to create reminders. |
